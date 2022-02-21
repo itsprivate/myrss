@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>👋 RSS for Owen</title>
+        <link>https://myrss.owenyoung.com</link>
+        <description>Owen的英文译文RSS</description>
+        <lastBuildDate>Mon, 21 Feb 2022 05:42:54 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-Hant</language>
+        <image>
+            <title>👋 RSS for Owen</title>
+            <url>http://example.com/image.png</url>
+            <link>https://myrss.owenyoung.com</link>
+        </image>
+        <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[否認，直到我們死去]]></title>
+            <link>https://www.currentaffairs.org/2022/02/deny-until-we-die/</link>
+            <guid>https://www.currentaffairs.org/2022/02/deny-until-we-die/</guid>
+            <pubDate>Thu, 17 Feb 2022 13:51:11 GMT</pubDate>
+            <description><![CDATA[Deny Until We Die]]></description>
+        </item>
+        <item>
+            <title><![CDATA[博客更新]]></title>
+            <link>https://blackgnu.net/blog/blog-update.html</link>
+            <guid>https://blackgnu.net/blog/blog-update.html</guid>
+            <pubDate>Sat, 05 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Blog update]]></description>
+        </item>
+    </channel>
+</rss>

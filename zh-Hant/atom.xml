@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://myrss.owenyoung.com</id>
+    <title>👋 RSS for Owen</title>
+    <updated>2022-02-21T05:42:54.711Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>Buzzing</name>
+        <email>hello@buzzing.cc</email>
+        <uri>https://myrss.owenyoung.com</uri>
+    </author>
+    <link rel="alternate" href="https://myrss.owenyoung.com"/>
+    <link rel="self" href="https://myrss.owenyoung.com/atom.xml"/>
+    <subtitle>Owen的英文译文RSS</subtitle>
+    <logo>http://example.com/image.png</logo>
+    <icon>https://myrss.owenyoung.com/favicon.ico</icon>
+    <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[否認，直到我們死去]]></title>
+        <id>https://www.currentaffairs.org/2022/02/deny-until-we-die/</id>
+        <link href="https://www.currentaffairs.org/2022/02/deny-until-we-die/"/>
+        <updated>2022-02-17T13:51:11.000Z</updated>
+        <summary type="html"><![CDATA[Deny Until We Die]]></summary>
+        <author>
+            <name>Mickey Butts</name>
+            <uri>https://www.currentaffairs.org/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[博客更新]]></title>
+        <id>https://blackgnu.net/blog/blog-update.html</id>
+        <link href="https://blackgnu.net/blog/blog-update.html"/>
+        <updated>2022-02-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Blog update]]></summary>
+        <author>
+            <name>Werwolf</name>
+            <uri>https://blackgnu.net/atom.xml</uri>
+        </author>
+    </entry>
+</feed>

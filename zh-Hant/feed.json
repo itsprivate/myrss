@@ -1,0 +1,38 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "👋 RSS for Owen",
+    "home_page_url": "https://myrss.owenyoung.com",
+    "feed_url": "https://myrss.owenyoung.com/feed.json",
+    "description": "Owen的英文译文RSS",
+    "icon": "http://example.com/image.png",
+    "author": {
+        "name": "Buzzing",
+        "url": "https://myrss.owenyoung.com"
+    },
+    "items": [
+        {
+            "id": "https://www.currentaffairs.org/2022/02/deny-until-we-die/",
+            "content_html": "",
+            "url": "https://www.currentaffairs.org/2022/02/deny-until-we-die/",
+            "title": "否認，直到我們死去",
+            "summary": "Deny Until We Die",
+            "date_modified": "2022-02-17T13:51:11.000Z",
+            "author": {
+                "name": "Mickey Butts",
+                "url": "https://www.currentaffairs.org/feed"
+            }
+        },
+        {
+            "id": "https://blackgnu.net/blog/blog-update.html",
+            "content_html": "",
+            "url": "https://blackgnu.net/blog/blog-update.html",
+            "title": "博客更新",
+            "summary": "Blog update",
+            "date_modified": "2022-02-05T00:00:00.000Z",
+            "author": {
+                "name": "Werwolf",
+                "url": "https://blackgnu.net/atom.xml"
+            }
+        }
+    ]
+}
