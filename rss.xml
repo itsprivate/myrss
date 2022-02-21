@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 21 Feb 2022 06:42:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 17:41:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[万亿和万亿。对无尽经济增长的选择性失明]]></title>
+            <link>https://www.currentaffairs.org/2022/02/trillions-and-trillions-the-selective-blindness-on-endless-economic-growth/</link>
+            <guid>https://www.currentaffairs.org/2022/02/trillions-and-trillions-the-selective-blindness-on-endless-economic-growth/</guid>
+            <pubDate>Mon, 21 Feb 2022 12:36:42 GMT</pubDate>
+            <description><![CDATA[Trillions and Trillions: The Selective Blindness on Endless Economic Growth]]></description>
+        </item>
         <item>
             <title><![CDATA[数据科学与法律的结合]]></title>
             <link>http://cacm.acm.org/magazines/2022/2/258224-data-science-meets-law</link>
