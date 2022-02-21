@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-02-21T06:38:46.944Z</updated>
+    <updated>2022-02-21T06:42:53.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,259 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[数据科学与法律的结合]]></title>
+        <id>http://cacm.acm.org/magazines/2022/2/258224-data-science-meets-law</id>
+        <link href="http://cacm.acm.org/magazines/2022/2/258224-data-science-meets-law"/>
+        <updated>2022-02-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Data Science Meets Law]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[隐形特工]]></title>
+        <id>http://cacm.acm.org/magazines/2022/2/258237-agent-invisible</id>
+        <link href="http://cacm.acm.org/magazines/2022/2/258237-agent-invisible"/>
+        <updated>2022-02-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Agent Invisible]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技术视角。模型结构使状态估计不再是猜测的工作]]></title>
+        <id>http://cacm.acm.org/magazines/2022/2/258236-technical-perspective-model-structure-takes-guesswork-out-of-state-estimation</id>
+        <link href="http://cacm.acm.org/magazines/2022/2/258236-technical-perspective-model-structure-takes-guesswork-out-of-state-estimation"/>
+        <updated>2022-02-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Technical Perspective: Model Structure Takes Guesswork Out of State Estimation]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[支持自闭症谱系障碍患者探索PoIs的工作]]></title>
+        <id>http://cacm.acm.org/magazines/2022/2/258235-supporting-people-with-autism-spectrum-disorders-in-the-exploration-of-pois</id>
+        <link href="http://cacm.acm.org/magazines/2022/2/258235-supporting-people-with-autism-spectrum-disorders-in-the-exploration-of-pois"/>
+        <updated>2022-02-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Supporting People with Autism Spectrum Disorders in the Exploration of PoIs]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[交换式线性系统状态估计的最坏情况下的拓扑熵和最小数据率]]></title>
+        <id>http://cacm.acm.org/magazines/2022/2/258234-worst-case-topological-entropy-and-minimal-data-rate-for-state-estimation-of-switched-linear-systems</id>
+        <link href="http://cacm.acm.org/magazines/2022/2/258234-worst-case-topological-entropy-and-minimal-data-rate-for-state-estimation-of-switched-linear-systems"/>
+        <updated>2022-02-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Worst-Case Topological Entropy and Minimal Data Rate for State Estimation of Switched Linear Systems]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技术视角。向自闭症患者个性化推荐PoIs]]></title>
+        <id>http://cacm.acm.org/magazines/2022/2/258233-technical-perspective-personalized-recommendation-of-pois-to-people-with-autism</id>
+        <link href="http://cacm.acm.org/magazines/2022/2/258233-technical-perspective-personalized-recommendation-of-pois-to-people-with-autism"/>
+        <updated>2022-02-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Technical Perspective: Personalized Recommendation of PoIs to People with Autism]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[维护在线社交网络的诚信]]></title>
+        <id>http://cacm.acm.org/magazines/2022/2/258232-preserving-integrity-in-online-social-networks</id>
+        <link href="http://cacm.acm.org/magazines/2022/2/258232-preserving-integrity-in-online-social-networks"/>
+        <updated>2022-02-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Preserving Integrity in Online Social Networks]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[抽象，它们的算法，以及它们的编译器]]></title>
+        <id>http://cacm.acm.org/magazines/2022/2/258231-abstractions-their-algorithms-and-their-compilers</id>
+        <link href="http://cacm.acm.org/magazines/2022/2/258231-abstractions-their-algorithms-and-their-compilers"/>
+        <updated>2022-02-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Abstractions, Their Algorithms, and Their Compilers]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用AlphaZero重新想象国际象棋]]></title>
+        <id>http://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero</id>
+        <link href="http://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero"/>
+        <updated>2022-02-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Reimagining Chess with AlphaZero]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[主题新颖性如何影响新闻真实性干预的有效性]]></title>
+        <id>http://cacm.acm.org/magazines/2022/2/258229-how-topic-novelty-impacts-the-effectiveness-of-news-veracity-interventions</id>
+        <link href="http://cacm.acm.org/magazines/2022/2/258229-how-topic-novelty-impacts-the-effectiveness-of-news-veracity-interventions"/>
+        <updated>2022-02-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How Topic Novelty Impacts the Effectiveness of News Veracity Interventions]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为静态分析工具设计用户界面]]></title>
+        <id>http://cacm.acm.org/magazines/2022/2/258228-designing-uis-for-static-analysis-tools</id>
+        <link href="http://cacm.acm.org/magazines/2022/2/258228-designing-uis-for-static-analysis-tools"/>
+        <updated>2022-02-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Designing UIs for Static-Analysis Tools]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[静态分析在GitHub]]></title>
+        <id>http://cacm.acm.org/magazines/2022/2/258227-static-analysis-at-github</id>
+        <link href="http://cacm.acm.org/magazines/2022/2/258227-static-analysis-at-github"/>
+        <updated>2022-02-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Static Analysis at GitHub]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[媒介化的在线话语的一个勇敢的新世界]]></title>
+        <id>http://cacm.acm.org/magazines/2022/2/258226-a-brave-new-world-of-mediated-online-discourse</id>
+        <link href="http://cacm.acm.org/magazines/2022/2/258226-a-brave-new-world-of-mediated-online-discourse"/>
+        <updated>2022-02-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Brave New World of Mediated Online Discourse]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你的自动驾驶汽车是否像你预期的那样智能？]]></title>
+        <id>http://cacm.acm.org/magazines/2022/2/258225-is-your-autonomous-vehicle-as-smart-as-you-expected</id>
+        <link href="http://cacm.acm.org/magazines/2022/2/258225-is-your-autonomous-vehicle-as-smart-as-you-expected"/>
+        <updated>2022-02-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Is Your Autonomous Vehicle as Smart as You Expected?]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[成为普世的一员]]></title>
+        <id>http://cacm.acm.org/magazines/2022/2/258223-becoming-universal</id>
+        <link href="http://cacm.acm.org/magazines/2022/2/258223-becoming-universal"/>
+        <updated>2022-02-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Becoming Universal]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我拔掉了什么插头？]]></title>
+        <id>http://cacm.acm.org/magazines/2022/2/258222-i-unplugged-what</id>
+        <link href="http://cacm.acm.org/magazines/2022/2/258222-i-unplugged-what"/>
+        <updated>2022-02-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I Unplugged What?]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[隐性人物的生活在计算机科学教育中很重要]]></title>
+        <id>http://cacm.acm.org/magazines/2022/2/258221-the-lives-of-hidden-figures-matter-in-computer-science-education</id>
+        <link href="http://cacm.acm.org/magazines/2022/2/258221-the-lives-of-hidden-figures-matter-in-computer-science-education"/>
+        <updated>2022-02-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Lives of Hidden Figures Matter in Computer Science Education]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人工智能、机器学习和消除世界饥饿的斗争]]></title>
+        <id>http://cacm.acm.org/magazines/2022/2/258220-artificial-intelligence-machine-learning-and-the-fight-against-world-hunger</id>
+        <link href="http://cacm.acm.org/magazines/2022/2/258220-artificial-intelligence-machine-learning-and-the-fight-against-world-hunger"/>
+        <updated>2022-02-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Artificial Intelligence, Machine Learning, and the Fight Against World Hunger]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[虚拟复制品]]></title>
+        <id>http://cacm.acm.org/magazines/2022/2/258219-virtual-duplicates</id>
+        <link href="http://cacm.acm.org/magazines/2022/2/258219-virtual-duplicates"/>
+        <updated>2022-02-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Virtual Duplicates]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解决 "为什么 "的问题]]></title>
+        <id>http://cacm.acm.org/magazines/2022/2/258218-solving-for-why</id>
+        <link href="http://cacm.acm.org/magazines/2022/2/258218-solving-for-why"/>
+        <updated>2022-02-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Solving for Why]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[脸书的问题]]></title>
+        <id>http://cacm.acm.org/magazines/2022/2/258217-the-trouble-with-facebook</id>
+        <link href="http://cacm.acm.org/magazines/2022/2/258217-the-trouble-with-facebook"/>
+        <updated>2022-02-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Trouble with Facebook]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[智能手机，我如何依靠你？]]></title>
+        <id>http://cacm.acm.org/magazines/2022/2/258216-how-do-i-rely-on-thee-smartphone</id>
+        <link href="http://cacm.acm.org/magazines/2022/2/258216-how-do-i-rely-on-thee-smartphone"/>
+        <updated>2022-02-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How Do I Rely on Thee, Smartphone?]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACM奖项计划中的道德和价值观]]></title>
+        <id>http://cacm.acm.org/magazines/2022/2/258215-ethics-and-values-in-the-acm-awards-program</id>
+        <link href="http://cacm.acm.org/magazines/2022/2/258215-ethics-and-values-in-the-acm-awards-program"/>
+        <updated>2022-02-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ethics and Values in the ACM Awards Program]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[媒体对气候的报道是不可否认的]]></title>
         <id>https://www.currentaffairs.org/2022/01/the-medias-climate-coverage-is-indefensible/</id>

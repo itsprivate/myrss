@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 21 Feb 2022 06:38:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 06:42:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,167 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[數據科學與法律的結合]]></title>
+            <link>http://cacm.acm.org/magazines/2022/2/258224-data-science-meets-law</link>
+            <guid>http://cacm.acm.org/magazines/2022/2/258224-data-science-meets-law</guid>
+            <pubDate>Tue, 01 Feb 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[Data Science Meets Law]]></description>
+        </item>
+        <item>
+            <title><![CDATA[隱形特工]]></title>
+            <link>http://cacm.acm.org/magazines/2022/2/258237-agent-invisible</link>
+            <guid>http://cacm.acm.org/magazines/2022/2/258237-agent-invisible</guid>
+            <pubDate>Tue, 01 Feb 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[Agent Invisible]]></description>
+        </item>
+        <item>
+            <title><![CDATA[技術視角。模型結構使狀態估計不再是猜測的工作]]></title>
+            <link>http://cacm.acm.org/magazines/2022/2/258236-technical-perspective-model-structure-takes-guesswork-out-of-state-estimation</link>
+            <guid>http://cacm.acm.org/magazines/2022/2/258236-technical-perspective-model-structure-takes-guesswork-out-of-state-estimation</guid>
+            <pubDate>Tue, 01 Feb 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[Technical Perspective: Model Structure Takes Guesswork Out of State Estimation]]></description>
+        </item>
+        <item>
+            <title><![CDATA[支持自閉症譜系障礙患者探索PoIs的工作]]></title>
+            <link>http://cacm.acm.org/magazines/2022/2/258235-supporting-people-with-autism-spectrum-disorders-in-the-exploration-of-pois</link>
+            <guid>http://cacm.acm.org/magazines/2022/2/258235-supporting-people-with-autism-spectrum-disorders-in-the-exploration-of-pois</guid>
+            <pubDate>Tue, 01 Feb 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[Supporting People with Autism Spectrum Disorders in the Exploration of PoIs]]></description>
+        </item>
+        <item>
+            <title><![CDATA[交換式線性系統狀態估計的最壞情況下的拓撲熵和最小數據率]]></title>
+            <link>http://cacm.acm.org/magazines/2022/2/258234-worst-case-topological-entropy-and-minimal-data-rate-for-state-estimation-of-switched-linear-systems</link>
+            <guid>http://cacm.acm.org/magazines/2022/2/258234-worst-case-topological-entropy-and-minimal-data-rate-for-state-estimation-of-switched-linear-systems</guid>
+            <pubDate>Tue, 01 Feb 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[Worst-Case Topological Entropy and Minimal Data Rate for State Estimation of Switched Linear Systems]]></description>
+        </item>
+        <item>
+            <title><![CDATA[技術視角。向自閉症患者個性化推薦PoIs]]></title>
+            <link>http://cacm.acm.org/magazines/2022/2/258233-technical-perspective-personalized-recommendation-of-pois-to-people-with-autism</link>
+            <guid>http://cacm.acm.org/magazines/2022/2/258233-technical-perspective-personalized-recommendation-of-pois-to-people-with-autism</guid>
+            <pubDate>Tue, 01 Feb 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[Technical Perspective: Personalized Recommendation of PoIs to People with Autism]]></description>
+        </item>
+        <item>
+            <title><![CDATA[維護在線社交網絡的誠信]]></title>
+            <link>http://cacm.acm.org/magazines/2022/2/258232-preserving-integrity-in-online-social-networks</link>
+            <guid>http://cacm.acm.org/magazines/2022/2/258232-preserving-integrity-in-online-social-networks</guid>
+            <pubDate>Tue, 01 Feb 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[Preserving Integrity in Online Social Networks]]></description>
+        </item>
+        <item>
+            <title><![CDATA[抽象，它們的算法，以及它們的編譯器]]></title>
+            <link>http://cacm.acm.org/magazines/2022/2/258231-abstractions-their-algorithms-and-their-compilers</link>
+            <guid>http://cacm.acm.org/magazines/2022/2/258231-abstractions-their-algorithms-and-their-compilers</guid>
+            <pubDate>Tue, 01 Feb 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[Abstractions, Their Algorithms, and Their Compilers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用AlphaZero重新想象國際象棋]]></title>
+            <link>http://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero</link>
+            <guid>http://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero</guid>
+            <pubDate>Tue, 01 Feb 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[Reimagining Chess with AlphaZero]]></description>
+        </item>
+        <item>
+            <title><![CDATA[主題新穎性如何影響新聞真實性干預的有效性]]></title>
+            <link>http://cacm.acm.org/magazines/2022/2/258229-how-topic-novelty-impacts-the-effectiveness-of-news-veracity-interventions</link>
+            <guid>http://cacm.acm.org/magazines/2022/2/258229-how-topic-novelty-impacts-the-effectiveness-of-news-veracity-interventions</guid>
+            <pubDate>Tue, 01 Feb 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[How Topic Novelty Impacts the Effectiveness of News Veracity Interventions]]></description>
+        </item>
+        <item>
+            <title><![CDATA[為靜態分析工具設計用戶界面]]></title>
+            <link>http://cacm.acm.org/magazines/2022/2/258228-designing-uis-for-static-analysis-tools</link>
+            <guid>http://cacm.acm.org/magazines/2022/2/258228-designing-uis-for-static-analysis-tools</guid>
+            <pubDate>Tue, 01 Feb 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[Designing UIs for Static-Analysis Tools]]></description>
+        </item>
+        <item>
+            <title><![CDATA[靜態分析在GitHub]]></title>
+            <link>http://cacm.acm.org/magazines/2022/2/258227-static-analysis-at-github</link>
+            <guid>http://cacm.acm.org/magazines/2022/2/258227-static-analysis-at-github</guid>
+            <pubDate>Tue, 01 Feb 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[Static Analysis at GitHub]]></description>
+        </item>
+        <item>
+            <title><![CDATA[媒介化的在線話語的一個勇敢的新世界]]></title>
+            <link>http://cacm.acm.org/magazines/2022/2/258226-a-brave-new-world-of-mediated-online-discourse</link>
+            <guid>http://cacm.acm.org/magazines/2022/2/258226-a-brave-new-world-of-mediated-online-discourse</guid>
+            <pubDate>Tue, 01 Feb 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[A Brave New World of Mediated Online Discourse]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你的自動駕駛汽車是否像你預期的那樣智能？]]></title>
+            <link>http://cacm.acm.org/magazines/2022/2/258225-is-your-autonomous-vehicle-as-smart-as-you-expected</link>
+            <guid>http://cacm.acm.org/magazines/2022/2/258225-is-your-autonomous-vehicle-as-smart-as-you-expected</guid>
+            <pubDate>Tue, 01 Feb 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[Is Your Autonomous Vehicle as Smart as You Expected?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[成為普世的一員]]></title>
+            <link>http://cacm.acm.org/magazines/2022/2/258223-becoming-universal</link>
+            <guid>http://cacm.acm.org/magazines/2022/2/258223-becoming-universal</guid>
+            <pubDate>Tue, 01 Feb 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[Becoming Universal]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我拔掉了什麼插頭？]]></title>
+            <link>http://cacm.acm.org/magazines/2022/2/258222-i-unplugged-what</link>
+            <guid>http://cacm.acm.org/magazines/2022/2/258222-i-unplugged-what</guid>
+            <pubDate>Tue, 01 Feb 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[I Unplugged What?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[隱性人物的生活在計算機科學教育中很重要]]></title>
+            <link>http://cacm.acm.org/magazines/2022/2/258221-the-lives-of-hidden-figures-matter-in-computer-science-education</link>
+            <guid>http://cacm.acm.org/magazines/2022/2/258221-the-lives-of-hidden-figures-matter-in-computer-science-education</guid>
+            <pubDate>Tue, 01 Feb 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[The Lives of Hidden Figures Matter in Computer Science Education]]></description>
+        </item>
+        <item>
+            <title><![CDATA[人工智能、機器學習和消除世界飢餓的鬥爭]]></title>
+            <link>http://cacm.acm.org/magazines/2022/2/258220-artificial-intelligence-machine-learning-and-the-fight-against-world-hunger</link>
+            <guid>http://cacm.acm.org/magazines/2022/2/258220-artificial-intelligence-machine-learning-and-the-fight-against-world-hunger</guid>
+            <pubDate>Tue, 01 Feb 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[Artificial Intelligence, Machine Learning, and the Fight Against World Hunger]]></description>
+        </item>
+        <item>
+            <title><![CDATA[虛擬複製品]]></title>
+            <link>http://cacm.acm.org/magazines/2022/2/258219-virtual-duplicates</link>
+            <guid>http://cacm.acm.org/magazines/2022/2/258219-virtual-duplicates</guid>
+            <pubDate>Tue, 01 Feb 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[Virtual Duplicates]]></description>
+        </item>
+        <item>
+            <title><![CDATA[解決 "為什麼 "的問題]]></title>
+            <link>http://cacm.acm.org/magazines/2022/2/258218-solving-for-why</link>
+            <guid>http://cacm.acm.org/magazines/2022/2/258218-solving-for-why</guid>
+            <pubDate>Tue, 01 Feb 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[Solving for Why]]></description>
+        </item>
+        <item>
+            <title><![CDATA[臉書的問題]]></title>
+            <link>http://cacm.acm.org/magazines/2022/2/258217-the-trouble-with-facebook</link>
+            <guid>http://cacm.acm.org/magazines/2022/2/258217-the-trouble-with-facebook</guid>
+            <pubDate>Tue, 01 Feb 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[The Trouble with Facebook]]></description>
+        </item>
+        <item>
+            <title><![CDATA[智能手機，我如何依靠你？]]></title>
+            <link>http://cacm.acm.org/magazines/2022/2/258216-how-do-i-rely-on-thee-smartphone</link>
+            <guid>http://cacm.acm.org/magazines/2022/2/258216-how-do-i-rely-on-thee-smartphone</guid>
+            <pubDate>Tue, 01 Feb 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[How Do I Rely on Thee, Smartphone?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[ACM獎項計劃中的道德和價值觀]]></title>
+            <link>http://cacm.acm.org/magazines/2022/2/258215-ethics-and-values-in-the-acm-awards-program</link>
+            <guid>http://cacm.acm.org/magazines/2022/2/258215-ethics-and-values-in-the-acm-awards-program</guid>
+            <pubDate>Tue, 01 Feb 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[Ethics and Values in the ACM Awards Program]]></description>
+        </item>
         <item>
             <title><![CDATA[媒體對氣候的報道是不可否認的]]></title>
             <link>https://www.currentaffairs.org/2022/01/the-medias-climate-coverage-is-indefensible/</link>
