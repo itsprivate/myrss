@@ -11,6 +11,846 @@
     },
     "items": [
         {
+            "id": "https://www.mooreds.com/wordpress/archives/3369",
+            "content_html": "",
+            "url": "https://www.mooreds.com/wordpress/archives/3369",
+            "title": "關於靜態網站生成器和WordPress的思考",
+            "summary": "Thoughts on static site generators and WordPress",
+            "date_modified": "2020-07-17T21:32:24.000Z",
+            "author": {
+                "name": "moore",
+                "url": "http://edit.mooreds.com/wordpress/feed"
+            }
+        },
+        {
+            "id": "https://www.mooreds.com/wordpress/archives/3376",
+            "content_html": "",
+            "url": "https://www.mooreds.com/wordpress/archives/3376",
+            "title": "我希望我在剛開始做開發時就知道的事",
+            "summary": "What I wish I had known when I was starting out as a developer",
+            "date_modified": "2020-08-02T15:59:53.000Z",
+            "author": {
+                "name": "moore",
+                "url": "http://edit.mooreds.com/wordpress/feed"
+            }
+        },
+        {
+            "id": "https://www.mooreds.com/wordpress/archives/3392",
+            "content_html": "",
+            "url": "https://www.mooreds.com/wordpress/archives/3392",
+            "title": "書評。一段名為帝國的記憶",
+            "summary": "Book Review: A Memory Called Empire",
+            "date_modified": "2020-09-22T02:54:22.000Z",
+            "author": {
+                "name": "moore",
+                "url": "http://edit.mooreds.com/wordpress/feed"
+            }
+        },
+        {
+            "id": "https://www.mooreds.com/wordpress/archives/3395",
+            "content_html": "",
+            "url": "https://www.mooreds.com/wordpress/archives/3395",
+            "title": "快速瀏覽xkit",
+            "summary": "A quick look at xkit",
+            "date_modified": "2020-10-17T12:34:24.000Z",
+            "author": {
+                "name": "moore",
+                "url": "http://edit.mooreds.com/wordpress/feed"
+            }
+        },
+        {
+            "id": "https://www.mooreds.com/wordpress/archives/3398",
+            "content_html": "",
+            "url": "https://www.mooreds.com/wordpress/archives/3398",
+            "title": "書評。生活中的算法",
+            "summary": "Book Review: Algorithms to live by",
+            "date_modified": "2020-11-11T12:34:00.000Z",
+            "author": {
+                "name": "moore",
+                "url": "http://edit.mooreds.com/wordpress/feed"
+            }
+        },
+        {
+            "id": "https://www.mooreds.com/wordpress/archives/3405",
+            "content_html": "",
+            "url": "https://www.mooreds.com/wordpress/archives/3405",
+            "title": "書評。布穀鳥的蛋",
+            "summary": "Book Review: The Cuckoo’s Egg",
+            "date_modified": "2020-12-09T13:10:00.000Z",
+            "author": {
+                "name": "moore",
+                "url": "http://edit.mooreds.com/wordpress/feed"
+            }
+        },
+        {
+            "id": "https://www.mooreds.com/wordpress/archives/3409",
+            "content_html": "",
+            "url": "https://www.mooreds.com/wordpress/archives/3409",
+            "title": "最不被重視的AWS服務",
+            "summary": "The most underappreciated AWS service",
+            "date_modified": "2021-01-20T16:35:00.000Z",
+            "author": {
+                "name": "moore",
+                "url": "http://edit.mooreds.com/wordpress/feed"
+            }
+        },
+        {
+            "id": "https://www.mooreds.com/wordpress/archives/3429",
+            "content_html": "",
+            "url": "https://www.mooreds.com/wordpress/archives/3429",
+            "title": "Slack無法打開，出現NS_ERROR_DOM_ABORT_ERR錯誤",
+            "summary": "Slack failing to open with NS_ERROR_DOM_ABORT_ERR error",
+            "date_modified": "2021-02-01T15:35:28.000Z",
+            "author": {
+                "name": "moore",
+                "url": "http://edit.mooreds.com/wordpress/feed"
+            }
+        },
+        {
+            "id": "https://www.mooreds.com/wordpress/archives/3438",
+            "content_html": "",
+            "url": "https://www.mooreds.com/wordpress/archives/3438",
+            "title": "公共雲時代的開源軟件商業模式問題",
+            "summary": "Open source software business model concerns in the age of the public cloud",
+            "date_modified": "2021-03-13T17:31:44.000Z",
+            "author": {
+                "name": "moore",
+                "url": "http://edit.mooreds.com/wordpress/feed"
+            }
+        },
+        {
+            "id": "https://www.mooreds.com/wordpress/archives/3445",
+            "content_html": "",
+            "url": "https://www.mooreds.com/wordpress/archives/3445",
+            "title": "關於尋找技術聯合創始人的建議",
+            "summary": "Advice for finding a technical co-founder",
+            "date_modified": "2021-04-03T17:09:02.000Z",
+            "author": {
+                "name": "moore",
+                "url": "http://edit.mooreds.com/wordpress/feed"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/daily-comment/nordic-skiing-and-the-race-to-defy-expectations-in-beijing",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/daily-comment/nordic-skiing-and-the-race-to-defy-expectations-in-beijing",
+            "title": "北歐滑雪和在北京的比賽違背了人們的期望",
+            "summary": "Nordic Skiing and the Race to Defy Expectations in Beijing",
+            "date_modified": "2022-02-07T22:36:35.000Z",
+            "author": {
+                "name": "Bill McKibben",
+                "url": "https://www.newyorker.com/feed/news/daily-comment"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/daily-comment/why-puerto-rico-is-mourning-a-musician",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/daily-comment/why-puerto-rico-is-mourning-a-musician",
+            "title": "為什麼波多黎各正在哀悼一位音樂家",
+            "summary": "Why Puerto Rico Is Mourning a Musician",
+            "date_modified": "2022-02-10T00:32:42.000Z",
+            "author": {
+                "name": "Graciela Mochkofsky",
+                "url": "https://www.newyorker.com/feed/news/daily-comment"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/daily-comment/what-the-involution-olympics-in-beijing-suggest-about-chinas-future",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/daily-comment/what-the-involution-olympics-in-beijing-suggest-about-chinas-future",
+            "title": "北京的 \"革命 \"奧運會對中國的未來有何啟示？",
+            "summary": "What the “Involution” Olympics in Beijing Suggest About China’s Future",
+            "date_modified": "2022-02-11T17:39:27.000Z",
+            "author": {
+                "name": "Evan Osnos",
+                "url": "https://www.newyorker.com/feed/news/daily-comment"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/daily-comment/emmanuel-macrons-overtures-to-vladimir-putin-and-the-race-to-prevent-war-in-ukraine",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/daily-comment/emmanuel-macrons-overtures-to-vladimir-putin-and-the-race-to-prevent-war-in-ukraine",
+            "title": "埃馬紐埃爾-馬克龍向弗拉基米爾-普京示好，以及防止烏克蘭戰爭的競賽",
+            "summary": "Emmanuel Macron’s Overtures to Vladimir Putin, and the Race to Prevent War in Ukraine",
+            "date_modified": "2022-02-12T01:26:36.000Z",
+            "author": {
+                "name": "Fabrice Robinet",
+                "url": "https://www.newyorker.com/feed/news/daily-comment"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/daily-comment/who-blinks-first-in-ukraine",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/daily-comment/who-blinks-first-in-ukraine",
+            "title": "在烏克蘭誰先眨眼？",
+            "summary": "Who Blinks First in Ukraine?",
+            "date_modified": "2022-02-12T01:40:27.000Z",
+            "author": {
+                "name": "Robin Wright",
+                "url": "https://www.newyorker.com/feed/news/daily-comment"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/daily-comment/why-ukraine-is-on-a-precipice",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/daily-comment/why-ukraine-is-on-a-precipice",
+            "title": "為什麼烏克蘭正處在一個懸崖邊上",
+            "summary": "Why Ukraine Is on a Precipice",
+            "date_modified": "2022-02-15T19:45:01.000Z",
+            "author": {
+                "name": "Robin Wright",
+                "url": "https://www.newyorker.com/feed/news/daily-comment"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/daily-comment/the-sandy-hook-settlement-with-remington-and-the-road-ahead-on-gun-violence",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/daily-comment/the-sandy-hook-settlement-with-remington-and-the-road-ahead-on-gun-violence",
+            "title": "桑迪胡克與雷明頓的和解以及槍支暴力問題的未來之路",
+            "summary": "The Sandy Hook Settlement with Remington and the Road Ahead on Gun Violence",
+            "date_modified": "2022-02-19T00:28:35.000Z",
+            "author": {
+                "name": "Amy Davidson Sorkin",
+                "url": "https://www.newyorker.com/feed/news/daily-comment"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/daily-comment/does-the-us-russia-crisis-over-ukraine-prove-that-the-cold-war-never-ended",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/daily-comment/does-the-us-russia-crisis-over-ukraine-prove-that-the-cold-war-never-ended",
+            "title": "冷戰的結束是一種幻覺嗎？",
+            "summary": "Was the End of the Cold War an Illusion?",
+            "date_modified": "2022-02-19T23:31:15.000Z",
+            "author": {
+                "name": "Robin Wright",
+                "url": "https://www.newyorker.com/feed/news/daily-comment"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/daily-comment/benedict-xvi-and-the-german-church-he-served-seek-forgiveness-in-very-different-ways",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/daily-comment/benedict-xvi-and-the-german-church-he-served-seek-forgiveness-in-very-different-ways",
+            "title": "本篤十六世和他所服務的德國教會以非常不同的方式尋求寬恕",
+            "summary": "Benedict XVI and the German Church He Served Seek Forgiveness in Very Different Ways",
+            "date_modified": "2022-02-20T11:00:00.000Z",
+            "author": {
+                "name": "Paul Elie",
+                "url": "https://www.newyorker.com/feed/news/daily-comment"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/daily-comment/putins-preparation-for-ukraine",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/daily-comment/putins-preparation-for-ukraine",
+            "title": "普京的準備工作",
+            "summary": "Putin Prepares",
+            "date_modified": "2022-02-21T11:00:00.000Z",
+            "author": {
+                "name": "David Remnick",
+                "url": "https://www.newyorker.com/feed/news/daily-comment"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/linq-and-deferred-execution/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/linq-and-deferred-execution/",
+            "title": "LINQ和延遲執行",
+            "summary": "LINQ and Deferred Execution",
+            "date_modified": "2012-06-11T00:57:15.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/custom-output-caching-with-mvc3-and-net-4-0-done-right/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/custom-output-caching-with-mvc3-and-net-4-0-done-right/",
+            "title": "使用MVC3和.NET 4.0的自定義輸出緩存--做得很好",
+            "summary": "Custom Output Caching with MVC3 and .NET 4.0 - Done Properly!",
+            "date_modified": "2012-06-20T00:47:52.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/compiler-tricks-inferred-types/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/compiler-tricks-inferred-types/",
+            "title": "編譯器技巧--推斷類型",
+            "summary": "Compiler Tricks - Inferred Types",
+            "date_modified": "2012-07-16T00:33:54.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/tpl-and-error-handling/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/tpl-and-error-handling/",
+            "title": "TPL和錯誤處理",
+            "summary": "TPL and Error Handling",
+            "date_modified": "2012-08-05T13:39:38.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/tpl-and-error-handling-continuations/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/tpl-and-error-handling-continuations/",
+            "title": "TPL和錯誤處理及延續任務",
+            "summary": "TPL and Error Handling & Continuation Tasks",
+            "date_modified": "2012-08-12T23:21:30.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/published-by-mdsn-uk-blog/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/published-by-mdsn-uk-blog/",
+            "title": "由MDSN英國博客發佈",
+            "summary": "Published by MDSN UK Blog",
+            "date_modified": "2012-08-26T23:49:41.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/the-joel-test-really-is-meaningful/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/the-joel-test-really-is-meaningful/",
+            "title": "喬爾測試真的很有意義",
+            "summary": "The Joel Test Really is Meaningful",
+            "date_modified": "2012-10-14T22:10:54.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/stats-vs-reference-string-equals/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/stats-vs-reference-string-equals/",
+            "title": "靜態 vs 實例 string.Equals",
+            "summary": "Static vs Instance string.Equals",
+            "date_modified": "2012-10-22T14:57:14.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/static-vs-instance-string-equals-benchmark/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/static-vs-instance-string-equals-benchmark/",
+            "title": "靜態 vs 實例 string.Equals Benchmark",
+            "summary": "Static vs Instance string.Equals Benchmark",
+            "date_modified": "2012-10-24T16:57:14.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/visual-studio-2012-intellisense-not-working-solved/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/visual-studio-2012-intellisense-not-working-solved/",
+            "title": "Visual Studio 2012 Intellisense不工作 - 已解決",
+            "summary": "Visual Studio 2012 Intellisense Not Working - SOLVED",
+            "date_modified": "2012-11-20T21:12:41.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/but-it-didnt-happen-in-dev-or-qa/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/but-it-didnt-happen-in-dev-or-qa/",
+            "title": "但它並沒有發生在開發或QA中!",
+            "summary": "But it Didn't Happen in DEV or QA!",
+            "date_modified": "2012-12-02T17:22:20.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/published-by-red-gate/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/published-by-red-gate/",
+            "title": "由紅門出版",
+            "summary": "Published by Red Gate",
+            "date_modified": "2013-01-18T15:10:04.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/determine-mime-type-from-file-name/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/determine-mime-type-from-file-name/",
+            "title": "根據文件名確定MIME類型",
+            "summary": "Determine MIME Type from File Name",
+            "date_modified": "2013-02-11T15:15:46.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/a-better-mime-mapping-stealer/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/a-better-mime-mapping-stealer/",
+            "title": "一個更好的MIME映射竊取器!",
+            "summary": "A Better MIME Mapping Stealer!",
+            "date_modified": "2013-02-12T12:07:12.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/make-mostly-read-seldom-written-lists-much-more-efficient/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/make-mostly-read-seldom-written-lists-much-more-efficient/",
+            "title": "讓多讀、少寫的清單更有效率",
+            "summary": "Make Mostly Read, Seldom-Written Lists Much More Efficient",
+            "date_modified": "2013-03-15T17:11:42.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/one-more-thing-about-list-binary-search/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/one-more-thing-about-list-binary-search/",
+            "title": "關於列表二進制搜索的另一件事",
+            "summary": "One More Thing About List Binary Search",
+            "date_modified": "2013-03-30T15:36:24.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/generic-comparer/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/generic-comparer/",
+            "title": "仿製藥比較器",
+            "summary": "Generic Comparer",
+            "date_modified": "2013-04-22T14:53:17.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/web-api-mapping-querystringform-input/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/web-api-mapping-querystringform-input/",
+            "title": "網絡API映射查詢字符串/表單輸入",
+            "summary": "Web API Mapping QueryString/Form Input",
+            "date_modified": "2013-07-24T17:55:12.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/automatically-generate-pocos-from-db-with-t4/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/automatically-generate-pocos-from-db-with-t4/",
+            "title": "用T4從數據庫中自動生成POCOs",
+            "summary": "Automatically Generate POCOs From DB With T4",
+            "date_modified": "2013-10-16T21:35:51.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/mvc4-conditional-html-attributes/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/mvc4-conditional-html-attributes/",
+            "title": "MVC4的條件性HTML屬性",
+            "summary": "MVC4 Conditional HTML Attributes",
+            "date_modified": "2013-11-27T00:34:25.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/interview-with-infoq-on-simplsockets/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/interview-with-infoq-on-simplsockets/",
+            "title": "關於SimplSockets的InfoQ採訪",
+            "summary": "Interview with InfoQ on SimplSockets",
+            "date_modified": "2013-12-11T10:54:43.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/trigger-ivalidatableobject-validate-when-modelstate-isvalid-is-false/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/trigger-ivalidatableobject-validate-when-modelstate-isvalid-is-false/",
+            "title": "當ModelState.IsValid為假時觸發IValidatableObject.Validate",
+            "summary": "Trigger IValidatableObject.Validate When ModelState.IsValid is false",
+            "date_modified": "2014-02-05T15:55:40.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/c-probably-getting-new-safe-navigation-operator/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/c-probably-getting-new-safe-navigation-operator/",
+            "title": "C#可能會得到新的 \"安全導航 \"操作符\"？\"。",
+            "summary": "C# Probably Getting New \"Safe Navigation\" Operator \"?.\"",
+            "date_modified": "2014-02-28T11:47:08.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/to-node-js-or-not-to-node-js/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/to-node-js-or-not-to-node-js/",
+            "title": "是否加入Node.js？",
+            "summary": "To Node.js Or Not To Node.js",
+            "date_modified": "2014-03-24T16:41:25.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/how-to-guarantee-dev-team-failure/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/how-to-guarantee-dev-team-failure/",
+            "title": "如何保證開發團隊的失敗",
+            "summary": "How To Guarantee Dev Team Failure",
+            "date_modified": "2014-05-07T13:27:35.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/how-i-got-a-job-at-stack-exchange/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/how-i-got-a-job-at-stack-exchange/",
+            "title": "我是如何在Stack Exchange得到一份工作的",
+            "summary": "How I Got A Job At Stack Exchange",
+            "date_modified": "2014-06-20T16:59:10.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/iphone-6-style-over-substance/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/iphone-6-style-over-substance/",
+            "title": "iPhone 6。風格大於實質",
+            "summary": "iPhone 6: Style Over Substance",
+            "date_modified": "2014-09-09T19:22:53.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/the-trouble-with-job-titles/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/the-trouble-with-job-titles/",
+            "title": "工作頭銜的問題",
+            "summary": "The Trouble With Job Titles",
+            "date_modified": "2014-10-17T18:41:14.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/on-credentialism-in-software-development/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/on-credentialism-in-software-development/",
+            "title": "論軟件開發中的資歷主義",
+            "summary": "On Credentialism In Software Development",
+            "date_modified": "2014-12-29T16:00:27.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/the-recruiting-competitive-advantage/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/the-recruiting-competitive-advantage/",
+            "title": "招聘的競爭優勢",
+            "summary": "The Recruiting Competitive Advantage",
+            "date_modified": "2015-01-23T12:04:37.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/on-secretly-terrible-engineers-a-rebuttal/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/on-secretly-terrible-engineers-a-rebuttal/",
+            "title": "關於秘密的可怕的工程師--反駁",
+            "summary": "On Secretly Terrible Engineers - A Rebuttal",
+            "date_modified": "2015-03-09T18:32:37.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/developers-shouldnt-measure-twice-cut-once/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/developers-shouldnt-measure-twice-cut-once/",
+            "title": "開發人員不應測量兩次，切割一次",
+            "summary": "Developers Shouldn't Measure Twice, Cut Once",
+            "date_modified": "2015-04-15T16:25:02.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/developer-turned-manager/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/developer-turned-manager/",
+            "title": "開發人員轉為經理",
+            "summary": "Developer Turned Manager",
+            "date_modified": "2015-08-03T14:18:02.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/diversity-is-really-freaking-hard/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/diversity-is-really-freaking-hard/",
+            "title": "多樣性真的很難得",
+            "summary": "Diversity Is Really Freaking Hard",
+            "date_modified": "2015-09-24T11:23:38.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/developer-compensation-stack-overflow-doesnt-stack-rank/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/developer-compensation-stack-overflow-doesnt-stack-rank/",
+            "title": "開發者報酬。堆棧溢出並沒有堆棧排名",
+            "summary": "Developer Compensation: Stack Overflow Doesn't Stack Rank",
+            "date_modified": "2016-02-26T14:05:41.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/",
+            "title": "故宮博物院和左手掌。我們是否忘記了如何編程？",
+            "summary": "NPM & left-pad: Have We Forgotten How To Program?",
+            "date_modified": "2016-03-23T18:01:52.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/lets-talk-about-rock-stars-egos/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/lets-talk-about-rock-stars-egos/",
+            "title": "讓我們來談談搖滾明星和自負的問題",
+            "summary": "Let's Talk About Rock Stars & Egos",
+            "date_modified": "2016-06-17T17:02:13.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/our-industry-needs-compassion/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/our-industry-needs-compassion/",
+            "title": "我們的行業需要同情心",
+            "summary": "Our Industry Needs Compassion",
+            "date_modified": "2017-01-03T12:37:39.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/custom-asp-net-mvc-action-result-cache-attribute/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/custom-asp-net-mvc-action-result-cache-attribute/",
+            "title": "自定義ASP.NET MVC動作結果緩存屬性",
+            "summary": "Custom ASP.NET MVC Action Result Cache Attribute",
+            "date_modified": "2017-01-10T09:07:15.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/dev-team-interactions-accountability-blame/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/dev-team-interactions-accountability-blame/",
+            "title": "開發團隊的互動。責任與指責",
+            "summary": "Dev Team Interactions: Accountability & Blame",
+            "date_modified": "2017-01-20T13:20:59.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/dev-team-interactions-conducting-good-code-reviews/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/dev-team-interactions-conducting-good-code-reviews/",
+            "title": "開發團隊的互動。進行良好的代碼審查",
+            "summary": "Dev Team Interactions: Conducting Good Code Reviews",
+            "date_modified": "2017-01-27T10:03:20.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/gitlab-data-loss-a-discussion/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/gitlab-data-loss-a-discussion/",
+            "title": "GitLab數據丟失：一個討論",
+            "summary": "GitLab Data Loss: A Discussion",
+            "date_modified": "2017-02-02T11:33:02.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/on-hiring-developers-are-like-stocks/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/on-hiring-developers-are-like-stocks/",
+            "title": "關於招聘。開發人員就像股票一樣",
+            "summary": "On Hiring: Developers Are Like Stocks",
+            "date_modified": "2017-02-10T11:11:30.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/new-blog-and-hiring-needs/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/new-blog-and-hiring-needs/",
+            "title": "新博客與招聘需求",
+            "summary": "New Blog & Hiring Needs",
+            "date_modified": "2018-06-09T17:56:24.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/writing-a-great-junior-tech-resume/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/writing-a-great-junior-tech-resume/",
+            "title": "撰寫一份優秀的初級技術員履歷表",
+            "summary": "Writing a Great Junior Tech Résumé",
+            "date_modified": "2018-07-24T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/new-blog-name-and-domain/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/new-blog-name-and-domain/",
+            "title": "新的博客名稱和域名",
+            "summary": "New Blog Name and Domain",
+            "date_modified": "2018-08-03T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/net-core-azure-functions-tutorial/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/net-core-azure-functions-tutorial/",
+            "title": ".NET核心Azure函數教程",
+            "summary": ".NET Core Azure Functions Tutorial",
+            "date_modified": "2018-11-19T05:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/sabbatical-begins/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/sabbatical-begins/",
+            "title": "安息日開始了",
+            "summary": "Sabbatical Begins",
+            "date_modified": "2019-08-31T05:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/sabbatical-week-one/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/sabbatical-week-one/",
+            "title": "安息日第一週",
+            "summary": "Sabbatical Week One",
+            "date_modified": "2019-09-08T05:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/net-core-mvc-access-appsettings-json/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/net-core-mvc-access-appsettings-json/",
+            "title": ".NET Core MVC - 如何訪問appsettings.json",
+            "summary": ".NET Core MVC - How to Access appsettings.json",
+            "date_modified": "2020-11-09T05:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
             "id": "https://nichaley.com/blog//this-is-a-blog",
             "content_html": "",
             "url": "https://nichaley.com/blog//this-is-a-blog",

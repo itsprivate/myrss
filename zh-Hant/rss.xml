@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 22 Feb 2022 11:50:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 13:09:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,496 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[關於靜態網站生成器和WordPress的思考]]></title>
+            <link>https://www.mooreds.com/wordpress/archives/3369</link>
+            <guid>https://www.mooreds.com/wordpress/archives/3369</guid>
+            <pubDate>Fri, 17 Jul 2020 21:32:24 GMT</pubDate>
+            <description><![CDATA[Thoughts on static site generators and WordPress]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我希望我在剛開始做開發時就知道的事]]></title>
+            <link>https://www.mooreds.com/wordpress/archives/3376</link>
+            <guid>https://www.mooreds.com/wordpress/archives/3376</guid>
+            <pubDate>Sun, 02 Aug 2020 15:59:53 GMT</pubDate>
+            <description><![CDATA[What I wish I had known when I was starting out as a developer]]></description>
+        </item>
+        <item>
+            <title><![CDATA[書評。一段名為帝國的記憶]]></title>
+            <link>https://www.mooreds.com/wordpress/archives/3392</link>
+            <guid>https://www.mooreds.com/wordpress/archives/3392</guid>
+            <pubDate>Tue, 22 Sep 2020 02:54:22 GMT</pubDate>
+            <description><![CDATA[Book Review: A Memory Called Empire]]></description>
+        </item>
+        <item>
+            <title><![CDATA[快速瀏覽xkit]]></title>
+            <link>https://www.mooreds.com/wordpress/archives/3395</link>
+            <guid>https://www.mooreds.com/wordpress/archives/3395</guid>
+            <pubDate>Sat, 17 Oct 2020 12:34:24 GMT</pubDate>
+            <description><![CDATA[A quick look at xkit]]></description>
+        </item>
+        <item>
+            <title><![CDATA[書評。生活中的算法]]></title>
+            <link>https://www.mooreds.com/wordpress/archives/3398</link>
+            <guid>https://www.mooreds.com/wordpress/archives/3398</guid>
+            <pubDate>Wed, 11 Nov 2020 12:34:00 GMT</pubDate>
+            <description><![CDATA[Book Review: Algorithms to live by]]></description>
+        </item>
+        <item>
+            <title><![CDATA[書評。布穀鳥的蛋]]></title>
+            <link>https://www.mooreds.com/wordpress/archives/3405</link>
+            <guid>https://www.mooreds.com/wordpress/archives/3405</guid>
+            <pubDate>Wed, 09 Dec 2020 13:10:00 GMT</pubDate>
+            <description><![CDATA[Book Review: The Cuckoo’s Egg]]></description>
+        </item>
+        <item>
+            <title><![CDATA[最不被重視的AWS服務]]></title>
+            <link>https://www.mooreds.com/wordpress/archives/3409</link>
+            <guid>https://www.mooreds.com/wordpress/archives/3409</guid>
+            <pubDate>Wed, 20 Jan 2021 16:35:00 GMT</pubDate>
+            <description><![CDATA[The most underappreciated AWS service]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Slack無法打開，出現NS_ERROR_DOM_ABORT_ERR錯誤]]></title>
+            <link>https://www.mooreds.com/wordpress/archives/3429</link>
+            <guid>https://www.mooreds.com/wordpress/archives/3429</guid>
+            <pubDate>Mon, 01 Feb 2021 15:35:28 GMT</pubDate>
+            <description><![CDATA[Slack failing to open with NS_ERROR_DOM_ABORT_ERR error]]></description>
+        </item>
+        <item>
+            <title><![CDATA[公共雲時代的開源軟件商業模式問題]]></title>
+            <link>https://www.mooreds.com/wordpress/archives/3438</link>
+            <guid>https://www.mooreds.com/wordpress/archives/3438</guid>
+            <pubDate>Sat, 13 Mar 2021 17:31:44 GMT</pubDate>
+            <description><![CDATA[Open source software business model concerns in the age of the public cloud]]></description>
+        </item>
+        <item>
+            <title><![CDATA[關於尋找技術聯合創始人的建議]]></title>
+            <link>https://www.mooreds.com/wordpress/archives/3445</link>
+            <guid>https://www.mooreds.com/wordpress/archives/3445</guid>
+            <pubDate>Sat, 03 Apr 2021 17:09:02 GMT</pubDate>
+            <description><![CDATA[Advice for finding a technical co-founder]]></description>
+        </item>
+        <item>
+            <title><![CDATA[北歐滑雪和在北京的比賽違背了人們的期望]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/nordic-skiing-and-the-race-to-defy-expectations-in-beijing</link>
+            <guid>https://www.newyorker.com/news/daily-comment/nordic-skiing-and-the-race-to-defy-expectations-in-beijing</guid>
+            <pubDate>Mon, 07 Feb 2022 22:36:35 GMT</pubDate>
+            <description><![CDATA[Nordic Skiing and the Race to Defy Expectations in Beijing]]></description>
+        </item>
+        <item>
+            <title><![CDATA[為什麼波多黎各正在哀悼一位音樂家]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/why-puerto-rico-is-mourning-a-musician</link>
+            <guid>https://www.newyorker.com/news/daily-comment/why-puerto-rico-is-mourning-a-musician</guid>
+            <pubDate>Thu, 10 Feb 2022 00:32:42 GMT</pubDate>
+            <description><![CDATA[Why Puerto Rico Is Mourning a Musician]]></description>
+        </item>
+        <item>
+            <title><![CDATA[北京的 "革命 "奧運會對中國的未來有何啟示？]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/what-the-involution-olympics-in-beijing-suggest-about-chinas-future</link>
+            <guid>https://www.newyorker.com/news/daily-comment/what-the-involution-olympics-in-beijing-suggest-about-chinas-future</guid>
+            <pubDate>Fri, 11 Feb 2022 17:39:27 GMT</pubDate>
+            <description><![CDATA[What the “Involution” Olympics in Beijing Suggest About China’s Future]]></description>
+        </item>
+        <item>
+            <title><![CDATA[埃馬紐埃爾-馬克龍向弗拉基米爾-普京示好，以及防止烏克蘭戰爭的競賽]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/emmanuel-macrons-overtures-to-vladimir-putin-and-the-race-to-prevent-war-in-ukraine</link>
+            <guid>https://www.newyorker.com/news/daily-comment/emmanuel-macrons-overtures-to-vladimir-putin-and-the-race-to-prevent-war-in-ukraine</guid>
+            <pubDate>Sat, 12 Feb 2022 01:26:36 GMT</pubDate>
+            <description><![CDATA[Emmanuel Macron’s Overtures to Vladimir Putin, and the Race to Prevent War in Ukraine]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在烏克蘭誰先眨眼？]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/who-blinks-first-in-ukraine</link>
+            <guid>https://www.newyorker.com/news/daily-comment/who-blinks-first-in-ukraine</guid>
+            <pubDate>Sat, 12 Feb 2022 01:40:27 GMT</pubDate>
+            <description><![CDATA[Who Blinks First in Ukraine?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[為什麼烏克蘭正處在一個懸崖邊上]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/why-ukraine-is-on-a-precipice</link>
+            <guid>https://www.newyorker.com/news/daily-comment/why-ukraine-is-on-a-precipice</guid>
+            <pubDate>Tue, 15 Feb 2022 19:45:01 GMT</pubDate>
+            <description><![CDATA[Why Ukraine Is on a Precipice]]></description>
+        </item>
+        <item>
+            <title><![CDATA[桑迪胡克與雷明頓的和解以及槍支暴力問題的未來之路]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/the-sandy-hook-settlement-with-remington-and-the-road-ahead-on-gun-violence</link>
+            <guid>https://www.newyorker.com/news/daily-comment/the-sandy-hook-settlement-with-remington-and-the-road-ahead-on-gun-violence</guid>
+            <pubDate>Sat, 19 Feb 2022 00:28:35 GMT</pubDate>
+            <description><![CDATA[The Sandy Hook Settlement with Remington and the Road Ahead on Gun Violence]]></description>
+        </item>
+        <item>
+            <title><![CDATA[冷戰的結束是一種幻覺嗎？]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/does-the-us-russia-crisis-over-ukraine-prove-that-the-cold-war-never-ended</link>
+            <guid>https://www.newyorker.com/news/daily-comment/does-the-us-russia-crisis-over-ukraine-prove-that-the-cold-war-never-ended</guid>
+            <pubDate>Sat, 19 Feb 2022 23:31:15 GMT</pubDate>
+            <description><![CDATA[Was the End of the Cold War an Illusion?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[本篤十六世和他所服務的德國教會以非常不同的方式尋求寬恕]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/benedict-xvi-and-the-german-church-he-served-seek-forgiveness-in-very-different-ways</link>
+            <guid>https://www.newyorker.com/news/daily-comment/benedict-xvi-and-the-german-church-he-served-seek-forgiveness-in-very-different-ways</guid>
+            <pubDate>Sun, 20 Feb 2022 11:00:00 GMT</pubDate>
+            <description><![CDATA[Benedict XVI and the German Church He Served Seek Forgiveness in Very Different Ways]]></description>
+        </item>
+        <item>
+            <title><![CDATA[普京的準備工作]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/putins-preparation-for-ukraine</link>
+            <guid>https://www.newyorker.com/news/daily-comment/putins-preparation-for-ukraine</guid>
+            <pubDate>Mon, 21 Feb 2022 11:00:00 GMT</pubDate>
+            <description><![CDATA[Putin Prepares]]></description>
+        </item>
+        <item>
+            <title><![CDATA[LINQ和延遲執行]]></title>
+            <link>https://www.davidhaney.io/linq-and-deferred-execution/</link>
+            <guid>https://www.davidhaney.io/linq-and-deferred-execution/</guid>
+            <pubDate>Mon, 11 Jun 2012 00:57:15 GMT</pubDate>
+            <description><![CDATA[LINQ and Deferred Execution]]></description>
+        </item>
+        <item>
+            <title><![CDATA[使用MVC3和.NET 4.0的自定義輸出緩存--做得很好]]></title>
+            <link>https://www.davidhaney.io/custom-output-caching-with-mvc3-and-net-4-0-done-right/</link>
+            <guid>https://www.davidhaney.io/custom-output-caching-with-mvc3-and-net-4-0-done-right/</guid>
+            <pubDate>Wed, 20 Jun 2012 00:47:52 GMT</pubDate>
+            <description><![CDATA[Custom Output Caching with MVC3 and .NET 4.0 - Done Properly!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[編譯器技巧--推斷類型]]></title>
+            <link>https://www.davidhaney.io/compiler-tricks-inferred-types/</link>
+            <guid>https://www.davidhaney.io/compiler-tricks-inferred-types/</guid>
+            <pubDate>Mon, 16 Jul 2012 00:33:54 GMT</pubDate>
+            <description><![CDATA[Compiler Tricks - Inferred Types]]></description>
+        </item>
+        <item>
+            <title><![CDATA[TPL和錯誤處理]]></title>
+            <link>https://www.davidhaney.io/tpl-and-error-handling/</link>
+            <guid>https://www.davidhaney.io/tpl-and-error-handling/</guid>
+            <pubDate>Sun, 05 Aug 2012 13:39:38 GMT</pubDate>
+            <description><![CDATA[TPL and Error Handling]]></description>
+        </item>
+        <item>
+            <title><![CDATA[TPL和錯誤處理及延續任務]]></title>
+            <link>https://www.davidhaney.io/tpl-and-error-handling-continuations/</link>
+            <guid>https://www.davidhaney.io/tpl-and-error-handling-continuations/</guid>
+            <pubDate>Sun, 12 Aug 2012 23:21:30 GMT</pubDate>
+            <description><![CDATA[TPL and Error Handling & Continuation Tasks]]></description>
+        </item>
+        <item>
+            <title><![CDATA[由MDSN英國博客發佈]]></title>
+            <link>https://www.davidhaney.io/published-by-mdsn-uk-blog/</link>
+            <guid>https://www.davidhaney.io/published-by-mdsn-uk-blog/</guid>
+            <pubDate>Sun, 26 Aug 2012 23:49:41 GMT</pubDate>
+            <description><![CDATA[Published by MDSN UK Blog]]></description>
+        </item>
+        <item>
+            <title><![CDATA[喬爾測試真的很有意義]]></title>
+            <link>https://www.davidhaney.io/the-joel-test-really-is-meaningful/</link>
+            <guid>https://www.davidhaney.io/the-joel-test-really-is-meaningful/</guid>
+            <pubDate>Sun, 14 Oct 2012 22:10:54 GMT</pubDate>
+            <description><![CDATA[The Joel Test Really is Meaningful]]></description>
+        </item>
+        <item>
+            <title><![CDATA[靜態 vs 實例 string.Equals]]></title>
+            <link>https://www.davidhaney.io/stats-vs-reference-string-equals/</link>
+            <guid>https://www.davidhaney.io/stats-vs-reference-string-equals/</guid>
+            <pubDate>Mon, 22 Oct 2012 14:57:14 GMT</pubDate>
+            <description><![CDATA[Static vs Instance string.Equals]]></description>
+        </item>
+        <item>
+            <title><![CDATA[靜態 vs 實例 string.Equals Benchmark]]></title>
+            <link>https://www.davidhaney.io/static-vs-instance-string-equals-benchmark/</link>
+            <guid>https://www.davidhaney.io/static-vs-instance-string-equals-benchmark/</guid>
+            <pubDate>Wed, 24 Oct 2012 16:57:14 GMT</pubDate>
+            <description><![CDATA[Static vs Instance string.Equals Benchmark]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Visual Studio 2012 Intellisense不工作 - 已解決]]></title>
+            <link>https://www.davidhaney.io/visual-studio-2012-intellisense-not-working-solved/</link>
+            <guid>https://www.davidhaney.io/visual-studio-2012-intellisense-not-working-solved/</guid>
+            <pubDate>Tue, 20 Nov 2012 21:12:41 GMT</pubDate>
+            <description><![CDATA[Visual Studio 2012 Intellisense Not Working - SOLVED]]></description>
+        </item>
+        <item>
+            <title><![CDATA[但它並沒有發生在開發或QA中!]]></title>
+            <link>https://www.davidhaney.io/but-it-didnt-happen-in-dev-or-qa/</link>
+            <guid>https://www.davidhaney.io/but-it-didnt-happen-in-dev-or-qa/</guid>
+            <pubDate>Sun, 02 Dec 2012 17:22:20 GMT</pubDate>
+            <description><![CDATA[But it Didn't Happen in DEV or QA!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[由紅門出版]]></title>
+            <link>https://www.davidhaney.io/published-by-red-gate/</link>
+            <guid>https://www.davidhaney.io/published-by-red-gate/</guid>
+            <pubDate>Fri, 18 Jan 2013 15:10:04 GMT</pubDate>
+            <description><![CDATA[Published by Red Gate]]></description>
+        </item>
+        <item>
+            <title><![CDATA[根據文件名確定MIME類型]]></title>
+            <link>https://www.davidhaney.io/determine-mime-type-from-file-name/</link>
+            <guid>https://www.davidhaney.io/determine-mime-type-from-file-name/</guid>
+            <pubDate>Mon, 11 Feb 2013 15:15:46 GMT</pubDate>
+            <description><![CDATA[Determine MIME Type from File Name]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一個更好的MIME映射竊取器!]]></title>
+            <link>https://www.davidhaney.io/a-better-mime-mapping-stealer/</link>
+            <guid>https://www.davidhaney.io/a-better-mime-mapping-stealer/</guid>
+            <pubDate>Tue, 12 Feb 2013 12:07:12 GMT</pubDate>
+            <description><![CDATA[A Better MIME Mapping Stealer!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[讓多讀、少寫的清單更有效率]]></title>
+            <link>https://www.davidhaney.io/make-mostly-read-seldom-written-lists-much-more-efficient/</link>
+            <guid>https://www.davidhaney.io/make-mostly-read-seldom-written-lists-much-more-efficient/</guid>
+            <pubDate>Fri, 15 Mar 2013 17:11:42 GMT</pubDate>
+            <description><![CDATA[Make Mostly Read, Seldom-Written Lists Much More Efficient]]></description>
+        </item>
+        <item>
+            <title><![CDATA[關於列表二進制搜索的另一件事]]></title>
+            <link>https://www.davidhaney.io/one-more-thing-about-list-binary-search/</link>
+            <guid>https://www.davidhaney.io/one-more-thing-about-list-binary-search/</guid>
+            <pubDate>Sat, 30 Mar 2013 15:36:24 GMT</pubDate>
+            <description><![CDATA[One More Thing About List Binary Search]]></description>
+        </item>
+        <item>
+            <title><![CDATA[仿製藥比較器]]></title>
+            <link>https://www.davidhaney.io/generic-comparer/</link>
+            <guid>https://www.davidhaney.io/generic-comparer/</guid>
+            <pubDate>Mon, 22 Apr 2013 14:53:17 GMT</pubDate>
+            <description><![CDATA[Generic Comparer]]></description>
+        </item>
+        <item>
+            <title><![CDATA[網絡API映射查詢字符串/表單輸入]]></title>
+            <link>https://www.davidhaney.io/web-api-mapping-querystringform-input/</link>
+            <guid>https://www.davidhaney.io/web-api-mapping-querystringform-input/</guid>
+            <pubDate>Wed, 24 Jul 2013 17:55:12 GMT</pubDate>
+            <description><![CDATA[Web API Mapping QueryString/Form Input]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用T4從數據庫中自動生成POCOs]]></title>
+            <link>https://www.davidhaney.io/automatically-generate-pocos-from-db-with-t4/</link>
+            <guid>https://www.davidhaney.io/automatically-generate-pocos-from-db-with-t4/</guid>
+            <pubDate>Wed, 16 Oct 2013 21:35:51 GMT</pubDate>
+            <description><![CDATA[Automatically Generate POCOs From DB With T4]]></description>
+        </item>
+        <item>
+            <title><![CDATA[MVC4的條件性HTML屬性]]></title>
+            <link>https://www.davidhaney.io/mvc4-conditional-html-attributes/</link>
+            <guid>https://www.davidhaney.io/mvc4-conditional-html-attributes/</guid>
+            <pubDate>Wed, 27 Nov 2013 00:34:25 GMT</pubDate>
+            <description><![CDATA[MVC4 Conditional HTML Attributes]]></description>
+        </item>
+        <item>
+            <title><![CDATA[關於SimplSockets的InfoQ採訪]]></title>
+            <link>https://www.davidhaney.io/interview-with-infoq-on-simplsockets/</link>
+            <guid>https://www.davidhaney.io/interview-with-infoq-on-simplsockets/</guid>
+            <pubDate>Wed, 11 Dec 2013 10:54:43 GMT</pubDate>
+            <description><![CDATA[Interview with InfoQ on SimplSockets]]></description>
+        </item>
+        <item>
+            <title><![CDATA[當ModelState.IsValid為假時觸發IValidatableObject.Validate]]></title>
+            <link>https://www.davidhaney.io/trigger-ivalidatableobject-validate-when-modelstate-isvalid-is-false/</link>
+            <guid>https://www.davidhaney.io/trigger-ivalidatableobject-validate-when-modelstate-isvalid-is-false/</guid>
+            <pubDate>Wed, 05 Feb 2014 15:55:40 GMT</pubDate>
+            <description><![CDATA[Trigger IValidatableObject.Validate When ModelState.IsValid is false]]></description>
+        </item>
+        <item>
+            <title><![CDATA[C#可能會得到新的 "安全導航 "操作符"？"。]]></title>
+            <link>https://www.davidhaney.io/c-probably-getting-new-safe-navigation-operator/</link>
+            <guid>https://www.davidhaney.io/c-probably-getting-new-safe-navigation-operator/</guid>
+            <pubDate>Fri, 28 Feb 2014 11:47:08 GMT</pubDate>
+            <description><![CDATA[C# Probably Getting New "Safe Navigation" Operator "?."]]></description>
+        </item>
+        <item>
+            <title><![CDATA[是否加入Node.js？]]></title>
+            <link>https://www.davidhaney.io/to-node-js-or-not-to-node-js/</link>
+            <guid>https://www.davidhaney.io/to-node-js-or-not-to-node-js/</guid>
+            <pubDate>Mon, 24 Mar 2014 16:41:25 GMT</pubDate>
+            <description><![CDATA[To Node.js Or Not To Node.js]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何保證開發團隊的失敗]]></title>
+            <link>https://www.davidhaney.io/how-to-guarantee-dev-team-failure/</link>
+            <guid>https://www.davidhaney.io/how-to-guarantee-dev-team-failure/</guid>
+            <pubDate>Wed, 07 May 2014 13:27:35 GMT</pubDate>
+            <description><![CDATA[How To Guarantee Dev Team Failure]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我是如何在Stack Exchange得到一份工作的]]></title>
+            <link>https://www.davidhaney.io/how-i-got-a-job-at-stack-exchange/</link>
+            <guid>https://www.davidhaney.io/how-i-got-a-job-at-stack-exchange/</guid>
+            <pubDate>Fri, 20 Jun 2014 16:59:10 GMT</pubDate>
+            <description><![CDATA[How I Got A Job At Stack Exchange]]></description>
+        </item>
+        <item>
+            <title><![CDATA[iPhone 6。風格大於實質]]></title>
+            <link>https://www.davidhaney.io/iphone-6-style-over-substance/</link>
+            <guid>https://www.davidhaney.io/iphone-6-style-over-substance/</guid>
+            <pubDate>Tue, 09 Sep 2014 19:22:53 GMT</pubDate>
+            <description><![CDATA[iPhone 6: Style Over Substance]]></description>
+        </item>
+        <item>
+            <title><![CDATA[工作頭銜的問題]]></title>
+            <link>https://www.davidhaney.io/the-trouble-with-job-titles/</link>
+            <guid>https://www.davidhaney.io/the-trouble-with-job-titles/</guid>
+            <pubDate>Fri, 17 Oct 2014 18:41:14 GMT</pubDate>
+            <description><![CDATA[The Trouble With Job Titles]]></description>
+        </item>
+        <item>
+            <title><![CDATA[論軟件開發中的資歷主義]]></title>
+            <link>https://www.davidhaney.io/on-credentialism-in-software-development/</link>
+            <guid>https://www.davidhaney.io/on-credentialism-in-software-development/</guid>
+            <pubDate>Mon, 29 Dec 2014 16:00:27 GMT</pubDate>
+            <description><![CDATA[On Credentialism In Software Development]]></description>
+        </item>
+        <item>
+            <title><![CDATA[招聘的競爭優勢]]></title>
+            <link>https://www.davidhaney.io/the-recruiting-competitive-advantage/</link>
+            <guid>https://www.davidhaney.io/the-recruiting-competitive-advantage/</guid>
+            <pubDate>Fri, 23 Jan 2015 12:04:37 GMT</pubDate>
+            <description><![CDATA[The Recruiting Competitive Advantage]]></description>
+        </item>
+        <item>
+            <title><![CDATA[關於秘密的可怕的工程師--反駁]]></title>
+            <link>https://www.davidhaney.io/on-secretly-terrible-engineers-a-rebuttal/</link>
+            <guid>https://www.davidhaney.io/on-secretly-terrible-engineers-a-rebuttal/</guid>
+            <pubDate>Mon, 09 Mar 2015 18:32:37 GMT</pubDate>
+            <description><![CDATA[On Secretly Terrible Engineers - A Rebuttal]]></description>
+        </item>
+        <item>
+            <title><![CDATA[開發人員不應測量兩次，切割一次]]></title>
+            <link>https://www.davidhaney.io/developers-shouldnt-measure-twice-cut-once/</link>
+            <guid>https://www.davidhaney.io/developers-shouldnt-measure-twice-cut-once/</guid>
+            <pubDate>Wed, 15 Apr 2015 16:25:02 GMT</pubDate>
+            <description><![CDATA[Developers Shouldn't Measure Twice, Cut Once]]></description>
+        </item>
+        <item>
+            <title><![CDATA[開發人員轉為經理]]></title>
+            <link>https://www.davidhaney.io/developer-turned-manager/</link>
+            <guid>https://www.davidhaney.io/developer-turned-manager/</guid>
+            <pubDate>Mon, 03 Aug 2015 14:18:02 GMT</pubDate>
+            <description><![CDATA[Developer Turned Manager]]></description>
+        </item>
+        <item>
+            <title><![CDATA[多樣性真的很難得]]></title>
+            <link>https://www.davidhaney.io/diversity-is-really-freaking-hard/</link>
+            <guid>https://www.davidhaney.io/diversity-is-really-freaking-hard/</guid>
+            <pubDate>Thu, 24 Sep 2015 11:23:38 GMT</pubDate>
+            <description><![CDATA[Diversity Is Really Freaking Hard]]></description>
+        </item>
+        <item>
+            <title><![CDATA[開發者報酬。堆棧溢出並沒有堆棧排名]]></title>
+            <link>https://www.davidhaney.io/developer-compensation-stack-overflow-doesnt-stack-rank/</link>
+            <guid>https://www.davidhaney.io/developer-compensation-stack-overflow-doesnt-stack-rank/</guid>
+            <pubDate>Fri, 26 Feb 2016 14:05:41 GMT</pubDate>
+            <description><![CDATA[Developer Compensation: Stack Overflow Doesn't Stack Rank]]></description>
+        </item>
+        <item>
+            <title><![CDATA[故宮博物院和左手掌。我們是否忘記了如何編程？]]></title>
+            <link>https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/</link>
+            <guid>https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/</guid>
+            <pubDate>Wed, 23 Mar 2016 18:01:52 GMT</pubDate>
+            <description><![CDATA[NPM & left-pad: Have We Forgotten How To Program?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[讓我們來談談搖滾明星和自負的問題]]></title>
+            <link>https://www.davidhaney.io/lets-talk-about-rock-stars-egos/</link>
+            <guid>https://www.davidhaney.io/lets-talk-about-rock-stars-egos/</guid>
+            <pubDate>Fri, 17 Jun 2016 17:02:13 GMT</pubDate>
+            <description><![CDATA[Let's Talk About Rock Stars & Egos]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我們的行業需要同情心]]></title>
+            <link>https://www.davidhaney.io/our-industry-needs-compassion/</link>
+            <guid>https://www.davidhaney.io/our-industry-needs-compassion/</guid>
+            <pubDate>Tue, 03 Jan 2017 12:37:39 GMT</pubDate>
+            <description><![CDATA[Our Industry Needs Compassion]]></description>
+        </item>
+        <item>
+            <title><![CDATA[自定義ASP.NET MVC動作結果緩存屬性]]></title>
+            <link>https://www.davidhaney.io/custom-asp-net-mvc-action-result-cache-attribute/</link>
+            <guid>https://www.davidhaney.io/custom-asp-net-mvc-action-result-cache-attribute/</guid>
+            <pubDate>Tue, 10 Jan 2017 09:07:15 GMT</pubDate>
+            <description><![CDATA[Custom ASP.NET MVC Action Result Cache Attribute]]></description>
+        </item>
+        <item>
+            <title><![CDATA[開發團隊的互動。責任與指責]]></title>
+            <link>https://www.davidhaney.io/dev-team-interactions-accountability-blame/</link>
+            <guid>https://www.davidhaney.io/dev-team-interactions-accountability-blame/</guid>
+            <pubDate>Fri, 20 Jan 2017 13:20:59 GMT</pubDate>
+            <description><![CDATA[Dev Team Interactions: Accountability & Blame]]></description>
+        </item>
+        <item>
+            <title><![CDATA[開發團隊的互動。進行良好的代碼審查]]></title>
+            <link>https://www.davidhaney.io/dev-team-interactions-conducting-good-code-reviews/</link>
+            <guid>https://www.davidhaney.io/dev-team-interactions-conducting-good-code-reviews/</guid>
+            <pubDate>Fri, 27 Jan 2017 10:03:20 GMT</pubDate>
+            <description><![CDATA[Dev Team Interactions: Conducting Good Code Reviews]]></description>
+        </item>
+        <item>
+            <title><![CDATA[GitLab數據丟失：一個討論]]></title>
+            <link>https://www.davidhaney.io/gitlab-data-loss-a-discussion/</link>
+            <guid>https://www.davidhaney.io/gitlab-data-loss-a-discussion/</guid>
+            <pubDate>Thu, 02 Feb 2017 11:33:02 GMT</pubDate>
+            <description><![CDATA[GitLab Data Loss: A Discussion]]></description>
+        </item>
+        <item>
+            <title><![CDATA[關於招聘。開發人員就像股票一樣]]></title>
+            <link>https://www.davidhaney.io/on-hiring-developers-are-like-stocks/</link>
+            <guid>https://www.davidhaney.io/on-hiring-developers-are-like-stocks/</guid>
+            <pubDate>Fri, 10 Feb 2017 11:11:30 GMT</pubDate>
+            <description><![CDATA[On Hiring: Developers Are Like Stocks]]></description>
+        </item>
+        <item>
+            <title><![CDATA[新博客與招聘需求]]></title>
+            <link>https://www.davidhaney.io/new-blog-and-hiring-needs/</link>
+            <guid>https://www.davidhaney.io/new-blog-and-hiring-needs/</guid>
+            <pubDate>Sat, 09 Jun 2018 17:56:24 GMT</pubDate>
+            <description><![CDATA[New Blog & Hiring Needs]]></description>
+        </item>
+        <item>
+            <title><![CDATA[撰寫一份優秀的初級技術員履歷表]]></title>
+            <link>https://www.davidhaney.io/writing-a-great-junior-tech-resume/</link>
+            <guid>https://www.davidhaney.io/writing-a-great-junior-tech-resume/</guid>
+            <pubDate>Tue, 24 Jul 2018 04:00:00 GMT</pubDate>
+            <description><![CDATA[Writing a Great Junior Tech Résumé]]></description>
+        </item>
+        <item>
+            <title><![CDATA[新的博客名稱和域名]]></title>
+            <link>https://www.davidhaney.io/new-blog-name-and-domain/</link>
+            <guid>https://www.davidhaney.io/new-blog-name-and-domain/</guid>
+            <pubDate>Fri, 03 Aug 2018 04:00:00 GMT</pubDate>
+            <description><![CDATA[New Blog Name and Domain]]></description>
+        </item>
+        <item>
+            <title><![CDATA[.NET核心Azure函數教程]]></title>
+            <link>https://www.davidhaney.io/net-core-azure-functions-tutorial/</link>
+            <guid>https://www.davidhaney.io/net-core-azure-functions-tutorial/</guid>
+            <pubDate>Mon, 19 Nov 2018 05:00:00 GMT</pubDate>
+            <description><![CDATA[.NET Core Azure Functions Tutorial]]></description>
+        </item>
+        <item>
+            <title><![CDATA[安息日開始了]]></title>
+            <link>https://www.davidhaney.io/sabbatical-begins/</link>
+            <guid>https://www.davidhaney.io/sabbatical-begins/</guid>
+            <pubDate>Sat, 31 Aug 2019 05:00:00 GMT</pubDate>
+            <description><![CDATA[Sabbatical Begins]]></description>
+        </item>
+        <item>
+            <title><![CDATA[安息日第一週]]></title>
+            <link>https://www.davidhaney.io/sabbatical-week-one/</link>
+            <guid>https://www.davidhaney.io/sabbatical-week-one/</guid>
+            <pubDate>Sun, 08 Sep 2019 05:00:00 GMT</pubDate>
+            <description><![CDATA[Sabbatical Week One]]></description>
+        </item>
+        <item>
+            <title><![CDATA[.NET Core MVC - 如何訪問appsettings.json]]></title>
+            <link>https://www.davidhaney.io/net-core-mvc-access-appsettings-json/</link>
+            <guid>https://www.davidhaney.io/net-core-mvc-access-appsettings-json/</guid>
+            <pubDate>Mon, 09 Nov 2020 05:00:00 GMT</pubDate>
+            <description><![CDATA[.NET Core MVC - How to Access appsettings.json]]></description>
+        </item>
         <item>
             <title><![CDATA[這是個博客]]></title>
             <link>https://nichaley.com/blog//this-is-a-blog</link>
