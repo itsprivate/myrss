@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/02/22/technology/apple-netherlands-app-store.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/22/technology/apple-netherlands-app-store.html",
+            "title": "為什麼蘋果在荷蘭的鬥爭很重要",
+            "summary": "Why Apple’s Fight in the Netherlands Matters",
+            "date_modified": "2022-02-22T17:40:15.000Z",
+            "author": {
+                "name": "Shira Ovide",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/02/22/technology/big-tech-offices.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/02/22/technology/big-tech-offices.html",

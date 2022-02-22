@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-02-22T17:22:24.417Z</updated>
+    <updated>2022-02-22T17:53:33.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼蘋果在荷蘭的鬥爭很重要]]></title>
+        <id>https://www.nytimes.com/2022/02/22/technology/apple-netherlands-app-store.html</id>
+        <link href="https://www.nytimes.com/2022/02/22/technology/apple-netherlands-app-store.html"/>
+        <updated>2022-02-22T17:40:15.000Z</updated>
+        <summary type="html"><![CDATA[Why Apple’s Fight in the Netherlands Matters]]></summary>
+        <author>
+            <name>Shira Ovide</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大科技公司下了一個大賭注。辦公室仍然是未來的趨勢]]></title>
         <id>https://www.nytimes.com/2022/02/22/technology/big-tech-offices.html</id>
