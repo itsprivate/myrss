@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 22 Feb 2022 09:42:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 09:59:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,209 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[这是个博客]]></title>
+            <link>https://nichaley.com/blog//this-is-a-blog</link>
+            <guid>https://nichaley.com/blog//this-is-a-blog</guid>
+            <pubDate>Sun, 30 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is a blog]]></description>
+        </item>
+        <item>
+            <title><![CDATA[谈到初创企业，做第二名是被低估的]]></title>
+            <link>https://nichaley.com/blog//second-is-underrated</link>
+            <guid>https://nichaley.com/blog//second-is-underrated</guid>
+            <pubDate>Sun, 25 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[When it comes to startups, being second is underrated]]></description>
+        </item>
+        <item>
+            <title><![CDATA[把马鞍放到桨上]]></title>
+            <link>https://nichaley.com/blog//saddle-to-paddle</link>
+            <guid>https://nichaley.com/blog//saddle-to-paddle</guid>
+            <pubDate>Tue, 24 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Put the saddle to the paddle]]></description>
+        </item>
+        <item>
+            <title><![CDATA[可读性回顾]]></title>
+            <link>https://nichaley.com/blog//readability</link>
+            <guid>https://nichaley.com/blog//readability</guid>
+            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Readability retrospective]]></description>
+        </item>
+        <item>
+            <title><![CDATA[2021年的图片]]></title>
+            <link>https://nichaley.com/blog//2021-in-pictures</link>
+            <guid>https://nichaley.com/blog//2021-in-pictures</guid>
+            <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[2021 in pictures]]></description>
+        </item>
+        <item>
+            <title><![CDATA[泄露的数据显示，加拿大人为卡车司机的抗议活动捐赠了一半的资金]]></title>
+            <link>https://www.nytimes.com/2022/02/14/world/canada/canada-trucker-protests-donations.html</link>
+            <guid>https://www.nytimes.com/2022/02/14/world/canada/canada-trucker-protests-donations.html</guid>
+            <pubDate>Wed, 16 Feb 2022 00:37:34 GMT</pubDate>
+            <description><![CDATA[Canadians Donated Half of Funds for Trucker Protest, Leaked Data Shows]]></description>
+        </item>
+        <item>
+            <title><![CDATA[由于Covid的存在，办公室大厅正在走向非接触式。]]></title>
+            <link>https://www.nytimes.com/2022/02/15/business/contactless-office-lobby-return-to-work.html</link>
+            <guid>https://www.nytimes.com/2022/02/15/business/contactless-office-lobby-return-to-work.html</guid>
+            <pubDate>Tue, 15 Feb 2022 15:08:36 GMT</pubDate>
+            <description><![CDATA[Office Lobbies Are Going Contactless Because of Covid]]></description>
+        </item>
+        <item>
+            <title><![CDATA[这个YouTube明星也是一个零售帝国]]></title>
+            <link>https://www.nytimes.com/2022/02/15/technology/linus-sebastian-youtube-company.html</link>
+            <guid>https://www.nytimes.com/2022/02/15/technology/linus-sebastian-youtube-company.html</guid>
+            <pubDate>Tue, 15 Feb 2022 19:13:28 GMT</pubDate>
+            <description><![CDATA[This YouTube Star Is Also a Retail Empire]]></description>
+        </item>
+        <item>
+            <title><![CDATA[与Facebook的人一起出去。与Metamates在一起。]]></title>
+            <link>https://www.nytimes.com/2022/02/15/technology/metamates-meta-facebook.html</link>
+            <guid>https://www.nytimes.com/2022/02/15/technology/metamates-meta-facebook.html</guid>
+            <pubDate>Wed, 16 Feb 2022 00:43:58 GMT</pubDate>
+            <description><![CDATA[Out With the Facebookers. In With the Metamates.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[科技公司面临新的危机：招聘]]></title>
+            <link>https://www.nytimes.com/2022/02/16/magazine/tech-company-recruiters.html</link>
+            <guid>https://www.nytimes.com/2022/02/16/magazine/tech-company-recruiters.html</guid>
+            <pubDate>Wed, 16 Feb 2022 14:17:59 GMT</pubDate>
+            <description><![CDATA[Tech Companies Face a Fresh Crisis: Hiring]]></description>
+        </item>
+        <item>
+            <title><![CDATA[科技如何能（或不能）帮助你对抗飙升的能源账单]]></title>
+            <link>https://www.nytimes.com/2022/02/16/technology/personaltech/energy-savings-nest.html</link>
+            <guid>https://www.nytimes.com/2022/02/16/technology/personaltech/energy-savings-nest.html</guid>
+            <pubDate>Thu, 17 Feb 2022 16:20:46 GMT</pubDate>
+            <description><![CDATA[How Tech Can (and Can’t) Help You Fight Soaring Energy Bills]]></description>
+        </item>
+        <item>
+            <title><![CDATA[谷歌计划改变隐私，但承诺不会造成破坏性影响]]></title>
+            <link>https://www.nytimes.com/2022/02/16/technology/google-android-privacy.html</link>
+            <guid>https://www.nytimes.com/2022/02/16/technology/google-android-privacy.html</guid>
+            <pubDate>Wed, 16 Feb 2022 20:51:35 GMT</pubDate>
+            <description><![CDATA[Google Plans Privacy Changes, but Promises to Not Be Disruptive]]></description>
+        </item>
+        <item>
+            <title><![CDATA[不同意Metamates、Googlers和清教徒的意见]]></title>
+            <link>https://www.nytimes.com/2022/02/16/technology/metamates-googlers.html</link>
+            <guid>https://www.nytimes.com/2022/02/16/technology/metamates-googlers.html</guid>
+            <pubDate>Wed, 16 Feb 2022 18:18:16 GMT</pubDate>
+            <description><![CDATA[Nope to Metamates, Googlers and Puritans]]></description>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊斯坦顿岛仓库的工会选举已经确定]]></title>
+            <link>https://www.nytimes.com/2022/02/16/technology/amazon-staten-island-union.html</link>
+            <guid>https://www.nytimes.com/2022/02/16/technology/amazon-staten-island-union.html</guid>
+            <pubDate>Wed, 16 Feb 2022 20:55:49 GMT</pubDate>
+            <description><![CDATA[Union Election Is Set at Amazon's Staten Island Warehouse]]></description>
+        </item>
+        <item>
+            <title><![CDATA[TikTok明星Ava Majury发现了名声的黑暗面]]></title>
+            <link>https://www.nytimes.com/2022/02/17/us/politics/tiktok-ava-majury.html</link>
+            <guid>https://www.nytimes.com/2022/02/17/us/politics/tiktok-ava-majury.html</guid>
+            <pubDate>Thu, 17 Feb 2022 10:00:27 GMT</pubDate>
+            <description><![CDATA[TikTok Star Ava Majury Discovers the Dark Side of Fame]]></description>
+        </item>
+        <item>
+            <title><![CDATA[为什么播客正在成为Netflix]]></title>
+            <link>https://www.nytimes.com/2022/02/17/technology/podcasts-profits.html</link>
+            <guid>https://www.nytimes.com/2022/02/17/technology/podcasts-profits.html</guid>
+            <pubDate>Thu, 17 Feb 2022 17:07:47 GMT</pubDate>
+            <description><![CDATA[Why Podcasts Are Becoming Netflix]]></description>
+        </item>
+        <item>
+            <title><![CDATA[监管机构就 "幻影制动 "的报告对特斯拉进行调查]]></title>
+            <link>https://www.nytimes.com/2022/02/17/automobiles/tesla-phantom-braking.html</link>
+            <guid>https://www.nytimes.com/2022/02/17/automobiles/tesla-phantom-braking.html</guid>
+            <pubDate>Fri, 18 Feb 2022 04:45:59 GMT</pubDate>
+            <description><![CDATA[Regulators Investigate Tesla Over Reports of ‘Phantom Braking’]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Spotify的乔-罗根交易据说价值超过2亿美元]]></title>
+            <link>https://www.nytimes.com/2022/02/17/arts/music/spotify-joe-rogan-misinformation.html</link>
+            <guid>https://www.nytimes.com/2022/02/17/arts/music/spotify-joe-rogan-misinformation.html</guid>
+            <pubDate>Fri, 18 Feb 2022 00:55:33 GMT</pubDate>
+            <description><![CDATA[Spotify's Joe Rogan Deal Is Said to Be Worth Over $200 Million]]></description>
+        </item>
+        <item>
+            <title><![CDATA[舞蹈班开课了。摇摆、怪异、释放自我]]></title>
+            <link>https://www.nytimes.com/2022/02/18/arts/dance/angela-trimbur-online-dance.html</link>
+            <guid>https://www.nytimes.com/2022/02/18/arts/dance/angela-trimbur-online-dance.html</guid>
+            <pubDate>Sat, 19 Feb 2022 04:23:25 GMT</pubDate>
+            <description><![CDATA[Dance Class Is in Session: Flail, Get Weird, Unlock Yourself]]></description>
+        </item>
+        <item>
+            <title><![CDATA[谁是QAnon的后台？语言学侦探找到指纹]]></title>
+            <link>https://www.nytimes.com/2022/02/19/technology/qanon-messages-authors.html</link>
+            <guid>https://www.nytimes.com/2022/02/19/technology/qanon-messages-authors.html</guid>
+            <pubDate>Sat, 19 Feb 2022 18:40:23 GMT</pubDate>
+            <description><![CDATA[Who Is Behind QAnon? Linguistic Detectives Find Fingerprints]]></description>
+        </item>
+        <item>
+            <title><![CDATA[加密货币诈骗者瞄准约会应用程序]]></title>
+            <link>https://www.nytimes.com/2022/02/21/technology/crypto-scammers-new-target-dating-apps.html</link>
+            <guid>https://www.nytimes.com/2022/02/21/technology/crypto-scammers-new-target-dating-apps.html</guid>
+            <pubDate>Mon, 21 Feb 2022 10:00:15 GMT</pubDate>
+            <description><![CDATA[Crypto Scammers Target Dating Apps]]></description>
+        </item>
+        <item>
+            <title><![CDATA[帕特里克-盖尔辛格是英特尔的忠实信徒]]></title>
+            <link>https://www.nytimes.com/2022/02/17/technology/intel-ceo-patrick-gelsinger.html</link>
+            <guid>https://www.nytimes.com/2022/02/17/technology/intel-ceo-patrick-gelsinger.html</guid>
+            <pubDate>Thu, 17 Feb 2022 16:07:03 GMT</pubDate>
+            <description><![CDATA[Patrick Gelsinger is Intel's True Believer]]></description>
+        </item>
+        <item>
+            <title><![CDATA[特朗普的真相社交准备加入一个拥挤的领域]]></title>
+            <link>https://www.nytimes.com/2022/02/18/business/trumps-truth-social.html</link>
+            <guid>https://www.nytimes.com/2022/02/18/business/trumps-truth-social.html</guid>
+            <pubDate>Sun, 20 Feb 2022 17:05:32 GMT</pubDate>
+            <description><![CDATA[Trump’s Truth Social Is Poised to Join a Crowded Field]]></description>
+        </item>
+        <item>
+            <title><![CDATA[中国如何利用机器人和虚假的推特账户来塑造奥运会]]></title>
+            <link>https://www.nytimes.com/2022/02/18/technology/china-olympics-propaganda.html</link>
+            <guid>https://www.nytimes.com/2022/02/18/technology/china-olympics-propaganda.html</guid>
+            <pubDate>Fri, 18 Feb 2022 10:00:33 GMT</pubDate>
+            <description><![CDATA[How China Uses Bots and Fake Twitter Accounts to Shape the Olympics]]></description>
+        </item>
+        <item>
+            <title><![CDATA[哈萨克斯坦的互联网关闭可能是对乌克兰的一个警告]]></title>
+            <link>https://www.nytimes.com/2022/02/18/technology/kazakhstan-internet-russia-ukraine.html</link>
+            <guid>https://www.nytimes.com/2022/02/18/technology/kazakhstan-internet-russia-ukraine.html</guid>
+            <pubDate>Fri, 18 Feb 2022 22:22:36 GMT</pubDate>
+            <description><![CDATA[Kazakhstan's Internet Shutdowns Could Be a Warning for Ukraine]]></description>
+        </item>
+        <item>
+            <title><![CDATA[无论如何写吧]]></title>
+            <link>https://dkb.io/post/write-it-anyway</link>
+            <guid>https://dkb.io/post/write-it-anyway</guid>
+            <pubDate>Sat, 29 Jul 2017 00:00:00 GMT</pubDate>
+            <description><![CDATA[Write It Anyway]]></description>
+        </item>
+        <item>
+            <title><![CDATA[组织世界上的信息]]></title>
+            <link>https://dkb.io/post/organize-the-world-information</link>
+            <guid>https://dkb.io/post/organize-the-world-information</guid>
+            <pubDate>Sun, 28 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[To Organize The World's Information]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何阅读一本书]]></title>
+            <link>https://dkb.io/post/how-to-read-a-book</link>
+            <guid>https://dkb.io/post/how-to-read-a-book</guid>
+            <pubDate>Sun, 06 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[How To Read A Book]]></description>
+        </item>
+        <item>
+            <title><![CDATA[谷歌搜索正在消亡]]></title>
+            <link>https://dkb.io/post/google-search-is-dying</link>
+            <guid>https://dkb.io/post/google-search-is-dying</guid>
+            <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Google Search Is Dying]]></description>
+        </item>
         <item>
             <title><![CDATA[万亿和万亿。对无尽经济增长的选择性失明]]></title>
             <link>https://www.currentaffairs.org/2022/02/trillions-and-trillions-the-selective-blindness-on-endless-economic-growth/</link>

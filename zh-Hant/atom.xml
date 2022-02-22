@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-02-22T09:42:37.410Z</updated>
+    <updated>2022-02-22T09:59:16.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,325 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[這是個博客]]></title>
+        <id>https://nichaley.com/blog//this-is-a-blog</id>
+        <link href="https://nichaley.com/blog//this-is-a-blog"/>
+        <updated>2021-05-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is a blog]]></summary>
+        <author>
+            <name>hello@nichaley.com (Nicholas Haley)</name>
+            <uri>https://www.nichaley.com/rss/feed.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[談到初創企業，做第二名是被低估的]]></title>
+        <id>https://nichaley.com/blog//second-is-underrated</id>
+        <link href="https://nichaley.com/blog//second-is-underrated"/>
+        <updated>2021-07-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to startups, being second is underrated]]></summary>
+        <author>
+            <name>hello@nichaley.com (Nicholas Haley)</name>
+            <uri>https://www.nichaley.com/rss/feed.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[把馬鞍放到槳上]]></title>
+        <id>https://nichaley.com/blog//saddle-to-paddle</id>
+        <link href="https://nichaley.com/blog//saddle-to-paddle"/>
+        <updated>2021-08-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Put the saddle to the paddle]]></summary>
+        <author>
+            <name>hello@nichaley.com (Nicholas Haley)</name>
+            <uri>https://www.nichaley.com/rss/feed.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[可讀性回顧]]></title>
+        <id>https://nichaley.com/blog//readability</id>
+        <link href="https://nichaley.com/blog//readability"/>
+        <updated>2022-02-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Readability retrospective]]></summary>
+        <author>
+            <name>hello@nichaley.com (Nicholas Haley)</name>
+            <uri>https://www.nichaley.com/rss/feed.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年的圖片]]></title>
+        <id>https://nichaley.com/blog//2021-in-pictures</id>
+        <link href="https://nichaley.com/blog//2021-in-pictures"/>
+        <updated>2021-12-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2021 in pictures]]></summary>
+        <author>
+            <name>hello@nichaley.com (Nicholas Haley)</name>
+            <uri>https://www.nichaley.com/rss/feed.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[洩露的數據顯示，加拿大人為卡車司機的抗議活動捐贈了一半的資金]]></title>
+        <id>https://www.nytimes.com/2022/02/14/world/canada/canada-trucker-protests-donations.html</id>
+        <link href="https://www.nytimes.com/2022/02/14/world/canada/canada-trucker-protests-donations.html"/>
+        <updated>2022-02-16T00:37:34.000Z</updated>
+        <summary type="html"><![CDATA[Canadians Donated Half of Funds for Trucker Protest, Leaked Data Shows]]></summary>
+        <author>
+            <name>Mike McIntire and Michael H. Keller</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[由於Covid的存在，辦公室大廳正在走向非接觸式。]]></title>
+        <id>https://www.nytimes.com/2022/02/15/business/contactless-office-lobby-return-to-work.html</id>
+        <link href="https://www.nytimes.com/2022/02/15/business/contactless-office-lobby-return-to-work.html"/>
+        <updated>2022-02-15T15:08:36.000Z</updated>
+        <summary type="html"><![CDATA[Office Lobbies Are Going Contactless Because of Covid]]></summary>
+        <author>
+            <name>Joe Gose</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[這個YouTube明星也是一個零售帝國]]></title>
+        <id>https://www.nytimes.com/2022/02/15/technology/linus-sebastian-youtube-company.html</id>
+        <link href="https://www.nytimes.com/2022/02/15/technology/linus-sebastian-youtube-company.html"/>
+        <updated>2022-02-15T19:13:28.000Z</updated>
+        <summary type="html"><![CDATA[This YouTube Star Is Also a Retail Empire]]></summary>
+        <author>
+            <name>Shira Ovide</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[與Facebook的人一起出去。與Metamates在一起。]]></title>
+        <id>https://www.nytimes.com/2022/02/15/technology/metamates-meta-facebook.html</id>
+        <link href="https://www.nytimes.com/2022/02/15/technology/metamates-meta-facebook.html"/>
+        <updated>2022-02-16T00:43:58.000Z</updated>
+        <summary type="html"><![CDATA[Out With the Facebookers. In With the Metamates.]]></summary>
+        <author>
+            <name>Mike Isaac and Sheera Frenkel</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技公司面臨新的危機：招聘]]></title>
+        <id>https://www.nytimes.com/2022/02/16/magazine/tech-company-recruiters.html</id>
+        <link href="https://www.nytimes.com/2022/02/16/magazine/tech-company-recruiters.html"/>
+        <updated>2022-02-16T14:17:59.000Z</updated>
+        <summary type="html"><![CDATA[Tech Companies Face a Fresh Crisis: Hiring]]></summary>
+        <author>
+            <name>Susan Dominus</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技如何能（或不能）幫助你對抗飆升的能源賬單]]></title>
+        <id>https://www.nytimes.com/2022/02/16/technology/personaltech/energy-savings-nest.html</id>
+        <link href="https://www.nytimes.com/2022/02/16/technology/personaltech/energy-savings-nest.html"/>
+        <updated>2022-02-17T16:20:46.000Z</updated>
+        <summary type="html"><![CDATA[How Tech Can (and Can’t) Help You Fight Soaring Energy Bills]]></summary>
+        <author>
+            <name>Brian X. Chen</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌計劃改變隱私，但承諾不會造成破壞性影響]]></title>
+        <id>https://www.nytimes.com/2022/02/16/technology/google-android-privacy.html</id>
+        <link href="https://www.nytimes.com/2022/02/16/technology/google-android-privacy.html"/>
+        <updated>2022-02-16T20:51:35.000Z</updated>
+        <summary type="html"><![CDATA[Google Plans Privacy Changes, but Promises to Not Be Disruptive]]></summary>
+        <author>
+            <name>Daisuke Wakabayashi</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不同意Metamates、Googlers和清教徒的意見]]></title>
+        <id>https://www.nytimes.com/2022/02/16/technology/metamates-googlers.html</id>
+        <link href="https://www.nytimes.com/2022/02/16/technology/metamates-googlers.html"/>
+        <updated>2022-02-16T18:18:16.000Z</updated>
+        <summary type="html"><![CDATA[Nope to Metamates, Googlers and Puritans]]></summary>
+        <author>
+            <name>Shira Ovide</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亞馬遜斯坦頓島倉庫的工會選舉已經確定]]></title>
+        <id>https://www.nytimes.com/2022/02/16/technology/amazon-staten-island-union.html</id>
+        <link href="https://www.nytimes.com/2022/02/16/technology/amazon-staten-island-union.html"/>
+        <updated>2022-02-16T20:55:49.000Z</updated>
+        <summary type="html"><![CDATA[Union Election Is Set at Amazon's Staten Island Warehouse]]></summary>
+        <author>
+            <name>Karen Weise</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok明星Ava Majury發現了名聲的黑暗面]]></title>
+        <id>https://www.nytimes.com/2022/02/17/us/politics/tiktok-ava-majury.html</id>
+        <link href="https://www.nytimes.com/2022/02/17/us/politics/tiktok-ava-majury.html"/>
+        <updated>2022-02-17T10:00:27.000Z</updated>
+        <summary type="html"><![CDATA[TikTok Star Ava Majury Discovers the Dark Side of Fame]]></summary>
+        <author>
+            <name>Elizabeth Williamson</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼播客正在成為Netflix]]></title>
+        <id>https://www.nytimes.com/2022/02/17/technology/podcasts-profits.html</id>
+        <link href="https://www.nytimes.com/2022/02/17/technology/podcasts-profits.html"/>
+        <updated>2022-02-17T17:07:47.000Z</updated>
+        <summary type="html"><![CDATA[Why Podcasts Are Becoming Netflix]]></summary>
+        <author>
+            <name>Shira Ovide</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[監管機構就 "幻影制動 "的報告對特斯拉進行調查]]></title>
+        <id>https://www.nytimes.com/2022/02/17/automobiles/tesla-phantom-braking.html</id>
+        <link href="https://www.nytimes.com/2022/02/17/automobiles/tesla-phantom-braking.html"/>
+        <updated>2022-02-18T04:45:59.000Z</updated>
+        <summary type="html"><![CDATA[Regulators Investigate Tesla Over Reports of ‘Phantom Braking’]]></summary>
+        <author>
+            <name>Neal E. Boudette</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spotify的喬-羅根交易據說價值超過2億美元]]></title>
+        <id>https://www.nytimes.com/2022/02/17/arts/music/spotify-joe-rogan-misinformation.html</id>
+        <link href="https://www.nytimes.com/2022/02/17/arts/music/spotify-joe-rogan-misinformation.html"/>
+        <updated>2022-02-18T00:55:33.000Z</updated>
+        <summary type="html"><![CDATA[Spotify's Joe Rogan Deal Is Said to Be Worth Over $200 Million]]></summary>
+        <author>
+            <name>Katherine Rosman, Ben Sisario, Mike Isaac and Adam Satariano</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[舞蹈班開課了。搖擺、怪異、釋放自我]]></title>
+        <id>https://www.nytimes.com/2022/02/18/arts/dance/angela-trimbur-online-dance.html</id>
+        <link href="https://www.nytimes.com/2022/02/18/arts/dance/angela-trimbur-online-dance.html"/>
+        <updated>2022-02-19T04:23:25.000Z</updated>
+        <summary type="html"><![CDATA[Dance Class Is in Session: Flail, Get Weird, Unlock Yourself]]></summary>
+        <author>
+            <name>Melena Ryzik</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[誰是QAnon的後臺？語言學偵探找到指紋]]></title>
+        <id>https://www.nytimes.com/2022/02/19/technology/qanon-messages-authors.html</id>
+        <link href="https://www.nytimes.com/2022/02/19/technology/qanon-messages-authors.html"/>
+        <updated>2022-02-19T18:40:23.000Z</updated>
+        <summary type="html"><![CDATA[Who Is Behind QAnon? Linguistic Detectives Find Fingerprints]]></summary>
+        <author>
+            <name>David D. Kirkpatrick</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密貨幣詐騙者瞄準約會應用程序]]></title>
+        <id>https://www.nytimes.com/2022/02/21/technology/crypto-scammers-new-target-dating-apps.html</id>
+        <link href="https://www.nytimes.com/2022/02/21/technology/crypto-scammers-new-target-dating-apps.html"/>
+        <updated>2022-02-21T10:00:15.000Z</updated>
+        <summary type="html"><![CDATA[Crypto Scammers Target Dating Apps]]></summary>
+        <author>
+            <name>Kevin Roose</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[帕特里克-蓋爾辛格是英特爾的忠實信徒]]></title>
+        <id>https://www.nytimes.com/2022/02/17/technology/intel-ceo-patrick-gelsinger.html</id>
+        <link href="https://www.nytimes.com/2022/02/17/technology/intel-ceo-patrick-gelsinger.html"/>
+        <updated>2022-02-17T16:07:03.000Z</updated>
+        <summary type="html"><![CDATA[Patrick Gelsinger is Intel's True Believer]]></summary>
+        <author>
+            <name>Don Clark</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普的真相社交準備加入一個擁擠的領域]]></title>
+        <id>https://www.nytimes.com/2022/02/18/business/trumps-truth-social.html</id>
+        <link href="https://www.nytimes.com/2022/02/18/business/trumps-truth-social.html"/>
+        <updated>2022-02-20T17:05:32.000Z</updated>
+        <summary type="html"><![CDATA[Trump’s Truth Social Is Poised to Join a Crowded Field]]></summary>
+        <author>
+            <name>Matthew Goldstein and Ryan Mac</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中國如何利用機器人和虛假的推特賬戶來塑造奧運會]]></title>
+        <id>https://www.nytimes.com/2022/02/18/technology/china-olympics-propaganda.html</id>
+        <link href="https://www.nytimes.com/2022/02/18/technology/china-olympics-propaganda.html"/>
+        <updated>2022-02-18T10:00:33.000Z</updated>
+        <summary type="html"><![CDATA[How China Uses Bots and Fake Twitter Accounts to Shape the Olympics]]></summary>
+        <author>
+            <name>Steven Lee Myers, Paul Mozur and Jeff Kao</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哈薩克斯坦的互聯網關閉可能是對烏克蘭的一個警告]]></title>
+        <id>https://www.nytimes.com/2022/02/18/technology/kazakhstan-internet-russia-ukraine.html</id>
+        <link href="https://www.nytimes.com/2022/02/18/technology/kazakhstan-internet-russia-ukraine.html"/>
+        <updated>2022-02-18T22:22:36.000Z</updated>
+        <summary type="html"><![CDATA[Kazakhstan's Internet Shutdowns Could Be a Warning for Ukraine]]></summary>
+        <author>
+            <name>Adam Satariano, Paul Mozur and Valerie Hopkins</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[無論如何寫吧]]></title>
+        <id>https://dkb.io/post/write-it-anyway</id>
+        <link href="https://dkb.io/post/write-it-anyway"/>
+        <updated>2017-07-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Write It Anyway]]></summary>
+        <author>
+            <name>dkb@dkb.fyi (dkb)</name>
+            <uri>https://dkb.io/rss.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[組織世界上的信息]]></title>
+        <id>https://dkb.io/post/organize-the-world-information</id>
+        <link href="https://dkb.io/post/organize-the-world-information"/>
+        <updated>2021-02-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[To Organize The World's Information]]></summary>
+        <author>
+            <name>dkb@dkb.fyi (dkb)</name>
+            <uri>https://dkb.io/rss.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何閱讀一本書]]></title>
+        <id>https://dkb.io/post/how-to-read-a-book</id>
+        <link href="https://dkb.io/post/how-to-read-a-book"/>
+        <updated>2022-02-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How To Read A Book]]></summary>
+        <author>
+            <name>dkb@dkb.fyi (dkb)</name>
+            <uri>https://dkb.io/rss.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌搜索正在消亡]]></title>
+        <id>https://dkb.io/post/google-search-is-dying</id>
+        <link href="https://dkb.io/post/google-search-is-dying"/>
+        <updated>2022-02-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Google Search Is Dying]]></summary>
+        <author>
+            <name>dkb@dkb.fyi (dkb)</name>
+            <uri>https://dkb.io/rss.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[萬億和萬億。對無盡經濟增長的選擇性失明]]></title>
         <id>https://www.currentaffairs.org/2022/02/trillions-and-trillions-the-selective-blindness-on-endless-economic-growth/</id>

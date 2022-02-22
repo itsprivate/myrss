@@ -11,6 +11,354 @@
     },
     "items": [
         {
+            "id": "https://nichaley.com/blog//this-is-a-blog",
+            "content_html": "",
+            "url": "https://nichaley.com/blog//this-is-a-blog",
+            "title": "这是个博客",
+            "summary": "This is a blog",
+            "date_modified": "2021-05-30T00:00:00.000Z",
+            "author": {
+                "name": "hello@nichaley.com (Nicholas Haley)",
+                "url": "https://www.nichaley.com/rss/feed.xml"
+            }
+        },
+        {
+            "id": "https://nichaley.com/blog//second-is-underrated",
+            "content_html": "",
+            "url": "https://nichaley.com/blog//second-is-underrated",
+            "title": "谈到初创企业，做第二名是被低估的",
+            "summary": "When it comes to startups, being second is underrated",
+            "date_modified": "2021-07-25T00:00:00.000Z",
+            "author": {
+                "name": "hello@nichaley.com (Nicholas Haley)",
+                "url": "https://www.nichaley.com/rss/feed.xml"
+            }
+        },
+        {
+            "id": "https://nichaley.com/blog//saddle-to-paddle",
+            "content_html": "",
+            "url": "https://nichaley.com/blog//saddle-to-paddle",
+            "title": "把马鞍放到桨上",
+            "summary": "Put the saddle to the paddle",
+            "date_modified": "2021-08-24T00:00:00.000Z",
+            "author": {
+                "name": "hello@nichaley.com (Nicholas Haley)",
+                "url": "https://www.nichaley.com/rss/feed.xml"
+            }
+        },
+        {
+            "id": "https://nichaley.com/blog//readability",
+            "content_html": "",
+            "url": "https://nichaley.com/blog//readability",
+            "title": "可读性回顾",
+            "summary": "Readability retrospective",
+            "date_modified": "2022-02-21T00:00:00.000Z",
+            "author": {
+                "name": "hello@nichaley.com (Nicholas Haley)",
+                "url": "https://www.nichaley.com/rss/feed.xml"
+            }
+        },
+        {
+            "id": "https://nichaley.com/blog//2021-in-pictures",
+            "content_html": "",
+            "url": "https://nichaley.com/blog//2021-in-pictures",
+            "title": "2021年的图片",
+            "summary": "2021 in pictures",
+            "date_modified": "2021-12-31T00:00:00.000Z",
+            "author": {
+                "name": "hello@nichaley.com (Nicholas Haley)",
+                "url": "https://www.nichaley.com/rss/feed.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/02/14/world/canada/canada-trucker-protests-donations.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/14/world/canada/canada-trucker-protests-donations.html",
+            "title": "泄露的数据显示，加拿大人为卡车司机的抗议活动捐赠了一半的资金",
+            "summary": "Canadians Donated Half of Funds for Trucker Protest, Leaked Data Shows",
+            "date_modified": "2022-02-16T00:37:34.000Z",
+            "author": {
+                "name": "Mike McIntire and Michael H. Keller",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/02/15/business/contactless-office-lobby-return-to-work.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/15/business/contactless-office-lobby-return-to-work.html",
+            "title": "由于Covid的存在，办公室大厅正在走向非接触式。",
+            "summary": "Office Lobbies Are Going Contactless Because of Covid",
+            "date_modified": "2022-02-15T15:08:36.000Z",
+            "author": {
+                "name": "Joe Gose",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/02/15/technology/linus-sebastian-youtube-company.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/15/technology/linus-sebastian-youtube-company.html",
+            "title": "这个YouTube明星也是一个零售帝国",
+            "summary": "This YouTube Star Is Also a Retail Empire",
+            "date_modified": "2022-02-15T19:13:28.000Z",
+            "author": {
+                "name": "Shira Ovide",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/02/15/technology/metamates-meta-facebook.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/15/technology/metamates-meta-facebook.html",
+            "title": "与Facebook的人一起出去。与Metamates在一起。",
+            "summary": "Out With the Facebookers. In With the Metamates.",
+            "date_modified": "2022-02-16T00:43:58.000Z",
+            "author": {
+                "name": "Mike Isaac and Sheera Frenkel",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/02/16/magazine/tech-company-recruiters.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/16/magazine/tech-company-recruiters.html",
+            "title": "科技公司面临新的危机：招聘",
+            "summary": "Tech Companies Face a Fresh Crisis: Hiring",
+            "date_modified": "2022-02-16T14:17:59.000Z",
+            "author": {
+                "name": "Susan Dominus",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/02/16/technology/personaltech/energy-savings-nest.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/16/technology/personaltech/energy-savings-nest.html",
+            "title": "科技如何能（或不能）帮助你对抗飙升的能源账单",
+            "summary": "How Tech Can (and Can’t) Help You Fight Soaring Energy Bills",
+            "date_modified": "2022-02-17T16:20:46.000Z",
+            "author": {
+                "name": "Brian X. Chen",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/02/16/technology/google-android-privacy.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/16/technology/google-android-privacy.html",
+            "title": "谷歌计划改变隐私，但承诺不会造成破坏性影响",
+            "summary": "Google Plans Privacy Changes, but Promises to Not Be Disruptive",
+            "date_modified": "2022-02-16T20:51:35.000Z",
+            "author": {
+                "name": "Daisuke Wakabayashi",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/02/16/technology/metamates-googlers.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/16/technology/metamates-googlers.html",
+            "title": "不同意Metamates、Googlers和清教徒的意见",
+            "summary": "Nope to Metamates, Googlers and Puritans",
+            "date_modified": "2022-02-16T18:18:16.000Z",
+            "author": {
+                "name": "Shira Ovide",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/02/16/technology/amazon-staten-island-union.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/16/technology/amazon-staten-island-union.html",
+            "title": "亚马逊斯坦顿岛仓库的工会选举已经确定",
+            "summary": "Union Election Is Set at Amazon's Staten Island Warehouse",
+            "date_modified": "2022-02-16T20:55:49.000Z",
+            "author": {
+                "name": "Karen Weise",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/02/17/us/politics/tiktok-ava-majury.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/17/us/politics/tiktok-ava-majury.html",
+            "title": "TikTok明星Ava Majury发现了名声的黑暗面",
+            "summary": "TikTok Star Ava Majury Discovers the Dark Side of Fame",
+            "date_modified": "2022-02-17T10:00:27.000Z",
+            "author": {
+                "name": "Elizabeth Williamson",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/02/17/technology/podcasts-profits.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/17/technology/podcasts-profits.html",
+            "title": "为什么播客正在成为Netflix",
+            "summary": "Why Podcasts Are Becoming Netflix",
+            "date_modified": "2022-02-17T17:07:47.000Z",
+            "author": {
+                "name": "Shira Ovide",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/02/17/automobiles/tesla-phantom-braking.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/17/automobiles/tesla-phantom-braking.html",
+            "title": "监管机构就 \"幻影制动 \"的报告对特斯拉进行调查",
+            "summary": "Regulators Investigate Tesla Over Reports of ‘Phantom Braking’",
+            "date_modified": "2022-02-18T04:45:59.000Z",
+            "author": {
+                "name": "Neal E. Boudette",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/02/17/arts/music/spotify-joe-rogan-misinformation.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/17/arts/music/spotify-joe-rogan-misinformation.html",
+            "title": "Spotify的乔-罗根交易据说价值超过2亿美元",
+            "summary": "Spotify's Joe Rogan Deal Is Said to Be Worth Over $200 Million",
+            "date_modified": "2022-02-18T00:55:33.000Z",
+            "author": {
+                "name": "Katherine Rosman, Ben Sisario, Mike Isaac and Adam Satariano",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/02/18/arts/dance/angela-trimbur-online-dance.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/18/arts/dance/angela-trimbur-online-dance.html",
+            "title": "舞蹈班开课了。摇摆、怪异、释放自我",
+            "summary": "Dance Class Is in Session: Flail, Get Weird, Unlock Yourself",
+            "date_modified": "2022-02-19T04:23:25.000Z",
+            "author": {
+                "name": "Melena Ryzik",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/02/19/technology/qanon-messages-authors.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/19/technology/qanon-messages-authors.html",
+            "title": "谁是QAnon的后台？语言学侦探找到指纹",
+            "summary": "Who Is Behind QAnon? Linguistic Detectives Find Fingerprints",
+            "date_modified": "2022-02-19T18:40:23.000Z",
+            "author": {
+                "name": "David D. Kirkpatrick",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/02/21/technology/crypto-scammers-new-target-dating-apps.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/21/technology/crypto-scammers-new-target-dating-apps.html",
+            "title": "加密货币诈骗者瞄准约会应用程序",
+            "summary": "Crypto Scammers Target Dating Apps",
+            "date_modified": "2022-02-21T10:00:15.000Z",
+            "author": {
+                "name": "Kevin Roose",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/02/17/technology/intel-ceo-patrick-gelsinger.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/17/technology/intel-ceo-patrick-gelsinger.html",
+            "title": "帕特里克-盖尔辛格是英特尔的忠实信徒",
+            "summary": "Patrick Gelsinger is Intel's True Believer",
+            "date_modified": "2022-02-17T16:07:03.000Z",
+            "author": {
+                "name": "Don Clark",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/02/18/business/trumps-truth-social.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/18/business/trumps-truth-social.html",
+            "title": "特朗普的真相社交准备加入一个拥挤的领域",
+            "summary": "Trump’s Truth Social Is Poised to Join a Crowded Field",
+            "date_modified": "2022-02-20T17:05:32.000Z",
+            "author": {
+                "name": "Matthew Goldstein and Ryan Mac",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/02/18/technology/china-olympics-propaganda.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/18/technology/china-olympics-propaganda.html",
+            "title": "中国如何利用机器人和虚假的推特账户来塑造奥运会",
+            "summary": "How China Uses Bots and Fake Twitter Accounts to Shape the Olympics",
+            "date_modified": "2022-02-18T10:00:33.000Z",
+            "author": {
+                "name": "Steven Lee Myers, Paul Mozur and Jeff Kao",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/02/18/technology/kazakhstan-internet-russia-ukraine.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/18/technology/kazakhstan-internet-russia-ukraine.html",
+            "title": "哈萨克斯坦的互联网关闭可能是对乌克兰的一个警告",
+            "summary": "Kazakhstan's Internet Shutdowns Could Be a Warning for Ukraine",
+            "date_modified": "2022-02-18T22:22:36.000Z",
+            "author": {
+                "name": "Adam Satariano, Paul Mozur and Valerie Hopkins",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://dkb.io/post/write-it-anyway",
+            "content_html": "",
+            "url": "https://dkb.io/post/write-it-anyway",
+            "title": "无论如何写吧",
+            "summary": "Write It Anyway",
+            "date_modified": "2017-07-29T00:00:00.000Z",
+            "author": {
+                "name": "dkb@dkb.fyi (dkb)",
+                "url": "https://dkb.io/rss.xml"
+            }
+        },
+        {
+            "id": "https://dkb.io/post/organize-the-world-information",
+            "content_html": "",
+            "url": "https://dkb.io/post/organize-the-world-information",
+            "title": "组织世界上的信息",
+            "summary": "To Organize The World's Information",
+            "date_modified": "2021-02-28T00:00:00.000Z",
+            "author": {
+                "name": "dkb@dkb.fyi (dkb)",
+                "url": "https://dkb.io/rss.xml"
+            }
+        },
+        {
+            "id": "https://dkb.io/post/how-to-read-a-book",
+            "content_html": "",
+            "url": "https://dkb.io/post/how-to-read-a-book",
+            "title": "如何阅读一本书",
+            "summary": "How To Read A Book",
+            "date_modified": "2022-02-06T00:00:00.000Z",
+            "author": {
+                "name": "dkb@dkb.fyi (dkb)",
+                "url": "https://dkb.io/rss.xml"
+            }
+        },
+        {
+            "id": "https://dkb.io/post/google-search-is-dying",
+            "content_html": "",
+            "url": "https://dkb.io/post/google-search-is-dying",
+            "title": "谷歌搜索正在消亡",
+            "summary": "Google Search Is Dying",
+            "date_modified": "2022-02-15T00:00:00.000Z",
+            "author": {
+                "name": "dkb@dkb.fyi (dkb)",
+                "url": "https://dkb.io/rss.xml"
+            }
+        },
+        {
             "id": "https://www.currentaffairs.org/2022/02/trillions-and-trillions-the-selective-blindness-on-endless-economic-growth/",
             "content_html": "",
             "url": "https://www.currentaffairs.org/2022/02/trillions-and-trillions-the-selective-blindness-on-endless-economic-growth/",
