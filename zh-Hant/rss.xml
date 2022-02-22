@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 22 Feb 2022 13:09:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 15:36:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[大科技公司下了一個大賭注。辦公室仍然是未來的趨勢]]></title>
+            <link>https://www.nytimes.com/2022/02/22/business/big-tech-offices.html</link>
+            <guid>https://www.nytimes.com/2022/02/22/business/big-tech-offices.html</guid>
+            <pubDate>Tue, 22 Feb 2022 08:00:11 GMT</pubDate>
+            <description><![CDATA[Big Tech Makes a Big Bet: Offices Are Still the Future]]></description>
+        </item>
         <item>
             <title><![CDATA[關於靜態網站生成器和WordPress的思考]]></title>
             <link>https://www.mooreds.com/wordpress/archives/3369</link>

@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/02/22/business/big-tech-offices.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/22/business/big-tech-offices.html",
+            "title": "大科技公司下了一个大赌注。办公室仍然是未来的趋势",
+            "summary": "Big Tech Makes a Big Bet: Offices Are Still the Future",
+            "date_modified": "2022-02-22T08:00:11.000Z",
+            "author": {
+                "name": "Kellen Browning",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.mooreds.com/wordpress/archives/3369",
             "content_html": "",
             "url": "https://www.mooreds.com/wordpress/archives/3369",

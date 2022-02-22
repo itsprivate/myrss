@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-02-22T13:09:50.647Z</updated>
+    <updated>2022-02-22T15:36:00.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[大科技公司下了一個大賭注。辦公室仍然是未來的趨勢]]></title>
+        <id>https://www.nytimes.com/2022/02/22/business/big-tech-offices.html</id>
+        <link href="https://www.nytimes.com/2022/02/22/business/big-tech-offices.html"/>
+        <updated>2022-02-22T08:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Big Tech Makes a Big Bet: Offices Are Still the Future]]></summary>
+        <author>
+            <name>Kellen Browning</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於靜態網站生成器和WordPress的思考]]></title>
         <id>https://www.mooreds.com/wordpress/archives/3369</id>
