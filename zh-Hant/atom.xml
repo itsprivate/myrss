@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-02-23T10:14:18.135Z</updated>
+    <updated>2022-02-23T18:03:50.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,281 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[實體店的捲土重來]]></title>
+        <id>https://www.nytimes.com/2022/02/23/technology/physical-stores-ecommerce.html</id>
+        <link href="https://www.nytimes.com/2022/02/23/technology/physical-stores-ecommerce.html"/>
+        <updated>2022-02-23T17:37:23.000Z</updated>
+        <summary type="html"><![CDATA[A Comeback for Physical Stores]]></summary>
+        <author>
+            <name>Shira Ovide</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[從 "空 "空氣中開採能源]]></title>
+        <id>http://cacm.acm.org/magazines/2022/3/258917-mining-energy-from-empty-air</id>
+        <link href="http://cacm.acm.org/magazines/2022/3/258917-mining-energy-from-empty-air"/>
+        <updated>2022-03-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mining Energy from 'Empty' Air]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[走向系統化的近程陷落離子量子計算機的架構設計]]></title>
+        <id>http://cacm.acm.org/magazines/2022/3/258916-toward-systematic-architectural-design-of-near-term-trapped-ion-quantum-computers</id>
+        <link href="http://cacm.acm.org/magazines/2022/3/258916-toward-systematic-architectural-design-of-near-term-trapped-ion-quantum-computers"/>
+        <updated>2022-03-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Toward Systematic Architectural Design of Near-Term Trapped Ion Quantum Computers]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們又來了]]></title>
+        <id>http://cacm.acm.org/magazines/2022/3/258915-here-we-go-again</id>
+        <link href="http://cacm.acm.org/magazines/2022/3/258915-here-we-go-again"/>
+        <updated>2022-03-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here We Go Again]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技術視角：專家如何學習新的編程語言？]]></title>
+        <id>http://cacm.acm.org/magazines/2022/3/258914-technical-perspective-how-do-experts-learn-new-programming-languages</id>
+        <link href="http://cacm.acm.org/magazines/2022/3/258914-technical-perspective-how-do-experts-learn-new-programming-languages"/>
+        <updated>2022-03-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Technical Perspective: How Do Experts Learn New Programming Languages?]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技術視角。將設計空間探索應用於量子架構]]></title>
+        <id>http://cacm.acm.org/magazines/2022/3/258913-technical-perspective-applying-design-space-exploration-to-quantum-architectures</id>
+        <link href="http://cacm.acm.org/magazines/2022/3/258913-technical-perspective-applying-design-space-exploration-to-quantum-architectures"/>
+        <updated>2022-03-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Technical Perspective: Applying Design-Space Exploration to Quantum Architectures]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[數據科學的自動化]]></title>
+        <id>http://cacm.acm.org/magazines/2022/3/258912-automating-data-science</id>
+        <link href="http://cacm.acm.org/magazines/2022/3/258912-automating-data-science"/>
+        <updated>2022-03-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Automating Data Science]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三個數據集的故事]]></title>
+        <id>http://cacm.acm.org/magazines/2022/3/258911-a-tale-of-three-datasets</id>
+        <link href="http://cacm.acm.org/magazines/2022/3/258911-a-tale-of-three-datasets"/>
+        <updated>2022-03-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Tale of Three Datasets]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[65項能力]]></title>
+        <id>http://cacm.acm.org/magazines/2022/3/258910-65-competencies</id>
+        <link href="http://cacm.acm.org/magazines/2022/3/258910-65-competencies"/>
+        <updated>2022-03-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[65 Competencies]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[代碼審查中的種族、民族、性別和年齡的反擊效應]]></title>
+        <id>http://cacm.acm.org/magazines/2022/3/258909-the-pushback-effects-of-race-ethnicity-gender-and-age-in-code-review</id>
+        <link href="http://cacm.acm.org/magazines/2022/3/258909-the-pushback-effects-of-race-ethnicity-gender-and-age-in-code-review"/>
+        <updated>2022-03-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Pushback Effects of Race, Ethnicity, Gender, and Age in Code Review]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[與Margo Seltzer和Mike Olson的對話]]></title>
+        <id>http://cacm.acm.org/magazines/2022/3/258908-a-conversation-with-margo-seltzer-and-mike-olson</id>
+        <link href="http://cacm.acm.org/magazines/2022/3/258908-a-conversation-with-margo-seltzer-and-mike-olson"/>
+        <updated>2022-03-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Conversation with Margo Seltzer and Mike Olson]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以人為本的靜態分析驅動的開發工具的方法]]></title>
+        <id>http://cacm.acm.org/magazines/2022/3/258907-human-centered-approach-to-static-analysis-driven-developer-tools</id>
+        <link href="http://cacm.acm.org/magazines/2022/3/258907-human-centered-approach-to-static-analysis-driven-developer-tools"/>
+        <updated>2022-03-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Human-Centered Approach to Static-Analysis-Driven Developer Tools]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於著名的DARPA紅氣球挑戰賽的幾個氣球的爆裂情況]]></title>
+        <id>http://cacm.acm.org/magazines/2022/3/258906-bursting-a-few-balloons-regarding-the-famous-darpa-red-balloon-challenge</id>
+        <link href="http://cacm.acm.org/magazines/2022/3/258906-bursting-a-few-balloons-regarding-the-famous-darpa-red-balloon-challenge"/>
+        <updated>2022-03-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bursting a Few Balloons Regarding the Famous DARPA Red Balloon Challenge]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[數字治理的未來]]></title>
+        <id>http://cacm.acm.org/magazines/2022/3/258905-futures-of-digital-governance</id>
+        <link href="http://cacm.acm.org/magazines/2022/3/258905-futures-of-digital-governance"/>
+        <updated>2022-03-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Futures of Digital Governance]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面部識別軟件令人不安的未來]]></title>
+        <id>http://cacm.acm.org/magazines/2022/3/258904-the-troubling-future-for-facial-recognition-software</id>
+        <link href="http://cacm.acm.org/magazines/2022/3/258904-the-troubling-future-for-facial-recognition-software"/>
+        <updated>2022-03-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Troubling Future for Facial Recognition Software]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[經歷了隱私危機，就能避免隱私危機嗎？]]></title>
+        <id>http://cacm.acm.org/magazines/2022/3/258903-is-a-privacy-crisis-experienced-a-privacy-crisis-avoided</id>
+        <link href="http://cacm.acm.org/magazines/2022/3/258903-is-a-privacy-crisis-experienced-a-privacy-crisis-avoided"/>
+        <updated>2022-03-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Is a Privacy Crisis Experienced, a Privacy Crisis Avoided?]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[行動呼籲]]></title>
+        <id>http://cacm.acm.org/magazines/2022/3/258902-a-call-to-action</id>
+        <link href="http://cacm.acm.org/magazines/2022/3/258902-a-call-to-action"/>
+        <updated>2022-03-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Call to Action]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仿真程序的版權影響]]></title>
+        <id>http://cacm.acm.org/magazines/2022/3/258901-copyright-implications-of-emulation-programs</id>
+        <link href="http://cacm.acm.org/magazines/2022/3/258901-copyright-implications-of-emulation-programs"/>
+        <updated>2022-03-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Copyright Implications of Emulation Programs]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[算法招聘需要人情味兒]]></title>
+        <id>http://cacm.acm.org/magazines/2022/3/258900-algorithmic-hiring-needs-a-human-face</id>
+        <link href="http://cacm.acm.org/magazines/2022/3/258900-algorithmic-hiring-needs-a-human-face"/>
+        <updated>2022-03-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Algorithmic Hiring Needs a Human Face]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通過人機交互和用戶體驗改變世界]]></title>
+        <id>http://cacm.acm.org/magazines/2022/3/258899-changing-the-world-through-hci-and-ux</id>
+        <link href="http://cacm.acm.org/magazines/2022/3/258899-changing-the-world-through-hci-and-ux"/>
+        <updated>2022-03-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Changing the World Through HCI and UX]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[集體努力]]></title>
+        <id>http://cacm.acm.org/magazines/2022/3/258898-a-group-effort</id>
+        <link href="http://cacm.acm.org/magazines/2022/3/258898-a-group-effort"/>
+        <updated>2022-03-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Group Effort]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加速推進人工智能]]></title>
+        <id>http://cacm.acm.org/magazines/2022/3/258897-accelerating-ai</id>
+        <link href="http://cacm.acm.org/magazines/2022/3/258897-accelerating-ai"/>
+        <updated>2022-03-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Accelerating AI]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[挑選出版目標]]></title>
+        <id>http://cacm.acm.org/magazines/2022/3/258896-picking-publication-targets</id>
+        <link href="http://cacm.acm.org/magazines/2022/3/258896-picking-publication-targets"/>
+        <updated>2022-03-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Picking Publication Targets]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[計算機科學的一個部門]]></title>
+        <id>http://cacm.acm.org/magazines/2022/3/258895-a-division-in-computer-science</id>
+        <link href="http://cacm.acm.org/magazines/2022/3/258895-a-division-in-computer-science"/>
+        <updated>2022-03-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Division in Computer Science]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACM、道德和企業行為]]></title>
+        <id>http://cacm.acm.org/magazines/2022/3/258894-acm-ethics-and-corporate-behavior</id>
+        <link href="http://cacm.acm.org/magazines/2022/3/258894-acm-ethics-and-corporate-behavior"/>
+        <updated>2022-03-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ACM, Ethics, and Corporate Behavior]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[厭倦了谷歌，陰謀論者轉向DuckDuckGo]]></title>
         <id>https://www.nytimes.com/2022/02/23/technology/duckduckgo-conspiracy-theories.html</id>

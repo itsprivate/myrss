@@ -11,6 +11,306 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/02/23/technology/physical-stores-ecommerce.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/23/technology/physical-stores-ecommerce.html",
+            "title": "實體店的捲土重來",
+            "summary": "A Comeback for Physical Stores",
+            "date_modified": "2022-02-23T17:37:23.000Z",
+            "author": {
+                "name": "Shira Ovide",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/3/258917-mining-energy-from-empty-air",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/3/258917-mining-energy-from-empty-air",
+            "title": "從 \"空 \"空氣中開採能源",
+            "summary": "Mining Energy from 'Empty' Air",
+            "date_modified": "2022-03-01T05:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/3/258916-toward-systematic-architectural-design-of-near-term-trapped-ion-quantum-computers",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/3/258916-toward-systematic-architectural-design-of-near-term-trapped-ion-quantum-computers",
+            "title": "走向系統化的近程陷落離子量子計算機的架構設計",
+            "summary": "Toward Systematic Architectural Design of Near-Term Trapped Ion Quantum Computers",
+            "date_modified": "2022-03-01T05:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/3/258915-here-we-go-again",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/3/258915-here-we-go-again",
+            "title": "我們又來了",
+            "summary": "Here We Go Again",
+            "date_modified": "2022-03-01T05:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/3/258914-technical-perspective-how-do-experts-learn-new-programming-languages",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/3/258914-technical-perspective-how-do-experts-learn-new-programming-languages",
+            "title": "技術視角：專家如何學習新的編程語言？",
+            "summary": "Technical Perspective: How Do Experts Learn New Programming Languages?",
+            "date_modified": "2022-03-01T05:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/3/258913-technical-perspective-applying-design-space-exploration-to-quantum-architectures",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/3/258913-technical-perspective-applying-design-space-exploration-to-quantum-architectures",
+            "title": "技術視角。將設計空間探索應用於量子架構",
+            "summary": "Technical Perspective: Applying Design-Space Exploration to Quantum Architectures",
+            "date_modified": "2022-03-01T05:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/3/258912-automating-data-science",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/3/258912-automating-data-science",
+            "title": "數據科學的自動化",
+            "summary": "Automating Data Science",
+            "date_modified": "2022-03-01T05:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/3/258911-a-tale-of-three-datasets",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/3/258911-a-tale-of-three-datasets",
+            "title": "三個數據集的故事",
+            "summary": "A Tale of Three Datasets",
+            "date_modified": "2022-03-01T05:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/3/258910-65-competencies",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/3/258910-65-competencies",
+            "title": "65項能力",
+            "summary": "65 Competencies",
+            "date_modified": "2022-03-01T05:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/3/258909-the-pushback-effects-of-race-ethnicity-gender-and-age-in-code-review",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/3/258909-the-pushback-effects-of-race-ethnicity-gender-and-age-in-code-review",
+            "title": "代碼審查中的種族、民族、性別和年齡的反擊效應",
+            "summary": "The Pushback Effects of Race, Ethnicity, Gender, and Age in Code Review",
+            "date_modified": "2022-03-01T05:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/3/258908-a-conversation-with-margo-seltzer-and-mike-olson",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/3/258908-a-conversation-with-margo-seltzer-and-mike-olson",
+            "title": "與Margo Seltzer和Mike Olson的對話",
+            "summary": "A Conversation with Margo Seltzer and Mike Olson",
+            "date_modified": "2022-03-01T05:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/3/258907-human-centered-approach-to-static-analysis-driven-developer-tools",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/3/258907-human-centered-approach-to-static-analysis-driven-developer-tools",
+            "title": "以人為本的靜態分析驅動的開發工具的方法",
+            "summary": "Human-Centered Approach to Static-Analysis-Driven Developer Tools",
+            "date_modified": "2022-03-01T05:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/3/258906-bursting-a-few-balloons-regarding-the-famous-darpa-red-balloon-challenge",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/3/258906-bursting-a-few-balloons-regarding-the-famous-darpa-red-balloon-challenge",
+            "title": "關於著名的DARPA紅氣球挑戰賽的幾個氣球的爆裂情況",
+            "summary": "Bursting a Few Balloons Regarding the Famous DARPA Red Balloon Challenge",
+            "date_modified": "2022-03-01T05:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/3/258905-futures-of-digital-governance",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/3/258905-futures-of-digital-governance",
+            "title": "數字治理的未來",
+            "summary": "Futures of Digital Governance",
+            "date_modified": "2022-03-01T05:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/3/258904-the-troubling-future-for-facial-recognition-software",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/3/258904-the-troubling-future-for-facial-recognition-software",
+            "title": "面部識別軟件令人不安的未來",
+            "summary": "The Troubling Future for Facial Recognition Software",
+            "date_modified": "2022-03-01T05:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/3/258903-is-a-privacy-crisis-experienced-a-privacy-crisis-avoided",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/3/258903-is-a-privacy-crisis-experienced-a-privacy-crisis-avoided",
+            "title": "經歷了隱私危機，就能避免隱私危機嗎？",
+            "summary": "Is a Privacy Crisis Experienced, a Privacy Crisis Avoided?",
+            "date_modified": "2022-03-01T05:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/3/258902-a-call-to-action",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/3/258902-a-call-to-action",
+            "title": "行動呼籲",
+            "summary": "A Call to Action",
+            "date_modified": "2022-03-01T05:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/3/258901-copyright-implications-of-emulation-programs",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/3/258901-copyright-implications-of-emulation-programs",
+            "title": "仿真程序的版權影響",
+            "summary": "Copyright Implications of Emulation Programs",
+            "date_modified": "2022-03-01T05:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/3/258900-algorithmic-hiring-needs-a-human-face",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/3/258900-algorithmic-hiring-needs-a-human-face",
+            "title": "算法招聘需要人情味兒",
+            "summary": "Algorithmic Hiring Needs a Human Face",
+            "date_modified": "2022-03-01T05:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/3/258899-changing-the-world-through-hci-and-ux",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/3/258899-changing-the-world-through-hci-and-ux",
+            "title": "通過人機交互和用戶體驗改變世界",
+            "summary": "Changing the World Through HCI and UX",
+            "date_modified": "2022-03-01T05:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/3/258898-a-group-effort",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/3/258898-a-group-effort",
+            "title": "集體努力",
+            "summary": "A Group Effort",
+            "date_modified": "2022-03-01T05:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/3/258897-accelerating-ai",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/3/258897-accelerating-ai",
+            "title": "加速推進人工智能",
+            "summary": "Accelerating AI",
+            "date_modified": "2022-03-01T05:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/3/258896-picking-publication-targets",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/3/258896-picking-publication-targets",
+            "title": "挑選出版目標",
+            "summary": "Picking Publication Targets",
+            "date_modified": "2022-03-01T05:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/3/258895-a-division-in-computer-science",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/3/258895-a-division-in-computer-science",
+            "title": "計算機科學的一個部門",
+            "summary": "A Division in Computer Science",
+            "date_modified": "2022-03-01T05:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/3/258894-acm-ethics-and-corporate-behavior",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/3/258894-acm-ethics-and-corporate-behavior",
+            "title": "ACM、道德和企業行為",
+            "summary": "ACM, Ethics, and Corporate Behavior",
+            "date_modified": "2022-03-01T05:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/02/23/technology/duckduckgo-conspiracy-theories.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/02/23/technology/duckduckgo-conspiracy-theories.html",

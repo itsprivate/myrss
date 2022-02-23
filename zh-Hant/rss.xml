@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 23 Feb 2022 10:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 18:03:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,181 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[實體店的捲土重來]]></title>
+            <link>https://www.nytimes.com/2022/02/23/technology/physical-stores-ecommerce.html</link>
+            <guid>https://www.nytimes.com/2022/02/23/technology/physical-stores-ecommerce.html</guid>
+            <pubDate>Wed, 23 Feb 2022 17:37:23 GMT</pubDate>
+            <description><![CDATA[A Comeback for Physical Stores]]></description>
+        </item>
+        <item>
+            <title><![CDATA[從 "空 "空氣中開採能源]]></title>
+            <link>http://cacm.acm.org/magazines/2022/3/258917-mining-energy-from-empty-air</link>
+            <guid>http://cacm.acm.org/magazines/2022/3/258917-mining-energy-from-empty-air</guid>
+            <pubDate>Tue, 01 Mar 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[Mining Energy from 'Empty' Air]]></description>
+        </item>
+        <item>
+            <title><![CDATA[走向系統化的近程陷落離子量子計算機的架構設計]]></title>
+            <link>http://cacm.acm.org/magazines/2022/3/258916-toward-systematic-architectural-design-of-near-term-trapped-ion-quantum-computers</link>
+            <guid>http://cacm.acm.org/magazines/2022/3/258916-toward-systematic-architectural-design-of-near-term-trapped-ion-quantum-computers</guid>
+            <pubDate>Tue, 01 Mar 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[Toward Systematic Architectural Design of Near-Term Trapped Ion Quantum Computers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我們又來了]]></title>
+            <link>http://cacm.acm.org/magazines/2022/3/258915-here-we-go-again</link>
+            <guid>http://cacm.acm.org/magazines/2022/3/258915-here-we-go-again</guid>
+            <pubDate>Tue, 01 Mar 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[Here We Go Again]]></description>
+        </item>
+        <item>
+            <title><![CDATA[技術視角：專家如何學習新的編程語言？]]></title>
+            <link>http://cacm.acm.org/magazines/2022/3/258914-technical-perspective-how-do-experts-learn-new-programming-languages</link>
+            <guid>http://cacm.acm.org/magazines/2022/3/258914-technical-perspective-how-do-experts-learn-new-programming-languages</guid>
+            <pubDate>Tue, 01 Mar 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[Technical Perspective: How Do Experts Learn New Programming Languages?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[技術視角。將設計空間探索應用於量子架構]]></title>
+            <link>http://cacm.acm.org/magazines/2022/3/258913-technical-perspective-applying-design-space-exploration-to-quantum-architectures</link>
+            <guid>http://cacm.acm.org/magazines/2022/3/258913-technical-perspective-applying-design-space-exploration-to-quantum-architectures</guid>
+            <pubDate>Tue, 01 Mar 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[Technical Perspective: Applying Design-Space Exploration to Quantum Architectures]]></description>
+        </item>
+        <item>
+            <title><![CDATA[數據科學的自動化]]></title>
+            <link>http://cacm.acm.org/magazines/2022/3/258912-automating-data-science</link>
+            <guid>http://cacm.acm.org/magazines/2022/3/258912-automating-data-science</guid>
+            <pubDate>Tue, 01 Mar 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[Automating Data Science]]></description>
+        </item>
+        <item>
+            <title><![CDATA[三個數據集的故事]]></title>
+            <link>http://cacm.acm.org/magazines/2022/3/258911-a-tale-of-three-datasets</link>
+            <guid>http://cacm.acm.org/magazines/2022/3/258911-a-tale-of-three-datasets</guid>
+            <pubDate>Tue, 01 Mar 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[A Tale of Three Datasets]]></description>
+        </item>
+        <item>
+            <title><![CDATA[65項能力]]></title>
+            <link>http://cacm.acm.org/magazines/2022/3/258910-65-competencies</link>
+            <guid>http://cacm.acm.org/magazines/2022/3/258910-65-competencies</guid>
+            <pubDate>Tue, 01 Mar 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[65 Competencies]]></description>
+        </item>
+        <item>
+            <title><![CDATA[代碼審查中的種族、民族、性別和年齡的反擊效應]]></title>
+            <link>http://cacm.acm.org/magazines/2022/3/258909-the-pushback-effects-of-race-ethnicity-gender-and-age-in-code-review</link>
+            <guid>http://cacm.acm.org/magazines/2022/3/258909-the-pushback-effects-of-race-ethnicity-gender-and-age-in-code-review</guid>
+            <pubDate>Tue, 01 Mar 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[The Pushback Effects of Race, Ethnicity, Gender, and Age in Code Review]]></description>
+        </item>
+        <item>
+            <title><![CDATA[與Margo Seltzer和Mike Olson的對話]]></title>
+            <link>http://cacm.acm.org/magazines/2022/3/258908-a-conversation-with-margo-seltzer-and-mike-olson</link>
+            <guid>http://cacm.acm.org/magazines/2022/3/258908-a-conversation-with-margo-seltzer-and-mike-olson</guid>
+            <pubDate>Tue, 01 Mar 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[A Conversation with Margo Seltzer and Mike Olson]]></description>
+        </item>
+        <item>
+            <title><![CDATA[以人為本的靜態分析驅動的開發工具的方法]]></title>
+            <link>http://cacm.acm.org/magazines/2022/3/258907-human-centered-approach-to-static-analysis-driven-developer-tools</link>
+            <guid>http://cacm.acm.org/magazines/2022/3/258907-human-centered-approach-to-static-analysis-driven-developer-tools</guid>
+            <pubDate>Tue, 01 Mar 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[Human-Centered Approach to Static-Analysis-Driven Developer Tools]]></description>
+        </item>
+        <item>
+            <title><![CDATA[關於著名的DARPA紅氣球挑戰賽的幾個氣球的爆裂情況]]></title>
+            <link>http://cacm.acm.org/magazines/2022/3/258906-bursting-a-few-balloons-regarding-the-famous-darpa-red-balloon-challenge</link>
+            <guid>http://cacm.acm.org/magazines/2022/3/258906-bursting-a-few-balloons-regarding-the-famous-darpa-red-balloon-challenge</guid>
+            <pubDate>Tue, 01 Mar 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[Bursting a Few Balloons Regarding the Famous DARPA Red Balloon Challenge]]></description>
+        </item>
+        <item>
+            <title><![CDATA[數字治理的未來]]></title>
+            <link>http://cacm.acm.org/magazines/2022/3/258905-futures-of-digital-governance</link>
+            <guid>http://cacm.acm.org/magazines/2022/3/258905-futures-of-digital-governance</guid>
+            <pubDate>Tue, 01 Mar 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[Futures of Digital Governance]]></description>
+        </item>
+        <item>
+            <title><![CDATA[面部識別軟件令人不安的未來]]></title>
+            <link>http://cacm.acm.org/magazines/2022/3/258904-the-troubling-future-for-facial-recognition-software</link>
+            <guid>http://cacm.acm.org/magazines/2022/3/258904-the-troubling-future-for-facial-recognition-software</guid>
+            <pubDate>Tue, 01 Mar 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[The Troubling Future for Facial Recognition Software]]></description>
+        </item>
+        <item>
+            <title><![CDATA[經歷了隱私危機，就能避免隱私危機嗎？]]></title>
+            <link>http://cacm.acm.org/magazines/2022/3/258903-is-a-privacy-crisis-experienced-a-privacy-crisis-avoided</link>
+            <guid>http://cacm.acm.org/magazines/2022/3/258903-is-a-privacy-crisis-experienced-a-privacy-crisis-avoided</guid>
+            <pubDate>Tue, 01 Mar 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[Is a Privacy Crisis Experienced, a Privacy Crisis Avoided?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[行動呼籲]]></title>
+            <link>http://cacm.acm.org/magazines/2022/3/258902-a-call-to-action</link>
+            <guid>http://cacm.acm.org/magazines/2022/3/258902-a-call-to-action</guid>
+            <pubDate>Tue, 01 Mar 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[A Call to Action]]></description>
+        </item>
+        <item>
+            <title><![CDATA[仿真程序的版權影響]]></title>
+            <link>http://cacm.acm.org/magazines/2022/3/258901-copyright-implications-of-emulation-programs</link>
+            <guid>http://cacm.acm.org/magazines/2022/3/258901-copyright-implications-of-emulation-programs</guid>
+            <pubDate>Tue, 01 Mar 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[Copyright Implications of Emulation Programs]]></description>
+        </item>
+        <item>
+            <title><![CDATA[算法招聘需要人情味兒]]></title>
+            <link>http://cacm.acm.org/magazines/2022/3/258900-algorithmic-hiring-needs-a-human-face</link>
+            <guid>http://cacm.acm.org/magazines/2022/3/258900-algorithmic-hiring-needs-a-human-face</guid>
+            <pubDate>Tue, 01 Mar 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[Algorithmic Hiring Needs a Human Face]]></description>
+        </item>
+        <item>
+            <title><![CDATA[通過人機交互和用戶體驗改變世界]]></title>
+            <link>http://cacm.acm.org/magazines/2022/3/258899-changing-the-world-through-hci-and-ux</link>
+            <guid>http://cacm.acm.org/magazines/2022/3/258899-changing-the-world-through-hci-and-ux</guid>
+            <pubDate>Tue, 01 Mar 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[Changing the World Through HCI and UX]]></description>
+        </item>
+        <item>
+            <title><![CDATA[集體努力]]></title>
+            <link>http://cacm.acm.org/magazines/2022/3/258898-a-group-effort</link>
+            <guid>http://cacm.acm.org/magazines/2022/3/258898-a-group-effort</guid>
+            <pubDate>Tue, 01 Mar 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[A Group Effort]]></description>
+        </item>
+        <item>
+            <title><![CDATA[加速推進人工智能]]></title>
+            <link>http://cacm.acm.org/magazines/2022/3/258897-accelerating-ai</link>
+            <guid>http://cacm.acm.org/magazines/2022/3/258897-accelerating-ai</guid>
+            <pubDate>Tue, 01 Mar 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[Accelerating AI]]></description>
+        </item>
+        <item>
+            <title><![CDATA[挑選出版目標]]></title>
+            <link>http://cacm.acm.org/magazines/2022/3/258896-picking-publication-targets</link>
+            <guid>http://cacm.acm.org/magazines/2022/3/258896-picking-publication-targets</guid>
+            <pubDate>Tue, 01 Mar 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[Picking Publication Targets]]></description>
+        </item>
+        <item>
+            <title><![CDATA[計算機科學的一個部門]]></title>
+            <link>http://cacm.acm.org/magazines/2022/3/258895-a-division-in-computer-science</link>
+            <guid>http://cacm.acm.org/magazines/2022/3/258895-a-division-in-computer-science</guid>
+            <pubDate>Tue, 01 Mar 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[A Division in Computer Science]]></description>
+        </item>
+        <item>
+            <title><![CDATA[ACM、道德和企業行為]]></title>
+            <link>http://cacm.acm.org/magazines/2022/3/258894-acm-ethics-and-corporate-behavior</link>
+            <guid>http://cacm.acm.org/magazines/2022/3/258894-acm-ethics-and-corporate-behavior</guid>
+            <pubDate>Tue, 01 Mar 2022 05:00:00 GMT</pubDate>
+            <description><![CDATA[ACM, Ethics, and Corporate Behavior]]></description>
+        </item>
         <item>
             <title><![CDATA[厭倦了谷歌，陰謀論者轉向DuckDuckGo]]></title>
             <link>https://www.nytimes.com/2022/02/23/technology/duckduckgo-conspiracy-theories.html</link>
