@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-02-23T05:13:08.102Z</updated>
+    <updated>2022-02-23T05:30:38.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -131,6 +131,17 @@
         <link href="https://astralcodexten.substack.com/p/open-thread-211"/>
         <updated>2022-02-13T23:13:51.000Z</updated>
         <summary type="html"><![CDATA[Open Thread 211]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mantic周一。乌克兰的立方体歧管]]></title>
+        <id>https://astralcodexten.substack.com/p/mantic-monday-ukraine-cube-manifold</id>
+        <link href="https://astralcodexten.substack.com/p/mantic-monday-ukraine-cube-manifold"/>
+        <updated>2022-02-14T19:45:22.000Z</updated>
+        <summary type="html"><![CDATA[Mantic Monday: Ukraine Cube Manifold]]></summary>
         <author>
             <name>Scott Alexander</name>
             <uri>https://astralcodexten.substack.com/feed</uri>

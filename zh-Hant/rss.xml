@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 23 Feb 2022 05:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 05:30:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -90,6 +90,13 @@
             <guid>https://astralcodexten.substack.com/p/open-thread-211</guid>
             <pubDate>Sun, 13 Feb 2022 23:13:51 GMT</pubDate>
             <description><![CDATA[Open Thread 211]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Mantic週一。烏克蘭的立方體歧管]]></title>
+            <link>https://astralcodexten.substack.com/p/mantic-monday-ukraine-cube-manifold</link>
+            <guid>https://astralcodexten.substack.com/p/mantic-monday-ukraine-cube-manifold</guid>
+            <pubDate>Mon, 14 Feb 2022 19:45:22 GMT</pubDate>
+            <description><![CDATA[Mantic Monday: Ukraine Cube Manifold]]></description>
         </item>
         <item>
             <title><![CDATA[書評。可悲的是，色情]]></title>
