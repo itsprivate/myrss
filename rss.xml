@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 23 Feb 2022 04:40:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 04:58:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -64,6 +64,13 @@
             <description><![CDATA[Heuristics That Almost Always Work]]></description>
         </item>
         <item>
+            <title><![CDATA[你想运行一个小额赠款项目？]]></title>
+            <link>https://astralcodexten.substack.com/p/so-you-want-to-run-a-microgrants</link>
+            <guid>https://astralcodexten.substack.com/p/so-you-want-to-run-a-microgrants</guid>
+            <pubDate>Wed, 09 Feb 2022 20:52:20 GMT</pubDate>
+            <description><![CDATA[So You Want To Run A Microgrants Program]]></description>
+        </item>
+        <item>
             <title><![CDATA[ACX补助金++。下半场]]></title>
             <link>https://astralcodexten.substack.com/p/acx-grants-the-second-half</link>
             <guid>https://astralcodexten.substack.com/p/acx-grants-the-second-half</guid>
@@ -111,6 +118,13 @@
             <guid>https://astralcodexten.substack.com/p/play-money-and-reputation-systems</guid>
             <pubDate>Mon, 21 Feb 2022 21:57:01 GMT</pubDate>
             <description><![CDATA[Play Money And Reputation Systems]]></description>
+        </item>
+        <item>
+            <title><![CDATA[二月份的链接]]></title>
+            <link>https://astralcodexten.substack.com/p/links-for-february</link>
+            <guid>https://astralcodexten.substack.com/p/links-for-february</guid>
+            <pubDate>Tue, 22 Feb 2022 20:58:45 GMT</pubDate>
+            <description><![CDATA[Links For February]]></description>
         </item>
         <item>
             <title><![CDATA[普京发动对乌克兰的入侵]]></title>
