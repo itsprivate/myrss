@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 23 Feb 2022 02:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 02:35:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[公開主題210]]></title>
+            <link>https://astralcodexten.substack.com/p/open-thread-210</link>
+            <guid>https://astralcodexten.substack.com/p/open-thread-210</guid>
+            <pubDate>Mon, 07 Feb 2022 07:02:17 GMT</pubDate>
+            <description><![CDATA[Open Thread 210]]></description>
+        </item>
         <item>
             <title><![CDATA[普京發動對烏克蘭的入侵]]></title>
             <link>https://www.newyorker.com/news/daily-comment/putin-launches-his-invasion-of-ukraine</link>
