@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 23 Feb 2022 03:43:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 03:53:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -57,11 +57,25 @@
             <description><![CDATA[Two Small Corrections And Updates]]></description>
         </item>
         <item>
+            <title><![CDATA[几乎总是有效的启发式方法]]></title>
+            <link>https://astralcodexten.substack.com/p/heuristics-that-almost-always-work</link>
+            <guid>https://astralcodexten.substack.com/p/heuristics-that-almost-always-work</guid>
+            <pubDate>Tue, 08 Feb 2022 20:12:22 GMT</pubDate>
+            <description><![CDATA[Heuristics That Almost Always Work]]></description>
+        </item>
+        <item>
             <title><![CDATA[书评。可悲的是，色情]]></title>
             <link>https://astralcodexten.substack.com/p/book-review-sadly-porn</link>
             <guid>https://astralcodexten.substack.com/p/book-review-sadly-porn</guid>
             <pubDate>Wed, 16 Feb 2022 20:44:15 GMT</pubDate>
             <description><![CDATA[Book Review: Sadly, Porn]]></description>
+        </item>
+        <item>
+            <title><![CDATA[神灵只有在我们相信他们的情况下才有力量]]></title>
+            <link>https://astralcodexten.substack.com/p/the-gods-only-have-power-because</link>
+            <guid>https://astralcodexten.substack.com/p/the-gods-only-have-power-because</guid>
+            <pubDate>Thu, 17 Feb 2022 21:02:11 GMT</pubDate>
+            <description><![CDATA[The Gods Only Have Power Because We Believe In Them]]></description>
         </item>
         <item>
             <title><![CDATA[公开主题212]]></title>

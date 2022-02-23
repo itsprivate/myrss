@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-02-23T03:43:50.644Z</updated>
+    <updated>2022-02-23T03:53:05.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -82,11 +82,33 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[幾乎總是有效的啟發式方法]]></title>
+        <id>https://astralcodexten.substack.com/p/heuristics-that-almost-always-work</id>
+        <link href="https://astralcodexten.substack.com/p/heuristics-that-almost-always-work"/>
+        <updated>2022-02-08T20:12:22.000Z</updated>
+        <summary type="html"><![CDATA[Heuristics That Almost Always Work]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[書評。可悲的是，色情]]></title>
         <id>https://astralcodexten.substack.com/p/book-review-sadly-porn</id>
         <link href="https://astralcodexten.substack.com/p/book-review-sadly-porn"/>
         <updated>2022-02-16T20:44:15.000Z</updated>
         <summary type="html"><![CDATA[Book Review: Sadly, Porn]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[神靈只有在我們相信他們的情況下才有力量]]></title>
+        <id>https://astralcodexten.substack.com/p/the-gods-only-have-power-because</id>
+        <link href="https://astralcodexten.substack.com/p/the-gods-only-have-power-because"/>
+        <updated>2022-02-17T21:02:11.000Z</updated>
+        <summary type="html"><![CDATA[The Gods Only Have Power Because We Believe In Them]]></summary>
         <author>
             <name>Scott Alexander</name>
             <uri>https://astralcodexten.substack.com/feed</uri>
