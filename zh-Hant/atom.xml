@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-02-23T05:30:38.090Z</updated>
+    <updated>2022-02-23T05:37:09.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -104,6 +104,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[隱秘的公開主題210.5]]></title>
+        <id>https://astralcodexten.substack.com/p/hidden-open-thread-2105</id>
+        <link href="https://astralcodexten.substack.com/p/hidden-open-thread-2105"/>
+        <updated>2022-02-10T07:44:58.000Z</updated>
+        <summary type="html"><![CDATA[Hidden Open Thread 210.5]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ACX補助金++。下半場]]></title>
         <id>https://astralcodexten.substack.com/p/acx-grants-the-second-half</id>
         <link href="https://astralcodexten.substack.com/p/acx-grants-the-second-half"/>
@@ -175,6 +186,17 @@
         <link href="https://astralcodexten.substack.com/p/hidden-open-thread-2115"/>
         <updated>2022-02-18T18:39:16.000Z</updated>
         <summary type="html"><![CDATA[Hidden Open Thread 211.5]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[下週日的奧斯汀聚會]]></title>
+        <id>https://astralcodexten.substack.com/p/austin-meetup-next-sunday</id>
+        <link href="https://astralcodexten.substack.com/p/austin-meetup-next-sunday"/>
+        <updated>2022-02-18T19:34:59.000Z</updated>
+        <summary type="html"><![CDATA[Austin Meetup Next Sunday]]></summary>
         <author>
             <name>Scott Alexander</name>
             <uri>https://astralcodexten.substack.com/feed</uri>
