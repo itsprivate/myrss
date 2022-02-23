@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://astralcodexten.substack.com/p/acx-grants-the-first-half",
+            "content_html": "",
+            "url": "https://astralcodexten.substack.com/p/acx-grants-the-first-half",
+            "title": "ACX补助金++。上半年",
+            "summary": "ACX Grants ++: The First Half",
+            "date_modified": "2022-02-03T17:50:47.000Z",
+            "author": {
+                "name": "Scott Alexander",
+                "url": "https://astralcodexten.substack.com/feed"
+            }
+        },
+        {
             "id": "https://astralcodexten.substack.com/p/book-review-contest-rules-2022",
             "content_html": "",
             "url": "https://astralcodexten.substack.com/p/book-review-contest-rules-2022",
@@ -29,6 +41,30 @@
             "title": "公开主题210",
             "summary": "Open Thread 210",
             "date_modified": "2022-02-07T07:02:17.000Z",
+            "author": {
+                "name": "Scott Alexander",
+                "url": "https://astralcodexten.substack.com/feed"
+            }
+        },
+        {
+            "id": "https://astralcodexten.substack.com/p/the-passage-of-polymarket",
+            "content_html": "",
+            "url": "https://astralcodexten.substack.com/p/the-passage-of-polymarket",
+            "title": "波利姆市场的传递",
+            "summary": "The Passage Of Polymarket",
+            "date_modified": "2022-02-07T21:33:44.000Z",
+            "author": {
+                "name": "Scott Alexander",
+                "url": "https://astralcodexten.substack.com/feed"
+            }
+        },
+        {
+            "id": "https://astralcodexten.substack.com/p/two-small-corrections-and-updates",
+            "content_html": "",
+            "url": "https://astralcodexten.substack.com/p/two-small-corrections-and-updates",
+            "title": "两个小的更正和更新",
+            "summary": "Two Small Corrections And Updates",
+            "date_modified": "2022-02-08T18:40:16.000Z",
             "author": {
                 "name": "Scott Alexander",
                 "url": "https://astralcodexten.substack.com/feed"

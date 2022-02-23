@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-02-23T03:15:21.103Z</updated>
+    <updated>2022-02-23T03:34:35.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ACX补助金++。上半年]]></title>
+        <id>https://astralcodexten.substack.com/p/acx-grants-the-first-half</id>
+        <link href="https://astralcodexten.substack.com/p/acx-grants-the-first-half"/>
+        <updated>2022-02-03T17:50:47.000Z</updated>
+        <summary type="html"><![CDATA[ACX Grants ++: The First Half]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[书评比赛规则2022]]></title>
         <id>https://astralcodexten.substack.com/p/book-review-contest-rules-2022</id>
@@ -32,6 +43,28 @@
         <link href="https://astralcodexten.substack.com/p/open-thread-210"/>
         <updated>2022-02-07T07:02:17.000Z</updated>
         <summary type="html"><![CDATA[Open Thread 210]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[波利姆市场的传递]]></title>
+        <id>https://astralcodexten.substack.com/p/the-passage-of-polymarket</id>
+        <link href="https://astralcodexten.substack.com/p/the-passage-of-polymarket"/>
+        <updated>2022-02-07T21:33:44.000Z</updated>
+        <summary type="html"><![CDATA[The Passage Of Polymarket]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[两个小的更正和更新]]></title>
+        <id>https://astralcodexten.substack.com/p/two-small-corrections-and-updates</id>
+        <link href="https://astralcodexten.substack.com/p/two-small-corrections-and-updates"/>
+        <updated>2022-02-08T18:40:16.000Z</updated>
+        <summary type="html"><![CDATA[Two Small Corrections And Updates]]></summary>
         <author>
             <name>Scott Alexander</name>
             <uri>https://astralcodexten.substack.com/feed</uri>

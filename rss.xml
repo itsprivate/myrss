@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 23 Feb 2022 03:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 03:34:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[ACX补助金++。上半年]]></title>
+            <link>https://astralcodexten.substack.com/p/acx-grants-the-first-half</link>
+            <guid>https://astralcodexten.substack.com/p/acx-grants-the-first-half</guid>
+            <pubDate>Thu, 03 Feb 2022 17:50:47 GMT</pubDate>
+            <description><![CDATA[ACX Grants ++: The First Half]]></description>
+        </item>
         <item>
             <title><![CDATA[书评比赛规则2022]]></title>
             <link>https://astralcodexten.substack.com/p/book-review-contest-rules-2022</link>
@@ -27,6 +34,20 @@
             <guid>https://astralcodexten.substack.com/p/open-thread-210</guid>
             <pubDate>Mon, 07 Feb 2022 07:02:17 GMT</pubDate>
             <description><![CDATA[Open Thread 210]]></description>
+        </item>
+        <item>
+            <title><![CDATA[波利姆市场的传递]]></title>
+            <link>https://astralcodexten.substack.com/p/the-passage-of-polymarket</link>
+            <guid>https://astralcodexten.substack.com/p/the-passage-of-polymarket</guid>
+            <pubDate>Mon, 07 Feb 2022 21:33:44 GMT</pubDate>
+            <description><![CDATA[The Passage Of Polymarket]]></description>
+        </item>
+        <item>
+            <title><![CDATA[两个小的更正和更新]]></title>
+            <link>https://astralcodexten.substack.com/p/two-small-corrections-and-updates</link>
+            <guid>https://astralcodexten.substack.com/p/two-small-corrections-and-updates</guid>
+            <pubDate>Tue, 08 Feb 2022 18:40:16 GMT</pubDate>
+            <description><![CDATA[Two Small Corrections And Updates]]></description>
         </item>
         <item>
             <title><![CDATA[书评。可悲的是，色情]]></title>
