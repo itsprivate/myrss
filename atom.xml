@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-02-23T18:03:50.685Z</updated>
+    <updated>2022-02-23T19:27:07.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯可能利用加密货币来减轻美国的制裁]]></title>
+        <id>https://www.nytimes.com/2022/02/23/business/russia-sanctions-cryptocurrency.html</id>
+        <link href="https://www.nytimes.com/2022/02/23/business/russia-sanctions-cryptocurrency.html"/>
+        <updated>2022-02-23T19:04:51.000Z</updated>
+        <summary type="html"><![CDATA[Russia Could Use Cryptocurrency to Mitigate U.S. Sanctions]]></summary>
+        <author>
+            <name>Emily Flitter and David Yaffe-Bellany</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[实体店的卷土重来]]></title>
         <id>https://www.nytimes.com/2022/02/23/technology/physical-stores-ecommerce.html</id>

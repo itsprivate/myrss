@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/02/23/business/russia-sanctions-cryptocurrency.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/23/business/russia-sanctions-cryptocurrency.html",
+            "title": "俄羅斯可能利用加密貨幣來減輕美國的制裁",
+            "summary": "Russia Could Use Cryptocurrency to Mitigate U.S. Sanctions",
+            "date_modified": "2022-02-23T19:04:51.000Z",
+            "author": {
+                "name": "Emily Flitter and David Yaffe-Bellany",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/02/23/technology/physical-stores-ecommerce.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/02/23/technology/physical-stores-ecommerce.html",
