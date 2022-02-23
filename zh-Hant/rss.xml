@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 23 Feb 2022 03:53:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 04:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -64,6 +64,13 @@
             <description><![CDATA[Heuristics That Almost Always Work]]></description>
         </item>
         <item>
+            <title><![CDATA[公開主題211]]></title>
+            <link>https://astralcodexten.substack.com/p/open-thread-211</link>
+            <guid>https://astralcodexten.substack.com/p/open-thread-211</guid>
+            <pubDate>Sun, 13 Feb 2022 23:13:51 GMT</pubDate>
+            <description><![CDATA[Open Thread 211]]></description>
+        </item>
+        <item>
             <title><![CDATA[書評。可悲的是，色情]]></title>
             <link>https://astralcodexten.substack.com/p/book-review-sadly-porn</link>
             <guid>https://astralcodexten.substack.com/p/book-review-sadly-porn</guid>
@@ -78,11 +85,25 @@
             <description><![CDATA[The Gods Only Have Power Because We Believe In Them]]></description>
         </item>
         <item>
+            <title><![CDATA[隱秘的公開主題211.5]]></title>
+            <link>https://astralcodexten.substack.com/p/hidden-open-thread-2115</link>
+            <guid>https://astralcodexten.substack.com/p/hidden-open-thread-2115</guid>
+            <pubDate>Fri, 18 Feb 2022 18:39:16 GMT</pubDate>
+            <description><![CDATA[Hidden Open Thread 211.5]]></description>
+        </item>
+        <item>
             <title><![CDATA[公開主題212]]></title>
             <link>https://astralcodexten.substack.com/p/open-thread-212</link>
             <guid>https://astralcodexten.substack.com/p/open-thread-212</guid>
             <pubDate>Mon, 21 Feb 2022 00:42:59 GMT</pubDate>
             <description><![CDATA[Open Thread 212]]></description>
+        </item>
+        <item>
+            <title><![CDATA[玩錢和信譽系統]]></title>
+            <link>https://astralcodexten.substack.com/p/play-money-and-reputation-systems</link>
+            <guid>https://astralcodexten.substack.com/p/play-money-and-reputation-systems</guid>
+            <pubDate>Mon, 21 Feb 2022 21:57:01 GMT</pubDate>
+            <description><![CDATA[Play Money And Reputation Systems]]></description>
         </item>
         <item>
             <title><![CDATA[普京發動對烏克蘭的入侵]]></title>

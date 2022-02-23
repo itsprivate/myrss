@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-02-23T03:53:05.017Z</updated>
+    <updated>2022-02-23T04:14:22.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -93,6 +93,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[公开主题211]]></title>
+        <id>https://astralcodexten.substack.com/p/open-thread-211</id>
+        <link href="https://astralcodexten.substack.com/p/open-thread-211"/>
+        <updated>2022-02-13T23:13:51.000Z</updated>
+        <summary type="html"><![CDATA[Open Thread 211]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[书评。可悲的是，色情]]></title>
         <id>https://astralcodexten.substack.com/p/book-review-sadly-porn</id>
         <link href="https://astralcodexten.substack.com/p/book-review-sadly-porn"/>
@@ -115,11 +126,33 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[隐秘的公开主题211.5]]></title>
+        <id>https://astralcodexten.substack.com/p/hidden-open-thread-2115</id>
+        <link href="https://astralcodexten.substack.com/p/hidden-open-thread-2115"/>
+        <updated>2022-02-18T18:39:16.000Z</updated>
+        <summary type="html"><![CDATA[Hidden Open Thread 211.5]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[公开主题212]]></title>
         <id>https://astralcodexten.substack.com/p/open-thread-212</id>
         <link href="https://astralcodexten.substack.com/p/open-thread-212"/>
         <updated>2022-02-21T00:42:59.000Z</updated>
         <summary type="html"><![CDATA[Open Thread 212]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[玩钱和信誉系统]]></title>
+        <id>https://astralcodexten.substack.com/p/play-money-and-reputation-systems</id>
+        <link href="https://astralcodexten.substack.com/p/play-money-and-reputation-systems"/>
+        <updated>2022-02-21T21:57:01.000Z</updated>
+        <summary type="html"><![CDATA[Play Money And Reputation Systems]]></summary>
         <author>
             <name>Scott Alexander</name>
             <uri>https://astralcodexten.substack.com/feed</uri>
