@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 23 Feb 2022 04:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 04:40:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -62,6 +62,13 @@
             <guid>https://astralcodexten.substack.com/p/heuristics-that-almost-always-work</guid>
             <pubDate>Tue, 08 Feb 2022 20:12:22 GMT</pubDate>
             <description><![CDATA[Heuristics That Almost Always Work]]></description>
+        </item>
+        <item>
+            <title><![CDATA[ACX補助金++。下半場]]></title>
+            <link>https://astralcodexten.substack.com/p/acx-grants-the-second-half</link>
+            <guid>https://astralcodexten.substack.com/p/acx-grants-the-second-half</guid>
+            <pubDate>Thu, 10 Feb 2022 20:55:49 GMT</pubDate>
+            <description><![CDATA[ACX Grants ++: The Second Half]]></description>
         </item>
         <item>
             <title><![CDATA[公開主題211]]></title>
