@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-02-23T02:35:11.441Z</updated>
+    <updated>2022-02-23T02:55:04.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -16,11 +16,33 @@
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
     <entry>
+        <title type="html"><![CDATA[书评比赛规则2022]]></title>
+        <id>https://astralcodexten.substack.com/p/book-review-contest-rules-2022</id>
+        <link href="https://astralcodexten.substack.com/p/book-review-contest-rules-2022"/>
+        <updated>2022-02-04T23:59:29.000Z</updated>
+        <summary type="html"><![CDATA[Book Review Contest Rules 2022]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[公开主题210]]></title>
         <id>https://astralcodexten.substack.com/p/open-thread-210</id>
         <link href="https://astralcodexten.substack.com/p/open-thread-210"/>
         <updated>2022-02-07T07:02:17.000Z</updated>
         <summary type="html"><![CDATA[Open Thread 210]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[公开主题212]]></title>
+        <id>https://astralcodexten.substack.com/p/open-thread-212</id>
+        <link href="https://astralcodexten.substack.com/p/open-thread-212"/>
+        <updated>2022-02-21T00:42:59.000Z</updated>
+        <summary type="html"><![CDATA[Open Thread 212]]></summary>
         <author>
             <name>Scott Alexander</name>
             <uri>https://astralcodexten.substack.com/feed</uri>
