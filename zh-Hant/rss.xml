@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 23 Feb 2022 05:37:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 10:14:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[厭倦了谷歌，陰謀論者轉向DuckDuckGo]]></title>
+            <link>https://www.nytimes.com/2022/02/23/technology/duckduckgo-conspiracy-theories.html</link>
+            <guid>https://www.nytimes.com/2022/02/23/technology/duckduckgo-conspiracy-theories.html</guid>
+            <pubDate>Wed, 23 Feb 2022 10:00:18 GMT</pubDate>
+            <description><![CDATA[Fed Up With Google, Conspiracy Theorists Turn to DuckDuckGo]]></description>
+        </item>
         <item>
             <title><![CDATA[ACX補助金++。上半年]]></title>
             <link>https://astralcodexten.substack.com/p/acx-grants-the-first-half</link>

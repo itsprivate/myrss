@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/02/23/technology/duckduckgo-conspiracy-theories.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/23/technology/duckduckgo-conspiracy-theories.html",
+            "title": "厌倦了谷歌，阴谋论者转向DuckDuckGo",
+            "summary": "Fed Up With Google, Conspiracy Theorists Turn to DuckDuckGo",
+            "date_modified": "2022-02-23T10:00:18.000Z",
+            "author": {
+                "name": "Stuart A. Thompson",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://astralcodexten.substack.com/p/acx-grants-the-first-half",
             "content_html": "",
             "url": "https://astralcodexten.substack.com/p/acx-grants-the-first-half",
