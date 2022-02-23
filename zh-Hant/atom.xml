@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-02-23T02:55:04.141Z</updated>
+    <updated>2022-02-23T03:15:21.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -32,6 +32,17 @@
         <link href="https://astralcodexten.substack.com/p/open-thread-210"/>
         <updated>2022-02-07T07:02:17.000Z</updated>
         <summary type="html"><![CDATA[Open Thread 210]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[書評。可悲的是，色情]]></title>
+        <id>https://astralcodexten.substack.com/p/book-review-sadly-porn</id>
+        <link href="https://astralcodexten.substack.com/p/book-review-sadly-porn"/>
+        <updated>2022-02-16T20:44:15.000Z</updated>
+        <summary type="html"><![CDATA[Book Review: Sadly, Porn]]></summary>
         <author>
             <name>Scott Alexander</name>
             <uri>https://astralcodexten.substack.com/feed</uri>
