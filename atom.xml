@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-02-23T03:34:35.616Z</updated>
+    <updated>2022-02-23T03:43:50.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -21,6 +21,17 @@
         <link href="https://astralcodexten.substack.com/p/acx-grants-the-first-half"/>
         <updated>2022-02-03T17:50:47.000Z</updated>
         <summary type="html"><![CDATA[ACX Grants ++: The First Half]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[隐秘的公开主题209.5]]></title>
+        <id>https://astralcodexten.substack.com/p/hidden-open-thread-2095</id>
+        <link href="https://astralcodexten.substack.com/p/hidden-open-thread-2095"/>
+        <updated>2022-02-04T09:21:57.000Z</updated>
+        <summary type="html"><![CDATA[Hidden Open Thread 209.5]]></summary>
         <author>
             <name>Scott Alexander</name>
             <uri>https://astralcodexten.substack.com/feed</uri>

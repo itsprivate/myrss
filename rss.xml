@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 23 Feb 2022 03:34:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 03:43:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -20,6 +20,13 @@
             <guid>https://astralcodexten.substack.com/p/acx-grants-the-first-half</guid>
             <pubDate>Thu, 03 Feb 2022 17:50:47 GMT</pubDate>
             <description><![CDATA[ACX Grants ++: The First Half]]></description>
+        </item>
+        <item>
+            <title><![CDATA[隐秘的公开主题209.5]]></title>
+            <link>https://astralcodexten.substack.com/p/hidden-open-thread-2095</link>
+            <guid>https://astralcodexten.substack.com/p/hidden-open-thread-2095</guid>
+            <pubDate>Fri, 04 Feb 2022 09:21:57 GMT</pubDate>
+            <description><![CDATA[Hidden Open Thread 209.5]]></description>
         </item>
         <item>
             <title><![CDATA[书评比赛规则2022]]></title>
