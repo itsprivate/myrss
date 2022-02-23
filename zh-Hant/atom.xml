@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-02-23T04:58:46.085Z</updated>
+    <updated>2022-02-23T05:13:08.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -109,6 +109,17 @@
         <link href="https://astralcodexten.substack.com/p/acx-grants-the-second-half"/>
         <updated>2022-02-10T20:55:49.000Z</updated>
         <summary type="html"><![CDATA[ACX Grants ++: The Second Half]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於動機推理和強化學習的評論要點]]></title>
+        <id>https://astralcodexten.substack.com/p/highlights-from-the-comments-on-motivated</id>
+        <link href="https://astralcodexten.substack.com/p/highlights-from-the-comments-on-motivated"/>
+        <updated>2022-02-11T22:40:53.000Z</updated>
+        <summary type="html"><![CDATA[Highlights From The Comments On Motivated Reasoning And Reinforcement Learning]]></summary>
         <author>
             <name>Scott Alexander</name>
             <uri>https://astralcodexten.substack.com/feed</uri>

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 23 Feb 2022 04:58:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 05:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -76,6 +76,13 @@
             <guid>https://astralcodexten.substack.com/p/acx-grants-the-second-half</guid>
             <pubDate>Thu, 10 Feb 2022 20:55:49 GMT</pubDate>
             <description><![CDATA[ACX Grants ++: The Second Half]]></description>
+        </item>
+        <item>
+            <title><![CDATA[關於動機推理和強化學習的評論要點]]></title>
+            <link>https://astralcodexten.substack.com/p/highlights-from-the-comments-on-motivated</link>
+            <guid>https://astralcodexten.substack.com/p/highlights-from-the-comments-on-motivated</guid>
+            <pubDate>Fri, 11 Feb 2022 22:40:53 GMT</pubDate>
+            <description><![CDATA[Highlights From The Comments On Motivated Reasoning And Reinforcement Learning]]></description>
         </item>
         <item>
             <title><![CDATA[公開主題211]]></title>
