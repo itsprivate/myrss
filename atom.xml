@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-02-23T23:34:22.679Z</updated>
+    <updated>2022-02-24T00:37:36.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌放宽对美国员工的大流行病规定]]></title>
+        <id>https://www.nytimes.com/2022/02/23/technology/google-eases-pandemic-rules.html</id>
+        <link href="https://www.nytimes.com/2022/02/23/technology/google-eases-pandemic-rules.html"/>
+        <updated>2022-02-24T00:31:08.000Z</updated>
+        <summary type="html"><![CDATA[Google eases pandemic rules for employees in the U.S.]]></summary>
+        <author>
+            <name>Daisuke Wakabayashi</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[生物锚。一个可能或不可能成功的技巧]]></title>
         <id>https://astralcodexten.substack.com/p/biological-anchors-a-trick-that-might</id>

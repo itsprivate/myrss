@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/02/23/technology/google-eases-pandemic-rules.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/23/technology/google-eases-pandemic-rules.html",
+            "title": "谷歌放寬對美國員工的大流行病規定",
+            "summary": "Google eases pandemic rules for employees in the U.S.",
+            "date_modified": "2022-02-24T00:31:08.000Z",
+            "author": {
+                "name": "Daisuke Wakabayashi",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://astralcodexten.substack.com/p/biological-anchors-a-trick-that-might",
             "content_html": "",
             "url": "https://astralcodexten.substack.com/p/biological-anchors-a-trick-that-might",
