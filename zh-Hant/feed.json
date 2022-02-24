@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/02/24/business/doj-antitrust-lawsuit-unitedhealth.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/24/business/doj-antitrust-lawsuit-unitedhealth.html",
+            "title": "司法部計劃阻止聯合健康集團的130億美元交易",
+            "summary": "Justice Dept. Plans to Block $13 Billion Deal by UnitedHealth Group",
+            "date_modified": "2022-02-24T15:25:38.000Z",
+            "author": {
+                "name": "David McCabe",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/02/23/business/economy/export-controls-russia-us.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/02/23/business/economy/export-controls-russia-us.html",

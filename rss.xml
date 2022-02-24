@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 24 Feb 2022 03:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 15:35:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[司法部计划阻止联合健康集团的130亿美元交易]]></title>
+            <link>https://www.nytimes.com/2022/02/24/business/doj-antitrust-lawsuit-unitedhealth.html</link>
+            <guid>https://www.nytimes.com/2022/02/24/business/doj-antitrust-lawsuit-unitedhealth.html</guid>
+            <pubDate>Thu, 24 Feb 2022 15:25:38 GMT</pubDate>
+            <description><![CDATA[Justice Dept. Plans to Block $13 Billion Deal by UnitedHealth Group]]></description>
+        </item>
         <item>
             <title><![CDATA[白宫准备限制俄罗斯对美国技术的访问]]></title>
             <link>https://www.nytimes.com/2022/02/23/business/economy/export-controls-russia-us.html</link>
