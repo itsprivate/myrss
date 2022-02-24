@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-02-24T17:52:46.762Z</updated>
+    <updated>2022-02-24T19:12:09.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[中国从俄罗斯入侵乌克兰中学到了什么？]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/what-is-china-learning-from-russias-invasion-of-ukraine</id>
+        <link href="https://www.newyorker.com/news/daily-comment/what-is-china-learning-from-russias-invasion-of-ukraine"/>
+        <updated>2022-02-24T18:52:59.000Z</updated>
+        <summary type="html"><![CDATA[What Is China Learning from Russia’s Invasion of Ukraine?]]></summary>
+        <author>
+            <name>Evan Osnos</name>
+            <uri>https://www.newyorker.com/feed/news/daily-comment</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[脸书将使你爱上卷轴]]></title>
         <id>https://www.nytimes.com/2022/02/24/technology/facebook-reels.html</id>

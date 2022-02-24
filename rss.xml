@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 24 Feb 2022 17:52:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 19:12:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[中国从俄罗斯入侵乌克兰中学到了什么？]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/what-is-china-learning-from-russias-invasion-of-ukraine</link>
+            <guid>https://www.newyorker.com/news/daily-comment/what-is-china-learning-from-russias-invasion-of-ukraine</guid>
+            <pubDate>Thu, 24 Feb 2022 18:52:59 GMT</pubDate>
+            <description><![CDATA[What Is China Learning from Russia’s Invasion of Ukraine?]]></description>
+        </item>
         <item>
             <title><![CDATA[脸书将使你爱上卷轴]]></title>
             <link>https://www.nytimes.com/2022/02/24/technology/facebook-reels.html</link>
