@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 24 Feb 2022 15:35:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 16:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[美国的卡农：调查发现有4100万人相信阴谋论]]></title>
+            <link>https://www.nytimes.com/live/2020/2020-election-misinformation-distortions/qanon-believers-us-survey</link>
+            <guid>https://www.nytimes.com/live/2020/2020-election-misinformation-distortions/qanon-believers-us-survey</guid>
+            <pubDate>Thu, 24 Feb 2022 05:01:07 GMT</pubDate>
+            <description><![CDATA[Qanon in America: 41 Million Believe in the Conspiracy Theory, a Survey Finds]]></description>
+        </item>
         <item>
             <title><![CDATA[司法部计划阻止联合健康集团的130亿美元交易]]></title>
             <link>https://www.nytimes.com/2022/02/24/business/doj-antitrust-lawsuit-unitedhealth.html</link>

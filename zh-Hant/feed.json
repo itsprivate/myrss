@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/live/2020/2020-election-misinformation-distortions/qanon-believers-us-survey",
+            "content_html": "",
+            "url": "https://www.nytimes.com/live/2020/2020-election-misinformation-distortions/qanon-believers-us-survey",
+            "title": "美國的卡農：調查發現有4100萬人相信陰謀論",
+            "summary": "Qanon in America: 41 Million Believe in the Conspiracy Theory, a Survey Finds",
+            "date_modified": "2022-02-24T05:01:07.000Z",
+            "author": {
+                "name": "Tiffany Hsu",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/02/24/business/doj-antitrust-lawsuit-unitedhealth.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/02/24/business/doj-antitrust-lawsuit-unitedhealth.html",

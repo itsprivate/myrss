@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-02-24T15:35:57.487Z</updated>
+    <updated>2022-02-24T16:17:27.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国的卡农：调查发现有4100万人相信阴谋论]]></title>
+        <id>https://www.nytimes.com/live/2020/2020-election-misinformation-distortions/qanon-believers-us-survey</id>
+        <link href="https://www.nytimes.com/live/2020/2020-election-misinformation-distortions/qanon-believers-us-survey"/>
+        <updated>2022-02-24T05:01:07.000Z</updated>
+        <summary type="html"><![CDATA[Qanon in America: 41 Million Believe in the Conspiracy Theory, a Survey Finds]]></summary>
+        <author>
+            <name>Tiffany Hsu</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[司法部计划阻止联合健康集团的130亿美元交易]]></title>
         <id>https://www.nytimes.com/2022/02/24/business/doj-antitrust-lawsuit-unitedhealth.html</id>
