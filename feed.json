@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/02/23/business/economy/export-controls-russia-us.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/23/business/economy/export-controls-russia-us.html",
+            "title": "白宫准备限制俄罗斯对美国技术的访问",
+            "summary": "White House Prepares Curbs on Russia’s Access to U.S. Technology",
+            "date_modified": "2022-02-24T00:14:11.000Z",
+            "author": {
+                "name": "Ana Swanson and Alan Rappeport",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/02/23/technology/google-pandemic-rules-us.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/23/technology/google-pandemic-rules-us.html",
+            "title": "谷歌放宽对美国员工的大流行规则",
+            "summary": "Google Eases Pandemic Rules for U.S. Employees",
+            "date_modified": "2022-02-24T00:31:08.000Z",
+            "author": {
+                "name": "Daisuke Wakabayashi",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/02/23/technology/google-eases-pandemic-rules.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/02/23/technology/google-eases-pandemic-rules.html",

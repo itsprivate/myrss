@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-02-24T00:37:36.735Z</updated>
+    <updated>2022-02-24T03:12:44.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[白宮準備限制俄羅斯對美國技術的訪問]]></title>
+        <id>https://www.nytimes.com/2022/02/23/business/economy/export-controls-russia-us.html</id>
+        <link href="https://www.nytimes.com/2022/02/23/business/economy/export-controls-russia-us.html"/>
+        <updated>2022-02-24T00:14:11.000Z</updated>
+        <summary type="html"><![CDATA[White House Prepares Curbs on Russia’s Access to U.S. Technology]]></summary>
+        <author>
+            <name>Ana Swanson and Alan Rappeport</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌放寬對美國員工的大流行規則]]></title>
+        <id>https://www.nytimes.com/2022/02/23/technology/google-pandemic-rules-us.html</id>
+        <link href="https://www.nytimes.com/2022/02/23/technology/google-pandemic-rules-us.html"/>
+        <updated>2022-02-24T00:31:08.000Z</updated>
+        <summary type="html"><![CDATA[Google Eases Pandemic Rules for U.S. Employees]]></summary>
+        <author>
+            <name>Daisuke Wakabayashi</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌放寬對美國員工的大流行病規定]]></title>
         <id>https://www.nytimes.com/2022/02/23/technology/google-eases-pandemic-rules.html</id>

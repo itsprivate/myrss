@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 24 Feb 2022 00:37:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 03:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[白宫准备限制俄罗斯对美国技术的访问]]></title>
+            <link>https://www.nytimes.com/2022/02/23/business/economy/export-controls-russia-us.html</link>
+            <guid>https://www.nytimes.com/2022/02/23/business/economy/export-controls-russia-us.html</guid>
+            <pubDate>Thu, 24 Feb 2022 00:14:11 GMT</pubDate>
+            <description><![CDATA[White House Prepares Curbs on Russia’s Access to U.S. Technology]]></description>
+        </item>
+        <item>
+            <title><![CDATA[谷歌放宽对美国员工的大流行规则]]></title>
+            <link>https://www.nytimes.com/2022/02/23/technology/google-pandemic-rules-us.html</link>
+            <guid>https://www.nytimes.com/2022/02/23/technology/google-pandemic-rules-us.html</guid>
+            <pubDate>Thu, 24 Feb 2022 00:31:08 GMT</pubDate>
+            <description><![CDATA[Google Eases Pandemic Rules for U.S. Employees]]></description>
+        </item>
         <item>
             <title><![CDATA[谷歌放宽对美国员工的大流行病规定]]></title>
             <link>https://www.nytimes.com/2022/02/23/technology/google-eases-pandemic-rules.html</link>
