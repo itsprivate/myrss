@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/02/24/technology/facebook-reels.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/24/technology/facebook-reels.html",
+            "title": "脸书将使你爱上卷轴",
+            "summary": "Facebook Will Make You Love Reels",
+            "date_modified": "2022-02-24T17:41:57.000Z",
+            "author": {
+                "name": "Shira Ovide",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/live/2020/2020-election-misinformation-distortions/qanon-believers-us-survey",
             "content_html": "",
             "url": "https://www.nytimes.com/live/2020/2020-election-misinformation-distortions/qanon-believers-us-survey",
