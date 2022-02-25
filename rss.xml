@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 25 Feb 2022 17:35:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 19:26:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么共和党人突然对改革与选举有关的法律感兴趣？]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/why-are-republicans-suddenly-interested-in-reforming-an-election-related-law</link>
+            <guid>https://www.newyorker.com/news/daily-comment/why-are-republicans-suddenly-interested-in-reforming-an-election-related-law</guid>
+            <pubDate>Fri, 25 Feb 2022 19:14:35 GMT</pubDate>
+            <description><![CDATA[Why Are Republicans Suddenly Interested in Reforming an Election-Related Law?]]></description>
+        </item>
         <item>
             <title><![CDATA[我将站在俄罗斯一边"。亲普京的情绪在网上蔓延]]></title>
             <link>https://www.nytimes.com/2022/02/25/technology/pro-russia-pro-putin-sentiment-spreads-online.html</link>
