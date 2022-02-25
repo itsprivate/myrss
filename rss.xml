@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 24 Feb 2022 19:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 03:33:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[隐秘的公开主题212.5]]></title>
+            <link>https://astralcodexten.substack.com/p/hidden-open-thread-2125</link>
+            <guid>https://astralcodexten.substack.com/p/hidden-open-thread-2125</guid>
+            <pubDate>Fri, 25 Feb 2022 02:12:24 GMT</pubDate>
+            <description><![CDATA[Hidden Open Thread 212.5]]></description>
+        </item>
+        <item>
+            <title><![CDATA[普京的历史性误判可能使他成为战争罪犯]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/putins-historic-miscalculation-may-make-him-a-war-criminal</link>
+            <guid>https://www.newyorker.com/news/daily-comment/putins-historic-miscalculation-may-make-him-a-war-criminal</guid>
+            <pubDate>Thu, 24 Feb 2022 23:52:26 GMT</pubDate>
+            <description><![CDATA[Putin’s Historic Miscalculation May Make Him a War Criminal]]></description>
+        </item>
         <item>
             <title><![CDATA[中国从俄罗斯入侵乌克兰中学到了什么？]]></title>
             <link>https://www.newyorker.com/news/daily-comment/what-is-china-learning-from-russias-invasion-of-ukraine</link>
