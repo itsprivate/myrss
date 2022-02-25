@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-02-25T19:26:32.075Z</updated>
+    <updated>2022-02-25T21:11:49.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[奥斯汀见面会的修正]]></title>
+        <id>https://astralcodexten.substack.com/p/austin-meetup-correction</id>
+        <link href="https://astralcodexten.substack.com/p/austin-meetup-correction"/>
+        <updated>2022-02-25T20:45:53.000Z</updated>
+        <summary type="html"><![CDATA[Austin Meetup Correction]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么共和党人突然对改革与选举有关的法律感兴趣？]]></title>
         <id>https://www.newyorker.com/news/daily-comment/why-are-republicans-suddenly-interested-in-reforming-an-election-related-law</id>
