@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/02/26/technology/amazon-price-swings-shopping.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/26/technology/amazon-price-swings-shopping.html",
+            "title": "不存在或搖擺不定的價格讓消費者猜測不已",
+            "summary": "Absent or Swinging Prices Keep Consumers Guessing",
+            "date_modified": "2022-02-26T10:00:12.000Z",
+            "author": {
+                "name": "Daisuke Wakabayashi",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/02/26/technology/russia-censorship-tech.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/02/26/technology/russia-censorship-tech.html",
