@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/02/25/technology/russia-supporters.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/25/technology/russia-supporters.html",
+            "title": "我將站在俄羅斯一邊\"。親普京的情緒在網上蔓延",
+            "summary": "‘I’ll Stand on the Side of Russia’: Pro-Putin Sentiment Spreads Online",
+            "date_modified": "2022-02-25T18:00:48.000Z",
+            "author": {
+                "name": "Davey Alba and Stuart A. Thompson",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/daily-comment/judge-ketanji-brown-jacksons-historic-nomination-to-the-supreme-court",
             "content_html": "",
             "url": "https://www.newyorker.com/news/daily-comment/judge-ketanji-brown-jacksons-historic-nomination-to-the-supreme-court",
