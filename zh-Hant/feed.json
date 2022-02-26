@@ -11,6 +11,54 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/02/26/technology/price-swings-amazon.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/26/technology/price-swings-amazon.html",
+            "title": "不存在或搖擺不定的價格讓消費者猜測不已",
+            "summary": "Absent or Swinging Prices Keep Consumers Guessing",
+            "date_modified": "2022-02-26T10:00:12.000Z",
+            "author": {
+                "name": "Daisuke Wakabayashi",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/02/26/travel/facial-recognition-airports-customs.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/26/travel/facial-recognition-airports-customs.html",
+            "title": "關於機場人臉識別，你需要知道什麼？",
+            "summary": "What You Need to Know About Facial Recognition at Airports",
+            "date_modified": "2022-02-26T10:00:18.000Z",
+            "author": {
+                "name": "Elaine Glusac",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/02/26/business/china-russia-ukraine.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/26/business/china-russia-ukraine.html",
+            "title": "在入侵烏克蘭之前，俄羅斯和中國鞏固了經濟關係",
+            "summary": "Before Ukraine Invasion, Russia and China Cemented Economic Ties",
+            "date_modified": "2022-02-26T10:00:19.000Z",
+            "author": {
+                "name": "Keith Bradsher and Ana Swanson",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/02/26/technology/russia-censorship-tech-giants.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/26/technology/russia-censorship-tech-giants.html",
+            "title": "俄羅斯加強審查運動，向科技巨頭施壓",
+            "summary": "Russia Intensifies Censorship Campaign, Pressuring Tech Giants",
+            "date_modified": "2022-02-26T10:00:21.000Z",
+            "author": {
+                "name": "Adam Satariano",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/02/25/technology/russia-supporters.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/02/25/technology/russia-supporters.html",

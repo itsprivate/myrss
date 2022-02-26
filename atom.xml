@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-02-26T05:36:53.442Z</updated>
+    <updated>2022-02-26T10:12:45.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不存在或摇摆不定的价格让消费者猜测不已]]></title>
+        <id>https://www.nytimes.com/2022/02/26/technology/price-swings-amazon.html</id>
+        <link href="https://www.nytimes.com/2022/02/26/technology/price-swings-amazon.html"/>
+        <updated>2022-02-26T10:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Absent or Swinging Prices Keep Consumers Guessing]]></summary>
+        <author>
+            <name>Daisuke Wakabayashi</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于机场人脸识别，你需要知道什么？]]></title>
+        <id>https://www.nytimes.com/2022/02/26/travel/facial-recognition-airports-customs.html</id>
+        <link href="https://www.nytimes.com/2022/02/26/travel/facial-recognition-airports-customs.html"/>
+        <updated>2022-02-26T10:00:18.000Z</updated>
+        <summary type="html"><![CDATA[What You Need to Know About Facial Recognition at Airports]]></summary>
+        <author>
+            <name>Elaine Glusac</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在入侵乌克兰之前，俄罗斯和中国巩固了经济关系]]></title>
+        <id>https://www.nytimes.com/2022/02/26/business/china-russia-ukraine.html</id>
+        <link href="https://www.nytimes.com/2022/02/26/business/china-russia-ukraine.html"/>
+        <updated>2022-02-26T10:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Before Ukraine Invasion, Russia and China Cemented Economic Ties]]></summary>
+        <author>
+            <name>Keith Bradsher and Ana Swanson</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯加强审查运动，向科技巨头施压]]></title>
+        <id>https://www.nytimes.com/2022/02/26/technology/russia-censorship-tech-giants.html</id>
+        <link href="https://www.nytimes.com/2022/02/26/technology/russia-censorship-tech-giants.html"/>
+        <updated>2022-02-26T10:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Russia Intensifies Censorship Campaign, Pressuring Tech Giants]]></summary>
+        <author>
+            <name>Adam Satariano</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我将站在俄罗斯一边"。亲普京的情绪在网上蔓延]]></title>
         <id>https://www.nytimes.com/2022/02/25/technology/russia-supporters.html</id>
