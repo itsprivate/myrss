@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-02-25T21:11:49.452Z</updated>
+    <updated>2022-02-26T02:26:23.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[凱坦吉-布朗-傑克遜法官被歷史性地提名為最高法院成員]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/judge-ketanji-brown-jacksons-historic-nomination-to-the-supreme-court</id>
+        <link href="https://www.newyorker.com/news/daily-comment/judge-ketanji-brown-jacksons-historic-nomination-to-the-supreme-court"/>
+        <updated>2022-02-26T01:47:02.000Z</updated>
+        <summary type="html"><![CDATA[Judge Ketanji Brown Jackson’s Historic Nomination to the Supreme Court]]></summary>
+        <author>
+            <name>Amy Davidson Sorkin</name>
+            <uri>https://www.newyorker.com/feed/news/daily-comment</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[奧斯汀見面會的修正]]></title>
         <id>https://astralcodexten.substack.com/p/austin-meetup-correction</id>
