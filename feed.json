@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/02/26/technology/russia-censorship-tech.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/26/technology/russia-censorship-tech.html",
+            "title": "俄罗斯加强审查运动，向科技巨头施压",
+            "summary": "Russia Intensifies Censorship Campaign, Pressuring Tech Giants",
+            "date_modified": "2022-02-26T11:48:59.000Z",
+            "author": {
+                "name": "Adam Satariano",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/02/26/technology/price-swings-amazon.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/02/26/technology/price-swings-amazon.html",

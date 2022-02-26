@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-02-26T10:12:45.461Z</updated>
+    <updated>2022-02-26T13:38:02.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯加强审查运动，向科技巨头施压]]></title>
+        <id>https://www.nytimes.com/2022/02/26/technology/russia-censorship-tech.html</id>
+        <link href="https://www.nytimes.com/2022/02/26/technology/russia-censorship-tech.html"/>
+        <updated>2022-02-26T11:48:59.000Z</updated>
+        <summary type="html"><![CDATA[Russia Intensifies Censorship Campaign, Pressuring Tech Giants]]></summary>
+        <author>
+            <name>Adam Satariano</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不存在或摇摆不定的价格让消费者猜测不已]]></title>
         <id>https://www.nytimes.com/2022/02/26/technology/price-swings-amazon.html</id>

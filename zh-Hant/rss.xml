@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 26 Feb 2022 10:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 13:38:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[俄羅斯加強審查運動，向科技巨頭施壓]]></title>
+            <link>https://www.nytimes.com/2022/02/26/technology/russia-censorship-tech.html</link>
+            <guid>https://www.nytimes.com/2022/02/26/technology/russia-censorship-tech.html</guid>
+            <pubDate>Sat, 26 Feb 2022 11:48:59 GMT</pubDate>
+            <description><![CDATA[Russia Intensifies Censorship Campaign, Pressuring Tech Giants]]></description>
+        </item>
         <item>
             <title><![CDATA[不存在或搖擺不定的價格讓消費者猜測不已]]></title>
             <link>https://www.nytimes.com/2022/02/26/technology/price-swings-amazon.html</link>
