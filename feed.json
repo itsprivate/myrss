@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/02/27/business/china-russia-ukraine-invasion.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/27/business/china-russia-ukraine-invasion.html",
+            "title": "为什么中国互联网在为俄罗斯的入侵欢呼？",
+            "summary": "Why the Chinese Internet Is Cheering Russia’s Invasion",
+            "date_modified": "2022-02-27T13:16:47.000Z",
+            "author": {
+                "name": "Li Yuan",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/02/26/technology/amazon-price-swings-shopping.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/02/26/technology/amazon-price-swings-shopping.html",

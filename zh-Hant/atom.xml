@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-02-26T14:52:17.127Z</updated>
+    <updated>2022-02-27T17:02:48.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼中國互聯網在為俄羅斯的入侵歡呼？]]></title>
+        <id>https://www.nytimes.com/2022/02/27/business/china-russia-ukraine-invasion.html</id>
+        <link href="https://www.nytimes.com/2022/02/27/business/china-russia-ukraine-invasion.html"/>
+        <updated>2022-02-27T13:16:47.000Z</updated>
+        <summary type="html"><![CDATA[Why the Chinese Internet Is Cheering Russia’s Invasion]]></summary>
+        <author>
+            <name>Li Yuan</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不存在或搖擺不定的價格讓消費者猜測不已]]></title>
         <id>https://www.nytimes.com/2022/02/26/technology/amazon-price-swings-shopping.html</id>
