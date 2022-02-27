@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sun, 27 Feb 2022 17:02:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 20:33:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[對烏克蘭來說，太少、太晚了]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/for-ukraine-far-too-little-too-late</link>
+            <guid>https://www.newyorker.com/news/daily-comment/for-ukraine-far-too-little-too-late</guid>
+            <pubDate>Sun, 27 Feb 2022 20:01:22 GMT</pubDate>
+            <description><![CDATA[For Ukraine, Far Too Little, Too Late]]></description>
+        </item>
         <item>
             <title><![CDATA[為什麼中國互聯網在為俄羅斯的入侵歡呼？]]></title>
             <link>https://www.nytimes.com/2022/02/27/business/china-russia-ukraine-invasion.html</link>

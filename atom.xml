@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-02-27T17:02:48.686Z</updated>
+    <updated>2022-02-27T20:33:35.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对乌克兰来说，太少、太晚了]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/for-ukraine-far-too-little-too-late</id>
+        <link href="https://www.newyorker.com/news/daily-comment/for-ukraine-far-too-little-too-late"/>
+        <updated>2022-02-27T20:01:22.000Z</updated>
+        <summary type="html"><![CDATA[For Ukraine, Far Too Little, Too Late]]></summary>
+        <author>
+            <name>Robin Wright</name>
+            <uri>https://www.newyorker.com/feed/news/daily-comment</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么中国互联网在为俄罗斯的入侵欢呼？]]></title>
         <id>https://www.nytimes.com/2022/02/27/business/china-russia-ukraine-invasion.html</id>
