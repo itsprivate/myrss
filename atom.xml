@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-02-28T16:21:28.439Z</updated>
+    <updated>2022-02-28T19:53:14.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[与俄罗斯的关系妥协了以色列在乌克兰问题上的立场]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/ties-with-russia-compromise-israels-stance-on-ukraine</id>
+        <link href="https://www.newyorker.com/news/daily-comment/ties-with-russia-compromise-israels-stance-on-ukraine"/>
+        <updated>2022-02-28T19:30:42.000Z</updated>
+        <summary type="html"><![CDATA[Ties with Russia Compromise Israel’s Stance on Ukraine]]></summary>
+        <author>
+            <name>Bernard Avishai</name>
+            <uri>https://www.newyorker.com/feed/news/daily-comment</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亚马逊开设全食超市，自动化程度更上一层楼]]></title>
         <id>https://www.nytimes.com/2022/02/28/technology/whole-foods-amazon-automation.html</id>
