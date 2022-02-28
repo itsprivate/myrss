@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-02-28T19:53:14.975Z</updated>
+    <updated>2022-02-28T23:15:33.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[以太网的共同发明者大卫-博格斯逝世，享年71岁]]></title>
+        <id>https://www.nytimes.com/2022/02/28/technology/david-boggs-dead.html</id>
+        <link href="https://www.nytimes.com/2022/02/28/technology/david-boggs-dead.html"/>
+        <updated>2022-02-28T22:56:17.000Z</updated>
+        <summary type="html"><![CDATA[David Boggs, Co-Inventor of Ethernet, Dies at 71]]></summary>
+        <author>
+            <name>Cade Metz</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰战争考验科技巨头的力量]]></title>
+        <id>https://www.nytimes.com/2022/02/28/technology/ukraine-russia-social-media.html</id>
+        <link href="https://www.nytimes.com/2022/02/28/technology/ukraine-russia-social-media.html"/>
+        <updated>2022-02-28T22:39:16.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine War Tests the Power of Tech Giants]]></summary>
+        <author>
+            <name>Adam Satariano and Sheera Frenkel</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[与俄罗斯的关系妥协了以色列在乌克兰问题上的立场]]></title>
         <id>https://www.newyorker.com/news/daily-comment/ties-with-russia-compromise-israels-stance-on-ukraine</id>

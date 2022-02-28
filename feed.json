@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/02/28/technology/david-boggs-dead.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/28/technology/david-boggs-dead.html",
+            "title": "以太网的共同发明者大卫-博格斯逝世，享年71岁",
+            "summary": "David Boggs, Co-Inventor of Ethernet, Dies at 71",
+            "date_modified": "2022-02-28T22:56:17.000Z",
+            "author": {
+                "name": "Cade Metz",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/02/28/technology/ukraine-russia-social-media.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/02/28/technology/ukraine-russia-social-media.html",
+            "title": "乌克兰战争考验科技巨头的力量",
+            "summary": "Ukraine War Tests the Power of Tech Giants",
+            "date_modified": "2022-02-28T22:39:16.000Z",
+            "author": {
+                "name": "Adam Satariano and Sheera Frenkel",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/daily-comment/ties-with-russia-compromise-israels-stance-on-ukraine",
             "content_html": "",
             "url": "https://www.newyorker.com/news/daily-comment/ties-with-russia-compromise-israels-stance-on-ukraine",

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 28 Feb 2022 19:53:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 23:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[以太網的共同發明者大衛-博格斯逝世，享年71歲]]></title>
+            <link>https://www.nytimes.com/2022/02/28/technology/david-boggs-dead.html</link>
+            <guid>https://www.nytimes.com/2022/02/28/technology/david-boggs-dead.html</guid>
+            <pubDate>Mon, 28 Feb 2022 22:56:17 GMT</pubDate>
+            <description><![CDATA[David Boggs, Co-Inventor of Ethernet, Dies at 71]]></description>
+        </item>
+        <item>
+            <title><![CDATA[烏克蘭戰爭考驗科技巨頭的力量]]></title>
+            <link>https://www.nytimes.com/2022/02/28/technology/ukraine-russia-social-media.html</link>
+            <guid>https://www.nytimes.com/2022/02/28/technology/ukraine-russia-social-media.html</guid>
+            <pubDate>Mon, 28 Feb 2022 22:39:16 GMT</pubDate>
+            <description><![CDATA[Ukraine War Tests the Power of Tech Giants]]></description>
+        </item>
         <item>
             <title><![CDATA[與俄羅斯的關係妥協了以色列在烏克蘭問題上的立場]]></title>
             <link>https://www.newyorker.com/news/daily-comment/ties-with-russia-compromise-israels-stance-on-ukraine</link>
