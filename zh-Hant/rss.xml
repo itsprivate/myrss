@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sun, 27 Feb 2022 20:33:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 08:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[開放話題213]]></title>
+            <link>https://astralcodexten.substack.com/p/open-thread-213</link>
+            <guid>https://astralcodexten.substack.com/p/open-thread-213</guid>
+            <pubDate>Mon, 28 Feb 2022 08:04:41 GMT</pubDate>
+            <description><![CDATA[Open Thread 213]]></description>
+        </item>
         <item>
             <title><![CDATA[對烏克蘭來說，太少、太晚了]]></title>
             <link>https://www.newyorker.com/news/daily-comment/for-ukraine-far-too-little-too-late</link>
