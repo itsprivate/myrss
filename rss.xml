@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 28 Feb 2022 08:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 16:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[亚马逊开设全食超市，自动化程度更上一层楼]]></title>
+            <link>https://www.nytimes.com/2022/02/28/technology/whole-foods-amazon-automation.html</link>
+            <guid>https://www.nytimes.com/2022/02/28/technology/whole-foods-amazon-automation.html</guid>
+            <pubDate>Mon, 28 Feb 2022 16:04:48 GMT</pubDate>
+            <description><![CDATA[Amazon Opens a Whole Foods With the Next Step in Automation]]></description>
+        </item>
         <item>
             <title><![CDATA[开放话题213]]></title>
             <link>https://astralcodexten.substack.com/p/open-thread-213</link>
