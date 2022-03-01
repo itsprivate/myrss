@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-01T18:16:11.536Z</updated>
+    <updated>2022-03-01T20:15:12.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[普京的核劍走偏鋒意味著什麼？]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/what-does-putins-nuclear-sabre-rattling-mean</id>
+        <link href="https://www.newyorker.com/news/daily-comment/what-does-putins-nuclear-sabre-rattling-mean"/>
+        <updated>2022-03-01T19:53:48.000Z</updated>
+        <summary type="html"><![CDATA[What Does Putin’s Nuclear Sabre Rattling Mean?]]></summary>
+        <author>
+            <name>Robin Wright</name>
+            <uri>https://www.newyorker.com/feed/news/daily-comment</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[聚焦科技界的隱形人]]></title>
         <id>https://www.nytimes.com/2022/03/01/technology/tech-startups.html</id>

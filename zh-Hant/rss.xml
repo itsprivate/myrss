@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 01 Mar 2022 18:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 20:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[普京的核劍走偏鋒意味著什麼？]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/what-does-putins-nuclear-sabre-rattling-mean</link>
+            <guid>https://www.newyorker.com/news/daily-comment/what-does-putins-nuclear-sabre-rattling-mean</guid>
+            <pubDate>Tue, 01 Mar 2022 19:53:48 GMT</pubDate>
+            <description><![CDATA[What Does Putin’s Nuclear Sabre Rattling Mean?]]></description>
+        </item>
         <item>
             <title><![CDATA[聚焦科技界的隱形人]]></title>
             <link>https://www.nytimes.com/2022/03/01/technology/tech-startups.html</link>
