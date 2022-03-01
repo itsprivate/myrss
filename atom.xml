@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-02-28T23:15:33.616Z</updated>
+    <updated>2022-03-01T00:39:20.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最新的联合国气候报告描绘了另一幅严峻的画面]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/the-latest-un-climate-report-paints-another-grim-picture</id>
+        <link href="https://www.newyorker.com/news/daily-comment/the-latest-un-climate-report-paints-another-grim-picture"/>
+        <updated>2022-02-28T23:41:40.000Z</updated>
+        <summary type="html"><![CDATA[The Latest U.N. Climate Report Paints Another Grim Picture]]></summary>
+        <author>
+            <name>Elizabeth Kolbert</name>
+            <uri>https://www.newyorker.com/feed/news/daily-comment</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[以太网的共同发明者大卫-博格斯逝世，享年71岁]]></title>
         <id>https://www.nytimes.com/2022/02/28/technology/david-boggs-dead.html</id>
