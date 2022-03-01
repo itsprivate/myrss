@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-01T00:39:20.329Z</updated>
+    <updated>2022-03-01T02:15:12.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[欧洲对普京政权咄咄逼人的新姿态]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/europes-aggressive-new-stance-toward-putins-regime</id>
+        <link href="https://www.newyorker.com/news/daily-comment/europes-aggressive-new-stance-toward-putins-regime"/>
+        <updated>2022-03-01T01:53:17.000Z</updated>
+        <summary type="html"><![CDATA[Europe’s Aggressive New Stance Toward Putin’s Regime]]></summary>
+        <author>
+            <name>Ben Taub</name>
+            <uri>https://www.newyorker.com/feed/news/daily-comment</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技公司帮助乌克兰抵御网络攻击]]></title>
+        <id>https://www.nytimes.com/2022/02/28/us/politics/ukraine-russia-microsoft.html</id>
+        <link href="https://www.nytimes.com/2022/02/28/us/politics/ukraine-russia-microsoft.html"/>
+        <updated>2022-03-01T01:52:38.000Z</updated>
+        <summary type="html"><![CDATA[Tech Companies Help Defend Ukraine Against Cyberattacks]]></summary>
+        <author>
+            <name>David E. Sanger, Julian E. Barnes and Kate Conger</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们的梦想世界]]></title>
+        <id>https://www.currentaffairs.org/2022/02/world-of-our-dreams/</id>
+        <link href="https://www.currentaffairs.org/2022/02/world-of-our-dreams/"/>
+        <updated>2022-02-28T19:37:10.000Z</updated>
+        <summary type="html"><![CDATA[World of Our Dreams]]></summary>
+        <author>
+            <name>Nathan J. Robinson</name>
+            <uri>https://www.currentaffairs.org/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最新的联合国气候报告描绘了另一幅严峻的画面]]></title>
         <id>https://www.newyorker.com/news/daily-comment/the-latest-un-climate-report-paints-another-grim-picture</id>

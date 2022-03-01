@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 01 Mar 2022 00:39:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 02:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[歐洲對普京政權咄咄逼人的新姿態]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/europes-aggressive-new-stance-toward-putins-regime</link>
+            <guid>https://www.newyorker.com/news/daily-comment/europes-aggressive-new-stance-toward-putins-regime</guid>
+            <pubDate>Tue, 01 Mar 2022 01:53:17 GMT</pubDate>
+            <description><![CDATA[Europe’s Aggressive New Stance Toward Putin’s Regime]]></description>
+        </item>
+        <item>
+            <title><![CDATA[科技公司幫助烏克蘭抵禦網絡攻擊]]></title>
+            <link>https://www.nytimes.com/2022/02/28/us/politics/ukraine-russia-microsoft.html</link>
+            <guid>https://www.nytimes.com/2022/02/28/us/politics/ukraine-russia-microsoft.html</guid>
+            <pubDate>Tue, 01 Mar 2022 01:52:38 GMT</pubDate>
+            <description><![CDATA[Tech Companies Help Defend Ukraine Against Cyberattacks]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我們的夢想世界]]></title>
+            <link>https://www.currentaffairs.org/2022/02/world-of-our-dreams/</link>
+            <guid>https://www.currentaffairs.org/2022/02/world-of-our-dreams/</guid>
+            <pubDate>Mon, 28 Feb 2022 19:37:10 GMT</pubDate>
+            <description><![CDATA[World of Our Dreams]]></description>
+        </item>
         <item>
             <title><![CDATA[最新的聯合國氣候報告描繪了另一幅嚴峻的畫面]]></title>
             <link>https://www.newyorker.com/news/daily-comment/the-latest-un-climate-report-paints-another-grim-picture</link>
