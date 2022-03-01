@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-01T08:37:22.172Z</updated>
+    <updated>2022-03-01T18:16:11.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[聚焦科技界的隐形人]]></title>
+        <id>https://www.nytimes.com/2022/03/01/technology/tech-startups.html</id>
+        <link href="https://www.nytimes.com/2022/03/01/technology/tech-startups.html"/>
+        <updated>2022-03-01T18:08:40.000Z</updated>
+        <summary type="html"><![CDATA[A Spotlight on Tech’s Invisible]]></summary>
+        <author>
+            <name>Shira Ovide</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[乌克兰的战争预测]]></title>
         <id>https://astralcodexten.substack.com/p/ukraine-warcasting</id>
