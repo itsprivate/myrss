@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://astralcodexten.substack.com/p/ukraine-warcasting",
+            "content_html": "",
+            "url": "https://astralcodexten.substack.com/p/ukraine-warcasting",
+            "title": "乌克兰的战争预测",
+            "summary": "Ukraine Warcasting",
+            "date_modified": "2022-03-01T07:51:00.000Z",
+            "author": {
+                "name": "Scott Alexander",
+                "url": "https://astralcodexten.substack.com/feed"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/daily-comment/europes-aggressive-new-stance-toward-putins-regime",
             "content_html": "",
             "url": "https://www.newyorker.com/news/daily-comment/europes-aggressive-new-stance-toward-putins-regime",
