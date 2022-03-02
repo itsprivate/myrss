@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-02T19:13:05.700Z</updated>
+    <updated>2022-03-02T20:13:41.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[欧洲的另一场移民危机]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/europes-other-migration-crisis</id>
+        <link href="https://www.newyorker.com/news/daily-comment/europes-other-migration-crisis"/>
+        <updated>2022-03-02T19:50:28.000Z</updated>
+        <summary type="html"><![CDATA[Europe’s Other Migration Crisis]]></summary>
+        <author>
+            <name>Alexis Okeowo</name>
+            <uri>https://www.newyorker.com/feed/news/daily-comment</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[技术部门应该留在俄罗斯还是离开？]]></title>
         <id>https://www.nytimes.com/2022/03/02/technology/russia-tech-companies.html</id>
