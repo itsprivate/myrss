@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-01T20:15:12.988Z</updated>
+    <updated>2022-03-02T07:00:25.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[微型成癮症]]></title>
+        <id>https://astralcodexten.substack.com/p/microaddictions</id>
+        <link href="https://astralcodexten.substack.com/p/microaddictions"/>
+        <updated>2022-03-02T06:32:38.000Z</updated>
+        <summary type="html"><![CDATA[Microaddictions]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[普京的核劍走偏鋒意味著什麼？]]></title>
         <id>https://www.newyorker.com/news/daily-comment/what-does-putins-nuclear-sabre-rattling-mean</id>
