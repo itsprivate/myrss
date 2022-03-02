@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-02T20:34:34.148Z</updated>
+    <updated>2022-03-02T20:52:31.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亚马逊计划关闭50多家实体店。]]></title>
+        <id>https://www.nytimes.com/2022/03/02/technology/amazon-closing-stores.html</id>
+        <link href="https://www.nytimes.com/2022/03/02/technology/amazon-closing-stores.html"/>
+        <updated>2022-03-02T20:44:33.000Z</updated>
+        <summary type="html"><![CDATA[Amazon plans to shut down more than 50 brick-and-mortar stores.]]></summary>
+        <author>
+            <name>Karen Weise</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[堡垒之夜》背后的游戏巨头买下独立音乐天堂Bandcamp]]></title>
         <id>https://www.nytimes.com/2022/03/02/arts/music/epic-games-bandcamp.html</id>

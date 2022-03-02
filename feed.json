@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/02/technology/amazon-closing-stores.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/02/technology/amazon-closing-stores.html",
+            "title": "亚马逊计划关闭50多家实体店。",
+            "summary": "Amazon plans to shut down more than 50 brick-and-mortar stores.",
+            "date_modified": "2022-03-02T20:44:33.000Z",
+            "author": {
+                "name": "Karen Weise",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/02/arts/music/epic-games-bandcamp.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/02/arts/music/epic-games-bandcamp.html",
