@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 02 Mar 2022 20:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 20:34:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[堡壘之夜》背後的遊戲巨頭買下獨立音樂天堂Bandcamp]]></title>
+            <link>https://www.nytimes.com/2022/03/02/arts/music/epic-games-bandcamp.html</link>
+            <guid>https://www.nytimes.com/2022/03/02/arts/music/epic-games-bandcamp.html</guid>
+            <pubDate>Wed, 02 Mar 2022 20:10:23 GMT</pubDate>
+            <description><![CDATA[Gaming Giant Behind Fortnite Buys Bandcamp, an Indie Music Haven]]></description>
+        </item>
         <item>
             <title><![CDATA[歐洲的另一場移民危機]]></title>
             <link>https://www.newyorker.com/news/daily-comment/europes-other-migration-crisis</link>

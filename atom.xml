@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-02T20:13:41.946Z</updated>
+    <updated>2022-03-02T20:34:34.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[堡垒之夜》背后的游戏巨头买下独立音乐天堂Bandcamp]]></title>
+        <id>https://www.nytimes.com/2022/03/02/arts/music/epic-games-bandcamp.html</id>
+        <link href="https://www.nytimes.com/2022/03/02/arts/music/epic-games-bandcamp.html"/>
+        <updated>2022-03-02T20:10:23.000Z</updated>
+        <summary type="html"><![CDATA[Gaming Giant Behind Fortnite Buys Bandcamp, an Indie Music Haven]]></summary>
+        <author>
+            <name>Ben Sisario</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欧洲的另一场移民危机]]></title>
         <id>https://www.newyorker.com/news/daily-comment/europes-other-migration-crisis</id>

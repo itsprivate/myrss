@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/02/arts/music/epic-games-bandcamp.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/02/arts/music/epic-games-bandcamp.html",
+            "title": "堡壘之夜》背後的遊戲巨頭買下獨立音樂天堂Bandcamp",
+            "summary": "Gaming Giant Behind Fortnite Buys Bandcamp, an Indie Music Haven",
+            "date_modified": "2022-03-02T20:10:23.000Z",
+            "author": {
+                "name": "Ben Sisario",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/daily-comment/europes-other-migration-crisis",
             "content_html": "",
             "url": "https://www.newyorker.com/news/daily-comment/europes-other-migration-crisis",
