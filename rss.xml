@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 02 Mar 2022 17:06:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 19:13:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[技术部门应该留在俄罗斯还是离开？]]></title>
+            <link>https://www.nytimes.com/2022/03/02/technology/russia-tech-companies.html</link>
+            <guid>https://www.nytimes.com/2022/03/02/technology/russia-tech-companies.html</guid>
+            <pubDate>Wed, 02 Mar 2022 18:51:12 GMT</pubDate>
+            <description><![CDATA[Should Tech Stay or Go in Russia?]]></description>
+        </item>
         <item>
             <title><![CDATA[重塑与怀旧：重塑Twitter的项目]]></title>
             <link>https://www.nytimes.com/2022/03/02/technology/twitter-platform-rethink.html</link>

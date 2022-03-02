@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/02/technology/russia-tech-companies.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/02/technology/russia-tech-companies.html",
+            "title": "技术部门应该留在俄罗斯还是离开？",
+            "summary": "Should Tech Stay or Go in Russia?",
+            "date_modified": "2022-03-02T18:51:12.000Z",
+            "author": {
+                "name": "Shira Ovide",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/02/technology/twitter-platform-rethink.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/02/technology/twitter-platform-rethink.html",
