@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-02T21:30:32.245Z</updated>
+    <updated>2022-03-02T21:38:20.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国将技术限制扩大到白俄罗斯和俄罗斯石油工业。]]></title>
+        <id>https://www.nytimes.com/2022/03/02/business/us-ukraine-belarus-technology-restrictions.html</id>
+        <link href="https://www.nytimes.com/2022/03/02/business/us-ukraine-belarus-technology-restrictions.html"/>
+        <updated>2022-03-02T21:31:35.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. extends technology restrictions to Belarus and the Russian oil industry.]]></summary>
+        <author>
+            <name>Ana Swanson</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[各国对TikTok进行调查，因为它可能对年轻用户造成危害]]></title>
         <id>https://www.nytimes.com/2022/03/02/technology/tiktok-states-investigation.html</id>

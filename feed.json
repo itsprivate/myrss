@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/02/business/us-ukraine-belarus-technology-restrictions.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/02/business/us-ukraine-belarus-technology-restrictions.html",
+            "title": "美国将技术限制扩大到白俄罗斯和俄罗斯石油工业。",
+            "summary": "The U.S. extends technology restrictions to Belarus and the Russian oil industry.",
+            "date_modified": "2022-03-02T21:31:35.000Z",
+            "author": {
+                "name": "Ana Swanson",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/02/technology/tiktok-states-investigation.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/02/technology/tiktok-states-investigation.html",
