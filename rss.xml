@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 02 Mar 2022 07:00:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 10:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[隐匿性的加密货币引起了人们的警惕]]></title>
+            <link>https://www.nytimes.com/2022/03/02/technology/cryptocurrency-anonymity-alarm.html</link>
+            <guid>https://www.nytimes.com/2022/03/02/technology/cryptocurrency-anonymity-alarm.html</guid>
+            <pubDate>Wed, 02 Mar 2022 10:00:25 GMT</pubDate>
+            <description><![CDATA[Anonymity in Crypto Raises Alarm]]></description>
+        </item>
         <item>
             <title><![CDATA[微型成瘾症]]></title>
             <link>https://astralcodexten.substack.com/p/microaddictions</link>

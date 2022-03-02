@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/02/technology/cryptocurrency-anonymity-alarm.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/02/technology/cryptocurrency-anonymity-alarm.html",
+            "title": "隱匿性的加密貨幣引起了人們的警惕",
+            "summary": "Anonymity in Crypto Raises Alarm",
+            "date_modified": "2022-03-02T10:00:25.000Z",
+            "author": {
+                "name": "David Yaffe-Bellany",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://astralcodexten.substack.com/p/microaddictions",
             "content_html": "",
             "url": "https://astralcodexten.substack.com/p/microaddictions",
