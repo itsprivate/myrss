@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/02/technology/tiktok-states-investigation.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/02/technology/tiktok-states-investigation.html",
+            "title": "各国对TikTok进行调查，因为它可能对年轻用户造成危害",
+            "summary": "States Investigate TikTok Over Potential Harms to Younger Users",
+            "date_modified": "2022-03-02T21:15:39.000Z",
+            "author": {
+                "name": "Cecilia Kang",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/02/technology/amazon-closing-stores.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/02/technology/amazon-closing-stores.html",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-02T20:52:31.469Z</updated>
+    <updated>2022-03-02T21:30:32.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[各國對TikTok進行調查，因為它可能對年輕用戶造成危害]]></title>
+        <id>https://www.nytimes.com/2022/03/02/technology/tiktok-states-investigation.html</id>
+        <link href="https://www.nytimes.com/2022/03/02/technology/tiktok-states-investigation.html"/>
+        <updated>2022-03-02T21:15:39.000Z</updated>
+        <summary type="html"><![CDATA[States Investigate TikTok Over Potential Harms to Younger Users]]></summary>
+        <author>
+            <name>Cecilia Kang</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亞馬遜計劃關閉50多家實體店。]]></title>
         <id>https://www.nytimes.com/2022/03/02/technology/amazon-closing-stores.html</id>
