@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-02T10:14:52.680Z</updated>
+    <updated>2022-03-02T14:34:11.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在智能手机的免费日历中设置你的时间表]]></title>
+        <id>https://www.nytimes.com/2022/03/02/technology/personaltech/apple-ios-google-calendar.html</id>
+        <link href="https://www.nytimes.com/2022/03/02/technology/personaltech/apple-ios-google-calendar.html"/>
+        <updated>2022-03-02T14:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Set Your Schedule in Your Smartphone’s Free Calendar]]></summary>
+        <author>
+            <name>J. D. Biersdorfer</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[隐匿性的加密货币引起了人们的警惕]]></title>
         <id>https://www.nytimes.com/2022/03/02/technology/cryptocurrency-anonymity-alarm.html</id>
