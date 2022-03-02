@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 02 Mar 2022 14:34:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 17:06:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[重塑与怀旧：重塑Twitter的项目]]></title>
+            <link>https://www.nytimes.com/2022/03/02/technology/twitter-platform-rethink.html</link>
+            <guid>https://www.nytimes.com/2022/03/02/technology/twitter-platform-rethink.html</guid>
+            <pubDate>Wed, 02 Mar 2022 16:35:51 GMT</pubDate>
+            <description><![CDATA[Reinvention and Nostalgia: The Project to Remake Twitter]]></description>
+        </item>
+        <item>
+            <title><![CDATA[有好处的朋友。以加密货币和振动为生的社交俱乐部]]></title>
+            <link>https://www.nytimes.com/2022/03/02/technology/friends-with-benefits-crypto-dao.html</link>
+            <guid>https://www.nytimes.com/2022/03/02/technology/friends-with-benefits-crypto-dao.html</guid>
+            <pubDate>Wed, 02 Mar 2022 16:33:22 GMT</pubDate>
+            <description><![CDATA[Friends With Benefits: The Social Club That Runs On Crypto and Vibes]]></description>
+        </item>
         <item>
             <title><![CDATA[在智能手机的免费日历中设置你的时间表]]></title>
             <link>https://www.nytimes.com/2022/03/02/technology/personaltech/apple-ios-google-calendar.html</link>

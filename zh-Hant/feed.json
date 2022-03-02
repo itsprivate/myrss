@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/02/technology/twitter-platform-rethink.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/02/technology/twitter-platform-rethink.html",
+            "title": "重塑與懷舊：重塑Twitter的項目",
+            "summary": "Reinvention and Nostalgia: The Project to Remake Twitter",
+            "date_modified": "2022-03-02T16:35:51.000Z",
+            "author": {
+                "name": "Kate Conger",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/03/02/technology/friends-with-benefits-crypto-dao.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/02/technology/friends-with-benefits-crypto-dao.html",
+            "title": "有好處的朋友。以加密貨幣和振動為生的社交俱樂部",
+            "summary": "Friends With Benefits: The Social Club That Runs On Crypto and Vibes",
+            "date_modified": "2022-03-02T16:33:22.000Z",
+            "author": {
+                "name": "Erin Woo and Kevin Roose",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/02/technology/personaltech/apple-ios-google-calendar.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/02/technology/personaltech/apple-ios-google-calendar.html",
