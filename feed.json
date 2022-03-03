@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/02/technology/amazon-union-staten-island-ldj5.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/02/technology/amazon-union-staten-island-ldj5.html",
+            "title": "亚马逊在斯塔滕岛的第二个站点将举行工会选举",
+            "summary": "A Second Amazon Site on Staten Island Will Have a Union Election",
+            "date_modified": "2022-03-03T03:30:22.000Z",
+            "author": {
+                "name": "Daisuke Wakabayashi",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.currentaffairs.org/2022/03/randall-kennedy-on-why-critical-race-theory-is-important/",
+            "content_html": "",
+            "url": "https://www.currentaffairs.org/2022/03/randall-kennedy-on-why-critical-race-theory-is-important/",
+            "title": "兰德尔-肯尼迪谈为什么批判性种族理论很重要",
+            "summary": "Randall Kennedy on Why Critical Race Theory is Important",
+            "date_modified": "2022-03-02T20:38:36.000Z",
+            "author": {
+                "name": "Current Affairs",
+                "url": "https://www.currentaffairs.org/feed"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/02/business/us-ukraine-belarus-technology-restrictions.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/02/business/us-ukraine-belarus-technology-restrictions.html",
