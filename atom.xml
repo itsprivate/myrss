@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-03T14:15:31.568Z</updated>
+    <updated>2022-03-03T16:18:04.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在乌克兰的信息战争中，事实和虚构的混合体]]></title>
+        <id>https://www.nytimes.com/2022/03/03/technology/ukraine-war-misinfo.html</id>
+        <link href="https://www.nytimes.com/2022/03/03/technology/ukraine-war-misinfo.html"/>
+        <updated>2022-03-03T15:36:40.000Z</updated>
+        <summary type="html"><![CDATA[In Ukraine’s Information War, a Blend of Fact and Fiction]]></summary>
+        <author>
+            <name>Stuart A. Thompson and Davey Alba</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[外科医生要求大科技公司提供Covid错误信息数据]]></title>
         <id>https://www.nytimes.com/2022/03/03/technology/surgeon-general-covid-misinformation.html</id>

@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/03/technology/ukraine-war-misinfo.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/03/technology/ukraine-war-misinfo.html",
+            "title": "在烏克蘭的信息戰爭中，事實和虛構的混合體",
+            "summary": "In Ukraine’s Information War, a Blend of Fact and Fiction",
+            "date_modified": "2022-03-03T15:36:40.000Z",
+            "author": {
+                "name": "Stuart A. Thompson and Davey Alba",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/03/technology/surgeon-general-covid-misinformation.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/03/technology/surgeon-general-covid-misinformation.html",

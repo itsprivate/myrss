@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 03 Mar 2022 14:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 16:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在乌克兰的信息战争中，事实和虚构的混合体]]></title>
+            <link>https://www.nytimes.com/2022/03/03/technology/ukraine-war-misinfo.html</link>
+            <guid>https://www.nytimes.com/2022/03/03/technology/ukraine-war-misinfo.html</guid>
+            <pubDate>Thu, 03 Mar 2022 15:36:40 GMT</pubDate>
+            <description><![CDATA[In Ukraine’s Information War, a Blend of Fact and Fiction]]></description>
+        </item>
         <item>
             <title><![CDATA[外科医生要求大科技公司提供Covid错误信息数据]]></title>
             <link>https://www.nytimes.com/2022/03/03/technology/surgeon-general-covid-misinformation.html</link>
