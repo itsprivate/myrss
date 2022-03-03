@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/03/technology/surgeon-general-covid-misinformation.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/03/technology/surgeon-general-covid-misinformation.html",
+            "title": "外科医生要求大科技公司提供Covid错误信息数据",
+            "summary": "Surgeon General Seeks Covid Misinformation Data From Big Tech",
+            "date_modified": "2022-03-03T13:31:31.000Z",
+            "author": {
+                "name": "Davey Alba",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/03/business/electric-vehicle-chargers-infrastructure.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/03/business/electric-vehicle-chargers-infrastructure.html",
