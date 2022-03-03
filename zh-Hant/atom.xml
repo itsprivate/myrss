@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-03T16:18:04.719Z</updated>
+    <updated>2022-03-03T23:59:12.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[紐約時報》技術工人投票認證工會]]></title>
+        <id>https://www.nytimes.com/2022/03/03/business/media/new-york-times-tech-union.html</id>
+        <link href="https://www.nytimes.com/2022/03/03/business/media/new-york-times-tech-union.html"/>
+        <updated>2022-03-03T23:36:08.000Z</updated>
+        <summary type="html"><![CDATA[New York Times Tech Workers Vote to Certify Union]]></summary>
+        <author>
+            <name>Katie Robertson</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OneWeb取消發射，俄羅斯的太空孤立狀況加劇]]></title>
+        <id>https://www.nytimes.com/2022/03/03/science/russia-oneweb-launch.html</id>
+        <link href="https://www.nytimes.com/2022/03/03/science/russia-oneweb-launch.html"/>
+        <updated>2022-03-03T22:51:30.000Z</updated>
+        <summary type="html"><![CDATA[Russia's Space Isolation Grows as OneWeb Cancels Launch]]></summary>
+        <author>
+            <name>Joey Roulette</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英國廣播公司恢復在烏克蘭的短波廣播節目，引起俄羅斯的不滿]]></title>
+        <id>https://www.nytimes.com/2022/03/03/business/media/bbc-shortwave-radio-ukraine.html</id>
+        <link href="https://www.nytimes.com/2022/03/03/business/media/bbc-shortwave-radio-ukraine.html"/>
+        <updated>2022-03-03T22:03:20.000Z</updated>
+        <summary type="html"><![CDATA[BBC Revives Shortwave Radio Dispatches in Ukraine and Draws Ire of Russia]]></summary>
+        <author>
+            <name>Tiffany Hsu</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OneWeb取消發射，俄羅斯的太空孤立狀況加劇]]></title>
+        <id>https://www.nytimes.com/2022/03/03/science/space-russia-oneweb.html</id>
+        <link href="https://www.nytimes.com/2022/03/03/science/space-russia-oneweb.html"/>
+        <updated>2022-03-03T22:09:58.000Z</updated>
+        <summary type="html"><![CDATA[Russia's Space Isolation Grows as OneWeb Cancels Launch]]></summary>
+        <author>
+            <name>Joey Roulette</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[兩黨對佈雷耶的感謝掩蓋了已經發生的爭吵]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/a-bipartisan-thank-you-to-breyer-masks-the-brawling-already-under-way</id>
+        <link href="https://www.newyorker.com/news/daily-comment/a-bipartisan-thank-you-to-breyer-masks-the-brawling-already-under-way"/>
+        <updated>2022-03-03T19:33:41.000Z</updated>
+        <summary type="html"><![CDATA[A Bipartisan Thank You to Breyer Masks the Brawling Already Under Way]]></summary>
+        <author>
+            <name>Amy Davidson Sorkin</name>
+            <uri>https://www.newyorker.com/feed/news/daily-comment</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitch表示將禁止錯誤信息的長期傳播者。]]></title>
+        <id>https://www.nytimes.com/2022/03/03/business/twitch-misinformation-policy.html</id>
+        <link href="https://www.nytimes.com/2022/03/03/business/twitch-misinformation-policy.html"/>
+        <updated>2022-03-03T19:02:15.000Z</updated>
+        <summary type="html"><![CDATA[Twitch Says It Will Bar Chronic Spreaders of Misinformation]]></summary>
+        <author>
+            <name>Kellen Browning</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[更多的互聯網選擇--在理論上]]></title>
+        <id>https://www.nytimes.com/2022/03/03/technology/internet-options.html</id>
+        <link href="https://www.nytimes.com/2022/03/03/technology/internet-options.html"/>
+        <updated>2022-03-03T17:03:45.000Z</updated>
+        <summary type="html"><![CDATA[More Internet Options — in Theory]]></summary>
+        <author>
+            <name>Shira Ovide</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在烏克蘭的信息戰爭中，事實和虛構的混合體]]></title>
         <id>https://www.nytimes.com/2022/03/03/technology/ukraine-war-misinfo.html</id>

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 03 Mar 2022 16:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 23:59:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,55 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[紐約時報》技術工人投票認證工會]]></title>
+            <link>https://www.nytimes.com/2022/03/03/business/media/new-york-times-tech-union.html</link>
+            <guid>https://www.nytimes.com/2022/03/03/business/media/new-york-times-tech-union.html</guid>
+            <pubDate>Thu, 03 Mar 2022 23:36:08 GMT</pubDate>
+            <description><![CDATA[New York Times Tech Workers Vote to Certify Union]]></description>
+        </item>
+        <item>
+            <title><![CDATA[OneWeb取消發射，俄羅斯的太空孤立狀況加劇]]></title>
+            <link>https://www.nytimes.com/2022/03/03/science/russia-oneweb-launch.html</link>
+            <guid>https://www.nytimes.com/2022/03/03/science/russia-oneweb-launch.html</guid>
+            <pubDate>Thu, 03 Mar 2022 22:51:30 GMT</pubDate>
+            <description><![CDATA[Russia's Space Isolation Grows as OneWeb Cancels Launch]]></description>
+        </item>
+        <item>
+            <title><![CDATA[英國廣播公司恢復在烏克蘭的短波廣播節目，引起俄羅斯的不滿]]></title>
+            <link>https://www.nytimes.com/2022/03/03/business/media/bbc-shortwave-radio-ukraine.html</link>
+            <guid>https://www.nytimes.com/2022/03/03/business/media/bbc-shortwave-radio-ukraine.html</guid>
+            <pubDate>Thu, 03 Mar 2022 22:03:20 GMT</pubDate>
+            <description><![CDATA[BBC Revives Shortwave Radio Dispatches in Ukraine and Draws Ire of Russia]]></description>
+        </item>
+        <item>
+            <title><![CDATA[OneWeb取消發射，俄羅斯的太空孤立狀況加劇]]></title>
+            <link>https://www.nytimes.com/2022/03/03/science/space-russia-oneweb.html</link>
+            <guid>https://www.nytimes.com/2022/03/03/science/space-russia-oneweb.html</guid>
+            <pubDate>Thu, 03 Mar 2022 22:09:58 GMT</pubDate>
+            <description><![CDATA[Russia's Space Isolation Grows as OneWeb Cancels Launch]]></description>
+        </item>
+        <item>
+            <title><![CDATA[兩黨對佈雷耶的感謝掩蓋了已經發生的爭吵]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/a-bipartisan-thank-you-to-breyer-masks-the-brawling-already-under-way</link>
+            <guid>https://www.newyorker.com/news/daily-comment/a-bipartisan-thank-you-to-breyer-masks-the-brawling-already-under-way</guid>
+            <pubDate>Thu, 03 Mar 2022 19:33:41 GMT</pubDate>
+            <description><![CDATA[A Bipartisan Thank You to Breyer Masks the Brawling Already Under Way]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Twitch表示將禁止錯誤信息的長期傳播者。]]></title>
+            <link>https://www.nytimes.com/2022/03/03/business/twitch-misinformation-policy.html</link>
+            <guid>https://www.nytimes.com/2022/03/03/business/twitch-misinformation-policy.html</guid>
+            <pubDate>Thu, 03 Mar 2022 19:02:15 GMT</pubDate>
+            <description><![CDATA[Twitch Says It Will Bar Chronic Spreaders of Misinformation]]></description>
+        </item>
+        <item>
+            <title><![CDATA[更多的互聯網選擇--在理論上]]></title>
+            <link>https://www.nytimes.com/2022/03/03/technology/internet-options.html</link>
+            <guid>https://www.nytimes.com/2022/03/03/technology/internet-options.html</guid>
+            <pubDate>Thu, 03 Mar 2022 17:03:45 GMT</pubDate>
+            <description><![CDATA[More Internet Options — in Theory]]></description>
+        </item>
         <item>
             <title><![CDATA[在烏克蘭的信息戰爭中，事實和虛構的混合體]]></title>
             <link>https://www.nytimes.com/2022/03/03/technology/ukraine-war-misinfo.html</link>
