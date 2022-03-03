@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-03T03:36:14.272Z</updated>
+    <updated>2022-03-03T10:13:11.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[聊天机器人正变得越来越聪明]]></title>
+        <id>https://www.nytimes.com/2022/03/03/technology/ai-chatbot.html</id>
+        <link href="https://www.nytimes.com/2022/03/03/technology/ai-chatbot.html"/>
+        <updated>2022-03-03T10:02:57.000Z</updated>
+        <summary type="html"><![CDATA[Chatbots Are Becoming Smarter]]></summary>
+        <author>
+            <name>Steve Lohr</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亚马逊在斯塔滕岛的第二个站点将举行工会选举]]></title>
         <id>https://www.nytimes.com/2022/03/02/technology/amazon-union-staten-island-ldj5.html</id>

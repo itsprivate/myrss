@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/03/technology/ai-chatbot.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/03/technology/ai-chatbot.html",
+            "title": "聊天機器人正變得越來越聰明",
+            "summary": "Chatbots Are Becoming Smarter",
+            "date_modified": "2022-03-03T10:02:57.000Z",
+            "author": {
+                "name": "Steve Lohr",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/02/technology/amazon-union-staten-island-ldj5.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/02/technology/amazon-union-staten-island-ldj5.html",

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 03 Mar 2022 03:36:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 10:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[聊天机器人正变得越来越聪明]]></title>
+            <link>https://www.nytimes.com/2022/03/03/technology/ai-chatbot.html</link>
+            <guid>https://www.nytimes.com/2022/03/03/technology/ai-chatbot.html</guid>
+            <pubDate>Thu, 03 Mar 2022 10:02:57 GMT</pubDate>
+            <description><![CDATA[Chatbots Are Becoming Smarter]]></description>
+        </item>
         <item>
             <title><![CDATA[亚马逊在斯塔滕岛的第二个站点将举行工会选举]]></title>
             <link>https://www.nytimes.com/2022/03/02/technology/amazon-union-staten-island-ldj5.html</link>
