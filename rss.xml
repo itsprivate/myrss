@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 03 Mar 2022 10:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 11:40:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[当电动汽车统治道路时，它们将需要一些地方来提供能量]]></title>
+            <link>https://www.nytimes.com/2022/03/03/business/electric-vehicle-chargers-infrastructure.html</link>
+            <guid>https://www.nytimes.com/2022/03/03/business/electric-vehicle-chargers-infrastructure.html</guid>
+            <pubDate>Thu, 03 Mar 2022 11:00:07 GMT</pubDate>
+            <description><![CDATA[When Electric Cars Rule the Road, They’ll Need Spots to Power Up]]></description>
+        </item>
         <item>
             <title><![CDATA[聊天机器人正变得越来越聪明]]></title>
             <link>https://www.nytimes.com/2022/03/03/technology/ai-chatbot.html</link>

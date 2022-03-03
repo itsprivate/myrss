@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-03T10:13:11.086Z</updated>
+    <updated>2022-03-03T11:40:40.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[當電動汽車統治道路時，它們將需要一些地方來提供能量]]></title>
+        <id>https://www.nytimes.com/2022/03/03/business/electric-vehicle-chargers-infrastructure.html</id>
+        <link href="https://www.nytimes.com/2022/03/03/business/electric-vehicle-chargers-infrastructure.html"/>
+        <updated>2022-03-03T11:00:07.000Z</updated>
+        <summary type="html"><![CDATA[When Electric Cars Rule the Road, They’ll Need Spots to Power Up]]></summary>
+        <author>
+            <name>Jamie Lincoln Kitman</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[聊天機器人正變得越來越聰明]]></title>
         <id>https://www.nytimes.com/2022/03/03/technology/ai-chatbot.html</id>

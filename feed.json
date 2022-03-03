@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/03/business/electric-vehicle-chargers-infrastructure.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/03/business/electric-vehicle-chargers-infrastructure.html",
+            "title": "当电动汽车统治道路时，它们将需要一些地方来提供能量",
+            "summary": "When Electric Cars Rule the Road, They’ll Need Spots to Power Up",
+            "date_modified": "2022-03-03T11:00:07.000Z",
+            "author": {
+                "name": "Jamie Lincoln Kitman",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/03/technology/ai-chatbot.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/03/technology/ai-chatbot.html",
