@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-03T23:59:12.019Z</updated>
+    <updated>2022-03-04T04:14:40.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌暂停在俄罗斯投放广告]]></title>
+        <id>https://www.nytimes.com/2022/03/03/technology/google-suspends-advertising-in-russia.html</id>
+        <link href="https://www.nytimes.com/2022/03/03/technology/google-suspends-advertising-in-russia.html"/>
+        <updated>2022-03-04T03:56:53.000Z</updated>
+        <summary type="html"><![CDATA[Google Suspends Advertising in Russia]]></summary>
+        <author>
+            <name>Daisuke Wakabayashi</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[纽约时报》技术工人投票认证工会]]></title>
         <id>https://www.nytimes.com/2022/03/03/business/media/new-york-times-tech-union.html</id>

@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/03/technology/google-suspends-advertising-in-russia.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/03/technology/google-suspends-advertising-in-russia.html",
+            "title": "谷歌暫停在俄羅斯投放廣告",
+            "summary": "Google Suspends Advertising in Russia",
+            "date_modified": "2022-03-04T03:56:53.000Z",
+            "author": {
+                "name": "Daisuke Wakabayashi",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/03/business/media/new-york-times-tech-union.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/03/business/media/new-york-times-tech-union.html",
