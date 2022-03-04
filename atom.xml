@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-04T04:14:40.861Z</updated>
+    <updated>2022-03-04T23:52:36.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,94 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[华盛顿州推进关于吉卜赛司机工作地位的标志性协议]]></title>
+        <id>https://www.nytimes.com/2022/03/04/business/economy/washington-state-advances-landmark-deal-on-gig-drivers-job-status.html</id>
+        <link href="https://www.nytimes.com/2022/03/04/business/economy/washington-state-advances-landmark-deal-on-gig-drivers-job-status.html"/>
+        <updated>2022-03-04T23:43:36.000Z</updated>
+        <summary type="html"><![CDATA[Washington State Advances Landmark Deal on Gig Drivers’ Job Status]]></summary>
+        <author>
+            <name>Noam Scheiber and Kellen Browning</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯封锁脸书，克里姆林宫采取行动扼杀不同意见]]></title>
+        <id>https://www.nytimes.com/2022/03/04/world/europe/russia-facebook-ukraine.html</id>
+        <link href="https://www.nytimes.com/2022/03/04/world/europe/russia-facebook-ukraine.html"/>
+        <updated>2022-03-04T23:41:25.000Z</updated>
+        <summary type="html"><![CDATA[Russia Blocks Facebook, as Kremlin Moves to Stifle Dissent]]></summary>
+        <author>
+            <name>Mike Isaac and Adam Satariano</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[志愿者黑客聚集在乌克兰冲突中，没有人负责任]]></title>
+        <id>https://www.nytimes.com/2022/03/04/technology/ukraine-russia-hackers.html</id>
+        <link href="https://www.nytimes.com/2022/03/04/technology/ukraine-russia-hackers.html"/>
+        <updated>2022-03-04T17:48:27.000Z</updated>
+        <summary type="html"><![CDATA[Volunteer Hackers Converge on Ukraine Conflict With No One in Charge]]></summary>
+        <author>
+            <name>Kate Conger and Adam Satariano</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当我们争论理性的时候，我们在争论什么？]]></title>
+        <id>https://astralcodexten.substack.com/p/what-are-we-arguing-about-when-we</id>
+        <link href="https://astralcodexten.substack.com/p/what-are-we-arguing-about-when-we"/>
+        <updated>2022-03-04T05:25:00.000Z</updated>
+        <summary type="html"><![CDATA[What Are We Arguing About When We Argue About Rationality?]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[志愿者黑客聚集在乌克兰冲突中，没有人负责任]]></title>
+        <id>https://www.nytimes.com/2022/03/04/technology/ukraine-volunteer-hackers-cyberattacks.html</id>
+        <link href="https://www.nytimes.com/2022/03/04/technology/ukraine-volunteer-hackers-cyberattacks.html"/>
+        <updated>2022-03-04T17:48:27.000Z</updated>
+        <summary type="html"><![CDATA[Volunteer Hackers Converge on Ukraine Conflict With No One in Charge]]></summary>
+        <author>
+            <name>Kate Conger and Adam Satariano</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoFundMe的首席执行官希望你问："我能如何帮助？]]></title>
+        <id>https://www.nytimes.com/2022/03/04/business/tim-cadogan-gofundme-corner-office.html</id>
+        <link href="https://www.nytimes.com/2022/03/04/business/tim-cadogan-gofundme-corner-office.html"/>
+        <updated>2022-03-04T17:04:35.000Z</updated>
+        <summary type="html"><![CDATA[The GoFundMe C.E.O. Wants You to Ask: ‘How Can I Help?’]]></summary>
+        <author>
+            <name>David Gelles</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌暂停在俄罗斯投放广告]]></title>
+        <id>https://www.nytimes.com/2022/03/03/technology/google-ads-russia.html</id>
+        <link href="https://www.nytimes.com/2022/03/03/technology/google-ads-russia.html"/>
+        <updated>2022-03-04T06:52:47.000Z</updated>
+        <summary type="html"><![CDATA[Google Suspends Advertising in Russia]]></summary>
+        <author>
+            <name>Daisuke Wakabayashi</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国如何接受俄罗斯的宣传和它的战争版本]]></title>
+        <id>https://www.nytimes.com/2022/03/04/business/china-russia-ukraine-disinformation.html</id>
+        <link href="https://www.nytimes.com/2022/03/04/business/china-russia-ukraine-disinformation.html"/>
+        <updated>2022-03-04T15:09:48.000Z</updated>
+        <summary type="html"><![CDATA[How China Embraces Russian Propaganda and Its Version of the War]]></summary>
+        <author>
+            <name>Li Yuan</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌暂停在俄罗斯投放广告]]></title>
         <id>https://www.nytimes.com/2022/03/03/technology/google-suspends-advertising-in-russia.html</id>

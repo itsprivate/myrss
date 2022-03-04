@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 04 Mar 2022 04:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 23:52:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,62 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[华盛顿州推进关于吉卜赛司机工作地位的标志性协议]]></title>
+            <link>https://www.nytimes.com/2022/03/04/business/economy/washington-state-advances-landmark-deal-on-gig-drivers-job-status.html</link>
+            <guid>https://www.nytimes.com/2022/03/04/business/economy/washington-state-advances-landmark-deal-on-gig-drivers-job-status.html</guid>
+            <pubDate>Fri, 04 Mar 2022 23:43:36 GMT</pubDate>
+            <description><![CDATA[Washington State Advances Landmark Deal on Gig Drivers’ Job Status]]></description>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯封锁脸书，克里姆林宫采取行动扼杀不同意见]]></title>
+            <link>https://www.nytimes.com/2022/03/04/world/europe/russia-facebook-ukraine.html</link>
+            <guid>https://www.nytimes.com/2022/03/04/world/europe/russia-facebook-ukraine.html</guid>
+            <pubDate>Fri, 04 Mar 2022 23:41:25 GMT</pubDate>
+            <description><![CDATA[Russia Blocks Facebook, as Kremlin Moves to Stifle Dissent]]></description>
+        </item>
+        <item>
+            <title><![CDATA[志愿者黑客聚集在乌克兰冲突中，没有人负责任]]></title>
+            <link>https://www.nytimes.com/2022/03/04/technology/ukraine-russia-hackers.html</link>
+            <guid>https://www.nytimes.com/2022/03/04/technology/ukraine-russia-hackers.html</guid>
+            <pubDate>Fri, 04 Mar 2022 17:48:27 GMT</pubDate>
+            <description><![CDATA[Volunteer Hackers Converge on Ukraine Conflict With No One in Charge]]></description>
+        </item>
+        <item>
+            <title><![CDATA[当我们争论理性的时候，我们在争论什么？]]></title>
+            <link>https://astralcodexten.substack.com/p/what-are-we-arguing-about-when-we</link>
+            <guid>https://astralcodexten.substack.com/p/what-are-we-arguing-about-when-we</guid>
+            <pubDate>Fri, 04 Mar 2022 05:25:00 GMT</pubDate>
+            <description><![CDATA[What Are We Arguing About When We Argue About Rationality?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[志愿者黑客聚集在乌克兰冲突中，没有人负责任]]></title>
+            <link>https://www.nytimes.com/2022/03/04/technology/ukraine-volunteer-hackers-cyberattacks.html</link>
+            <guid>https://www.nytimes.com/2022/03/04/technology/ukraine-volunteer-hackers-cyberattacks.html</guid>
+            <pubDate>Fri, 04 Mar 2022 17:48:27 GMT</pubDate>
+            <description><![CDATA[Volunteer Hackers Converge on Ukraine Conflict With No One in Charge]]></description>
+        </item>
+        <item>
+            <title><![CDATA[GoFundMe的首席执行官希望你问："我能如何帮助？]]></title>
+            <link>https://www.nytimes.com/2022/03/04/business/tim-cadogan-gofundme-corner-office.html</link>
+            <guid>https://www.nytimes.com/2022/03/04/business/tim-cadogan-gofundme-corner-office.html</guid>
+            <pubDate>Fri, 04 Mar 2022 17:04:35 GMT</pubDate>
+            <description><![CDATA[The GoFundMe C.E.O. Wants You to Ask: ‘How Can I Help?’]]></description>
+        </item>
+        <item>
+            <title><![CDATA[谷歌暂停在俄罗斯投放广告]]></title>
+            <link>https://www.nytimes.com/2022/03/03/technology/google-ads-russia.html</link>
+            <guid>https://www.nytimes.com/2022/03/03/technology/google-ads-russia.html</guid>
+            <pubDate>Fri, 04 Mar 2022 06:52:47 GMT</pubDate>
+            <description><![CDATA[Google Suspends Advertising in Russia]]></description>
+        </item>
+        <item>
+            <title><![CDATA[中国如何接受俄罗斯的宣传和它的战争版本]]></title>
+            <link>https://www.nytimes.com/2022/03/04/business/china-russia-ukraine-disinformation.html</link>
+            <guid>https://www.nytimes.com/2022/03/04/business/china-russia-ukraine-disinformation.html</guid>
+            <pubDate>Fri, 04 Mar 2022 15:09:48 GMT</pubDate>
+            <description><![CDATA[How China Embraces Russian Propaganda and Its Version of the War]]></description>
+        </item>
         <item>
             <title><![CDATA[谷歌暂停在俄罗斯投放广告]]></title>
             <link>https://www.nytimes.com/2022/03/03/technology/google-suspends-advertising-in-russia.html</link>
