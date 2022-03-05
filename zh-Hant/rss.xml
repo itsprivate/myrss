@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 05 Mar 2022 02:02:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 03:42:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我們能否就俄羅斯問題進行一次明智的成人對話？]]></title>
+            <link>https://www.currentaffairs.org/2022/03/can-we-have-an-intelligent-adult-conversation-about-russia/</link>
+            <guid>https://www.currentaffairs.org/2022/03/can-we-have-an-intelligent-adult-conversation-about-russia/</guid>
+            <pubDate>Fri, 04 Mar 2022 22:11:23 GMT</pubDate>
+            <description><![CDATA[Can We Have an Intelligent Adult Conversation About Russia?]]></description>
+        </item>
         <item>
             <title><![CDATA[隱秘的公開主題213.5]]></title>
             <link>https://astralcodexten.substack.com/p/hidden-open-thread-2135</link>
