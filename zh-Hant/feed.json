@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/04/business/economy/washington-gig-worker.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/04/business/economy/washington-gig-worker.html",
+            "title": "華盛頓州推進關於吉卜賽司機工作地位的標誌性協議",
+            "summary": "Washington State Advances Landmark Deal on Gig Drivers’ Job Status",
+            "date_modified": "2022-03-04T23:43:36.000Z",
+            "author": {
+                "name": "Noam Scheiber and Kellen Browning",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/04/business/economy/washington-state-advances-landmark-deal-on-gig-drivers-job-status.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/04/business/economy/washington-state-advances-landmark-deal-on-gig-drivers-job-status.html",
