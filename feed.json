@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/06/technology/tiktok-russia-ukraine.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/06/technology/tiktok-russia-ukraine.html",
+            "title": "TikTok暂停来自俄罗斯的生活流和新的上传活动",
+            "summary": "TikTok Suspends Livestreaming and New Uploads From Russia",
+            "date_modified": "2022-03-06T20:27:34.000Z",
+            "author": {
+                "name": "Sheera Frenkel",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/05/technology/tiktok-ukraine-misinformation.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/05/technology/tiktok-ukraine-misinformation.html",

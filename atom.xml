@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-05T10:51:47.147Z</updated>
+    <updated>2022-03-06T20:41:40.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[TikTok暂停来自俄罗斯的生活流和新的上传活动]]></title>
+        <id>https://www.nytimes.com/2022/03/06/technology/tiktok-russia-ukraine.html</id>
+        <link href="https://www.nytimes.com/2022/03/06/technology/tiktok-russia-ukraine.html"/>
+        <updated>2022-03-06T20:27:34.000Z</updated>
+        <summary type="html"><![CDATA[TikTok Suspends Livestreaming and New Uploads From Russia]]></summary>
+        <author>
+            <name>Sheera Frenkel</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TikTok乌克兰战争视频引发了对错误信息传播的质疑]]></title>
         <id>https://www.nytimes.com/2022/03/05/technology/tiktok-ukraine-misinformation.html</id>
