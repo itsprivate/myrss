@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://blackgnu.net/palemoon-hardening.html",
+            "content_html": "",
+            "url": "https://blackgnu.net/palemoon-hardening.html",
+            "title": "苍月淬炼指南",
+            "summary": "Pale Moon Hardening Guide",
+            "date_modified": "2022-03-08T00:00:00.000Z",
+            "author": {
+                "name": "Werwolf",
+                "url": "https://blackgnu.net/atom.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/07/technology/russia-ukraine-internet-isolation.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/07/technology/russia-ukraine-internet-isolation.html",
