@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-07T10:13:39.306Z</updated>
+    <updated>2022-03-07T11:13:01.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼制裁往往會失敗]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/why-sanctions-too-often-fail</id>
+        <link href="https://www.newyorker.com/news/daily-comment/why-sanctions-too-often-fail"/>
+        <updated>2022-03-07T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why Sanctions Too Often Fail]]></summary>
+        <author>
+            <name>Robin Wright</name>
+            <uri>https://www.newyorker.com/feed/news/daily-comment</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[將焦點轉向美國的寡頭們]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/turning-the-focus-on-americas-oligarchs</id>
+        <link href="https://www.newyorker.com/news/daily-comment/turning-the-focus-on-americas-oligarchs"/>
+        <updated>2022-03-07T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Turning the Focus on America’s Oligarchs]]></summary>
+        <author>
+            <name>Evan Osnos</name>
+            <uri>https://www.newyorker.com/feed/news/daily-comment</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[夢見太空中的手提箱]]></title>
         <id>https://www.nytimes.com/2022/03/07/technology/inversion-suitcases-space.html</id>

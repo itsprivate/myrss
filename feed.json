@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/daily-comment/why-sanctions-too-often-fail",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/daily-comment/why-sanctions-too-often-fail",
+            "title": "为什么制裁往往会失败",
+            "summary": "Why Sanctions Too Often Fail",
+            "date_modified": "2022-03-07T11:00:00.000Z",
+            "author": {
+                "name": "Robin Wright",
+                "url": "https://www.newyorker.com/feed/news/daily-comment"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/daily-comment/turning-the-focus-on-americas-oligarchs",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/daily-comment/turning-the-focus-on-americas-oligarchs",
+            "title": "将焦点转向美国的寡头们",
+            "summary": "Turning the Focus on America’s Oligarchs",
+            "date_modified": "2022-03-07T11:00:00.000Z",
+            "author": {
+                "name": "Evan Osnos",
+                "url": "https://www.newyorker.com/feed/news/daily-comment"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/07/technology/inversion-suitcases-space.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/07/technology/inversion-suitcases-space.html",
