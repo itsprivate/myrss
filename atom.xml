@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-07T02:42:46.164Z</updated>
+    <updated>2022-03-07T10:13:39.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[梦见太空中的手提箱]]></title>
+        <id>https://www.nytimes.com/2022/03/07/technology/inversion-suitcases-space.html</id>
+        <link href="https://www.nytimes.com/2022/03/07/technology/inversion-suitcases-space.html"/>
+        <updated>2022-03-07T10:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Dreaming of Suitcases in Space]]></summary>
+        <author>
+            <name>Daisuke Wakabayashi</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[公开主题214]]></title>
         <id>https://astralcodexten.substack.com/p/open-thread-214</id>
