@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sun, 06 Mar 2022 20:41:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 02:42:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[公開主題214]]></title>
+            <link>https://astralcodexten.substack.com/p/open-thread-214</link>
+            <guid>https://astralcodexten.substack.com/p/open-thread-214</guid>
+            <pubDate>Mon, 07 Mar 2022 02:06:55 GMT</pubDate>
+            <description><![CDATA[Open Thread 214]]></description>
+        </item>
         <item>
             <title><![CDATA[TikTok暫停來自俄羅斯的生活流和新的上傳活動]]></title>
             <link>https://www.nytimes.com/2022/03/06/technology/tiktok-russia-ukraine.html</link>
