@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/07/technology/russia-ukraine-internet-isolation.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/07/technology/russia-ukraine-internet-isolation.html",
+            "title": "俄羅斯被封鎖在全球互聯網之外，陷入數字隔離狀態",
+            "summary": "Russia, Blocked From the Global Internet, Plunges Into Digital Isolation",
+            "date_modified": "2022-03-07T18:22:50.000Z",
+            "author": {
+                "name": "Adam Satariano and Valerie Hopkins",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.currentaffairs.org/2022/03/taking-world-war-iii-seriously/",
             "content_html": "",
             "url": "https://www.currentaffairs.org/2022/03/taking-world-war-iii-seriously/",
