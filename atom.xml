@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-07T11:13:01.242Z</updated>
+    <updated>2022-03-07T17:45:40.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[认真对待第三次世界大战]]></title>
+        <id>https://www.currentaffairs.org/2022/03/taking-world-war-iii-seriously/</id>
+        <link href="https://www.currentaffairs.org/2022/03/taking-world-war-iii-seriously/"/>
+        <updated>2022-03-07T12:39:24.000Z</updated>
+        <summary type="html"><![CDATA[Taking World War III Seriously]]></summary>
+        <author>
+            <name>Nathan J. Robinson</name>
+            <uri>https://www.currentaffairs.org/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么制裁往往会失败]]></title>
         <id>https://www.newyorker.com/news/daily-comment/why-sanctions-too-often-fail</id>
