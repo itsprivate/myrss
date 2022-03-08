@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 08 Mar 2022 15:48:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 17:28:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,34 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[俄罗斯对SWIFT的部分禁令有多大意义？]]></title>
+            <link>https://www.newyorker.com/business/currency/how-significant-is-russias-partial-ban-from-swift</link>
+            <guid>https://www.newyorker.com/business/currency/how-significant-is-russias-partial-ban-from-swift</guid>
+            <pubDate>Tue, 08 Mar 2022 16:24:00 GMT</pubDate>
+            <description><![CDATA[How Significant Is Russia’s Partial Ban from SWIFT?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[苹果公司现在必须要努力了]]></title>
+            <link>https://www.nytimes.com/2022/03/08/technology/apple-products.html</link>
+            <guid>https://www.nytimes.com/2022/03/08/technology/apple-products.html</guid>
+            <pubDate>Tue, 08 Mar 2022 17:17:19 GMT</pubDate>
+            <description><![CDATA[Apple Has to Try Hard Now]]></description>
+        </item>
+        <item>
+            <title><![CDATA[拜登接听凌晨3点的电话]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/03/biden-answered-3-am-call/626976/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/03/biden-answered-3-am-call/626976/?utm_source=feed</guid>
+            <pubDate>Tue, 08 Mar 2022 16:19:52 GMT</pubDate>
+            <description><![CDATA[Biden Answered the 3 a.m. Call]]></description>
+        </item>
+        <item>
+            <title><![CDATA[民主的倡导者可以从乌克兰人身上学到什么]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/03/zelensky-ukraine-democracy-messaging-victory/626563/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/03/zelensky-ukraine-democracy-messaging-victory/626563/?utm_source=feed</guid>
+            <pubDate>Tue, 08 Mar 2022 17:07:56 GMT</pubDate>
+            <description><![CDATA[What Democracy’s Advocates Can Learn From Ukrainians]]></description>
+        </item>
         <item>
             <title><![CDATA[每日漫画。3月8日，星期二]]></title>
             <link>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-8th-the-last-two-years</link>

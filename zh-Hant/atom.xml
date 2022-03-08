@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-08T15:48:40.981Z</updated>
+    <updated>2022-03-08T17:28:31.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯對SWIFT的部分禁令有多大意義？]]></title>
+        <id>https://www.newyorker.com/business/currency/how-significant-is-russias-partial-ban-from-swift</id>
+        <link href="https://www.newyorker.com/business/currency/how-significant-is-russias-partial-ban-from-swift"/>
+        <updated>2022-03-08T16:24:00.000Z</updated>
+        <summary type="html"><![CDATA[How Significant Is Russia’s Partial Ban from SWIFT?]]></summary>
+        <author>
+            <name>Sheelah Kolhatkar</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蘋果公司現在必須要努力了]]></title>
+        <id>https://www.nytimes.com/2022/03/08/technology/apple-products.html</id>
+        <link href="https://www.nytimes.com/2022/03/08/technology/apple-products.html"/>
+        <updated>2022-03-08T17:17:19.000Z</updated>
+        <summary type="html"><![CDATA[Apple Has to Try Hard Now]]></summary>
+        <author>
+            <name>Shira Ovide</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拜登接聽凌晨3點的電話]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/biden-answered-3-am-call/626976/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/biden-answered-3-am-call/626976/?utm_source=feed"/>
+        <updated>2022-03-08T16:19:52.000Z</updated>
+        <summary type="html"><![CDATA[Biden Answered the 3 a.m. Call]]></summary>
+        <author>
+            <name>Franklin Foer</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[民主的倡導者可以從烏克蘭人身上學到什麼]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/zelensky-ukraine-democracy-messaging-victory/626563/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/zelensky-ukraine-democracy-messaging-victory/626563/?utm_source=feed"/>
+        <updated>2022-03-08T17:07:56.000Z</updated>
+        <summary type="html"><![CDATA[What Democracy’s Advocates Can Learn From Ukrainians]]></summary>
+        <author>
+            <name>David Litt</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日漫畫。3月8日，星期二]]></title>
         <id>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-8th-the-last-two-years</id>

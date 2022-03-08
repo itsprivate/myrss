@@ -11,6 +11,54 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/business/currency/how-significant-is-russias-partial-ban-from-swift",
+            "content_html": "",
+            "url": "https://www.newyorker.com/business/currency/how-significant-is-russias-partial-ban-from-swift",
+            "title": "俄罗斯对SWIFT的部分禁令有多大意义？",
+            "summary": "How Significant Is Russia’s Partial Ban from SWIFT?",
+            "date_modified": "2022-03-08T16:24:00.000Z",
+            "author": {
+                "name": "Sheelah Kolhatkar",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/03/08/technology/apple-products.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/08/technology/apple-products.html",
+            "title": "苹果公司现在必须要努力了",
+            "summary": "Apple Has to Try Hard Now",
+            "date_modified": "2022-03-08T17:17:19.000Z",
+            "author": {
+                "name": "Shira Ovide",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/03/biden-answered-3-am-call/626976/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/03/biden-answered-3-am-call/626976/?utm_source=feed",
+            "title": "拜登接听凌晨3点的电话",
+            "summary": "Biden Answered the 3 a.m. Call",
+            "date_modified": "2022-03-08T16:19:52.000Z",
+            "author": {
+                "name": "Franklin Foer",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/03/zelensky-ukraine-democracy-messaging-victory/626563/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/03/zelensky-ukraine-democracy-messaging-victory/626563/?utm_source=feed",
+            "title": "民主的倡导者可以从乌克兰人身上学到什么",
+            "summary": "What Democracy’s Advocates Can Learn From Ukrainians",
+            "date_modified": "2022-03-08T17:07:56.000Z",
+            "author": {
+                "name": "David Litt",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-8th-the-last-two-years",
             "content_html": "",
             "url": "https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-8th-the-last-two-years",
