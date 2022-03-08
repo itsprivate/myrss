@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-08T10:13:53.729Z</updated>
+    <updated>2022-03-08T11:30:46.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个良好的心理健康日]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/a-good-mental-health-day</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/a-good-mental-health-day"/>
+        <updated>2022-03-08T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Good Mental-Health Day]]></summary>
+        <author>
+            <name>Ingrid Ostby</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[落名：2022年3月8日，星期二]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/08</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/08"/>
+        <updated>2022-03-08T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Name Drop: Tuesday, March 8, 2022]]></summary>
+        <author>
+            <name>Will Nediger</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个时代的一只鸟]]></title>
+        <id>https://www.newyorker.com/culture/culture-desk/one-bird-at-a-time</id>
+        <link href="https://www.newyorker.com/culture/culture-desk/one-bird-at-a-time"/>
+        <updated>2022-03-08T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[One Bird at a Time]]></summary>
+        <author>
+            <name>Jenny Kroik</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我对普京的看法是错误的]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/putin-russian-political-deterioration/626966/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/putin-russian-political-deterioration/626966/?utm_source=feed"/>
+        <updated>2022-03-08T11:00:57.000Z</updated>
+        <summary type="html"><![CDATA[I Was Wrong About Putin]]></summary>
+        <author>
+            <name>Sergei Dobrynin</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[疫苗卡为何如此容易被伪造]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/why-covid-vaccine-cards-easily-forged/626971/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/why-covid-vaccine-cards-easily-forged/626971/?utm_source=feed"/>
+        <updated>2022-03-08T11:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Why Vaccine Cards Are So Easily Forged]]></summary>
+        <author>
+            <name>Bruce Schneier</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A.I.能帮助赌场减少问题赌博吗？]]></title>
         <id>https://www.nytimes.com/2022/03/08/technology/ai-casinos-gambling-problems.html</id>

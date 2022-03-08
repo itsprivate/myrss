@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 08 Mar 2022 10:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 11:30:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,41 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一個良好的心理健康日]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/a-good-mental-health-day</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/a-good-mental-health-day</guid>
+            <pubDate>Tue, 08 Mar 2022 11:00:00 GMT</pubDate>
+            <description><![CDATA[A Good Mental-Health Day]]></description>
+        </item>
+        <item>
+            <title><![CDATA[落名：2022年3月8日，星期二]]></title>
+            <link>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/08</link>
+            <guid>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/08</guid>
+            <pubDate>Tue, 08 Mar 2022 11:00:00 GMT</pubDate>
+            <description><![CDATA[Name Drop: Tuesday, March 8, 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一個時代的一隻鳥]]></title>
+            <link>https://www.newyorker.com/culture/culture-desk/one-bird-at-a-time</link>
+            <guid>https://www.newyorker.com/culture/culture-desk/one-bird-at-a-time</guid>
+            <pubDate>Tue, 08 Mar 2022 11:00:00 GMT</pubDate>
+            <description><![CDATA[One Bird at a Time]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我對普京的看法是錯誤的]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/03/putin-russian-political-deterioration/626966/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/03/putin-russian-political-deterioration/626966/?utm_source=feed</guid>
+            <pubDate>Tue, 08 Mar 2022 11:00:57 GMT</pubDate>
+            <description><![CDATA[I Was Wrong About Putin]]></description>
+        </item>
+        <item>
+            <title><![CDATA[疫苗卡為何如此容易被偽造]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/03/why-covid-vaccine-cards-easily-forged/626971/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/03/why-covid-vaccine-cards-easily-forged/626971/?utm_source=feed</guid>
+            <pubDate>Tue, 08 Mar 2022 11:00:57 GMT</pubDate>
+            <description><![CDATA[Why Vaccine Cards Are So Easily Forged]]></description>
+        </item>
         <item>
             <title><![CDATA[A.I.能幫助賭場減少問題賭博嗎？]]></title>
             <link>https://www.nytimes.com/2022/03/08/technology/ai-casinos-gambling-problems.html</link>
