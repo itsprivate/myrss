@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-08T09:42:57.243Z</updated>
+    <updated>2022-03-08T10:13:53.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[A.I.能帮助赌场减少问题赌博吗？]]></title>
+        <id>https://www.nytimes.com/2022/03/08/technology/ai-casinos-gambling-problems.html</id>
+        <link href="https://www.nytimes.com/2022/03/08/technology/ai-casinos-gambling-problems.html"/>
+        <updated>2022-03-08T10:02:26.000Z</updated>
+        <summary type="html"><![CDATA[Can A.I. Help Casinos Cut Down on Problem Gambling?]]></summary>
+        <author>
+            <name>Bradford Pearson</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[世界应该为支持乌克兰走多远？]]></title>
         <id>https://www.theatlantic.com/newsletters/archive/2022/03/how-far-should-the-world-go-to-support-ukraine/626565/?utm_source=feed</id>

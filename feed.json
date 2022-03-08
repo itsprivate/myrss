@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/08/technology/ai-casinos-gambling-problems.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/08/technology/ai-casinos-gambling-problems.html",
+            "title": "A.I.能帮助赌场减少问题赌博吗？",
+            "summary": "Can A.I. Help Casinos Cut Down on Problem Gambling?",
+            "date_modified": "2022-03-08T10:02:26.000Z",
+            "author": {
+                "name": "Bradford Pearson",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/newsletters/archive/2022/03/how-far-should-the-world-go-to-support-ukraine/626565/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/newsletters/archive/2022/03/how-far-should-the-world-go-to-support-ukraine/626565/?utm_source=feed",
