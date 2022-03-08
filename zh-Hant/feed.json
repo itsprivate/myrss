@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://astralcodexten.substack.com/p/ukraine-thoughts-and-links",
+            "content_html": "",
+            "url": "https://astralcodexten.substack.com/p/ukraine-thoughts-and-links",
+            "title": "烏克蘭的想法和鏈接",
+            "summary": "Ukraine Thoughts And Links",
+            "date_modified": "2022-03-08T05:41:40.000Z",
+            "author": {
+                "name": "Scott Alexander",
+                "url": "https://astralcodexten.substack.com/feed"
+            }
+        },
+        {
             "id": "https://blackgnu.net/palemoon-hardening.html",
             "content_html": "",
             "url": "https://blackgnu.net/palemoon-hardening.html",
