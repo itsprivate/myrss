@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-08T17:28:31.634Z</updated>
+    <updated>2022-03-08T18:18:16.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[10年后的 "Kony 2012"。]]></title>
+        <id>https://www.nytimes.com/2022/03/08/style/kony-2012-invisible-children.html</id>
+        <link href="https://www.nytimes.com/2022/03/08/style/kony-2012-invisible-children.html"/>
+        <updated>2022-03-08T17:48:17.000Z</updated>
+        <summary type="html"><![CDATA[‘Kony 2012,’ 10 Years Later]]></summary>
+        <author>
+            <name>Emma Madden</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[现实侵袭乌托邦式的加密货币愿景]]></title>
+        <id>https://www.nytimes.com/2022/03/08/us/politics/cryptocurrency-dao.html</id>
+        <link href="https://www.nytimes.com/2022/03/08/us/politics/cryptocurrency-dao.html"/>
+        <updated>2022-03-08T18:03:46.000Z</updated>
+        <summary type="html"><![CDATA[Reality Intrudes on a Utopian Crypto Vision]]></summary>
+        <author>
+            <name>Eric Lipton and Ephrat Livni</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[信息战争还未结束]]></title>
+        <id>https://www.theatlantic.com/technology/archive/2022/03/russia-ukraine-war-propaganda/626975/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/technology/archive/2022/03/russia-ukraine-war-propaganda/626975/?utm_source=feed"/>
+        <updated>2022-03-08T17:40:25.000Z</updated>
+        <summary type="html"><![CDATA[The Information War Isn’t Over Yet]]></summary>
+        <author>
+            <name>Charlie Warzel</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[普京当然要被取消了]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/russia-ukraine-war-cancel-putin-culture-war/626978/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/russia-ukraine-war-cancel-putin-culture-war/626978/?utm_source=feed"/>
+        <updated>2022-03-08T17:58:58.000Z</updated>
+        <summary type="html"><![CDATA[Of Course Putin Is Being Canceled]]></summary>
+        <author>
+            <name>Helen Lewis</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯对SWIFT的部分禁令有多大意义？]]></title>
         <id>https://www.newyorker.com/business/currency/how-significant-is-russias-partial-ban-from-swift</id>
