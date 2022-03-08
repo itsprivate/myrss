@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-08T09:20:29.912Z</updated>
+    <updated>2022-03-08T09:42:57.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,281 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[世界应该为支持乌克兰走多远？]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/03/how-far-should-the-world-go-to-support-ukraine/626565/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/how-far-should-the-world-go-to-support-ukraine/626565/?utm_source=feed"/>
+        <updated>2022-03-07T21:48:30.000Z</updated>
+        <summary type="html"><![CDATA[How Far Should the World Go to Support Ukraine?]]></summary>
+        <author>
+            <name>Conor Friedersdorf</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<em>大西洋</em>日报。俄罗斯的进步，大流行的退却，拜登的复位]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/03/the-week-russian-advance-pandemic-retreat-biden-reset/626569/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/the-week-russian-advance-pandemic-retreat-biden-reset/626569/?utm_source=feed"/>
+        <updated>2022-03-05T21:16:37.000Z</updated>
+        <summary type="html"><![CDATA[<em>The Atlantic</em> Daily: Russian Advance, Pandemic Retreat, Biden Reset]]></summary>
+        <author>
+            <name>Caroline Mimbs Nyce</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西方用来对付普京的武器]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/russia-ukraine-invasion-classified-intelligence/626557/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/russia-ukraine-invasion-classified-intelligence/626557/?utm_source=feed"/>
+        <updated>2022-03-07T22:48:37.000Z</updated>
+        <summary type="html"><![CDATA[The Weapon the West Used Against Putin]]></summary>
+        <author>
+            <name>Amy Zegart</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯精英无法忍受制裁]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/russian-sanctions-oligarchs-offshore-wealth/623886/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/russian-sanctions-oligarchs-offshore-wealth/623886/?utm_source=feed"/>
+        <updated>2022-03-07T22:49:50.000Z</updated>
+        <summary type="html"><![CDATA[The Russian Elite Can’t Stand the Sanctions]]></summary>
+        <author>
+            <name>Brooke Harrington</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<em>驾驶我的车</em>推动了语言的极限]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/03/drive-my-car-hamaguchi-language/626561/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/03/drive-my-car-hamaguchi-language/626561/?utm_source=feed"/>
+        <updated>2022-03-07T22:52:20.000Z</updated>
+        <summary type="html"><![CDATA[<em>Drive My Car</em> Pushes the Limit of Language]]></summary>
+        <author>
+            <name>Nina Li Coomes</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国为什么喜欢<em>爱是盲目的</em>？]]></title>
+        <id>https://www.theatlantic.com/health/archive/2022/03/love-is-blind-unsettling-relatable/626567/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/health/archive/2022/03/love-is-blind-unsettling-relatable/626567/?utm_source=feed"/>
+        <updated>2022-03-07T22:55:42.000Z</updated>
+        <summary type="html"><![CDATA[Why America Loves <em>Love Is Blind</em>]]></summary>
+        <author>
+            <name>Amanda Mull</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国注意力的大断裂]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/03/americans-focus-attention-span-threat-democracy/626556/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/03/americans-focus-attention-span-threat-democracy/626556/?utm_source=feed"/>
+        <updated>2022-03-07T23:08:20.000Z</updated>
+        <summary type="html"><![CDATA[The Great Fracturing of American Attention]]></summary>
+        <author>
+            <name>Megan Garber</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[剪头发是我的第一个革命行为]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/03/black-hair-and-revolution-soul-scissors/622952/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/03/black-hair-and-revolution-soul-scissors/622952/?utm_source=feed"/>
+        <updated>2022-03-06T01:15:44.000Z</updated>
+        <summary type="html"><![CDATA[Cutting My Hair Was My First Revolutionary Act]]></summary>
+        <author>
+            <name>Michaela angela Davis</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[简-坎皮恩的《狗的力量》的西方神话制作<em></em>。]]></title>
+        <id>https://www.theatlantic.com/podcasts/archive/2022/03/the-western-mythmaking-of-jane-campions-the-power-of-the-dog/626568/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/podcasts/archive/2022/03/the-western-mythmaking-of-jane-campions-the-power-of-the-dog/626568/?utm_source=feed"/>
+        <updated>2022-03-07T23:09:21.000Z</updated>
+        <summary type="html"><![CDATA[The Western Mythmaking of Jane Campion’s <em>The Power of the Dog</em>]]></summary>
+        <author>
+            <name>Spencer Kornhaber</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一场十年前的冲突告诉我们关于普京的信息]]></title>
+        <id>https://www.theatlantic.com/international/archive/2022/03/libya-russia-ukraine-putin/626571/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/international/archive/2022/03/libya-russia-ukraine-putin/626571/?utm_source=feed"/>
+        <updated>2022-03-07T23:10:41.000Z</updated>
+        <summary type="html"><![CDATA[What a Decade-Old Conflict Tells Us About Putin]]></summary>
+        <author>
+            <name>Kim Ghattas</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有许多事情比美国的权力更糟糕]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/putin-kremlin-imperialism-ukraine-american-power/624180/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/putin-kremlin-imperialism-ukraine-american-power/624180/?utm_source=feed"/>
+        <updated>2022-03-07T22:27:12.000Z</updated>
+        <summary type="html"><![CDATA[There Are Many Things Worse Than American Power]]></summary>
+        <author>
+            <name>Shadi Hamid</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[银河系的剧情转折]]></title>
+        <id>https://www.theatlantic.com/science/archive/2022/03/black-hole-telescopium-star/626554/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/science/archive/2022/03/black-hole-telescopium-star/626554/?utm_source=feed"/>
+        <updated>2022-03-06T16:46:19.000Z</updated>
+        <summary type="html"><![CDATA[A Plot Twist in the Milky Way]]></summary>
+        <author>
+            <name>Marina Koren</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有助于澄清在大流行病方面前进道路的关键区别]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/covid-vaccinated-boosted-individual-institutional-responsibility/626560/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/covid-vaccinated-boosted-individual-institutional-responsibility/626560/?utm_source=feed"/>
+        <updated>2022-03-07T16:37:50.000Z</updated>
+        <summary type="html"><![CDATA[The Key Distinction That Helps Clarify the Path Forward on the Pandemic]]></summary>
+        <author>
+            <name>Craig Spencer</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[身体在外国城市的失败]]></title>
+        <id>https://www.theatlantic.com/books/archive/2022/03/poem-zeina-hashem-beck-body-fails-foreign-city/626570/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/books/archive/2022/03/poem-zeina-hashem-beck-body-fails-foreign-city/626570/?utm_source=feed"/>
+        <updated>2022-03-07T11:51:50.000Z</updated>
+        <summary type="html"><![CDATA[The Body Fails in a Foreign City]]></summary>
+        <author>
+            <name>Zeina Hashem Beck</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<em>SNL<em>提供了一个令人厌恶的亮点]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/03/snl-changes-subject-war-meatballs/626572/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/03/snl-changes-subject-war-meatballs/626572/?utm_source=feed"/>
+        <updated>2022-03-07T22:28:57.000Z</updated>
+        <summary type="html"><![CDATA[<em>SNL </em>Serves Up a Disgusting Highlight]]></summary>
+        <author>
+            <name>Spencer Kornhaber</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[记者当然应该采访专制者]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/how-saudi-propaganda-machine-came-me/626566/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/how-saudi-propaganda-machine-came-me/626566/?utm_source=feed"/>
+        <updated>2022-03-07T15:38:20.000Z</updated>
+        <summary type="html"><![CDATA[Of Course Journalists Should Interview Autocrats]]></summary>
+        <author>
+            <name>Graeme Wood</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个好男人，曾经是]]></title>
+        <id>https://www.theatlantic.com/magazine/archive/2022/04/mississippi-inmate-david-cox-execution-advocate/622826/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/magazine/archive/2022/04/mississippi-inmate-david-cox-execution-advocate/622826/?utm_source=feed"/>
+        <updated>2022-03-07T14:34:08.000Z</updated>
+        <summary type="html"><![CDATA[A Good Man, at One Time]]></summary>
+        <author>
+            <name>Elizabeth Bruenig</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谁在乎你是无辜的项目]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/republican-lawmakers-incarceration-right-to-lawyer-due-process/624175/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/republican-lawmakers-incarceration-right-to-lawyer-due-process/624175/?utm_source=feed"/>
+        <updated>2022-03-07T22:33:14.000Z</updated>
+        <summary type="html"><![CDATA[The Who-Cares-If-You’re-Innocent Project]]></summary>
+        <author>
+            <name>Adam Serwer</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有着形而上学根基的说唱口号]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/03/the-rap-catchphrase-with-metaphysical-roots/626559/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/the-rap-catchphrase-with-metaphysical-roots/626559/?utm_source=feed"/>
+        <updated>2022-03-07T12:12:38.000Z</updated>
+        <summary type="html"><![CDATA[The Rap Catchphrase With Metaphysical Roots]]></summary>
+        <author>
+            <name>Caleb Madison</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自信是如何成为一种信仰的]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/03/limits-women-confidence-workplace-inequality/626562/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/03/limits-women-confidence-workplace-inequality/626562/?utm_source=feed"/>
+        <updated>2022-03-07T14:10:43.000Z</updated>
+        <summary type="html"><![CDATA[How Confidence Became a Cult]]></summary>
+        <author>
+            <name>Rosalind Gill</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[容忍COVID的错误信息总比其他方式好]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/tolerating-covid-misinformation-better-alternative/626564/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/tolerating-covid-misinformation-better-alternative/626564/?utm_source=feed"/>
+        <updated>2022-03-07T22:37:16.000Z</updated>
+        <summary type="html"><![CDATA[Tolerating COVID Misinformation Is Better Than the Alternative]]></summary>
+        <author>
+            <name>Conor Friedersdorf</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[委内瑞拉开往何处的火车]]></title>
+        <id>https://www.theatlantic.com/international/archive/2022/03/venezuela-hugo-chavez-train-things-are-never-so-bad/626961/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/international/archive/2022/03/venezuela-hugo-chavez-train-things-are-never-so-bad/626961/?utm_source=feed"/>
+        <updated>2022-03-07T22:47:08.000Z</updated>
+        <summary type="html"><![CDATA[Venezuela’s Train to Nowhere]]></summary>
+        <author>
+            <name>William Neuman</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[能够打败普京的战略]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/strategy-west-needs-beat-russia/626962/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/strategy-west-needs-beat-russia/626962/?utm_source=feed"/>
+        <updated>2022-03-07T23:06:11.000Z</updated>
+        <summary type="html"><![CDATA[The Strategy That Can Defeat Putin]]></summary>
+        <author>
+            <name>Eliot A. Cohen</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[摆脱夫妻恩爱陷阱的关键]]></title>
+        <id>https://www.theatlantic.com/family/archive/2022/03/couple-envy-partner-relationship-comparison/626963/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/family/archive/2022/03/couple-envy-partner-relationship-comparison/626963/?utm_source=feed"/>
+        <updated>2022-03-07T18:56:31.000Z</updated>
+        <summary type="html"><![CDATA[The Key to Escaping the Couple-Envy Trap]]></summary>
+        <author>
+            <name>Joshua Coleman</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰难民告别家园和家人]]></title>
+        <id>https://www.theatlantic.com/photo/2022/03/photos-ukrainian-refugees-say-goodbye-home-and-family-members/626964/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/photo/2022/03/photos-ukrainian-refugees-say-goodbye-home-and-family-members/626964/?utm_source=feed"/>
+        <updated>2022-03-07T22:43:32.000Z</updated>
+        <summary type="html"><![CDATA[Ukrainian Refugees Say Goodbye to Home and Family Members]]></summary>
+        <author>
+            <name>Alan Taylor</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[孕产妇风格的抽样调查]]></title>
         <id>https://www.newyorker.com/humor/daily-shouts/a-sampling-of-maternity-styles</id>

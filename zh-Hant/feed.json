@@ -11,6 +11,306 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/newsletters/archive/2022/03/how-far-should-the-world-go-to-support-ukraine/626565/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/newsletters/archive/2022/03/how-far-should-the-world-go-to-support-ukraine/626565/?utm_source=feed",
+            "title": "世界應該為支持烏克蘭走多遠？",
+            "summary": "How Far Should the World Go to Support Ukraine?",
+            "date_modified": "2022-03-07T21:48:30.000Z",
+            "author": {
+                "name": "Conor Friedersdorf",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/newsletters/archive/2022/03/the-week-russian-advance-pandemic-retreat-biden-reset/626569/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/newsletters/archive/2022/03/the-week-russian-advance-pandemic-retreat-biden-reset/626569/?utm_source=feed",
+            "title": "<em>大西洋</em>日報。俄羅斯的進步，大流行的退卻，拜登的復位",
+            "summary": "<em>The Atlantic</em> Daily: Russian Advance, Pandemic Retreat, Biden Reset",
+            "date_modified": "2022-03-05T21:16:37.000Z",
+            "author": {
+                "name": "Caroline Mimbs Nyce",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/03/russia-ukraine-invasion-classified-intelligence/626557/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/03/russia-ukraine-invasion-classified-intelligence/626557/?utm_source=feed",
+            "title": "西方用來對付普京的武器",
+            "summary": "The Weapon the West Used Against Putin",
+            "date_modified": "2022-03-07T22:48:37.000Z",
+            "author": {
+                "name": "Amy Zegart",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/03/russian-sanctions-oligarchs-offshore-wealth/623886/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/03/russian-sanctions-oligarchs-offshore-wealth/623886/?utm_source=feed",
+            "title": "俄羅斯精英無法忍受制裁",
+            "summary": "The Russian Elite Can’t Stand the Sanctions",
+            "date_modified": "2022-03-07T22:49:50.000Z",
+            "author": {
+                "name": "Brooke Harrington",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/culture/archive/2022/03/drive-my-car-hamaguchi-language/626561/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/culture/archive/2022/03/drive-my-car-hamaguchi-language/626561/?utm_source=feed",
+            "title": "<em>駕駛我的車</em>推動了語言的極限",
+            "summary": "<em>Drive My Car</em> Pushes the Limit of Language",
+            "date_modified": "2022-03-07T22:52:20.000Z",
+            "author": {
+                "name": "Nina Li Coomes",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/health/archive/2022/03/love-is-blind-unsettling-relatable/626567/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/health/archive/2022/03/love-is-blind-unsettling-relatable/626567/?utm_source=feed",
+            "title": "美國為什麼喜歡<em>愛是盲目的</em>？",
+            "summary": "Why America Loves <em>Love Is Blind</em>",
+            "date_modified": "2022-03-07T22:55:42.000Z",
+            "author": {
+                "name": "Amanda Mull",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/culture/archive/2022/03/americans-focus-attention-span-threat-democracy/626556/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/culture/archive/2022/03/americans-focus-attention-span-threat-democracy/626556/?utm_source=feed",
+            "title": "美國注意力的大斷裂",
+            "summary": "The Great Fracturing of American Attention",
+            "date_modified": "2022-03-07T23:08:20.000Z",
+            "author": {
+                "name": "Megan Garber",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/culture/archive/2022/03/black-hair-and-revolution-soul-scissors/622952/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/culture/archive/2022/03/black-hair-and-revolution-soul-scissors/622952/?utm_source=feed",
+            "title": "剪頭髮是我的第一個革命行為",
+            "summary": "Cutting My Hair Was My First Revolutionary Act",
+            "date_modified": "2022-03-06T01:15:44.000Z",
+            "author": {
+                "name": "Michaela angela Davis",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/podcasts/archive/2022/03/the-western-mythmaking-of-jane-campions-the-power-of-the-dog/626568/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/podcasts/archive/2022/03/the-western-mythmaking-of-jane-campions-the-power-of-the-dog/626568/?utm_source=feed",
+            "title": "簡-坎皮恩的《狗的力量》的西方神話製作<em></em>。",
+            "summary": "The Western Mythmaking of Jane Campion’s <em>The Power of the Dog</em>",
+            "date_modified": "2022-03-07T23:09:21.000Z",
+            "author": {
+                "name": "Spencer Kornhaber",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/international/archive/2022/03/libya-russia-ukraine-putin/626571/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/international/archive/2022/03/libya-russia-ukraine-putin/626571/?utm_source=feed",
+            "title": "一場十年前的衝突告訴我們關於普京的信息",
+            "summary": "What a Decade-Old Conflict Tells Us About Putin",
+            "date_modified": "2022-03-07T23:10:41.000Z",
+            "author": {
+                "name": "Kim Ghattas",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/03/putin-kremlin-imperialism-ukraine-american-power/624180/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/03/putin-kremlin-imperialism-ukraine-american-power/624180/?utm_source=feed",
+            "title": "有許多事情比美國的權力更糟糕",
+            "summary": "There Are Many Things Worse Than American Power",
+            "date_modified": "2022-03-07T22:27:12.000Z",
+            "author": {
+                "name": "Shadi Hamid",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/science/archive/2022/03/black-hole-telescopium-star/626554/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/science/archive/2022/03/black-hole-telescopium-star/626554/?utm_source=feed",
+            "title": "銀河系的劇情轉折",
+            "summary": "A Plot Twist in the Milky Way",
+            "date_modified": "2022-03-06T16:46:19.000Z",
+            "author": {
+                "name": "Marina Koren",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/03/covid-vaccinated-boosted-individual-institutional-responsibility/626560/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/03/covid-vaccinated-boosted-individual-institutional-responsibility/626560/?utm_source=feed",
+            "title": "有助於澄清在大流行病方面前進道路的關鍵區別",
+            "summary": "The Key Distinction That Helps Clarify the Path Forward on the Pandemic",
+            "date_modified": "2022-03-07T16:37:50.000Z",
+            "author": {
+                "name": "Craig Spencer",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/books/archive/2022/03/poem-zeina-hashem-beck-body-fails-foreign-city/626570/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/books/archive/2022/03/poem-zeina-hashem-beck-body-fails-foreign-city/626570/?utm_source=feed",
+            "title": "身體在外國城市的失敗",
+            "summary": "The Body Fails in a Foreign City",
+            "date_modified": "2022-03-07T11:51:50.000Z",
+            "author": {
+                "name": "Zeina Hashem Beck",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/culture/archive/2022/03/snl-changes-subject-war-meatballs/626572/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/culture/archive/2022/03/snl-changes-subject-war-meatballs/626572/?utm_source=feed",
+            "title": "<em>SNL<em>提供了一個令人厭惡的亮點",
+            "summary": "<em>SNL </em>Serves Up a Disgusting Highlight",
+            "date_modified": "2022-03-07T22:28:57.000Z",
+            "author": {
+                "name": "Spencer Kornhaber",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/03/how-saudi-propaganda-machine-came-me/626566/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/03/how-saudi-propaganda-machine-came-me/626566/?utm_source=feed",
+            "title": "記者當然應該採訪專制者",
+            "summary": "Of Course Journalists Should Interview Autocrats",
+            "date_modified": "2022-03-07T15:38:20.000Z",
+            "author": {
+                "name": "Graeme Wood",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/magazine/archive/2022/04/mississippi-inmate-david-cox-execution-advocate/622826/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/magazine/archive/2022/04/mississippi-inmate-david-cox-execution-advocate/622826/?utm_source=feed",
+            "title": "一個好男人，曾經是",
+            "summary": "A Good Man, at One Time",
+            "date_modified": "2022-03-07T14:34:08.000Z",
+            "author": {
+                "name": "Elizabeth Bruenig",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/03/republican-lawmakers-incarceration-right-to-lawyer-due-process/624175/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/03/republican-lawmakers-incarceration-right-to-lawyer-due-process/624175/?utm_source=feed",
+            "title": "誰在乎你是無辜的項目",
+            "summary": "The Who-Cares-If-You’re-Innocent Project",
+            "date_modified": "2022-03-07T22:33:14.000Z",
+            "author": {
+                "name": "Adam Serwer",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/newsletters/archive/2022/03/the-rap-catchphrase-with-metaphysical-roots/626559/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/newsletters/archive/2022/03/the-rap-catchphrase-with-metaphysical-roots/626559/?utm_source=feed",
+            "title": "有著形而上學根基的說唱口號",
+            "summary": "The Rap Catchphrase With Metaphysical Roots",
+            "date_modified": "2022-03-07T12:12:38.000Z",
+            "author": {
+                "name": "Caleb Madison",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/culture/archive/2022/03/limits-women-confidence-workplace-inequality/626562/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/culture/archive/2022/03/limits-women-confidence-workplace-inequality/626562/?utm_source=feed",
+            "title": "自信是如何成為一種信仰的",
+            "summary": "How Confidence Became a Cult",
+            "date_modified": "2022-03-07T14:10:43.000Z",
+            "author": {
+                "name": "Rosalind Gill",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/03/tolerating-covid-misinformation-better-alternative/626564/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/03/tolerating-covid-misinformation-better-alternative/626564/?utm_source=feed",
+            "title": "容忍COVID的錯誤信息總比其他方式好",
+            "summary": "Tolerating COVID Misinformation Is Better Than the Alternative",
+            "date_modified": "2022-03-07T22:37:16.000Z",
+            "author": {
+                "name": "Conor Friedersdorf",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/international/archive/2022/03/venezuela-hugo-chavez-train-things-are-never-so-bad/626961/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/international/archive/2022/03/venezuela-hugo-chavez-train-things-are-never-so-bad/626961/?utm_source=feed",
+            "title": "委內瑞拉開往何處的火車",
+            "summary": "Venezuela’s Train to Nowhere",
+            "date_modified": "2022-03-07T22:47:08.000Z",
+            "author": {
+                "name": "William Neuman",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/03/strategy-west-needs-beat-russia/626962/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/03/strategy-west-needs-beat-russia/626962/?utm_source=feed",
+            "title": "能夠打敗普京的戰略",
+            "summary": "The Strategy That Can Defeat Putin",
+            "date_modified": "2022-03-07T23:06:11.000Z",
+            "author": {
+                "name": "Eliot A. Cohen",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/family/archive/2022/03/couple-envy-partner-relationship-comparison/626963/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/family/archive/2022/03/couple-envy-partner-relationship-comparison/626963/?utm_source=feed",
+            "title": "擺脫夫妻恩愛陷阱的關鍵",
+            "summary": "The Key to Escaping the Couple-Envy Trap",
+            "date_modified": "2022-03-07T18:56:31.000Z",
+            "author": {
+                "name": "Joshua Coleman",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/photo/2022/03/photos-ukrainian-refugees-say-goodbye-home-and-family-members/626964/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/photo/2022/03/photos-ukrainian-refugees-say-goodbye-home-and-family-members/626964/?utm_source=feed",
+            "title": "烏克蘭難民告別家園和家人",
+            "summary": "Ukrainian Refugees Say Goodbye to Home and Family Members",
+            "date_modified": "2022-03-07T22:43:32.000Z",
+            "author": {
+                "name": "Alan Taylor",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/humor/daily-shouts/a-sampling-of-maternity-styles",
             "content_html": "",
             "url": "https://www.newyorker.com/humor/daily-shouts/a-sampling-of-maternity-styles",
