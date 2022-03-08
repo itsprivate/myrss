@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 08 Mar 2022 11:30:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 13:23:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,34 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[寒假的理由]]></title>
+            <link>https://www.theatlantic.com/family/archive/2022/03/close-school-wintercovid-flu/626970/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/family/archive/2022/03/close-school-wintercovid-flu/626970/?utm_source=feed</guid>
+            <pubDate>Tue, 08 Mar 2022 12:01:56 GMT</pubDate>
+            <description><![CDATA[The Case for Winter Vacation]]></description>
+        </item>
+        <item>
+            <title><![CDATA[这么多的死亡事件是如何变成正常的？]]></title>
+            <link>https://www.theatlantic.com/health/archive/2022/03/covid-us-death-rate/626972/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/health/archive/2022/03/covid-us-death-rate/626972/?utm_source=feed</guid>
+            <pubDate>Tue, 08 Mar 2022 12:11:33 GMT</pubDate>
+            <description><![CDATA[How Did This Many Deaths Become Normal?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰的食品价格冲击会带来什么？]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/03/rising-food-prices-ukraine-russia-war/626967/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/03/rising-food-prices-ukraine-russia-war/626967/?utm_source=feed</guid>
+            <pubDate>Tue, 08 Mar 2022 13:01:56 GMT</pubDate>
+            <description><![CDATA[What to Expect From the Ukraine Food-Price Shock]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我的宝宝已经两岁了。这场大流行也是如此。]]></title>
+            <link>https://www.theatlantic.com/health/archive/2022/03/covid-pandemic-baby-growing-up/626969/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/health/archive/2022/03/covid-pandemic-baby-growing-up/626969/?utm_source=feed</guid>
+            <pubDate>Tue, 08 Mar 2022 13:01:56 GMT</pubDate>
+            <description><![CDATA[My Baby Is 2 Years Old. So Is the Pandemic.]]></description>
+        </item>
         <item>
             <title><![CDATA[一个良好的心理健康日]]></title>
             <link>https://www.newyorker.com/humor/daily-shouts/a-good-mental-health-day</link>

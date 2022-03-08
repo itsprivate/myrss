@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-08T11:30:46.865Z</updated>
+    <updated>2022-03-08T13:23:58.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[寒假的理由]]></title>
+        <id>https://www.theatlantic.com/family/archive/2022/03/close-school-wintercovid-flu/626970/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/family/archive/2022/03/close-school-wintercovid-flu/626970/?utm_source=feed"/>
+        <updated>2022-03-08T12:01:56.000Z</updated>
+        <summary type="html"><![CDATA[The Case for Winter Vacation]]></summary>
+        <author>
+            <name>Elizabeth G. Dunn</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这么多的死亡事件是如何变成正常的？]]></title>
+        <id>https://www.theatlantic.com/health/archive/2022/03/covid-us-death-rate/626972/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/health/archive/2022/03/covid-us-death-rate/626972/?utm_source=feed"/>
+        <updated>2022-03-08T12:11:33.000Z</updated>
+        <summary type="html"><![CDATA[How Did This Many Deaths Become Normal?]]></summary>
+        <author>
+            <name>Ed Yong</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰的食品价格冲击会带来什么？]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/rising-food-prices-ukraine-russia-war/626967/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/rising-food-prices-ukraine-russia-war/626967/?utm_source=feed"/>
+        <updated>2022-03-08T13:01:56.000Z</updated>
+        <summary type="html"><![CDATA[What to Expect From the Ukraine Food-Price Shock]]></summary>
+        <author>
+            <name>David Frum</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的宝宝已经两岁了。这场大流行也是如此。]]></title>
+        <id>https://www.theatlantic.com/health/archive/2022/03/covid-pandemic-baby-growing-up/626969/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/health/archive/2022/03/covid-pandemic-baby-growing-up/626969/?utm_source=feed"/>
+        <updated>2022-03-08T13:01:56.000Z</updated>
+        <summary type="html"><![CDATA[My Baby Is 2 Years Old. So Is the Pandemic.]]></summary>
+        <author>
+            <name>Sarah Laskow</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个良好的心理健康日]]></title>
         <id>https://www.newyorker.com/humor/daily-shouts/a-good-mental-health-day</id>
