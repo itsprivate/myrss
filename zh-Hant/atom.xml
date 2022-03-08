@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-08T13:23:58.422Z</updated>
+    <updated>2022-03-08T15:48:40.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每日漫畫。3月8日，星期二]]></title>
+        <id>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-8th-the-last-two-years</id>
+        <link href="https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-8th-the-last-two-years"/>
+        <updated>2022-03-08T15:14:09.000Z</updated>
+        <summary type="html"><![CDATA[Daily Cartoon: Tuesday, March 8th]]></summary>
+        <author>
+            <name>Shannon Wheeler</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<em>The Atlantic</em> Daily: 西方如何能在烏克蘭獲勝]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/03/how-the-west-can-defeat-putin-in-ukraine/626974/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/how-the-west-can-defeat-putin-in-ukraine/626974/?utm_source=feed"/>
+        <updated>2022-03-08T15:04:23.000Z</updated>
+        <summary type="html"><![CDATA[<em>The Atlantic</em> Daily: How the West Can Win in Ukraine]]></summary>
+        <author>
+            <name>Isabel Fattal</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[寒假的理由]]></title>
         <id>https://www.theatlantic.com/family/archive/2022/03/close-school-wintercovid-flu/626970/?utm_source=feed</id>

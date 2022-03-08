@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-8th-the-last-two-years",
+            "content_html": "",
+            "url": "https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-8th-the-last-two-years",
+            "title": "每日漫畫。3月8日，星期二",
+            "summary": "Daily Cartoon: Tuesday, March 8th",
+            "date_modified": "2022-03-08T15:14:09.000Z",
+            "author": {
+                "name": "Shannon Wheeler",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/newsletters/archive/2022/03/how-the-west-can-defeat-putin-in-ukraine/626974/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/newsletters/archive/2022/03/how-the-west-can-defeat-putin-in-ukraine/626974/?utm_source=feed",
+            "title": "<em>The Atlantic</em> Daily: 西方如何能在烏克蘭獲勝",
+            "summary": "<em>The Atlantic</em> Daily: How the West Can Win in Ukraine",
+            "date_modified": "2022-03-08T15:04:23.000Z",
+            "author": {
+                "name": "Isabel Fattal",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/family/archive/2022/03/close-school-wintercovid-flu/626970/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/family/archive/2022/03/close-school-wintercovid-flu/626970/?utm_source=feed",
