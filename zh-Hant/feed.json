@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/culture/culture-desk/one-of-the-greatest-movies-about-jazz",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/culture-desk/one-of-the-greatest-movies-about-jazz",
+            "title": "關於爵士樂的最偉大的電影之一",
+            "summary": "One of the Greatest Movies About Jazz",
+            "date_modified": "2022-03-11T20:54:55.000Z",
+            "author": {
+                "name": "Richard Brody",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/03/11/technology/facebook-office-perks-laundry-free-dinner.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/11/technology/facebook-office-perks-laundry-free-dinner.html",
+            "title": "Facebook的母公司將讓員工自己洗衣服",
+            "summary": "Facebook’s Parent Company Will Make Employees Do Their Own Laundry",
+            "date_modified": "2022-03-11T20:50:02.000Z",
+            "author": {
+                "name": "Mike Isaac, Ryan Mac and Sheera Frenkel",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/our-local-correspondents/the-meaning-of-a-stolen-diaper",
             "content_html": "",
             "url": "https://www.newyorker.com/news/our-local-correspondents/the-meaning-of-a-stolen-diaper",
