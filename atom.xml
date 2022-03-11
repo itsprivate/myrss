@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-11T19:12:03.275Z</updated>
+    <updated>2022-03-11T19:27:34.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[普京入侵乌克兰如何颠覆德国]]></title>
+        <id>https://www.newyorker.com/news/news-desk/how-putins-invasion-of-ukraine-upended-germany</id>
+        <link href="https://www.newyorker.com/news/news-desk/how-putins-invasion-of-ukraine-upended-germany"/>
+        <updated>2022-03-11T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How Putin’s Invasion of Ukraine Upended Germany]]></summary>
+        <author>
+            <name>Alec MacGillis</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[起床背后的心理学]]></title>
         <id>https://www.newyorker.com/humor/daily-shouts/the-psychology-behind-getting-out-of-bed</id>
