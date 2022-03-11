@@ -19,6 +19,30 @@
             "date_modified": "2022-03-11T21:35:38.000Z",
             "author": {
                 "name": "David Remnick",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/03/11/technology/facebook-meta-perks.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/11/technology/facebook-meta-perks.html",
+            "title": "梅塔削减了Facebook的一些福利",
+            "summary": "Meta Cuts Back on Some of Facebook’s Perks",
+            "date_modified": "2022-03-11T22:02:16.000Z",
+            "author": {
+                "name": "Mike Isaac, Ryan Mac and Sheera Frenkel",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/q-and-a/stephen-kotkin-putin-russia-ukraine-stalin",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/q-and-a/stephen-kotkin-putin-russia-ukraine-stalin",
+            "title": "暴君的弱点",
+            "summary": "The Weakness of the Despot",
+            "date_modified": "2022-03-11T21:35:38.000Z",
+            "author": {
+                "name": "David Remnick",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         },

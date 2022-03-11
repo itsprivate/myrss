@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-11T21:52:51.303Z</updated>
+    <updated>2022-03-11T22:15:33.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[暴君的弱點]]></title>
+        <id>https://www.newyorker.com/news/q-and-a/stephen-kotkin-putin-russia-ukraine-stalin</id>
+        <link href="https://www.newyorker.com/news/q-and-a/stephen-kotkin-putin-russia-ukraine-stalin"/>
+        <updated>2022-03-11T21:35:38.000Z</updated>
+        <summary type="html"><![CDATA[The Weakness of the Despot]]></summary>
+        <author>
+            <name>David Remnick</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[梅塔削減了Facebook的一些福利]]></title>
+        <id>https://www.nytimes.com/2022/03/11/technology/facebook-meta-perks.html</id>
+        <link href="https://www.nytimes.com/2022/03/11/technology/facebook-meta-perks.html"/>
+        <updated>2022-03-11T22:02:16.000Z</updated>
+        <summary type="html"><![CDATA[Meta Cuts Back on Some of Facebook’s Perks]]></summary>
+        <author>
+            <name>Mike Isaac, Ryan Mac and Sheera Frenkel</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暴君的弱點]]></title>
         <id>https://www.newyorker.com/news/q-and-a/stephen-kotkin-putin-russia-ukraine-stalin</id>
