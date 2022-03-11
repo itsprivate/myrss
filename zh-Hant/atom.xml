@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-11T05:34:49.297Z</updated>
+    <updated>2022-03-11T10:15:14.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,1634 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[應用程序和橙子。蘋果在商標上 "欺負 "的背後]]></title>
+        <id>https://www.nytimes.com/2022/03/11/technology/apple-trademarks.html</id>
+        <link href="https://www.nytimes.com/2022/03/11/technology/apple-trademarks.html"/>
+        <updated>2022-03-11T10:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Apps and Oranges: Behind Apple’s ‘Bullying’ on Trademarks]]></summary>
+        <author>
+            <name>Ryan Mac and Kellen Browning</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中國的俄羅斯政策是關於美國的]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/china-xi-ukraine-war-america/627028/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/china-xi-ukraine-war-america/627028/?utm_source=feed"/>
+        <updated>2022-03-11T10:00:56.000Z</updated>
+        <summary type="html"><![CDATA[China's Russia Policy Is About America]]></summary>
+        <author>
+            <name>Wendy Zhou</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西方國家在拯救我的祖國方面做得不夠好]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/ukraine-russia-war-deaths-refugees/627029/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/ukraine-russia-war-deaths-refugees/627029/?utm_source=feed"/>
+        <updated>2022-03-11T10:00:56.000Z</updated>
+        <summary type="html"><![CDATA[The West Isn’t Doing Enough to Save My Homeland]]></summary>
+        <author>
+            <name>Olena Halushka</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本週的照片。泥浴、雪橇犬、烏克蘭危機]]></title>
+        <id>https://www.theatlantic.com/photo/2022/03/photos-of-the-week-mud-bath-sled-dogs-ukraine-crisis/627033/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/photo/2022/03/photos-of-the-week-mud-bath-sled-dogs-ukraine-crisis/627033/?utm_source=feed"/>
+        <updated>2022-03-11T05:30:57.000Z</updated>
+        <summary type="html"><![CDATA[Photos of the Week: Mud Bath, Sled Dogs, Ukraine Crisis]]></summary>
+        <author>
+            <name>Alan Taylor</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[書評。可悲的是，色情]]></title>
+        <id>https://astralcodexten.substack.com/p/book-review-sadly-porn</id>
+        <link href="https://astralcodexten.substack.com/p/book-review-sadly-porn"/>
+        <updated>2022-02-16T20:44:15.000Z</updated>
+        <summary type="html"><![CDATA[Book Review: Sadly, Porn]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[神靈只有在我們相信他們的情況下才有力量]]></title>
+        <id>https://astralcodexten.substack.com/p/the-gods-only-have-power-because</id>
+        <link href="https://astralcodexten.substack.com/p/the-gods-only-have-power-because"/>
+        <updated>2022-02-17T21:02:11.000Z</updated>
+        <summary type="html"><![CDATA[The Gods Only Have Power Because We Believe In Them]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[隱秘的公開主題211.5]]></title>
+        <id>https://astralcodexten.substack.com/p/hidden-open-thread-2115</id>
+        <link href="https://astralcodexten.substack.com/p/hidden-open-thread-2115"/>
+        <updated>2022-02-18T18:39:16.000Z</updated>
+        <summary type="html"><![CDATA[Hidden Open Thread 211.5]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[下週日的奧斯汀聚會]]></title>
+        <id>https://astralcodexten.substack.com/p/austin-meetup-next-sunday</id>
+        <link href="https://astralcodexten.substack.com/p/austin-meetup-next-sunday"/>
+        <updated>2022-02-18T19:34:59.000Z</updated>
+        <summary type="html"><![CDATA[Austin Meetup Next Sunday]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[公開主題212]]></title>
+        <id>https://astralcodexten.substack.com/p/open-thread-212</id>
+        <link href="https://astralcodexten.substack.com/p/open-thread-212"/>
+        <updated>2022-02-21T00:42:59.000Z</updated>
+        <summary type="html"><![CDATA[Open Thread 212]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[玩錢和信譽系統]]></title>
+        <id>https://astralcodexten.substack.com/p/play-money-and-reputation-systems</id>
+        <link href="https://astralcodexten.substack.com/p/play-money-and-reputation-systems"/>
+        <updated>2022-02-21T21:57:01.000Z</updated>
+        <summary type="html"><![CDATA[Play Money And Reputation Systems]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[二月份的鏈接]]></title>
+        <id>https://astralcodexten.substack.com/p/links-for-february</id>
+        <link href="https://astralcodexten.substack.com/p/links-for-february"/>
+        <updated>2022-02-22T20:58:45.000Z</updated>
+        <summary type="html"><![CDATA[Links For February]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生物錨。一個可能或不可能成功的技巧]]></title>
+        <id>https://astralcodexten.substack.com/p/biological-anchors-a-trick-that-might</id>
+        <link href="https://astralcodexten.substack.com/p/biological-anchors-a-trick-that-might"/>
+        <updated>2022-02-23T22:56:52.000Z</updated>
+        <summary type="html"><![CDATA[Biological Anchors: A Trick That Might Or Might Not Work]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[隱秘的公開主題212.5]]></title>
+        <id>https://astralcodexten.substack.com/p/hidden-open-thread-2125</id>
+        <link href="https://astralcodexten.substack.com/p/hidden-open-thread-2125"/>
+        <updated>2022-02-25T02:12:24.000Z</updated>
+        <summary type="html"><![CDATA[Hidden Open Thread 212.5]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[奧斯汀見面會的修正]]></title>
+        <id>https://astralcodexten.substack.com/p/austin-meetup-correction</id>
+        <link href="https://astralcodexten.substack.com/p/austin-meetup-correction"/>
+        <updated>2022-02-25T20:45:53.000Z</updated>
+        <summary type="html"><![CDATA[Austin Meetup Correction]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[開放話題213]]></title>
+        <id>https://astralcodexten.substack.com/p/open-thread-213</id>
+        <link href="https://astralcodexten.substack.com/p/open-thread-213"/>
+        <updated>2022-02-28T08:04:41.000Z</updated>
+        <summary type="html"><![CDATA[Open Thread 213]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭的戰爭預測]]></title>
+        <id>https://astralcodexten.substack.com/p/ukraine-warcasting</id>
+        <link href="https://astralcodexten.substack.com/p/ukraine-warcasting"/>
+        <updated>2022-03-01T07:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine Warcasting]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微型成癮症]]></title>
+        <id>https://astralcodexten.substack.com/p/microaddictions</id>
+        <link href="https://astralcodexten.substack.com/p/microaddictions"/>
+        <updated>2022-03-02T06:32:38.000Z</updated>
+        <summary type="html"><![CDATA[Microaddictions]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[當我們爭論理性的時候，我們在爭論什麼？]]></title>
+        <id>https://astralcodexten.substack.com/p/what-are-we-arguing-about-when-we</id>
+        <link href="https://astralcodexten.substack.com/p/what-are-we-arguing-about-when-we"/>
+        <updated>2022-03-04T05:25:00.000Z</updated>
+        <summary type="html"><![CDATA[What Are We Arguing About When We Argue About Rationality?]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[隱秘的公開主題213.5]]></title>
+        <id>https://astralcodexten.substack.com/p/hidden-open-thread-2135</id>
+        <link href="https://astralcodexten.substack.com/p/hidden-open-thread-2135"/>
+        <updated>2022-03-05T01:49:44.000Z</updated>
+        <summary type="html"><![CDATA[Hidden Open Thread 213.5]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[公開主題214]]></title>
+        <id>https://astralcodexten.substack.com/p/open-thread-214</id>
+        <link href="https://astralcodexten.substack.com/p/open-thread-214"/>
+        <updated>2022-03-07T02:06:55.000Z</updated>
+        <summary type="html"><![CDATA[Open Thread 214]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭的想法和鏈接]]></title>
+        <id>https://astralcodexten.substack.com/p/ukraine-thoughts-and-links</id>
+        <link href="https://astralcodexten.substack.com/p/ukraine-thoughts-and-links"/>
+        <updated>2022-03-08T05:41:40.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine Thoughts And Links]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zounds! 是Zulresso和Zuranolone!]]></title>
+        <id>https://astralcodexten.substack.com/p/zounds-its-zulresso-and-zuranolone</id>
+        <link href="https://astralcodexten.substack.com/p/zounds-its-zulresso-and-zuranolone"/>
+        <updated>2022-03-08T21:12:09.000Z</updated>
+        <summary type="html"><![CDATA[Zounds! It's Zulresso and Zuranolone!]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[對未醒來的學者的建議？]]></title>
+        <id>https://astralcodexten.substack.com/p/advice-for-unwoke-academic</id>
+        <link href="https://astralcodexten.substack.com/p/advice-for-unwoke-academic"/>
+        <updated>2022-03-10T07:47:30.000Z</updated>
+        <summary type="html"><![CDATA[Advice For Unwoke Academic?]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黃體酮大劑量可能是一種廉價的Zulresso替代物]]></title>
+        <id>https://astralcodexten.substack.com/p/progesterone-megadoses-might-be-a</id>
+        <link href="https://astralcodexten.substack.com/p/progesterone-megadoses-might-be-a"/>
+        <updated>2022-03-10T21:13:58.000Z</updated>
+        <summary type="html"><![CDATA[Progesterone Megadoses Might Be A Cheap Zulresso Substitute]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於靜態網站生成器和WordPress的思考]]></title>
+        <id>https://www.mooreds.com/wordpress/archives/3369</id>
+        <link href="https://www.mooreds.com/wordpress/archives/3369"/>
+        <updated>2020-07-17T21:32:24.000Z</updated>
+        <summary type="html"><![CDATA[Thoughts on static site generators and WordPress]]></summary>
+        <author>
+            <name>moore</name>
+            <uri>http://edit.mooreds.com/wordpress/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我希望我在剛開始做開發時就知道的事]]></title>
+        <id>https://www.mooreds.com/wordpress/archives/3376</id>
+        <link href="https://www.mooreds.com/wordpress/archives/3376"/>
+        <updated>2020-08-02T15:59:53.000Z</updated>
+        <summary type="html"><![CDATA[What I wish I had known when I was starting out as a developer]]></summary>
+        <author>
+            <name>moore</name>
+            <uri>http://edit.mooreds.com/wordpress/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[書評。一段名為帝國的記憶]]></title>
+        <id>https://www.mooreds.com/wordpress/archives/3392</id>
+        <link href="https://www.mooreds.com/wordpress/archives/3392"/>
+        <updated>2020-09-22T02:54:22.000Z</updated>
+        <summary type="html"><![CDATA[Book Review: A Memory Called Empire]]></summary>
+        <author>
+            <name>moore</name>
+            <uri>http://edit.mooreds.com/wordpress/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[快速瀏覽xkit]]></title>
+        <id>https://www.mooreds.com/wordpress/archives/3395</id>
+        <link href="https://www.mooreds.com/wordpress/archives/3395"/>
+        <updated>2020-10-17T12:34:24.000Z</updated>
+        <summary type="html"><![CDATA[A quick look at xkit]]></summary>
+        <author>
+            <name>moore</name>
+            <uri>http://edit.mooreds.com/wordpress/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[書評。生活中的算法]]></title>
+        <id>https://www.mooreds.com/wordpress/archives/3398</id>
+        <link href="https://www.mooreds.com/wordpress/archives/3398"/>
+        <updated>2020-11-11T12:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Book Review: Algorithms to live by]]></summary>
+        <author>
+            <name>moore</name>
+            <uri>http://edit.mooreds.com/wordpress/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[書評。布穀鳥的蛋]]></title>
+        <id>https://www.mooreds.com/wordpress/archives/3405</id>
+        <link href="https://www.mooreds.com/wordpress/archives/3405"/>
+        <updated>2020-12-09T13:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Book Review: The Cuckoo’s Egg]]></summary>
+        <author>
+            <name>moore</name>
+            <uri>http://edit.mooreds.com/wordpress/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最不被重視的AWS服務]]></title>
+        <id>https://www.mooreds.com/wordpress/archives/3409</id>
+        <link href="https://www.mooreds.com/wordpress/archives/3409"/>
+        <updated>2021-01-20T16:35:00.000Z</updated>
+        <summary type="html"><![CDATA[The most underappreciated AWS service]]></summary>
+        <author>
+            <name>moore</name>
+            <uri>http://edit.mooreds.com/wordpress/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slack無法打開，出現NS_ERROR_DOM_ABORT_ERR錯誤]]></title>
+        <id>https://www.mooreds.com/wordpress/archives/3429</id>
+        <link href="https://www.mooreds.com/wordpress/archives/3429"/>
+        <updated>2021-02-01T15:35:28.000Z</updated>
+        <summary type="html"><![CDATA[Slack failing to open with NS_ERROR_DOM_ABORT_ERR error]]></summary>
+        <author>
+            <name>moore</name>
+            <uri>http://edit.mooreds.com/wordpress/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[公共雲時代的開源軟件商業模式問題]]></title>
+        <id>https://www.mooreds.com/wordpress/archives/3438</id>
+        <link href="https://www.mooreds.com/wordpress/archives/3438"/>
+        <updated>2021-03-13T17:31:44.000Z</updated>
+        <summary type="html"><![CDATA[Open source software business model concerns in the age of the public cloud]]></summary>
+        <author>
+            <name>moore</name>
+            <uri>http://edit.mooreds.com/wordpress/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於尋找技術聯合創始人的建議]]></title>
+        <id>https://www.mooreds.com/wordpress/archives/3445</id>
+        <link href="https://www.mooreds.com/wordpress/archives/3445"/>
+        <updated>2021-04-03T17:09:02.000Z</updated>
+        <summary type="html"><![CDATA[Advice for finding a technical co-founder]]></summary>
+        <author>
+            <name>moore</name>
+            <uri>http://edit.mooreds.com/wordpress/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我在享受大自然的失敗嘗試中的想法]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/thoughts-i-had-during-my-failed-attempts-to-enjoy-nature</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/thoughts-i-had-during-my-failed-attempts-to-enjoy-nature"/>
+        <updated>2022-03-10T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Thoughts I Had During My Failed Attempts to Enjoy Nature]]></summary>
+        <author>
+            <name>Ginny Hogan, Lex Singer</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[資本主義與黑人之間的不公正關係]]></title>
+        <id>https://www.newyorker.com/video/watch/the-new-yorker-documentary-the-unjust-relationship-between-capitalism-and-blackness-2022-01-28</id>
+        <link href="https://www.newyorker.com/video/watch/the-new-yorker-documentary-the-unjust-relationship-between-capitalism-and-blackness-2022-01-28"/>
+        <updated>2022-02-02T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Unjust Relationship Between Capitalism and Blackness]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[牡蠣如何幫助對抗氣候變化]]></title>
+        <id>https://www.newyorker.com/video/watch/the-new-yorker-documentary-how-oysters-can-help-fight-climate-change</id>
+        <link href="https://www.newyorker.com/video/watch/the-new-yorker-documentary-how-oysters-can-help-fight-climate-change"/>
+        <updated>2022-02-23T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How Oysters Can Help Fight Climate Change]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QAnon對一個美國移民的誘惑力]]></title>
+        <id>https://www.newyorker.com/video/watch/the-new-yorker-documentary-the-reasons-behind-an-immigrants-inclination-to-qanon</id>
+        <link href="https://www.newyorker.com/video/watch/the-new-yorker-documentary-the-reasons-behind-an-immigrants-inclination-to-qanon"/>
+        <updated>2022-03-02T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Allure of QAnon for a U.S. Immigrant]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一名士兵在烏克蘭失蹤，他的父親能否找到他？]]></title>
+        <id>https://www.newyorker.com/video/watch/i-never-had-dreams-of-my-son</id>
+        <link href="https://www.newyorker.com/video/watch/i-never-had-dreams-of-my-son"/>
+        <updated>2022-03-09T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Soldier Goes Missing in Ukraine—Can His Father Find Him?]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[佛教的豐富遺產]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/07/the-rich-legacy-of-buddhism</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/07/the-rich-legacy-of-buddhism"/>
+        <updated>2022-02-25T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Rich Legacy of Buddhism]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[珠穆朗瑪峰意大利語，在Ci Siamo舉行]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/14/zhuzhed-up-italian-at-ci-siamo</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/14/zhuzhed-up-italian-at-ci-siamo"/>
+        <updated>2022-03-04T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Zhuzhed-Up Italian, at Ci Siamo]]></summary>
+        <author>
+            <name>Shauna Lyon</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一位保護其文化遺產的科特迪瓦藝術家]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/14/an-ivorian-artist-who-preserved-his-cultural-heritage</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/14/an-ivorian-artist-who-preserved-his-cultural-heritage"/>
+        <updated>2022-03-04T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An Ivorian Artist Who Preserved His Cultural Heritage]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[檸檬頭樂隊的青春憂鬱]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/14/the-youthful-melancholy-of-the-lemonheads</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/14/the-youthful-melancholy-of-the-lemonheads"/>
+        <updated>2022-03-07T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Youthful Melancholy of the Lemonheads]]></summary>
+        <author>
+            <name>Amanda Petrusich</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[音樂充斥著羅斯科教堂]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/14/music-fills-the-rothko-chapel</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/14/music-fills-the-rothko-chapel"/>
+        <updated>2022-03-07T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Music Fills the Rothko Chapel]]></summary>
+        <author>
+            <name>Alex Ross</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哈里-杜魯門幫助建立了我們的世界秩序，不管是好是壞都是如此]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/14/harry-truman-helped-make-our-world-order-for-better-and-for-worse-jeffrey-frank-the-trials-of-harry-s-truman</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/14/harry-truman-helped-make-our-world-order-for-better-and-for-worse-jeffrey-frank-the-trials-of-harry-s-truman"/>
+        <updated>2022-03-07T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Harry Truman Helped Make Our World Order, for Better and for Worse]]></summary>
+        <author>
+            <name>Beverly Gage</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["蝙蝠俠 "是對羅伯特-帕丁森的一種浪費]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/14/the-batman-is-a-waste-of-robert-pattinson</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/14/the-batman-is-a-waste-of-robert-pattinson"/>
+        <updated>2022-03-03T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“The Batman” Is a Waste of Robert Pattinson]]></summary>
+        <author>
+            <name>Anthony Lane</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯仍未撤軍]]></title>
+        <id>https://www.newyorker.com/cartoons/blitts-kvetchbook/still-no-russian-withdrawal</id>
+        <link href="https://www.newyorker.com/cartoons/blitts-kvetchbook/still-no-russian-withdrawal"/>
+        <updated>2022-03-10T20:51:05.000Z</updated>
+        <summary type="html"><![CDATA[Still No Russian Withdrawal]]></summary>
+        <author>
+            <name>Barry Blitt</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科內爾-韋斯特看到了文化中的精神衰落]]></title>
+        <id>https://www.newyorker.com/culture/the-new-yorker-interview/cornel-west-sees-a-spiritual-decay-in-the-culture</id>
+        <link href="https://www.newyorker.com/culture/the-new-yorker-interview/cornel-west-sees-a-spiritual-decay-in-the-culture"/>
+        <updated>2022-03-09T21:05:58.000Z</updated>
+        <summary type="html"><![CDATA[Cornel West Sees a Spiritual Decay in the Culture]]></summary>
+        <author>
+            <name>Vinson Cunningham</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被圍困的烏克蘭]]></title>
+        <id>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/ukraine-under-siege</id>
+        <link href="https://www.newyorker.com/podcast/the-new-yorker-radio-hour/ukraine-under-siege"/>
+        <updated>2022-03-04T21:44:19.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine Under Siege]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一位女士如何利用喜劇為巴勒斯坦權利發聲]]></title>
+        <id>https://www.newyorker.com/video/watch/the-new-yorker-documentary-how-one-woman-is-using-comedy-to-speak-up-about-palestinian-rights</id>
+        <link href="https://www.newyorker.com/video/watch/the-new-yorker-documentary-how-one-woman-is-using-comedy-to-speak-up-about-palestinian-rights"/>
+        <updated>2021-12-22T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How One Woman Is Using Comedy to Speak Up About Palestinian Rights]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[兩個愛爾蘭男孩如何在跨大西洋航班上偷渡]]></title>
+        <id>https://www.newyorker.com/video/watch/the-new-yorker-documentary-nothing-to-declare</id>
+        <link href="https://www.newyorker.com/video/watch/the-new-yorker-documentary-nothing-to-declare"/>
+        <updated>2022-01-12T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How Two Irish Boys Stowed Themselves on a Transatlantic Flight]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[假釋程序的非人化戲劇]]></title>
+        <id>https://www.newyorker.com/video/watch/the-dehumanizing-theater-of-the-parole-process</id>
+        <link href="https://www.newyorker.com/video/watch/the-dehumanizing-theater-of-the-parole-process"/>
+        <updated>2021-11-17T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Dehumanizing Theatre of the Parole Process]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美國鹿角的大繁榮]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/14/the-great-american-antler-boom</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/14/the-great-american-antler-boom"/>
+        <updated>2022-03-07T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Great American Antler Boom]]></summary>
+        <author>
+            <name>Abe Streep</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瓜亞基爾的一場大流行悲劇]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/14/a-pandemic-tragedy-in-guayaquil</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/14/a-pandemic-tragedy-in-guayaquil"/>
+        <updated>2022-03-07T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Pandemic Tragedy in Guayaquil]]></summary>
+        <author>
+            <name>Daniel Alarcón</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[喬治-華盛頓有一個被奴役的兒子嗎？]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/14/did-george-washington-have-an-enslaved-son</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/14/did-george-washington-have-an-enslaved-son"/>
+        <updated>2022-03-07T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Did George Washington Have an Enslaved Son?]]></summary>
+        <author>
+            <name>Jill Abramson</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[當一所精英公立學校向所有人開放時，會發生什麼？]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/14/what-happens-when-an-elite-public-school-becomes-open-to-all</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/14/what-happens-when-an-elite-public-school-becomes-open-to-all"/>
+        <updated>2022-03-07T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What Happens When an Élite Public School Becomes Open to All?]]></summary>
+        <author>
+            <name>Nathan Heller</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一位留守的俄羅斯記者]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/a-russian-journalist-who-stayed-behind</id>
+        <link href="https://www.newyorker.com/news/daily-comment/a-russian-journalist-who-stayed-behind"/>
+        <updated>2022-03-10T18:34:29.000Z</updated>
+        <summary type="html"><![CDATA[A Russian Journalist Who Stayed Behind]]></summary>
+        <author>
+            <name>David Remnick</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尼加拉瓜的革命自食其果]]></title>
+        <id>https://www.newyorker.com/news/news-desk/the-revolution-eats-itself-in-nicaragua</id>
+        <link href="https://www.newyorker.com/news/news-desk/the-revolution-eats-itself-in-nicaragua"/>
+        <updated>2022-03-10T19:02:02.000Z</updated>
+        <summary type="html"><![CDATA[The Revolution Eats Itself in Nicaragua]]></summary>
+        <author>
+            <name>Alma Guillermoprieto</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[對俄羅斯和西方之間更廣泛戰爭的擔憂日益增加]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/the-growing-fear-of-a-wider-war-between-russia-and-the-west</id>
+        <link href="https://www.newyorker.com/news/daily-comment/the-growing-fear-of-a-wider-war-between-russia-and-the-west"/>
+        <updated>2022-03-10T19:38:32.000Z</updated>
+        <summary type="html"><![CDATA[The Growing Fear of a Wider War Between Russia and the West]]></summary>
+        <author>
+            <name>Robin Wright</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西方對俄羅斯發動經濟戰爭]]></title>
+        <id>https://www.newyorker.com/podcast/politics-and-more/the-west-wages-economic-war-on-russia</id>
+        <link href="https://www.newyorker.com/podcast/politics-and-more/the-west-wages-economic-war-on-russia"/>
+        <updated>2022-03-10T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The West Wages Economic War on Russia]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌搜索沒有向你顯示的內容]]></title>
+        <id>https://www.newyorker.com/culture/infinite-scroll/what-google-search-isnt-showing-you</id>
+        <link href="https://www.newyorker.com/culture/infinite-scroll/what-google-search-isnt-showing-you"/>
+        <updated>2022-03-10T22:42:06.000Z</updated>
+        <summary type="html"><![CDATA[What Google Search Isn’t Showing You]]></summary>
+        <author>
+            <name>Kyle Chayka</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Z "是俄羅斯新侵略政治的象徵]]></title>
+        <id>https://www.newyorker.com/news/our-columnists/z-is-the-symbol-of-the-new-russian-politics-of-aggression</id>
+        <link href="https://www.newyorker.com/news/our-columnists/z-is-the-symbol-of-the-new-russian-politics-of-aggression"/>
+        <updated>2022-03-07T21:28:08.000Z</updated>
+        <summary type="html"><![CDATA[“Z” Is the Symbol of the New Russian Politics of Aggression]]></summary>
+        <author>
+            <name>Masha Gessen</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[將焦點轉向美國的寡頭們]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/turning-the-focus-on-americas-oligarchs</id>
+        <link href="https://www.newyorker.com/news/daily-comment/turning-the-focus-on-americas-oligarchs"/>
+        <updated>2022-03-07T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Turning the Focus on America’s Oligarchs]]></summary>
+        <author>
+            <name>Evan Osnos</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯對SWIFT的部分禁令有多大意義？]]></title>
+        <id>https://www.newyorker.com/business/currency/how-significant-is-russias-partial-ban-from-swift</id>
+        <link href="https://www.newyorker.com/business/currency/how-significant-is-russias-partial-ban-from-swift"/>
+        <updated>2022-03-08T16:24:00.000Z</updated>
+        <summary type="html"><![CDATA[How Significant Is Russia’s Partial Ban from SWIFT?]]></summary>
+        <author>
+            <name>Sheelah Kolhatkar</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LINQ和延遲執行]]></title>
+        <id>https://www.davidhaney.io/linq-and-deferred-execution/</id>
+        <link href="https://www.davidhaney.io/linq-and-deferred-execution/"/>
+        <updated>2012-06-11T00:57:15.000Z</updated>
+        <summary type="html"><![CDATA[LINQ and Deferred Execution]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用MVC3和.NET 4.0的自定義輸出緩存--做得很好]]></title>
+        <id>https://www.davidhaney.io/custom-output-caching-with-mvc3-and-net-4-0-done-right/</id>
+        <link href="https://www.davidhaney.io/custom-output-caching-with-mvc3-and-net-4-0-done-right/"/>
+        <updated>2012-06-20T00:47:52.000Z</updated>
+        <summary type="html"><![CDATA[Custom Output Caching with MVC3 and .NET 4.0 - Done Properly!]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[編譯器技巧--推斷類型]]></title>
+        <id>https://www.davidhaney.io/compiler-tricks-inferred-types/</id>
+        <link href="https://www.davidhaney.io/compiler-tricks-inferred-types/"/>
+        <updated>2012-07-16T00:33:54.000Z</updated>
+        <summary type="html"><![CDATA[Compiler Tricks - Inferred Types]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TPL和錯誤處理]]></title>
+        <id>https://www.davidhaney.io/tpl-and-error-handling/</id>
+        <link href="https://www.davidhaney.io/tpl-and-error-handling/"/>
+        <updated>2012-08-05T13:39:38.000Z</updated>
+        <summary type="html"><![CDATA[TPL and Error Handling]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TPL和錯誤處理及延續任務]]></title>
+        <id>https://www.davidhaney.io/tpl-and-error-handling-continuations/</id>
+        <link href="https://www.davidhaney.io/tpl-and-error-handling-continuations/"/>
+        <updated>2012-08-12T23:21:30.000Z</updated>
+        <summary type="html"><![CDATA[TPL and Error Handling & Continuation Tasks]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[由MDSN英國博客發佈]]></title>
+        <id>https://www.davidhaney.io/published-by-mdsn-uk-blog/</id>
+        <link href="https://www.davidhaney.io/published-by-mdsn-uk-blog/"/>
+        <updated>2012-08-26T23:49:41.000Z</updated>
+        <summary type="html"><![CDATA[Published by MDSN UK Blog]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[喬爾測試真的很有意義]]></title>
+        <id>https://www.davidhaney.io/the-joel-test-really-is-meaningful/</id>
+        <link href="https://www.davidhaney.io/the-joel-test-really-is-meaningful/"/>
+        <updated>2012-10-14T22:10:54.000Z</updated>
+        <summary type="html"><![CDATA[The Joel Test Really is Meaningful]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[靜態 vs 實例 string.Equals]]></title>
+        <id>https://www.davidhaney.io/stats-vs-reference-string-equals/</id>
+        <link href="https://www.davidhaney.io/stats-vs-reference-string-equals/"/>
+        <updated>2012-10-22T14:57:14.000Z</updated>
+        <summary type="html"><![CDATA[Static vs Instance string.Equals]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[靜態 vs 實例 string.Equals Benchmark]]></title>
+        <id>https://www.davidhaney.io/static-vs-instance-string-equals-benchmark/</id>
+        <link href="https://www.davidhaney.io/static-vs-instance-string-equals-benchmark/"/>
+        <updated>2012-10-24T16:57:14.000Z</updated>
+        <summary type="html"><![CDATA[Static vs Instance string.Equals Benchmark]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual Studio 2012 Intellisense不工作 - 已解決]]></title>
+        <id>https://www.davidhaney.io/visual-studio-2012-intellisense-not-working-solved/</id>
+        <link href="https://www.davidhaney.io/visual-studio-2012-intellisense-not-working-solved/"/>
+        <updated>2012-11-20T21:12:41.000Z</updated>
+        <summary type="html"><![CDATA[Visual Studio 2012 Intellisense Not Working - SOLVED]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[但它並沒有發生在開發或QA中!]]></title>
+        <id>https://www.davidhaney.io/but-it-didnt-happen-in-dev-or-qa/</id>
+        <link href="https://www.davidhaney.io/but-it-didnt-happen-in-dev-or-qa/"/>
+        <updated>2012-12-02T17:22:20.000Z</updated>
+        <summary type="html"><![CDATA[But it Didn't Happen in DEV or QA!]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[由紅門出版]]></title>
+        <id>https://www.davidhaney.io/published-by-red-gate/</id>
+        <link href="https://www.davidhaney.io/published-by-red-gate/"/>
+        <updated>2013-01-18T15:10:04.000Z</updated>
+        <summary type="html"><![CDATA[Published by Red Gate]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[根據文件名確定MIME類型]]></title>
+        <id>https://www.davidhaney.io/determine-mime-type-from-file-name/</id>
+        <link href="https://www.davidhaney.io/determine-mime-type-from-file-name/"/>
+        <updated>2013-02-11T15:15:46.000Z</updated>
+        <summary type="html"><![CDATA[Determine MIME Type from File Name]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個更好的MIME映射竊取器!]]></title>
+        <id>https://www.davidhaney.io/a-better-mime-mapping-stealer/</id>
+        <link href="https://www.davidhaney.io/a-better-mime-mapping-stealer/"/>
+        <updated>2013-02-12T12:07:12.000Z</updated>
+        <summary type="html"><![CDATA[A Better MIME Mapping Stealer!]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[讓多讀、少寫的清單更有效率]]></title>
+        <id>https://www.davidhaney.io/make-mostly-read-seldom-written-lists-much-more-efficient/</id>
+        <link href="https://www.davidhaney.io/make-mostly-read-seldom-written-lists-much-more-efficient/"/>
+        <updated>2013-03-15T17:11:42.000Z</updated>
+        <summary type="html"><![CDATA[Make Mostly Read, Seldom-Written Lists Much More Efficient]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於列表二進制搜索的另一件事]]></title>
+        <id>https://www.davidhaney.io/one-more-thing-about-list-binary-search/</id>
+        <link href="https://www.davidhaney.io/one-more-thing-about-list-binary-search/"/>
+        <updated>2013-03-30T15:36:24.000Z</updated>
+        <summary type="html"><![CDATA[One More Thing About List Binary Search]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仿製藥比較器]]></title>
+        <id>https://www.davidhaney.io/generic-comparer/</id>
+        <link href="https://www.davidhaney.io/generic-comparer/"/>
+        <updated>2013-04-22T14:53:17.000Z</updated>
+        <summary type="html"><![CDATA[Generic Comparer]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[網絡API映射查詢字符串/表單輸入]]></title>
+        <id>https://www.davidhaney.io/web-api-mapping-querystringform-input/</id>
+        <link href="https://www.davidhaney.io/web-api-mapping-querystringform-input/"/>
+        <updated>2013-07-24T17:55:12.000Z</updated>
+        <summary type="html"><![CDATA[Web API Mapping QueryString/Form Input]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用T4從數據庫中自動生成POCOs]]></title>
+        <id>https://www.davidhaney.io/automatically-generate-pocos-from-db-with-t4/</id>
+        <link href="https://www.davidhaney.io/automatically-generate-pocos-from-db-with-t4/"/>
+        <updated>2013-10-16T21:35:51.000Z</updated>
+        <summary type="html"><![CDATA[Automatically Generate POCOs From DB With T4]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MVC4的條件性HTML屬性]]></title>
+        <id>https://www.davidhaney.io/mvc4-conditional-html-attributes/</id>
+        <link href="https://www.davidhaney.io/mvc4-conditional-html-attributes/"/>
+        <updated>2013-11-27T00:34:25.000Z</updated>
+        <summary type="html"><![CDATA[MVC4 Conditional HTML Attributes]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於SimplSockets的InfoQ採訪]]></title>
+        <id>https://www.davidhaney.io/interview-with-infoq-on-simplsockets/</id>
+        <link href="https://www.davidhaney.io/interview-with-infoq-on-simplsockets/"/>
+        <updated>2013-12-11T10:54:43.000Z</updated>
+        <summary type="html"><![CDATA[Interview with InfoQ on SimplSockets]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[當ModelState.IsValid為假時觸發IValidatableObject.Validate]]></title>
+        <id>https://www.davidhaney.io/trigger-ivalidatableobject-validate-when-modelstate-isvalid-is-false/</id>
+        <link href="https://www.davidhaney.io/trigger-ivalidatableobject-validate-when-modelstate-isvalid-is-false/"/>
+        <updated>2014-02-05T15:55:40.000Z</updated>
+        <summary type="html"><![CDATA[Trigger IValidatableObject.Validate When ModelState.IsValid is false]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C#可能會得到新的 "安全導航 "操作符"？"。]]></title>
+        <id>https://www.davidhaney.io/c-probably-getting-new-safe-navigation-operator/</id>
+        <link href="https://www.davidhaney.io/c-probably-getting-new-safe-navigation-operator/"/>
+        <updated>2014-02-28T11:47:08.000Z</updated>
+        <summary type="html"><![CDATA[C# Probably Getting New "Safe Navigation" Operator "?."]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是否加入Node.js？]]></title>
+        <id>https://www.davidhaney.io/to-node-js-or-not-to-node-js/</id>
+        <link href="https://www.davidhaney.io/to-node-js-or-not-to-node-js/"/>
+        <updated>2014-03-24T16:41:25.000Z</updated>
+        <summary type="html"><![CDATA[To Node.js Or Not To Node.js]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何保證開發團隊的失敗]]></title>
+        <id>https://www.davidhaney.io/how-to-guarantee-dev-team-failure/</id>
+        <link href="https://www.davidhaney.io/how-to-guarantee-dev-team-failure/"/>
+        <updated>2014-05-07T13:27:35.000Z</updated>
+        <summary type="html"><![CDATA[How To Guarantee Dev Team Failure]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我是如何在Stack Exchange得到一份工作的]]></title>
+        <id>https://www.davidhaney.io/how-i-got-a-job-at-stack-exchange/</id>
+        <link href="https://www.davidhaney.io/how-i-got-a-job-at-stack-exchange/"/>
+        <updated>2014-06-20T16:59:10.000Z</updated>
+        <summary type="html"><![CDATA[How I Got A Job At Stack Exchange]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 6。風格大於實質]]></title>
+        <id>https://www.davidhaney.io/iphone-6-style-over-substance/</id>
+        <link href="https://www.davidhaney.io/iphone-6-style-over-substance/"/>
+        <updated>2014-09-09T19:22:53.000Z</updated>
+        <summary type="html"><![CDATA[iPhone 6: Style Over Substance]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[工作頭銜的問題]]></title>
+        <id>https://www.davidhaney.io/the-trouble-with-job-titles/</id>
+        <link href="https://www.davidhaney.io/the-trouble-with-job-titles/"/>
+        <updated>2014-10-17T18:41:14.000Z</updated>
+        <summary type="html"><![CDATA[The Trouble With Job Titles]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[論軟件開發中的資歷主義]]></title>
+        <id>https://www.davidhaney.io/on-credentialism-in-software-development/</id>
+        <link href="https://www.davidhaney.io/on-credentialism-in-software-development/"/>
+        <updated>2014-12-29T16:00:27.000Z</updated>
+        <summary type="html"><![CDATA[On Credentialism In Software Development]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招聘的競爭優勢]]></title>
+        <id>https://www.davidhaney.io/the-recruiting-competitive-advantage/</id>
+        <link href="https://www.davidhaney.io/the-recruiting-competitive-advantage/"/>
+        <updated>2015-01-23T12:04:37.000Z</updated>
+        <summary type="html"><![CDATA[The Recruiting Competitive Advantage]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於秘密的可怕的工程師--反駁]]></title>
+        <id>https://www.davidhaney.io/on-secretly-terrible-engineers-a-rebuttal/</id>
+        <link href="https://www.davidhaney.io/on-secretly-terrible-engineers-a-rebuttal/"/>
+        <updated>2015-03-09T18:32:37.000Z</updated>
+        <summary type="html"><![CDATA[On Secretly Terrible Engineers - A Rebuttal]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[開發人員不應測量兩次，切割一次]]></title>
+        <id>https://www.davidhaney.io/developers-shouldnt-measure-twice-cut-once/</id>
+        <link href="https://www.davidhaney.io/developers-shouldnt-measure-twice-cut-once/"/>
+        <updated>2015-04-15T16:25:02.000Z</updated>
+        <summary type="html"><![CDATA[Developers Shouldn't Measure Twice, Cut Once]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[開發人員轉為經理]]></title>
+        <id>https://www.davidhaney.io/developer-turned-manager/</id>
+        <link href="https://www.davidhaney.io/developer-turned-manager/"/>
+        <updated>2015-08-03T14:18:02.000Z</updated>
+        <summary type="html"><![CDATA[Developer Turned Manager]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多樣性真的很難得]]></title>
+        <id>https://www.davidhaney.io/diversity-is-really-freaking-hard/</id>
+        <link href="https://www.davidhaney.io/diversity-is-really-freaking-hard/"/>
+        <updated>2015-09-24T11:23:38.000Z</updated>
+        <summary type="html"><![CDATA[Diversity Is Really Freaking Hard]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[開發商補償。堆棧溢出並沒有堆棧排名]]></title>
+        <id>https://www.davidhaney.io/developer-compensation-stack-overflow-doesnt-stack-rank/</id>
+        <link href="https://www.davidhaney.io/developer-compensation-stack-overflow-doesnt-stack-rank/"/>
+        <updated>2016-02-26T14:05:41.000Z</updated>
+        <summary type="html"><![CDATA[Developer Compensation: Stack Overflow Doesn't Stack Rank]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[故宮博物院和左手掌。我們是否忘記了如何編程？]]></title>
+        <id>https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/</id>
+        <link href="https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/"/>
+        <updated>2016-03-23T18:01:52.000Z</updated>
+        <summary type="html"><![CDATA[NPM & left-pad: Have We Forgotten How To Program?]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[讓我們來談談搖滾明星和自負的問題]]></title>
+        <id>https://www.davidhaney.io/lets-talk-about-rock-stars-egos/</id>
+        <link href="https://www.davidhaney.io/lets-talk-about-rock-stars-egos/"/>
+        <updated>2016-06-17T17:02:13.000Z</updated>
+        <summary type="html"><![CDATA[Let's Talk About Rock Stars & Egos]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們的行業需要同情心]]></title>
+        <id>https://www.davidhaney.io/our-industry-needs-compassion/</id>
+        <link href="https://www.davidhaney.io/our-industry-needs-compassion/"/>
+        <updated>2017-01-03T12:37:39.000Z</updated>
+        <summary type="html"><![CDATA[Our Industry Needs Compassion]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自定義ASP.NET MVC動作結果緩存屬性]]></title>
+        <id>https://www.davidhaney.io/custom-asp-net-mvc-action-result-cache-attribute/</id>
+        <link href="https://www.davidhaney.io/custom-asp-net-mvc-action-result-cache-attribute/"/>
+        <updated>2017-01-10T09:07:15.000Z</updated>
+        <summary type="html"><![CDATA[Custom ASP.NET MVC Action Result Cache Attribute]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[開發團隊的互動。責任與指責]]></title>
+        <id>https://www.davidhaney.io/dev-team-interactions-accountability-blame/</id>
+        <link href="https://www.davidhaney.io/dev-team-interactions-accountability-blame/"/>
+        <updated>2017-01-20T13:20:59.000Z</updated>
+        <summary type="html"><![CDATA[Dev Team Interactions: Accountability & Blame]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[開發團隊的互動。進行良好的代碼審查]]></title>
+        <id>https://www.davidhaney.io/dev-team-interactions-conducting-good-code-reviews/</id>
+        <link href="https://www.davidhaney.io/dev-team-interactions-conducting-good-code-reviews/"/>
+        <updated>2017-01-27T10:03:20.000Z</updated>
+        <summary type="html"><![CDATA[Dev Team Interactions: Conducting Good Code Reviews]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitLab數據丟失：一個討論]]></title>
+        <id>https://www.davidhaney.io/gitlab-data-loss-a-discussion/</id>
+        <link href="https://www.davidhaney.io/gitlab-data-loss-a-discussion/"/>
+        <updated>2017-02-02T11:33:02.000Z</updated>
+        <summary type="html"><![CDATA[GitLab Data Loss: A Discussion]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於招聘。開發人員就像股票一樣]]></title>
+        <id>https://www.davidhaney.io/on-hiring-developers-are-like-stocks/</id>
+        <link href="https://www.davidhaney.io/on-hiring-developers-are-like-stocks/"/>
+        <updated>2017-02-10T11:11:30.000Z</updated>
+        <summary type="html"><![CDATA[On Hiring: Developers Are Like Stocks]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新博客與招聘需求]]></title>
+        <id>https://www.davidhaney.io/new-blog-and-hiring-needs/</id>
+        <link href="https://www.davidhaney.io/new-blog-and-hiring-needs/"/>
+        <updated>2018-06-09T17:56:24.000Z</updated>
+        <summary type="html"><![CDATA[New Blog & Hiring Needs]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[撰寫一份優秀的初級技術員履歷表]]></title>
+        <id>https://www.davidhaney.io/writing-a-great-junior-tech-resume/</id>
+        <link href="https://www.davidhaney.io/writing-a-great-junior-tech-resume/"/>
+        <updated>2018-07-24T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Writing a Great Junior Tech Résumé]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新的博客名稱和域名]]></title>
+        <id>https://www.davidhaney.io/new-blog-name-and-domain/</id>
+        <link href="https://www.davidhaney.io/new-blog-name-and-domain/"/>
+        <updated>2018-08-03T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New Blog Name and Domain]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET核心Azure函數教程]]></title>
+        <id>https://www.davidhaney.io/net-core-azure-functions-tutorial/</id>
+        <link href="https://www.davidhaney.io/net-core-azure-functions-tutorial/"/>
+        <updated>2018-11-19T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[.NET Core Azure Functions Tutorial]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安息日開始了]]></title>
+        <id>https://www.davidhaney.io/sabbatical-begins/</id>
+        <link href="https://www.davidhaney.io/sabbatical-begins/"/>
+        <updated>2019-08-31T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sabbatical Begins]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安息日第一週]]></title>
+        <id>https://www.davidhaney.io/sabbatical-week-one/</id>
+        <link href="https://www.davidhaney.io/sabbatical-week-one/"/>
+        <updated>2019-09-08T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sabbatical Week One]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET Core MVC - 如何訪問appsettings.json]]></title>
+        <id>https://www.davidhaney.io/net-core-mvc-access-appsettings-json/</id>
+        <link href="https://www.davidhaney.io/net-core-mvc-access-appsettings-json/"/>
+        <updated>2020-11-09T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[.NET Core MVC - How to Access appsettings.json]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[裡維安以供應問題為由降低了2022年的交付目標]]></title>
+        <id>https://www.nytimes.com/2022/03/10/business/rivian-earnings.html</id>
+        <link href="https://www.nytimes.com/2022/03/10/business/rivian-earnings.html"/>
+        <updated>2022-03-10T23:46:23.000Z</updated>
+        <summary type="html"><![CDATA[Rivian Pares Delivery Targets for 2022, Citing Supply Problems]]></summary>
+        <author>
+            <name>Peter Eavis</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌搜索沒有向你顯示的內容]]></title>
+        <id>https://www.newyorker.com/culture/infinite-scroll/what-google-search-isnt-showing-you</id>
+        <link href="https://www.newyorker.com/culture/infinite-scroll/what-google-search-isnt-showing-you"/>
+        <updated>2022-03-10T22:42:06.000Z</updated>
+        <summary type="html"><![CDATA[What Google Search Isn’t Showing You]]></summary>
+        <author>
+            <name>Kyle Chayka</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[這些小而便宜的設備有助於監測海地的地震]]></title>
+        <id>https://www.nytimes.com/2022/03/10/science/haiti-earthquake-seismometer.html</id>
+        <link href="https://www.nytimes.com/2022/03/10/science/haiti-earthquake-seismometer.html"/>
+        <updated>2022-03-10T23:05:43.000Z</updated>
+        <summary type="html"><![CDATA[These Small, Cheap Devices Help Monitor Haiti’s Earthquakes]]></summary>
+        <author>
+            <name>Kenneth Chang</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黃體酮大劑量可能是一種廉價的Zulresso替代物]]></title>
+        <id>https://astralcodexten.substack.com/p/progesterone-megadoses-might-be-a</id>
+        <link href="https://astralcodexten.substack.com/p/progesterone-megadoses-might-be-a"/>
+        <updated>2022-03-10T21:13:58.000Z</updated>
+        <summary type="html"><![CDATA[Progesterone Megadoses Might Be A Cheap Zulresso Substitute]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西方對俄羅斯發動經濟戰爭]]></title>
+        <id>https://www.newyorker.com/podcast/politics-and-more/the-west-wages-economic-war-on-russia</id>
+        <link href="https://www.newyorker.com/podcast/politics-and-more/the-west-wages-economic-war-on-russia"/>
+        <updated>2022-03-10T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The West Wages Economic War on Russia]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯仍未撤軍]]></title>
+        <id>https://www.newyorker.com/cartoons/blitts-kvetchbook/still-no-russian-withdrawal</id>
+        <link href="https://www.newyorker.com/cartoons/blitts-kvetchbook/still-no-russian-withdrawal"/>
+        <updated>2022-03-10T20:51:05.000Z</updated>
+        <summary type="html"><![CDATA[Still No Russian Withdrawal]]></summary>
+        <author>
+            <name>Barry Blitt</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[對俄羅斯和西方之間更廣泛戰爭的擔憂日益增加]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/the-growing-fear-of-a-wider-war-between-russia-and-the-west</id>
+        <link href="https://www.newyorker.com/news/daily-comment/the-growing-fear-of-a-wider-war-between-russia-and-the-west"/>
+        <updated>2022-03-10T19:38:32.000Z</updated>
+        <summary type="html"><![CDATA[The Growing Fear of a Wider War Between Russia and the West]]></summary>
+        <author>
+            <name>Robin Wright</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<em>《大西洋》</em>日報。普京自己製造的混亂]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/03/putin-ukraine-russia-invasion-weakness/627016/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/putin-ukraine-russia-invasion-weakness/627016/?utm_source=feed"/>
+        <updated>2022-03-10T20:01:23.000Z</updated>
+        <summary type="html"><![CDATA[<em>The Atlantic</em> Daily: A Mess of Putin’s Own Making]]></summary>
+        <author>
+            <name>Caroline Mimbs Nyce</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[這些阿富汗婦女正被塔利班追殺]]></title>
+        <id>https://www.theatlantic.com/international/archive/2022/03/afghanistan-withdrawal-left-behind-women-soldiers/627022/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/international/archive/2022/03/afghanistan-withdrawal-left-behind-women-soldiers/627022/?utm_source=feed"/>
+        <updated>2022-03-10T19:58:49.000Z</updated>
+        <summary type="html"><![CDATA[These Afghan Women Are Being Hunted by the Taliban]]></summary>
+        <author>
+            <name>George Packer</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為兒童接種疫苗從未如此簡單]]></title>
+        <id>https://www.theatlantic.com/health/archive/2022/03/covid-vaccination-kids-measles-polio/627026/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/health/archive/2022/03/covid-vaccination-kids-measles-polio/627026/?utm_source=feed"/>
+        <updated>2022-03-10T19:30:57.000Z</updated>
+        <summary type="html"><![CDATA[Vaccinating Kids Has Never Been Easy]]></summary>
+        <author>
+            <name>Sarah Zhang</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一位留守的俄羅斯記者]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/a-russian-journalist-who-stayed-behind</id>
+        <link href="https://www.newyorker.com/news/daily-comment/a-russian-journalist-who-stayed-behind"/>
+        <updated>2022-03-10T18:34:29.000Z</updated>
+        <summary type="html"><![CDATA[A Russian Journalist Who Stayed Behind]]></summary>
+        <author>
+            <name>David Remnick</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我在享受大自然的失敗嘗試中的想法]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/thoughts-i-had-during-my-failed-attempts-to-enjoy-nature</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/thoughts-i-had-during-my-failed-attempts-to-enjoy-nature"/>
+        <updated>2022-03-10T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Thoughts I Had During My Failed Attempts to Enjoy Nature]]></summary>
+        <author>
+            <name>Ginny Hogan, Lex Singer</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尼加拉瓜的革命自食其果]]></title>
+        <id>https://www.newyorker.com/news/news-desk/the-revolution-eats-itself-in-nicaragua</id>
+        <link href="https://www.newyorker.com/news/news-desk/the-revolution-eats-itself-in-nicaragua"/>
+        <updated>2022-03-10T19:02:02.000Z</updated>
+        <summary type="html"><![CDATA[The Revolution Eats Itself in Nicaragua]]></summary>
+        <author>
+            <name>Alma Guillermoprieto</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年冬季殘奧會的場景]]></title>
+        <id>https://www.theatlantic.com/photo/2022/03/scenes-2022-winter-paralympics/627020/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/photo/2022/03/scenes-2022-winter-paralympics/627020/?utm_source=feed"/>
+        <updated>2022-03-10T18:52:26.000Z</updated>
+        <summary type="html"><![CDATA[Scenes From the 2022 Winter Paralympics]]></summary>
+        <author>
+            <name>Alan Taylor</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微軟對氣候目標的追求遇到了阻力]]></title>
+        <id>https://www.nytimes.com/2022/03/10/business/microsoft-climate-carbon-emissions.html</id>
+        <link href="https://www.nytimes.com/2022/03/10/business/microsoft-climate-carbon-emissions.html"/>
+        <updated>2022-03-10T18:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft’s Pursuit of Climate Goals Runs Into Headwinds]]></summary>
+        <author>
+            <name>Peter Eavis</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一封浪漫的推薦信]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/a-letter-of-romantic-recommendation</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/a-letter-of-romantic-recommendation"/>
+        <updated>2022-03-10T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Letter of Romantic Recommendation]]></summary>
+        <author>
+            <name>Dennard Dayle</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[落名：2022年3月10日，星期四]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/10</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/10"/>
+        <updated>2022-03-10T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Name Drop: Thursday, March 10, 2022]]></summary>
+        <author>
+            <name>Will Nediger</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日漫畫。3月10日，星期四]]></title>
+        <id>https://www.newyorker.com/cartoons/daily-cartoon/thursday-march-10th-should-we-go-to-the-movies</id>
+        <link href="https://www.newyorker.com/cartoons/daily-cartoon/thursday-march-10th-should-we-go-to-the-movies"/>
+        <updated>2022-03-10T16:49:58.000Z</updated>
+        <summary type="html"><![CDATA[Daily Cartoon: Thursday, March 10th]]></summary>
+        <author>
+            <name>Jared Nangle</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[做一個完美的亞裔美國人的難處]]></title>
+        <id>https://www.newyorker.com/culture/cultural-comment/the-difficulty-of-being-a-perfect-asian-american</id>
+        <link href="https://www.newyorker.com/culture/cultural-comment/the-difficulty-of-being-a-perfect-asian-american"/>
+        <updated>2022-03-10T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Difficulty of Being a Perfect Asian American]]></summary>
+        <author>
+            <name>Hua Hsu</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[戶外之聲的Ty Haney在Web3空間成立了新公司]]></title>
+        <id>https://www.nytimes.com/2022/03/10/style/ty-haney-outdoor-voices-try-your-best.html</id>
+        <link href="https://www.nytimes.com/2022/03/10/style/ty-haney-outdoor-voices-try-your-best.html"/>
+        <updated>2022-03-10T15:14:49.000Z</updated>
+        <summary type="html"><![CDATA[Outdoor Voices’ Ty Haney Starts New Company in Web3 Space]]></summary>
+        <author>
+            <name>Anna P. Kambhampaty and Sapna Maheshwari</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你還愛著隨身聽嗎？]]></title>
+        <id>https://www.nytimes.com/2022/03/10/technology/walkman-nostalgia.html</id>
+        <link href="https://www.nytimes.com/2022/03/10/technology/walkman-nostalgia.html"/>
+        <updated>2022-03-10T17:18:23.000Z</updated>
+        <summary type="html"><![CDATA[Do You Still Love the Walkman?]]></summary>
+        <author>
+            <name>Shira Ovide</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於戰爭，俄羅斯人被告知的4個錯誤信息]]></title>
+        <id>https://www.nytimes.com/2022/03/10/technology/disinformation-russia-ukraine.html</id>
+        <link href="https://www.nytimes.com/2022/03/10/technology/disinformation-russia-ukraine.html"/>
+        <updated>2022-03-10T14:58:16.000Z</updated>
+        <summary type="html"><![CDATA[4 Falsehoods Russians Are Told About the War]]></summary>
+        <author>
+            <name>Stuart A. Thompson</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[對西方來說，最壞的情況還沒有到來]]></title>
+        <id>https://www.theatlantic.com/international/archive/2022/03/western-unity-putin-russia-ukraine/627013/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/international/archive/2022/03/western-unity-putin-russia-ukraine/627013/?utm_source=feed"/>
+        <updated>2022-03-10T16:42:46.000Z</updated>
+        <summary type="html"><![CDATA[For the West, the Worst Is Yet to Come]]></summary>
+        <author>
+            <name>Tom McTague</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[成年人正在失去它]]></title>
+        <id>https://www.theatlantic.com/magazine/archive/2022/04/pandemic-politics-public-schools/622824/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/magazine/archive/2022/04/pandemic-politics-public-schools/622824/?utm_source=feed"/>
+        <updated>2022-03-10T16:39:44.000Z</updated>
+        <summary type="html"><![CDATA[The Grown-Ups Are Losing It]]></summary>
+        <author>
+            <name>George Packer</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯的經濟停擺將改變世界]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/03/russia-economic-sanctions-wheat-oil/627004/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/russia-economic-sanctions-wheat-oil/627004/?utm_source=feed"/>
+        <updated>2022-03-10T16:56:53.000Z</updated>
+        <summary type="html"><![CDATA[Russia’s Economic Blackout Will Change the World]]></summary>
+        <author>
+            <name>Derek Thompson</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尋找更多成為局外人的方法]]></title>
+        <id>https://www.theatlantic.com/family/archive/2022/03/being-an-outsider-benefits-third-culture-kids/627011/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/family/archive/2022/03/being-an-outsider-benefits-third-culture-kids/627011/?utm_source=feed"/>
+        <updated>2022-03-10T16:59:47.000Z</updated>
+        <summary type="html"><![CDATA[Find More Ways to Be an Outsider]]></summary>
+        <author>
+            <name>Arthur C. Brooks</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[制裁能阻止俄羅斯嗎？]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/russia-sanctions-economic-policy-effects/627009/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/russia-sanctions-economic-policy-effects/627009/?utm_source=feed"/>
+        <updated>2022-03-10T17:15:08.000Z</updated>
+        <summary type="html"><![CDATA[Can Sanctions Stop Russia?]]></summary>
+        <author>
+            <name>Annie Lowrey</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我看了俄羅斯電視，所以你不必看。]]></title>
+        <id>https://www.theatlantic.com/politics/archive/2022/03/how-russian-tv-portrays-war-ukraine/627010/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/politics/archive/2022/03/how-russian-tv-portrays-war-ukraine/627010/?utm_source=feed"/>
+        <updated>2022-03-10T12:31:33.000Z</updated>
+        <summary type="html"><![CDATA[I Watched Russian TV So You Don’t Have To]]></summary>
+        <author>
+            <name>Olga Khazan</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭文學對俄羅斯一直以來的理解]]></title>
+        <id>https://www.theatlantic.com/books/archive/2022/03/ukrainian-books-resistance-russia-imperialism/626977/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/books/archive/2022/03/ukrainian-books-resistance-russia-imperialism/626977/?utm_source=feed"/>
+        <updated>2022-03-10T14:30:44.000Z</updated>
+        <summary type="html"><![CDATA[What Ukrainian Literature Has Always Understood About Russia]]></summary>
+        <author>
+            <name>Uilleam Blacker</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第一次TikTok戰爭 "的神話]]></title>
+        <id>https://www.theatlantic.com/technology/archive/2022/03/tiktok-war-ukraine-russia/627017/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/technology/archive/2022/03/tiktok-war-ukraine-russia/627017/?utm_source=feed"/>
+        <updated>2022-03-10T16:01:34.000Z</updated>
+        <summary type="html"><![CDATA[The Myth of the ‘First TikTok War’]]></summary>
+        <author>
+            <name>Kaitlyn Tiffany</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[想了解紅州的攻勢嗎？看看佛羅里達州吧。]]></title>
+        <id>https://www.theatlantic.com/politics/archive/2022/03/florida-dont-say-gay-law/627021/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/politics/archive/2022/03/florida-dont-say-gay-law/627021/?utm_source=feed"/>
+        <updated>2022-03-10T17:21:35.000Z</updated>
+        <summary type="html"><![CDATA[Want to Understand the Red-State Onslaught? Look at Florida.]]></summary>
+        <author>
+            <name>Ronald Brownstein</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[餐館接種疫苗的規定被設定為失敗。]]></title>
+        <id>https://www.theatlantic.com/health/archive/2022/03/covid-vaccine-mandate-restaurant/627018/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/health/archive/2022/03/covid-vaccine-mandate-restaurant/627018/?utm_source=feed"/>
+        <updated>2022-03-10T17:13:14.000Z</updated>
+        <summary type="html"><![CDATA[Restaurant Vaccine Mandates Were Set Up to Fail]]></summary>
+        <author>
+            <name>Rachel Gutman</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大流行病一直是一個毫無意義的故事]]></title>
+        <id>https://www.theatlantic.com/family/archive/2022/03/covid-pandemic-story-two-years/627023/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/family/archive/2022/03/covid-pandemic-story-two-years/627023/?utm_source=feed"/>
+        <updated>2022-03-10T17:08:50.000Z</updated>
+        <summary type="html"><![CDATA[The Pandemic Has Been a Story That Makes No Sense]]></summary>
+        <author>
+            <name>Joe Pinsker</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[這些是烏克蘭抵抗的聲音]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/03/ukraine-war-music-history/627024/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/03/ukraine-war-music-history/627024/?utm_source=feed"/>
+        <updated>2022-03-10T17:18:38.000Z</updated>
+        <summary type="html"><![CDATA[These Are the Sounds of Ukrainian Resistance]]></summary>
+        <author>
+            <name>Spencer Kornhaber</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對未醒來的學者的建議？]]></title>
         <id>https://astralcodexten.substack.com/p/advice-for-unwoke-academic</id>
