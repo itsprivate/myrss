@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/magazine/archive/2022/04/jack-kerouac-neal-cassady-friendship/622829/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/magazine/archive/2022/04/jack-kerouac-neal-cassady-friendship/622829/?utm_source=feed",
+            "title": "杰克和尼尔的故事",
+            "summary": "The Story of Jack and Neal",
+            "date_modified": "2022-03-11T12:00:57.000Z",
+            "author": {
+                "name": "James Parker",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/politics/archive/2022/03/republicans-ukraine-russia-war-putin-trump/627019/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/politics/archive/2022/03/republicans-ukraine-russia-war-putin-trump/627019/?utm_source=feed",
+            "title": "共和党人与普京划清界限",
+            "summary": "Republicans Draw the Line at Putin",
+            "date_modified": "2022-03-11T12:00:56.000Z",
+            "author": {
+                "name": "Elaine Godfrey",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/family/archive/2022/03/covid-babies-toddler-growth-development/627030/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/family/archive/2022/03/covid-babies-toddler-growth-development/627030/?utm_source=feed",
+            "title": "COVID的孩子们现在正在学步",
+            "summary": "The COVID Babies Are Toddlers Now",
+            "date_modified": "2022-03-11T12:00:56.000Z",
+            "author": {
+                "name": "Lydia Denworth",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/magazine/2022/03/21/dionne-warwicks-flawless-voice",
             "content_html": "",
             "url": "https://www.newyorker.com/magazine/2022/03/21/dionne-warwicks-flawless-voice",
