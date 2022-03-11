@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-11T15:38:42.984Z</updated>
+    <updated>2022-03-11T15:48:08.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯开始宣布Facebook的母公司Meta为 "极端主义 "组织的进程。]]></title>
+        <id>https://www.nytimes.com/live/2022/03/11/world/ukraine-russia-news/russia-starts-the-process-of-declaring-facebooks-parent-meta-an-extremist-organization</id>
+        <link href="https://www.nytimes.com/live/2022/03/11/world/ukraine-russia-news/russia-starts-the-process-of-declaring-facebooks-parent-meta-an-extremist-organization"/>
+        <updated>2022-03-11T15:17:51.000Z</updated>
+        <summary type="html"><![CDATA[Russia starts the process of declaring Facebook’s parent, Meta, an ‘extremist’ organization.]]></summary>
+        <author>
+            <name>Ivan Nechepurenko and Adam Satariano</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们仍然不知道长线COVID的风险]]></title>
+        <id>https://www.theatlantic.com/health/archive/2022/03/long-covid-risk/627031/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/health/archive/2022/03/long-covid-risk/627031/?utm_source=feed"/>
+        <updated>2022-03-11T15:37:10.000Z</updated>
+        <summary type="html"><![CDATA[We Still Don’t Know the Risk of Long COVID]]></summary>
+        <author>
+            <name>Katherine J. Wu</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[争夺我们的注意力]]></title>
         <id>https://www.theatlantic.com/books/archive/2022/03/books-briefing-tim-wu-mary-oliver-hannah-arendt/627007/?utm_source=feed</id>
