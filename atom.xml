@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-11T10:15:14.434Z</updated>
+    <updated>2022-03-11T11:12:26.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[迪翁-沃里克的无暇之音]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/21/dionne-warwicks-flawless-voice</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/21/dionne-warwicks-flawless-voice"/>
+        <updated>2022-03-11T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dionne Warwick’s Flawless Voice]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[棍子! 他们不能做什么？]]></title>
+        <id>https://www.newyorker.com/video/watch/stickworld</id>
+        <link href="https://www.newyorker.com/video/watch/stickworld"/>
+        <updated>2022-03-11T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sticks! What Can’t They Do?]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在 "棍子世界"，棍子长在树上]]></title>
+        <id>https://www.newyorker.com/culture/screening-room/in-stickworld-sticks-grow-on-trees</id>
+        <link href="https://www.newyorker.com/culture/screening-room/in-stickworld-sticks-grow-on-trees"/>
+        <updated>2022-03-11T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In “Stickworld,” Sticks Grow on Trees]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[克罗默]]></title>
+        <id>https://www.theatlantic.com/magazine/archive/2022/04/paul-yoon-short-story-cromer/622828/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/magazine/archive/2022/04/paul-yoon-short-story-cromer/622828/?utm_source=feed"/>
+        <updated>2022-03-11T11:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Cromer]]></summary>
+        <author>
+            <name>Paul Yoon</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰-俄罗斯危机的核词汇]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/nuclear-glossary-ukraine-russia-crisis/627025/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/nuclear-glossary-ukraine-russia-crisis/627025/?utm_source=feed"/>
+        <updated>2022-03-11T11:00:56.000Z</updated>
+        <summary type="html"><![CDATA[A Nuclear Glossary for the Ukraine-Russia Crisis]]></summary>
+        <author>
+            <name>Tom Nichols</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[应用程序和橙子。苹果在商标上 "欺负 "的背后]]></title>
         <id>https://www.nytimes.com/2022/03/11/technology/apple-trademarks.html</id>
