@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/newsletters/archive/2022/03/the-food-war/627037/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/newsletters/archive/2022/03/the-food-war/627037/?utm_source=feed",
+            "title": "<em>《大西洋日报》<em>。食品即将变得更加昂贵",
+            "summary": "<em>The Atlantic </em>Daily: Food Is About to Get More Expensive",
+            "date_modified": "2022-03-11T18:03:51.000Z",
+            "author": {
+                "name": "Caroline Mimbs Nyce",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/books/archive/2022/03/ukraine-russia-war-books-history/627032/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/books/archive/2022/03/ukraine-russia-war-books-history/627032/?utm_source=feed",
+            "title": "了解乌克兰战争要读的九本书",
+            "summary": "Nine Books to Read to Understand the War in Ukraine",
+            "date_modified": "2022-03-11T17:45:07.000Z",
+            "author": {
+                "name": "Marci Shore",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/cartoons/daily-cartoon/friday-march-11th-desert-gas",
             "content_html": "",
             "url": "https://www.newyorker.com/cartoons/daily-cartoon/friday-march-11th-desert-gas",
