@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 11 Mar 2022 15:48:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 16:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我想象的未來既不是烏托邦式的也不是歇斯底里式的]]></title>
+            <link>https://www.theatlantic.com/culture/archive/2022/03/after-yang-colin-farrell-kogonada-interview/627034/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/culture/archive/2022/03/after-yang-colin-farrell-kogonada-interview/627034/?utm_source=feed</guid>
+            <pubDate>Fri, 11 Mar 2022 15:56:56 GMT</pubDate>
+            <description><![CDATA[‘I Imagined a Future That Was Neither Utopian nor Dystopian’]]></description>
+        </item>
         <item>
             <title><![CDATA[俄羅斯開始宣佈Facebook的母公司Meta為 "極端主義 "組織的進程。]]></title>
             <link>https://www.nytimes.com/live/2022/03/11/world/ukraine-russia-news/russia-starts-the-process-of-declaring-facebooks-parent-meta-an-extremist-organization</link>
