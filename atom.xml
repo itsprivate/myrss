@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-11T21:31:04.160Z</updated>
+    <updated>2022-03-11T21:52:51.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[暴君的弱点]]></title>
+        <id>https://www.newyorker.com/news/q-and-a/stephen-kotkin-putin-russia-ukraine-stalin</id>
+        <link href="https://www.newyorker.com/news/q-and-a/stephen-kotkin-putin-russia-ukraine-stalin"/>
+        <updated>2022-03-11T21:35:38.000Z</updated>
+        <summary type="html"><![CDATA[The Weakness of the Despot]]></summary>
+        <author>
+            <name>David Remnick</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[驾驭生存 "如何重塑一级方程式赛车]]></title>
         <id>https://www.newyorker.com/culture/culture-desk/how-drive-to-survive-remade-formula-1</id>
