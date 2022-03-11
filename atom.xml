@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-11T22:33:09.913Z</updated>
+    <updated>2022-03-11T23:14:15.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在家与受德克萨斯州新的反运输令影响的家庭在一起]]></title>
+        <id>https://www.newyorker.com/news/letter-from-the-southwest/at-home-with-the-families-affected-by-texass-new-anti-trans-orders</id>
+        <link href="https://www.newyorker.com/news/letter-from-the-southwest/at-home-with-the-families-affected-by-texass-new-anti-trans-orders"/>
+        <updated>2022-03-09T21:36:28.000Z</updated>
+        <summary type="html"><![CDATA[At Home with the Families Affected by Texas’s New Anti-Trans Orders]]></summary>
+        <author>
+            <name>Rachel Monroe</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拜登禁止俄罗斯石油的做法是否正确？]]></title>
         <id>https://www.theatlantic.com/newsletters/archive/2022/03/was-biden-right-to-ban-russian-oil/627045/?utm_source=feed</id>

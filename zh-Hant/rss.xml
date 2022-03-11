@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 11 Mar 2022 22:33:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 23:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在家與受德克薩斯州新的反運輸令影響的家庭在一起]]></title>
+            <link>https://www.newyorker.com/news/letter-from-the-southwest/at-home-with-the-families-affected-by-texass-new-anti-trans-orders</link>
+            <guid>https://www.newyorker.com/news/letter-from-the-southwest/at-home-with-the-families-affected-by-texass-new-anti-trans-orders</guid>
+            <pubDate>Wed, 09 Mar 2022 21:36:28 GMT</pubDate>
+            <description><![CDATA[At Home with the Families Affected by Texas’s New Anti-Trans Orders]]></description>
+        </item>
         <item>
             <title><![CDATA[拜登禁止俄羅斯石油的做法是否正確？]]></title>
             <link>https://www.theatlantic.com/newsletters/archive/2022/03/was-biden-right-to-ban-russian-oil/627045/?utm_source=feed</link>
