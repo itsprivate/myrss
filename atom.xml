@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-11T16:16:49.777Z</updated>
+    <updated>2022-03-11T17:07:41.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[比特币的价值在俄乌战争和通货膨胀中下跌]]></title>
+        <id>https://www.nytimes.com/2022/03/11/technology/bitcoin-ukraine-russia-roose.html</id>
+        <link href="https://www.nytimes.com/2022/03/11/technology/bitcoin-ukraine-russia-roose.html"/>
+        <updated>2022-03-11T16:50:08.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin’s Value Drops Amid Russia-Urkaine War and Inflation]]></summary>
+        <author>
+            <name>Kevin Roose</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[市场排名。反SEO排名的算法]]></title>
+        <id>https://dkb.io/post/market-rank</id>
+        <link href="https://dkb.io/post/market-rank"/>
+        <updated>2022-03-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MarketRank: The Anti-SEO Ranking Algorithm]]></summary>
+        <author>
+            <name>dkb@dkb.fyi (dkb)</name>
+            <uri>https://dkb.io/rss.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我想象的未来既不是乌托邦式的也不是歇斯底里式的]]></title>
         <id>https://www.theatlantic.com/culture/archive/2022/03/after-yang-colin-farrell-kogonada-interview/627034/?utm_source=feed</id>
