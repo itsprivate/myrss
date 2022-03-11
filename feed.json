@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/q-and-a/the-russian-militarys-debacle-in-ukraine",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/q-and-a/the-russian-militarys-debacle-in-ukraine",
+            "title": "俄罗斯军队在乌克兰的溃败",
+            "summary": "The Russian Military’s Debacle in Ukraine",
+            "date_modified": "2022-03-11T23:13:48.000Z",
+            "author": {
+                "name": "Isaac Chotiner",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour/putins-descent-into-despotism-and-jane-campion-on-the-power-of-the-dog",
+            "content_html": "",
+            "url": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour/putins-descent-into-despotism-and-jane-campion-on-the-power-of-the-dog",
+            "title": "普京堕入专制主义，简-坎皮恩谈 \"狗的力量\"",
+            "summary": "Putin’s Descent Into Despotism, and Jane Campion on “The Power of the Dog”",
+            "date_modified": "2022-03-11T22:56:06.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/03/11/technology/duckduckgo-russia-disinformation.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/11/technology/duckduckgo-russia-disinformation.html",
+            "title": "在搜索引擎DuckDuckGo发誓限制俄罗斯的宣传后，极右派提出抱怨。",
+            "summary": "The far right complains after the search engine DuckDuckGo vows to limit Russian propaganda.",
+            "date_modified": "2022-03-11T23:21:56.000Z",
+            "author": {
+                "name": "Stuart A. Thompson",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/letter-from-the-southwest/at-home-with-the-families-affected-by-texass-new-anti-trans-orders",
             "content_html": "",
             "url": "https://www.newyorker.com/news/letter-from-the-southwest/at-home-with-the-families-affected-by-texass-new-anti-trans-orders",

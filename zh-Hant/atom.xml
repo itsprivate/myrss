@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-11T23:14:16.031Z</updated>
+    <updated>2022-03-11T23:33:19.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯軍隊在烏克蘭的潰敗]]></title>
+        <id>https://www.newyorker.com/news/q-and-a/the-russian-militarys-debacle-in-ukraine</id>
+        <link href="https://www.newyorker.com/news/q-and-a/the-russian-militarys-debacle-in-ukraine"/>
+        <updated>2022-03-11T23:13:48.000Z</updated>
+        <summary type="html"><![CDATA[The Russian Military’s Debacle in Ukraine]]></summary>
+        <author>
+            <name>Isaac Chotiner</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[普京墮入專制主義，簡-坎皮恩談 "狗的力量"]]></title>
+        <id>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/putins-descent-into-despotism-and-jane-campion-on-the-power-of-the-dog</id>
+        <link href="https://www.newyorker.com/podcast/the-new-yorker-radio-hour/putins-descent-into-despotism-and-jane-campion-on-the-power-of-the-dog"/>
+        <updated>2022-03-11T22:56:06.000Z</updated>
+        <summary type="html"><![CDATA[Putin’s Descent Into Despotism, and Jane Campion on “The Power of the Dog”]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在搜索引擎DuckDuckGo發誓限制俄羅斯的宣傳後，極右派提出抱怨。]]></title>
+        <id>https://www.nytimes.com/2022/03/11/technology/duckduckgo-russia-disinformation.html</id>
+        <link href="https://www.nytimes.com/2022/03/11/technology/duckduckgo-russia-disinformation.html"/>
+        <updated>2022-03-11T23:21:56.000Z</updated>
+        <summary type="html"><![CDATA[The far right complains after the search engine DuckDuckGo vows to limit Russian propaganda.]]></summary>
+        <author>
+            <name>Stuart A. Thompson</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在家與受德克薩斯州新的反運輸令影響的家庭在一起]]></title>
         <id>https://www.newyorker.com/news/letter-from-the-southwest/at-home-with-the-families-affected-by-texass-new-anti-trans-orders</id>
