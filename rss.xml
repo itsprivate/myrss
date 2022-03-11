@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 11 Mar 2022 19:38:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 19:52:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[偷来的尿布的意义]]></title>
+            <link>https://www.newyorker.com/news/our-local-correspondents/the-meaning-of-a-stolen-diaper</link>
+            <guid>https://www.newyorker.com/news/our-local-correspondents/the-meaning-of-a-stolen-diaper</guid>
+            <pubDate>Fri, 11 Mar 2022 19:30:00 GMT</pubDate>
+            <description><![CDATA[The Meaning of a Stolen Diaper]]></description>
+        </item>
         <item>
             <title><![CDATA[隐秘的公开主题214.5]]></title>
             <link>https://astralcodexten.substack.com/p/hidden-open-thread-2145</link>
