@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-11T22:15:33.076Z</updated>
+    <updated>2022-03-11T22:33:09.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[拜登禁止俄罗斯石油的做法是否正确？]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/03/was-biden-right-to-ban-russian-oil/627045/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/was-biden-right-to-ban-russian-oil/627045/?utm_source=feed"/>
+        <updated>2022-03-11T22:19:39.000Z</updated>
+        <summary type="html"><![CDATA[Was Biden Right to Ban Russian Oil?]]></summary>
+        <author>
+            <name>Conor Friedersdorf</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暴君的弱点]]></title>
         <id>https://www.newyorker.com/news/q-and-a/stephen-kotkin-putin-russia-ukraine-stalin</id>
