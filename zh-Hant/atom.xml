@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-11T21:13:35.759Z</updated>
+    <updated>2022-03-11T21:31:04.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[駕馭生存 "如何重塑一級方程式賽車]]></title>
+        <id>https://www.newyorker.com/culture/culture-desk/how-drive-to-survive-remade-formula-1</id>
+        <link href="https://www.newyorker.com/culture/culture-desk/how-drive-to-survive-remade-formula-1"/>
+        <updated>2022-03-11T21:03:46.000Z</updated>
+        <summary type="html"><![CDATA[How “Drive to Survive” Remade Formula 1]]></summary>
+        <author>
+            <name>Carrie Battan</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於爵士樂的最偉大的電影之一]]></title>
         <id>https://www.newyorker.com/culture/culture-desk/one-of-the-greatest-movies-about-jazz</id>
