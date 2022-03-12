@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/magazine/ukraine-postcard",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/ukraine-postcard",
+            "title": "乌克兰明信片",
+            "summary": "Ukraine Postcard",
+            "date_modified": "2022-03-12T04:35:30.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/magazine/dream-role",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/dream-role",
+            "title": "梦想的角色",
+            "summary": "Dream Role",
+            "date_modified": "2022-03-12T04:35:30.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/q-and-a/the-russian-militarys-debacle-in-ukraine",
             "content_html": "",
             "url": "https://www.newyorker.com/news/q-and-a/the-russian-militarys-debacle-in-ukraine",
