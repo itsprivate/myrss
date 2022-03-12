@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/magazine/2022/03/21/what-the-russian-invasion-has-done-to-ukraine",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/03/21/what-the-russian-invasion-has-done-to-ukraine",
+            "title": "俄羅斯入侵對烏克蘭造成的影響",
+            "summary": "What the Russian Invasion Has Done to Ukraine",
+            "date_modified": "2022-03-12T11:00:00.000Z",
+            "author": {
+                "name": "Joshua Yaffa",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/technology/archive/2022/03/gas-prices-high-drive-slow/627039/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/technology/archive/2022/03/gas-prices-high-drive-slow/627039/?utm_source=feed",
