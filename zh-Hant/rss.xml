@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 12 Mar 2022 08:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 10:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[隨著NFTs的普及，一些收藏家正在發財。]]></title>
+            <link>https://www.nytimes.com/2022/03/12/style/nft-art-profit.html</link>
+            <guid>https://www.nytimes.com/2022/03/12/style/nft-art-profit.html</guid>
+            <pubDate>Sat, 12 Mar 2022 10:00:08 GMT</pubDate>
+            <description><![CDATA[As NFTs Grow in Popularity, Some Collectors Are Striking it Rich]]></description>
+        </item>
+        <item>
+            <title><![CDATA[世界應做好準備迎接烏克蘭的長期戰爭]]></title>
+            <link>https://www.theatlantic.com/international/archive/2022/03/how-long-will-ukraine-russia-war-last/627036/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/international/archive/2022/03/how-long-will-ukraine-russia-war-last/627036/?utm_source=feed</guid>
+            <pubDate>Sat, 12 Mar 2022 10:00:56 GMT</pubDate>
+            <description><![CDATA[The World Should Brace for a Long War in Ukraine]]></description>
+        </item>
         <item>
             <title><![CDATA[烏克蘭部長把數字工具變成了現代戰爭武器]]></title>
             <link>https://www.nytimes.com/2022/03/12/technology/ukraine-minister-war-digital.html</link>

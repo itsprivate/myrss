@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/12/style/nft-art-profit.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/12/style/nft-art-profit.html",
+            "title": "随着NFTs的普及，一些收藏家正在发财。",
+            "summary": "As NFTs Grow in Popularity, Some Collectors Are Striking it Rich",
+            "date_modified": "2022-03-12T10:00:08.000Z",
+            "author": {
+                "name": "Alyson Krueger",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/international/archive/2022/03/how-long-will-ukraine-russia-war-last/627036/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/international/archive/2022/03/how-long-will-ukraine-russia-war-last/627036/?utm_source=feed",
+            "title": "世界应做好准备迎接乌克兰的长期战争",
+            "summary": "The World Should Brace for a Long War in Ukraine",
+            "date_modified": "2022-03-12T10:00:56.000Z",
+            "author": {
+                "name": "Yasmeen Serhan",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/12/technology/ukraine-minister-war-digital.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/12/technology/ukraine-minister-war-digital.html",
