@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-12T10:13:28.470Z</updated>
+    <updated>2022-03-12T11:11:45.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在波特兰度假一周后，我真的感觉到我不能住在任何地方]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/after-vacationing-for-a-week-in-portland-i-really-feel-that-i-cannot-live-anywhere</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/after-vacationing-for-a-week-in-portland-i-really-feel-that-i-cannot-live-anywhere"/>
+        <updated>2022-03-12T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After Vacationing for a Week in Portland, I Really Feel That I Cannot Live Anywhere]]></summary>
+        <author>
+            <name>Jonathan Zeller</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beatrix Potter的秘密生活]]></title>
+        <id>https://www.newyorker.com/news/letter-from-the-uk/the-secret-life-of-beatrix-potter</id>
+        <link href="https://www.newyorker.com/news/letter-from-the-uk/the-secret-life-of-beatrix-potter"/>
+        <updated>2022-03-12T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Secret Life of Beatrix Potter]]></summary>
+        <author>
+            <name>Anna Russell</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[随着NFTs的普及，一些收藏家正在发财。]]></title>
         <id>https://www.nytimes.com/2022/03/12/style/nft-art-profit.html</id>
