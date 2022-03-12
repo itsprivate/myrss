@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-12T17:51:58.268Z</updated>
+    <updated>2022-03-12T18:13:52.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[教皇、牧首和拯救乌克兰的战斗]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/the-pope-the-patriarchs-and-the-battle-to-save-ukraine</id>
+        <link href="https://www.newyorker.com/news/daily-comment/the-pope-the-patriarchs-and-the-battle-to-save-ukraine"/>
+        <updated>2022-03-12T17:37:45.000Z</updated>
+        <summary type="html"><![CDATA[The Pope, the Patriarchs, and the Battle to Save Ukraine]]></summary>
+        <author>
+            <name>Paul Elie</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不平等使布兰妮-格里纳陷入严重困境]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/brittney-griner-russia-wnba-inequality/627048/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/brittney-griner-russia-wnba-inequality/627048/?utm_source=feed"/>
+        <updated>2022-03-12T17:56:08.000Z</updated>
+        <summary type="html"><![CDATA[Inequality Put Brittney Griner in Serious Trouble]]></summary>
+        <author>
+            <name>Jemele Hill</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[教皇、牧首和拯救乌克兰的战斗]]></title>
         <id>https://www.newyorker.com/news/daily-comment/the-pope-the-patriarchs-and-the-battle-to-save-ukraine</id>

@@ -19,6 +19,30 @@
             "date_modified": "2022-03-12T17:37:45.000Z",
             "author": {
                 "name": "Paul Elie",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/03/brittney-griner-russia-wnba-inequality/627048/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/03/brittney-griner-russia-wnba-inequality/627048/?utm_source=feed",
+            "title": "不平等使布蘭妮-格里納陷入嚴重困境",
+            "summary": "Inequality Put Brittney Griner in Serious Trouble",
+            "date_modified": "2022-03-12T17:56:08.000Z",
+            "author": {
+                "name": "Jemele Hill",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/daily-comment/the-pope-the-patriarchs-and-the-battle-to-save-ukraine",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/daily-comment/the-pope-the-patriarchs-and-the-battle-to-save-ukraine",
+            "title": "教皇、牧首和拯救烏克蘭的戰鬥",
+            "summary": "The Pope, the Patriarchs, and the Battle to Save Ukraine",
+            "date_modified": "2022-03-12T17:37:45.000Z",
+            "author": {
+                "name": "Paul Elie",
                 "url": "https://www.newyorker.com/feed/news"
             }
         },
