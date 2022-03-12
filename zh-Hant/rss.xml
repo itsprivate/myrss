@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 12 Mar 2022 12:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 13:33:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為美國開慢車]]></title>
+            <link>https://www.theatlantic.com/technology/archive/2022/03/gas-prices-high-drive-slow/627039/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/technology/archive/2022/03/gas-prices-high-drive-slow/627039/?utm_source=feed</guid>
+            <pubDate>Sat, 12 Mar 2022 13:00:56 GMT</pubDate>
+            <description><![CDATA[Drive Slow for America]]></description>
+        </item>
         <item>
             <title><![CDATA[我今天不會死在那條溝裡的"。]]></title>
             <link>https://www.theatlantic.com/ideas/archive/2022/03/writing-controversial-opinions-journalism/627014/?utm_source=feed</link>
