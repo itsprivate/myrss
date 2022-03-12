@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/12/business/rt-america-russian-tv.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/12/business/rt-america-russian-tv.html",
+            "title": "为俄罗斯国家电视台工作是一种什么样的体验",
+            "summary": "What It Was Like to Work for Russian State Television",
+            "date_modified": "2022-03-12T16:26:23.000Z",
+            "author": {
+                "name": "Cecilia Kang",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/magazine/2022/03/21/waiting-for-the-endurance",
             "content_html": "",
             "url": "https://www.newyorker.com/magazine/2022/03/21/waiting-for-the-endurance",

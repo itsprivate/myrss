@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 12 Mar 2022 15:33:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 17:31:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为俄罗斯国家电视台工作是一种什么样的体验]]></title>
+            <link>https://www.nytimes.com/2022/03/12/business/rt-america-russian-tv.html</link>
+            <guid>https://www.nytimes.com/2022/03/12/business/rt-america-russian-tv.html</guid>
+            <pubDate>Sat, 12 Mar 2022 16:26:23 GMT</pubDate>
+            <description><![CDATA[What It Was Like to Work for Russian State Television]]></description>
+        </item>
         <item>
             <title><![CDATA[等待耐力]]></title>
             <link>https://www.newyorker.com/magazine/2022/03/21/waiting-for-the-endurance</link>

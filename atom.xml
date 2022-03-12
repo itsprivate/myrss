@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-12T15:33:32.497Z</updated>
+    <updated>2022-03-12T17:31:38.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为俄罗斯国家电视台工作是一种什么样的体验]]></title>
+        <id>https://www.nytimes.com/2022/03/12/business/rt-america-russian-tv.html</id>
+        <link href="https://www.nytimes.com/2022/03/12/business/rt-america-russian-tv.html"/>
+        <updated>2022-03-12T16:26:23.000Z</updated>
+        <summary type="html"><![CDATA[What It Was Like to Work for Russian State Television]]></summary>
+        <author>
+            <name>Cecilia Kang</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[等待耐力]]></title>
         <id>https://www.newyorker.com/magazine/2022/03/21/waiting-for-the-endurance</id>
