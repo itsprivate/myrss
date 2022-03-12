@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-12T04:41:47.428Z</updated>
+    <updated>2022-03-12T08:14:22.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭部長把數字工具變成了現代戰爭武器]]></title>
+        <id>https://www.nytimes.com/2022/03/12/technology/ukraine-minister-war-digital.html</id>
+        <link href="https://www.nytimes.com/2022/03/12/technology/ukraine-minister-war-digital.html"/>
+        <updated>2022-03-12T08:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Ukrainian Minister Has Turned Digital Tools Into Modern Weapons of War]]></summary>
+        <author>
+            <name>Adam Satariano</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[烏克蘭明信片]]></title>
         <id>https://www.newyorker.com/magazine/ukraine-postcard</id>

@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/12/technology/ukraine-minister-war-digital.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/12/technology/ukraine-minister-war-digital.html",
+            "title": "烏克蘭部長把數字工具變成了現代戰爭武器",
+            "summary": "Ukrainian Minister Has Turned Digital Tools Into Modern Weapons of War",
+            "date_modified": "2022-03-12T08:00:09.000Z",
+            "author": {
+                "name": "Adam Satariano",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/magazine/ukraine-postcard",
             "content_html": "",
             "url": "https://www.newyorker.com/magazine/ukraine-postcard",
