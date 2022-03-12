@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/letter-from-the-uk/the-secret-life-of-beatrix-potter",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/letter-from-the-uk/the-secret-life-of-beatrix-potter",
+            "title": "Beatrix Potter的秘密生活",
+            "summary": "The Secret Life of Beatrix Potter",
+            "date_modified": "2022-03-12T11:00:00.000Z",
+            "author": {
+                "name": "Anna Russell",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/culture/archive/2022/03/hollywood-russia-boycott/627042/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/culture/archive/2022/03/hollywood-russia-boycott/627042/?utm_source=feed",
+            "title": "好萊塢抵制俄羅斯的四點啟示",
+            "summary": "Four Takeaways From Hollywood’s Boycott of Russia",
+            "date_modified": "2022-03-12T11:01:56.000Z",
+            "author": {
+                "name": "Shirley Li",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/humor/daily-shouts/after-vacationing-for-a-week-in-portland-i-really-feel-that-i-cannot-live-anywhere",
             "content_html": "",
             "url": "https://www.newyorker.com/humor/daily-shouts/after-vacationing-for-a-week-in-portland-i-really-feel-that-i-cannot-live-anywhere",
