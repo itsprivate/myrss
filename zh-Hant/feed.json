@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/03/writing-controversial-opinions-journalism/627014/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/03/writing-controversial-opinions-journalism/627014/?utm_source=feed",
+            "title": "我今天不會死在那條溝裡的\"。",
+            "summary": "‘I’m Not Going to Die in That Ditch Today’",
+            "date_modified": "2022-03-12T12:01:56.000Z",
+            "author": {
+                "name": "Sarah Hepola",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/03/a-uniquely-perilous-moment/627040/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/03/a-uniquely-perilous-moment/627040/?utm_source=feed",
+            "title": "這是一個獨特的危險時刻",
+            "summary": "This Is a Uniquely Perilous Moment",
+            "date_modified": "2022-03-12T12:01:57.000Z",
+            "author": {
+                "name": "David French",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/letter-from-the-uk/the-secret-life-of-beatrix-potter",
             "content_html": "",
             "url": "https://www.newyorker.com/news/letter-from-the-uk/the-secret-life-of-beatrix-potter",
