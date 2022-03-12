@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/daily-comment/the-pope-the-patriarchs-and-the-battle-to-save-ukraine",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/daily-comment/the-pope-the-patriarchs-and-the-battle-to-save-ukraine",
+            "title": "教皇、牧首和拯救乌克兰的战斗",
+            "summary": "The Pope, the Patriarchs, and the Battle to Save Ukraine",
+            "date_modified": "2022-03-12T17:37:45.000Z",
+            "author": {
+                "name": "Paul Elie",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/newsletters/archive/2022/03/womens-history-month-feminism-sexism/627047/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/newsletters/archive/2022/03/womens-history-month-feminism-sexism/627047/?utm_source=feed",
+            "title": "<em>《大西洋日报》<em>日报。女权主义从来都不够用",
+            "summary": "<em>The Atlantic </em>Daily: Feminism Has Never Been Enough",
+            "date_modified": "2022-03-12T17:44:55.000Z",
+            "author": {
+                "name": "Caroline Mimbs Nyce",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/12/business/rt-america-russian-tv.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/12/business/rt-america-russian-tv.html",

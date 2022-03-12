@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-12T17:31:38.983Z</updated>
+    <updated>2022-03-12T17:51:58.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[教皇、牧首和拯救烏克蘭的戰鬥]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/the-pope-the-patriarchs-and-the-battle-to-save-ukraine</id>
+        <link href="https://www.newyorker.com/news/daily-comment/the-pope-the-patriarchs-and-the-battle-to-save-ukraine"/>
+        <updated>2022-03-12T17:37:45.000Z</updated>
+        <summary type="html"><![CDATA[The Pope, the Patriarchs, and the Battle to Save Ukraine]]></summary>
+        <author>
+            <name>Paul Elie</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<em>《大西洋日報》<em>日報。女權主義從來都不夠用]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/03/womens-history-month-feminism-sexism/627047/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/womens-history-month-feminism-sexism/627047/?utm_source=feed"/>
+        <updated>2022-03-12T17:44:55.000Z</updated>
+        <summary type="html"><![CDATA[<em>The Atlantic </em>Daily: Feminism Has Never Been Enough]]></summary>
+        <author>
+            <name>Caroline Mimbs Nyce</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為俄羅斯國家電視臺工作是一種什麼樣的體驗]]></title>
         <id>https://www.nytimes.com/2022/03/12/business/rt-america-russian-tv.html</id>
