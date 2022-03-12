@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-12T14:51:56.329Z</updated>
+    <updated>2022-03-12T15:33:32.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[等待耐力]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/21/waiting-for-the-endurance</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/21/waiting-for-the-endurance"/>
+        <updated>2022-03-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Waiting for the Endurance]]></summary>
+        <author>
+            <name>Adam Iscoe</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯入侵对乌克兰造成的影响]]></title>
         <id>https://www.newyorker.com/magazine/2022/03/21/what-the-russian-invasion-has-done-to-ukraine</id>

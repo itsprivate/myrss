@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/magazine/2022/03/21/waiting-for-the-endurance",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/03/21/waiting-for-the-endurance",
+            "title": "等待耐力",
+            "summary": "Waiting for the Endurance",
+            "date_modified": "2022-03-12T15:00:00.000Z",
+            "author": {
+                "name": "Adam Iscoe",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/magazine/2022/03/21/what-the-russian-invasion-has-done-to-ukraine",
             "content_html": "",
             "url": "https://www.newyorker.com/magazine/2022/03/21/what-the-russian-invasion-has-done-to-ukraine",
