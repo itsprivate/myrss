@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-13T12:16:06.532Z</updated>
+    <updated>2022-03-13T16:48:43.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亞馬遜圍棋<em>SNL<em>圖的簡單輝煌]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/03/snl-zoe-kravitz-amazon-go/627050/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/03/snl-zoe-kravitz-amazon-go/627050/?utm_source=feed"/>
+        <updated>2022-03-13T16:16:15.000Z</updated>
+        <summary type="html"><![CDATA[The Simple Brilliance of That Amazon Go <em>SNL </em>Sketch]]></summary>
+        <author>
+            <name>Amanda Wicks</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[感受牧民]]></title>
         <id>https://www.theatlantic.com/technology/archive/2022/03/what-cow-therapy-taught-me/627044/?utm_source=feed</id>

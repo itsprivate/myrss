@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sun, 13 Mar 2022 12:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 16:48:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[亚马逊围棋<em>SNL<em>图的简单辉煌]]></title>
+            <link>https://www.theatlantic.com/culture/archive/2022/03/snl-zoe-kravitz-amazon-go/627050/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/culture/archive/2022/03/snl-zoe-kravitz-amazon-go/627050/?utm_source=feed</guid>
+            <pubDate>Sun, 13 Mar 2022 16:16:15 GMT</pubDate>
+            <description><![CDATA[The Simple Brilliance of That Amazon Go <em>SNL </em>Sketch]]></description>
+        </item>
         <item>
             <title><![CDATA[感受牧民]]></title>
             <link>https://www.theatlantic.com/technology/archive/2022/03/what-cow-therapy-taught-me/627044/?utm_source=feed</link>
