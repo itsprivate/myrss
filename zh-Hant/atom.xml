@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-12T18:13:52.491Z</updated>
+    <updated>2022-03-13T00:36:39.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[偉大的美國二戰故事]]></title>
+        <id>https://www.currentaffairs.org/2022/03/the-great-american-world-war-ii-story/</id>
+        <link href="https://www.currentaffairs.org/2022/03/the-great-american-world-war-ii-story/"/>
+        <updated>2022-03-12T19:32:44.000Z</updated>
+        <summary type="html"><![CDATA[The Great American World War II Story]]></summary>
+        <author>
+            <name>Nathan J. Robinson</name>
+            <uri>https://www.currentaffairs.org/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[教皇、牧首和拯救烏克蘭的戰鬥]]></title>
         <id>https://www.newyorker.com/news/daily-comment/the-pope-the-patriarchs-and-the-battle-to-save-ukraine</id>

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 12 Mar 2022 18:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 00:36:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[伟大的美国二战故事]]></title>
+            <link>https://www.currentaffairs.org/2022/03/the-great-american-world-war-ii-story/</link>
+            <guid>https://www.currentaffairs.org/2022/03/the-great-american-world-war-ii-story/</guid>
+            <pubDate>Sat, 12 Mar 2022 19:32:44 GMT</pubDate>
+            <description><![CDATA[The Great American World War II Story]]></description>
+        </item>
         <item>
             <title><![CDATA[教皇、牧首和拯救乌克兰的战斗]]></title>
             <link>https://www.newyorker.com/news/daily-comment/the-pope-the-patriarchs-and-the-battle-to-save-ukraine</link>
