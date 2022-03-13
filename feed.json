@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/13/business/energy-environment/california-off-grid.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/13/business/energy-environment/california-off-grid.html",
+            "title": "对公用事业感到失望，一些加州人正在离开电网",
+            "summary": "Frustrated With Utilities, Some Californians Are Leaving the Grid",
+            "date_modified": "2022-03-13T21:02:50.000Z",
+            "author": {
+                "name": "Ivan Penn",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/culture/cultural-comment/volodymyr-zelenskys-comedic-courage",
             "content_html": "",
             "url": "https://www.newyorker.com/culture/cultural-comment/volodymyr-zelenskys-comedic-courage",
