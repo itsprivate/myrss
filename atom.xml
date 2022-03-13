@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-13T00:36:39.339Z</updated>
+    <updated>2022-03-13T09:11:25.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[背对乌克兰的民主国家]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/india-military-support-russia-ukraine-war/627035/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/india-military-support-russia-ukraine-war/627035/?utm_source=feed"/>
+        <updated>2022-03-13T09:00:56.000Z</updated>
+        <summary type="html"><![CDATA[The Democracy Turning Its Back on Ukraine]]></summary>
+        <author>
+            <name>Rajeswari Pillai Rajagopalan</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[伟大的美国二战故事]]></title>
         <id>https://www.currentaffairs.org/2022/03/the-great-american-world-war-ii-story/</id>
