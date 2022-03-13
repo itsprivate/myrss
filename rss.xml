@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sun, 13 Mar 2022 19:53:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 20:33:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[沃洛迪米尔-泽伦斯基的喜剧勇气]]></title>
+            <link>https://www.newyorker.com/culture/cultural-comment/volodymyr-zelenskys-comedic-courage</link>
+            <guid>https://www.newyorker.com/culture/cultural-comment/volodymyr-zelenskys-comedic-courage</guid>
+            <pubDate>Sun, 13 Mar 2022 20:12:00 GMT</pubDate>
+            <description><![CDATA[Volodymyr Zelensky’s Comedic Courage]]></description>
+        </item>
         <item>
             <title><![CDATA[开放话题215]]></title>
             <link>https://astralcodexten.substack.com/p/open-thread-215</link>
