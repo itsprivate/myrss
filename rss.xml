@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sun, 13 Mar 2022 09:11:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 10:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,48 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[未开发的 "星球大战 "衍生品创意]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/untapped-star-wars-spinoff-ideas</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/untapped-star-wars-spinoff-ideas</guid>
+            <pubDate>Sun, 13 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Untapped “Star Wars” Spinoff Ideas]]></description>
+        </item>
+        <item>
+            <title><![CDATA[密码字谜：2022年3月13日，星期日]]></title>
+            <link>https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/03/13</link>
+            <guid>https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/03/13</guid>
+            <pubDate>Sun, 13 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Cryptic Crossword: Sunday, March 13, 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[特朗普主义的乌克兰责备游戏]]></title>
+            <link>https://www.newyorker.com/magazine/2022/03/21/the-trumpist-ukraine-blame-game</link>
+            <guid>https://www.newyorker.com/magazine/2022/03/21/the-trumpist-ukraine-blame-game</guid>
+            <pubDate>Sun, 13 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Trumpist Ukraine Blame Game]]></description>
+        </item>
+        <item>
+            <title><![CDATA[烹饪的乐趣 亵渎性的融合食物]]></title>
+            <link>https://www.newyorker.com/culture/kitchen-notes/the-joy-of-cooking-blasphemous-fusion-food</link>
+            <guid>https://www.newyorker.com/culture/kitchen-notes/the-joy-of-cooking-blasphemous-fusion-food</guid>
+            <pubDate>Sun, 13 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Joy of Cooking Blasphemous Fusion Food]]></description>
+        </item>
+        <item>
+            <title><![CDATA[星期日阅读。海伦-罗斯纳的世界]]></title>
+            <link>https://www.newyorker.com/books/double-take/sunday-reading-the-world-of-helen-rosner</link>
+            <guid>https://www.newyorker.com/books/double-take/sunday-reading-the-world-of-helen-rosner</guid>
+            <pubDate>Sun, 13 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Sunday Reading: The World of Helen Rosner]]></description>
+        </item>
+        <item>
+            <title><![CDATA[莎拉-波利无法讲述的故事]]></title>
+            <link>https://www.newyorker.com/culture/the-new-yorker-interview/the-stories-sarah-polley-couldnt-tell</link>
+            <guid>https://www.newyorker.com/culture/the-new-yorker-interview/the-stories-sarah-polley-couldnt-tell</guid>
+            <pubDate>Sun, 13 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Stories Sarah Polley Couldn’t Tell]]></description>
+        </item>
         <item>
             <title><![CDATA[背对乌克兰的民主国家]]></title>
             <link>https://www.theatlantic.com/ideas/archive/2022/03/india-military-support-russia-ukraine-war/627035/?utm_source=feed</link>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-13T09:11:25.196Z</updated>
+    <updated>2022-03-13T10:14:22.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[未开发的 "星球大战 "衍生品创意]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/untapped-star-wars-spinoff-ideas</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/untapped-star-wars-spinoff-ideas"/>
+        <updated>2022-03-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Untapped “Star Wars” Spinoff Ideas]]></summary>
+        <author>
+            <name>Ward Sutton</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[密码字谜：2022年3月13日，星期日]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/03/13</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/03/13"/>
+        <updated>2022-03-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Cryptic Crossword: Sunday, March 13, 2022]]></summary>
+        <author>
+            <name>Patrick Berry</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普主义的乌克兰责备游戏]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/21/the-trumpist-ukraine-blame-game</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/21/the-trumpist-ukraine-blame-game"/>
+        <updated>2022-03-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Trumpist Ukraine Blame Game]]></summary>
+        <author>
+            <name>Amy Davidson Sorkin</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[烹饪的乐趣 亵渎性的融合食物]]></title>
+        <id>https://www.newyorker.com/culture/kitchen-notes/the-joy-of-cooking-blasphemous-fusion-food</id>
+        <link href="https://www.newyorker.com/culture/kitchen-notes/the-joy-of-cooking-blasphemous-fusion-food"/>
+        <updated>2022-03-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Joy of Cooking Blasphemous Fusion Food]]></summary>
+        <author>
+            <name>Danny Chau</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[星期日阅读。海伦-罗斯纳的世界]]></title>
+        <id>https://www.newyorker.com/books/double-take/sunday-reading-the-world-of-helen-rosner</id>
+        <link href="https://www.newyorker.com/books/double-take/sunday-reading-the-world-of-helen-rosner"/>
+        <updated>2022-03-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sunday Reading: The World of Helen Rosner]]></summary>
+        <author>
+            <name>The New Yorker</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[莎拉-波利无法讲述的故事]]></title>
+        <id>https://www.newyorker.com/culture/the-new-yorker-interview/the-stories-sarah-polley-couldnt-tell</id>
+        <link href="https://www.newyorker.com/culture/the-new-yorker-interview/the-stories-sarah-polley-couldnt-tell"/>
+        <updated>2022-03-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Stories Sarah Polley Couldn’t Tell]]></summary>
+        <author>
+            <name>Alexandra Schwartz</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[背对乌克兰的民主国家]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/03/india-military-support-russia-ukraine-war/627035/?utm_source=feed</id>
