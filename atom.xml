@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-13T11:11:26.906Z</updated>
+    <updated>2022-03-13T12:16:06.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[感受牧民]]></title>
+        <id>https://www.theatlantic.com/technology/archive/2022/03/what-cow-therapy-taught-me/627044/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/technology/archive/2022/03/what-cow-therapy-taught-me/627044/?utm_source=feed"/>
+        <updated>2022-03-13T12:01:57.000Z</updated>
+        <summary type="html"><![CDATA[Feeling Herd]]></summary>
+        <author>
+            <name>Ian Bogost</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[夜星]]></title>
+        <id>https://www.theatlantic.com/books/archive/2022/03/poem-richie-hofmann-night-star/627046/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/books/archive/2022/03/poem-richie-hofmann-night-star/627046/?utm_source=feed"/>
+        <updated>2022-03-13T12:01:57.000Z</updated>
+        <summary type="html"><![CDATA[Night Star]]></summary>
+        <author>
+            <name>Richie Hofmann</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们已经走到了历史的转折点]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/03/ben-rhodes-alexey-navalny-maria-stepanova/627049/?utm_source=feed</id>
