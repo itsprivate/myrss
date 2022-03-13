@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/books/double-take/sunday-reading-the-world-of-helen-rosner",
+            "content_html": "",
+            "url": "https://www.newyorker.com/books/double-take/sunday-reading-the-world-of-helen-rosner",
+            "title": "星期日閱讀。海倫-羅斯納的世界",
+            "summary": "Sunday Reading: The World of Helen Rosner",
+            "date_modified": "2022-03-13T10:00:00.000Z",
+            "author": {
+                "name": "The New Yorker",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/humor/daily-shouts/untapped-star-wars-spinoff-ideas",
             "content_html": "",
             "url": "https://www.newyorker.com/humor/daily-shouts/untapped-star-wars-spinoff-ideas",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-13T10:14:22.089Z</updated>
+    <updated>2022-03-13T10:33:54.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[星期日閱讀。海倫-羅斯納的世界]]></title>
+        <id>https://www.newyorker.com/books/double-take/sunday-reading-the-world-of-helen-rosner</id>
+        <link href="https://www.newyorker.com/books/double-take/sunday-reading-the-world-of-helen-rosner"/>
+        <updated>2022-03-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sunday Reading: The World of Helen Rosner]]></summary>
+        <author>
+            <name>The New Yorker</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[未開發的 "星球大戰 "衍生品創意]]></title>
         <id>https://www.newyorker.com/humor/daily-shouts/untapped-star-wars-spinoff-ideas</id>
