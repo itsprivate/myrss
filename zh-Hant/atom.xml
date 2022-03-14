@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-14T12:51:35.149Z</updated>
+    <updated>2022-03-14T13:39:36.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["木犀牛屋"，扎克-威廉姆斯著]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/21/wood-sorrel-house</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/21/wood-sorrel-house"/>
+        <updated>2022-03-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“Wood Sorrel House,” by Zach Williams]]></summary>
+        <author>
+            <name>Zach Williams</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼反工廠化農業運動需要直接行動？]]></title>
         <id>https://www.currentaffairs.org/2022/03/why-the-anti-factory-farming-movement-needs-direct-action/</id>
