@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/14/technology/ukraine-fox-news-benjamin-hall.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/14/technology/ukraine-fox-news-benjamin-hall.html",
+            "title": "福克斯新闻记者本杰明-霍尔在乌克兰受伤",
+            "summary": "Fox News Correspondent Benjamin Hall Is Injured in Ukraine",
+            "date_modified": "2022-03-14T21:13:10.000Z",
+            "author": {
+                "name": "Michael M. Grynbaum",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/podcast/politics-and-more/stephen-kotkin-dont-blame-the-west-for-russias-invasion-of-ukraine",
             "content_html": "",
             "url": "https://www.newyorker.com/podcast/politics-and-more/stephen-kotkin-dont-blame-the-west-for-russias-invasion-of-ukraine",

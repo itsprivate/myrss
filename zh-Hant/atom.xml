@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-14T20:35:19.621Z</updated>
+    <updated>2022-03-14T21:38:33.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[福克斯新聞記者本傑明-霍爾在烏克蘭受傷]]></title>
+        <id>https://www.nytimes.com/2022/03/14/technology/ukraine-fox-news-benjamin-hall.html</id>
+        <link href="https://www.nytimes.com/2022/03/14/technology/ukraine-fox-news-benjamin-hall.html"/>
+        <updated>2022-03-14T21:13:10.000Z</updated>
+        <summary type="html"><![CDATA[Fox News Correspondent Benjamin Hall Is Injured in Ukraine]]></summary>
+        <author>
+            <name>Michael M. Grynbaum</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[斯蒂芬-科特金。不要把俄羅斯入侵烏克蘭的責任歸咎於西方]]></title>
         <id>https://www.newyorker.com/podcast/politics-and-more/stephen-kotkin-dont-blame-the-west-for-russias-invasion-of-ukraine</id>
