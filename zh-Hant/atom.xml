@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-14T16:15:42.110Z</updated>
+    <updated>2022-03-14T16:50:18.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Lizzie和Kaitlyn去威廉斯堡]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/03/lizzie-and-kaitlyn-go-to-williamsburg/627055/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/lizzie-and-kaitlyn-go-to-williamsburg/627055/?utm_source=feed"/>
+        <updated>2022-03-14T16:00:15.000Z</updated>
+        <summary type="html"><![CDATA[Lizzie and Kaitlyn Go to Williamsburg]]></summary>
+        <author>
+            <name>Kaitlyn Tiffany</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日漫畫。3月14日，星期一]]></title>
         <id>https://www.newyorker.com/cartoons/daily-cartoon/monday-march-14th-daylight-saving-time</id>
