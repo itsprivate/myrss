@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-14T19:10:59.956Z</updated>
+    <updated>2022-03-14T19:37:18.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[福克斯新聞記者本傑明-霍爾在烏克蘭受傷]]></title>
+        <id>https://www.nytimes.com/2022/03/14/technology/fox-news-benjamin-hall-injured-ukraine.html</id>
+        <link href="https://www.nytimes.com/2022/03/14/technology/fox-news-benjamin-hall-injured-ukraine.html"/>
+        <updated>2022-03-14T19:29:44.000Z</updated>
+        <summary type="html"><![CDATA[Fox News Correspondent Benjamin Hall Is Injured in Ukraine]]></summary>
+        <author>
+            <name>Michael M. Grynbaum</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[納夫塔利-貝內特在烏克蘭和伊朗問題上與弗拉基米爾-普京接觸的精心努力]]></title>
         <id>https://www.newyorker.com/news/daily-comment/naftali-bennetts-calculated-effort-to-engage-with-vladimir-putin-on-ukraine-and-iran</id>

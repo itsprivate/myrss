@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/14/technology/fox-news-benjamin-hall-injured-ukraine.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/14/technology/fox-news-benjamin-hall-injured-ukraine.html",
+            "title": "福克斯新聞記者本傑明-霍爾在烏克蘭受傷",
+            "summary": "Fox News Correspondent Benjamin Hall Is Injured in Ukraine",
+            "date_modified": "2022-03-14T19:29:44.000Z",
+            "author": {
+                "name": "Michael M. Grynbaum",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/daily-comment/naftali-bennetts-calculated-effort-to-engage-with-vladimir-putin-on-ukraine-and-iran",
             "content_html": "",
             "url": "https://www.newyorker.com/news/daily-comment/naftali-bennetts-calculated-effort-to-engage-with-vladimir-putin-on-ukraine-and-iran",
