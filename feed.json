@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/magazine/2022/03/21/literatures-most-controversial-nobel-laureate",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/03/21/literatures-most-controversial-nobel-laureate",
+            "title": "文学界最具争议性的诺贝尔奖获得者",
+            "summary": "Literature’s Most Controversial Nobel Laureate",
+            "date_modified": "2022-03-14T10:00:00.000Z",
+            "author": {
+                "name": "Ruth Franklin",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/ideas/archive/2022/03/ukraine-united-states-nato/627052/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/ideas/archive/2022/03/ukraine-united-states-nato/627052/?utm_source=feed",

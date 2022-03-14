@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-14T10:36:05.732Z</updated>
+    <updated>2022-03-14T11:11:10.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[文學界最具爭議性的諾貝爾獎獲得者]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/21/literatures-most-controversial-nobel-laureate</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/21/literatures-most-controversial-nobel-laureate"/>
+        <updated>2022-03-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Literature’s Most Controversial Nobel Laureate]]></summary>
+        <author>
+            <name>Ruth Franklin</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國的猶豫不決令人心碎]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/03/ukraine-united-states-nato/627052/?utm_source=feed</id>

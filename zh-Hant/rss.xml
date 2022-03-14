@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 14 Mar 2022 10:36:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 11:11:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[文學界最具爭議性的諾貝爾獎獲得者]]></title>
+            <link>https://www.newyorker.com/magazine/2022/03/21/literatures-most-controversial-nobel-laureate</link>
+            <guid>https://www.newyorker.com/magazine/2022/03/21/literatures-most-controversial-nobel-laureate</guid>
+            <pubDate>Mon, 14 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Literature’s Most Controversial Nobel Laureate]]></description>
+        </item>
         <item>
             <title><![CDATA[美國的猶豫不決令人心碎]]></title>
             <link>https://www.theatlantic.com/ideas/archive/2022/03/ukraine-united-states-nato/627052/?utm_source=feed</link>
