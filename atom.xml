@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-14T16:50:18.746Z</updated>
+    <updated>2022-03-14T18:15:33.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你所需要的最后一份文学冲突指南]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/the-last-guide-to-literary-conflict-youll-ever-need</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/the-last-guide-to-literary-conflict-youll-ever-need"/>
+        <updated>2022-03-14T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Last Guide to Literary Conflict You’ll Ever Need]]></summary>
+        <author>
+            <name>Rachelle Meyer</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[终极粘人的男友]]></title>
+        <id>https://www.theatlantic.com/science/archive/2022/03/colombian-toad-mating-amplexus/627057/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/science/archive/2022/03/colombian-toad-mating-amplexus/627057/?utm_source=feed"/>
+        <updated>2022-03-14T17:50:18.000Z</updated>
+        <summary type="html"><![CDATA[The Ultimate Clingy Boyfriend]]></summary>
+        <author>
+            <name>Katherine J. Wu</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lizzie和Kaitlyn去威廉斯堡]]></title>
         <id>https://www.theatlantic.com/newsletters/archive/2022/03/lizzie-and-kaitlyn-go-to-williamsburg/627055/?utm_source=feed</id>

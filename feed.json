@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/humor/daily-shouts/the-last-guide-to-literary-conflict-youll-ever-need",
+            "content_html": "",
+            "url": "https://www.newyorker.com/humor/daily-shouts/the-last-guide-to-literary-conflict-youll-ever-need",
+            "title": "你所需要的最后一份文学冲突指南",
+            "summary": "The Last Guide to Literary Conflict You’ll Ever Need",
+            "date_modified": "2022-03-14T18:00:00.000Z",
+            "author": {
+                "name": "Rachelle Meyer",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/science/archive/2022/03/colombian-toad-mating-amplexus/627057/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/science/archive/2022/03/colombian-toad-mating-amplexus/627057/?utm_source=feed",
+            "title": "终极粘人的男友",
+            "summary": "The Ultimate Clingy Boyfriend",
+            "date_modified": "2022-03-14T17:50:18.000Z",
+            "author": {
+                "name": "Katherine J. Wu",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/newsletters/archive/2022/03/lizzie-and-kaitlyn-go-to-williamsburg/627055/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/newsletters/archive/2022/03/lizzie-and-kaitlyn-go-to-williamsburg/627055/?utm_source=feed",
