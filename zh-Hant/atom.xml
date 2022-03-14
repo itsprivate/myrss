@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-14T13:52:04.857Z</updated>
+    <updated>2022-03-14T15:37:43.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[特朗普提出幫助俄羅斯申請破產]]></title>
+        <id>https://www.newyorker.com/humor/borowitz-report/trump-offers-to-help-russia-file-for-bankruptcy</id>
+        <link href="https://www.newyorker.com/humor/borowitz-report/trump-offers-to-help-russia-file-for-bankruptcy"/>
+        <updated>2022-03-14T14:58:10.000Z</updated>
+        <summary type="html"><![CDATA[Trump Offers to Help Russia File for Bankruptcy]]></summary>
+        <author>
+            <name>Andy Borowitz</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果第三次世界大戰已經開始了呢？]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/what-if-world-war-iii-has-already-started/627054/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/what-if-world-war-iii-has-already-started/627054/?utm_source=feed"/>
+        <updated>2022-03-14T15:00:24.000Z</updated>
+        <summary type="html"><![CDATA[What If World War III Has Already Started?]]></summary>
+        <author>
+            <name>Veronika Melkozerova</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果iPhone SE評論。一款為反消費者設計的手機]]></title>
         <id>https://www.nytimes.com/2022/03/14/technology/personaltech/apple-iphone-se-review.html</id>
