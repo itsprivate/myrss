@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-13T21:13:10.866Z</updated>
+    <updated>2022-03-14T00:41:10.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是時候把普京在烏克蘭的戰爭稱為種族滅絕了嗎？]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/is-it-time-to-call-putins-war-in-ukraine-genocide</id>
+        <link href="https://www.newyorker.com/news/daily-comment/is-it-time-to-call-putins-war-in-ukraine-genocide"/>
+        <updated>2022-03-13T23:51:50.000Z</updated>
+        <summary type="html"><![CDATA[Is It Time to Call Putin’s War in Ukraine Genocide?]]></summary>
+        <author>
+            <name>Philip Gourevitch</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對公用事業感到失望，一些加州人正在離開電網]]></title>
         <id>https://www.nytimes.com/2022/03/13/business/energy-environment/california-off-grid.html</id>
