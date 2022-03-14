@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-14T15:37:43.135Z</updated>
+    <updated>2022-03-14T16:15:42.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每日漫画。3月14日，星期一]]></title>
+        <id>https://www.newyorker.com/cartoons/daily-cartoon/monday-march-14th-daylight-saving-time</id>
+        <link href="https://www.newyorker.com/cartoons/daily-cartoon/monday-march-14th-daylight-saving-time"/>
+        <updated>2022-03-14T15:53:25.000Z</updated>
+        <summary type="html"><![CDATA[Daily Cartoon: Monday, March 14th]]></summary>
+        <author>
+            <name>Ellis Rosen</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[特朗普提出帮助俄罗斯申请破产]]></title>
         <id>https://www.newyorker.com/humor/borowitz-report/trump-offers-to-help-russia-file-for-bankruptcy</id>
