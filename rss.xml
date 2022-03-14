@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 14 Mar 2022 18:38:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 19:10:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[纳夫塔利-贝内特在乌克兰和伊朗问题上与弗拉基米尔-普京接触的精心努力]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/naftali-bennetts-calculated-effort-to-engage-with-vladimir-putin-on-ukraine-and-iran</link>
+            <guid>https://www.newyorker.com/news/daily-comment/naftali-bennetts-calculated-effort-to-engage-with-vladimir-putin-on-ukraine-and-iran</guid>
+            <pubDate>Mon, 14 Mar 2022 18:51:19 GMT</pubDate>
+            <description><![CDATA[Naftali Bennett’s Calculated Effort to Engage With Vladimir Putin on Ukraine—and Iran]]></description>
+        </item>
         <item>
             <title><![CDATA[Mantic 3/14/22星期一]]></title>
             <link>https://astralcodexten.substack.com/p/mantic-monday-31422</link>
