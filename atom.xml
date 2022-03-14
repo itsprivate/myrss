@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-14T11:11:10.675Z</updated>
+    <updated>2022-03-14T11:29:19.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[爱尔兰如何误入现代世界？]]></title>
+        <id>https://www.theatlantic.com/magazine/archive/2022/04/fintan-otoole-we-dont-know-ourselves-review/622830/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/magazine/archive/2022/04/fintan-otoole-we-dont-know-ourselves-review/622830/?utm_source=feed"/>
+        <updated>2022-03-14T11:01:57.000Z</updated>
+        <summary type="html"><![CDATA[How Ireland Blundered Into the Modern World]]></summary>
+        <author>
+            <name>Cullen Murphy</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俗气与陈腐之间的关键性区别]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/03/the-crucial-difference-between-cheesy-and-corny/627038/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/the-crucial-difference-between-cheesy-and-corny/627038/?utm_source=feed"/>
+        <updated>2022-03-14T11:01:56.000Z</updated>
+        <summary type="html"><![CDATA[The Crucial Difference Between Cheesy and Corny]]></summary>
+        <author>
+            <name>Caleb Madison</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[文学界最具争议性的诺贝尔奖获得者]]></title>
         <id>https://www.newyorker.com/magazine/2022/03/21/literatures-most-controversial-nobel-laureate</id>
