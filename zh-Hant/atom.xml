@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-14T11:29:20.004Z</updated>
+    <updated>2022-03-14T12:17:24.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[乙醇。為普京提供動力的燃料]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/gas-prices-ethanol-subsidies-putin/627053/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/gas-prices-ethanol-subsidies-putin/627053/?utm_source=feed"/>
+        <updated>2022-03-14T12:10:06.000Z</updated>
+        <summary type="html"><![CDATA[Ethanol: The Fuel That Powers Putin]]></summary>
+        <author>
+            <name>David Frum</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[愛爾蘭如何誤入現代世界？]]></title>
         <id>https://www.theatlantic.com/magazine/archive/2022/04/fintan-otoole-we-dont-know-ourselves-review/622830/?utm_source=feed</id>
