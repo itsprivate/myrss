@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-14T13:39:36.635Z</updated>
+    <updated>2022-03-14T13:52:04.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蘋果iPhone SE評論。一款為反消費者設計的手機]]></title>
+        <id>https://www.nytimes.com/2022/03/14/technology/personaltech/apple-iphone-se-review.html</id>
+        <link href="https://www.nytimes.com/2022/03/14/technology/personaltech/apple-iphone-se-review.html"/>
+        <updated>2022-03-14T13:47:25.000Z</updated>
+        <summary type="html"><![CDATA[Apple iPhone SE Review: A Phone for the Anti-Consumer]]></summary>
+        <author>
+            <name>Brian X. Chen</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["木犀牛屋"，扎克-威廉姆斯著]]></title>
         <id>https://www.newyorker.com/magazine/2022/03/21/wood-sorrel-house</id>
