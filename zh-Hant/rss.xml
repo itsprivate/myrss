@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 14 Mar 2022 00:41:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 04:52:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[卡通字幕大賽]]></title>
+            <link>https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-03-21</link>
+            <guid>https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-03-21</guid>
+            <pubDate>Mon, 14 Mar 2022 04:05:00 GMT</pubDate>
+            <description><![CDATA[Cartoon Caption Contest]]></description>
+        </item>
         <item>
             <title><![CDATA[是時候把普京在烏克蘭的戰爭稱為種族滅絕了嗎？]]></title>
             <link>https://www.newyorker.com/news/daily-comment/is-it-time-to-call-putins-war-in-ukraine-genocide</link>
