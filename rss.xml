@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 14 Mar 2022 19:37:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 20:35:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[斯蒂芬-科特金。不要把俄罗斯入侵乌克兰的责任归咎于西方]]></title>
+            <link>https://www.newyorker.com/podcast/politics-and-more/stephen-kotkin-dont-blame-the-west-for-russias-invasion-of-ukraine</link>
+            <guid>https://www.newyorker.com/podcast/politics-and-more/stephen-kotkin-dont-blame-the-west-for-russias-invasion-of-ukraine</guid>
+            <pubDate>Mon, 14 Mar 2022 20:11:17 GMT</pubDate>
+            <description><![CDATA[Stephen Kotkin: Don’t Blame the West for Russia’s Invasion of Ukraine]]></description>
+        </item>
+        <item>
+            <title><![CDATA[福克斯新闻记者本杰明-霍尔在乌克兰受伤]]></title>
+            <link>https://www.nytimes.com/2022/03/14/technology/ukraine-fox-news-benjamin.html</link>
+            <guid>https://www.nytimes.com/2022/03/14/technology/ukraine-fox-news-benjamin.html</guid>
+            <pubDate>Mon, 14 Mar 2022 19:36:16 GMT</pubDate>
+            <description><![CDATA[Fox News Correspondent Benjamin Hall Is Injured in Ukraine]]></description>
+        </item>
         <item>
             <title><![CDATA[福克斯新闻记者本杰明-霍尔在乌克兰受伤]]></title>
             <link>https://www.nytimes.com/2022/03/14/technology/fox-news-benjamin-hall-injured-ukraine.html</link>
