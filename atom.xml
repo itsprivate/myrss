@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-14T09:13:42.080Z</updated>
+    <updated>2022-03-14T10:14:53.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,105 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[中国女人》中的历史课]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/21/history-lessons-in-the-chinese-lady</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/21/history-lessons-in-the-chinese-lady"/>
+        <updated>2022-03-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[History Lessons in “The Chinese Lady”]]></summary>
+        <author>
+            <name>Vinson Cunningham</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[落名：2022年3月14日，星期一]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/14</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/14"/>
+        <updated>2022-03-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Name Drop: Monday, March 14, 2022]]></summary>
+        <author>
+            <name>Matt Jackson</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[幻灯片展示。纽约客》漫画2022年3月21日刊]]></title>
+        <id>https://www.newyorker.com/gallery/cartoons-from-the-march-21-2022-issue</id>
+        <link href="https://www.newyorker.com/gallery/cartoons-from-the-march-21-2022-issue"/>
+        <updated>2022-03-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Slide Show: New Yorker Cartoons March 21, 2022, Issue]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Bel-Air "和 "Abbott Elementary "重新启动和恢复网络情景喜剧]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/21/bel-air-and-abbott-elementary-reboot-and-revive-the-network-sitcom</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/21/bel-air-and-abbott-elementary-reboot-and-revive-the-network-sitcom"/>
+        <updated>2022-03-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“Bel-Air” and “Abbott Elementary” Reboot and Revive the Network Sitcom]]></summary>
+        <author>
+            <name>Doreen St. Félix</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的小说被盗的感受]]></title>
+        <id>https://www.newyorker.com/books/page-turner/how-it-felt-to-have-my-novel-stolen</id>
+        <link href="https://www.newyorker.com/books/page-turner/how-it-felt-to-have-my-novel-stolen"/>
+        <updated>2022-03-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How It Felt to Have My Novel Stolen]]></summary>
+        <author>
+            <name>Peter C. Baker</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安娜-胡安的 "祖国"]]></title>
+        <id>https://www.newyorker.com/culture/cover-story/cover-story-2022-03-21</id>
+        <link href="https://www.newyorker.com/culture/cover-story/cover-story-2022-03-21"/>
+        <updated>2022-03-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ana Juan’s “Motherland”]]></summary>
+        <author>
+            <name>Françoise Mouly</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[扎克-威廉姆斯谈放开逻辑]]></title>
+        <id>https://www.newyorker.com/books/this-week-in-fiction/zach-williams-03-21-22</id>
+        <link href="https://www.newyorker.com/books/this-week-in-fiction/zach-williams-03-21-22"/>
+        <updated>2022-03-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Zach Williams on Letting Go of Logic]]></summary>
+        <author>
+            <name>Deborah Treisman</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰战争对美国经济的威胁有多大？]]></title>
+        <id>https://www.newyorker.com/news/our-columnists/how-big-a-threat-to-the-us-economy-is-the-war-in-ukraine</id>
+        <link href="https://www.newyorker.com/news/our-columnists/how-big-a-threat-to-the-us-economy-is-the-war-in-ukraine"/>
+        <updated>2022-03-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How Big a Threat to the U.S. Economy Is the War in Ukraine?]]></summary>
+        <author>
+            <name>John Cassidy</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[扎克-威廉姆斯阅读 "木兰花屋"]]></title>
+        <id>https://www.newyorker.com/podcast/the-writers-voice/zach-williams-reads-wood-sorrel-house</id>
+        <link href="https://www.newyorker.com/podcast/the-writers-voice/zach-williams-reads-wood-sorrel-house"/>
+        <updated>2022-03-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Zach Williams Reads “Wood Sorrel House”]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[父母。你会为你的孩子接种疫苗吗？]]></title>
         <id>https://www.nytimes.com/2022/03/14/technology/parents-will-you-vaccinate-your-young-kids.html</id>

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 14 Mar 2022 09:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 10:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,69 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[中國女人》中的歷史課]]></title>
+            <link>https://www.newyorker.com/magazine/2022/03/21/history-lessons-in-the-chinese-lady</link>
+            <guid>https://www.newyorker.com/magazine/2022/03/21/history-lessons-in-the-chinese-lady</guid>
+            <pubDate>Mon, 14 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[History Lessons in “The Chinese Lady”]]></description>
+        </item>
+        <item>
+            <title><![CDATA[落名：2022年3月14日，星期一]]></title>
+            <link>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/14</link>
+            <guid>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/14</guid>
+            <pubDate>Mon, 14 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Name Drop: Monday, March 14, 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[幻燈片展示。紐約客》漫畫2022年3月21日刊]]></title>
+            <link>https://www.newyorker.com/gallery/cartoons-from-the-march-21-2022-issue</link>
+            <guid>https://www.newyorker.com/gallery/cartoons-from-the-march-21-2022-issue</guid>
+            <pubDate>Mon, 14 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Slide Show: New Yorker Cartoons March 21, 2022, Issue]]></description>
+        </item>
+        <item>
+            <title><![CDATA["Bel-Air "和 "Abbott Elementary "重新啟動和恢復網絡情景喜劇]]></title>
+            <link>https://www.newyorker.com/magazine/2022/03/21/bel-air-and-abbott-elementary-reboot-and-revive-the-network-sitcom</link>
+            <guid>https://www.newyorker.com/magazine/2022/03/21/bel-air-and-abbott-elementary-reboot-and-revive-the-network-sitcom</guid>
+            <pubDate>Mon, 14 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[“Bel-Air” and “Abbott Elementary” Reboot and Revive the Network Sitcom]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我的小說被盜的感受]]></title>
+            <link>https://www.newyorker.com/books/page-turner/how-it-felt-to-have-my-novel-stolen</link>
+            <guid>https://www.newyorker.com/books/page-turner/how-it-felt-to-have-my-novel-stolen</guid>
+            <pubDate>Mon, 14 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[How It Felt to Have My Novel Stolen]]></description>
+        </item>
+        <item>
+            <title><![CDATA[安娜-胡安的 "祖國"]]></title>
+            <link>https://www.newyorker.com/culture/cover-story/cover-story-2022-03-21</link>
+            <guid>https://www.newyorker.com/culture/cover-story/cover-story-2022-03-21</guid>
+            <pubDate>Mon, 14 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Ana Juan’s “Motherland”]]></description>
+        </item>
+        <item>
+            <title><![CDATA[扎克-威廉姆斯談放開邏輯]]></title>
+            <link>https://www.newyorker.com/books/this-week-in-fiction/zach-williams-03-21-22</link>
+            <guid>https://www.newyorker.com/books/this-week-in-fiction/zach-williams-03-21-22</guid>
+            <pubDate>Mon, 14 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Zach Williams on Letting Go of Logic]]></description>
+        </item>
+        <item>
+            <title><![CDATA[烏克蘭戰爭對美國經濟的威脅有多大？]]></title>
+            <link>https://www.newyorker.com/news/our-columnists/how-big-a-threat-to-the-us-economy-is-the-war-in-ukraine</link>
+            <guid>https://www.newyorker.com/news/our-columnists/how-big-a-threat-to-the-us-economy-is-the-war-in-ukraine</guid>
+            <pubDate>Mon, 14 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[How Big a Threat to the U.S. Economy Is the War in Ukraine?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[扎克-威廉姆斯閱讀 "木蘭花屋"]]></title>
+            <link>https://www.newyorker.com/podcast/the-writers-voice/zach-williams-reads-wood-sorrel-house</link>
+            <guid>https://www.newyorker.com/podcast/the-writers-voice/zach-williams-reads-wood-sorrel-house</guid>
+            <pubDate>Mon, 14 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Zach Williams Reads “Wood Sorrel House”]]></description>
+        </item>
         <item>
             <title><![CDATA[父母。你會為你的孩子接種疫苗嗎？]]></title>
             <link>https://www.nytimes.com/2022/03/14/technology/parents-will-you-vaccinate-your-young-kids.html</link>
