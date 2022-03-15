@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 15 Mar 2022 18:38:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 19:14:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[莎拉-布魯姆-拉斯金撤回對聯邦儲備委員會的提名]]></title>
+            <link>https://www.newyorker.com/news/news-desk/sarah-bloom-raskin-withdraws-her-nomination-to-the-federal-reserve-board</link>
+            <guid>https://www.newyorker.com/news/news-desk/sarah-bloom-raskin-withdraws-her-nomination-to-the-federal-reserve-board</guid>
+            <pubDate>Tue, 15 Mar 2022 18:42:44 GMT</pubDate>
+            <description><![CDATA[Sarah Bloom Raskin Withdraws Her Nomination to the Federal Reserve Board]]></description>
+        </item>
         <item>
             <title><![CDATA[現在是否到了第二批助推器的時候了？]]></title>
             <link>https://www.theatlantic.com/health/archive/2022/03/vaccine-second-booster-shot-seniors/627069/?utm_source=feed</link>
