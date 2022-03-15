@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/15/technology/music-industy-digital-revolution.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/15/technology/music-industy-digital-revolution.html",
+            "title": "音乐的混乱的数字革命",
+            "summary": "Music’s Messy Digital Revolution",
+            "date_modified": "2022-03-15T16:35:26.000Z",
+            "author": {
+                "name": "Shira Ovide",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/science/archive/2022/03/plastic-pollution-treaty-un-environmental-assembly/627066/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/science/archive/2022/03/plastic-pollution-treaty-un-environmental-assembly/627066/?utm_source=feed",
+            "title": "世界有一个解决塑料问题的大好机会",
+            "summary": "The World Has One Big Chance to Fix Plastics",
+            "date_modified": "2022-03-15T16:13:31.000Z",
+            "author": {
+                "name": "Tridibesh Dey",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-15th-campfire-spring",
             "content_html": "",
             "url": "https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-15th-campfire-spring",

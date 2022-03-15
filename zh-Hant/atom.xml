@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-15T16:17:22.148Z</updated>
+    <updated>2022-03-15T16:49:56.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[音樂的混亂的數字革命]]></title>
+        <id>https://www.nytimes.com/2022/03/15/technology/music-industy-digital-revolution.html</id>
+        <link href="https://www.nytimes.com/2022/03/15/technology/music-industy-digital-revolution.html"/>
+        <updated>2022-03-15T16:35:26.000Z</updated>
+        <summary type="html"><![CDATA[Music’s Messy Digital Revolution]]></summary>
+        <author>
+            <name>Shira Ovide</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界有一個解決塑料問題的大好機會]]></title>
+        <id>https://www.theatlantic.com/science/archive/2022/03/plastic-pollution-treaty-un-environmental-assembly/627066/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/science/archive/2022/03/plastic-pollution-treaty-un-environmental-assembly/627066/?utm_source=feed"/>
+        <updated>2022-03-15T16:13:31.000Z</updated>
+        <summary type="html"><![CDATA[The World Has One Big Chance to Fix Plastics]]></summary>
+        <author>
+            <name>Tridibesh Dey</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日漫畫。3月15日，星期二]]></title>
         <id>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-15th-campfire-spring</id>
