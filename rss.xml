@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 15 Mar 2022 21:51:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 22:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[拥有切尔西的寡头的终结者]]></title>
+            <link>https://www.newyorker.com/news/letter-from-the-uk/the-endgame-of-the-oligarch-who-owns-chelsea</link>
+            <guid>https://www.newyorker.com/news/letter-from-the-uk/the-endgame-of-the-oligarch-who-owns-chelsea</guid>
+            <pubDate>Tue, 15 Mar 2022 21:38:08 GMT</pubDate>
+            <description><![CDATA[The Endgame of the Oligarch Who Owns Chelsea]]></description>
+        </item>
         <item>
             <title><![CDATA[拥有切尔西的寡头的终结者]]></title>
             <link>https://www.newyorker.com/news/letter-from-the-uk/the-endgame-of-the-oligarch-who-owns-chelsea</link>
