@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-15T10:52:04.321Z</updated>
+    <updated>2022-03-15T11:11:57.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[市區的下一個生命]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/hybrid-remote-work-office-space/627060/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/hybrid-remote-work-office-space/627060/?utm_source=feed"/>
+        <updated>2022-03-15T11:00:57.000Z</updated>
+        <summary type="html"><![CDATA[The Next Life of Downtown]]></summary>
+        <author>
+            <name>Tracy Hadden Loh</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[負責任的保守主義有發言權和未來]]></title>
         <id>https://www.theatlantic.com/magazine/archive/2022/04/the-commons/622823/?utm_source=feed</id>
