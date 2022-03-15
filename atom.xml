@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-15T13:21:46.126Z</updated>
+    <updated>2022-03-15T14:13:40.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们需要告诉人们他们的房子会被烧毁]]></title>
+        <id>https://www.theatlantic.com/science/archive/2022/03/wildfire-insurance-california-fair-plan/627065/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/science/archive/2022/03/wildfire-insurance-california-fair-plan/627065/?utm_source=feed"/>
+        <updated>2022-03-15T13:42:38.000Z</updated>
+        <summary type="html"><![CDATA[We Need to Tell People Their Houses Are Going to Burn]]></summary>
+        <author>
+            <name>Emma Marris</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英特尔将投资至少190亿美元在德国新建芯片厂]]></title>
         <id>https://www.nytimes.com/2022/03/15/technology/intel-factory-germany.html</id>

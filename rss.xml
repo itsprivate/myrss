@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 15 Mar 2022 13:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 14:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我们需要告诉人们他们的房子会被烧毁]]></title>
+            <link>https://www.theatlantic.com/science/archive/2022/03/wildfire-insurance-california-fair-plan/627065/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/science/archive/2022/03/wildfire-insurance-california-fair-plan/627065/?utm_source=feed</guid>
+            <pubDate>Tue, 15 Mar 2022 13:42:38 GMT</pubDate>
+            <description><![CDATA[We Need to Tell People Their Houses Are Going to Burn]]></description>
+        </item>
         <item>
             <title><![CDATA[英特尔将投资至少190亿美元在德国新建芯片厂]]></title>
             <link>https://www.nytimes.com/2022/03/15/technology/intel-factory-germany.html</link>
