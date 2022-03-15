@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-15T16:49:56.280Z</updated>
+    <updated>2022-03-15T17:04:56.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[安静的异议的应用]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/03/ukraine-telegram-app-cybersecurity/627068/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/03/ukraine-telegram-app-cybersecurity/627068/?utm_source=feed"/>
+        <updated>2022-03-15T16:37:58.000Z</updated>
+        <summary type="html"><![CDATA[The Apps of Quiet Dissent]]></summary>
+        <author>
+            <name>Gal Beckerman</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[音乐的混乱的数字革命]]></title>
         <id>https://www.nytimes.com/2022/03/15/technology/music-industy-digital-revolution.html</id>

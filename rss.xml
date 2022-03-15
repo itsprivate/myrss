@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 15 Mar 2022 16:49:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 17:04:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[安静的异议的应用]]></title>
+            <link>https://www.theatlantic.com/culture/archive/2022/03/ukraine-telegram-app-cybersecurity/627068/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/culture/archive/2022/03/ukraine-telegram-app-cybersecurity/627068/?utm_source=feed</guid>
+            <pubDate>Tue, 15 Mar 2022 16:37:58 GMT</pubDate>
+            <description><![CDATA[The Apps of Quiet Dissent]]></description>
+        </item>
         <item>
             <title><![CDATA[音乐的混乱的数字革命]]></title>
             <link>https://www.nytimes.com/2022/03/15/technology/music-industy-digital-revolution.html</link>
