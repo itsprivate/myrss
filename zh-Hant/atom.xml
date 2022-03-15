@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-15T03:45:39.502Z</updated>
+    <updated>2022-03-15T07:13:21.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[加州如何建立全國第一個隱私警察]]></title>
+        <id>https://www.nytimes.com/2022/03/15/technology/california-privacy-agency-ccpa-gdpr.html</id>
+        <link href="https://www.nytimes.com/2022/03/15/technology/california-privacy-agency-ccpa-gdpr.html"/>
+        <updated>2022-03-15T07:02:33.000Z</updated>
+        <summary type="html"><![CDATA[How California Is Building the Nation’s First Privacy Police]]></summary>
+        <author>
+            <name>David McCabe</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼加州不通過建設一些新城市來解決住房危機？]]></title>
         <id>https://www.currentaffairs.org/2022/03/why-doesnt-california-solve-its-housing-crisis-by-building-some-new-cities/</id>

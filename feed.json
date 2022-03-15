@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/15/technology/california-privacy-agency-ccpa-gdpr.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/15/technology/california-privacy-agency-ccpa-gdpr.html",
+            "title": "加州如何建立全国第一个隐私警察",
+            "summary": "How California Is Building the Nation’s First Privacy Police",
+            "date_modified": "2022-03-15T07:02:33.000Z",
+            "author": {
+                "name": "David McCabe",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.currentaffairs.org/2022/03/why-doesnt-california-solve-its-housing-crisis-by-building-some-new-cities/",
             "content_html": "",
             "url": "https://www.currentaffairs.org/2022/03/why-doesnt-california-solve-its-housing-crisis-by-building-some-new-cities/",
