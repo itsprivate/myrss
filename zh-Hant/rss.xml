@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 15 Mar 2022 02:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 03:45:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼加州不通過建設一些新城市來解決住房危機？]]></title>
+            <link>https://www.currentaffairs.org/2022/03/why-doesnt-california-solve-its-housing-crisis-by-building-some-new-cities/</link>
+            <guid>https://www.currentaffairs.org/2022/03/why-doesnt-california-solve-its-housing-crisis-by-building-some-new-cities/</guid>
+            <pubDate>Mon, 14 Mar 2022 23:38:05 GMT</pubDate>
+            <description><![CDATA[Why Doesn’t California Solve Its Housing Crisis By Building Some New Cities?]]></description>
+        </item>
         <item>
             <title><![CDATA[在霍克斯莫爾的令人愉快的發現]]></title>
             <link>https://www.newyorker.com/magazine/2022/03/21/delightful-discoveries-at-hawksmoor</link>
