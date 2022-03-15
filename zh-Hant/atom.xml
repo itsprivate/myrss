@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-15T11:11:57.005Z</updated>
+    <updated>2022-03-15T13:21:46.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[英特爾將投資至少190億美元在德國新建芯片廠]]></title>
+        <id>https://www.nytimes.com/2022/03/15/technology/intel-factory-germany.html</id>
+        <link href="https://www.nytimes.com/2022/03/15/technology/intel-factory-germany.html"/>
+        <updated>2022-03-15T13:14:51.000Z</updated>
+        <summary type="html"><![CDATA[Intel to Invest at Least $19 Billion for New Chips Plant in Germany]]></summary>
+        <author>
+            <name>Don Clark and Adam Satariano</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[市區的下一個生命]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/03/hybrid-remote-work-office-space/627060/?utm_source=feed</id>
