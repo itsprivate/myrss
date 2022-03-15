@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/15/technology/ai-no-code.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/15/technology/ai-no-code.html",
+            "title": "无码》将人工智能的力量带给大众",
+            "summary": "‘No Code’ Brings the Power of A.I. to the Masses",
+            "date_modified": "2022-03-15T09:00:20.000Z",
+            "author": {
+                "name": "Craig S. Smith",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/03/putin-nuclear-weapons-system-presidential-power/627058/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/03/putin-nuclear-weapons-system-presidential-power/627058/?utm_source=feed",
+            "title": "普京教给我们的可怕的真相",
+            "summary": "The Terrifying Truth Putin Has Taught Us",
+            "date_modified": "2022-03-15T09:00:56.000Z",
+            "author": {
+                "name": "Uri Friedman",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/15/technology/california-privacy-agency-ccpa-gdpr.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/15/technology/california-privacy-agency-ccpa-gdpr.html",
