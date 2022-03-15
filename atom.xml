@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-15T23:13:57.584Z</updated>
+    <updated>2022-03-15T23:32:08.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个受孩子们喜爱的自由搏击运动员]]></title>
+        <id>https://www.newyorker.com/news/afterword/a-lucha-libre-wrestler-beloved-by-children</id>
+        <link href="https://www.newyorker.com/news/afterword/a-lucha-libre-wrestler-beloved-by-children"/>
+        <updated>2022-03-15T23:19:01.000Z</updated>
+        <summary type="html"><![CDATA[A Lucha Libre Wrestler Beloved by Children]]></summary>
+        <author>
+            <name>Susan Orlean</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在基辅城外寻找生存空间]]></title>
         <id>https://www.newyorker.com/culture/photo-booth/a-search-for-survival-outside-kyiv</id>
