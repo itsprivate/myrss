@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-15T18:16:22.286Z</updated>
+    <updated>2022-03-15T18:38:32.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[現在是否到了第二批助推器的時候了？]]></title>
+        <id>https://www.theatlantic.com/health/archive/2022/03/vaccine-second-booster-shot-seniors/627069/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/health/archive/2022/03/vaccine-second-booster-shot-seniors/627069/?utm_source=feed"/>
+        <updated>2022-03-15T18:08:35.000Z</updated>
+        <summary type="html"><![CDATA[Is It Time for Second Boosters Yet?]]></summary>
+        <author>
+            <name>Rachel Gutman</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[查爾斯-狄更斯如何使小說煥然一新]]></title>
         <id>https://www.theatlantic.com/books/archive/2022/03/bleak-house-charles-dickens-made-novel-new/627059/?utm_source=feed</id>
