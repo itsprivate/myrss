@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-15T09:13:03.547Z</updated>
+    <updated>2022-03-15T10:14:45.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[存在感的胸罩测试]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/existential-bra-fit-quiz</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/existential-bra-fit-quiz"/>
+        <updated>2022-03-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Existential Bra-Fit Quiz]]></summary>
+        <author>
+            <name>Mary Cella</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[落名：2022年3月15日，星期二]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/15</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/15"/>
+        <updated>2022-03-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Name Drop: Tuesday, March 15, 2022]]></summary>
+        <author>
+            <name>Matt Jackson</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尼克-克罗尔和艾迪-布莱恩特关于生活中尴尬部分的建议]]></title>
+        <id>https://www.newyorker.com/new-yorker-live/nick-kroll-aidy-bryant-human-resources</id>
+        <link href="https://www.newyorker.com/new-yorker-live/nick-kroll-aidy-bryant-human-resources"/>
+        <updated>2022-03-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nick Kroll and Aidy Bryant’s Advice on the Awkward Parts of Life]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰的战争。David Remnick主持的讨论]]></title>
+        <id>https://www.newyorker.com/new-yorker-live/russia-ukraine-masha-gessen-david-remnick-joshua-yaffa</id>
+        <link href="https://www.newyorker.com/new-yorker-live/russia-ukraine-masha-gessen-david-remnick-joshua-yaffa"/>
+        <updated>2022-03-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The War in Ukraine: A Discussion Hosted by David Remnick]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[争取投票权和2022年中期选举之战]]></title>
+        <id>https://www.newyorker.com/new-yorker-live/william-barber-janai-nelson-voting-rights</id>
+        <link href="https://www.newyorker.com/new-yorker-live/william-barber-janai-nelson-voting-rights"/>
+        <updated>2022-03-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Battle for Voting Rights and the 2022 Midterms]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加入我们的《纽约客》春季现场系列活动]]></title>
+        <id>https://www.newyorker.com/culture/culture-desk/new-yorker-live-spring-series-ukraine-russia-kroll-bryant-barber-nelson</id>
+        <link href="https://www.newyorker.com/culture/culture-desk/new-yorker-live-spring-series-ukraine-russia-kroll-bryant-barber-nelson"/>
+        <updated>2022-03-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Join Us for The New Yorker Live Spring Series]]></summary>
+        <author>
+            <name>The New Yorker</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[无码》将人工智能的力量带给大众]]></title>
         <id>https://www.nytimes.com/2022/03/15/technology/ai-no-code.html</id>
