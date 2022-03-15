@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-15T14:13:40.691Z</updated>
+    <updated>2022-03-15T15:35:06.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[西方應該停止為全球貪汙腐敗分子提供如此多的幫助]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/russia-ukraine-senate-testimony-autocracy-kleptocrats/627061/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/russia-ukraine-senate-testimony-autocracy-kleptocrats/627061/?utm_source=feed"/>
+        <updated>2022-03-15T15:12:25.000Z</updated>
+        <summary type="html"><![CDATA[The West Should Stop Doing Global Kleptocrats So Many Favors]]></summary>
+        <author>
+            <name>Anne Applebaum</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們需要告訴人們他們的房子會被燒燬]]></title>
         <id>https://www.theatlantic.com/science/archive/2022/03/wildfire-insurance-california-fair-plan/627065/?utm_source=feed</id>
