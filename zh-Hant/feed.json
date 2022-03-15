@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/newsletters/archive/2022/03/west-in-denial-russia-ukraine-invasion/627063/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/newsletters/archive/2022/03/west-in-denial-russia-ukraine-invasion/627063/?utm_source=feed",
+            "title": "<em>《大西洋》</em>日報。西方國家在否認嗎？",
+            "summary": "<em>The Atlantic</em> Daily: Is the West in Denial?",
+            "date_modified": "2022-03-15T17:12:27.000Z",
+            "author": {
+                "name": "Caroline Mimbs Nyce",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/photo/2022/03/ukraine-animal-refugees/627067/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/photo/2022/03/ukraine-animal-refugees/627067/?utm_source=feed",
+            "title": "動物也可以成為難民",
+            "summary": "Animals Can Be Refugees, Too",
+            "date_modified": "2022-03-15T17:30:34.000Z",
+            "author": {
+                "name": "Alan Taylor",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/culture/archive/2022/03/ukraine-telegram-app-cybersecurity/627068/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/culture/archive/2022/03/ukraine-telegram-app-cybersecurity/627068/?utm_source=feed",

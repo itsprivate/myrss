@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 15 Mar 2022 17:04:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 17:39:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[<em>《大西洋》</em>日報。西方國家在否認嗎？]]></title>
+            <link>https://www.theatlantic.com/newsletters/archive/2022/03/west-in-denial-russia-ukraine-invasion/627063/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/newsletters/archive/2022/03/west-in-denial-russia-ukraine-invasion/627063/?utm_source=feed</guid>
+            <pubDate>Tue, 15 Mar 2022 17:12:27 GMT</pubDate>
+            <description><![CDATA[<em>The Atlantic</em> Daily: Is the West in Denial?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[動物也可以成為難民]]></title>
+            <link>https://www.theatlantic.com/photo/2022/03/ukraine-animal-refugees/627067/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/photo/2022/03/ukraine-animal-refugees/627067/?utm_source=feed</guid>
+            <pubDate>Tue, 15 Mar 2022 17:30:34 GMT</pubDate>
+            <description><![CDATA[Animals Can Be Refugees, Too]]></description>
+        </item>
         <item>
             <title><![CDATA[安靜的異議的應用]]></title>
             <link>https://www.theatlantic.com/culture/archive/2022/03/ukraine-telegram-app-cybersecurity/627068/?utm_source=feed</link>
