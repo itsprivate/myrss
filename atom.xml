@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-15T15:35:06.732Z</updated>
+    <updated>2022-03-15T16:17:22.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每日漫画。3月15日，星期二]]></title>
+        <id>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-15th-campfire-spring</id>
+        <link href="https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-15th-campfire-spring"/>
+        <updated>2022-03-15T15:54:37.000Z</updated>
+        <summary type="html"><![CDATA[Daily Cartoon: Tuesday, March 15th]]></summary>
+        <author>
+            <name>Sarah Kempa</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[福克斯新闻摄影师在乌克兰被杀]]></title>
+        <id>https://www.nytimes.com/2022/03/15/business/media/ukraine-fox-news-cameraman-killed.html</id>
+        <link href="https://www.nytimes.com/2022/03/15/business/media/ukraine-fox-news-cameraman-killed.html"/>
+        <updated>2022-03-15T16:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Fox News Cameraman Is Killed in Ukraine]]></summary>
+        <author>
+            <name>Michael M. Grynbaum</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[西方应该停止为全球贪污腐败分子提供如此多的帮助]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/03/russia-ukraine-senate-testimony-autocracy-kleptocrats/627061/?utm_source=feed</id>

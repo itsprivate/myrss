@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 15 Mar 2022 15:35:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 16:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[每日漫画。3月15日，星期二]]></title>
+            <link>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-15th-campfire-spring</link>
+            <guid>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-15th-campfire-spring</guid>
+            <pubDate>Tue, 15 Mar 2022 15:54:37 GMT</pubDate>
+            <description><![CDATA[Daily Cartoon: Tuesday, March 15th]]></description>
+        </item>
+        <item>
+            <title><![CDATA[福克斯新闻摄影师在乌克兰被杀]]></title>
+            <link>https://www.nytimes.com/2022/03/15/business/media/ukraine-fox-news-cameraman-killed.html</link>
+            <guid>https://www.nytimes.com/2022/03/15/business/media/ukraine-fox-news-cameraman-killed.html</guid>
+            <pubDate>Tue, 15 Mar 2022 16:00:11 GMT</pubDate>
+            <description><![CDATA[Fox News Cameraman Is Killed in Ukraine]]></description>
+        </item>
         <item>
             <title><![CDATA[西方应该停止为全球贪污腐败分子提供如此多的帮助]]></title>
             <link>https://www.theatlantic.com/ideas/archive/2022/03/russia-ukraine-senate-testimony-autocracy-kleptocrats/627061/?utm_source=feed</link>
