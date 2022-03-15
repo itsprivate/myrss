@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-15T00:37:12.247Z</updated>
+    <updated>2022-03-15T02:10:07.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在霍克斯莫尔的令人愉快的发现]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/21/delightful-discoveries-at-hawksmoor</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/21/delightful-discoveries-at-hawksmoor"/>
+        <updated>2022-03-11T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Delightful Discoveries at Hawksmoor]]></summary>
+        <author>
+            <name>Jiayang Fan</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[战争时期的艺术]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/21/art-in-a-time-of-war</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/21/art-in-a-time-of-war"/>
+        <updated>2022-03-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Art in a Time of War]]></summary>
+        <author>
+            <name>Peter Schjeldahl</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么学校战争仍在肆虐]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/21/why-the-school-wars-still-rage</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/21/why-the-school-wars-still-rage"/>
+        <updated>2022-03-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why the School Wars Still Rage]]></summary>
+        <author>
+            <name>Jill Lepore</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[形而上的恐怖在大胆的 "大师 "中变得非常真实]]></title>
         <id>https://www.newyorker.com/culture/the-front-row/metaphysical-horror-becomes-all-too-real-in-the-audacious-master</id>

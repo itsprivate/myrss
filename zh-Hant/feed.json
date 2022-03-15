@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/magazine/2022/03/21/delightful-discoveries-at-hawksmoor",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/03/21/delightful-discoveries-at-hawksmoor",
+            "title": "在霍克斯莫爾的令人愉快的發現",
+            "summary": "Delightful Discoveries at Hawksmoor",
+            "date_modified": "2022-03-11T11:00:00.000Z",
+            "author": {
+                "name": "Jiayang Fan",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/magazine/2022/03/21/art-in-a-time-of-war",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/03/21/art-in-a-time-of-war",
+            "title": "戰爭時期的藝術",
+            "summary": "Art in a Time of War",
+            "date_modified": "2022-03-14T10:00:00.000Z",
+            "author": {
+                "name": "Peter Schjeldahl",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/magazine/2022/03/21/why-the-school-wars-still-rage",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/03/21/why-the-school-wars-still-rage",
+            "title": "為什麼學校戰爭仍在肆虐",
+            "summary": "Why the School Wars Still Rage",
+            "date_modified": "2022-03-14T10:00:00.000Z",
+            "author": {
+                "name": "Jill Lepore",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/culture/the-front-row/metaphysical-horror-becomes-all-too-real-in-the-audacious-master",
             "content_html": "",
             "url": "https://www.newyorker.com/culture/the-front-row/metaphysical-horror-becomes-all-too-real-in-the-audacious-master",

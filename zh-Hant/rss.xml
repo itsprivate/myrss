@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 15 Mar 2022 00:37:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 02:10:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在霍克斯莫爾的令人愉快的發現]]></title>
+            <link>https://www.newyorker.com/magazine/2022/03/21/delightful-discoveries-at-hawksmoor</link>
+            <guid>https://www.newyorker.com/magazine/2022/03/21/delightful-discoveries-at-hawksmoor</guid>
+            <pubDate>Fri, 11 Mar 2022 11:00:00 GMT</pubDate>
+            <description><![CDATA[Delightful Discoveries at Hawksmoor]]></description>
+        </item>
+        <item>
+            <title><![CDATA[戰爭時期的藝術]]></title>
+            <link>https://www.newyorker.com/magazine/2022/03/21/art-in-a-time-of-war</link>
+            <guid>https://www.newyorker.com/magazine/2022/03/21/art-in-a-time-of-war</guid>
+            <pubDate>Mon, 14 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Art in a Time of War]]></description>
+        </item>
+        <item>
+            <title><![CDATA[為什麼學校戰爭仍在肆虐]]></title>
+            <link>https://www.newyorker.com/magazine/2022/03/21/why-the-school-wars-still-rage</link>
+            <guid>https://www.newyorker.com/magazine/2022/03/21/why-the-school-wars-still-rage</guid>
+            <pubDate>Mon, 14 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Why the School Wars Still Rage]]></description>
+        </item>
         <item>
             <title><![CDATA[形而上的恐怖在大膽的 "大師 "中變得非常真實]]></title>
             <link>https://www.newyorker.com/culture/the-front-row/metaphysical-horror-becomes-all-too-real-in-the-audacious-master</link>
