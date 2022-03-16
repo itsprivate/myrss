@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 16 Mar 2022 15:59:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 16:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[研究發現，腦成像研究因數據集小而受阻]]></title>
+            <link>https://www.nytimes.com/2022/03/16/science/brain-imaging-research.html</link>
+            <guid>https://www.nytimes.com/2022/03/16/science/brain-imaging-research.html</guid>
+            <pubDate>Wed, 16 Mar 2022 16:07:09 GMT</pubDate>
+            <description><![CDATA[Brain-Imaging Studies Hampered by Small Data Sets, Study Finds]]></description>
+        </item>
         <item>
             <title><![CDATA[世界末日的試運行]]></title>
             <link>https://www.theatlantic.com/family/archive/2022/03/bomb-shelter-book-nuclear-war/627075/?utm_source=feed</link>
