@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-16T16:23:50.225Z</updated>
+    <updated>2022-03-16T19:06:54.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的狗的品种说明了你的情况]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/what-your-dogs-breed-says-about-you</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/what-your-dogs-breed-says-about-you"/>
+        <updated>2022-03-16T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What Your Dog’s Breed Says About You]]></summary>
+        <author>
+            <name>Jenny Gorelick, Ariel Sinha</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何超越5分钟的互联网潮流]]></title>
+        <id>https://www.nytimes.com/2022/03/16/technology/tasty-internet-fads.html</id>
+        <link href="https://www.nytimes.com/2022/03/16/technology/tasty-internet-fads.html"/>
+        <updated>2022-03-16T16:23:07.000Z</updated>
+        <summary type="html"><![CDATA[How to Outlast 5-Minute Internet Fads]]></summary>
+        <author>
+            <name>Shira Ovide</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在本-阿弗莱克的《深水》中，惊悚片再次变得性感起来<em></em>。]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/03/deep-water-movie-review-affleck/627077/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/03/deep-water-movie-review-affleck/627077/?utm_source=feed"/>
+        <updated>2022-03-16T17:28:13.000Z</updated>
+        <summary type="html"><![CDATA[The Thriller Is Sexy Again in Ben Affleck’s <em>Deep Water</em>]]></summary>
+        <author>
+            <name>David Sims</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究发现，脑成像研究因数据集小而受阻]]></title>
         <id>https://www.nytimes.com/2022/03/16/science/brain-imaging-research.html</id>

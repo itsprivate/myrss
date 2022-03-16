@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/humor/daily-shouts/what-your-dogs-breed-says-about-you",
+            "content_html": "",
+            "url": "https://www.newyorker.com/humor/daily-shouts/what-your-dogs-breed-says-about-you",
+            "title": "你的狗的品種說明了你的情況",
+            "summary": "What Your Dog’s Breed Says About You",
+            "date_modified": "2022-03-16T18:00:00.000Z",
+            "author": {
+                "name": "Jenny Gorelick, Ariel Sinha",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/03/16/technology/tasty-internet-fads.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/16/technology/tasty-internet-fads.html",
+            "title": "如何超越5分鐘的互聯網潮流",
+            "summary": "How to Outlast 5-Minute Internet Fads",
+            "date_modified": "2022-03-16T16:23:07.000Z",
+            "author": {
+                "name": "Shira Ovide",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/culture/archive/2022/03/deep-water-movie-review-affleck/627077/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/culture/archive/2022/03/deep-water-movie-review-affleck/627077/?utm_source=feed",
+            "title": "在本-阿弗萊克的《深水》中，驚悚片再次變得性感起來<em></em>。",
+            "summary": "The Thriller Is Sexy Again in Ben Affleck’s <em>Deep Water</em>",
+            "date_modified": "2022-03-16T17:28:13.000Z",
+            "author": {
+                "name": "David Sims",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/16/science/brain-imaging-research.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/16/science/brain-imaging-research.html",
