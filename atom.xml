@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-16T20:43:08.970Z</updated>
+    <updated>2022-03-16T21:52:24.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[泽伦斯基援引珍珠港和9/11事件，恳请华盛顿方面提供更多信息]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/zelensky-invokes-pearl-harbor-and-911-as-he-pleads-for-more-from-washington</id>
+        <link href="https://www.newyorker.com/news/daily-comment/zelensky-invokes-pearl-harbor-and-911-as-he-pleads-for-more-from-washington"/>
+        <updated>2022-03-16T21:38:45.000Z</updated>
+        <summary type="html"><![CDATA[Zelensky Invokes Pearl Harbor and 9/11 as He Pleads for More from Washington]]></summary>
+        <author>
+            <name>Robin Wright</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一部终于抓住村上写作的电影]]></title>
         <id>https://www.theatlantic.com/podcasts/archive/2022/03/drive-my-car/627085/?utm_source=feed</id>
