@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-16T11:29:33.030Z</updated>
+    <updated>2022-03-16T12:17:25.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[活著的人]]></title>
+        <id>https://www.theatlantic.com/books/archive/2022/03/poem-trey-moody-living/627072/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/books/archive/2022/03/poem-trey-moody-living/627072/?utm_source=feed"/>
+        <updated>2022-03-16T12:00:56.000Z</updated>
+        <summary type="html"><![CDATA[The Living]]></summary>
+        <author>
+            <name>Trey Moody</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在病毒面前領先一步的新策略]]></title>
+        <id>https://www.theatlantic.com/science/archive/2022/03/covid-surge-prediction-antibody-tracking/627073/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/science/archive/2022/03/covid-surge-prediction-antibody-tracking/627073/?utm_source=feed"/>
+        <updated>2022-03-16T12:00:56.000Z</updated>
+        <summary type="html"><![CDATA[A New Strategy for Staying One Step Ahead of the Virus]]></summary>
+        <author>
+            <name>Katherine J. Wu</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[潛伏在書後的樂趣]]></title>
         <id>https://www.theatlantic.com/books/archive/2022/03/book-index-history/627062/?utm_source=feed</id>
