@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-16T10:14:40.954Z</updated>
+    <updated>2022-03-16T10:33:42.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[說 "永不再來 "的問題]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/fukushima-nuclear-disaster-management-onagawa/627070/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/fukushima-nuclear-disaster-management-onagawa/627070/?utm_source=feed"/>
+        <updated>2022-03-16T10:01:56.000Z</updated>
+        <summary type="html"><![CDATA[The Problem With Saying ‘Never Again’]]></summary>
+        <author>
+            <name>Juliette Kayyem</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<柏青哥》令人感動、昇華--與自己格格不入]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/03/pachinko-apple-tv-series-review/627071/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/03/pachinko-apple-tv-series-review/627071/?utm_source=feed"/>
+        <updated>2022-03-16T10:01:57.000Z</updated>
+        <summary type="html"><![CDATA[<em>Pachinko</em> Is Moving, Sublime—And at Odds With Itself]]></summary>
+        <author>
+            <name>Shirley Li</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[落名：2022年3月16日，星期三]]></title>
         <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/16</id>

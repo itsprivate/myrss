@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 16 Mar 2022 10:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 10:33:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[說 "永不再來 "的問題]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/03/fukushima-nuclear-disaster-management-onagawa/627070/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/03/fukushima-nuclear-disaster-management-onagawa/627070/?utm_source=feed</guid>
+            <pubDate>Wed, 16 Mar 2022 10:01:56 GMT</pubDate>
+            <description><![CDATA[The Problem With Saying ‘Never Again’]]></description>
+        </item>
+        <item>
+            <title><![CDATA[<柏青哥》令人感動、昇華--與自己格格不入]]></title>
+            <link>https://www.theatlantic.com/culture/archive/2022/03/pachinko-apple-tv-series-review/627071/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/culture/archive/2022/03/pachinko-apple-tv-series-review/627071/?utm_source=feed</guid>
+            <pubDate>Wed, 16 Mar 2022 10:01:57 GMT</pubDate>
+            <description><![CDATA[<em>Pachinko</em> Is Moving, Sublime—And at Odds With Itself]]></description>
+        </item>
         <item>
             <title><![CDATA[落名：2022年3月16日，星期三]]></title>
             <link>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/16</link>
