@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://astralcodexten.substack.com/p/justice-creep",
+            "content_html": "",
+            "url": "https://astralcodexten.substack.com/p/justice-creep",
+            "title": "正義的蠕動",
+            "summary": "Justice Creep",
+            "date_modified": "2022-03-16T02:15:07.000Z",
+            "author": {
+                "name": "Scott Alexander",
+                "url": "https://astralcodexten.substack.com/feed"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/q-and-a/nina-khrushcheva-on-putins-poisonous-nationalism-and-a-new-new-russia",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/q-and-a/nina-khrushcheva-on-putins-poisonous-nationalism-and-a-new-new-russia",
+            "title": "尼娜-赫魯曉娃談普京的有毒民族主義和新的 \"新俄羅斯\"",
+            "summary": "Nina Khrushcheva on Putin’s Poisonous Nationalism and a New “New Russia”",
+            "date_modified": "2022-03-16T00:12:59.000Z",
+            "author": {
+                "name": "Isaac Chotiner",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/afterword/a-lucha-libre-wrestler-beloved-by-children",
             "content_html": "",
             "url": "https://www.newyorker.com/news/afterword/a-lucha-libre-wrestler-beloved-by-children",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-15T23:32:08.519Z</updated>
+    <updated>2022-03-16T02:59:13.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[正義的蠕動]]></title>
+        <id>https://astralcodexten.substack.com/p/justice-creep</id>
+        <link href="https://astralcodexten.substack.com/p/justice-creep"/>
+        <updated>2022-03-16T02:15:07.000Z</updated>
+        <summary type="html"><![CDATA[Justice Creep]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尼娜-赫魯曉娃談普京的有毒民族主義和新的 "新俄羅斯"]]></title>
+        <id>https://www.newyorker.com/news/q-and-a/nina-khrushcheva-on-putins-poisonous-nationalism-and-a-new-new-russia</id>
+        <link href="https://www.newyorker.com/news/q-and-a/nina-khrushcheva-on-putins-poisonous-nationalism-and-a-new-new-russia"/>
+        <updated>2022-03-16T00:12:59.000Z</updated>
+        <summary type="html"><![CDATA[Nina Khrushcheva on Putin’s Poisonous Nationalism and a New “New Russia”]]></summary>
+        <author>
+            <name>Isaac Chotiner</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個受孩子們喜愛的自由搏擊運動員]]></title>
         <id>https://www.newyorker.com/news/afterword/a-lucha-libre-wrestler-beloved-by-children</id>
