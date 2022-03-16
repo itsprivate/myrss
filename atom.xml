@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-16T19:06:54.501Z</updated>
+    <updated>2022-03-16T19:18:38.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于Zulresso的评论中的亮点]]></title>
+        <id>https://astralcodexten.substack.com/p/highlights-from-the-comments-on-zulresso</id>
+        <link href="https://astralcodexten.substack.com/p/highlights-from-the-comments-on-zulresso"/>
+        <updated>2022-03-16T18:50:18.000Z</updated>
+        <summary type="html"><![CDATA[Highlights From The Comments On Zulresso]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WurlD的低调的全球声音]]></title>
+        <id>https://www.newyorker.com/culture/listening-booth/wurlds-understated-global-sound</id>
+        <link href="https://www.newyorker.com/culture/listening-booth/wurlds-understated-global-sound"/>
+        <updated>2022-03-16T18:58:07.000Z</updated>
+        <summary type="html"><![CDATA[WurlD’s Understated Global Sound]]></summary>
+        <author>
+            <name>Sheldon Pearce</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国的间谍是否渗透到了美国的校园？]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/21/have-chinese-spies-infiltrated-american-campuses</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/21/have-chinese-spies-infiltrated-american-campuses"/>
+        <updated>2022-03-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Have Chinese Spies Infiltrated American Campuses?]]></summary>
+        <author>
+            <name>Gideon Lewis-Kraus</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰难民的旅程刚刚开始]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/21/ukrainian-refugees-journeys-have-just-begun</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/21/ukrainian-refugees-journeys-have-just-begun"/>
+        <updated>2022-03-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ukrainian Refugees’ Journeys Have Just Begun]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰战争对美国经济的威胁有多大？]]></title>
+        <id>https://www.newyorker.com/news/our-columnists/how-big-a-threat-to-the-us-economy-is-the-war-in-ukraine</id>
+        <link href="https://www.newyorker.com/news/our-columnists/how-big-a-threat-to-the-us-economy-is-the-war-in-ukraine"/>
+        <updated>2022-03-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How Big a Threat to the U.S. Economy Is the War in Ukraine?]]></summary>
+        <author>
+            <name>John Cassidy</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的狗的品种说明了你的情况]]></title>
         <id>https://www.newyorker.com/humor/daily-shouts/what-your-dogs-breed-says-about-you</id>
