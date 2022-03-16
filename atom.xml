@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-16T14:40:20.015Z</updated>
+    <updated>2022-03-16T15:04:28.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Marjorie Taylor Greene称夏令时是控制时钟的阴谋]]></title>
+        <id>https://www.newyorker.com/humor/borowitz-report/marjorie-taylor-greene-calls-daylight-saving-time-a-conspiracy-to-control-clocks</id>
+        <link href="https://www.newyorker.com/humor/borowitz-report/marjorie-taylor-greene-calls-daylight-saving-time-a-conspiracy-to-control-clocks"/>
+        <updated>2022-03-16T14:47:14.000Z</updated>
+        <summary type="html"><![CDATA[Marjorie Taylor Greene Calls Daylight-Saving Time a Conspiracy to Control Clocks]]></summary>
+        <author>
+            <name>Andy Borowitz</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[沙卡里-理查森谈时间在跑步和生活中的意义]]></title>
         <id>https://www.newyorker.com/video/watch/the-new-yorker-documentary-sub-eleven-seconds</id>

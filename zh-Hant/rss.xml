@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 16 Mar 2022 14:40:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 15:04:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Marjorie Taylor Greene稱夏令時是控制時鐘的陰謀]]></title>
+            <link>https://www.newyorker.com/humor/borowitz-report/marjorie-taylor-greene-calls-daylight-saving-time-a-conspiracy-to-control-clocks</link>
+            <guid>https://www.newyorker.com/humor/borowitz-report/marjorie-taylor-greene-calls-daylight-saving-time-a-conspiracy-to-control-clocks</guid>
+            <pubDate>Wed, 16 Mar 2022 14:47:14 GMT</pubDate>
+            <description><![CDATA[Marjorie Taylor Greene Calls Daylight-Saving Time a Conspiracy to Control Clocks]]></description>
+        </item>
         <item>
             <title><![CDATA[沙卡里-理查森談時間在跑步和生活中的意義]]></title>
             <link>https://www.newyorker.com/video/watch/the-new-yorker-documentary-sub-eleven-seconds</link>
