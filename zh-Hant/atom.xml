@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-16T02:59:13.446Z</updated>
+    <updated>2022-03-16T10:14:40.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[落名：2022年3月16日，星期三]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/16</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/16"/>
+        <updated>2022-03-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Name Drop: Wednesday, March 16, 2022]]></summary>
+        <author>
+            <name>Matt Jackson</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何知道你什麼時候對你的前男友釋懷了]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/how-to-know-when-youre-over-your-ex</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/how-to-know-when-youre-over-your-ex"/>
+        <updated>2022-03-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How to Know When You’re Over Your Ex]]></summary>
+        <author>
+            <name>Eli Coyote Mandel</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[填字遊戲: 2022年3月16日，星期三]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/16</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/16"/>
+        <updated>2022-03-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Crossword: Wednesday, March 16, 2022]]></summary>
+        <author>
+            <name>Elizabeth C. Gorski</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年輕的烏克蘭人一夜之間失去了什麼]]></title>
+        <id>https://www.newyorker.com/culture/photo-booth/what-young-ukrainians-have-lost-overnight</id>
+        <link href="https://www.newyorker.com/culture/photo-booth/what-young-ukrainians-have-lost-overnight"/>
+        <updated>2022-03-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What Young Ukrainians Have Lost Overnight]]></summary>
+        <author>
+            <name>Sophie Pinkham</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沙卡里-理查德森在 "11秒內 "攻克時間難題]]></title>
+        <id>https://www.newyorker.com/culture/the-new-yorker-documentary/shacarri-richardson-tackles-time-in-sub-eleven-seconds</id>
+        <link href="https://www.newyorker.com/culture/the-new-yorker-documentary/shacarri-richardson-tackles-time-in-sub-eleven-seconds"/>
+        <updated>2022-03-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sha’Carri Richardson Tackles Time in “Sub Eleven Seconds”]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[普京已落入獨裁者陷阱]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/putin-dictator-trap-russia-ukraine/627064/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/putin-dictator-trap-russia-ukraine/627064/?utm_source=feed"/>
+        <updated>2022-03-16T09:41:06.000Z</updated>
+        <summary type="html"><![CDATA[Vladimir Putin Has Fallen Into the Dictator Trap]]></summary>
+        <author>
+            <name>Brian Klaas</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[正義的蠕動]]></title>
         <id>https://astralcodexten.substack.com/p/justice-creep</id>
