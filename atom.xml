@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-17T18:56:43.868Z</updated>
+    <updated>2022-03-17T19:13:05.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[杰罗姆-鲍威尔关于通胀的双重信息]]></title>
+        <id>https://www.newyorker.com/news/our-columnists/jerome-powells-double-message-on-inflation</id>
+        <link href="https://www.newyorker.com/news/our-columnists/jerome-powells-double-message-on-inflation"/>
+        <updated>2022-03-17T18:43:49.000Z</updated>
+        <summary type="html"><![CDATA[Jerome Powell’s Double Message on Inflation]]></summary>
+        <author>
+            <name>John Cassidy</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国驻外记者的诞生]]></title>
         <id>https://www.newyorker.com/books/under-review/the-birth-of-the-american-foreign-correspondent</id>
