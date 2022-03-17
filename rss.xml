@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 17 Mar 2022 20:42:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 21:52:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[什么主义总是一件坏事吗？]]></title>
+            <link>https://www.currentaffairs.org/2022/03/is-whataboutism-always-a-bad-thing/</link>
+            <guid>https://www.currentaffairs.org/2022/03/is-whataboutism-always-a-bad-thing/</guid>
+            <pubDate>Thu, 17 Mar 2022 17:40:27 GMT</pubDate>
+            <description><![CDATA[Is &#8220;Whataboutism&#8221; Always a Bad Thing?]]></description>
+        </item>
         <item>
             <title><![CDATA[Uber和Lyft司机在高油价下挣扎]]></title>
             <link>https://www.nytimes.com/2022/03/17/technology/gas-prices-uber-lyft-drivers.html</link>
