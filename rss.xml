@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 17 Mar 2022 12:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 12:55:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[冠状病毒的资金崩溃是一场灾难]]></title>
+            <link>https://www.theatlantic.com/health/archive/2022/03/congress-covid-spending-bill/627090/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/health/archive/2022/03/congress-covid-spending-bill/627090/?utm_source=feed</guid>
+            <pubDate>Thu, 17 Mar 2022 12:07:24 GMT</pubDate>
+            <description><![CDATA[The Coronavirus Funding Collapse Is a Disaster]]></description>
+        </item>
         <item>
             <title><![CDATA[普京的寡头们如何买下伦敦]]></title>
             <link>https://www.newyorker.com/magazine/2022/03/28/how-putins-oligarchs-bought-london</link>
