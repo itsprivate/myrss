@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-17T20:14:17.333Z</updated>
+    <updated>2022-03-17T20:42:21.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Uber和Lyft司機在高油價下掙扎]]></title>
+        <id>https://www.nytimes.com/2022/03/17/technology/gas-prices-uber-lyft-drivers.html</id>
+        <link href="https://www.nytimes.com/2022/03/17/technology/gas-prices-uber-lyft-drivers.html"/>
+        <updated>2022-03-17T20:31:50.000Z</updated>
+        <summary type="html"><![CDATA[Uber, Lyft Drivers Struggle With High Gas Prices]]></summary>
+        <author>
+            <name>Kellen Browning</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[另一個COVID浪潮正在逼近]]></title>
         <id>https://www.theatlantic.com/health/archive/2022/03/omicron-subvariant-new-covid-wave/627094/?utm_source=feed</id>

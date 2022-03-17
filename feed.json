@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/17/technology/gas-prices-uber-lyft-drivers.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/17/technology/gas-prices-uber-lyft-drivers.html",
+            "title": "Uber和Lyft司机在高油价下挣扎",
+            "summary": "Uber, Lyft Drivers Struggle With High Gas Prices",
+            "date_modified": "2022-03-17T20:31:50.000Z",
+            "author": {
+                "name": "Kellen Browning",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/health/archive/2022/03/omicron-subvariant-new-covid-wave/627094/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/health/archive/2022/03/omicron-subvariant-new-covid-wave/627094/?utm_source=feed",
