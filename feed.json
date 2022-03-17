@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/culture/q-and-a/classical-musics-iron-curtain",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/q-and-a/classical-musics-iron-curtain",
+            "title": "古典音乐的铁幕",
+            "summary": "Classical Music’s Iron Curtain",
+            "date_modified": "2022-03-17T22:50:59.000Z",
+            "author": {
+                "name": "Isaac Chotiner",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/podcast/politics-and-more/how-do-we-know-when-someone-is-a-spy",
             "content_html": "",
             "url": "https://www.newyorker.com/podcast/politics-and-more/how-do-we-know-when-someone-is-a-spy",
