@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://astralcodexten.substack.com/p/the-onion-knight",
+            "content_html": "",
+            "url": "https://astralcodexten.substack.com/p/the-onion-knight",
+            "title": "洋葱骑士",
+            "summary": "The Onion Knight",
+            "date_modified": "2022-03-17T18:00:45.000Z",
+            "author": {
+                "name": "Scott Alexander",
+                "url": "https://astralcodexten.substack.com/feed"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/humor/daily-shouts/other-things-they-should-make-green-for-st-patricks-day-besides-beer",
+            "content_html": "",
+            "url": "https://www.newyorker.com/humor/daily-shouts/other-things-they-should-make-green-for-st-patricks-day-besides-beer",
+            "title": "除了啤酒，他们还应该为圣帕特里克节制作绿色的其他东西",
+            "summary": "Other Things They Should Make Green for St. Patrick’s Day Besides Beer",
+            "date_modified": "2022-03-17T18:00:00.000Z",
+            "author": {
+                "name": "Jason Adam Katzenstein, Colin Stokes",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/video/watch/stickworld",
             "content_html": "",
             "url": "https://www.newyorker.com/video/watch/stickworld",
