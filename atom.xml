@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-17T12:55:51.341Z</updated>
+    <updated>2022-03-17T15:58:30.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[民调显示泽伦斯基在2024年美国总统大选中领先]]></title>
+        <id>https://www.newyorker.com/humor/borowitz-report/poll-shows-zelensky-leading-2024-us-presidential-race</id>
+        <link href="https://www.newyorker.com/humor/borowitz-report/poll-shows-zelensky-leading-2024-us-presidential-race"/>
+        <updated>2022-03-17T15:08:38.000Z</updated>
+        <summary type="html"><![CDATA[Poll Shows Zelensky Leading 2024 U.S. Presidential Race]]></summary>
+        <author>
+            <name>Andy Borowitz</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[冠状病毒的资金崩溃是一场灾难]]></title>
         <id>https://www.theatlantic.com/health/archive/2022/03/congress-covid-spending-bill/627090/?utm_source=feed</id>
