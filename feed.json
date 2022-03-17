@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/books/under-review/the-birth-of-the-american-foreign-correspondent",
+            "content_html": "",
+            "url": "https://www.newyorker.com/books/under-review/the-birth-of-the-american-foreign-correspondent",
+            "title": "美国驻外记者的诞生",
+            "summary": "The Birth of the American Foreign Correspondent",
+            "date_modified": "2022-03-17T18:25:00.000Z",
+            "author": {
+                "name": "Krithika Varagur",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
             "id": "https://astralcodexten.substack.com/p/the-onion-knight",
             "content_html": "",
             "url": "https://astralcodexten.substack.com/p/the-onion-knight",
