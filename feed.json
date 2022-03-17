@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/17/business/amazon-staten-island-facility.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/17/business/amazon-staten-island-facility.html",
+            "title": "N.L.R.B.起诉亚马逊在斯塔滕岛工厂的劳工行为。",
+            "summary": "N.L.R.B. sues Amazon over labor practices at a Staten Island facility.",
+            "date_modified": "2022-03-17T19:40:10.000Z",
+            "author": {
+                "name": "Karen Weise",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/our-columnists/jerome-powells-double-message-on-inflation",
             "content_html": "",
             "url": "https://www.newyorker.com/news/our-columnists/jerome-powells-double-message-on-inflation",

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 17 Mar 2022 19:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 19:55:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[N.L.R.B.起訴亞馬遜在斯塔滕島工廠的勞工行為。]]></title>
+            <link>https://www.nytimes.com/2022/03/17/business/amazon-staten-island-facility.html</link>
+            <guid>https://www.nytimes.com/2022/03/17/business/amazon-staten-island-facility.html</guid>
+            <pubDate>Thu, 17 Mar 2022 19:40:10 GMT</pubDate>
+            <description><![CDATA[N.L.R.B. sues Amazon over labor practices at a Staten Island facility.]]></description>
+        </item>
         <item>
             <title><![CDATA[傑羅姆-鮑威爾關於通脹的雙重信息]]></title>
             <link>https://www.newyorker.com/news/our-columnists/jerome-powells-double-message-on-inflation</link>
