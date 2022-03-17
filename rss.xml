@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 17 Mar 2022 17:05:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 17:42:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[棍子! 他们不能做什么？]]></title>
+            <link>https://www.newyorker.com/video/watch/stickworld</link>
+            <guid>https://www.newyorker.com/video/watch/stickworld</guid>
+            <pubDate>Fri, 11 Mar 2022 11:00:00 GMT</pubDate>
+            <description><![CDATA[Sticks! What Can’t They Do?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[扎克-威廉姆斯谈放开逻辑]]></title>
+            <link>https://www.newyorker.com/books/this-week-in-fiction/zach-williams-03-21-22</link>
+            <guid>https://www.newyorker.com/books/this-week-in-fiction/zach-williams-03-21-22</guid>
+            <pubDate>Mon, 14 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Zach Williams on Letting Go of Logic]]></description>
+        </item>
+        <item>
+            <title><![CDATA[普京测量窗帘]]></title>
+            <link>https://www.newyorker.com/cartoons/blitts-kvetchbook/putin-measures-the-drapes</link>
+            <guid>https://www.newyorker.com/cartoons/blitts-kvetchbook/putin-measures-the-drapes</guid>
+            <pubDate>Mon, 14 Mar 2022 21:55:13 GMT</pubDate>
+            <description><![CDATA[Putin Measures the Drapes]]></description>
+        </item>
         <item>
             <title><![CDATA[一些技术的魔力已经消失了]]></title>
             <link>https://www.nytimes.com/2022/03/17/technology/tech-bubble.html</link>
