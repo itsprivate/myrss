@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-17T16:16:25.794Z</updated>
+    <updated>2022-03-17T17:05:44.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一些技術的魔力已經消失了]]></title>
+        <id>https://www.nytimes.com/2022/03/17/technology/tech-bubble.html</id>
+        <link href="https://www.nytimes.com/2022/03/17/technology/tech-bubble.html"/>
+        <updated>2022-03-17T16:48:20.000Z</updated>
+        <summary type="html"><![CDATA[Some of the Tech Magic Is Gone]]></summary>
+        <author>
+            <name>Shira Ovide</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<em>《大西洋》</em>日報。火災保險正在助長一種危險的幻想]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/03/fire-insurance-climate-change/627091/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/fire-insurance-climate-change/627091/?utm_source=feed"/>
+        <updated>2022-03-17T16:44:07.000Z</updated>
+        <summary type="html"><![CDATA[<em>The Atlantic</em> Daily: Fire Insurance Is Feeding a Dangerous Fantasy]]></summary>
+        <author>
+            <name>Caroline Mimbs Nyce</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日漫畫。3月17日，星期四]]></title>
         <id>https://www.newyorker.com/cartoons/daily-cartoon/thursday-march-17th-st-patricks-per-cent</id>

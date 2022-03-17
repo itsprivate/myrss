@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/17/technology/tech-bubble.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/17/technology/tech-bubble.html",
+            "title": "一些技术的魔力已经消失了",
+            "summary": "Some of the Tech Magic Is Gone",
+            "date_modified": "2022-03-17T16:48:20.000Z",
+            "author": {
+                "name": "Shira Ovide",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/newsletters/archive/2022/03/fire-insurance-climate-change/627091/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/newsletters/archive/2022/03/fire-insurance-climate-change/627091/?utm_source=feed",
+            "title": "<em>《大西洋》</em>日报。火灾保险正在助长一种危险的幻想",
+            "summary": "<em>The Atlantic</em> Daily: Fire Insurance Is Feeding a Dangerous Fantasy",
+            "date_modified": "2022-03-17T16:44:07.000Z",
+            "author": {
+                "name": "Caroline Mimbs Nyce",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/cartoons/daily-cartoon/thursday-march-17th-st-patricks-per-cent",
             "content_html": "",
             "url": "https://www.newyorker.com/cartoons/daily-cartoon/thursday-march-17th-st-patricks-per-cent",
