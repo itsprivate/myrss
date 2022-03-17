@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-16T21:52:24.950Z</updated>
+    <updated>2022-03-17T12:19:43.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,116 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[普京的寡頭們如何買下倫敦]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/28/how-putins-oligarchs-bought-london</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/28/how-putins-oligarchs-bought-london"/>
+        <updated>2022-03-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How Putin’s Oligarchs Bought London]]></summary>
+        <author>
+            <name>Patrick Radden Keefe</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[落名：2022年3月17日，星期四]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/17</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/17"/>
+        <updated>2022-03-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Name Drop: Thursday, March 17, 2022]]></summary>
+        <author>
+            <name>Matt Jackson</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一位游泳運動員如何成為有關變性運動員辯論的焦點]]></title>
+        <id>https://www.newyorker.com/sports/sporting-scene/how-one-swimmer-became-the-focus-of-a-debate-about-trans-athletes</id>
+        <link href="https://www.newyorker.com/sports/sporting-scene/how-one-swimmer-became-the-focus-of-a-debate-about-trans-athletes"/>
+        <updated>2022-03-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How One Swimmer Became the Focus of a Debate About Trans Athletes]]></summary>
+        <author>
+            <name>Louisa Thomas</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何解決與你的加密貨幣房東之間的衝突]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/how-to-resolve-conflicts-with-your-crypto-landlord</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/how-to-resolve-conflicts-with-your-crypto-landlord"/>
+        <updated>2022-03-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How to Resolve Conflicts with Your Crypto Landlord]]></summary>
+        <author>
+            <name>Devorah Blachor</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美國各州的能力實際上是相當高的]]></title>
+        <id>https://noahpinion.substack.com/p/us-state-capacity-is-actually-pretty</id>
+        <link href="https://noahpinion.substack.com/p/us-state-capacity-is-actually-pretty"/>
+        <updated>2022-03-17T09:00:08.000Z</updated>
+        <summary type="html"><![CDATA[U.S. state capacity is actually pretty high]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<em>實驗</em>廣播。一個工程師試圖用自己的方式擺脫悲劇的困擾]]></title>
+        <id>https://www.theatlantic.com/podcasts/archive/2022/03/traumatic-brain-injury-rehab-engineering/627089/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/podcasts/archive/2022/03/traumatic-brain-injury-rehab-engineering/627089/?utm_source=feed"/>
+        <updated>2022-03-17T11:07:50.000Z</updated>
+        <summary type="html"><![CDATA[<em>The Experiment </em>Podcast: An Engineer Tries to Build His Way Out of Tragedy]]></summary>
+        <author>
+            <name>The Atlantic</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港的COVID時空隧道]]></title>
+        <id>https://www.theatlantic.com/international/archive/2022/03/hong-kong-china-covid-surge-lockdown/627083/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/international/archive/2022/03/hong-kong-china-covid-surge-lockdown/627083/?utm_source=feed"/>
+        <updated>2022-03-17T11:56:32.000Z</updated>
+        <summary type="html"><![CDATA[Hong Kong’s COVID Time Warp]]></summary>
+        <author>
+            <name>Timothy McLaughlin</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[網上的混蛋就是網下的混蛋]]></title>
+        <id>https://www.theatlantic.com/family/archive/2022/03/how-to-manage-cyberbullying-internet-trolls/627084/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/family/archive/2022/03/how-to-manage-cyberbullying-internet-trolls/627084/?utm_source=feed"/>
+        <updated>2022-03-17T11:17:36.000Z</updated>
+        <summary type="html"><![CDATA[Online Jerks Are Offline Jerks]]></summary>
+        <author>
+            <name>Arthur C. Brooks</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[責罵永遠無法阻止COVID的蔓延]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/covid-restrictions-lifted-mask-mandates/627078/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/covid-restrictions-lifted-mask-mandates/627078/?utm_source=feed"/>
+        <updated>2022-03-17T11:19:51.000Z</updated>
+        <summary type="html"><![CDATA[Scolding Will Never Stop COVID’s Spread]]></summary>
+        <author>
+            <name>Conor Friedersdorf</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[結核病通過......海豹進入南美洲？]]></title>
+        <id>https://www.theatlantic.com/science/archive/2022/03/mystery-how-tuberculosis-got-americas/627088/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/science/archive/2022/03/mystery-how-tuberculosis-got-americas/627088/?utm_source=feed"/>
+        <updated>2022-03-17T12:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Tuberculosis Got to South America Through … Seals?]]></summary>
+        <author>
+            <name>Sarah Zhang</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[澤倫斯基援引珍珠港和9/11事件，懇請華盛頓方面提供更多信息]]></title>
         <id>https://www.newyorker.com/news/daily-comment/zelensky-invokes-pearl-harbor-and-911-as-he-pleads-for-more-from-washington</id>

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 16 Mar 2022 21:52:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 12:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,76 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[普京的寡头们如何买下伦敦]]></title>
+            <link>https://www.newyorker.com/magazine/2022/03/28/how-putins-oligarchs-bought-london</link>
+            <guid>https://www.newyorker.com/magazine/2022/03/28/how-putins-oligarchs-bought-london</guid>
+            <pubDate>Thu, 17 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[How Putin’s Oligarchs Bought London]]></description>
+        </item>
+        <item>
+            <title><![CDATA[落名：2022年3月17日，星期四]]></title>
+            <link>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/17</link>
+            <guid>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/17</guid>
+            <pubDate>Thu, 17 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Name Drop: Thursday, March 17, 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一位游泳运动员如何成为有关变性运动员辩论的焦点]]></title>
+            <link>https://www.newyorker.com/sports/sporting-scene/how-one-swimmer-became-the-focus-of-a-debate-about-trans-athletes</link>
+            <guid>https://www.newyorker.com/sports/sporting-scene/how-one-swimmer-became-the-focus-of-a-debate-about-trans-athletes</guid>
+            <pubDate>Thu, 17 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[How One Swimmer Became the Focus of a Debate About Trans Athletes]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何解决与你的加密货币房东之间的冲突]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/how-to-resolve-conflicts-with-your-crypto-landlord</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/how-to-resolve-conflicts-with-your-crypto-landlord</guid>
+            <pubDate>Thu, 17 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[How to Resolve Conflicts with Your Crypto Landlord]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国各州的能力实际上是相当高的]]></title>
+            <link>https://noahpinion.substack.com/p/us-state-capacity-is-actually-pretty</link>
+            <guid>https://noahpinion.substack.com/p/us-state-capacity-is-actually-pretty</guid>
+            <pubDate>Thu, 17 Mar 2022 09:00:08 GMT</pubDate>
+            <description><![CDATA[U.S. state capacity is actually pretty high]]></description>
+        </item>
+        <item>
+            <title><![CDATA[<em>实验</em>广播。一个工程师试图用自己的方式摆脱悲剧的困扰]]></title>
+            <link>https://www.theatlantic.com/podcasts/archive/2022/03/traumatic-brain-injury-rehab-engineering/627089/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/podcasts/archive/2022/03/traumatic-brain-injury-rehab-engineering/627089/?utm_source=feed</guid>
+            <pubDate>Thu, 17 Mar 2022 11:07:50 GMT</pubDate>
+            <description><![CDATA[<em>The Experiment </em>Podcast: An Engineer Tries to Build His Way Out of Tragedy]]></description>
+        </item>
+        <item>
+            <title><![CDATA[香港的COVID时空隧道]]></title>
+            <link>https://www.theatlantic.com/international/archive/2022/03/hong-kong-china-covid-surge-lockdown/627083/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/international/archive/2022/03/hong-kong-china-covid-surge-lockdown/627083/?utm_source=feed</guid>
+            <pubDate>Thu, 17 Mar 2022 11:56:32 GMT</pubDate>
+            <description><![CDATA[Hong Kong’s COVID Time Warp]]></description>
+        </item>
+        <item>
+            <title><![CDATA[网上的混蛋就是网下的混蛋]]></title>
+            <link>https://www.theatlantic.com/family/archive/2022/03/how-to-manage-cyberbullying-internet-trolls/627084/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/family/archive/2022/03/how-to-manage-cyberbullying-internet-trolls/627084/?utm_source=feed</guid>
+            <pubDate>Thu, 17 Mar 2022 11:17:36 GMT</pubDate>
+            <description><![CDATA[Online Jerks Are Offline Jerks]]></description>
+        </item>
+        <item>
+            <title><![CDATA[责骂永远无法阻止COVID的蔓延]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/03/covid-restrictions-lifted-mask-mandates/627078/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/03/covid-restrictions-lifted-mask-mandates/627078/?utm_source=feed</guid>
+            <pubDate>Thu, 17 Mar 2022 11:19:51 GMT</pubDate>
+            <description><![CDATA[Scolding Will Never Stop COVID’s Spread]]></description>
+        </item>
+        <item>
+            <title><![CDATA[结核病通过......海豹进入南美洲？]]></title>
+            <link>https://www.theatlantic.com/science/archive/2022/03/mystery-how-tuberculosis-got-americas/627088/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/science/archive/2022/03/mystery-how-tuberculosis-got-americas/627088/?utm_source=feed</guid>
+            <pubDate>Thu, 17 Mar 2022 12:00:57 GMT</pubDate>
+            <description><![CDATA[Tuberculosis Got to South America Through … Seals?]]></description>
+        </item>
         <item>
             <title><![CDATA[泽伦斯基援引珍珠港和9/11事件，恳请华盛顿方面提供更多信息]]></title>
             <link>https://www.newyorker.com/news/daily-comment/zelensky-invokes-pearl-harbor-and-911-as-he-pleads-for-more-from-washington</link>
