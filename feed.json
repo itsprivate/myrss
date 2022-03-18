@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/magazine/letter-from-daytona-beach",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/letter-from-daytona-beach",
+            "title": "来自代托纳海滩的信",
+            "summary": "Letter from Daytona Beach",
+            "date_modified": "2022-03-18T02:02:30.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/culture/culture-desk/rosalia-levels-up-as-a-global-pop-superstar",
             "content_html": "",
             "url": "https://www.newyorker.com/culture/culture-desk/rosalia-levels-up-as-a-global-pop-superstar",

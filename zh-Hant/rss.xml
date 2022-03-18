@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 18 Mar 2022 00:41:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 02:15:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[來自代託納海灘的信]]></title>
+            <link>https://www.newyorker.com/magazine/letter-from-daytona-beach</link>
+            <guid>https://www.newyorker.com/magazine/letter-from-daytona-beach</guid>
+            <pubDate>Fri, 18 Mar 2022 02:02:30 GMT</pubDate>
+            <description><![CDATA[Letter from Daytona Beach]]></description>
+        </item>
         <item>
             <title><![CDATA[羅莎莉婭成為全球流行巨星的水平]]></title>
             <link>https://www.newyorker.com/culture/culture-desk/rosalia-levels-up-as-a-global-pop-superstar</link>
