@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-18T02:15:57.476Z</updated>
+    <updated>2022-03-18T02:58:00.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[夜校]]></title>
+        <id>https://www.newyorker.com/magazine/night-school</id>
+        <link href="https://www.newyorker.com/magazine/night-school"/>
+        <updated>2022-03-18T02:52:51.000Z</updated>
+        <summary type="html"><![CDATA[Night School]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[随处可见的艺术]]></title>
+        <id>https://www.newyorker.com/magazine/art-everywhere</id>
+        <link href="https://www.newyorker.com/magazine/art-everywhere"/>
+        <updated>2022-03-18T02:52:51.000Z</updated>
+        <summary type="html"><![CDATA[Art Everywhere]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[来自代托纳海滩的信]]></title>
         <id>https://www.newyorker.com/magazine/letter-from-daytona-beach</id>
