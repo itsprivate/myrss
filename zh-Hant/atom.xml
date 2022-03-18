@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-18T09:41:27.960Z</updated>
+    <updated>2022-03-18T10:14:52.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[奧利維亞-羅德里戈的車輛登記、卡瑪拉-哈里斯的演技以及其他新的大師班課程]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/vehicle-registration-with-olivia-rodrigo-acting-with-kamala-harris-and-other-new-masterclass-sessions</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/vehicle-registration-with-olivia-rodrigo-acting-with-kamala-harris-and-other-new-masterclass-sessions"/>
+        <updated>2022-03-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Vehicle Registration with Olivia Rodrigo, Acting with Kamala Harris, and Other New MasterClass Sessions]]></summary>
+        <author>
+            <name>Meghana Indurti, Karan Sunil</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為馬克-裡朗斯量身定做的 "服裝"]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/28/the-outfit-is-made-to-measure-for-mark-rylance</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/28/the-outfit-is-made-to-measure-for-mark-rylance"/>
+        <updated>2022-03-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“The Outfit” Is Made to Measure for Mark Rylance]]></summary>
+        <author>
+            <name>Anthony Lane</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在一個著火的世界裡，不要再燒東西了]]></title>
+        <id>https://www.newyorker.com/news/essay/in-a-world-on-fire-stop-burning-things</id>
+        <link href="https://www.newyorker.com/news/essay/in-a-world-on-fire-stop-burning-things"/>
+        <updated>2022-03-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In a World on Fire, Stop Burning Things]]></summary>
+        <author>
+            <name>Bill McKibben</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拜登的不確定性原則]]></title>
         <id>https://www.theatlantic.com/politics/archive/2022/03/biden-covid-russia-midterm-elections/627097/?utm_source=feed</id>

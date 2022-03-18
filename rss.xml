@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 18 Mar 2022 09:41:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 10:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[奥利维亚-罗德里戈的车辆登记、卡玛拉-哈里斯的演技以及其他新的大师班课程]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/vehicle-registration-with-olivia-rodrigo-acting-with-kamala-harris-and-other-new-masterclass-sessions</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/vehicle-registration-with-olivia-rodrigo-acting-with-kamala-harris-and-other-new-masterclass-sessions</guid>
+            <pubDate>Fri, 18 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Vehicle Registration with Olivia Rodrigo, Acting with Kamala Harris, and Other New MasterClass Sessions]]></description>
+        </item>
+        <item>
+            <title><![CDATA[为马克-里朗斯量身定做的 "服装"]]></title>
+            <link>https://www.newyorker.com/magazine/2022/03/28/the-outfit-is-made-to-measure-for-mark-rylance</link>
+            <guid>https://www.newyorker.com/magazine/2022/03/28/the-outfit-is-made-to-measure-for-mark-rylance</guid>
+            <pubDate>Fri, 18 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[“The Outfit” Is Made to Measure for Mark Rylance]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在一个着火的世界里，不要再烧东西了]]></title>
+            <link>https://www.newyorker.com/news/essay/in-a-world-on-fire-stop-burning-things</link>
+            <guid>https://www.newyorker.com/news/essay/in-a-world-on-fire-stop-burning-things</guid>
+            <pubDate>Fri, 18 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[In a World on Fire, Stop Burning Things]]></description>
+        </item>
         <item>
             <title><![CDATA[拜登的不确定性原则]]></title>
             <link>https://www.theatlantic.com/politics/archive/2022/03/biden-covid-russia-midterm-elections/627097/?utm_source=feed</link>
