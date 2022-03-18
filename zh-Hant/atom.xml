@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-18T15:15:35.893Z</updated>
+    <updated>2022-03-18T15:36:40.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每日漫畫。3月18日，星期五]]></title>
+        <id>https://www.newyorker.com/cartoons/daily-cartoon/friday-march-18th-witch-garden</id>
+        <link href="https://www.newyorker.com/cartoons/daily-cartoon/friday-march-18th-witch-garden"/>
+        <updated>2022-03-18T15:01:37.000Z</updated>
+        <summary type="html"><![CDATA[Daily Cartoon: Friday, March 18th]]></summary>
+        <author>
+            <name>Ali Solomon</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[夏利-XCX製造了另一個崇拜經典]]></title>
         <id>https://www.theatlantic.com/culture/archive/2022/03/charli-xcx-crash-album-review/627106/?utm_source=feed</id>
