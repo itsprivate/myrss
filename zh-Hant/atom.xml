@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-18T14:31:58.518Z</updated>
+    <updated>2022-03-18T15:15:35.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[夏利-XCX製造了另一個崇拜經典]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/03/charli-xcx-crash-album-review/627106/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/03/charli-xcx-crash-album-review/627106/?utm_source=feed"/>
+        <updated>2022-03-18T14:46:37.000Z</updated>
+        <summary type="html"><![CDATA[Charli XCX Has Made Another Cult Classic]]></summary>
+        <author>
+            <name>Spencer Kornhaber</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[漂流》雜誌的聚會，一個很酷的新雜誌]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/03/the-drift-issue-launch-party-manhattan/627105/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/the-drift-issue-launch-party-manhattan/627105/?utm_source=feed"/>
+        <updated>2022-03-18T14:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Party for ‘The Drift,’ a Cool New Magazine]]></summary>
+        <author>
+            <name>Kaitlyn Tiffany</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[文學不受時間規則的約束]]></title>
         <id>https://www.theatlantic.com/books/archive/2022/03/books-briefing-alejandro-zambra-lauren-groff/627082/?utm_source=feed</id>
