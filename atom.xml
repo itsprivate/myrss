@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-18T10:14:52.603Z</updated>
+    <updated>2022-03-18T10:53:02.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[左派在乌克兰问题上有很好的答案]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/dsa-ukraine-statement-anti-war/627086/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/dsa-ukraine-statement-anti-war/627086/?utm_source=feed"/>
+        <updated>2022-03-18T10:30:56.000Z</updated>
+        <summary type="html"><![CDATA[The Left Has Good Answers on Ukraine]]></summary>
+        <author>
+            <name>Elizabeth Bruenig</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[奥利维亚-罗德里戈的车辆登记、卡玛拉-哈里斯的演技以及其他新的大师班课程]]></title>
         <id>https://www.newyorker.com/humor/daily-shouts/vehicle-registration-with-olivia-rodrigo-acting-with-kamala-harris-and-other-new-masterclass-sessions</id>
