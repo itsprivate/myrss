@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-18T10:53:02.804Z</updated>
+    <updated>2022-03-18T11:29:44.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通貨膨脹很糟糕，而且即將變得更糟糕]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/inflation-federal-reserve-recession/627079/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/inflation-federal-reserve-recession/627079/?utm_source=feed"/>
+        <updated>2022-03-18T11:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Inflation Is Bad and About to Get Worse]]></summary>
+        <author>
+            <name>Annie Lowrey</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你不喜歡日光節約時間。你只是喜歡夏天。]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/daylight-saving-time-bad-teenagers/627095/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/daylight-saving-time-bad-teenagers/627095/?utm_source=feed"/>
+        <updated>2022-03-18T11:00:58.000Z</updated>
+        <summary type="html"><![CDATA[You Don’t Like Daylight Saving Time. You Just Like Summer.]]></summary>
+        <author>
+            <name>Heather Turgeon and Julie Wright</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[流產如何困擾著新的妊娠]]></title>
+        <id>https://www.theatlantic.com/family/archive/2022/03/anxiety-pregnancy-after-miscarriage/627102/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/family/archive/2022/03/anxiety-pregnancy-after-miscarriage/627102/?utm_source=feed"/>
+        <updated>2022-03-18T11:00:58.000Z</updated>
+        <summary type="html"><![CDATA[How Miscarriage Can Haunt a New Pregnancy]]></summary>
+        <author>
+            <name>Kristin Wong</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美國的流感疫苗問題也是其下一個COVID疫苗問題]]></title>
+        <id>https://www.theatlantic.com/health/archive/2022/03/flu-shot-covid-vaccine-mandates/627104/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/health/archive/2022/03/flu-shot-covid-vaccine-mandates/627104/?utm_source=feed"/>
+        <updated>2022-03-18T11:00:58.000Z</updated>
+        <summary type="html"><![CDATA[America’s Flu-Shot Problem Is Also Its Next COVID-Shot Problem]]></summary>
+        <author>
+            <name>Katherine J. Wu</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[左派在烏克蘭問題上有很好的答案]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/03/dsa-ukraine-statement-anti-war/627086/?utm_source=feed</id>

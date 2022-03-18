@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 18 Mar 2022 10:53:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 11:29:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,34 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[通貨膨脹很糟糕，而且即將變得更糟糕]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/03/inflation-federal-reserve-recession/627079/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/03/inflation-federal-reserve-recession/627079/?utm_source=feed</guid>
+            <pubDate>Fri, 18 Mar 2022 11:00:57 GMT</pubDate>
+            <description><![CDATA[Inflation Is Bad and About to Get Worse]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你不喜歡日光節約時間。你只是喜歡夏天。]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/03/daylight-saving-time-bad-teenagers/627095/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/03/daylight-saving-time-bad-teenagers/627095/?utm_source=feed</guid>
+            <pubDate>Fri, 18 Mar 2022 11:00:58 GMT</pubDate>
+            <description><![CDATA[You Don’t Like Daylight Saving Time. You Just Like Summer.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[流產如何困擾著新的妊娠]]></title>
+            <link>https://www.theatlantic.com/family/archive/2022/03/anxiety-pregnancy-after-miscarriage/627102/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/family/archive/2022/03/anxiety-pregnancy-after-miscarriage/627102/?utm_source=feed</guid>
+            <pubDate>Fri, 18 Mar 2022 11:00:58 GMT</pubDate>
+            <description><![CDATA[How Miscarriage Can Haunt a New Pregnancy]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美國的流感疫苗問題也是其下一個COVID疫苗問題]]></title>
+            <link>https://www.theatlantic.com/health/archive/2022/03/flu-shot-covid-vaccine-mandates/627104/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/health/archive/2022/03/flu-shot-covid-vaccine-mandates/627104/?utm_source=feed</guid>
+            <pubDate>Fri, 18 Mar 2022 11:00:58 GMT</pubDate>
+            <description><![CDATA[America’s Flu-Shot Problem Is Also Its Next COVID-Shot Problem]]></description>
+        </item>
         <item>
             <title><![CDATA[左派在烏克蘭問題上有很好的答案]]></title>
             <link>https://www.theatlantic.com/ideas/archive/2022/03/dsa-ukraine-statement-anti-war/627086/?utm_source=feed</link>
