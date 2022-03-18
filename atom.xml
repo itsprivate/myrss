@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-18T11:29:44.276Z</updated>
+    <updated>2022-03-18T14:31:58.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[文学不受时间规则的约束]]></title>
+        <id>https://www.theatlantic.com/books/archive/2022/03/books-briefing-alejandro-zambra-lauren-groff/627082/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/books/archive/2022/03/books-briefing-alejandro-zambra-lauren-groff/627082/?utm_source=feed"/>
+        <updated>2022-03-18T14:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Literature Isn’t Bound by the Rules of Time]]></summary>
+        <author>
+            <name>Emma Sarappo</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通货膨胀很糟糕，而且即将变得更糟糕]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/03/inflation-federal-reserve-recession/627079/?utm_source=feed</id>
