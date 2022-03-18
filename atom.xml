@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-18T07:12:52.284Z</updated>
+    <updated>2022-03-18T07:51:40.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国需要一项拉美政策]]></title>
+        <id>https://noahpinion.substack.com/p/the-us-needs-a-latin-america-policy</id>
+        <link href="https://noahpinion.substack.com/p/the-us-needs-a-latin-america-policy"/>
+        <updated>2022-03-18T07:42:01.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. needs a Latin America policy]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新款iPhone SE的优点和缺点]]></title>
         <id>https://www.nytimes.com/es/2022/03/18/espanol/resena-nuevo-iphone-se.html</id>
