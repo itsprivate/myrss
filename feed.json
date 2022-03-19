@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/magazine/2022/03/28/the-krav-maga-subway-survival-guide",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/03/28/the-krav-maga-subway-survival-guide",
+            "title": "克拉夫马加地铁生存指南",
+            "summary": "The Krav Maga Subway Survival Guide",
+            "date_modified": "2022-03-19T10:00:00.000Z",
+            "author": {
+                "name": "Carrie Battan",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/humor/daily-shouts/other-word-games-invented-for-couples",
+            "content_html": "",
+            "url": "https://www.newyorker.com/humor/daily-shouts/other-word-games-invented-for-couples",
+            "title": "其他为情侣发明的文字游戏",
+            "summary": "Other Word Games Invented for Couples",
+            "date_modified": "2022-03-19T10:00:00.000Z",
+            "author": {
+                "name": "Ali Solomon",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/magazine/2022/03/28/the-complexities-of-the-ukraine-dilemma",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/03/28/the-complexities-of-the-ukraine-dilemma",
+            "title": "乌克兰困境的复杂性",
+            "summary": "The Complexities of the Ukraine Dilemma",
+            "date_modified": "2022-03-19T10:00:00.000Z",
+            "author": {
+                "name": "Steve Coll",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://astralcodexten.substack.com/p/biological-anchors-a-trick-that-might",
             "content_html": "",
             "url": "https://astralcodexten.substack.com/p/biological-anchors-a-trick-that-might",

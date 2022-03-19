@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-19T10:13:14.721Z</updated>
+    <updated>2022-03-19T11:09:48.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[克拉夫马加地铁生存指南]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/28/the-krav-maga-subway-survival-guide</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/28/the-krav-maga-subway-survival-guide"/>
+        <updated>2022-03-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Krav Maga Subway Survival Guide]]></summary>
+        <author>
+            <name>Carrie Battan</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[其他为情侣发明的文字游戏]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/other-word-games-invented-for-couples</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/other-word-games-invented-for-couples"/>
+        <updated>2022-03-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Other Word Games Invented for Couples]]></summary>
+        <author>
+            <name>Ali Solomon</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰困境的复杂性]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/28/the-complexities-of-the-ukraine-dilemma</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/28/the-complexities-of-the-ukraine-dilemma"/>
+        <updated>2022-03-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Complexities of the Ukraine Dilemma]]></summary>
+        <author>
+            <name>Steve Coll</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[生物锚。一个可能或不可能成功的技巧]]></title>
         <id>https://astralcodexten.substack.com/p/biological-anchors-a-trick-that-might</id>
