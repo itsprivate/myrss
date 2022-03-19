@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 19 Mar 2022 11:09:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 11:30:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[共和党人认为他们可以赢得COVID资金之争]]></title>
+            <link>https://www.theatlantic.com/politics/archive/2022/03/covid-relief-aid-congress-republicans/627109/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/politics/archive/2022/03/covid-relief-aid-congress-republicans/627109/?utm_source=feed</guid>
+            <pubDate>Sat, 19 Mar 2022 11:01:56 GMT</pubDate>
+            <description><![CDATA[Republicans Think They Can Win the COVID Funding Fight]]></description>
+        </item>
         <item>
             <title><![CDATA[克拉夫马加地铁生存指南]]></title>
             <link>https://www.newyorker.com/magazine/2022/03/28/the-krav-maga-subway-survival-guide</link>
