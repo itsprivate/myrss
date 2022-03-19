@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-19T12:51:35.608Z</updated>
+    <updated>2022-03-19T14:41:54.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[<em>《大西洋日報》<em>。我們已經最後一次向前衝了嗎？]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/03/daylight-saving-time-bill-senate/627118/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/daylight-saving-time-bill-senate/627118/?utm_source=feed"/>
+        <updated>2022-03-19T14:19:51.000Z</updated>
+        <summary type="html"><![CDATA[<em>The Atlantic </em>Daily: Have We Sprung Forward for the Last Time?]]></summary>
+        <author>
+            <name>Caroline Mimbs Nyce</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一部向經典致敬的恐怖片]]></title>
         <id>https://www.theatlantic.com/culture/archive/2022/03/x-movie-review/627111/?utm_source=feed</id>
