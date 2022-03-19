@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 19 Mar 2022 11:30:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 12:51:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一部向经典致敬的恐怖片]]></title>
+            <link>https://www.theatlantic.com/culture/archive/2022/03/x-movie-review/627111/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/culture/archive/2022/03/x-movie-review/627111/?utm_source=feed</guid>
+            <pubDate>Sat, 19 Mar 2022 12:00:56 GMT</pubDate>
+            <description><![CDATA[A Slasher Film That Pays Tribute to the Classics]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国的能源安全正在崩溃]]></title>
+            <link>https://www.theatlantic.com/science/archive/2022/03/energy-independence-gas-prices/627117/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/science/archive/2022/03/energy-independence-gas-prices/627117/?utm_source=feed</guid>
+            <pubDate>Sat, 19 Mar 2022 12:00:57 GMT</pubDate>
+            <description><![CDATA[America’s Energy Security Is Falling Apart]]></description>
+        </item>
         <item>
             <title><![CDATA[共和党人认为他们可以赢得COVID资金之争]]></title>
             <link>https://www.theatlantic.com/politics/archive/2022/03/covid-relief-aid-congress-republicans/627109/?utm_source=feed</link>

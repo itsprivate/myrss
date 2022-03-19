@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-19T11:30:01.585Z</updated>
+    <updated>2022-03-19T12:51:35.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一部向经典致敬的恐怖片]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/03/x-movie-review/627111/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/03/x-movie-review/627111/?utm_source=feed"/>
+        <updated>2022-03-19T12:00:56.000Z</updated>
+        <summary type="html"><![CDATA[A Slasher Film That Pays Tribute to the Classics]]></summary>
+        <author>
+            <name>David Sims</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国的能源安全正在崩溃]]></title>
+        <id>https://www.theatlantic.com/science/archive/2022/03/energy-independence-gas-prices/627117/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/science/archive/2022/03/energy-independence-gas-prices/627117/?utm_source=feed"/>
+        <updated>2022-03-19T12:00:57.000Z</updated>
+        <summary type="html"><![CDATA[America’s Energy Security Is Falling Apart]]></summary>
+        <author>
+            <name>Robinson Meyer</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[共和党人认为他们可以赢得COVID资金之争]]></title>
         <id>https://www.theatlantic.com/politics/archive/2022/03/covid-relief-aid-congress-republicans/627109/?utm_source=feed</id>
