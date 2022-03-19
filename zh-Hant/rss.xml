@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 19 Mar 2022 15:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 16:48:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼羅伯特-帕丁森扮演的嚴峻的蝙蝠俠讓人感到樂觀？]]></title>
+            <link>https://www.theatlantic.com/podcasts/archive/2022/03/why-robert-pattinsons-grim-batman-is-cause-for-optimism/627119/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/podcasts/archive/2022/03/why-robert-pattinsons-grim-batman-is-cause-for-optimism/627119/?utm_source=feed</guid>
+            <pubDate>Sat, 19 Mar 2022 16:16:15 GMT</pubDate>
+            <description><![CDATA[Why Robert Pattinson’s Grim Batman Is Cause for Optimism]]></description>
+        </item>
         <item>
             <title><![CDATA[基輔崇高的城市空間正處於危險之中]]></title>
             <link>https://www.theatlantic.com/culture/archive/2022/03/ukraine-war-kyiv-urban-spaces/627098/?utm_source=feed</link>
