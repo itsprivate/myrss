@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sun, 20 Mar 2022 02:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 10:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,48 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[每天冥想一小时的人可能会更快乐的原因]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/reasons-that-people-who-meditate-for-an-hour-a-day-might-be-happier</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/reasons-that-people-who-meditate-for-an-hour-a-day-might-be-happier</guid>
+            <pubDate>Sun, 20 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Reasons That People Who Meditate for an Hour a Day Might Be Happier]]></description>
+        </item>
+        <item>
+            <title><![CDATA[密码字谜: 2022年3月20日，星期日]]></title>
+            <link>https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/03/20</link>
+            <guid>https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/03/20</guid>
+            <pubDate>Sun, 20 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Cryptic Crossword: Sunday, March 20, 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[逃离普京的战时镇压的俄罗斯人]]></title>
+            <link>https://www.newyorker.com/magazine/2022/03/28/the-russians-fleeing-putins-wartime-crackdown</link>
+            <guid>https://www.newyorker.com/magazine/2022/03/28/the-russians-fleeing-putins-wartime-crackdown</guid>
+            <pubDate>Sun, 20 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Russians Fleeing Putin’s Wartime Crackdown]]></description>
+        </item>
+        <item>
+            <title><![CDATA[酒馆里的幽灵]]></title>
+            <link>https://www.newyorker.com/culture/personal-history/ghosts-at-the-liquor-store</link>
+            <guid>https://www.newyorker.com/culture/personal-history/ghosts-at-the-liquor-store</guid>
+            <pubDate>Sun, 20 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Ghosts at the Liquor Store]]></description>
+        </item>
+        <item>
+            <title><![CDATA[主日阅读。戏剧的光辉人物]]></title>
+            <link>https://www.newyorker.com/books/double-take/sunday-reading-luminaries-of-the-theatre</link>
+            <guid>https://www.newyorker.com/books/double-take/sunday-reading-luminaries-of-the-theatre</guid>
+            <pubDate>Sun, 20 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Sunday Reading: Luminaries of the Theatre]]></description>
+        </item>
+        <item>
+            <title><![CDATA[斯坦利-纳尔逊一生都在记录黑人的经历]]></title>
+            <link>https://www.newyorker.com/culture/the-new-yorker-interview/stanley-nelsons-lifetime-of-documenting-black-experience</link>
+            <guid>https://www.newyorker.com/culture/the-new-yorker-interview/stanley-nelsons-lifetime-of-documenting-black-experience</guid>
+            <pubDate>Sun, 20 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Stanley Nelson’s Lifetime of Documenting Black Experience]]></description>
+        </item>
         <item>
             <title><![CDATA[联合学习和隐私]]></title>
             <link>http://cacm.acm.org/magazines/2022/4/259417-federated-learning-and-privacy</link>
@@ -4171,48 +4213,6 @@
             <guid>https://www.theatlantic.com/family/archive/2022/03/covid-pandemic-story-two-years/627023/?utm_source=feed</guid>
             <pubDate>Thu, 10 Mar 2022 17:08:50 GMT</pubDate>
             <description><![CDATA[The Pandemic Has Been a Story That Makes No Sense]]></description>
-        </item>
-        <item>
-            <title><![CDATA[这些是乌克兰抵抗的声音]]></title>
-            <link>https://www.theatlantic.com/culture/archive/2022/03/ukraine-war-music-history/627024/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/culture/archive/2022/03/ukraine-war-music-history/627024/?utm_source=feed</guid>
-            <pubDate>Thu, 10 Mar 2022 17:18:38 GMT</pubDate>
-            <description><![CDATA[These Are the Sounds of Ukrainian Resistance]]></description>
-        </item>
-        <item>
-            <title><![CDATA[对未醒来的学者的建议？]]></title>
-            <link>https://astralcodexten.substack.com/p/advice-for-unwoke-academic</link>
-            <guid>https://astralcodexten.substack.com/p/advice-for-unwoke-academic</guid>
-            <pubDate>Thu, 10 Mar 2022 07:47:30 GMT</pubDate>
-            <description><![CDATA[Advice For Unwoke Academic?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Daily Cartoon: Wednesday, March 9th]]></title>
-            <link>https://www.newyorker.com/cartoons/daily-cartoon/wednesday-march-9th-winter-boots</link>
-            <guid>https://www.newyorker.com/cartoons/daily-cartoon/wednesday-march-9th-winter-boots</guid>
-            <pubDate>Wed, 09 Mar 2022 15:31:04 GMT</pubDate>
-            <description><![CDATA[Daily Cartoon: Wednesday, March 9th]]></description>
-        </item>
-        <item>
-            <title><![CDATA[重新审视普京在中东的军事干预行动]]></title>
-            <link>https://www.newyorker.com/news/q-and-a/reexamining-putins-military-interventions-in-the-middle-east</link>
-            <guid>https://www.newyorker.com/news/q-and-a/reexamining-putins-military-interventions-in-the-middle-east</guid>
-            <pubDate>Wed, 09 Mar 2022 17:00:16 GMT</pubDate>
-            <description><![CDATA[Reëxamining Putin’s Military Interventions in the Middle East]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我是怎样的人？]]></title>
-            <link>https://www.newyorker.com/humor/daily-shouts/how-am-i</link>
-            <guid>https://www.newyorker.com/humor/daily-shouts/how-am-i</guid>
-            <pubDate>Wed, 09 Mar 2022 20:15:41 GMT</pubDate>
-            <description><![CDATA[How Am I?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[At Home with the Families Affected by Texas’s New Anti-Trans Orders]]></title>
-            <link>https://www.newyorker.com/news/letter-from-the-southwest/at-home-with-the-families-affected-by-texass-new-anti-trans-orders</link>
-            <guid>https://www.newyorker.com/news/letter-from-the-southwest/at-home-with-the-families-affected-by-texass-new-anti-trans-orders</guid>
-            <pubDate>Wed, 09 Mar 2022 21:36:28 GMT</pubDate>
-            <description><![CDATA[At Home with the Families Affected by Texas’s New Anti-Trans Orders]]></description>
         </item>
     </channel>
 </rss>

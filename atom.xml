@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-20T02:14:52.272Z</updated>
+    <updated>2022-03-20T10:14:06.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每天冥想一小时的人可能会更快乐的原因]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/reasons-that-people-who-meditate-for-an-hour-a-day-might-be-happier</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/reasons-that-people-who-meditate-for-an-hour-a-day-might-be-happier"/>
+        <updated>2022-03-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Reasons That People Who Meditate for an Hour a Day Might Be Happier]]></summary>
+        <author>
+            <name>Eva Hill, Ginny Hogan</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[密码字谜: 2022年3月20日，星期日]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/03/20</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/03/20"/>
+        <updated>2022-03-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Cryptic Crossword: Sunday, March 20, 2022]]></summary>
+        <author>
+            <name>Trip Payne</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[逃离普京的战时镇压的俄罗斯人]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/28/the-russians-fleeing-putins-wartime-crackdown</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/28/the-russians-fleeing-putins-wartime-crackdown"/>
+        <updated>2022-03-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Russians Fleeing Putin’s Wartime Crackdown]]></summary>
+        <author>
+            <name>Masha Gessen</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[酒馆里的幽灵]]></title>
+        <id>https://www.newyorker.com/culture/personal-history/ghosts-at-the-liquor-store</id>
+        <link href="https://www.newyorker.com/culture/personal-history/ghosts-at-the-liquor-store"/>
+        <updated>2022-03-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ghosts at the Liquor Store]]></summary>
+        <author>
+            <name>Samantha Hunt</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[主日阅读。戏剧的光辉人物]]></title>
+        <id>https://www.newyorker.com/books/double-take/sunday-reading-luminaries-of-the-theatre</id>
+        <link href="https://www.newyorker.com/books/double-take/sunday-reading-luminaries-of-the-theatre"/>
+        <updated>2022-03-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sunday Reading: Luminaries of the Theatre]]></summary>
+        <author>
+            <name>Erin Overbey</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[斯坦利-纳尔逊一生都在记录黑人的经历]]></title>
+        <id>https://www.newyorker.com/culture/the-new-yorker-interview/stanley-nelsons-lifetime-of-documenting-black-experience</id>
+        <link href="https://www.newyorker.com/culture/the-new-yorker-interview/stanley-nelsons-lifetime-of-documenting-black-experience"/>
+        <updated>2022-03-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Stanley Nelson’s Lifetime of Documenting Black Experience]]></summary>
+        <author>
+            <name>Hua Hsu</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[联合学习和隐私]]></title>
         <id>http://cacm.acm.org/magazines/2022/4/259417-federated-learning-and-privacy</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>Joe Pinsker</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这些是乌克兰抵抗的声音]]></title>
-        <id>https://www.theatlantic.com/culture/archive/2022/03/ukraine-war-music-history/627024/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/culture/archive/2022/03/ukraine-war-music-history/627024/?utm_source=feed"/>
-        <updated>2022-03-10T17:18:38.000Z</updated>
-        <summary type="html"><![CDATA[These Are the Sounds of Ukrainian Resistance]]></summary>
-        <author>
-            <name>Spencer Kornhaber</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对未醒来的学者的建议？]]></title>
-        <id>https://astralcodexten.substack.com/p/advice-for-unwoke-academic</id>
-        <link href="https://astralcodexten.substack.com/p/advice-for-unwoke-academic"/>
-        <updated>2022-03-10T07:47:30.000Z</updated>
-        <summary type="html"><![CDATA[Advice For Unwoke Academic?]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily Cartoon: Wednesday, March 9th]]></title>
-        <id>https://www.newyorker.com/cartoons/daily-cartoon/wednesday-march-9th-winter-boots</id>
-        <link href="https://www.newyorker.com/cartoons/daily-cartoon/wednesday-march-9th-winter-boots"/>
-        <updated>2022-03-09T15:31:04.000Z</updated>
-        <summary type="html"><![CDATA[Daily Cartoon: Wednesday, March 9th]]></summary>
-        <author>
-            <name>Zoe Si, Timothy Cahill</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重新审视普京在中东的军事干预行动]]></title>
-        <id>https://www.newyorker.com/news/q-and-a/reexamining-putins-military-interventions-in-the-middle-east</id>
-        <link href="https://www.newyorker.com/news/q-and-a/reexamining-putins-military-interventions-in-the-middle-east"/>
-        <updated>2022-03-09T17:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Reëxamining Putin’s Military Interventions in the Middle East]]></summary>
-        <author>
-            <name>Isaac Chotiner</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我是怎样的人？]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/how-am-i</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/how-am-i"/>
-        <updated>2022-03-09T20:15:41.000Z</updated>
-        <summary type="html"><![CDATA[How Am I?]]></summary>
-        <author>
-            <name>Ivan Ehlers</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[At Home with the Families Affected by Texas’s New Anti-Trans Orders]]></title>
-        <id>https://www.newyorker.com/news/letter-from-the-southwest/at-home-with-the-families-affected-by-texass-new-anti-trans-orders</id>
-        <link href="https://www.newyorker.com/news/letter-from-the-southwest/at-home-with-the-families-affected-by-texass-new-anti-trans-orders"/>
-        <updated>2022-03-09T21:36:28.000Z</updated>
-        <summary type="html"><![CDATA[At Home with the Families Affected by Texas’s New Anti-Trans Orders]]></summary>
-        <author>
-            <name>Rachel Monroe</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
