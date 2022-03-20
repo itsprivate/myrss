@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-20T12:49:29.245Z</updated>
+    <updated>2022-03-20T14:31:19.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["特洛伊木馬事件 "在研究其自身時效果最好]]></title>
+        <id>https://www.newyorker.com/culture/podcast-dept/the-trojan-horse-affair-works-best-when-studying-itself</id>
+        <link href="https://www.newyorker.com/culture/podcast-dept/the-trojan-horse-affair-works-best-when-studying-itself"/>
+        <updated>2022-03-20T14:07:14.000Z</updated>
+        <summary type="html"><![CDATA[“The Trojan Horse Affair” Works Best When Studying Itself]]></summary>
+        <author>
+            <name>Sarah Larson</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[變化]]></title>
         <id>https://www.theatlantic.com/books/archive/2022/03/poem-stephen-sandy-change/627116/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[What Ukrainian Literature Has Always Understood About Russia]]></summary>
         <author>
             <name>Uilleam Blacker</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第一次TikTok戰爭 "的神話]]></title>
-        <id>https://www.theatlantic.com/technology/archive/2022/03/tiktok-war-ukraine-russia/627017/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/technology/archive/2022/03/tiktok-war-ukraine-russia/627017/?utm_source=feed"/>
-        <updated>2022-03-10T16:01:34.000Z</updated>
-        <summary type="html"><![CDATA[The Myth of the ‘First TikTok War’]]></summary>
-        <author>
-            <name>Kaitlyn Tiffany</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>

@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/culture/podcast-dept/the-trojan-horse-affair-works-best-when-studying-itself",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/podcast-dept/the-trojan-horse-affair-works-best-when-studying-itself",
+            "title": "\"特洛伊木馬事件 \"在研究其自身時效果最好",
+            "summary": "“The Trojan Horse Affair” Works Best When Studying Itself",
+            "date_modified": "2022-03-20T14:07:14.000Z",
+            "author": {
+                "name": "Sarah Larson",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/books/archive/2022/03/poem-stephen-sandy-change/627116/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/books/archive/2022/03/poem-stephen-sandy-change/627116/?utm_source=feed",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-10T14:30:44.000Z",
             "author": {
                 "name": "Uilleam Blacker",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/technology/archive/2022/03/tiktok-war-ukraine-russia/627017/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/technology/archive/2022/03/tiktok-war-ukraine-russia/627017/?utm_source=feed",
-            "title": "第一次TikTok戰爭 \"的神話",
-            "summary": "The Myth of the ‘First TikTok War’",
-            "date_modified": "2022-03-10T16:01:34.000Z",
-            "author": {
-                "name": "Kaitlyn Tiffany",
                 "url": "https://www.theatlantic.com/feed/all/"
             }
         }
