@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sun, 20 Mar 2022 10:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 10:51:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[公平地取消俄羅斯的三個規則]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/03/right-way-cancel-russia/627115/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/03/right-way-cancel-russia/627115/?utm_source=feed</guid>
+            <pubDate>Sun, 20 Mar 2022 10:30:56 GMT</pubDate>
+            <description><![CDATA[The Three Rules for Canceling Russia Fairly]]></description>
+        </item>
         <item>
             <title><![CDATA[每天冥想一小時的人可能會更快樂的原因]]></title>
             <link>https://www.newyorker.com/humor/daily-shouts/reasons-that-people-who-meditate-for-an-hour-a-day-might-be-happier</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/health/archive/2022/03/covid-vaccine-mandate-restaurant/627018/?utm_source=feed</guid>
             <pubDate>Thu, 10 Mar 2022 17:13:14 GMT</pubDate>
             <description><![CDATA[Restaurant Vaccine Mandates Were Set Up to Fail]]></description>
-        </item>
-        <item>
-            <title><![CDATA[大流行病一直是一個毫無意義的故事]]></title>
-            <link>https://www.theatlantic.com/family/archive/2022/03/covid-pandemic-story-two-years/627023/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/family/archive/2022/03/covid-pandemic-story-two-years/627023/?utm_source=feed</guid>
-            <pubDate>Thu, 10 Mar 2022 17:08:50 GMT</pubDate>
-            <description><![CDATA[The Pandemic Has Been a Story That Makes No Sense]]></description>
         </item>
     </channel>
 </rss>
