@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/20/world/americas/brazil-telegram-bolsonaro.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/20/world/americas/brazil-telegram-bolsonaro.html",
+            "title": "巴西两天后解除对Telegram的禁令",
+            "summary": "Brazil Lifts Its Ban on Telegram After Two Days",
+            "date_modified": "2022-03-20T22:11:32.000Z",
+            "author": {
+                "name": "Jack Nicas and André Spigariol",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/culture/podcast-dept/the-trojan-horse-affair-works-best-when-studying-itself",
             "content_html": "",
             "url": "https://www.newyorker.com/culture/podcast-dept/the-trojan-horse-affair-works-best-when-studying-itself",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-10T12:31:33.000Z",
             "author": {
                 "name": "Olga Khazan",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/books/archive/2022/03/ukrainian-books-resistance-russia-imperialism/626977/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/books/archive/2022/03/ukrainian-books-resistance-russia-imperialism/626977/?utm_source=feed",
-            "title": "乌克兰文学对俄罗斯一直以来的理解",
-            "summary": "What Ukrainian Literature Has Always Understood About Russia",
-            "date_modified": "2022-03-10T14:30:44.000Z",
-            "author": {
-                "name": "Uilleam Blacker",
                 "url": "https://www.theatlantic.com/feed/all/"
             }
         }

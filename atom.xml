@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-20T14:31:18.903Z</updated>
+    <updated>2022-03-20T22:32:11.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[巴西两天后解除对Telegram的禁令]]></title>
+        <id>https://www.nytimes.com/2022/03/20/world/americas/brazil-telegram-bolsonaro.html</id>
+        <link href="https://www.nytimes.com/2022/03/20/world/americas/brazil-telegram-bolsonaro.html"/>
+        <updated>2022-03-20T22:11:32.000Z</updated>
+        <summary type="html"><![CDATA[Brazil Lifts Its Ban on Telegram After Two Days]]></summary>
+        <author>
+            <name>Jack Nicas and André Spigariol</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["特洛伊木马事件 "在研究其自身时效果最好]]></title>
         <id>https://www.newyorker.com/culture/podcast-dept/the-trojan-horse-affair-works-best-when-studying-itself</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[I Watched Russian TV So You Don’t Have To]]></summary>
         <author>
             <name>Olga Khazan</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰文学对俄罗斯一直以来的理解]]></title>
-        <id>https://www.theatlantic.com/books/archive/2022/03/ukrainian-books-resistance-russia-imperialism/626977/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/books/archive/2022/03/ukrainian-books-resistance-russia-imperialism/626977/?utm_source=feed"/>
-        <updated>2022-03-10T14:30:44.000Z</updated>
-        <summary type="html"><![CDATA[What Ukrainian Literature Has Always Understood About Russia]]></summary>
-        <author>
-            <name>Uilleam Blacker</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
