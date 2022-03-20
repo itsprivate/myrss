@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-20T11:12:38.286Z</updated>
+    <updated>2022-03-20T12:49:29.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[變化]]></title>
+        <id>https://www.theatlantic.com/books/archive/2022/03/poem-stephen-sandy-change/627116/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/books/archive/2022/03/poem-stephen-sandy-change/627116/?utm_source=feed"/>
+        <updated>2022-03-20T12:00:57.000Z</updated>
+        <summary type="html"><![CDATA[The Change]]></summary>
+        <author>
+            <name>Stephen Sandy</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[凱坦吉-布朗-傑克遜知道的法院]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/03/court-ketanji-brown-jackson-knew/627096/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[The Myth of the ‘First TikTok War’]]></summary>
         <author>
             <name>Kaitlyn Tiffany</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[想了解紅州的攻勢嗎？看看佛羅里達州吧。]]></title>
-        <id>https://www.theatlantic.com/politics/archive/2022/03/florida-dont-say-gay-law/627021/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/politics/archive/2022/03/florida-dont-say-gay-law/627021/?utm_source=feed"/>
-        <updated>2022-03-10T17:21:35.000Z</updated>
-        <summary type="html"><![CDATA[Want to Understand the Red-State Onslaught? Look at Florida.]]></summary>
-        <author>
-            <name>Ronald Brownstein</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
