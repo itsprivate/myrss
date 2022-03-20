@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/03/court-ketanji-brown-jackson-knew/627096/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/03/court-ketanji-brown-jackson-knew/627096/?utm_source=feed",
+            "title": "凯坦吉-布朗-杰克逊知道的法院",
+            "summary": "The Court Ketanji Brown Jackson Knew",
+            "date_modified": "2022-03-20T11:01:56.000Z",
+            "author": {
+                "name": "Linda Greenhouse",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/ideas/archive/2022/03/right-way-cancel-russia/627115/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/ideas/archive/2022/03/right-way-cancel-russia/627115/?utm_source=feed",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-10T17:21:35.000Z",
             "author": {
                 "name": "Ronald Brownstein",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/health/archive/2022/03/covid-vaccine-mandate-restaurant/627018/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/health/archive/2022/03/covid-vaccine-mandate-restaurant/627018/?utm_source=feed",
-            "title": "餐馆接种疫苗的规定被设定为失败。",
-            "summary": "Restaurant Vaccine Mandates Were Set Up to Fail",
-            "date_modified": "2022-03-10T17:13:14.000Z",
-            "author": {
-                "name": "Rachel Gutman",
                 "url": "https://www.theatlantic.com/feed/all/"
             }
         }
