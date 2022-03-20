@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 19 Mar 2022 16:48:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 02:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,216 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[聯合學習和隱私]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259417-federated-learning-and-privacy</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259417-federated-learning-and-privacy</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Federated Learning and Privacy]]></description>
+        </item>
+        <item>
+            <title><![CDATA[技術視角。探索 "野生 "的認知偏差]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259416-technical-perspective-exploring-cognitive-bias-in-the-wild</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259416-technical-perspective-exploring-cognitive-bias-in-the-wild</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Technical Perspective: Exploring Cognitive Bias 'In the Wild']]></description>
+        </item>
+        <item>
+            <title><![CDATA[能源信息學]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259415-energy-informatics</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259415-energy-informatics</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Energy Informatics]]></description>
+        </item>
+        <item>
+            <title><![CDATA[信任、監管和 "人在迴路 "人工智能]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259414-trust-regulation-and-human-in-the-loop-ai</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259414-trust-regulation-and-human-in-the-loop-ai</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Trust, Regulation, and Human-in-the-Loop AI]]></description>
+        </item>
+        <item>
+            <title><![CDATA[當軟件工程遇到量子計算]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259413-when-software-engineering-meets-quantum-computing</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259413-when-software-engineering-meets-quantum-computing</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[When Software Engineering Meets Quantum Computing]]></description>
+        </item>
+        <item>
+            <title><![CDATA[モバイル指南]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259412-mobiguide</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259412-mobiguide</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[MobiGuide]]></description>
+        </item>
+        <item>
+            <title><![CDATA[歐洲在流程管理方面的領導地位]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259411-european-leadership-in-process-management</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259411-european-leadership-in-process-management</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[European Leadership in Process Management]]></description>
+        </item>
+        <item>
+            <title><![CDATA[歐洲人工智能法規下的推薦系統]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259410-recommender-systems-under-european-ai-regulations</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259410-recommender-systems-under-european-ai-regulations</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Recommender Systems Under European AI Regulations]]></description>
+        </item>
+        <item>
+            <title><![CDATA[菲尼克斯]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259409-fenix</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259409-fenix</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Fenix]]></description>
+        </item>
+        <item>
+            <title><![CDATA[關於人工智能、數據和機器人的夥伴關係]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259408-partnership-on-ai-data-and-robotics</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259408-partnership-on-ai-data-and-robotics</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Partnership on AI, Data, and Robotics]]></description>
+        </item>
+        <item>
+            <title><![CDATA[歐洲國家內計算機科學研究的趨勢]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259407-trends-in-computer-science-research-within-european-countries</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259407-trends-in-computer-science-research-within-european-countries</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Trends in Computer Science Research within European Countries]]></description>
+        </item>
+        <item>
+            <title><![CDATA[關於6G和可信度]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259406-on-6g-and-trustworthiness</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259406-on-6g-and-trustworthiness</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[On 6G and Trustworthiness]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用於災難應對的移動電話使用數據]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259405-mobile-phone-usage-data-for-disaster-response</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259405-mobile-phone-usage-data-for-disaster-response</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Mobile Phone Usage Data for Disaster Response]]></description>
+        </item>
+        <item>
+            <title><![CDATA[面向未來網絡的隱私保護型人工智能]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259404-privacy-preserving-ai-for-future-networks</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259404-privacy-preserving-ai-for-future-networks</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Privacy-Preserving AI for Future Networks]]></description>
+        </item>
+        <item>
+            <title><![CDATA[歐洲數據空間的聯合基礎設施]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259403-a-federated-infrastructure-for-european-data-spaces</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259403-a-federated-infrastructure-for-european-data-spaces</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[A Federated Infrastructure for European Data Spaces]]></description>
+        </item>
+        <item>
+            <title><![CDATA[邁向廣泛的人工智能]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259402-toward-a-broad-ai</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259402-toward-a-broad-ai</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Toward a Broad AI]]></description>
+        </item>
+        <item>
+            <title><![CDATA[生產互聯網]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259401-internet-of-production</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259401-internet-of-production</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Internet of Production]]></description>
+        </item>
+        <item>
+            <title><![CDATA[皮膚上的計算]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259400-on-skin-computing</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259400-on-skin-computing</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[On-Skin Computing]]></description>
+        </item>
+        <item>
+            <title><![CDATA[機器人流程自動化平臺UiPath]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259399-robotic-process-automation-platform-uipath</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259399-robotic-process-automation-platform-uipath</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Robotic Process Automation Platform UiPath]]></description>
+        </item>
+        <item>
+            <title><![CDATA[可解釋的人工智能]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259398-explainable-ai</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259398-explainable-ai</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Explainable AI]]></description>
+        </item>
+        <item>
+            <title><![CDATA[通訊社的數字倡議及其首次數字活動]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259397-communications-digital-initiative-and-its-first-digital-event</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259397-communications-digital-initiative-and-its-first-digital-event</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Communications' Digital Initiative and Its First Digital Event]]></description>
+        </item>
+        <item>
+            <title><![CDATA[走出瘋狂的道路]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259396-getting-off-the-mad-path</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259396-getting-off-the-mad-path</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Getting Off the Mad Path]]></description>
+        </item>
+        <item>
+            <title><![CDATA[系統抽象]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259395-systems-abstractions</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259395-systems-abstractions</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Systems Abstractions]]></description>
+        </item>
+        <item>
+            <title><![CDATA[全球供應鏈的破壞和復原力]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259394-global-supply-chain-disruption-and-resilience</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259394-global-supply-chain-disruption-and-resilience</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Global Supply Chain Disruption and Resilience]]></description>
+        </item>
+        <item>
+            <title><![CDATA[歡迎]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259393-welcome</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259393-welcome</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome]]></description>
+        </item>
+        <item>
+            <title><![CDATA[仍在等待自動駕駛汽車的出現]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259392-still-waiting-for-self-driving-cars</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259392-still-waiting-for-self-driving-cars</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Still Waiting for Self-Driving Cars]]></description>
+        </item>
+        <item>
+            <title><![CDATA[人工智能能否學會遺忘？]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259391-can-ai-learn-to-forget</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259391-can-ai-learn-to-forget</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Can AI Learn to Forget?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[技術對道德的影響]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259390-technologys-impact-on-morality</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259390-technologys-impact-on-morality</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Technology's Impact on Morality]]></description>
+        </item>
+        <item>
+            <title><![CDATA[實現全民CS可能需要數十年時間]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259389-achieving-cs-for-all-could-take-decades</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259389-achieving-cs-for-all-could-take-decades</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Achieving CS for All Could Take Decades]]></description>
+        </item>
+        <item>
+            <title><![CDATA[保護互聯網]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259388-preserving-the-internet</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259388-preserving-the-internet</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Preserving the Internet]]></description>
+        </item>
         <item>
             <title><![CDATA[為什麼羅伯特-帕丁森扮演的嚴峻的蝙蝠俠讓人感到樂觀？]]></title>
             <link>https://www.theatlantic.com/podcasts/archive/2022/03/why-robert-pattinsons-grim-batman-is-cause-for-optimism/627119/?utm_source=feed</link>
@@ -4003,104 +4213,6 @@
             <guid>https://www.newyorker.com/news/letter-from-the-southwest/at-home-with-the-families-affected-by-texass-new-anti-trans-orders</guid>
             <pubDate>Wed, 09 Mar 2022 21:36:28 GMT</pubDate>
             <description><![CDATA[At Home with the Families Affected by Texas’s New Anti-Trans Orders]]></description>
-        </item>
-        <item>
-            <title><![CDATA[他]]></title>
-            <link>https://www.newyorker.com/books/page-turner/heather-havrileskys-guide-to-enduring-married-life</link>
-            <guid>https://www.newyorker.com/books/page-turner/heather-havrileskys-guide-to-enduring-married-life</guid>
-            <pubDate>Wed, 09 Mar 2022 19:38:00 GMT</pubDate>
-            <description><![CDATA[Heather Havrilesky’s Guide to Enduring Married Life]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ǞǞǞ]]></title>
-            <link>https://www.newyorker.com/culture/the-new-yorker-interview/cornel-west-sees-a-spiritual-decay-in-the-culture</link>
-            <guid>https://www.newyorker.com/culture/the-new-yorker-interview/cornel-west-sees-a-spiritual-decay-in-the-culture</guid>
-            <pubDate>Wed, 09 Mar 2022 21:05:58 GMT</pubDate>
-            <description><![CDATA[Cornel West Sees a Spiritual Decay in the Culture]]></description>
-        </item>
-        <item>
-            <title><![CDATA[“The Batman,” Reviewed: Eh, It’s Fine]]></title>
-            <link>https://www.newyorker.com/culture/the-front-row/the-batman-reviewed-eh-its-fine</link>
-            <guid>https://www.newyorker.com/culture/the-front-row/the-batman-reviewed-eh-its-fine</guid>
-            <pubDate>Thu, 10 Mar 2022 00:54:23 GMT</pubDate>
-            <description><![CDATA[“The Batman,” Reviewed: Eh, It’s Fine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Meta Head of Youth Product Initiatives Departs]]></title>
-            <link>https://www.nytimes.com/2022/03/09/technology/metas-pavni-diwanji-departs.html</link>
-            <guid>https://www.nytimes.com/2022/03/09/technology/metas-pavni-diwanji-departs.html</guid>
-            <pubDate>Wed, 09 Mar 2022 21:09:50 GMT</pubDate>
-            <description><![CDATA[Meta Head of Youth Product Initiatives Departs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[當豬哭的時候：工具解讀豬的情感生活]]></title>
-            <link>https://www.nytimes.com/2022/03/09/science/pigs-oinks-grunts.html</link>
-            <guid>https://www.nytimes.com/2022/03/09/science/pigs-oinks-grunts.html</guid>
-            <pubDate>Wed, 09 Mar 2022 21:34:17 GMT</pubDate>
-            <description><![CDATA[When Pigs Cry: Tool Decodes the Emotional Lives of Swine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄羅斯的孤立會持續嗎？]]></title>
-            <link>https://www.nytimes.com/2022/03/09/technology/russia-isolation.html</link>
-            <guid>https://www.nytimes.com/2022/03/09/technology/russia-isolation.html</guid>
-            <pubDate>Wed, 09 Mar 2022 18:34:33 GMT</pubDate>
-            <description><![CDATA[Will Russia’s Isolation Last?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我們]]></title>
-            <link>https://www.currentaffairs.org/2022/03/we-cant-lapse-into-russophobia/</link>
-            <guid>https://www.currentaffairs.org/2022/03/we-cant-lapse-into-russophobia/</guid>
-            <pubDate>Wed, 09 Mar 2022 19:35:18 GMT</pubDate>
-            <description><![CDATA[We Can&#8217;t Lapse Into Russophobia]]></description>
-        </item>
-        <item>
-            <title><![CDATA[普京的戰略錯誤]]></title>
-            <link>https://www.theatlantic.com/international/archive/2022/03/putin-nato-finland-sweden-support-ukraine/626965/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/international/archive/2022/03/putin-nato-finland-sweden-support-ukraine/626965/?utm_source=feed</guid>
-            <pubDate>Wed, 09 Mar 2022 22:11:09 GMT</pubDate>
-            <description><![CDATA[Putin’s Strategic Error]]></description>
-        </item>
-        <item>
-            <title><![CDATA[China’s Russia Risk]]></title>
-            <link>https://www.theatlantic.com/international/archive/2022/03/xi-putin-friendship-russia-ukraine/626973/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/international/archive/2022/03/xi-putin-friendship-russia-ukraine/626973/?utm_source=feed</guid>
-            <pubDate>Wed, 09 Mar 2022 22:31:23 GMT</pubDate>
-            <description><![CDATA[China’s Russia Risk]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在其他方面，核戰爭將是一個氣候問題]]></title>
-            <link>https://www.theatlantic.com/science/archive/2022/03/nuclear-war-would-ravage-the-planets-climate/627005/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/science/archive/2022/03/nuclear-war-would-ravage-the-planets-climate/627005/?utm_source=feed</guid>
-            <pubDate>Wed, 09 Mar 2022 22:30:27 GMT</pubDate>
-            <description><![CDATA[On Top of Everything Else, Nuclear War Would Be a Climate Problem]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2021年世界自然攝影獎的獲獎者]]></title>
-            <link>https://www.theatlantic.com/photo/2022/03/winners-2021-world-nature-photography-awards/627006/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/photo/2022/03/winners-2021-world-nature-photography-awards/627006/?utm_source=feed</guid>
-            <pubDate>Wed, 09 Mar 2022 17:15:07 GMT</pubDate>
-            <description><![CDATA[Winners of the 2021 World Nature Photography Awards]]></description>
-        </item>
-        <item>
-            <title><![CDATA[<em>Turning Red</em> Is Pixar’s Cleverest Film in Years]]></title>
-            <link>https://www.theatlantic.com/culture/archive/2022/03/pixar-turning-red-movie-review-puberty/627008/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/culture/archive/2022/03/pixar-turning-red-movie-review-puberty/627008/?utm_source=feed</guid>
-            <pubDate>Wed, 09 Mar 2022 17:33:02 GMT</pubDate>
-            <description><![CDATA[<em>Turning Red</em> Is Pixar’s Cleverest Film in Years]]></description>
-        </item>
-        <item>
-            <title><![CDATA[全球主義是好的，實際上]]></title>
-            <link>https://www.theatlantic.com/newsletters/archive/2022/03/globalism-is-good-actually/627012/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/newsletters/archive/2022/03/globalism-is-good-actually/627012/?utm_source=feed</guid>
-            <pubDate>Wed, 09 Mar 2022 22:36:54 GMT</pubDate>
-            <description><![CDATA[Globalism Is Good, Actually]]></description>
-        </item>
-        <item>
-            <title><![CDATA[<e [...] ]]></title>
-            <link>https://www.theatlantic.com/podcasts/archive/2022/03/ukraine-nazi-invasion-jewish-ww2/627015/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/podcasts/archive/2022/03/ukraine-nazi-invasion-jewish-ww2/627015/?utm_source=feed</guid>
-            <pubDate>Thu, 10 Mar 2022 09:00:57 GMT</pubDate>
-            <description><![CDATA[<em>The Experiment </em>Podcast: One American Family’s Debt to Ukraine]]></description>
         </item>
     </channel>
 </rss>

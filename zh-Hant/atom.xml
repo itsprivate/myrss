@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-19T16:48:20.798Z</updated>
+    <updated>2022-03-20T02:14:52.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,336 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[聯合學習和隱私]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259417-federated-learning-and-privacy</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259417-federated-learning-and-privacy"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Federated Learning and Privacy]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技術視角。探索 "野生 "的認知偏差]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259416-technical-perspective-exploring-cognitive-bias-in-the-wild</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259416-technical-perspective-exploring-cognitive-bias-in-the-wild"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Technical Perspective: Exploring Cognitive Bias 'In the Wild']]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[能源信息學]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259415-energy-informatics</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259415-energy-informatics"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Energy Informatics]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[信任、監管和 "人在迴路 "人工智能]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259414-trust-regulation-and-human-in-the-loop-ai</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259414-trust-regulation-and-human-in-the-loop-ai"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Trust, Regulation, and Human-in-the-Loop AI]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[當軟件工程遇到量子計算]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259413-when-software-engineering-meets-quantum-computing</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259413-when-software-engineering-meets-quantum-computing"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When Software Engineering Meets Quantum Computing]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モバイル指南]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259412-mobiguide</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259412-mobiguide"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MobiGuide]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[歐洲在流程管理方面的領導地位]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259411-european-leadership-in-process-management</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259411-european-leadership-in-process-management"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[European Leadership in Process Management]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[歐洲人工智能法規下的推薦系統]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259410-recommender-systems-under-european-ai-regulations</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259410-recommender-systems-under-european-ai-regulations"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Recommender Systems Under European AI Regulations]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[菲尼克斯]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259409-fenix</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259409-fenix"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Fenix]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於人工智能、數據和機器人的夥伴關係]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259408-partnership-on-ai-data-and-robotics</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259408-partnership-on-ai-data-and-robotics"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Partnership on AI, Data, and Robotics]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[歐洲國家內計算機科學研究的趨勢]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259407-trends-in-computer-science-research-within-european-countries</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259407-trends-in-computer-science-research-within-european-countries"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Trends in Computer Science Research within European Countries]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於6G和可信度]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259406-on-6g-and-trustworthiness</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259406-on-6g-and-trustworthiness"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On 6G and Trustworthiness]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用於災難應對的移動電話使用數據]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259405-mobile-phone-usage-data-for-disaster-response</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259405-mobile-phone-usage-data-for-disaster-response"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mobile Phone Usage Data for Disaster Response]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面向未來網絡的隱私保護型人工智能]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259404-privacy-preserving-ai-for-future-networks</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259404-privacy-preserving-ai-for-future-networks"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Privacy-Preserving AI for Future Networks]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[歐洲數據空間的聯合基礎設施]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259403-a-federated-infrastructure-for-european-data-spaces</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259403-a-federated-infrastructure-for-european-data-spaces"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Federated Infrastructure for European Data Spaces]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[邁向廣泛的人工智能]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259402-toward-a-broad-ai</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259402-toward-a-broad-ai"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Toward a Broad AI]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生產互聯網]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259401-internet-of-production</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259401-internet-of-production"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Internet of Production]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[皮膚上的計算]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259400-on-skin-computing</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259400-on-skin-computing"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On-Skin Computing]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[機器人流程自動化平臺UiPath]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259399-robotic-process-automation-platform-uipath</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259399-robotic-process-automation-platform-uipath"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Robotic Process Automation Platform UiPath]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[可解釋的人工智能]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259398-explainable-ai</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259398-explainable-ai"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Explainable AI]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通訊社的數字倡議及其首次數字活動]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259397-communications-digital-initiative-and-its-first-digital-event</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259397-communications-digital-initiative-and-its-first-digital-event"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Communications' Digital Initiative and Its First Digital Event]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[走出瘋狂的道路]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259396-getting-off-the-mad-path</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259396-getting-off-the-mad-path"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Getting Off the Mad Path]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[系統抽象]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259395-systems-abstractions</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259395-systems-abstractions"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Systems Abstractions]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全球供應鏈的破壞和復原力]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259394-global-supply-chain-disruption-and-resilience</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259394-global-supply-chain-disruption-and-resilience"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Global Supply Chain Disruption and Resilience]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[歡迎]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259393-welcome</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259393-welcome"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仍在等待自動駕駛汽車的出現]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259392-still-waiting-for-self-driving-cars</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259392-still-waiting-for-self-driving-cars"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Still Waiting for Self-Driving Cars]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人工智能能否學會遺忘？]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259391-can-ai-learn-to-forget</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259391-can-ai-learn-to-forget"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Can AI Learn to Forget?]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技術對道德的影響]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259390-technologys-impact-on-morality</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259390-technologys-impact-on-morality"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Technology's Impact on Morality]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[實現全民CS可能需要數十年時間]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259389-achieving-cs-for-all-could-take-decades</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259389-achieving-cs-for-all-could-take-decades"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Achieving CS for All Could Take Decades]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[保護互聯網]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259388-preserving-the-internet</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259388-preserving-the-internet"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Preserving the Internet]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼羅伯特-帕丁森扮演的嚴峻的蝙蝠俠讓人感到樂觀？]]></title>
         <id>https://www.theatlantic.com/podcasts/archive/2022/03/why-robert-pattinsons-grim-batman-is-cause-for-optimism/627119/?utm_source=feed</id>
@@ -6283,160 +6613,6 @@
         <author>
             <name>Rachel Monroe</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[他]]></title>
-        <id>https://www.newyorker.com/books/page-turner/heather-havrileskys-guide-to-enduring-married-life</id>
-        <link href="https://www.newyorker.com/books/page-turner/heather-havrileskys-guide-to-enduring-married-life"/>
-        <updated>2022-03-09T19:38:00.000Z</updated>
-        <summary type="html"><![CDATA[Heather Havrilesky’s Guide to Enduring Married Life]]></summary>
-        <author>
-            <name>Becca Rothfeld</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ǞǞǞ]]></title>
-        <id>https://www.newyorker.com/culture/the-new-yorker-interview/cornel-west-sees-a-spiritual-decay-in-the-culture</id>
-        <link href="https://www.newyorker.com/culture/the-new-yorker-interview/cornel-west-sees-a-spiritual-decay-in-the-culture"/>
-        <updated>2022-03-09T21:05:58.000Z</updated>
-        <summary type="html"><![CDATA[Cornel West Sees a Spiritual Decay in the Culture]]></summary>
-        <author>
-            <name>Vinson Cunningham</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“The Batman,” Reviewed: Eh, It’s Fine]]></title>
-        <id>https://www.newyorker.com/culture/the-front-row/the-batman-reviewed-eh-its-fine</id>
-        <link href="https://www.newyorker.com/culture/the-front-row/the-batman-reviewed-eh-its-fine"/>
-        <updated>2022-03-10T00:54:23.000Z</updated>
-        <summary type="html"><![CDATA[“The Batman,” Reviewed: Eh, It’s Fine]]></summary>
-        <author>
-            <name>Richard Brody</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Head of Youth Product Initiatives Departs]]></title>
-        <id>https://www.nytimes.com/2022/03/09/technology/metas-pavni-diwanji-departs.html</id>
-        <link href="https://www.nytimes.com/2022/03/09/technology/metas-pavni-diwanji-departs.html"/>
-        <updated>2022-03-09T21:09:50.000Z</updated>
-        <summary type="html"><![CDATA[Meta Head of Youth Product Initiatives Departs]]></summary>
-        <author>
-            <name>Ryan Mac</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[當豬哭的時候：工具解讀豬的情感生活]]></title>
-        <id>https://www.nytimes.com/2022/03/09/science/pigs-oinks-grunts.html</id>
-        <link href="https://www.nytimes.com/2022/03/09/science/pigs-oinks-grunts.html"/>
-        <updated>2022-03-09T21:34:17.000Z</updated>
-        <summary type="html"><![CDATA[When Pigs Cry: Tool Decodes the Emotional Lives of Swine]]></summary>
-        <author>
-            <name>Corinne Purtill</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯的孤立會持續嗎？]]></title>
-        <id>https://www.nytimes.com/2022/03/09/technology/russia-isolation.html</id>
-        <link href="https://www.nytimes.com/2022/03/09/technology/russia-isolation.html"/>
-        <updated>2022-03-09T18:34:33.000Z</updated>
-        <summary type="html"><![CDATA[Will Russia’s Isolation Last?]]></summary>
-        <author>
-            <name>Shira Ovide</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們]]></title>
-        <id>https://www.currentaffairs.org/2022/03/we-cant-lapse-into-russophobia/</id>
-        <link href="https://www.currentaffairs.org/2022/03/we-cant-lapse-into-russophobia/"/>
-        <updated>2022-03-09T19:35:18.000Z</updated>
-        <summary type="html"><![CDATA[We Can&#8217;t Lapse Into Russophobia]]></summary>
-        <author>
-            <name>Nathan J. Robinson</name>
-            <uri>https://www.currentaffairs.org/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京的戰略錯誤]]></title>
-        <id>https://www.theatlantic.com/international/archive/2022/03/putin-nato-finland-sweden-support-ukraine/626965/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/international/archive/2022/03/putin-nato-finland-sweden-support-ukraine/626965/?utm_source=feed"/>
-        <updated>2022-03-09T22:11:09.000Z</updated>
-        <summary type="html"><![CDATA[Putin’s Strategic Error]]></summary>
-        <author>
-            <name>Yasmeen Serhan</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China’s Russia Risk]]></title>
-        <id>https://www.theatlantic.com/international/archive/2022/03/xi-putin-friendship-russia-ukraine/626973/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/international/archive/2022/03/xi-putin-friendship-russia-ukraine/626973/?utm_source=feed"/>
-        <updated>2022-03-09T22:31:23.000Z</updated>
-        <summary type="html"><![CDATA[China’s Russia Risk]]></summary>
-        <author>
-            <name>Michael Schuman</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在其他方面，核戰爭將是一個氣候問題]]></title>
-        <id>https://www.theatlantic.com/science/archive/2022/03/nuclear-war-would-ravage-the-planets-climate/627005/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/science/archive/2022/03/nuclear-war-would-ravage-the-planets-climate/627005/?utm_source=feed"/>
-        <updated>2022-03-09T22:30:27.000Z</updated>
-        <summary type="html"><![CDATA[On Top of Everything Else, Nuclear War Would Be a Climate Problem]]></summary>
-        <author>
-            <name>Robinson Meyer</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年世界自然攝影獎的獲獎者]]></title>
-        <id>https://www.theatlantic.com/photo/2022/03/winners-2021-world-nature-photography-awards/627006/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/photo/2022/03/winners-2021-world-nature-photography-awards/627006/?utm_source=feed"/>
-        <updated>2022-03-09T17:15:07.000Z</updated>
-        <summary type="html"><![CDATA[Winners of the 2021 World Nature Photography Awards]]></summary>
-        <author>
-            <name>Alan Taylor</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<em>Turning Red</em> Is Pixar’s Cleverest Film in Years]]></title>
-        <id>https://www.theatlantic.com/culture/archive/2022/03/pixar-turning-red-movie-review-puberty/627008/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/culture/archive/2022/03/pixar-turning-red-movie-review-puberty/627008/?utm_source=feed"/>
-        <updated>2022-03-09T17:33:02.000Z</updated>
-        <summary type="html"><![CDATA[<em>Turning Red</em> Is Pixar’s Cleverest Film in Years]]></summary>
-        <author>
-            <name>David Sims</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球主義是好的，實際上]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2022/03/globalism-is-good-actually/627012/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/globalism-is-good-actually/627012/?utm_source=feed"/>
-        <updated>2022-03-09T22:36:54.000Z</updated>
-        <summary type="html"><![CDATA[Globalism Is Good, Actually]]></summary>
-        <author>
-            <name>Conor Friedersdorf</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<e [...] ]]></title>
-        <id>https://www.theatlantic.com/podcasts/archive/2022/03/ukraine-nazi-invasion-jewish-ww2/627015/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/podcasts/archive/2022/03/ukraine-nazi-invasion-jewish-ww2/627015/?utm_source=feed"/>
-        <updated>2022-03-10T09:00:57.000Z</updated>
-        <summary type="html"><![CDATA[<em>The Experiment </em>Podcast: One American Family’s Debt to Ukraine]]></summary>
-        <author>
-            <name>The Atlantic</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
