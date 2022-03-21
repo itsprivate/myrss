@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-21T04:14:19.882Z</updated>
+    <updated>2022-03-21T07:12:29.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[多倫多的科技產業正在悄然興起]]></title>
+        <id>https://www.nytimes.com/2022/03/21/technology/toronto-tech-boom.html</id>
+        <link href="https://www.nytimes.com/2022/03/21/technology/toronto-tech-boom.html"/>
+        <updated>2022-03-21T07:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Toronto’s Tech Industry Is Quietly Booming]]></summary>
+        <author>
+            <name>Cade Metz</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[卡通字幕大賽]]></title>
         <id>https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-03-28</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Russia’s Economic Blackout Will Change the World]]></summary>
         <author>
             <name>Derek Thompson</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尋找更多成為局外人的方法]]></title>
-        <id>https://www.theatlantic.com/family/archive/2022/03/being-an-outsider-benefits-third-culture-kids/627011/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/family/archive/2022/03/being-an-outsider-benefits-third-culture-kids/627011/?utm_source=feed"/>
-        <updated>2022-03-10T16:59:47.000Z</updated>
-        <summary type="html"><![CDATA[Find More Ways to Be an Outsider]]></summary>
-        <author>
-            <name>Arthur C. Brooks</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
