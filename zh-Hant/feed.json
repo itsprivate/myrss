@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.currentaffairs.org/2022/03/is-russian-brutality-toward-civilians-actually-unique/",
+            "content_html": "",
+            "url": "https://www.currentaffairs.org/2022/03/is-russian-brutality-toward-civilians-actually-unique/",
+            "title": "俄羅斯對平民的暴行實際上是獨一無二的嗎？",
+            "summary": "Is Russian Brutality Toward Civilians Actually Unique?",
+            "date_modified": "2022-03-21T14:42:31.000Z",
+            "author": {
+                "name": "Nathan J. Robinson",
+                "url": "https://www.currentaffairs.org/feed"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/humor/daily-shouts/if-y2k-inspired-looks-accurately-reflected-my-two-thousands",
             "content_html": "",
             "url": "https://www.newyorker.com/humor/daily-shouts/if-y2k-inspired-looks-accurately-reflected-my-two-thousands",
@@ -7193,18 +7205,6 @@
             "title": ".NET核心Azure函數教程",
             "summary": ".NET Core Azure Functions Tutorial",
             "date_modified": "2018-11-19T05:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/sabbatical-begins/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/sabbatical-begins/",
-            "title": "安息日開始了",
-            "summary": "Sabbatical Begins",
-            "date_modified": "2019-08-31T05:00:00.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"

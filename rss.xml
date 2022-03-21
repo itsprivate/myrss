@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 21 Mar 2022 18:40:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 18:57:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[俄罗斯对平民的暴行实际上是独一无二的吗？]]></title>
+            <link>https://www.currentaffairs.org/2022/03/is-russian-brutality-toward-civilians-actually-unique/</link>
+            <guid>https://www.currentaffairs.org/2022/03/is-russian-brutality-toward-civilians-actually-unique/</guid>
+            <pubDate>Mon, 21 Mar 2022 14:42:31 GMT</pubDate>
+            <description><![CDATA[Is Russian Brutality Toward Civilians Actually Unique?]]></description>
+        </item>
         <item>
             <title><![CDATA[如果以2000年为灵感的外观准确地反映了我的两千多人]]></title>
             <link>https://www.newyorker.com/humor/daily-shouts/if-y2k-inspired-looks-accurately-reflected-my-two-thousands</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.davidhaney.io/net-core-azure-functions-tutorial/</guid>
             <pubDate>Mon, 19 Nov 2018 05:00:00 GMT</pubDate>
             <description><![CDATA[.NET Core Azure Functions Tutorial]]></description>
-        </item>
-        <item>
-            <title><![CDATA[安息日开始了]]></title>
-            <link>https://www.davidhaney.io/sabbatical-begins/</link>
-            <guid>https://www.davidhaney.io/sabbatical-begins/</guid>
-            <pubDate>Sat, 31 Aug 2019 05:00:00 GMT</pubDate>
-            <description><![CDATA[Sabbatical Begins]]></description>
         </item>
     </channel>
 </rss>
