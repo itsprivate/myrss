@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-21T11:30:15.777Z</updated>
+    <updated>2022-03-21T14:53:13.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不要再等著特朗普被定罪了]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/why-criminal-cases-against-trump-are-doomed/627113/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/why-criminal-cases-against-trump-are-doomed/627113/?utm_source=feed"/>
+        <updated>2022-03-21T14:36:42.000Z</updated>
+        <summary type="html"><![CDATA[Stop Waiting for Trump to Get Convicted]]></summary>
+        <author>
+            <name>Paul Rosenzweig</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[互聯網上最輕蔑的兩個詞]]></title>
         <id>https://www.theatlantic.com/newsletters/archive/2022/03/the-two-most-dismissive-words-on-the-internet/627110/?utm_source=feed</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Alma Guillermoprieto</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年冬季殘奧會的場景]]></title>
-        <id>https://www.theatlantic.com/photo/2022/03/scenes-2022-winter-paralympics/627020/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/photo/2022/03/scenes-2022-winter-paralympics/627020/?utm_source=feed"/>
-        <updated>2022-03-10T18:52:26.000Z</updated>
-        <summary type="html"><![CDATA[Scenes From the 2022 Winter Paralympics]]></summary>
-        <author>
-            <name>Alan Taylor</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
