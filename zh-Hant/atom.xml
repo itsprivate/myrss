@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-21T15:15:41.884Z</updated>
+    <updated>2022-03-21T15:56:59.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每日漫畫。3月21日，星期一]]></title>
+        <id>https://www.newyorker.com/cartoons/daily-cartoon/monday-march-21st-risk-board-game</id>
+        <link href="https://www.newyorker.com/cartoons/daily-cartoon/monday-march-21st-risk-board-game"/>
+        <updated>2022-03-21T15:29:23.000Z</updated>
+        <summary type="html"><![CDATA[Daily Cartoon: Monday, March 21st]]></summary>
+        <author>
+            <name>Shannon Wheeler</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們可以從我們的政治對手那裡學到什麼？]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/03/what-we-can-learn-from-our-political-adversaries/627123/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/what-we-can-learn-from-our-political-adversaries/627123/?utm_source=feed"/>
+        <updated>2022-03-21T15:22:45.000Z</updated>
+        <summary type="html"><![CDATA[What We Can Learn From Our Political Adversaries]]></summary>
+        <author>
+            <name>Conor Friedersdorf</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼美國剛剛說緬甸進行了種族滅絕？]]></title>
+        <id>https://www.theatlantic.com/international/archive/2022/03/blinken-myanmar-genocide-rohingya-muslims/627124/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/international/archive/2022/03/blinken-myanmar-genocide-rohingya-muslims/627124/?utm_source=feed"/>
+        <updated>2022-03-21T15:29:55.000Z</updated>
+        <summary type="html"><![CDATA[Why America Just Said Myanmar Carried Out a Genocide]]></summary>
+        <author>
+            <name>Timothy McLaughlin</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[共和黨人指責最高法院被提名人是拜登選定的]]></title>
         <id>https://www.newyorker.com/humor/borowitz-report/republicans-accuse-supreme-court-nominee-of-being-chosen-by-biden</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>Kenneth Chang</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黃體酮大劑量可能是一種廉價的Zulresso替代物]]></title>
-        <id>https://astralcodexten.substack.com/p/progesterone-megadoses-might-be-a</id>
-        <link href="https://astralcodexten.substack.com/p/progesterone-megadoses-might-be-a"/>
-        <updated>2022-03-10T21:13:58.000Z</updated>
-        <summary type="html"><![CDATA[Progesterone Megadoses Might Be A Cheap Zulresso Substitute]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西方對俄羅斯發動經濟戰爭]]></title>
-        <id>https://www.newyorker.com/podcast/politics-and-more/the-west-wages-economic-war-on-russia</id>
-        <link href="https://www.newyorker.com/podcast/politics-and-more/the-west-wages-economic-war-on-russia"/>
-        <updated>2022-03-10T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The West Wages Economic War on Russia]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯仍未撤軍]]></title>
-        <id>https://www.newyorker.com/cartoons/blitts-kvetchbook/still-no-russian-withdrawal</id>
-        <link href="https://www.newyorker.com/cartoons/blitts-kvetchbook/still-no-russian-withdrawal"/>
-        <updated>2022-03-10T20:51:05.000Z</updated>
-        <summary type="html"><![CDATA[Still No Russian Withdrawal]]></summary>
-        <author>
-            <name>Barry Blitt</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>

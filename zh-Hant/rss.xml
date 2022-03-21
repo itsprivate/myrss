@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 21 Mar 2022 15:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 15:56:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[每日漫畫。3月21日，星期一]]></title>
+            <link>https://www.newyorker.com/cartoons/daily-cartoon/monday-march-21st-risk-board-game</link>
+            <guid>https://www.newyorker.com/cartoons/daily-cartoon/monday-march-21st-risk-board-game</guid>
+            <pubDate>Mon, 21 Mar 2022 15:29:23 GMT</pubDate>
+            <description><![CDATA[Daily Cartoon: Monday, March 21st]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我們可以從我們的政治對手那裡學到什麼？]]></title>
+            <link>https://www.theatlantic.com/newsletters/archive/2022/03/what-we-can-learn-from-our-political-adversaries/627123/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/newsletters/archive/2022/03/what-we-can-learn-from-our-political-adversaries/627123/?utm_source=feed</guid>
+            <pubDate>Mon, 21 Mar 2022 15:22:45 GMT</pubDate>
+            <description><![CDATA[What We Can Learn From Our Political Adversaries]]></description>
+        </item>
+        <item>
+            <title><![CDATA[為什麼美國剛剛說緬甸進行了種族滅絕？]]></title>
+            <link>https://www.theatlantic.com/international/archive/2022/03/blinken-myanmar-genocide-rohingya-muslims/627124/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/international/archive/2022/03/blinken-myanmar-genocide-rohingya-muslims/627124/?utm_source=feed</guid>
+            <pubDate>Mon, 21 Mar 2022 15:29:55 GMT</pubDate>
+            <description><![CDATA[Why America Just Said Myanmar Carried Out a Genocide]]></description>
+        </item>
         <item>
             <title><![CDATA[共和黨人指責最高法院被提名人是拜登選定的]]></title>
             <link>https://www.newyorker.com/humor/borowitz-report/republicans-accuse-supreme-court-nominee-of-being-chosen-by-biden</link>
@@ -4192,27 +4213,6 @@
             <guid>https://www.nytimes.com/2022/03/10/science/haiti-earthquake-seismometer.html</guid>
             <pubDate>Thu, 10 Mar 2022 23:05:43 GMT</pubDate>
             <description><![CDATA[These Small, Cheap Devices Help Monitor Haiti’s Earthquakes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[黃體酮大劑量可能是一種廉價的Zulresso替代物]]></title>
-            <link>https://astralcodexten.substack.com/p/progesterone-megadoses-might-be-a</link>
-            <guid>https://astralcodexten.substack.com/p/progesterone-megadoses-might-be-a</guid>
-            <pubDate>Thu, 10 Mar 2022 21:13:58 GMT</pubDate>
-            <description><![CDATA[Progesterone Megadoses Might Be A Cheap Zulresso Substitute]]></description>
-        </item>
-        <item>
-            <title><![CDATA[西方對俄羅斯發動經濟戰爭]]></title>
-            <link>https://www.newyorker.com/podcast/politics-and-more/the-west-wages-economic-war-on-russia</link>
-            <guid>https://www.newyorker.com/podcast/politics-and-more/the-west-wages-economic-war-on-russia</guid>
-            <pubDate>Thu, 10 Mar 2022 21:30:00 GMT</pubDate>
-            <description><![CDATA[The West Wages Economic War on Russia]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄羅斯仍未撤軍]]></title>
-            <link>https://www.newyorker.com/cartoons/blitts-kvetchbook/still-no-russian-withdrawal</link>
-            <guid>https://www.newyorker.com/cartoons/blitts-kvetchbook/still-no-russian-withdrawal</guid>
-            <pubDate>Thu, 10 Mar 2022 20:51:05 GMT</pubDate>
-            <description><![CDATA[Still No Russian Withdrawal]]></description>
         </item>
     </channel>
 </rss>
