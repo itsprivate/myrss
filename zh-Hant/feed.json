@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/humor/daily-shouts/if-y2k-inspired-looks-accurately-reflected-my-two-thousands",
+            "content_html": "",
+            "url": "https://www.newyorker.com/humor/daily-shouts/if-y2k-inspired-looks-accurately-reflected-my-two-thousands",
+            "title": "如果以2000年為靈感的外觀準確地反映了我的兩千多人",
+            "summary": "If Y2K-Inspired Looks Accurately Reflected My Two-Thousands",
+            "date_modified": "2022-03-21T18:19:46.000Z",
+            "author": {
+                "name": "Kaitlin Chan, Brian Park",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/books/second-read/how-a-book-about-americas-history-foretold-chinas-future",
             "content_html": "",
             "url": "https://www.newyorker.com/books/second-read/how-a-book-about-americas-history-foretold-chinas-future",
@@ -7193,18 +7205,6 @@
             "title": "安息日開始了",
             "summary": "Sabbatical Begins",
             "date_modified": "2019-08-31T05:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/sabbatical-week-one/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/sabbatical-week-one/",
-            "title": "安息日第一週",
-            "summary": "Sabbatical Week One",
-            "date_modified": "2019-09-08T05:00:00.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"

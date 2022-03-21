@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-21T17:52:11.790Z</updated>
+    <updated>2022-03-21T18:40:55.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果以2000年为灵感的外观准确地反映了我的两千多人]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/if-y2k-inspired-looks-accurately-reflected-my-two-thousands</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/if-y2k-inspired-looks-accurately-reflected-my-two-thousands"/>
+        <updated>2022-03-21T18:19:46.000Z</updated>
+        <summary type="html"><![CDATA[If Y2K-Inspired Looks Accurately Reflected My Two-Thousands]]></summary>
+        <author>
+            <name>Kaitlin Chan, Brian Park</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一本关于美国历史的书如何预示中国的未来]]></title>
         <id>https://www.newyorker.com/books/second-read/how-a-book-about-americas-history-foretold-chinas-future</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.davidhaney.io/sabbatical-begins/"/>
         <updated>2019-08-31T05:00:00.000Z</updated>
         <summary type="html"><![CDATA[Sabbatical Begins]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安息日第一周]]></title>
-        <id>https://www.davidhaney.io/sabbatical-week-one/</id>
-        <link href="https://www.davidhaney.io/sabbatical-week-one/"/>
-        <updated>2019-09-08T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sabbatical Week One]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>
