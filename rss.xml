@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 21 Mar 2022 02:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 04:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[卡通字幕大赛]]></title>
+            <link>https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-03-28</link>
+            <guid>https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-03-28</guid>
+            <pubDate>Mon, 21 Mar 2022 04:05:00 GMT</pubDate>
+            <description><![CDATA[Cartoon Caption Contest]]></description>
+        </item>
         <item>
             <title><![CDATA[公开主题216]]></title>
             <link>https://astralcodexten.substack.com/p/open-thread-216</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/family/archive/2022/03/being-an-outsider-benefits-third-culture-kids/627011/?utm_source=feed</guid>
             <pubDate>Thu, 10 Mar 2022 16:59:47 GMT</pubDate>
             <description><![CDATA[Find More Ways to Be an Outsider]]></description>
-        </item>
-        <item>
-            <title><![CDATA[制裁能阻止俄罗斯吗？]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/russia-sanctions-economic-policy-effects/627009/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/russia-sanctions-economic-policy-effects/627009/?utm_source=feed</guid>
-            <pubDate>Thu, 10 Mar 2022 17:15:08 GMT</pubDate>
-            <description><![CDATA[Can Sanctions Stop Russia?]]></description>
         </item>
     </channel>
 </rss>
