@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-21T20:35:05.391Z</updated>
+    <updated>2022-03-21T20:43:07.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌與從事工會工作的六名員工達成和解。]]></title>
+        <id>https://www.nytimes.com/2022/03/21/technology/google-workers-settlement.html</id>
+        <link href="https://www.nytimes.com/2022/03/21/technology/google-workers-settlement.html"/>
+        <updated>2022-03-21T20:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Google settles with six employees who worked on unionization efforts.]]></summary>
+        <author>
+            <name>Daisuke Wakabayashi</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mantic 3/21/22星期一]]></title>
         <id>https://astralcodexten.substack.com/p/mantic-monday-32122</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.davidhaney.io/writing-a-great-junior-tech-resume/"/>
         <updated>2018-07-24T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[Writing a Great Junior Tech Résumé]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新的博客名稱和域名]]></title>
-        <id>https://www.davidhaney.io/new-blog-name-and-domain/</id>
-        <link href="https://www.davidhaney.io/new-blog-name-and-domain/"/>
-        <updated>2018-08-03T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[New Blog Name and Domain]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>

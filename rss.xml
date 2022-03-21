@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 21 Mar 2022 20:35:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 20:43:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[谷歌与从事工会工作的六名员工达成和解。]]></title>
+            <link>https://www.nytimes.com/2022/03/21/technology/google-workers-settlement.html</link>
+            <guid>https://www.nytimes.com/2022/03/21/technology/google-workers-settlement.html</guid>
+            <pubDate>Mon, 21 Mar 2022 20:30:26 GMT</pubDate>
+            <description><![CDATA[Google settles with six employees who worked on unionization efforts.]]></description>
+        </item>
         <item>
             <title><![CDATA[Mantic 3/21/22星期一]]></title>
             <link>https://astralcodexten.substack.com/p/mantic-monday-32122</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.davidhaney.io/writing-a-great-junior-tech-resume/</guid>
             <pubDate>Tue, 24 Jul 2018 04:00:00 GMT</pubDate>
             <description><![CDATA[Writing a Great Junior Tech Résumé]]></description>
-        </item>
-        <item>
-            <title><![CDATA[新的博客名称和域名]]></title>
-            <link>https://www.davidhaney.io/new-blog-name-and-domain/</link>
-            <guid>https://www.davidhaney.io/new-blog-name-and-domain/</guid>
-            <pubDate>Fri, 03 Aug 2018 04:00:00 GMT</pubDate>
-            <description><![CDATA[New Blog Name and Domain]]></description>
         </item>
     </channel>
 </rss>
