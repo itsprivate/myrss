@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-21T16:52:13.046Z</updated>
+    <updated>2022-03-21T17:08:22.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[企業離開俄羅斯的空前熱潮帶來的後果]]></title>
+        <id>https://www.newyorker.com/business/currency/the-consequences-of-the-unprecedented-rush-of-companies-leaving-russia</id>
+        <link href="https://www.newyorker.com/business/currency/the-consequences-of-the-unprecedented-rush-of-companies-leaving-russia"/>
+        <updated>2022-03-21T16:49:50.000Z</updated>
+        <summary type="html"><![CDATA[The Consequences of the Unprecedented Rush of Companies Leaving Russia]]></summary>
+        <author>
+            <name>Sheelah Kolhatkar</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個微小的小行星撞擊可能會拯救地球人，使其免受城市殺傷性太空岩石的影響]]></title>
         <id>https://www.nytimes.com/2022/03/21/science/nasa-asteroid-strike.html</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Peter Eavis</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌搜索沒有向你顯示的內容]]></title>
-        <id>https://www.newyorker.com/culture/infinite-scroll/what-google-search-isnt-showing-you</id>
-        <link href="https://www.newyorker.com/culture/infinite-scroll/what-google-search-isnt-showing-you"/>
-        <updated>2022-03-10T22:42:06.000Z</updated>
-        <summary type="html"><![CDATA[What Google Search Isn’t Showing You]]></summary>
-        <author>
-            <name>Kyle Chayka</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
