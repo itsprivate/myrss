@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 21 Mar 2022 08:54:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 10:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,69 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[郵報]]></title>
+            <link>https://www.newyorker.com/magazine/2022/03/28/letters-from-the-march-28-2022-issue</link>
+            <guid>https://www.newyorker.com/magazine/2022/03/28/letters-from-the-march-28-2022-issue</guid>
+            <pubDate>Mon, 21 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Mail]]></description>
+        </item>
+        <item>
+            <title><![CDATA[傑伊-紐曼想成為華爾街的沃爾夫]]></title>
+            <link>https://www.newyorker.com/magazine/2022/03/28/jay-newman-wants-to-be-the-wolfe-of-wall-street</link>
+            <guid>https://www.newyorker.com/magazine/2022/03/28/jay-newman-wants-to-be-the-wolfe-of-wall-street</guid>
+            <pubDate>Mon, 21 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Jay Newman Wants to Be the Wolfe of Wall Street]]></description>
+        </item>
+        <item>
+            <title><![CDATA[迷幻蟾蜍的魔笛手]]></title>
+            <link>https://www.newyorker.com/magazine/2022/03/28/the-pied-piper-of-psychedelic-toads</link>
+            <guid>https://www.newyorker.com/magazine/2022/03/28/the-pied-piper-of-psychedelic-toads</guid>
+            <pubDate>Mon, 21 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Pied Piper of Psychedelic Toads]]></description>
+        </item>
+        <item>
+            <title><![CDATA[夢幻島》將在百老匯上演]]></title>
+            <link>https://www.newyorker.com/magazine/2022/03/28/neverland-comes-to-broadway</link>
+            <guid>https://www.newyorker.com/magazine/2022/03/28/neverland-comes-to-broadway</guid>
+            <pubDate>Mon, 21 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Neverland Comes to Broadway]]></description>
+        </item>
+        <item>
+            <title><![CDATA["為了我的淺色皮膚"，作者：Toi Derricotte]]></title>
+            <link>https://www.newyorker.com/magazine/2022/03/28/for-my-light-skin</link>
+            <guid>https://www.newyorker.com/magazine/2022/03/28/for-my-light-skin</guid>
+            <pubDate>Mon, 21 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[“For My Light Skin,” by Toi Derricotte]]></description>
+        </item>
+        <item>
+            <title><![CDATA[給予Phife Dawg "永遠 "的聲音]]></title>
+            <link>https://www.newyorker.com/culture/culture-desk/giving-phife-dawg-the-sound-of-forever</link>
+            <guid>https://www.newyorker.com/culture/culture-desk/giving-phife-dawg-the-sound-of-forever</guid>
+            <pubDate>Mon, 21 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Giving Phife Dawg the Sound of “Forever”]]></description>
+        </item>
+        <item>
+            <title><![CDATA[菲斯-林戈爾德的 "爵士故事"。有人偷走了我破碎的心"]]></title>
+            <link>https://www.newyorker.com/culture/cover-story/cover-story-2022-03-28</link>
+            <guid>https://www.newyorker.com/culture/cover-story/cover-story-2022-03-28</guid>
+            <pubDate>Mon, 21 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Faith Ringgold’s “Jazz Stories: Somebody Stole My Broken Heart”]]></description>
+        </item>
+        <item>
+            <title><![CDATA[泰莎-哈德利談從細節中構建一個故事]]></title>
+            <link>https://www.newyorker.com/books/this-week-in-fiction/tessa-hadley-03-28-22</link>
+            <guid>https://www.newyorker.com/books/this-week-in-fiction/tessa-hadley-03-28-22</guid>
+            <pubDate>Mon, 21 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Tessa Hadley on Building a Story from Details]]></description>
+        </item>
+        <item>
+            <title><![CDATA[泰莎-哈德利讀《葬禮之後》有感]]></title>
+            <link>https://www.newyorker.com/podcast/the-writers-voice/tessa-hadley-reads-after-the-funeral</link>
+            <guid>https://www.newyorker.com/podcast/the-writers-voice/tessa-hadley-reads-after-the-funeral</guid>
+            <pubDate>Mon, 21 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Tessa Hadley Reads “After the Funeral”]]></description>
+        </item>
         <item>
             <title><![CDATA[普京的戰爭和混沌攀登者]]></title>
             <link>https://noahpinion.substack.com/p/putins-war-and-the-chaos-climbers</link>
@@ -4150,69 +4213,6 @@
             <guid>https://www.nytimes.com/2022/03/10/business/microsoft-climate-carbon-emissions.html</guid>
             <pubDate>Thu, 10 Mar 2022 18:30:10 GMT</pubDate>
             <description><![CDATA[Microsoft’s Pursuit of Climate Goals Runs Into Headwinds]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一封浪漫的推薦信]]></title>
-            <link>https://www.newyorker.com/humor/daily-shouts/a-letter-of-romantic-recommendation</link>
-            <guid>https://www.newyorker.com/humor/daily-shouts/a-letter-of-romantic-recommendation</guid>
-            <pubDate>Thu, 10 Mar 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[A Letter of Romantic Recommendation]]></description>
-        </item>
-        <item>
-            <title><![CDATA[落名：2022年3月10日，星期四]]></title>
-            <link>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/10</link>
-            <guid>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/10</guid>
-            <pubDate>Thu, 10 Mar 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[Name Drop: Thursday, March 10, 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日漫畫。3月10日，星期四]]></title>
-            <link>https://www.newyorker.com/cartoons/daily-cartoon/thursday-march-10th-should-we-go-to-the-movies</link>
-            <guid>https://www.newyorker.com/cartoons/daily-cartoon/thursday-march-10th-should-we-go-to-the-movies</guid>
-            <pubDate>Thu, 10 Mar 2022 16:49:58 GMT</pubDate>
-            <description><![CDATA[Daily Cartoon: Thursday, March 10th]]></description>
-        </item>
-        <item>
-            <title><![CDATA[做一個完美的亞裔美國人的難處]]></title>
-            <link>https://www.newyorker.com/culture/cultural-comment/the-difficulty-of-being-a-perfect-asian-american</link>
-            <guid>https://www.newyorker.com/culture/cultural-comment/the-difficulty-of-being-a-perfect-asian-american</guid>
-            <pubDate>Thu, 10 Mar 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[The Difficulty of Being a Perfect Asian American]]></description>
-        </item>
-        <item>
-            <title><![CDATA[戶外之聲的Ty Haney在Web3空間成立了新公司]]></title>
-            <link>https://www.nytimes.com/2022/03/10/style/ty-haney-outdoor-voices-try-your-best.html</link>
-            <guid>https://www.nytimes.com/2022/03/10/style/ty-haney-outdoor-voices-try-your-best.html</guid>
-            <pubDate>Thu, 10 Mar 2022 15:14:49 GMT</pubDate>
-            <description><![CDATA[Outdoor Voices’ Ty Haney Starts New Company in Web3 Space]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你還愛著隨身聽嗎？]]></title>
-            <link>https://www.nytimes.com/2022/03/10/technology/walkman-nostalgia.html</link>
-            <guid>https://www.nytimes.com/2022/03/10/technology/walkman-nostalgia.html</guid>
-            <pubDate>Thu, 10 Mar 2022 17:18:23 GMT</pubDate>
-            <description><![CDATA[Do You Still Love the Walkman?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[關於戰爭，俄羅斯人被告知的4個錯誤信息]]></title>
-            <link>https://www.nytimes.com/2022/03/10/technology/disinformation-russia-ukraine.html</link>
-            <guid>https://www.nytimes.com/2022/03/10/technology/disinformation-russia-ukraine.html</guid>
-            <pubDate>Thu, 10 Mar 2022 14:58:16 GMT</pubDate>
-            <description><![CDATA[4 Falsehoods Russians Are Told About the War]]></description>
-        </item>
-        <item>
-            <title><![CDATA[對西方來說，最壞的情況還沒有到來]]></title>
-            <link>https://www.theatlantic.com/international/archive/2022/03/western-unity-putin-russia-ukraine/627013/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/international/archive/2022/03/western-unity-putin-russia-ukraine/627013/?utm_source=feed</guid>
-            <pubDate>Thu, 10 Mar 2022 16:42:46 GMT</pubDate>
-            <description><![CDATA[For the West, the Worst Is Yet to Come]]></description>
-        </item>
-        <item>
-            <title><![CDATA[成年人正在失去它]]></title>
-            <link>https://www.theatlantic.com/magazine/archive/2022/04/pandemic-politics-public-schools/622824/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/magazine/archive/2022/04/pandemic-politics-public-schools/622824/?utm_source=feed</guid>
-            <pubDate>Thu, 10 Mar 2022 16:39:44 GMT</pubDate>
-            <description><![CDATA[The Grown-Ups Are Losing It]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-21T08:54:37.593Z</updated>
+    <updated>2022-03-21T10:15:47.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,105 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[郵報]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/28/letters-from-the-march-28-2022-issue</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/28/letters-from-the-march-28-2022-issue"/>
+        <updated>2022-03-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Mail]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[傑伊-紐曼想成為華爾街的沃爾夫]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/28/jay-newman-wants-to-be-the-wolfe-of-wall-street</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/28/jay-newman-wants-to-be-the-wolfe-of-wall-street"/>
+        <updated>2022-03-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Jay Newman Wants to Be the Wolfe of Wall Street]]></summary>
+        <author>
+            <name>Sheelah Kolhatkar</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[迷幻蟾蜍的魔笛手]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/28/the-pied-piper-of-psychedelic-toads</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/28/the-pied-piper-of-psychedelic-toads"/>
+        <updated>2022-03-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Pied Piper of Psychedelic Toads]]></summary>
+        <author>
+            <name>Kimon de Greef</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[夢幻島》將在百老匯上演]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/28/neverland-comes-to-broadway</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/28/neverland-comes-to-broadway"/>
+        <updated>2022-03-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Neverland Comes to Broadway]]></summary>
+        <author>
+            <name>Michael Schulman</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["為了我的淺色皮膚"，作者：Toi Derricotte]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/28/for-my-light-skin</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/28/for-my-light-skin"/>
+        <updated>2022-03-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“For My Light Skin,” by Toi Derricotte]]></summary>
+        <author>
+            <name>Toi Derricotte</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[給予Phife Dawg "永遠 "的聲音]]></title>
+        <id>https://www.newyorker.com/culture/culture-desk/giving-phife-dawg-the-sound-of-forever</id>
+        <link href="https://www.newyorker.com/culture/culture-desk/giving-phife-dawg-the-sound-of-forever"/>
+        <updated>2022-03-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Giving Phife Dawg the Sound of “Forever”]]></summary>
+        <author>
+            <name>Charles Bethea</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[菲斯-林戈爾德的 "爵士故事"。有人偷走了我破碎的心"]]></title>
+        <id>https://www.newyorker.com/culture/cover-story/cover-story-2022-03-28</id>
+        <link href="https://www.newyorker.com/culture/cover-story/cover-story-2022-03-28"/>
+        <updated>2022-03-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Faith Ringgold’s “Jazz Stories: Somebody Stole My Broken Heart”]]></summary>
+        <author>
+            <name>Françoise Mouly</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[泰莎-哈德利談從細節中構建一個故事]]></title>
+        <id>https://www.newyorker.com/books/this-week-in-fiction/tessa-hadley-03-28-22</id>
+        <link href="https://www.newyorker.com/books/this-week-in-fiction/tessa-hadley-03-28-22"/>
+        <updated>2022-03-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tessa Hadley on Building a Story from Details]]></summary>
+        <author>
+            <name>Deborah Treisman</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[泰莎-哈德利讀《葬禮之後》有感]]></title>
+        <id>https://www.newyorker.com/podcast/the-writers-voice/tessa-hadley-reads-after-the-funeral</id>
+        <link href="https://www.newyorker.com/podcast/the-writers-voice/tessa-hadley-reads-after-the-funeral"/>
+        <updated>2022-03-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tessa Hadley Reads “After the Funeral”]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[普京的戰爭和混沌攀登者]]></title>
         <id>https://noahpinion.substack.com/p/putins-war-and-the-chaos-climbers</id>
@@ -6514,105 +6613,6 @@
         <author>
             <name>Peter Eavis</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一封浪漫的推薦信]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/a-letter-of-romantic-recommendation</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/a-letter-of-romantic-recommendation"/>
-        <updated>2022-03-10T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A Letter of Romantic Recommendation]]></summary>
-        <author>
-            <name>Dennard Dayle</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[落名：2022年3月10日，星期四]]></title>
-        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/10</id>
-        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/10"/>
-        <updated>2022-03-10T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Name Drop: Thursday, March 10, 2022]]></summary>
-        <author>
-            <name>Will Nediger</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日漫畫。3月10日，星期四]]></title>
-        <id>https://www.newyorker.com/cartoons/daily-cartoon/thursday-march-10th-should-we-go-to-the-movies</id>
-        <link href="https://www.newyorker.com/cartoons/daily-cartoon/thursday-march-10th-should-we-go-to-the-movies"/>
-        <updated>2022-03-10T16:49:58.000Z</updated>
-        <summary type="html"><![CDATA[Daily Cartoon: Thursday, March 10th]]></summary>
-        <author>
-            <name>Jared Nangle</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[做一個完美的亞裔美國人的難處]]></title>
-        <id>https://www.newyorker.com/culture/cultural-comment/the-difficulty-of-being-a-perfect-asian-american</id>
-        <link href="https://www.newyorker.com/culture/cultural-comment/the-difficulty-of-being-a-perfect-asian-american"/>
-        <updated>2022-03-10T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Difficulty of Being a Perfect Asian American]]></summary>
-        <author>
-            <name>Hua Hsu</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[戶外之聲的Ty Haney在Web3空間成立了新公司]]></title>
-        <id>https://www.nytimes.com/2022/03/10/style/ty-haney-outdoor-voices-try-your-best.html</id>
-        <link href="https://www.nytimes.com/2022/03/10/style/ty-haney-outdoor-voices-try-your-best.html"/>
-        <updated>2022-03-10T15:14:49.000Z</updated>
-        <summary type="html"><![CDATA[Outdoor Voices’ Ty Haney Starts New Company in Web3 Space]]></summary>
-        <author>
-            <name>Anna P. Kambhampaty and Sapna Maheshwari</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你還愛著隨身聽嗎？]]></title>
-        <id>https://www.nytimes.com/2022/03/10/technology/walkman-nostalgia.html</id>
-        <link href="https://www.nytimes.com/2022/03/10/technology/walkman-nostalgia.html"/>
-        <updated>2022-03-10T17:18:23.000Z</updated>
-        <summary type="html"><![CDATA[Do You Still Love the Walkman?]]></summary>
-        <author>
-            <name>Shira Ovide</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於戰爭，俄羅斯人被告知的4個錯誤信息]]></title>
-        <id>https://www.nytimes.com/2022/03/10/technology/disinformation-russia-ukraine.html</id>
-        <link href="https://www.nytimes.com/2022/03/10/technology/disinformation-russia-ukraine.html"/>
-        <updated>2022-03-10T14:58:16.000Z</updated>
-        <summary type="html"><![CDATA[4 Falsehoods Russians Are Told About the War]]></summary>
-        <author>
-            <name>Stuart A. Thompson</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對西方來說，最壞的情況還沒有到來]]></title>
-        <id>https://www.theatlantic.com/international/archive/2022/03/western-unity-putin-russia-ukraine/627013/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/international/archive/2022/03/western-unity-putin-russia-ukraine/627013/?utm_source=feed"/>
-        <updated>2022-03-10T16:42:46.000Z</updated>
-        <summary type="html"><![CDATA[For the West, the Worst Is Yet to Come]]></summary>
-        <author>
-            <name>Tom McTague</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[成年人正在失去它]]></title>
-        <id>https://www.theatlantic.com/magazine/archive/2022/04/pandemic-politics-public-schools/622824/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/magazine/archive/2022/04/pandemic-politics-public-schools/622824/?utm_source=feed"/>
-        <updated>2022-03-10T16:39:44.000Z</updated>
-        <summary type="html"><![CDATA[The Grown-Ups Are Losing It]]></summary>
-        <author>
-            <name>George Packer</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>

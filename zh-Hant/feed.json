@@ -11,6 +11,114 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/magazine/2022/03/28/letters-from-the-march-28-2022-issue",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/03/28/letters-from-the-march-28-2022-issue",
+            "title": "郵報",
+            "summary": "The Mail",
+            "date_modified": "2022-03-21T10:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/magazine/2022/03/28/jay-newman-wants-to-be-the-wolfe-of-wall-street",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/03/28/jay-newman-wants-to-be-the-wolfe-of-wall-street",
+            "title": "傑伊-紐曼想成為華爾街的沃爾夫",
+            "summary": "Jay Newman Wants to Be the Wolfe of Wall Street",
+            "date_modified": "2022-03-21T10:00:00.000Z",
+            "author": {
+                "name": "Sheelah Kolhatkar",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/magazine/2022/03/28/the-pied-piper-of-psychedelic-toads",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/03/28/the-pied-piper-of-psychedelic-toads",
+            "title": "迷幻蟾蜍的魔笛手",
+            "summary": "The Pied Piper of Psychedelic Toads",
+            "date_modified": "2022-03-21T10:00:00.000Z",
+            "author": {
+                "name": "Kimon de Greef",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/magazine/2022/03/28/neverland-comes-to-broadway",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/03/28/neverland-comes-to-broadway",
+            "title": "夢幻島》將在百老匯上演",
+            "summary": "Neverland Comes to Broadway",
+            "date_modified": "2022-03-21T10:00:00.000Z",
+            "author": {
+                "name": "Michael Schulman",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/magazine/2022/03/28/for-my-light-skin",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/03/28/for-my-light-skin",
+            "title": "\"為了我的淺色皮膚\"，作者：Toi Derricotte",
+            "summary": "“For My Light Skin,” by Toi Derricotte",
+            "date_modified": "2022-03-21T10:00:00.000Z",
+            "author": {
+                "name": "Toi Derricotte",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/culture/culture-desk/giving-phife-dawg-the-sound-of-forever",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/culture-desk/giving-phife-dawg-the-sound-of-forever",
+            "title": "給予Phife Dawg \"永遠 \"的聲音",
+            "summary": "Giving Phife Dawg the Sound of “Forever”",
+            "date_modified": "2022-03-21T10:00:00.000Z",
+            "author": {
+                "name": "Charles Bethea",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/culture/cover-story/cover-story-2022-03-28",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/cover-story/cover-story-2022-03-28",
+            "title": "菲斯-林戈爾德的 \"爵士故事\"。有人偷走了我破碎的心\"",
+            "summary": "Faith Ringgold’s “Jazz Stories: Somebody Stole My Broken Heart”",
+            "date_modified": "2022-03-21T10:00:00.000Z",
+            "author": {
+                "name": "Françoise Mouly",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/books/this-week-in-fiction/tessa-hadley-03-28-22",
+            "content_html": "",
+            "url": "https://www.newyorker.com/books/this-week-in-fiction/tessa-hadley-03-28-22",
+            "title": "泰莎-哈德利談從細節中構建一個故事",
+            "summary": "Tessa Hadley on Building a Story from Details",
+            "date_modified": "2022-03-21T10:00:00.000Z",
+            "author": {
+                "name": "Deborah Treisman",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/podcast/the-writers-voice/tessa-hadley-reads-after-the-funeral",
+            "content_html": "",
+            "url": "https://www.newyorker.com/podcast/the-writers-voice/tessa-hadley-reads-after-the-funeral",
+            "title": "泰莎-哈德利讀《葬禮之後》有感",
+            "summary": "Tessa Hadley Reads “After the Funeral”",
+            "date_modified": "2022-03-21T10:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
             "id": "https://noahpinion.substack.com/p/putins-war-and-the-chaos-climbers",
             "content_html": "",
             "url": "https://noahpinion.substack.com/p/putins-war-and-the-chaos-climbers",
@@ -7100,114 +7208,6 @@
             "author": {
                 "name": "Peter Eavis",
                 "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/humor/daily-shouts/a-letter-of-romantic-recommendation",
-            "content_html": "",
-            "url": "https://www.newyorker.com/humor/daily-shouts/a-letter-of-romantic-recommendation",
-            "title": "一封浪漫的推薦信",
-            "summary": "A Letter of Romantic Recommendation",
-            "date_modified": "2022-03-10T11:00:00.000Z",
-            "author": {
-                "name": "Dennard Dayle",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/10",
-            "content_html": "",
-            "url": "https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/10",
-            "title": "落名：2022年3月10日，星期四",
-            "summary": "Name Drop: Thursday, March 10, 2022",
-            "date_modified": "2022-03-10T11:00:00.000Z",
-            "author": {
-                "name": "Will Nediger",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/cartoons/daily-cartoon/thursday-march-10th-should-we-go-to-the-movies",
-            "content_html": "",
-            "url": "https://www.newyorker.com/cartoons/daily-cartoon/thursday-march-10th-should-we-go-to-the-movies",
-            "title": "每日漫畫。3月10日，星期四",
-            "summary": "Daily Cartoon: Thursday, March 10th",
-            "date_modified": "2022-03-10T16:49:58.000Z",
-            "author": {
-                "name": "Jared Nangle",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/cultural-comment/the-difficulty-of-being-a-perfect-asian-american",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/cultural-comment/the-difficulty-of-being-a-perfect-asian-american",
-            "title": "做一個完美的亞裔美國人的難處",
-            "summary": "The Difficulty of Being a Perfect Asian American",
-            "date_modified": "2022-03-10T11:00:00.000Z",
-            "author": {
-                "name": "Hua Hsu",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/10/style/ty-haney-outdoor-voices-try-your-best.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/10/style/ty-haney-outdoor-voices-try-your-best.html",
-            "title": "戶外之聲的Ty Haney在Web3空間成立了新公司",
-            "summary": "Outdoor Voices’ Ty Haney Starts New Company in Web3 Space",
-            "date_modified": "2022-03-10T15:14:49.000Z",
-            "author": {
-                "name": "Anna P. Kambhampaty and Sapna Maheshwari",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/10/technology/walkman-nostalgia.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/10/technology/walkman-nostalgia.html",
-            "title": "你還愛著隨身聽嗎？",
-            "summary": "Do You Still Love the Walkman?",
-            "date_modified": "2022-03-10T17:18:23.000Z",
-            "author": {
-                "name": "Shira Ovide",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/10/technology/disinformation-russia-ukraine.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/10/technology/disinformation-russia-ukraine.html",
-            "title": "關於戰爭，俄羅斯人被告知的4個錯誤信息",
-            "summary": "4 Falsehoods Russians Are Told About the War",
-            "date_modified": "2022-03-10T14:58:16.000Z",
-            "author": {
-                "name": "Stuart A. Thompson",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/international/archive/2022/03/western-unity-putin-russia-ukraine/627013/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/international/archive/2022/03/western-unity-putin-russia-ukraine/627013/?utm_source=feed",
-            "title": "對西方來說，最壞的情況還沒有到來",
-            "summary": "For the West, the Worst Is Yet to Come",
-            "date_modified": "2022-03-10T16:42:46.000Z",
-            "author": {
-                "name": "Tom McTague",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/magazine/archive/2022/04/pandemic-politics-public-schools/622824/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/magazine/archive/2022/04/pandemic-politics-public-schools/622824/?utm_source=feed",
-            "title": "成年人正在失去它",
-            "summary": "The Grown-Ups Are Losing It",
-            "date_modified": "2022-03-10T16:39:44.000Z",
-            "author": {
-                "name": "George Packer",
-                "url": "https://www.theatlantic.com/feed/all/"
             }
         }
     ]
