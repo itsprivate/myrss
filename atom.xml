@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-21T15:56:59.346Z</updated>
+    <updated>2022-03-21T16:52:12.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个微小的小行星撞击可能会拯救地球人，使其免受城市杀伤性太空岩石的影响]]></title>
+        <id>https://www.nytimes.com/2022/03/21/science/nasa-asteroid-strike.html</id>
+        <link href="https://www.nytimes.com/2022/03/21/science/nasa-asteroid-strike.html"/>
+        <updated>2022-03-21T16:38:06.000Z</updated>
+        <summary type="html"><![CDATA[How a Tiny Asteroid Strike May Save Earthlings From City-Killing Space Rocks]]></summary>
+        <author>
+            <name>Robin George Andrews</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日漫画。3月21日，星期一]]></title>
         <id>https://www.newyorker.com/cartoons/daily-cartoon/monday-march-21st-risk-board-game</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Kyle Chayka</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这些小而便宜的设备有助于监测海地的地震]]></title>
-        <id>https://www.nytimes.com/2022/03/10/science/haiti-earthquake-seismometer.html</id>
-        <link href="https://www.nytimes.com/2022/03/10/science/haiti-earthquake-seismometer.html"/>
-        <updated>2022-03-10T23:05:43.000Z</updated>
-        <summary type="html"><![CDATA[These Small, Cheap Devices Help Monitor Haiti’s Earthquakes]]></summary>
-        <author>
-            <name>Kenneth Chang</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>
