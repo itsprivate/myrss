@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/newsletters/archive/2022/03/the-two-most-dismissive-words-on-the-internet/627110/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/newsletters/archive/2022/03/the-two-most-dismissive-words-on-the-internet/627110/?utm_source=feed",
+            "title": "互聯網上最輕蔑的兩個詞",
+            "summary": "The Two Most Dismissive Words on the Internet",
+            "date_modified": "2022-03-21T11:13:24.000Z",
+            "author": {
+                "name": "Caleb Madison",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/magazine/2022/03/28/letters-from-the-march-28-2022-issue",
             "content_html": "",
             "url": "https://www.newyorker.com/magazine/2022/03/28/letters-from-the-march-28-2022-issue",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Alan Taylor",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/10/business/microsoft-climate-carbon-emissions.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/10/business/microsoft-climate-carbon-emissions.html",
-            "title": "微軟對氣候目標的追求遇到了阻力",
-            "summary": "Microsoft’s Pursuit of Climate Goals Runs Into Headwinds",
-            "date_modified": "2022-03-10T18:30:10.000Z",
-            "author": {
-                "name": "Peter Eavis",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
     ]

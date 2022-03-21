@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-21T10:15:47.357Z</updated>
+    <updated>2022-03-21T11:30:15.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[互聯網上最輕蔑的兩個詞]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/03/the-two-most-dismissive-words-on-the-internet/627110/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/the-two-most-dismissive-words-on-the-internet/627110/?utm_source=feed"/>
+        <updated>2022-03-21T11:13:24.000Z</updated>
+        <summary type="html"><![CDATA[The Two Most Dismissive Words on the Internet]]></summary>
+        <author>
+            <name>Caleb Madison</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[郵報]]></title>
         <id>https://www.newyorker.com/magazine/2022/03/28/letters-from-the-march-28-2022-issue</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Alan Taylor</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微軟對氣候目標的追求遇到了阻力]]></title>
-        <id>https://www.nytimes.com/2022/03/10/business/microsoft-climate-carbon-emissions.html</id>
-        <link href="https://www.nytimes.com/2022/03/10/business/microsoft-climate-carbon-emissions.html"/>
-        <updated>2022-03-10T18:30:10.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft’s Pursuit of Climate Goals Runs Into Headwinds]]></summary>
-        <author>
-            <name>Peter Eavis</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>

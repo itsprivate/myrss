@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 21 Mar 2022 10:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 11:30:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[互联网上最轻蔑的两个词]]></title>
+            <link>https://www.theatlantic.com/newsletters/archive/2022/03/the-two-most-dismissive-words-on-the-internet/627110/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/newsletters/archive/2022/03/the-two-most-dismissive-words-on-the-internet/627110/?utm_source=feed</guid>
+            <pubDate>Mon, 21 Mar 2022 11:13:24 GMT</pubDate>
+            <description><![CDATA[The Two Most Dismissive Words on the Internet]]></description>
+        </item>
         <item>
             <title><![CDATA[邮报]]></title>
             <link>https://www.newyorker.com/magazine/2022/03/28/letters-from-the-march-28-2022-issue</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/photo/2022/03/scenes-2022-winter-paralympics/627020/?utm_source=feed</guid>
             <pubDate>Thu, 10 Mar 2022 18:52:26 GMT</pubDate>
             <description><![CDATA[Scenes From the 2022 Winter Paralympics]]></description>
-        </item>
-        <item>
-            <title><![CDATA[微软对气候目标的追求遇到了阻力]]></title>
-            <link>https://www.nytimes.com/2022/03/10/business/microsoft-climate-carbon-emissions.html</link>
-            <guid>https://www.nytimes.com/2022/03/10/business/microsoft-climate-carbon-emissions.html</guid>
-            <pubDate>Thu, 10 Mar 2022 18:30:10 GMT</pubDate>
-            <description><![CDATA[Microsoft’s Pursuit of Climate Goals Runs Into Headwinds]]></description>
         </item>
     </channel>
 </rss>
