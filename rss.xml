@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 21 Mar 2022 07:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 08:54:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[普京的战争和混沌攀登者]]></title>
+            <link>https://noahpinion.substack.com/p/putins-war-and-the-chaos-climbers</link>
+            <guid>https://noahpinion.substack.com/p/putins-war-and-the-chaos-climbers</guid>
+            <pubDate>Mon, 21 Mar 2022 08:50:26 GMT</pubDate>
+            <description><![CDATA[Putin's war and the Chaos Climbers]]></description>
+        </item>
         <item>
             <title><![CDATA[多伦多的科技产业正在悄然兴起]]></title>
             <link>https://www.nytimes.com/2022/03/21/technology/toronto-tech-boom.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/magazine/archive/2022/04/pandemic-politics-public-schools/622824/?utm_source=feed</guid>
             <pubDate>Thu, 10 Mar 2022 16:39:44 GMT</pubDate>
             <description><![CDATA[The Grown-Ups Are Losing It]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯的经济停摆将改变世界]]></title>
-            <link>https://www.theatlantic.com/newsletters/archive/2022/03/russia-economic-sanctions-wheat-oil/627004/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/newsletters/archive/2022/03/russia-economic-sanctions-wheat-oil/627004/?utm_source=feed</guid>
-            <pubDate>Thu, 10 Mar 2022 16:56:53 GMT</pubDate>
-            <description><![CDATA[Russia’s Economic Blackout Will Change the World]]></description>
         </item>
     </channel>
 </rss>

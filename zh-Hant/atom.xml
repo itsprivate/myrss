@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-21T07:12:29.329Z</updated>
+    <updated>2022-03-21T08:54:37.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[普京的戰爭和混沌攀登者]]></title>
+        <id>https://noahpinion.substack.com/p/putins-war-and-the-chaos-climbers</id>
+        <link href="https://noahpinion.substack.com/p/putins-war-and-the-chaos-climbers"/>
+        <updated>2022-03-21T08:50:26.000Z</updated>
+        <summary type="html"><![CDATA[Putin's war and the Chaos Climbers]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[多倫多的科技產業正在悄然興起]]></title>
         <id>https://www.nytimes.com/2022/03/21/technology/toronto-tech-boom.html</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[The Grown-Ups Are Losing It]]></summary>
         <author>
             <name>George Packer</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯的經濟停擺將改變世界]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2022/03/russia-economic-sanctions-wheat-oil/627004/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/russia-economic-sanctions-wheat-oil/627004/?utm_source=feed"/>
-        <updated>2022-03-10T16:56:53.000Z</updated>
-        <summary type="html"><![CDATA[Russia’s Economic Blackout Will Change the World]]></summary>
-        <author>
-            <name>Derek Thompson</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
