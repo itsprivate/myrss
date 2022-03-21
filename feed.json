@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/books/second-read/how-a-book-about-americas-history-foretold-chinas-future",
+            "content_html": "",
+            "url": "https://www.newyorker.com/books/second-read/how-a-book-about-americas-history-foretold-chinas-future",
+            "title": "一本关于美国历史的书如何预示中国的未来",
+            "summary": "How a Book About America’s History Foretold China’s Future",
+            "date_modified": "2022-03-21T17:38:30.000Z",
+            "author": {
+                "name": "Chang Che",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/21/business/gm-cadillac-electric-lyriq.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/21/business/gm-cadillac-electric-lyriq.html",
@@ -7193,18 +7205,6 @@
             "title": "安息日第一周",
             "summary": "Sabbatical Week One",
             "date_modified": "2019-09-08T05:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/net-core-mvc-access-appsettings-json/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/net-core-mvc-access-appsettings-json/",
-            "title": ".NET Core MVC - 如何访问appsettings.json",
-            "summary": ".NET Core MVC - How to Access appsettings.json",
-            "date_modified": "2020-11-09T05:00:00.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"

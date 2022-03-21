@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 21 Mar 2022 17:43:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 17:52:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一本關於美國曆史的書如何預示中國的未來]]></title>
+            <link>https://www.newyorker.com/books/second-read/how-a-book-about-americas-history-foretold-chinas-future</link>
+            <guid>https://www.newyorker.com/books/second-read/how-a-book-about-americas-history-foretold-chinas-future</guid>
+            <pubDate>Mon, 21 Mar 2022 17:38:30 GMT</pubDate>
+            <description><![CDATA[How a Book About America’s History Foretold China’s Future]]></description>
+        </item>
         <item>
             <title><![CDATA[凱迪拉克Lyriq開始生產，擴大了G.M.的電動車陣容]]></title>
             <link>https://www.nytimes.com/2022/03/21/business/gm-cadillac-electric-lyriq.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.davidhaney.io/sabbatical-week-one/</guid>
             <pubDate>Sun, 08 Sep 2019 05:00:00 GMT</pubDate>
             <description><![CDATA[Sabbatical Week One]]></description>
-        </item>
-        <item>
-            <title><![CDATA[.NET Core MVC - 如何訪問appsettings.json]]></title>
-            <link>https://www.davidhaney.io/net-core-mvc-access-appsettings-json/</link>
-            <guid>https://www.davidhaney.io/net-core-mvc-access-appsettings-json/</guid>
-            <pubDate>Mon, 09 Nov 2020 05:00:00 GMT</pubDate>
-            <description><![CDATA[.NET Core MVC - How to Access appsettings.json]]></description>
         </item>
     </channel>
 </rss>
