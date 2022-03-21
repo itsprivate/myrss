@@ -11,6 +11,90 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/humor/borowitz-report/republicans-accuse-supreme-court-nominee-of-being-chosen-by-biden",
+            "content_html": "",
+            "url": "https://www.newyorker.com/humor/borowitz-report/republicans-accuse-supreme-court-nominee-of-being-chosen-by-biden",
+            "title": "共和黨人指責最高法院被提名人是拜登選定的",
+            "summary": "Republicans Accuse Supreme Court Nominee of Being Chosen by Biden",
+            "date_modified": "2022-03-21T14:55:55.000Z",
+            "author": {
+                "name": "Andy Borowitz",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/magazine/2022/03/28/retirement-the-margaritaville-way",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/03/28/retirement-the-margaritaville-way",
+            "title": "瑪格麗特方式的退休生活",
+            "summary": "Retirement the Margaritaville Way",
+            "date_modified": "2022-03-21T10:00:00.000Z",
+            "author": {
+                "name": "Nick Paumgarten",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/magazine/2022/03/28/should-leopards-be-paid-for-their-spots",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/03/28/should-leopards-be-paid-for-their-spots",
+            "title": "豹子應該為它們的位置支付報酬嗎？",
+            "summary": "Should Leopards Be Paid for Their Spots?",
+            "date_modified": "2022-03-21T10:00:00.000Z",
+            "author": {
+                "name": "Rebecca Mead",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/magazine/2022/03/28/the-pied-piper-of-psychedelic-toads",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/03/28/the-pied-piper-of-psychedelic-toads",
+            "title": "迷幻蟾蜍的魔笛手",
+            "summary": "The Pied Piper of Psychedelic Toads",
+            "date_modified": "2022-03-21T10:00:00.000Z",
+            "author": {
+                "name": "Kimon de Greef",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/magazine/2022/03/28/the-russians-fleeing-putins-wartime-crackdown",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/03/28/the-russians-fleeing-putins-wartime-crackdown",
+            "title": "逃離普京的戰時鎮壓的俄羅斯人",
+            "summary": "The Russians Fleeing Putin’s Wartime Crackdown",
+            "date_modified": "2022-03-20T10:00:00.000Z",
+            "author": {
+                "name": "Masha Gessen",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/magazine/2022/03/28/the-complexities-of-the-ukraine-dilemma",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/03/28/the-complexities-of-the-ukraine-dilemma",
+            "title": "烏克蘭困境的複雜性",
+            "summary": "The Complexities of the Ukraine Dilemma",
+            "date_modified": "2022-03-19T10:00:00.000Z",
+            "author": {
+                "name": "Steve Coll",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/03/ukraine-is-winning-war-russia/627121/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/03/ukraine-is-winning-war-russia/627121/?utm_source=feed",
+            "title": "為什麼我們不能承認烏克蘭正在取得勝利？",
+            "summary": "Why Can’t We Admit That Ukraine Is Winning?",
+            "date_modified": "2022-03-21T14:57:39.000Z",
+            "author": {
+                "name": "Eliot A. Cohen",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/ideas/archive/2022/03/why-criminal-cases-against-trump-are-doomed/627113/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/ideas/archive/2022/03/why-criminal-cases-against-trump-are-doomed/627113/?utm_source=feed",
@@ -7123,90 +7207,6 @@
             "date_modified": "2022-03-10T20:51:05.000Z",
             "author": {
                 "name": "Barry Blitt",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/daily-comment/the-growing-fear-of-a-wider-war-between-russia-and-the-west",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/daily-comment/the-growing-fear-of-a-wider-war-between-russia-and-the-west",
-            "title": "對俄羅斯和西方之間更廣泛戰爭的擔憂日益增加",
-            "summary": "The Growing Fear of a Wider War Between Russia and the West",
-            "date_modified": "2022-03-10T19:38:32.000Z",
-            "author": {
-                "name": "Robin Wright",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/newsletters/archive/2022/03/putin-ukraine-russia-invasion-weakness/627016/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/newsletters/archive/2022/03/putin-ukraine-russia-invasion-weakness/627016/?utm_source=feed",
-            "title": "<em>《大西洋》</em>日報。普京自己製造的混亂",
-            "summary": "<em>The Atlantic</em> Daily: A Mess of Putin’s Own Making",
-            "date_modified": "2022-03-10T20:01:23.000Z",
-            "author": {
-                "name": "Caroline Mimbs Nyce",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/international/archive/2022/03/afghanistan-withdrawal-left-behind-women-soldiers/627022/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/international/archive/2022/03/afghanistan-withdrawal-left-behind-women-soldiers/627022/?utm_source=feed",
-            "title": "這些阿富汗婦女正被塔利班追殺",
-            "summary": "These Afghan Women Are Being Hunted by the Taliban",
-            "date_modified": "2022-03-10T19:58:49.000Z",
-            "author": {
-                "name": "George Packer",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/health/archive/2022/03/covid-vaccination-kids-measles-polio/627026/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/health/archive/2022/03/covid-vaccination-kids-measles-polio/627026/?utm_source=feed",
-            "title": "為兒童接種疫苗從未如此簡單",
-            "summary": "Vaccinating Kids Has Never Been Easy",
-            "date_modified": "2022-03-10T19:30:57.000Z",
-            "author": {
-                "name": "Sarah Zhang",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/daily-comment/a-russian-journalist-who-stayed-behind",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/daily-comment/a-russian-journalist-who-stayed-behind",
-            "title": "一位留守的俄羅斯記者",
-            "summary": "A Russian Journalist Who Stayed Behind",
-            "date_modified": "2022-03-10T18:34:29.000Z",
-            "author": {
-                "name": "David Remnick",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/humor/daily-shouts/thoughts-i-had-during-my-failed-attempts-to-enjoy-nature",
-            "content_html": "",
-            "url": "https://www.newyorker.com/humor/daily-shouts/thoughts-i-had-during-my-failed-attempts-to-enjoy-nature",
-            "title": "我在享受大自然的失敗嘗試中的想法",
-            "summary": "Thoughts I Had During My Failed Attempts to Enjoy Nature",
-            "date_modified": "2022-03-10T19:00:00.000Z",
-            "author": {
-                "name": "Ginny Hogan, Lex Singer",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/news-desk/the-revolution-eats-itself-in-nicaragua",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/news-desk/the-revolution-eats-itself-in-nicaragua",
-            "title": "尼加拉瓜的革命自食其果",
-            "summary": "The Revolution Eats Itself in Nicaragua",
-            "date_modified": "2022-03-10T19:02:02.000Z",
-            "author": {
-                "name": "Alma Guillermoprieto",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

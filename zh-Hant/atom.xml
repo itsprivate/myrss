@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-21T14:53:13.382Z</updated>
+    <updated>2022-03-21T15:15:41.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[共和黨人指責最高法院被提名人是拜登選定的]]></title>
+        <id>https://www.newyorker.com/humor/borowitz-report/republicans-accuse-supreme-court-nominee-of-being-chosen-by-biden</id>
+        <link href="https://www.newyorker.com/humor/borowitz-report/republicans-accuse-supreme-court-nominee-of-being-chosen-by-biden"/>
+        <updated>2022-03-21T14:55:55.000Z</updated>
+        <summary type="html"><![CDATA[Republicans Accuse Supreme Court Nominee of Being Chosen by Biden]]></summary>
+        <author>
+            <name>Andy Borowitz</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瑪格麗特方式的退休生活]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/28/retirement-the-margaritaville-way</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/28/retirement-the-margaritaville-way"/>
+        <updated>2022-03-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Retirement the Margaritaville Way]]></summary>
+        <author>
+            <name>Nick Paumgarten</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[豹子應該為它們的位置支付報酬嗎？]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/28/should-leopards-be-paid-for-their-spots</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/28/should-leopards-be-paid-for-their-spots"/>
+        <updated>2022-03-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Should Leopards Be Paid for Their Spots?]]></summary>
+        <author>
+            <name>Rebecca Mead</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[迷幻蟾蜍的魔笛手]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/28/the-pied-piper-of-psychedelic-toads</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/28/the-pied-piper-of-psychedelic-toads"/>
+        <updated>2022-03-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Pied Piper of Psychedelic Toads]]></summary>
+        <author>
+            <name>Kimon de Greef</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[逃離普京的戰時鎮壓的俄羅斯人]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/28/the-russians-fleeing-putins-wartime-crackdown</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/28/the-russians-fleeing-putins-wartime-crackdown"/>
+        <updated>2022-03-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Russians Fleeing Putin’s Wartime Crackdown]]></summary>
+        <author>
+            <name>Masha Gessen</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭困境的複雜性]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/28/the-complexities-of-the-ukraine-dilemma</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/28/the-complexities-of-the-ukraine-dilemma"/>
+        <updated>2022-03-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Complexities of the Ukraine Dilemma]]></summary>
+        <author>
+            <name>Steve Coll</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼我們不能承認烏克蘭正在取得勝利？]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/ukraine-is-winning-war-russia/627121/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/ukraine-is-winning-war-russia/627121/?utm_source=feed"/>
+        <updated>2022-03-21T14:57:39.000Z</updated>
+        <summary type="html"><![CDATA[Why Can’t We Admit That Ukraine Is Winning?]]></summary>
+        <author>
+            <name>Eliot A. Cohen</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不要再等著特朗普被定罪了]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/03/why-criminal-cases-against-trump-are-doomed/627113/?utm_source=feed</id>
@@ -6535,83 +6612,6 @@
         <summary type="html"><![CDATA[Still No Russian Withdrawal]]></summary>
         <author>
             <name>Barry Blitt</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對俄羅斯和西方之間更廣泛戰爭的擔憂日益增加]]></title>
-        <id>https://www.newyorker.com/news/daily-comment/the-growing-fear-of-a-wider-war-between-russia-and-the-west</id>
-        <link href="https://www.newyorker.com/news/daily-comment/the-growing-fear-of-a-wider-war-between-russia-and-the-west"/>
-        <updated>2022-03-10T19:38:32.000Z</updated>
-        <summary type="html"><![CDATA[The Growing Fear of a Wider War Between Russia and the West]]></summary>
-        <author>
-            <name>Robin Wright</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<em>《大西洋》</em>日報。普京自己製造的混亂]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2022/03/putin-ukraine-russia-invasion-weakness/627016/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/putin-ukraine-russia-invasion-weakness/627016/?utm_source=feed"/>
-        <updated>2022-03-10T20:01:23.000Z</updated>
-        <summary type="html"><![CDATA[<em>The Atlantic</em> Daily: A Mess of Putin’s Own Making]]></summary>
-        <author>
-            <name>Caroline Mimbs Nyce</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[這些阿富汗婦女正被塔利班追殺]]></title>
-        <id>https://www.theatlantic.com/international/archive/2022/03/afghanistan-withdrawal-left-behind-women-soldiers/627022/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/international/archive/2022/03/afghanistan-withdrawal-left-behind-women-soldiers/627022/?utm_source=feed"/>
-        <updated>2022-03-10T19:58:49.000Z</updated>
-        <summary type="html"><![CDATA[These Afghan Women Are Being Hunted by the Taliban]]></summary>
-        <author>
-            <name>George Packer</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為兒童接種疫苗從未如此簡單]]></title>
-        <id>https://www.theatlantic.com/health/archive/2022/03/covid-vaccination-kids-measles-polio/627026/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/health/archive/2022/03/covid-vaccination-kids-measles-polio/627026/?utm_source=feed"/>
-        <updated>2022-03-10T19:30:57.000Z</updated>
-        <summary type="html"><![CDATA[Vaccinating Kids Has Never Been Easy]]></summary>
-        <author>
-            <name>Sarah Zhang</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一位留守的俄羅斯記者]]></title>
-        <id>https://www.newyorker.com/news/daily-comment/a-russian-journalist-who-stayed-behind</id>
-        <link href="https://www.newyorker.com/news/daily-comment/a-russian-journalist-who-stayed-behind"/>
-        <updated>2022-03-10T18:34:29.000Z</updated>
-        <summary type="html"><![CDATA[A Russian Journalist Who Stayed Behind]]></summary>
-        <author>
-            <name>David Remnick</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在享受大自然的失敗嘗試中的想法]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/thoughts-i-had-during-my-failed-attempts-to-enjoy-nature</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/thoughts-i-had-during-my-failed-attempts-to-enjoy-nature"/>
-        <updated>2022-03-10T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Thoughts I Had During My Failed Attempts to Enjoy Nature]]></summary>
-        <author>
-            <name>Ginny Hogan, Lex Singer</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尼加拉瓜的革命自食其果]]></title>
-        <id>https://www.newyorker.com/news/news-desk/the-revolution-eats-itself-in-nicaragua</id>
-        <link href="https://www.newyorker.com/news/news-desk/the-revolution-eats-itself-in-nicaragua"/>
-        <updated>2022-03-10T19:02:02.000Z</updated>
-        <summary type="html"><![CDATA[The Revolution Eats Itself in Nicaragua]]></summary>
-        <author>
-            <name>Alma Guillermoprieto</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 21 Mar 2022 14:53:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 15:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,55 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[共和党人指责最高法院被提名人是拜登选定的]]></title>
+            <link>https://www.newyorker.com/humor/borowitz-report/republicans-accuse-supreme-court-nominee-of-being-chosen-by-biden</link>
+            <guid>https://www.newyorker.com/humor/borowitz-report/republicans-accuse-supreme-court-nominee-of-being-chosen-by-biden</guid>
+            <pubDate>Mon, 21 Mar 2022 14:55:55 GMT</pubDate>
+            <description><![CDATA[Republicans Accuse Supreme Court Nominee of Being Chosen by Biden]]></description>
+        </item>
+        <item>
+            <title><![CDATA[玛格丽特方式的退休生活]]></title>
+            <link>https://www.newyorker.com/magazine/2022/03/28/retirement-the-margaritaville-way</link>
+            <guid>https://www.newyorker.com/magazine/2022/03/28/retirement-the-margaritaville-way</guid>
+            <pubDate>Mon, 21 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Retirement the Margaritaville Way]]></description>
+        </item>
+        <item>
+            <title><![CDATA[豹子应该为它们的位置支付报酬吗？]]></title>
+            <link>https://www.newyorker.com/magazine/2022/03/28/should-leopards-be-paid-for-their-spots</link>
+            <guid>https://www.newyorker.com/magazine/2022/03/28/should-leopards-be-paid-for-their-spots</guid>
+            <pubDate>Mon, 21 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Should Leopards Be Paid for Their Spots?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[迷幻蟾蜍的魔笛手]]></title>
+            <link>https://www.newyorker.com/magazine/2022/03/28/the-pied-piper-of-psychedelic-toads</link>
+            <guid>https://www.newyorker.com/magazine/2022/03/28/the-pied-piper-of-psychedelic-toads</guid>
+            <pubDate>Mon, 21 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Pied Piper of Psychedelic Toads]]></description>
+        </item>
+        <item>
+            <title><![CDATA[逃离普京的战时镇压的俄罗斯人]]></title>
+            <link>https://www.newyorker.com/magazine/2022/03/28/the-russians-fleeing-putins-wartime-crackdown</link>
+            <guid>https://www.newyorker.com/magazine/2022/03/28/the-russians-fleeing-putins-wartime-crackdown</guid>
+            <pubDate>Sun, 20 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Russians Fleeing Putin’s Wartime Crackdown]]></description>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰困境的复杂性]]></title>
+            <link>https://www.newyorker.com/magazine/2022/03/28/the-complexities-of-the-ukraine-dilemma</link>
+            <guid>https://www.newyorker.com/magazine/2022/03/28/the-complexities-of-the-ukraine-dilemma</guid>
+            <pubDate>Sat, 19 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Complexities of the Ukraine Dilemma]]></description>
+        </item>
+        <item>
+            <title><![CDATA[为什么我们不能承认乌克兰正在取得胜利？]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/03/ukraine-is-winning-war-russia/627121/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/03/ukraine-is-winning-war-russia/627121/?utm_source=feed</guid>
+            <pubDate>Mon, 21 Mar 2022 14:57:39 GMT</pubDate>
+            <description><![CDATA[Why Can’t We Admit That Ukraine Is Winning?]]></description>
+        </item>
         <item>
             <title><![CDATA[不要再等着特朗普被定罪了]]></title>
             <link>https://www.theatlantic.com/ideas/archive/2022/03/why-criminal-cases-against-trump-are-doomed/627113/?utm_source=feed</link>
@@ -4164,55 +4213,6 @@
             <guid>https://www.newyorker.com/cartoons/blitts-kvetchbook/still-no-russian-withdrawal</guid>
             <pubDate>Thu, 10 Mar 2022 20:51:05 GMT</pubDate>
             <description><![CDATA[Still No Russian Withdrawal]]></description>
-        </item>
-        <item>
-            <title><![CDATA[对俄罗斯和西方之间更广泛战争的担忧日益增加]]></title>
-            <link>https://www.newyorker.com/news/daily-comment/the-growing-fear-of-a-wider-war-between-russia-and-the-west</link>
-            <guid>https://www.newyorker.com/news/daily-comment/the-growing-fear-of-a-wider-war-between-russia-and-the-west</guid>
-            <pubDate>Thu, 10 Mar 2022 19:38:32 GMT</pubDate>
-            <description><![CDATA[The Growing Fear of a Wider War Between Russia and the West]]></description>
-        </item>
-        <item>
-            <title><![CDATA[<em>《大西洋》</em>日报。普京自己制造的混乱]]></title>
-            <link>https://www.theatlantic.com/newsletters/archive/2022/03/putin-ukraine-russia-invasion-weakness/627016/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/newsletters/archive/2022/03/putin-ukraine-russia-invasion-weakness/627016/?utm_source=feed</guid>
-            <pubDate>Thu, 10 Mar 2022 20:01:23 GMT</pubDate>
-            <description><![CDATA[<em>The Atlantic</em> Daily: A Mess of Putin’s Own Making]]></description>
-        </item>
-        <item>
-            <title><![CDATA[这些阿富汗妇女正被塔利班追杀]]></title>
-            <link>https://www.theatlantic.com/international/archive/2022/03/afghanistan-withdrawal-left-behind-women-soldiers/627022/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/international/archive/2022/03/afghanistan-withdrawal-left-behind-women-soldiers/627022/?utm_source=feed</guid>
-            <pubDate>Thu, 10 Mar 2022 19:58:49 GMT</pubDate>
-            <description><![CDATA[These Afghan Women Are Being Hunted by the Taliban]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为儿童接种疫苗从未如此简单]]></title>
-            <link>https://www.theatlantic.com/health/archive/2022/03/covid-vaccination-kids-measles-polio/627026/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/health/archive/2022/03/covid-vaccination-kids-measles-polio/627026/?utm_source=feed</guid>
-            <pubDate>Thu, 10 Mar 2022 19:30:57 GMT</pubDate>
-            <description><![CDATA[Vaccinating Kids Has Never Been Easy]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一位留守的俄罗斯记者]]></title>
-            <link>https://www.newyorker.com/news/daily-comment/a-russian-journalist-who-stayed-behind</link>
-            <guid>https://www.newyorker.com/news/daily-comment/a-russian-journalist-who-stayed-behind</guid>
-            <pubDate>Thu, 10 Mar 2022 18:34:29 GMT</pubDate>
-            <description><![CDATA[A Russian Journalist Who Stayed Behind]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我在享受大自然的失败尝试中的想法]]></title>
-            <link>https://www.newyorker.com/humor/daily-shouts/thoughts-i-had-during-my-failed-attempts-to-enjoy-nature</link>
-            <guid>https://www.newyorker.com/humor/daily-shouts/thoughts-i-had-during-my-failed-attempts-to-enjoy-nature</guid>
-            <pubDate>Thu, 10 Mar 2022 19:00:00 GMT</pubDate>
-            <description><![CDATA[Thoughts I Had During My Failed Attempts to Enjoy Nature]]></description>
-        </item>
-        <item>
-            <title><![CDATA[尼加拉瓜的革命自食其果]]></title>
-            <link>https://www.newyorker.com/news/news-desk/the-revolution-eats-itself-in-nicaragua</link>
-            <guid>https://www.newyorker.com/news/news-desk/the-revolution-eats-itself-in-nicaragua</guid>
-            <pubDate>Thu, 10 Mar 2022 19:02:02 GMT</pubDate>
-            <description><![CDATA[The Revolution Eats Itself in Nicaragua]]></description>
         </item>
     </channel>
 </rss>
