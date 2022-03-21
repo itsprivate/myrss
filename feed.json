@@ -11,6 +11,54 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/culture/personal-history/andrey-kurkov-ukraine-russia-war-archeology-ukrainian-translation",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/personal-history/andrey-kurkov-ukraine-russia-war-archeology-ukrainian-translation",
+            "title": "许可证制度",
+            "summary": "Археологія війни",
+            "date_modified": "2022-03-21T21:00:00.000Z",
+            "author": {
+                "name": "Andrey Kurkov",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/culture/personal-history/andrey-kurkov-ukraine-russia-archeology-war",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/personal-history/andrey-kurkov-ukraine-russia-archeology-war",
+            "title": "战争的考古学",
+            "summary": "The Archeology of War",
+            "date_modified": "2022-03-21T21:00:00.000Z",
+            "author": {
+                "name": "Andrey Kurkov",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/culture/personal-history/andrey-kurkov-ukraine-russia-war-archeology-russian-translation",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/personal-history/andrey-kurkov-ukraine-russia-war-archeology-russian-translation",
+            "title": "许可证制度",
+            "summary": "Археология войны",
+            "date_modified": "2022-03-21T21:00:00.000Z",
+            "author": {
+                "name": "Andrey Kurkov",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/03/21/science/russia-spacex-oneweb.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/21/science/russia-spacex-oneweb.html",
+            "title": "俄罗斯损失的火箭发射业务成为SpaceX的收益",
+            "summary": "Russia’s Loss of Rocket Launch Business Becomes SpaceX’s Gain",
+            "date_modified": "2022-03-21T20:49:06.000Z",
+            "author": {
+                "name": "Joey Roulette",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/21/technology/google-workers-settlement.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/21/technology/google-workers-settlement.html",
@@ -7157,54 +7205,6 @@
             "title": "开发团队的互动。进行良好的代码审查",
             "summary": "Dev Team Interactions: Conducting Good Code Reviews",
             "date_modified": "2017-01-27T10:03:20.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/gitlab-data-loss-a-discussion/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/gitlab-data-loss-a-discussion/",
-            "title": "GitLab数据丢失：一个讨论",
-            "summary": "GitLab Data Loss: A Discussion",
-            "date_modified": "2017-02-02T11:33:02.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/on-hiring-developers-are-like-stocks/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/on-hiring-developers-are-like-stocks/",
-            "title": "关于招聘。开发人员就像股票一样",
-            "summary": "On Hiring: Developers Are Like Stocks",
-            "date_modified": "2017-02-10T11:11:30.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/new-blog-and-hiring-needs/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/new-blog-and-hiring-needs/",
-            "title": "新博客与招聘需求",
-            "summary": "New Blog & Hiring Needs",
-            "date_modified": "2018-06-09T17:56:24.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/writing-a-great-junior-tech-resume/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/writing-a-great-junior-tech-resume/",
-            "title": "撰写一份优秀的初级技术员履历表",
-            "summary": "Writing a Great Junior Tech Résumé",
-            "date_modified": "2018-07-24T04:00:00.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"

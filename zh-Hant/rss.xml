@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 21 Mar 2022 20:43:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 21:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,34 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[許可證制度]]></title>
+            <link>https://www.newyorker.com/culture/personal-history/andrey-kurkov-ukraine-russia-war-archeology-ukrainian-translation</link>
+            <guid>https://www.newyorker.com/culture/personal-history/andrey-kurkov-ukraine-russia-war-archeology-ukrainian-translation</guid>
+            <pubDate>Mon, 21 Mar 2022 21:00:00 GMT</pubDate>
+            <description><![CDATA[Археологія війни]]></description>
+        </item>
+        <item>
+            <title><![CDATA[戰爭的考古學]]></title>
+            <link>https://www.newyorker.com/culture/personal-history/andrey-kurkov-ukraine-russia-archeology-war</link>
+            <guid>https://www.newyorker.com/culture/personal-history/andrey-kurkov-ukraine-russia-archeology-war</guid>
+            <pubDate>Mon, 21 Mar 2022 21:00:00 GMT</pubDate>
+            <description><![CDATA[The Archeology of War]]></description>
+        </item>
+        <item>
+            <title><![CDATA[許可證制度]]></title>
+            <link>https://www.newyorker.com/culture/personal-history/andrey-kurkov-ukraine-russia-war-archeology-russian-translation</link>
+            <guid>https://www.newyorker.com/culture/personal-history/andrey-kurkov-ukraine-russia-war-archeology-russian-translation</guid>
+            <pubDate>Mon, 21 Mar 2022 21:00:00 GMT</pubDate>
+            <description><![CDATA[Археология войны]]></description>
+        </item>
+        <item>
+            <title><![CDATA[俄羅斯損失的火箭發射業務成為SpaceX的收益]]></title>
+            <link>https://www.nytimes.com/2022/03/21/science/russia-spacex-oneweb.html</link>
+            <guid>https://www.nytimes.com/2022/03/21/science/russia-spacex-oneweb.html</guid>
+            <pubDate>Mon, 21 Mar 2022 20:49:06 GMT</pubDate>
+            <description><![CDATA[Russia’s Loss of Rocket Launch Business Becomes SpaceX’s Gain]]></description>
+        </item>
         <item>
             <title><![CDATA[谷歌與從事工會工作的六名員工達成和解。]]></title>
             <link>https://www.nytimes.com/2022/03/21/technology/google-workers-settlement.html</link>
@@ -4185,34 +4213,6 @@
             <guid>https://www.davidhaney.io/dev-team-interactions-conducting-good-code-reviews/</guid>
             <pubDate>Fri, 27 Jan 2017 10:03:20 GMT</pubDate>
             <description><![CDATA[Dev Team Interactions: Conducting Good Code Reviews]]></description>
-        </item>
-        <item>
-            <title><![CDATA[GitLab數據丟失：一個討論]]></title>
-            <link>https://www.davidhaney.io/gitlab-data-loss-a-discussion/</link>
-            <guid>https://www.davidhaney.io/gitlab-data-loss-a-discussion/</guid>
-            <pubDate>Thu, 02 Feb 2017 11:33:02 GMT</pubDate>
-            <description><![CDATA[GitLab Data Loss: A Discussion]]></description>
-        </item>
-        <item>
-            <title><![CDATA[關於招聘。開發人員就像股票一樣]]></title>
-            <link>https://www.davidhaney.io/on-hiring-developers-are-like-stocks/</link>
-            <guid>https://www.davidhaney.io/on-hiring-developers-are-like-stocks/</guid>
-            <pubDate>Fri, 10 Feb 2017 11:11:30 GMT</pubDate>
-            <description><![CDATA[On Hiring: Developers Are Like Stocks]]></description>
-        </item>
-        <item>
-            <title><![CDATA[新博客與招聘需求]]></title>
-            <link>https://www.davidhaney.io/new-blog-and-hiring-needs/</link>
-            <guid>https://www.davidhaney.io/new-blog-and-hiring-needs/</guid>
-            <pubDate>Sat, 09 Jun 2018 17:56:24 GMT</pubDate>
-            <description><![CDATA[New Blog & Hiring Needs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[撰寫一份優秀的初級技術員履歷表]]></title>
-            <link>https://www.davidhaney.io/writing-a-great-junior-tech-resume/</link>
-            <guid>https://www.davidhaney.io/writing-a-great-junior-tech-resume/</guid>
-            <pubDate>Tue, 24 Jul 2018 04:00:00 GMT</pubDate>
-            <description><![CDATA[Writing a Great Junior Tech Résumé]]></description>
         </item>
     </channel>
 </rss>
