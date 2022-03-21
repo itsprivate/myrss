@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-20T22:32:11.646Z</updated>
+    <updated>2022-03-21T02:21:09.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[公开主题216]]></title>
+        <id>https://astralcodexten.substack.com/p/open-thread-216</id>
+        <link href="https://astralcodexten.substack.com/p/open-thread-216"/>
+        <updated>2022-03-21T01:19:29.000Z</updated>
+        <summary type="html"><![CDATA[Open Thread 216]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[巴西两天后解除对Telegram的禁令]]></title>
         <id>https://www.nytimes.com/2022/03/20/world/americas/brazil-telegram-bolsonaro.html</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Can Sanctions Stop Russia?]]></summary>
         <author>
             <name>Annie Lowrey</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我看了俄罗斯电视，所以你不必看。]]></title>
-        <id>https://www.theatlantic.com/politics/archive/2022/03/how-russian-tv-portrays-war-ukraine/627010/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/politics/archive/2022/03/how-russian-tv-portrays-war-ukraine/627010/?utm_source=feed"/>
-        <updated>2022-03-10T12:31:33.000Z</updated>
-        <summary type="html"><![CDATA[I Watched Russian TV So You Don’t Have To]]></summary>
-        <author>
-            <name>Olga Khazan</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>

@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://astralcodexten.substack.com/p/open-thread-216",
+            "content_html": "",
+            "url": "https://astralcodexten.substack.com/p/open-thread-216",
+            "title": "公開主題216",
+            "summary": "Open Thread 216",
+            "date_modified": "2022-03-21T01:19:29.000Z",
+            "author": {
+                "name": "Scott Alexander",
+                "url": "https://astralcodexten.substack.com/feed"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/20/world/americas/brazil-telegram-bolsonaro.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/20/world/americas/brazil-telegram-bolsonaro.html",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-10T17:15:08.000Z",
             "author": {
                 "name": "Annie Lowrey",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/politics/archive/2022/03/how-russian-tv-portrays-war-ukraine/627010/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/politics/archive/2022/03/how-russian-tv-portrays-war-ukraine/627010/?utm_source=feed",
-            "title": "我看了俄羅斯電視，所以你不必看。",
-            "summary": "I Watched Russian TV So You Don’t Have To",
-            "date_modified": "2022-03-10T12:31:33.000Z",
-            "author": {
-                "name": "Olga Khazan",
                 "url": "https://www.theatlantic.com/feed/all/"
             }
         }
