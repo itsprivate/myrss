@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 21 Mar 2022 21:31:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 23:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[网球巡回赛应该禁止俄罗斯人参赛吗？]]></title>
+            <link>https://www.newyorker.com/sports/sporting-scene/should-the-tennis-tour-ban-russians-from-competing</link>
+            <guid>https://www.newyorker.com/sports/sporting-scene/should-the-tennis-tour-ban-russians-from-competing</guid>
+            <pubDate>Mon, 21 Mar 2022 22:37:32 GMT</pubDate>
+            <description><![CDATA[Should the Tennis Tour Ban Russians from Competing?]]></description>
+        </item>
         <item>
             <title><![CDATA[乌克兰广播电台]]></title>
             <link>https://www.newyorker.com/podcast/politics-and-more/radio-ukraine</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.davidhaney.io/our-industry-needs-compassion/</guid>
             <pubDate>Tue, 03 Jan 2017 12:37:39 GMT</pubDate>
             <description><![CDATA[Our Industry Needs Compassion]]></description>
-        </item>
-        <item>
-            <title><![CDATA[自定义ASP.NET MVC动作结果缓存属性]]></title>
-            <link>https://www.davidhaney.io/custom-asp-net-mvc-action-result-cache-attribute/</link>
-            <guid>https://www.davidhaney.io/custom-asp-net-mvc-action-result-cache-attribute/</guid>
-            <pubDate>Tue, 10 Jan 2017 09:07:15 GMT</pubDate>
-            <description><![CDATA[Custom ASP.NET MVC Action Result Cache Attribute]]></description>
         </item>
     </channel>
 </rss>
