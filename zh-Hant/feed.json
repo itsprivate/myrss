@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/21/business/gm-cadillac-electric-lyriq.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/21/business/gm-cadillac-electric-lyriq.html",
+            "title": "凱迪拉克Lyriq開始生產，擴大了G.M.的電動車陣容",
+            "summary": "Cadillac Lyriq Starts Production, Expanding G.M.’s Electric Lineup",
+            "date_modified": "2022-03-21T17:27:13.000Z",
+            "author": {
+                "name": "Neal E. Boudette",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/business/currency/the-consequences-of-the-unprecedented-rush-of-companies-leaving-russia",
             "content_html": "",
             "url": "https://www.newyorker.com/business/currency/the-consequences-of-the-unprecedented-rush-of-companies-leaving-russia",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/10/business/rivian-earnings.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/10/business/rivian-earnings.html",
-            "title": "裡維安以供應問題為由降低了2022年的交付目標",
-            "summary": "Rivian Pares Delivery Targets for 2022, Citing Supply Problems",
-            "date_modified": "2022-03-10T23:46:23.000Z",
-            "author": {
-                "name": "Peter Eavis",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
     ]

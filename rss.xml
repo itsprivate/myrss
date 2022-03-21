@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 21 Mar 2022 17:08:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 17:43:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[凯迪拉克Lyriq开始生产，扩大了G.M.的电动车阵容]]></title>
+            <link>https://www.nytimes.com/2022/03/21/business/gm-cadillac-electric-lyriq.html</link>
+            <guid>https://www.nytimes.com/2022/03/21/business/gm-cadillac-electric-lyriq.html</guid>
+            <pubDate>Mon, 21 Mar 2022 17:27:13 GMT</pubDate>
+            <description><![CDATA[Cadillac Lyriq Starts Production, Expanding G.M.’s Electric Lineup]]></description>
+        </item>
         <item>
             <title><![CDATA[企业离开俄罗斯的空前热潮带来的后果]]></title>
             <link>https://www.newyorker.com/business/currency/the-consequences-of-the-unprecedented-rush-of-companies-leaving-russia</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.davidhaney.io/net-core-mvc-access-appsettings-json/</guid>
             <pubDate>Mon, 09 Nov 2020 05:00:00 GMT</pubDate>
             <description><![CDATA[.NET Core MVC - How to Access appsettings.json]]></description>
-        </item>
-        <item>
-            <title><![CDATA[里维安以供应问题为由降低了2022年的交付目标]]></title>
-            <link>https://www.nytimes.com/2022/03/10/business/rivian-earnings.html</link>
-            <guid>https://www.nytimes.com/2022/03/10/business/rivian-earnings.html</guid>
-            <pubDate>Thu, 10 Mar 2022 23:46:23 GMT</pubDate>
-            <description><![CDATA[Rivian Pares Delivery Targets for 2022, Citing Supply Problems]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-21T17:08:22.282Z</updated>
+    <updated>2022-03-21T17:43:42.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[凯迪拉克Lyriq开始生产，扩大了G.M.的电动车阵容]]></title>
+        <id>https://www.nytimes.com/2022/03/21/business/gm-cadillac-electric-lyriq.html</id>
+        <link href="https://www.nytimes.com/2022/03/21/business/gm-cadillac-electric-lyriq.html"/>
+        <updated>2022-03-21T17:27:13.000Z</updated>
+        <summary type="html"><![CDATA[Cadillac Lyriq Starts Production, Expanding G.M.’s Electric Lineup]]></summary>
+        <author>
+            <name>Neal E. Boudette</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[企业离开俄罗斯的空前热潮带来的后果]]></title>
         <id>https://www.newyorker.com/business/currency/the-consequences-of-the-unprecedented-rush-of-companies-leaving-russia</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[里维安以供应问题为由降低了2022年的交付目标]]></title>
-        <id>https://www.nytimes.com/2022/03/10/business/rivian-earnings.html</id>
-        <link href="https://www.nytimes.com/2022/03/10/business/rivian-earnings.html"/>
-        <updated>2022-03-10T23:46:23.000Z</updated>
-        <summary type="html"><![CDATA[Rivian Pares Delivery Targets for 2022, Citing Supply Problems]]></summary>
-        <author>
-            <name>Peter Eavis</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>
