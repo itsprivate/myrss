@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 21 Mar 2022 21:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 21:31:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[乌克兰广播电台]]></title>
+            <link>https://www.newyorker.com/podcast/politics-and-more/radio-ukraine</link>
+            <guid>https://www.newyorker.com/podcast/politics-and-more/radio-ukraine</guid>
+            <pubDate>Mon, 21 Mar 2022 21:09:51 GMT</pubDate>
+            <description><![CDATA[Radio Ukraine]]></description>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊在南非的总部计划在法院下达命令后面临危险]]></title>
+            <link>https://www.nytimes.com/2022/03/21/world/africa/amazon-south-africa.html</link>
+            <guid>https://www.nytimes.com/2022/03/21/world/africa/amazon-south-africa.html</guid>
+            <pubDate>Mon, 21 Mar 2022 17:05:58 GMT</pubDate>
+            <description><![CDATA[Plan for Amazon Headquarters in South Africa in Peril After Court Order]]></description>
+        </item>
         <item>
             <title><![CDATA[许可证制度]]></title>
             <link>https://www.newyorker.com/culture/personal-history/andrey-kurkov-ukraine-russia-war-archeology-ukrainian-translation</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.davidhaney.io/custom-asp-net-mvc-action-result-cache-attribute/</guid>
             <pubDate>Tue, 10 Jan 2017 09:07:15 GMT</pubDate>
             <description><![CDATA[Custom ASP.NET MVC Action Result Cache Attribute]]></description>
-        </item>
-        <item>
-            <title><![CDATA[开发团队的互动。责任与指责]]></title>
-            <link>https://www.davidhaney.io/dev-team-interactions-accountability-blame/</link>
-            <guid>https://www.davidhaney.io/dev-team-interactions-accountability-blame/</guid>
-            <pubDate>Fri, 20 Jan 2017 13:20:59 GMT</pubDate>
-            <description><![CDATA[Dev Team Interactions: Accountability & Blame]]></description>
-        </item>
-        <item>
-            <title><![CDATA[开发团队的互动。进行良好的代码审查]]></title>
-            <link>https://www.davidhaney.io/dev-team-interactions-conducting-good-code-reviews/</link>
-            <guid>https://www.davidhaney.io/dev-team-interactions-conducting-good-code-reviews/</guid>
-            <pubDate>Fri, 27 Jan 2017 10:03:20 GMT</pubDate>
-            <description><![CDATA[Dev Team Interactions: Conducting Good Code Reviews]]></description>
         </item>
     </channel>
 </rss>

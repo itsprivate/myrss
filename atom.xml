@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-21T21:13:04.563Z</updated>
+    <updated>2022-03-21T21:31:59.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[乌克兰广播电台]]></title>
+        <id>https://www.newyorker.com/podcast/politics-and-more/radio-ukraine</id>
+        <link href="https://www.newyorker.com/podcast/politics-and-more/radio-ukraine"/>
+        <updated>2022-03-21T21:09:51.000Z</updated>
+        <summary type="html"><![CDATA[Radio Ukraine]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊在南非的总部计划在法院下达命令后面临危险]]></title>
+        <id>https://www.nytimes.com/2022/03/21/world/africa/amazon-south-africa.html</id>
+        <link href="https://www.nytimes.com/2022/03/21/world/africa/amazon-south-africa.html"/>
+        <updated>2022-03-21T17:05:58.000Z</updated>
+        <summary type="html"><![CDATA[Plan for Amazon Headquarters in South Africa in Peril After Court Order]]></summary>
+        <author>
+            <name>John Eligon</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[许可证制度]]></title>
         <id>https://www.newyorker.com/culture/personal-history/andrey-kurkov-ukraine-russia-war-archeology-ukrainian-translation</id>
@@ -6588,28 +6610,6 @@
         <link href="https://www.davidhaney.io/custom-asp-net-mvc-action-result-cache-attribute/"/>
         <updated>2017-01-10T09:07:15.000Z</updated>
         <summary type="html"><![CDATA[Custom ASP.NET MVC Action Result Cache Attribute]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开发团队的互动。责任与指责]]></title>
-        <id>https://www.davidhaney.io/dev-team-interactions-accountability-blame/</id>
-        <link href="https://www.davidhaney.io/dev-team-interactions-accountability-blame/"/>
-        <updated>2017-01-20T13:20:59.000Z</updated>
-        <summary type="html"><![CDATA[Dev Team Interactions: Accountability & Blame]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开发团队的互动。进行良好的代码审查]]></title>
-        <id>https://www.davidhaney.io/dev-team-interactions-conducting-good-code-reviews/</id>
-        <link href="https://www.davidhaney.io/dev-team-interactions-conducting-good-code-reviews/"/>
-        <updated>2017-01-27T10:03:20.000Z</updated>
-        <summary type="html"><![CDATA[Dev Team Interactions: Conducting Good Code Reviews]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>

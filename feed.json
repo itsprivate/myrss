@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/podcast/politics-and-more/radio-ukraine",
+            "content_html": "",
+            "url": "https://www.newyorker.com/podcast/politics-and-more/radio-ukraine",
+            "title": "乌克兰广播电台",
+            "summary": "Radio Ukraine",
+            "date_modified": "2022-03-21T21:09:51.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/03/21/world/africa/amazon-south-africa.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/21/world/africa/amazon-south-africa.html",
+            "title": "亚马逊在南非的总部计划在法院下达命令后面临危险",
+            "summary": "Plan for Amazon Headquarters in South Africa in Peril After Court Order",
+            "date_modified": "2022-03-21T17:05:58.000Z",
+            "author": {
+                "name": "John Eligon",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/culture/personal-history/andrey-kurkov-ukraine-russia-war-archeology-ukrainian-translation",
             "content_html": "",
             "url": "https://www.newyorker.com/culture/personal-history/andrey-kurkov-ukraine-russia-war-archeology-ukrainian-translation",
@@ -7181,30 +7205,6 @@
             "title": "自定义ASP.NET MVC动作结果缓存属性",
             "summary": "Custom ASP.NET MVC Action Result Cache Attribute",
             "date_modified": "2017-01-10T09:07:15.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/dev-team-interactions-accountability-blame/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/dev-team-interactions-accountability-blame/",
-            "title": "开发团队的互动。责任与指责",
-            "summary": "Dev Team Interactions: Accountability & Blame",
-            "date_modified": "2017-01-20T13:20:59.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/dev-team-interactions-conducting-good-code-reviews/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/dev-team-interactions-conducting-good-code-reviews/",
-            "title": "开发团队的互动。进行良好的代码审查",
-            "summary": "Dev Team Interactions: Conducting Good Code Reviews",
-            "date_modified": "2017-01-27T10:03:20.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"
