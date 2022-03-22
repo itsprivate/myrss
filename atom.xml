@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-22T12:18:31.511Z</updated>
+    <updated>2022-03-22T13:45:27.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[乌克兰的胜利是唯一可以接受的结局]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/how-democracy-can-win-ukraine/627125/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/how-democracy-can-win-ukraine/627125/?utm_source=feed"/>
+        <updated>2022-03-22T13:00:51.000Z</updated>
+        <summary type="html"><![CDATA[A Ukrainian Victory Is the Only Acceptable Endgame]]></summary>
+        <author>
+            <name>Anne Applebaum</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[随心所欲地阅读!]]></title>
         <id>https://austinkleon.substack.com/p/read-at-whim</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.davidhaney.io/make-mostly-read-seldom-written-lists-much-more-efficient/"/>
         <updated>2013-03-15T17:11:42.000Z</updated>
         <summary type="html"><![CDATA[Make Mostly Read, Seldom-Written Lists Much More Efficient]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于列表二进制搜索的另一件事]]></title>
-        <id>https://www.davidhaney.io/one-more-thing-about-list-binary-search/</id>
-        <link href="https://www.davidhaney.io/one-more-thing-about-list-binary-search/"/>
-        <updated>2013-03-30T15:36:24.000Z</updated>
-        <summary type="html"><![CDATA[One More Thing About List Binary Search]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>
