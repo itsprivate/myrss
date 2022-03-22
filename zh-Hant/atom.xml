@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-22T19:12:05.538Z</updated>
+    <updated>2022-03-22T19:27:58.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[好萊塢的元老級教訓]]></title>
+        <id>https://www.nytimes.com/2022/03/22/technology/metaverse-faces-steve-perlman.html</id>
+        <link href="https://www.nytimes.com/2022/03/22/technology/metaverse-faces-steve-perlman.html"/>
+        <updated>2022-03-22T16:19:24.000Z</updated>
+        <summary type="html"><![CDATA[Metaverse Lessons From Hollywood]]></summary>
+        <author>
+            <name>Shira Ovide</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Contra Hoel關於貴族輔導的問題]]></title>
         <id>https://astralcodexten.substack.com/p/contra-hoel-on-aristocratic-tutoring</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[“Z” Is the Symbol of the New Russian Politics of Aggression]]></summary>
         <author>
             <name>Masha Gessen</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[將焦點轉向美國的寡頭們]]></title>
-        <id>https://www.newyorker.com/news/daily-comment/turning-the-focus-on-americas-oligarchs</id>
-        <link href="https://www.newyorker.com/news/daily-comment/turning-the-focus-on-americas-oligarchs"/>
-        <updated>2022-03-07T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Turning the Focus on America’s Oligarchs]]></summary>
-        <author>
-            <name>Evan Osnos</name>
             <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>

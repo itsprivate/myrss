@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/22/technology/metaverse-faces-steve-perlman.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/22/technology/metaverse-faces-steve-perlman.html",
+            "title": "好萊塢的元老級教訓",
+            "summary": "Metaverse Lessons From Hollywood",
+            "date_modified": "2022-03-22T16:19:24.000Z",
+            "author": {
+                "name": "Shira Ovide",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://astralcodexten.substack.com/p/contra-hoel-on-aristocratic-tutoring",
             "content_html": "",
             "url": "https://astralcodexten.substack.com/p/contra-hoel-on-aristocratic-tutoring",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-07T21:28:08.000Z",
             "author": {
                 "name": "Masha Gessen",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/daily-comment/turning-the-focus-on-americas-oligarchs",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/daily-comment/turning-the-focus-on-americas-oligarchs",
-            "title": "將焦點轉向美國的寡頭們",
-            "summary": "Turning the Focus on America’s Oligarchs",
-            "date_modified": "2022-03-07T11:00:00.000Z",
-            "author": {
-                "name": "Evan Osnos",
                 "url": "https://www.newyorker.com/feed/news"
             }
         }
