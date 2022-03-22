@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-22T09:43:40.270Z</updated>
+    <updated>2022-03-22T10:14:42.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[落名：2022年3月22日，星期二]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/22</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/22"/>
+        <updated>2022-03-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Name Drop: Tuesday, March 22, 2022]]></summary>
+        <author>
+            <name>Matt Jackson</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[找到適合你的脫毛技術]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/find-a-hair-removal-technique-thats-right-for-you</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/find-a-hair-removal-technique-thats-right-for-you"/>
+        <updated>2022-03-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Find a Hair-Removal Technique That’s Right for You]]></summary>
+        <author>
+            <name>Kathryn Kvas</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們即將治癒鐮狀細胞病嗎？]]></title>
+        <id>https://www.newyorker.com/science/annals-of-medicine/are-we-about-to-cure-sickle-cell-disease</id>
+        <link href="https://www.newyorker.com/science/annals-of-medicine/are-we-about-to-cure-sickle-cell-disease"/>
+        <updated>2022-03-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Are We About to Cure Sickle-Cell Disease?]]></summary>
+        <author>
+            <name>Dhruv Khullar</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[紐約客》應用程序現已登陸安卓系統]]></title>
+        <id>https://www.newyorker.com/news/news-desk/the-new-yorker-app-is-now-available-on-android</id>
+        <link href="https://www.newyorker.com/news/news-desk/the-new-yorker-app-is-now-available-on-android"/>
+        <updated>2022-03-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The New Yorker App Is Now Available on Android]]></summary>
+        <author>
+            <name>The New Yorker</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[愛與魔法；或，馬戲團之旅]]></title>
+        <id>https://www.newyorker.com/culture/personal-history/love-and-magic-or-a-trip-to-the-circus</id>
+        <link href="https://www.newyorker.com/culture/personal-history/love-and-magic-or-a-trip-to-the-circus"/>
+        <updated>2022-03-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Love and Magic; or, A Trip to the Circus]]></summary>
+        <author>
+            <name>Isaac Bashevis Singer</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個值得為之奮鬥的國家]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/ukraine-anti-semitism-russia/627150/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/ukraine-anti-semitism-russia/627150/?utm_source=feed"/>
+        <updated>2022-03-22T10:00:57.000Z</updated>
+        <summary type="html"><![CDATA[A Nation Worth Fighting For]]></summary>
+        <author>
+            <name>David Frum</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[幫助A.I.瞭解土著文化]]></title>
         <id>https://www.nytimes.com/2022/03/22/technology/ai-data-indigenous-ivow.html</id>
@@ -6544,72 +6610,6 @@
         <link href="https://www.davidhaney.io/to-node-js-or-not-to-node-js/"/>
         <updated>2014-03-24T16:41:25.000Z</updated>
         <summary type="html"><![CDATA[To Node.js Or Not To Node.js]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何保證開發團隊的失敗]]></title>
-        <id>https://www.davidhaney.io/how-to-guarantee-dev-team-failure/</id>
-        <link href="https://www.davidhaney.io/how-to-guarantee-dev-team-failure/"/>
-        <updated>2014-05-07T13:27:35.000Z</updated>
-        <summary type="html"><![CDATA[How To Guarantee Dev Team Failure]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我是如何在Stack Exchange得到一份工作的]]></title>
-        <id>https://www.davidhaney.io/how-i-got-a-job-at-stack-exchange/</id>
-        <link href="https://www.davidhaney.io/how-i-got-a-job-at-stack-exchange/"/>
-        <updated>2014-06-20T16:59:10.000Z</updated>
-        <summary type="html"><![CDATA[How I Got A Job At Stack Exchange]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 6。風格大於實質]]></title>
-        <id>https://www.davidhaney.io/iphone-6-style-over-substance/</id>
-        <link href="https://www.davidhaney.io/iphone-6-style-over-substance/"/>
-        <updated>2014-09-09T19:22:53.000Z</updated>
-        <summary type="html"><![CDATA[iPhone 6: Style Over Substance]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[工作頭銜的問題]]></title>
-        <id>https://www.davidhaney.io/the-trouble-with-job-titles/</id>
-        <link href="https://www.davidhaney.io/the-trouble-with-job-titles/"/>
-        <updated>2014-10-17T18:41:14.000Z</updated>
-        <summary type="html"><![CDATA[The Trouble With Job Titles]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[論軟件開發中的資歷主義]]></title>
-        <id>https://www.davidhaney.io/on-credentialism-in-software-development/</id>
-        <link href="https://www.davidhaney.io/on-credentialism-in-software-development/"/>
-        <updated>2014-12-29T16:00:27.000Z</updated>
-        <summary type="html"><![CDATA[On Credentialism In Software Development]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[招聘的競爭優勢]]></title>
-        <id>https://www.davidhaney.io/the-recruiting-competitive-advantage/</id>
-        <link href="https://www.davidhaney.io/the-recruiting-competitive-advantage/"/>
-        <updated>2015-01-23T12:04:37.000Z</updated>
-        <summary type="html"><![CDATA[The Recruiting Competitive Advantage]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>

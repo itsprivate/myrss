@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 22 Mar 2022 09:43:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 10:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,48 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[落名：2022年3月22日，星期二]]></title>
+            <link>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/22</link>
+            <guid>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/22</guid>
+            <pubDate>Tue, 22 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Name Drop: Tuesday, March 22, 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[找到適合你的脫毛技術]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/find-a-hair-removal-technique-thats-right-for-you</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/find-a-hair-removal-technique-thats-right-for-you</guid>
+            <pubDate>Tue, 22 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Find a Hair-Removal Technique That’s Right for You]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我們即將治癒鐮狀細胞病嗎？]]></title>
+            <link>https://www.newyorker.com/science/annals-of-medicine/are-we-about-to-cure-sickle-cell-disease</link>
+            <guid>https://www.newyorker.com/science/annals-of-medicine/are-we-about-to-cure-sickle-cell-disease</guid>
+            <pubDate>Tue, 22 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Are We About to Cure Sickle-Cell Disease?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[紐約客》應用程序現已登陸安卓系統]]></title>
+            <link>https://www.newyorker.com/news/news-desk/the-new-yorker-app-is-now-available-on-android</link>
+            <guid>https://www.newyorker.com/news/news-desk/the-new-yorker-app-is-now-available-on-android</guid>
+            <pubDate>Tue, 22 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The New Yorker App Is Now Available on Android]]></description>
+        </item>
+        <item>
+            <title><![CDATA[愛與魔法；或，馬戲團之旅]]></title>
+            <link>https://www.newyorker.com/culture/personal-history/love-and-magic-or-a-trip-to-the-circus</link>
+            <guid>https://www.newyorker.com/culture/personal-history/love-and-magic-or-a-trip-to-the-circus</guid>
+            <pubDate>Tue, 22 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Love and Magic; or, A Trip to the Circus]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一個值得為之奮鬥的國家]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/03/ukraine-anti-semitism-russia/627150/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/03/ukraine-anti-semitism-russia/627150/?utm_source=feed</guid>
+            <pubDate>Tue, 22 Mar 2022 10:00:57 GMT</pubDate>
+            <description><![CDATA[A Nation Worth Fighting For]]></description>
+        </item>
         <item>
             <title><![CDATA[幫助A.I.瞭解土著文化]]></title>
             <link>https://www.nytimes.com/2022/03/22/technology/ai-data-indigenous-ivow.html</link>
@@ -4171,48 +4213,6 @@
             <guid>https://www.davidhaney.io/to-node-js-or-not-to-node-js/</guid>
             <pubDate>Mon, 24 Mar 2014 16:41:25 GMT</pubDate>
             <description><![CDATA[To Node.js Or Not To Node.js]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何保證開發團隊的失敗]]></title>
-            <link>https://www.davidhaney.io/how-to-guarantee-dev-team-failure/</link>
-            <guid>https://www.davidhaney.io/how-to-guarantee-dev-team-failure/</guid>
-            <pubDate>Wed, 07 May 2014 13:27:35 GMT</pubDate>
-            <description><![CDATA[How To Guarantee Dev Team Failure]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我是如何在Stack Exchange得到一份工作的]]></title>
-            <link>https://www.davidhaney.io/how-i-got-a-job-at-stack-exchange/</link>
-            <guid>https://www.davidhaney.io/how-i-got-a-job-at-stack-exchange/</guid>
-            <pubDate>Fri, 20 Jun 2014 16:59:10 GMT</pubDate>
-            <description><![CDATA[How I Got A Job At Stack Exchange]]></description>
-        </item>
-        <item>
-            <title><![CDATA[iPhone 6。風格大於實質]]></title>
-            <link>https://www.davidhaney.io/iphone-6-style-over-substance/</link>
-            <guid>https://www.davidhaney.io/iphone-6-style-over-substance/</guid>
-            <pubDate>Tue, 09 Sep 2014 19:22:53 GMT</pubDate>
-            <description><![CDATA[iPhone 6: Style Over Substance]]></description>
-        </item>
-        <item>
-            <title><![CDATA[工作頭銜的問題]]></title>
-            <link>https://www.davidhaney.io/the-trouble-with-job-titles/</link>
-            <guid>https://www.davidhaney.io/the-trouble-with-job-titles/</guid>
-            <pubDate>Fri, 17 Oct 2014 18:41:14 GMT</pubDate>
-            <description><![CDATA[The Trouble With Job Titles]]></description>
-        </item>
-        <item>
-            <title><![CDATA[論軟件開發中的資歷主義]]></title>
-            <link>https://www.davidhaney.io/on-credentialism-in-software-development/</link>
-            <guid>https://www.davidhaney.io/on-credentialism-in-software-development/</guid>
-            <pubDate>Mon, 29 Dec 2014 16:00:27 GMT</pubDate>
-            <description><![CDATA[On Credentialism In Software Development]]></description>
-        </item>
-        <item>
-            <title><![CDATA[招聘的競爭優勢]]></title>
-            <link>https://www.davidhaney.io/the-recruiting-competitive-advantage/</link>
-            <guid>https://www.davidhaney.io/the-recruiting-competitive-advantage/</guid>
-            <pubDate>Fri, 23 Jan 2015 12:04:37 GMT</pubDate>
-            <description><![CDATA[The Recruiting Competitive Advantage]]></description>
         </item>
     </channel>
 </rss>
