@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://austinkleon.substack.com/p/read-at-whim",
+            "content_html": "",
+            "url": "https://austinkleon.substack.com/p/read-at-whim",
+            "title": "隨心所欲地閱讀!",
+            "summary": "Read at Whim!",
+            "date_modified": "2022-03-22T12:00:35.000Z",
+            "author": {
+                "name": "Austin Kleon",
+                "url": "https://austinkleon.substack.com/feed"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/ideas/archive/2022/03/climate-change-deforestation-carbon/627114/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/ideas/archive/2022/03/climate-change-deforestation-carbon/627114/?utm_source=feed",
@@ -7193,18 +7205,6 @@
             "title": "關於列表二進制搜索的另一件事",
             "summary": "One More Thing About List Binary Search",
             "date_modified": "2013-03-30T15:36:24.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/generic-comparer/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/generic-comparer/",
-            "title": "仿製藥比較器",
-            "summary": "Generic Comparer",
-            "date_modified": "2013-04-22T14:53:17.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"
