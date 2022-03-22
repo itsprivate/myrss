@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://astralcodexten.substack.com/p/contra-hoel-on-aristocratic-tutoring",
+            "content_html": "",
+            "url": "https://astralcodexten.substack.com/p/contra-hoel-on-aristocratic-tutoring",
+            "title": "Contra Hoel关于贵族辅导的问题",
+            "summary": "Contra Hoel On Aristocratic Tutoring",
+            "date_modified": "2022-03-22T18:53:57.000Z",
+            "author": {
+                "name": "Scott Alexander",
+                "url": "https://astralcodexten.substack.com/feed"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/science/archive/2022/03/nasa-exoplanets-habitable-zone/627155/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/science/archive/2022/03/nasa-exoplanets-habitable-zone/627155/?utm_source=feed",
+            "title": "我们已经发现了5000颗系外行星，但不是我们要找的那颗",
+            "summary": "We’ve Found 5,000 Exoplanets, But Not the One We’re Looking For",
+            "date_modified": "2022-03-22T18:49:30.000Z",
+            "author": {
+                "name": "Marina Koren",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/culture/archive/2022/03/abbott-elementary-minx-girlboss-tv-comedy/627156/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/culture/archive/2022/03/abbott-elementary-minx-girlboss-tv-comedy/627156/?utm_source=feed",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "Evan Osnos",
                 "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/business/currency/how-significant-is-russias-partial-ban-from-swift",
-            "content_html": "",
-            "url": "https://www.newyorker.com/business/currency/how-significant-is-russias-partial-ban-from-swift",
-            "title": "俄罗斯对SWIFT的部分禁令有多大意义？",
-            "summary": "How Significant Is Russia’s Partial Ban from SWIFT?",
-            "date_modified": "2022-03-08T16:24:00.000Z",
-            "author": {
-                "name": "Sheelah Kolhatkar",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/linq-and-deferred-execution/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/linq-and-deferred-execution/",
-            "title": "LINQ和延迟执行",
-            "summary": "LINQ and Deferred Execution",
-            "date_modified": "2012-06-11T00:57:15.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
             }
         }
     ]

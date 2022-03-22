@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-22T18:40:21.006Z</updated>
+    <updated>2022-03-22T19:12:05.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Contra Hoel關於貴族輔導的問題]]></title>
+        <id>https://astralcodexten.substack.com/p/contra-hoel-on-aristocratic-tutoring</id>
+        <link href="https://astralcodexten.substack.com/p/contra-hoel-on-aristocratic-tutoring"/>
+        <updated>2022-03-22T18:53:57.000Z</updated>
+        <summary type="html"><![CDATA[Contra Hoel On Aristocratic Tutoring]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們已經發現了5000顆系外行星，但不是我們要找的那顆]]></title>
+        <id>https://www.theatlantic.com/science/archive/2022/03/nasa-exoplanets-habitable-zone/627155/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/science/archive/2022/03/nasa-exoplanets-habitable-zone/627155/?utm_source=feed"/>
+        <updated>2022-03-22T18:49:30.000Z</updated>
+        <summary type="html"><![CDATA[We’ve Found 5,000 Exoplanets, But Not the One We’re Looking For]]></summary>
+        <author>
+            <name>Marina Koren</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[職場喜劇重新考慮女老闆的問題]]></title>
         <id>https://www.theatlantic.com/culture/archive/2022/03/abbott-elementary-minx-girlboss-tv-comedy/627156/?utm_source=feed</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Evan Osnos</name>
             <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯對SWIFT的部分禁令有多大意義？]]></title>
-        <id>https://www.newyorker.com/business/currency/how-significant-is-russias-partial-ban-from-swift</id>
-        <link href="https://www.newyorker.com/business/currency/how-significant-is-russias-partial-ban-from-swift"/>
-        <updated>2022-03-08T16:24:00.000Z</updated>
-        <summary type="html"><![CDATA[How Significant Is Russia’s Partial Ban from SWIFT?]]></summary>
-        <author>
-            <name>Sheelah Kolhatkar</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LINQ和延遲執行]]></title>
-        <id>https://www.davidhaney.io/linq-and-deferred-execution/</id>
-        <link href="https://www.davidhaney.io/linq-and-deferred-execution/"/>
-        <updated>2012-06-11T00:57:15.000Z</updated>
-        <summary type="html"><![CDATA[LINQ and Deferred Execution]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
         </author>
     </entry>
 </feed>
