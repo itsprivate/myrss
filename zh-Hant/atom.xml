@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-22T15:38:34.553Z</updated>
+    <updated>2022-03-22T16:30:35.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每日漫畫。3月22日，星期二]]></title>
+        <id>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-22nd-yes-we-have-no-hot-dogs</id>
+        <link href="https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-22nd-yes-we-have-no-hot-dogs"/>
+        <updated>2022-03-22T15:56:58.000Z</updated>
+        <summary type="html"><![CDATA[Daily Cartoon: Tuesday, March 22nd]]></summary>
+        <author>
+            <name>Lars Kenseth</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[普京收縮的內部圈子裡的大清洗]]></title>
         <id>https://www.newyorker.com/news/q-and-a/the-purges-in-putins-shrinking-inner-circle</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.davidhaney.io/visual-studio-2012-intellisense-not-working-solved/"/>
         <updated>2012-11-20T21:12:41.000Z</updated>
         <summary type="html"><![CDATA[Visual Studio 2012 Intellisense Not Working - SOLVED]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[但它並沒有發生在開發或QA中!]]></title>
-        <id>https://www.davidhaney.io/but-it-didnt-happen-in-dev-or-qa/</id>
-        <link href="https://www.davidhaney.io/but-it-didnt-happen-in-dev-or-qa/"/>
-        <updated>2012-12-02T17:22:20.000Z</updated>
-        <summary type="html"><![CDATA[But it Didn't Happen in DEV or QA!]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>
