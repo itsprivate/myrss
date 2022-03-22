@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/22/technology/theranos-trial-balwani.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/22/technology/theranos-trial-balwani.html",
+            "title": "對伊麗莎白-霍姆斯的前合夥人拉梅什-巴爾瓦尼的審判開始了",
+            "summary": "Theranos Trial Starts for Ramesh Balwani, Elizabeth Holmes’s Ex-Partner",
+            "date_modified": "2022-03-22T21:46:05.000Z",
+            "author": {
+                "name": "Erin Woo and Erin Griffith",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "http://cacm.acm.org/magazines/2022/4/259418-market-segmentation-in-the-emoji-era",
             "content_html": "",
             "url": "http://cacm.acm.org/magazines/2022/4/259418-market-segmentation-in-the-emoji-era",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-10T19:02:02.000Z",
             "author": {
                 "name": "Alma Guillermoprieto",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/daily-comment/the-growing-fear-of-a-wider-war-between-russia-and-the-west",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/daily-comment/the-growing-fear-of-a-wider-war-between-russia-and-the-west",
-            "title": "對俄羅斯和西方之間更廣泛戰爭的擔憂日益增加",
-            "summary": "The Growing Fear of a Wider War Between Russia and the West",
-            "date_modified": "2022-03-10T19:38:32.000Z",
-            "author": {
-                "name": "Robin Wright",
                 "url": "https://www.newyorker.com/feed/news"
             }
         }

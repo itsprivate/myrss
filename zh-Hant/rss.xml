@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 22 Mar 2022 21:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 21:52:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[對伊麗莎白-霍姆斯的前合夥人拉梅什-巴爾瓦尼的審判開始了]]></title>
+            <link>https://www.nytimes.com/2022/03/22/technology/theranos-trial-balwani.html</link>
+            <guid>https://www.nytimes.com/2022/03/22/technology/theranos-trial-balwani.html</guid>
+            <pubDate>Tue, 22 Mar 2022 21:46:05 GMT</pubDate>
+            <description><![CDATA[Theranos Trial Starts for Ramesh Balwani, Elizabeth Holmes’s Ex-Partner]]></description>
+        </item>
         <item>
             <title><![CDATA[表情符號時代的市場細分]]></title>
             <link>http://cacm.acm.org/magazines/2022/4/259418-market-segmentation-in-the-emoji-era</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/news/news-desk/the-revolution-eats-itself-in-nicaragua</guid>
             <pubDate>Thu, 10 Mar 2022 19:02:02 GMT</pubDate>
             <description><![CDATA[The Revolution Eats Itself in Nicaragua]]></description>
-        </item>
-        <item>
-            <title><![CDATA[對俄羅斯和西方之間更廣泛戰爭的擔憂日益增加]]></title>
-            <link>https://www.newyorker.com/news/daily-comment/the-growing-fear-of-a-wider-war-between-russia-and-the-west</link>
-            <guid>https://www.newyorker.com/news/daily-comment/the-growing-fear-of-a-wider-war-between-russia-and-the-west</guid>
-            <pubDate>Thu, 10 Mar 2022 19:38:32 GMT</pubDate>
-            <description><![CDATA[The Growing Fear of a Wider War Between Russia and the West]]></description>
         </item>
     </channel>
 </rss>
