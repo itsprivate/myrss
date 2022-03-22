@@ -19,6 +19,18 @@
             "date_modified": "2022-03-22T15:05:54.000Z",
             "author": {
                 "name": "Isaac Chotiner",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/q-and-a/the-purges-in-putins-shrinking-inner-circle",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/q-and-a/the-purges-in-putins-shrinking-inner-circle",
+            "title": "普京收缩的内部圈子里的大清洗",
+            "summary": "The Purges in Putin’s Shrinking Inner Circle",
+            "date_modified": "2022-03-22T15:05:54.000Z",
+            "author": {
+                "name": "Isaac Chotiner",
                 "url": "https://www.newyorker.com/feed/news"
             }
         },
@@ -7193,18 +7205,6 @@
             "title": "但它并没有发生在开发或QA中!",
             "summary": "But it Didn't Happen in DEV or QA!",
             "date_modified": "2012-12-02T17:22:20.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/published-by-red-gate/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/published-by-red-gate/",
-            "title": "由红门出版",
-            "summary": "Published by Red Gate",
-            "date_modified": "2013-01-18T15:10:04.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"

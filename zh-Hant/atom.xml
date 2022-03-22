@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-22T15:14:44.379Z</updated>
+    <updated>2022-03-22T15:38:34.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[普京收縮的內部圈子裡的大清洗]]></title>
+        <id>https://www.newyorker.com/news/q-and-a/the-purges-in-putins-shrinking-inner-circle</id>
+        <link href="https://www.newyorker.com/news/q-and-a/the-purges-in-putins-shrinking-inner-circle"/>
+        <updated>2022-03-22T15:05:54.000Z</updated>
+        <summary type="html"><![CDATA[The Purges in Putin’s Shrinking Inner Circle]]></summary>
+        <author>
+            <name>Isaac Chotiner</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[普京收縮的內部圈子裡的大清洗]]></title>
         <id>https://www.newyorker.com/news/q-and-a/the-purges-in-putins-shrinking-inner-circle</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.davidhaney.io/but-it-didnt-happen-in-dev-or-qa/"/>
         <updated>2012-12-02T17:22:20.000Z</updated>
         <summary type="html"><![CDATA[But it Didn't Happen in DEV or QA!]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由紅門出版]]></title>
-        <id>https://www.davidhaney.io/published-by-red-gate/</id>
-        <link href="https://www.davidhaney.io/published-by-red-gate/"/>
-        <updated>2013-01-18T15:10:04.000Z</updated>
-        <summary type="html"><![CDATA[Published by Red Gate]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>
