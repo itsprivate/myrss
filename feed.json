@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/22/science/geometry-math-brain-primates.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/22/science/geometry-math-brain-primates.html",
+            "title": "几何学是一种只有人类知道的语言吗？",
+            "summary": "Is Geometry a Language That Only Humans Know?",
+            "date_modified": "2022-03-22T07:00:15.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/03/22/technology/bitcoin-miners-environment-crypto.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/22/technology/bitcoin-miners-environment-crypto.html",
+            "title": "比特币矿工希望将自己重新塑造成生态友好型矿工",
+            "summary": "Bitcoin Miners Want to Recast Themselves as Eco-Friendly",
+            "date_modified": "2022-03-22T07:00:15.000Z",
+            "author": {
+                "name": "David Yaffe-Bellany",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://noahpinion.substack.com/p/when-will-the-fed-drop-the-hammer",
             "content_html": "",
             "url": "https://noahpinion.substack.com/p/when-will-the-fed-drop-the-hammer",
@@ -7181,30 +7205,6 @@
             "title": "开发人员不应测量两次，切割一次",
             "summary": "Developers Shouldn't Measure Twice, Cut Once",
             "date_modified": "2015-04-15T16:25:02.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/developer-turned-manager/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/developer-turned-manager/",
-            "title": "开发人员转为经理",
-            "summary": "Developer Turned Manager",
-            "date_modified": "2015-08-03T14:18:02.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/diversity-is-really-freaking-hard/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/diversity-is-really-freaking-hard/",
-            "title": "多样性真的很难得",
-            "summary": "Diversity Is Really Freaking Hard",
-            "date_modified": "2015-09-24T11:23:38.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"

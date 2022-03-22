@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-22T06:38:12.105Z</updated>
+    <updated>2022-03-22T07:12:22.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[幾何學是一種只有人類知道的語言嗎？]]></title>
+        <id>https://www.nytimes.com/2022/03/22/science/geometry-math-brain-primates.html</id>
+        <link href="https://www.nytimes.com/2022/03/22/science/geometry-math-brain-primates.html"/>
+        <updated>2022-03-22T07:00:15.000Z</updated>
+        <summary type="html"><![CDATA[Is Geometry a Language That Only Humans Know?]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特幣礦工希望將自己重新塑造成生態友好型礦工]]></title>
+        <id>https://www.nytimes.com/2022/03/22/technology/bitcoin-miners-environment-crypto.html</id>
+        <link href="https://www.nytimes.com/2022/03/22/technology/bitcoin-miners-environment-crypto.html"/>
+        <updated>2022-03-22T07:00:15.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin Miners Want to Recast Themselves as Eco-Friendly]]></summary>
+        <author>
+            <name>David Yaffe-Bellany</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美聯儲何時會落錘？]]></title>
         <id>https://noahpinion.substack.com/p/when-will-the-fed-drop-the-hammer</id>
@@ -6588,28 +6610,6 @@
         <link href="https://www.davidhaney.io/developers-shouldnt-measure-twice-cut-once/"/>
         <updated>2015-04-15T16:25:02.000Z</updated>
         <summary type="html"><![CDATA[Developers Shouldn't Measure Twice, Cut Once]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開發人員轉為經理]]></title>
-        <id>https://www.davidhaney.io/developer-turned-manager/</id>
-        <link href="https://www.davidhaney.io/developer-turned-manager/"/>
-        <updated>2015-08-03T14:18:02.000Z</updated>
-        <summary type="html"><![CDATA[Developer Turned Manager]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多樣性真的很難得]]></title>
-        <id>https://www.davidhaney.io/diversity-is-really-freaking-hard/</id>
-        <link href="https://www.davidhaney.io/diversity-is-really-freaking-hard/"/>
-        <updated>2015-09-24T11:23:38.000Z</updated>
-        <summary type="html"><![CDATA[Diversity Is Really Freaking Hard]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>
