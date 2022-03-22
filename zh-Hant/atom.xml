@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-22T16:30:35.335Z</updated>
+    <updated>2022-03-22T17:23:47.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[好萊塢的元老級教訓]]></title>
+        <id>https://www.nytimes.com/2022/03/22/technology/metaverse-lessons-from-hollywood.html</id>
+        <link href="https://www.nytimes.com/2022/03/22/technology/metaverse-lessons-from-hollywood.html"/>
+        <updated>2022-03-22T16:19:24.000Z</updated>
+        <summary type="html"><![CDATA[Metaverse Lessons From Hollywood]]></summary>
+        <author>
+            <name>Shira Ovide</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日漫畫。3月22日，星期二]]></title>
         <id>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-22nd-yes-we-have-no-hot-dogs</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.davidhaney.io/static-vs-instance-string-equals-benchmark/"/>
         <updated>2012-10-24T16:57:14.000Z</updated>
         <summary type="html"><![CDATA[Static vs Instance string.Equals Benchmark]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visual Studio 2012 Intellisense不工作 - 已解決]]></title>
-        <id>https://www.davidhaney.io/visual-studio-2012-intellisense-not-working-solved/</id>
-        <link href="https://www.davidhaney.io/visual-studio-2012-intellisense-not-working-solved/"/>
-        <updated>2012-11-20T21:12:41.000Z</updated>
-        <summary type="html"><![CDATA[Visual Studio 2012 Intellisense Not Working - SOLVED]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>

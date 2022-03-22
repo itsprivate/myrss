@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/22/technology/metaverse-lessons-from-hollywood.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/22/technology/metaverse-lessons-from-hollywood.html",
+            "title": "好莱坞的元老级教训",
+            "summary": "Metaverse Lessons From Hollywood",
+            "date_modified": "2022-03-22T16:19:24.000Z",
+            "author": {
+                "name": "Shira Ovide",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-22nd-yes-we-have-no-hot-dogs",
             "content_html": "",
             "url": "https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-22nd-yes-we-have-no-hot-dogs",
@@ -7193,18 +7205,6 @@
             "title": "静态 vs 实例 string.Equals Benchmark",
             "summary": "Static vs Instance string.Equals Benchmark",
             "date_modified": "2012-10-24T16:57:14.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/visual-studio-2012-intellisense-not-working-solved/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/visual-studio-2012-intellisense-not-working-solved/",
-            "title": "Visual Studio 2012 Intellisense不工作 - 已解决",
-            "summary": "Visual Studio 2012 Intellisense Not Working - SOLVED",
-            "date_modified": "2012-11-20T21:12:41.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"
