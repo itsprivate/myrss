@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 22 Mar 2022 07:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 09:43:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[帮助A.I.了解土著文化]]></title>
+            <link>https://www.nytimes.com/2022/03/22/technology/ai-data-indigenous-ivow.html</link>
+            <guid>https://www.nytimes.com/2022/03/22/technology/ai-data-indigenous-ivow.html</guid>
+            <pubDate>Tue, 22 Mar 2022 09:00:10 GMT</pubDate>
+            <description><![CDATA[Helping A.I. to Learn About Indigenous Cultures]]></description>
+        </item>
+        <item>
+            <title><![CDATA[固定电话在怀旧的粉丝中找到了新的生命力]]></title>
+            <link>https://www.nytimes.com/2022/03/22/style/landline-phone-fans.html</link>
+            <guid>https://www.nytimes.com/2022/03/22/style/landline-phone-fans.html</guid>
+            <pubDate>Tue, 22 Mar 2022 09:00:25 GMT</pubDate>
+            <description><![CDATA[Landline Phones Find New Life With Nostalgic Fans]]></description>
+        </item>
         <item>
             <title><![CDATA[几何学是一种只有人类知道的语言吗？]]></title>
             <link>https://www.nytimes.com/2022/03/22/science/geometry-math-brain-primates.html</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.davidhaney.io/the-recruiting-competitive-advantage/</guid>
             <pubDate>Fri, 23 Jan 2015 12:04:37 GMT</pubDate>
             <description><![CDATA[The Recruiting Competitive Advantage]]></description>
-        </item>
-        <item>
-            <title><![CDATA[关于秘密的可怕的工程师--反驳]]></title>
-            <link>https://www.davidhaney.io/on-secretly-terrible-engineers-a-rebuttal/</link>
-            <guid>https://www.davidhaney.io/on-secretly-terrible-engineers-a-rebuttal/</guid>
-            <pubDate>Mon, 09 Mar 2015 18:32:37 GMT</pubDate>
-            <description><![CDATA[On Secretly Terrible Engineers - A Rebuttal]]></description>
-        </item>
-        <item>
-            <title><![CDATA[开发人员不应测量两次，切割一次]]></title>
-            <link>https://www.davidhaney.io/developers-shouldnt-measure-twice-cut-once/</link>
-            <guid>https://www.davidhaney.io/developers-shouldnt-measure-twice-cut-once/</guid>
-            <pubDate>Wed, 15 Apr 2015 16:25:02 GMT</pubDate>
-            <description><![CDATA[Developers Shouldn't Measure Twice, Cut Once]]></description>
         </item>
     </channel>
 </rss>

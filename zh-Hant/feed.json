@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/22/technology/ai-data-indigenous-ivow.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/22/technology/ai-data-indigenous-ivow.html",
+            "title": "幫助A.I.瞭解土著文化",
+            "summary": "Helping A.I. to Learn About Indigenous Cultures",
+            "date_modified": "2022-03-22T09:00:10.000Z",
+            "author": {
+                "name": "Alex V. Cipolle",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/03/22/style/landline-phone-fans.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/22/style/landline-phone-fans.html",
+            "title": "固定電話在懷舊的粉絲中找到了新的生命力",
+            "summary": "Landline Phones Find New Life With Nostalgic Fans",
+            "date_modified": "2022-03-22T09:00:25.000Z",
+            "author": {
+                "name": "Hilary Reid",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/22/science/geometry-math-brain-primates.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/22/science/geometry-math-brain-primates.html",
@@ -7181,30 +7205,6 @@
             "title": "招聘的競爭優勢",
             "summary": "The Recruiting Competitive Advantage",
             "date_modified": "2015-01-23T12:04:37.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/on-secretly-terrible-engineers-a-rebuttal/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/on-secretly-terrible-engineers-a-rebuttal/",
-            "title": "關於秘密的可怕的工程師--反駁",
-            "summary": "On Secretly Terrible Engineers - A Rebuttal",
-            "date_modified": "2015-03-09T18:32:37.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/developers-shouldnt-measure-twice-cut-once/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/developers-shouldnt-measure-twice-cut-once/",
-            "title": "開發人員不應測量兩次，切割一次",
-            "summary": "Developers Shouldn't Measure Twice, Cut Once",
-            "date_modified": "2015-04-15T16:25:02.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"

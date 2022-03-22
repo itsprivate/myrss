@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-22T07:12:22.712Z</updated>
+    <updated>2022-03-22T09:43:40.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[幫助A.I.瞭解土著文化]]></title>
+        <id>https://www.nytimes.com/2022/03/22/technology/ai-data-indigenous-ivow.html</id>
+        <link href="https://www.nytimes.com/2022/03/22/technology/ai-data-indigenous-ivow.html"/>
+        <updated>2022-03-22T09:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Helping A.I. to Learn About Indigenous Cultures]]></summary>
+        <author>
+            <name>Alex V. Cipolle</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[固定電話在懷舊的粉絲中找到了新的生命力]]></title>
+        <id>https://www.nytimes.com/2022/03/22/style/landline-phone-fans.html</id>
+        <link href="https://www.nytimes.com/2022/03/22/style/landline-phone-fans.html"/>
+        <updated>2022-03-22T09:00:25.000Z</updated>
+        <summary type="html"><![CDATA[Landline Phones Find New Life With Nostalgic Fans]]></summary>
+        <author>
+            <name>Hilary Reid</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[幾何學是一種只有人類知道的語言嗎？]]></title>
         <id>https://www.nytimes.com/2022/03/22/science/geometry-math-brain-primates.html</id>
@@ -6588,28 +6610,6 @@
         <link href="https://www.davidhaney.io/the-recruiting-competitive-advantage/"/>
         <updated>2015-01-23T12:04:37.000Z</updated>
         <summary type="html"><![CDATA[The Recruiting Competitive Advantage]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於秘密的可怕的工程師--反駁]]></title>
-        <id>https://www.davidhaney.io/on-secretly-terrible-engineers-a-rebuttal/</id>
-        <link href="https://www.davidhaney.io/on-secretly-terrible-engineers-a-rebuttal/"/>
-        <updated>2015-03-09T18:32:37.000Z</updated>
-        <summary type="html"><![CDATA[On Secretly Terrible Engineers - A Rebuttal]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開發人員不應測量兩次，切割一次]]></title>
-        <id>https://www.davidhaney.io/developers-shouldnt-measure-twice-cut-once/</id>
-        <link href="https://www.davidhaney.io/developers-shouldnt-measure-twice-cut-once/"/>
-        <updated>2015-04-15T16:25:02.000Z</updated>
-        <summary type="html"><![CDATA[Developers Shouldn't Measure Twice, Cut Once]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>
