@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/books/archive/2022/03/unexpected-romance-novels-greer-chakrabarti/627153/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/books/archive/2022/03/unexpected-romance-novels-greer-chakrabarti/627153/?utm_source=feed",
+            "title": "一個意外的愛情故事的快樂",
+            "summary": "The Delight of an Unexpected Love Story",
+            "date_modified": "2022-03-22T19:57:06.000Z",
+            "author": {
+                "name": "Carole V. Bell",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/22/technology/metaverse-faces-steve-perlman.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/22/technology/metaverse-faces-steve-perlman.html",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-10T22:42:06.000Z",
             "author": {
                 "name": "Kyle Chayka",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/our-columnists/z-is-the-symbol-of-the-new-russian-politics-of-aggression",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/our-columnists/z-is-the-symbol-of-the-new-russian-politics-of-aggression",
-            "title": "\"Z \"是俄羅斯新侵略政治的象徵",
-            "summary": "“Z” Is the Symbol of the New Russian Politics of Aggression",
-            "date_modified": "2022-03-07T21:28:08.000Z",
-            "author": {
-                "name": "Masha Gessen",
                 "url": "https://www.newyorker.com/feed/news"
             }
         }

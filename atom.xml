@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-22T19:27:58.598Z</updated>
+    <updated>2022-03-22T20:14:19.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个意外的爱情故事的快乐]]></title>
+        <id>https://www.theatlantic.com/books/archive/2022/03/unexpected-romance-novels-greer-chakrabarti/627153/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/books/archive/2022/03/unexpected-romance-novels-greer-chakrabarti/627153/?utm_source=feed"/>
+        <updated>2022-03-22T19:57:06.000Z</updated>
+        <summary type="html"><![CDATA[The Delight of an Unexpected Love Story]]></summary>
+        <author>
+            <name>Carole V. Bell</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[好莱坞的元老级教训]]></title>
         <id>https://www.nytimes.com/2022/03/22/technology/metaverse-faces-steve-perlman.html</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[What Google Search Isn’t Showing You]]></summary>
         <author>
             <name>Kyle Chayka</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Z "是俄罗斯新侵略政治的象征]]></title>
-        <id>https://www.newyorker.com/news/our-columnists/z-is-the-symbol-of-the-new-russian-politics-of-aggression</id>
-        <link href="https://www.newyorker.com/news/our-columnists/z-is-the-symbol-of-the-new-russian-politics-of-aggression"/>
-        <updated>2022-03-07T21:28:08.000Z</updated>
-        <summary type="html"><![CDATA[“Z” Is the Symbol of the New Russian Politics of Aggression]]></summary>
-        <author>
-            <name>Masha Gessen</name>
             <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>

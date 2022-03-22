@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 22 Mar 2022 19:27:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 20:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个意外的爱情故事的快乐]]></title>
+            <link>https://www.theatlantic.com/books/archive/2022/03/unexpected-romance-novels-greer-chakrabarti/627153/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/books/archive/2022/03/unexpected-romance-novels-greer-chakrabarti/627153/?utm_source=feed</guid>
+            <pubDate>Tue, 22 Mar 2022 19:57:06 GMT</pubDate>
+            <description><![CDATA[The Delight of an Unexpected Love Story]]></description>
+        </item>
         <item>
             <title><![CDATA[好莱坞的元老级教训]]></title>
             <link>https://www.nytimes.com/2022/03/22/technology/metaverse-faces-steve-perlman.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/culture/infinite-scroll/what-google-search-isnt-showing-you</guid>
             <pubDate>Thu, 10 Mar 2022 22:42:06 GMT</pubDate>
             <description><![CDATA[What Google Search Isn’t Showing You]]></description>
-        </item>
-        <item>
-            <title><![CDATA["Z "是俄罗斯新侵略政治的象征]]></title>
-            <link>https://www.newyorker.com/news/our-columnists/z-is-the-symbol-of-the-new-russian-politics-of-aggression</link>
-            <guid>https://www.newyorker.com/news/our-columnists/z-is-the-symbol-of-the-new-russian-politics-of-aggression</guid>
-            <pubDate>Mon, 07 Mar 2022 21:28:08 GMT</pubDate>
-            <description><![CDATA[“Z” Is the Symbol of the New Russian Politics of Aggression]]></description>
         </item>
     </channel>
 </rss>
