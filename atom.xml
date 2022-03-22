@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-22T03:42:44.797Z</updated>
+    <updated>2022-03-22T06:38:12.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美联储何时会落锤？]]></title>
+        <id>https://noahpinion.substack.com/p/when-will-the-fed-drop-the-hammer</id>
+        <link href="https://noahpinion.substack.com/p/when-will-the-fed-drop-the-hammer"/>
+        <updated>2022-03-22T06:27:12.000Z</updated>
+        <summary type="html"><![CDATA[When will the Fed drop the hammer?]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拜登警告私营部门注意潜在的俄罗斯网络攻击]]></title>
         <id>https://www.nytimes.com/2022/03/21/world/europe/biden-russia-cyberattack.html</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.davidhaney.io/diversity-is-really-freaking-hard/"/>
         <updated>2015-09-24T11:23:38.000Z</updated>
         <summary type="html"><![CDATA[Diversity Is Really Freaking Hard]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开发商补偿。堆栈溢出并没有堆栈排名]]></title>
-        <id>https://www.davidhaney.io/developer-compensation-stack-overflow-doesnt-stack-rank/</id>
-        <link href="https://www.davidhaney.io/developer-compensation-stack-overflow-doesnt-stack-rank/"/>
-        <updated>2016-02-26T14:05:41.000Z</updated>
-        <summary type="html"><![CDATA[Developer Compensation: Stack Overflow Doesn't Stack Rank]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>

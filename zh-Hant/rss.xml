@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 22 Mar 2022 03:42:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 06:38:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[美聯儲何時會落錘？]]></title>
+            <link>https://noahpinion.substack.com/p/when-will-the-fed-drop-the-hammer</link>
+            <guid>https://noahpinion.substack.com/p/when-will-the-fed-drop-the-hammer</guid>
+            <pubDate>Tue, 22 Mar 2022 06:27:12 GMT</pubDate>
+            <description><![CDATA[When will the Fed drop the hammer?]]></description>
+        </item>
         <item>
             <title><![CDATA[拜登警告私營部門注意潛在的俄羅斯網絡攻擊]]></title>
             <link>https://www.nytimes.com/2022/03/21/world/europe/biden-russia-cyberattack.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.davidhaney.io/diversity-is-really-freaking-hard/</guid>
             <pubDate>Thu, 24 Sep 2015 11:23:38 GMT</pubDate>
             <description><![CDATA[Diversity Is Really Freaking Hard]]></description>
-        </item>
-        <item>
-            <title><![CDATA[開發商補償。堆棧溢出並沒有堆棧排名]]></title>
-            <link>https://www.davidhaney.io/developer-compensation-stack-overflow-doesnt-stack-rank/</link>
-            <guid>https://www.davidhaney.io/developer-compensation-stack-overflow-doesnt-stack-rank/</guid>
-            <pubDate>Fri, 26 Feb 2016 14:05:41 GMT</pubDate>
-            <description><![CDATA[Developer Compensation: Stack Overflow Doesn't Stack Rank]]></description>
         </item>
     </channel>
 </rss>

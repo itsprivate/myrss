@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://noahpinion.substack.com/p/when-will-the-fed-drop-the-hammer",
+            "content_html": "",
+            "url": "https://noahpinion.substack.com/p/when-will-the-fed-drop-the-hammer",
+            "title": "美联储何时会落锤？",
+            "summary": "When will the Fed drop the hammer?",
+            "date_modified": "2022-03-22T06:27:12.000Z",
+            "author": {
+                "name": "Noah Smith",
+                "url": "https://noahpinion.substack.com/feed"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/21/world/europe/biden-russia-cyberattack.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/21/world/europe/biden-russia-cyberattack.html",
@@ -7193,18 +7205,6 @@
             "title": "多样性真的很难得",
             "summary": "Diversity Is Really Freaking Hard",
             "date_modified": "2015-09-24T11:23:38.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/developer-compensation-stack-overflow-doesnt-stack-rank/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/developer-compensation-stack-overflow-doesnt-stack-rank/",
-            "title": "开发商补偿。堆栈溢出并没有堆栈排名",
-            "summary": "Developer Compensation: Stack Overflow Doesn't Stack Rank",
-            "date_modified": "2016-02-26T14:05:41.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"
