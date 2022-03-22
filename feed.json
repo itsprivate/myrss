@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/22/business/media/buzzfeed-news-editors-newsroom-cuts.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/22/business/media/buzzfeed-news-editors-newsroom-cuts.html",
+            "title": "BuzzFeed新闻的顶级编辑Mark Schoofs将在新闻室裁员前离职",
+            "summary": "BuzzFeed News Top Editor Mark Schoofs to Leave Ahead of Newsroom Cuts",
+            "date_modified": "2022-03-22T14:14:19.000Z",
+            "author": {
+                "name": "Katie Robertson",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/culture/archive/2022/03/phoenix-rising-hbo-evan-rachel-wood/627152/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/culture/archive/2022/03/phoenix-rising-hbo-evan-rachel-wood/627152/?utm_source=feed",
+            "title": "玛丽莲-曼森告诉我们他是什么人",
+            "summary": "Marilyn Manson Told Us What He Was",
+            "date_modified": "2022-03-22T14:03:34.000Z",
+            "author": {
+                "name": "Sophie Gilbert",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/ideas/archive/2022/03/how-democracy-can-win-ukraine/627125/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/ideas/archive/2022/03/how-democracy-can-win-ukraine/627125/?utm_source=feed",
@@ -7181,30 +7205,6 @@
             "title": "根据文件名确定MIME类型",
             "summary": "Determine MIME Type from File Name",
             "date_modified": "2013-02-11T15:15:46.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/a-better-mime-mapping-stealer/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/a-better-mime-mapping-stealer/",
-            "title": "一个更好的MIME映射窃取器!",
-            "summary": "A Better MIME Mapping Stealer!",
-            "date_modified": "2013-02-12T12:07:12.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/make-mostly-read-seldom-written-lists-much-more-efficient/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/make-mostly-read-seldom-written-lists-much-more-efficient/",
-            "title": "让多读、少写的清单更有效率",
-            "summary": "Make Mostly Read, Seldom-Written Lists Much More Efficient",
-            "date_modified": "2013-03-15T17:11:42.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"

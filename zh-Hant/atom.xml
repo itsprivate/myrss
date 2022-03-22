@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-22T13:45:27.606Z</updated>
+    <updated>2022-03-22T14:32:50.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[BuzzFeed新聞的頂級編輯Mark Schoofs將在新聞室裁員前離職]]></title>
+        <id>https://www.nytimes.com/2022/03/22/business/media/buzzfeed-news-editors-newsroom-cuts.html</id>
+        <link href="https://www.nytimes.com/2022/03/22/business/media/buzzfeed-news-editors-newsroom-cuts.html"/>
+        <updated>2022-03-22T14:14:19.000Z</updated>
+        <summary type="html"><![CDATA[BuzzFeed News Top Editor Mark Schoofs to Leave Ahead of Newsroom Cuts]]></summary>
+        <author>
+            <name>Katie Robertson</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瑪麗蓮-曼森告訴我們他是什麼人]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/03/phoenix-rising-hbo-evan-rachel-wood/627152/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/03/phoenix-rising-hbo-evan-rachel-wood/627152/?utm_source=feed"/>
+        <updated>2022-03-22T14:03:34.000Z</updated>
+        <summary type="html"><![CDATA[Marilyn Manson Told Us What He Was]]></summary>
+        <author>
+            <name>Sophie Gilbert</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[烏克蘭的勝利是唯一可以接受的結局]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/03/how-democracy-can-win-ukraine/627125/?utm_source=feed</id>
@@ -6588,28 +6610,6 @@
         <link href="https://www.davidhaney.io/determine-mime-type-from-file-name/"/>
         <updated>2013-02-11T15:15:46.000Z</updated>
         <summary type="html"><![CDATA[Determine MIME Type from File Name]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個更好的MIME映射竊取器!]]></title>
-        <id>https://www.davidhaney.io/a-better-mime-mapping-stealer/</id>
-        <link href="https://www.davidhaney.io/a-better-mime-mapping-stealer/"/>
-        <updated>2013-02-12T12:07:12.000Z</updated>
-        <summary type="html"><![CDATA[A Better MIME Mapping Stealer!]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[讓多讀、少寫的清單更有效率]]></title>
-        <id>https://www.davidhaney.io/make-mostly-read-seldom-written-lists-much-more-efficient/</id>
-        <link href="https://www.davidhaney.io/make-mostly-read-seldom-written-lists-much-more-efficient/"/>
-        <updated>2013-03-15T17:11:42.000Z</updated>
-        <summary type="html"><![CDATA[Make Mostly Read, Seldom-Written Lists Much More Efficient]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>
