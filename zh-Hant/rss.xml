@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 22 Mar 2022 20:52:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 21:13:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[表情符號時代的市場細分]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259418-market-segmentation-in-the-emoji-era</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259418-market-segmentation-in-the-emoji-era</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Market Segmentation in the Emoji Era]]></description>
+        </item>
         <item>
             <title><![CDATA[<em>The Atlantic</em> Daily: 烏克蘭正在取得勝利的證據]]></title>
             <link>https://www.theatlantic.com/newsletters/archive/2022/03/ukraine-war-cultural-physical-destruction/627154/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/news/daily-comment/the-growing-fear-of-a-wider-war-between-russia-and-the-west</guid>
             <pubDate>Thu, 10 Mar 2022 19:38:32 GMT</pubDate>
             <description><![CDATA[The Growing Fear of a Wider War Between Russia and the West]]></description>
-        </item>
-        <item>
-            <title><![CDATA[西方對俄羅斯發動經濟戰爭]]></title>
-            <link>https://www.newyorker.com/podcast/politics-and-more/the-west-wages-economic-war-on-russia</link>
-            <guid>https://www.newyorker.com/podcast/politics-and-more/the-west-wages-economic-war-on-russia</guid>
-            <pubDate>Thu, 10 Mar 2022 21:30:00 GMT</pubDate>
-            <description><![CDATA[The West Wages Economic War on Russia]]></description>
         </item>
     </channel>
 </rss>

@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "http://cacm.acm.org/magazines/2022/4/259418-market-segmentation-in-the-emoji-era",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/4/259418-market-segmentation-in-the-emoji-era",
+            "title": "表情符號時代的市場細分",
+            "summary": "Market Segmentation in the Emoji Era",
+            "date_modified": "2022-04-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/newsletters/archive/2022/03/ukraine-war-cultural-physical-destruction/627154/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/newsletters/archive/2022/03/ukraine-war-cultural-physical-destruction/627154/?utm_source=feed",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-10T19:38:32.000Z",
             "author": {
                 "name": "Robin Wright",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/podcast/politics-and-more/the-west-wages-economic-war-on-russia",
-            "content_html": "",
-            "url": "https://www.newyorker.com/podcast/politics-and-more/the-west-wages-economic-war-on-russia",
-            "title": "西方對俄羅斯發動經濟戰爭",
-            "summary": "The West Wages Economic War on Russia",
-            "date_modified": "2022-03-10T21:30:00.000Z",
-            "author": {
-                "name": "unknown",
                 "url": "https://www.newyorker.com/feed/news"
             }
         }

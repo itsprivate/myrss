@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-22T20:52:12.870Z</updated>
+    <updated>2022-03-22T21:13:35.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[表情符號時代的市場細分]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259418-market-segmentation-in-the-emoji-era</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259418-market-segmentation-in-the-emoji-era"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Market Segmentation in the Emoji Era]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<em>The Atlantic</em> Daily: 烏克蘭正在取得勝利的證據]]></title>
         <id>https://www.theatlantic.com/newsletters/archive/2022/03/ukraine-war-cultural-physical-destruction/627154/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[The Growing Fear of a Wider War Between Russia and the West]]></summary>
         <author>
             <name>Robin Wright</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西方對俄羅斯發動經濟戰爭]]></title>
-        <id>https://www.newyorker.com/podcast/politics-and-more/the-west-wages-economic-war-on-russia</id>
-        <link href="https://www.newyorker.com/podcast/politics-and-more/the-west-wages-economic-war-on-russia"/>
-        <updated>2022-03-10T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The West Wages Economic War on Russia]]></summary>
-        <author>
-            <name>unknown</name>
             <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
