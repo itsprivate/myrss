@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 21 Mar 2022 23:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 02:22:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[凱坦吉-布朗-傑克遜法官確認聽證會第一天的高歷史和低政治因素]]></title>
+            <link>https://www.newyorker.com/news/our-columnists/high-history-and-low-politics-at-day-one-of-judge-ketanji-brown-jacksons-confirmation-hearing</link>
+            <guid>https://www.newyorker.com/news/our-columnists/high-history-and-low-politics-at-day-one-of-judge-ketanji-brown-jacksons-confirmation-hearing</guid>
+            <pubDate>Tue, 22 Mar 2022 02:00:33 GMT</pubDate>
+            <description><![CDATA[High History and Low Politics on Day One of Judge Ketanji Brown Jackson’s Confirmation Hearing]]></description>
+        </item>
+        <item>
+            <title><![CDATA[2022年奧斯卡獎預測。誰會贏，誰應該贏]]></title>
+            <link>https://www.newyorker.com/culture/the-front-row/2022-oscar-predictions-who-will-win-versus-who-should</link>
+            <guid>https://www.newyorker.com/culture/the-front-row/2022-oscar-predictions-who-will-win-versus-who-should</guid>
+            <pubDate>Tue, 22 Mar 2022 01:33:18 GMT</pubDate>
+            <description><![CDATA[2022 Oscar Predictions: Who Will Win Versus Who Should]]></description>
+        </item>
         <item>
             <title><![CDATA[網球巡迴賽應該禁止俄羅斯人參賽嗎？]]></title>
             <link>https://www.newyorker.com/sports/sporting-scene/should-the-tennis-tour-ban-russians-from-competing</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/</guid>
             <pubDate>Wed, 23 Mar 2016 18:01:52 GMT</pubDate>
             <description><![CDATA[NPM & left-pad: Have We Forgotten How To Program?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[讓我們來談談搖滾明星和自負的問題]]></title>
-            <link>https://www.davidhaney.io/lets-talk-about-rock-stars-egos/</link>
-            <guid>https://www.davidhaney.io/lets-talk-about-rock-stars-egos/</guid>
-            <pubDate>Fri, 17 Jun 2016 17:02:13 GMT</pubDate>
-            <description><![CDATA[Let's Talk About Rock Stars & Egos]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我們的行業需要同情心]]></title>
-            <link>https://www.davidhaney.io/our-industry-needs-compassion/</link>
-            <guid>https://www.davidhaney.io/our-industry-needs-compassion/</guid>
-            <pubDate>Tue, 03 Jan 2017 12:37:39 GMT</pubDate>
-            <description><![CDATA[Our Industry Needs Compassion]]></description>
         </item>
     </channel>
 </rss>

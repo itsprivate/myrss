@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/our-columnists/high-history-and-low-politics-at-day-one-of-judge-ketanji-brown-jacksons-confirmation-hearing",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/our-columnists/high-history-and-low-politics-at-day-one-of-judge-ketanji-brown-jacksons-confirmation-hearing",
+            "title": "凱坦吉-布朗-傑克遜法官確認聽證會第一天的高歷史和低政治因素",
+            "summary": "High History and Low Politics on Day One of Judge Ketanji Brown Jackson’s Confirmation Hearing",
+            "date_modified": "2022-03-22T02:00:33.000Z",
+            "author": {
+                "name": "John Cassidy",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/culture/the-front-row/2022-oscar-predictions-who-will-win-versus-who-should",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/the-front-row/2022-oscar-predictions-who-will-win-versus-who-should",
+            "title": "2022年奧斯卡獎預測。誰會贏，誰應該贏",
+            "summary": "2022 Oscar Predictions: Who Will Win Versus Who Should",
+            "date_modified": "2022-03-22T01:33:18.000Z",
+            "author": {
+                "name": "Richard Brody",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/sports/sporting-scene/should-the-tennis-tour-ban-russians-from-competing",
             "content_html": "",
             "url": "https://www.newyorker.com/sports/sporting-scene/should-the-tennis-tour-ban-russians-from-competing",
@@ -7181,30 +7205,6 @@
             "title": "故宮博物院和左手掌。我們是否忘記了如何編程？",
             "summary": "NPM & left-pad: Have We Forgotten How To Program?",
             "date_modified": "2016-03-23T18:01:52.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/lets-talk-about-rock-stars-egos/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/lets-talk-about-rock-stars-egos/",
-            "title": "讓我們來談談搖滾明星和自負的問題",
-            "summary": "Let's Talk About Rock Stars & Egos",
-            "date_modified": "2016-06-17T17:02:13.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/our-industry-needs-compassion/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/our-industry-needs-compassion/",
-            "title": "我們的行業需要同情心",
-            "summary": "Our Industry Needs Compassion",
-            "date_modified": "2017-01-03T12:37:39.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"
