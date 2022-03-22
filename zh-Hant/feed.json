@@ -11,6 +11,78 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/magazine/2022/03/28/at-al-badawi-bread-is-life",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/03/28/at-al-badawi-bread-is-life",
+            "title": "在阿爾巴達維，麵包就是生命",
+            "summary": "At al Badawi, Bread Is Life",
+            "date_modified": "2022-03-18T10:00:00.000Z",
+            "author": {
+                "name": "Hannah Goldfield",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/magazine/2022/03/28/the-geometric-glass-sculptures-of-larry-bell",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/03/28/the-geometric-glass-sculptures-of-larry-bell",
+            "title": "拉里-貝爾的幾何玻璃雕塑作品",
+            "summary": "The Geometric Glass Sculptures of Larry Bell",
+            "date_modified": "2022-03-18T10:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/magazine/2022/03/28/the-outfit-is-made-to-measure-for-mark-rylance",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/03/28/the-outfit-is-made-to-measure-for-mark-rylance",
+            "title": "為馬克-裡朗斯量身定做的 \"服裝\"",
+            "summary": "“The Outfit” Is Made to Measure for Mark Rylance",
+            "date_modified": "2022-03-18T10:00:00.000Z",
+            "author": {
+                "name": "Anthony Lane",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/magazine/2022/03/28/koffees-debut-album-blends-old-reggae-and-new",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/03/28/koffees-debut-album-blends-old-reggae-and-new",
+            "title": "科菲的首張專輯融合了古老的雷鬼音樂和新事物",
+            "summary": "Koffee’s Début Album Blends Old Reggae and New",
+            "date_modified": "2022-03-21T10:00:00.000Z",
+            "author": {
+                "name": "Carrie Battan",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/magazine/2022/03/28/the-shaming-industrial-complex-cathy-oneil-the-shame-machine-owen-flanagan-how-to-do-things-with-emotions",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/03/28/the-shaming-industrial-complex-cathy-oneil-the-shame-machine-owen-flanagan-how-to-do-things-with-emotions",
+            "title": "沙明-工業綜合體",
+            "summary": "The Shaming-Industrial Complex",
+            "date_modified": "2022-03-21T10:00:00.000Z",
+            "author": {
+                "name": "Becca Rothfeld",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/magazine/2022/03/28/how-putins-oligarchs-bought-london",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/03/28/how-putins-oligarchs-bought-london",
+            "title": "普京的寡頭們如何買下倫敦",
+            "summary": "How Putin’s Oligarchs Bought London",
+            "date_modified": "2022-03-17T10:00:00.000Z",
+            "author": {
+                "name": "Patrick Radden Keefe",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/22/technology/metaverse-lessons-from-hollywood.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/22/technology/metaverse-lessons-from-hollywood.html",
@@ -7133,78 +7205,6 @@
             "title": "編譯器技巧--推斷類型",
             "summary": "Compiler Tricks - Inferred Types",
             "date_modified": "2012-07-16T00:33:54.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/tpl-and-error-handling/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/tpl-and-error-handling/",
-            "title": "TPL和錯誤處理",
-            "summary": "TPL and Error Handling",
-            "date_modified": "2012-08-05T13:39:38.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/tpl-and-error-handling-continuations/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/tpl-and-error-handling-continuations/",
-            "title": "TPL和錯誤處理及延續任務",
-            "summary": "TPL and Error Handling & Continuation Tasks",
-            "date_modified": "2012-08-12T23:21:30.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/published-by-mdsn-uk-blog/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/published-by-mdsn-uk-blog/",
-            "title": "由MDSN英國博客發佈",
-            "summary": "Published by MDSN UK Blog",
-            "date_modified": "2012-08-26T23:49:41.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/the-joel-test-really-is-meaningful/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/the-joel-test-really-is-meaningful/",
-            "title": "喬爾測試真的很有意義",
-            "summary": "The Joel Test Really is Meaningful",
-            "date_modified": "2012-10-14T22:10:54.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/stats-vs-reference-string-equals/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/stats-vs-reference-string-equals/",
-            "title": "靜態 vs 實例 string.Equals",
-            "summary": "Static vs Instance string.Equals",
-            "date_modified": "2012-10-22T14:57:14.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/static-vs-instance-string-equals-benchmark/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/static-vs-instance-string-equals-benchmark/",
-            "title": "靜態 vs 實例 string.Equals Benchmark",
-            "summary": "Static vs Instance string.Equals Benchmark",
-            "date_modified": "2012-10-24T16:57:14.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"

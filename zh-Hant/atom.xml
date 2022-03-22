@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-22T17:23:47.821Z</updated>
+    <updated>2022-03-22T18:05:30.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在阿爾巴達維，麵包就是生命]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/28/at-al-badawi-bread-is-life</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/28/at-al-badawi-bread-is-life"/>
+        <updated>2022-03-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[At al Badawi, Bread Is Life]]></summary>
+        <author>
+            <name>Hannah Goldfield</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拉里-貝爾的幾何玻璃雕塑作品]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/28/the-geometric-glass-sculptures-of-larry-bell</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/28/the-geometric-glass-sculptures-of-larry-bell"/>
+        <updated>2022-03-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Geometric Glass Sculptures of Larry Bell]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為馬克-裡朗斯量身定做的 "服裝"]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/28/the-outfit-is-made-to-measure-for-mark-rylance</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/28/the-outfit-is-made-to-measure-for-mark-rylance"/>
+        <updated>2022-03-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“The Outfit” Is Made to Measure for Mark Rylance]]></summary>
+        <author>
+            <name>Anthony Lane</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科菲的首張專輯融合了古老的雷鬼音樂和新事物]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/28/koffees-debut-album-blends-old-reggae-and-new</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/28/koffees-debut-album-blends-old-reggae-and-new"/>
+        <updated>2022-03-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Koffee’s Début Album Blends Old Reggae and New]]></summary>
+        <author>
+            <name>Carrie Battan</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沙明-工業綜合體]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/28/the-shaming-industrial-complex-cathy-oneil-the-shame-machine-owen-flanagan-how-to-do-things-with-emotions</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/28/the-shaming-industrial-complex-cathy-oneil-the-shame-machine-owen-flanagan-how-to-do-things-with-emotions"/>
+        <updated>2022-03-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Shaming-Industrial Complex]]></summary>
+        <author>
+            <name>Becca Rothfeld</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[普京的寡頭們如何買下倫敦]]></title>
+        <id>https://www.newyorker.com/magazine/2022/03/28/how-putins-oligarchs-bought-london</id>
+        <link href="https://www.newyorker.com/magazine/2022/03/28/how-putins-oligarchs-bought-london"/>
+        <updated>2022-03-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How Putin’s Oligarchs Bought London]]></summary>
+        <author>
+            <name>Patrick Radden Keefe</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[好萊塢的元老級教訓]]></title>
         <id>https://www.nytimes.com/2022/03/22/technology/metaverse-lessons-from-hollywood.html</id>
@@ -6544,72 +6610,6 @@
         <link href="https://www.davidhaney.io/compiler-tricks-inferred-types/"/>
         <updated>2012-07-16T00:33:54.000Z</updated>
         <summary type="html"><![CDATA[Compiler Tricks - Inferred Types]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TPL和錯誤處理]]></title>
-        <id>https://www.davidhaney.io/tpl-and-error-handling/</id>
-        <link href="https://www.davidhaney.io/tpl-and-error-handling/"/>
-        <updated>2012-08-05T13:39:38.000Z</updated>
-        <summary type="html"><![CDATA[TPL and Error Handling]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TPL和錯誤處理及延續任務]]></title>
-        <id>https://www.davidhaney.io/tpl-and-error-handling-continuations/</id>
-        <link href="https://www.davidhaney.io/tpl-and-error-handling-continuations/"/>
-        <updated>2012-08-12T23:21:30.000Z</updated>
-        <summary type="html"><![CDATA[TPL and Error Handling & Continuation Tasks]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由MDSN英國博客發佈]]></title>
-        <id>https://www.davidhaney.io/published-by-mdsn-uk-blog/</id>
-        <link href="https://www.davidhaney.io/published-by-mdsn-uk-blog/"/>
-        <updated>2012-08-26T23:49:41.000Z</updated>
-        <summary type="html"><![CDATA[Published by MDSN UK Blog]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[喬爾測試真的很有意義]]></title>
-        <id>https://www.davidhaney.io/the-joel-test-really-is-meaningful/</id>
-        <link href="https://www.davidhaney.io/the-joel-test-really-is-meaningful/"/>
-        <updated>2012-10-14T22:10:54.000Z</updated>
-        <summary type="html"><![CDATA[The Joel Test Really is Meaningful]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[靜態 vs 實例 string.Equals]]></title>
-        <id>https://www.davidhaney.io/stats-vs-reference-string-equals/</id>
-        <link href="https://www.davidhaney.io/stats-vs-reference-string-equals/"/>
-        <updated>2012-10-22T14:57:14.000Z</updated>
-        <summary type="html"><![CDATA[Static vs Instance string.Equals]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[靜態 vs 實例 string.Equals Benchmark]]></title>
-        <id>https://www.davidhaney.io/static-vs-instance-string-equals-benchmark/</id>
-        <link href="https://www.davidhaney.io/static-vs-instance-string-equals-benchmark/"/>
-        <updated>2012-10-24T16:57:14.000Z</updated>
-        <summary type="html"><![CDATA[Static vs Instance string.Equals Benchmark]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 22 Mar 2022 17:23:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 18:05:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,48 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在阿爾巴達維，麵包就是生命]]></title>
+            <link>https://www.newyorker.com/magazine/2022/03/28/at-al-badawi-bread-is-life</link>
+            <guid>https://www.newyorker.com/magazine/2022/03/28/at-al-badawi-bread-is-life</guid>
+            <pubDate>Fri, 18 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[At al Badawi, Bread Is Life]]></description>
+        </item>
+        <item>
+            <title><![CDATA[拉里-貝爾的幾何玻璃雕塑作品]]></title>
+            <link>https://www.newyorker.com/magazine/2022/03/28/the-geometric-glass-sculptures-of-larry-bell</link>
+            <guid>https://www.newyorker.com/magazine/2022/03/28/the-geometric-glass-sculptures-of-larry-bell</guid>
+            <pubDate>Fri, 18 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Geometric Glass Sculptures of Larry Bell]]></description>
+        </item>
+        <item>
+            <title><![CDATA[為馬克-裡朗斯量身定做的 "服裝"]]></title>
+            <link>https://www.newyorker.com/magazine/2022/03/28/the-outfit-is-made-to-measure-for-mark-rylance</link>
+            <guid>https://www.newyorker.com/magazine/2022/03/28/the-outfit-is-made-to-measure-for-mark-rylance</guid>
+            <pubDate>Fri, 18 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[“The Outfit” Is Made to Measure for Mark Rylance]]></description>
+        </item>
+        <item>
+            <title><![CDATA[科菲的首張專輯融合了古老的雷鬼音樂和新事物]]></title>
+            <link>https://www.newyorker.com/magazine/2022/03/28/koffees-debut-album-blends-old-reggae-and-new</link>
+            <guid>https://www.newyorker.com/magazine/2022/03/28/koffees-debut-album-blends-old-reggae-and-new</guid>
+            <pubDate>Mon, 21 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Koffee’s Début Album Blends Old Reggae and New]]></description>
+        </item>
+        <item>
+            <title><![CDATA[沙明-工業綜合體]]></title>
+            <link>https://www.newyorker.com/magazine/2022/03/28/the-shaming-industrial-complex-cathy-oneil-the-shame-machine-owen-flanagan-how-to-do-things-with-emotions</link>
+            <guid>https://www.newyorker.com/magazine/2022/03/28/the-shaming-industrial-complex-cathy-oneil-the-shame-machine-owen-flanagan-how-to-do-things-with-emotions</guid>
+            <pubDate>Mon, 21 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Shaming-Industrial Complex]]></description>
+        </item>
+        <item>
+            <title><![CDATA[普京的寡頭們如何買下倫敦]]></title>
+            <link>https://www.newyorker.com/magazine/2022/03/28/how-putins-oligarchs-bought-london</link>
+            <guid>https://www.newyorker.com/magazine/2022/03/28/how-putins-oligarchs-bought-london</guid>
+            <pubDate>Thu, 17 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[How Putin’s Oligarchs Bought London]]></description>
+        </item>
         <item>
             <title><![CDATA[好萊塢的元老級教訓]]></title>
             <link>https://www.nytimes.com/2022/03/22/technology/metaverse-lessons-from-hollywood.html</link>
@@ -4171,48 +4213,6 @@
             <guid>https://www.davidhaney.io/compiler-tricks-inferred-types/</guid>
             <pubDate>Mon, 16 Jul 2012 00:33:54 GMT</pubDate>
             <description><![CDATA[Compiler Tricks - Inferred Types]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TPL和錯誤處理]]></title>
-            <link>https://www.davidhaney.io/tpl-and-error-handling/</link>
-            <guid>https://www.davidhaney.io/tpl-and-error-handling/</guid>
-            <pubDate>Sun, 05 Aug 2012 13:39:38 GMT</pubDate>
-            <description><![CDATA[TPL and Error Handling]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TPL和錯誤處理及延續任務]]></title>
-            <link>https://www.davidhaney.io/tpl-and-error-handling-continuations/</link>
-            <guid>https://www.davidhaney.io/tpl-and-error-handling-continuations/</guid>
-            <pubDate>Sun, 12 Aug 2012 23:21:30 GMT</pubDate>
-            <description><![CDATA[TPL and Error Handling & Continuation Tasks]]></description>
-        </item>
-        <item>
-            <title><![CDATA[由MDSN英國博客發佈]]></title>
-            <link>https://www.davidhaney.io/published-by-mdsn-uk-blog/</link>
-            <guid>https://www.davidhaney.io/published-by-mdsn-uk-blog/</guid>
-            <pubDate>Sun, 26 Aug 2012 23:49:41 GMT</pubDate>
-            <description><![CDATA[Published by MDSN UK Blog]]></description>
-        </item>
-        <item>
-            <title><![CDATA[喬爾測試真的很有意義]]></title>
-            <link>https://www.davidhaney.io/the-joel-test-really-is-meaningful/</link>
-            <guid>https://www.davidhaney.io/the-joel-test-really-is-meaningful/</guid>
-            <pubDate>Sun, 14 Oct 2012 22:10:54 GMT</pubDate>
-            <description><![CDATA[The Joel Test Really is Meaningful]]></description>
-        </item>
-        <item>
-            <title><![CDATA[靜態 vs 實例 string.Equals]]></title>
-            <link>https://www.davidhaney.io/stats-vs-reference-string-equals/</link>
-            <guid>https://www.davidhaney.io/stats-vs-reference-string-equals/</guid>
-            <pubDate>Mon, 22 Oct 2012 14:57:14 GMT</pubDate>
-            <description><![CDATA[Static vs Instance string.Equals]]></description>
-        </item>
-        <item>
-            <title><![CDATA[靜態 vs 實例 string.Equals Benchmark]]></title>
-            <link>https://www.davidhaney.io/static-vs-instance-string-equals-benchmark/</link>
-            <guid>https://www.davidhaney.io/static-vs-instance-string-equals-benchmark/</guid>
-            <pubDate>Wed, 24 Oct 2012 16:57:14 GMT</pubDate>
-            <description><![CDATA[Static vs Instance string.Equals Benchmark]]></description>
         </item>
     </channel>
 </rss>
