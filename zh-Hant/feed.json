@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/21/world/europe/biden-russia-cyberattack.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/21/world/europe/biden-russia-cyberattack.html",
+            "title": "拜登警告私營部門注意潛在的俄羅斯網絡攻擊",
+            "summary": "Biden Warns Private Sector of Potential Russian Cyberattacks",
+            "date_modified": "2022-03-22T03:24:25.000Z",
+            "author": {
+                "name": "Zolan Kanno-Youngs",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/our-columnists/high-history-and-low-politics-at-day-one-of-judge-ketanji-brown-jacksons-confirmation-hearing",
             "content_html": "",
             "url": "https://www.newyorker.com/news/our-columnists/high-history-and-low-politics-at-day-one-of-judge-ketanji-brown-jacksons-confirmation-hearing",
@@ -7193,18 +7205,6 @@
             "title": "開發商補償。堆棧溢出並沒有堆棧排名",
             "summary": "Developer Compensation: Stack Overflow Doesn't Stack Rank",
             "date_modified": "2016-02-26T14:05:41.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/",
-            "title": "故宮博物院和左手掌。我們是否忘記了如何編程？",
-            "summary": "NPM & left-pad: Have We Forgotten How To Program?",
-            "date_modified": "2016-03-23T18:01:52.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"
