@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/culture/archive/2022/03/abbott-elementary-minx-girlboss-tv-comedy/627156/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/culture/archive/2022/03/abbott-elementary-minx-girlboss-tv-comedy/627156/?utm_source=feed",
+            "title": "職場喜劇重新考慮女老闆的問題",
+            "summary": "The Workplace Comedies Reconsidering the Girlboss",
+            "date_modified": "2022-03-22T18:01:38.000Z",
+            "author": {
+                "name": "Shirley Li",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/culture/archive/2022/03/silicon-valley-work-culture-spirituality/627151/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/culture/archive/2022/03/silicon-valley-work-culture-spirituality/627151/?utm_source=feed",
+            "title": "工作的未來仍然是工作",
+            "summary": "The Future of Work Is Still Work",
+            "date_modified": "2022-03-22T18:29:37.000Z",
+            "author": {
+                "name": "Carolyn Chen",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/magazine/2022/03/28/at-al-badawi-bread-is-life",
             "content_html": "",
             "url": "https://www.newyorker.com/magazine/2022/03/28/at-al-badawi-bread-is-life",
@@ -7181,30 +7205,6 @@
             "title": "LINQ和延遲執行",
             "summary": "LINQ and Deferred Execution",
             "date_modified": "2012-06-11T00:57:15.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/custom-output-caching-with-mvc3-and-net-4-0-done-right/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/custom-output-caching-with-mvc3-and-net-4-0-done-right/",
-            "title": "使用MVC3和.NET 4.0的自定義輸出緩存--做得很好",
-            "summary": "Custom Output Caching with MVC3 and .NET 4.0 - Done Properly!",
-            "date_modified": "2012-06-20T00:47:52.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/compiler-tricks-inferred-types/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/compiler-tricks-inferred-types/",
-            "title": "編譯器技巧--推斷類型",
-            "summary": "Compiler Tricks - Inferred Types",
-            "date_modified": "2012-07-16T00:33:54.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"

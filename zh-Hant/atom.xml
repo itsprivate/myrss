@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-22T18:05:30.035Z</updated>
+    <updated>2022-03-22T18:40:21.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[職場喜劇重新考慮女老闆的問題]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/03/abbott-elementary-minx-girlboss-tv-comedy/627156/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/03/abbott-elementary-minx-girlboss-tv-comedy/627156/?utm_source=feed"/>
+        <updated>2022-03-22T18:01:38.000Z</updated>
+        <summary type="html"><![CDATA[The Workplace Comedies Reconsidering the Girlboss]]></summary>
+        <author>
+            <name>Shirley Li</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[工作的未來仍然是工作]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/03/silicon-valley-work-culture-spirituality/627151/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/03/silicon-valley-work-culture-spirituality/627151/?utm_source=feed"/>
+        <updated>2022-03-22T18:29:37.000Z</updated>
+        <summary type="html"><![CDATA[The Future of Work Is Still Work]]></summary>
+        <author>
+            <name>Carolyn Chen</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在阿爾巴達維，麵包就是生命]]></title>
         <id>https://www.newyorker.com/magazine/2022/03/28/at-al-badawi-bread-is-life</id>
@@ -6588,28 +6610,6 @@
         <link href="https://www.davidhaney.io/linq-and-deferred-execution/"/>
         <updated>2012-06-11T00:57:15.000Z</updated>
         <summary type="html"><![CDATA[LINQ and Deferred Execution]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用MVC3和.NET 4.0的自定義輸出緩存--做得很好]]></title>
-        <id>https://www.davidhaney.io/custom-output-caching-with-mvc3-and-net-4-0-done-right/</id>
-        <link href="https://www.davidhaney.io/custom-output-caching-with-mvc3-and-net-4-0-done-right/"/>
-        <updated>2012-06-20T00:47:52.000Z</updated>
-        <summary type="html"><![CDATA[Custom Output Caching with MVC3 and .NET 4.0 - Done Properly!]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[編譯器技巧--推斷類型]]></title>
-        <id>https://www.davidhaney.io/compiler-tricks-inferred-types/</id>
-        <link href="https://www.davidhaney.io/compiler-tricks-inferred-types/"/>
-        <updated>2012-07-16T00:33:54.000Z</updated>
-        <summary type="html"><![CDATA[Compiler Tricks - Inferred Types]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>
