@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/q-and-a/the-purges-in-putins-shrinking-inner-circle",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/q-and-a/the-purges-in-putins-shrinking-inner-circle",
+            "title": "普京收縮的內部圈子裡的大清洗",
+            "summary": "The Purges in Putin’s Shrinking Inner Circle",
+            "date_modified": "2022-03-22T15:05:54.000Z",
+            "author": {
+                "name": "Isaac Chotiner",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/22/business/media/buzzfeed-news-editors-newsroom-cuts.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/22/business/media/buzzfeed-news-editors-newsroom-cuts.html",
@@ -7193,18 +7205,6 @@
             "title": "由紅門出版",
             "summary": "Published by Red Gate",
             "date_modified": "2013-01-18T15:10:04.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/determine-mime-type-from-file-name/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/determine-mime-type-from-file-name/",
-            "title": "根據文件名確定MIME類型",
-            "summary": "Determine MIME Type from File Name",
-            "date_modified": "2013-02-11T15:15:46.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"
