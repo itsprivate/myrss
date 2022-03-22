@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-22T23:33:08.534Z</updated>
+    <updated>2022-03-22T23:42:25.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯網絡攻擊的威脅迫在眉睫]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/the-threat-of-russian-cyberattacks-looms-large</id>
+        <link href="https://www.newyorker.com/news/daily-comment/the-threat-of-russian-cyberattacks-looms-large"/>
+        <updated>2022-03-22T23:15:56.000Z</updated>
+        <summary type="html"><![CDATA[The Threat of Russian Cyberattacks Looms Large]]></summary>
+        <author>
+            <name>Sue Halpern</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄羅斯網絡攻擊的威脅迫在眉睫]]></title>
         <id>https://www.newyorker.com/news/daily-comment/the-threat-of-russian-cyberattacks-looms-large</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Did George Washington Have an Enslaved Son?]]></summary>
         <author>
             <name>Jill Abramson</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[當一所精英公立學校向所有人開放時，會發生什麼？]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/14/what-happens-when-an-elite-public-school-becomes-open-to-all</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/14/what-happens-when-an-elite-public-school-becomes-open-to-all"/>
-        <updated>2022-03-07T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What Happens When an Élite Public School Becomes Open to All?]]></summary>
-        <author>
-            <name>Nathan Heller</name>
             <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>

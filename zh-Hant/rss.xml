@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 22 Mar 2022 23:33:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 23:42:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[俄羅斯網絡攻擊的威脅迫在眉睫]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/the-threat-of-russian-cyberattacks-looms-large</link>
+            <guid>https://www.newyorker.com/news/daily-comment/the-threat-of-russian-cyberattacks-looms-large</guid>
+            <pubDate>Tue, 22 Mar 2022 23:15:56 GMT</pubDate>
+            <description><![CDATA[The Threat of Russian Cyberattacks Looms Large]]></description>
+        </item>
         <item>
             <title><![CDATA[俄羅斯網絡攻擊的威脅迫在眉睫]]></title>
             <link>https://www.newyorker.com/news/daily-comment/the-threat-of-russian-cyberattacks-looms-large</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/magazine/2022/03/14/did-george-washington-have-an-enslaved-son</guid>
             <pubDate>Mon, 07 Mar 2022 11:00:00 GMT</pubDate>
             <description><![CDATA[Did George Washington Have an Enslaved Son?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[當一所精英公立學校向所有人開放時，會發生什麼？]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/14/what-happens-when-an-elite-public-school-becomes-open-to-all</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/14/what-happens-when-an-elite-public-school-becomes-open-to-all</guid>
-            <pubDate>Mon, 07 Mar 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[What Happens When an Élite Public School Becomes Open to All?]]></description>
         </item>
     </channel>
 </rss>
