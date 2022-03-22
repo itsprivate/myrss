@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-22T20:14:19.123Z</updated>
+    <updated>2022-03-22T20:52:12.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[<em>The Atlantic</em> Daily: 烏克蘭正在取得勝利的證據]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/03/ukraine-war-cultural-physical-destruction/627154/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/ukraine-war-cultural-physical-destruction/627154/?utm_source=feed"/>
+        <updated>2022-03-22T20:27:50.000Z</updated>
+        <summary type="html"><![CDATA[<em>The Atlantic</em> Daily: The Evidence That Ukraine Is Winning]]></summary>
+        <author>
+            <name>Isabel Fattal</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個意外的愛情故事的快樂]]></title>
         <id>https://www.theatlantic.com/books/archive/2022/03/unexpected-romance-novels-greer-chakrabarti/627153/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[The West Wages Economic War on Russia]]></summary>
         <author>
             <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌搜索沒有向你顯示的內容]]></title>
-        <id>https://www.newyorker.com/culture/infinite-scroll/what-google-search-isnt-showing-you</id>
-        <link href="https://www.newyorker.com/culture/infinite-scroll/what-google-search-isnt-showing-you"/>
-        <updated>2022-03-10T22:42:06.000Z</updated>
-        <summary type="html"><![CDATA[What Google Search Isn’t Showing You]]></summary>
-        <author>
-            <name>Kyle Chayka</name>
             <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
