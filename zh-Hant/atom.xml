@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-22T11:12:20.293Z</updated>
+    <updated>2022-03-22T11:29:12.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[拯救地球，拯救最大的森林]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/climate-change-deforestation-carbon/627114/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/climate-change-deforestation-carbon/627114/?utm_source=feed"/>
+        <updated>2022-03-22T11:01:56.000Z</updated>
+        <summary type="html"><![CDATA[To Save the Planet, Save the Biggest Forests]]></summary>
+        <author>
+            <name>Thomas E. Lovejoy</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[需要一場真正的戰爭來壓制文化戰爭]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/russia-ukraine-war-stopped-internet-culture-war/627122/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/russia-ukraine-war-stopped-internet-culture-war/627122/?utm_source=feed"/>
+        <updated>2022-03-22T11:01:56.000Z</updated>
+        <summary type="html"><![CDATA[It Took a Real War to Silence the Culture War]]></summary>
+        <author>
+            <name>Renée DiResta</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你在讀什麼？]]></title>
         <id>https://austinkleon.substack.com/p/what-are-you-reading</id>
@@ -6588,28 +6610,6 @@
         <link href="https://www.davidhaney.io/generic-comparer/"/>
         <updated>2013-04-22T14:53:17.000Z</updated>
         <summary type="html"><![CDATA[Generic Comparer]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[網絡API映射查詢字符串/表單輸入]]></title>
-        <id>https://www.davidhaney.io/web-api-mapping-querystringform-input/</id>
-        <link href="https://www.davidhaney.io/web-api-mapping-querystringform-input/"/>
-        <updated>2013-07-24T17:55:12.000Z</updated>
-        <summary type="html"><![CDATA[Web API Mapping QueryString/Form Input]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用T4從數據庫中自動生成POCOs]]></title>
-        <id>https://www.davidhaney.io/automatically-generate-pocos-from-db-with-t4/</id>
-        <link href="https://www.davidhaney.io/automatically-generate-pocos-from-db-with-t4/"/>
-        <updated>2013-10-16T21:35:51.000Z</updated>
-        <summary type="html"><![CDATA[Automatically Generate POCOs From DB With T4]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>
