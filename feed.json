@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/culture/photo-booth/the-devastation-of-kharkiv",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/photo-booth/the-devastation-of-kharkiv",
+            "title": "哈尔科夫的毁坏",
+            "summary": "The Devastation of Kharkiv",
+            "date_modified": "2022-03-22T22:50:56.000Z",
+            "author": {
+                "name": "Masha Gessen",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/22/technology/theranos-trial-balwani.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/22/technology/theranos-trial-balwani.html",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-10T18:34:29.000Z",
             "author": {
                 "name": "David Remnick",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/news-desk/the-revolution-eats-itself-in-nicaragua",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/news-desk/the-revolution-eats-itself-in-nicaragua",
-            "title": "尼加拉瓜的革命自食其果",
-            "summary": "The Revolution Eats Itself in Nicaragua",
-            "date_modified": "2022-03-10T19:02:02.000Z",
-            "author": {
-                "name": "Alma Guillermoprieto",
                 "url": "https://www.newyorker.com/feed/news"
             }
         }

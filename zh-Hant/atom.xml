@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-22T21:52:40.101Z</updated>
+    <updated>2022-03-22T23:13:24.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哈爾科夫的毀壞]]></title>
+        <id>https://www.newyorker.com/culture/photo-booth/the-devastation-of-kharkiv</id>
+        <link href="https://www.newyorker.com/culture/photo-booth/the-devastation-of-kharkiv"/>
+        <updated>2022-03-22T22:50:56.000Z</updated>
+        <summary type="html"><![CDATA[The Devastation of Kharkiv]]></summary>
+        <author>
+            <name>Masha Gessen</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對伊麗莎白-霍姆斯的前合夥人拉梅什-巴爾瓦尼的審判開始了]]></title>
         <id>https://www.nytimes.com/2022/03/22/technology/theranos-trial-balwani.html</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[A Russian Journalist Who Stayed Behind]]></summary>
         <author>
             <name>David Remnick</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尼加拉瓜的革命自食其果]]></title>
-        <id>https://www.newyorker.com/news/news-desk/the-revolution-eats-itself-in-nicaragua</id>
-        <link href="https://www.newyorker.com/news/news-desk/the-revolution-eats-itself-in-nicaragua"/>
-        <updated>2022-03-10T19:02:02.000Z</updated>
-        <summary type="html"><![CDATA[The Revolution Eats Itself in Nicaragua]]></summary>
-        <author>
-            <name>Alma Guillermoprieto</name>
             <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
