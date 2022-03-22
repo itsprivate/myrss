@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://austinkleon.substack.com/p/what-are-you-reading",
+            "content_html": "",
+            "url": "https://austinkleon.substack.com/p/what-are-you-reading",
+            "title": "你在讀什麼？",
+            "summary": "What are you reading?",
+            "date_modified": "2022-03-22T11:00:34.000Z",
+            "author": {
+                "name": "Austin Kleon",
+                "url": "https://austinkleon.substack.com/feed"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/culture/personal-history/love-and-magic-or-a-trip-to-the-circus",
             "content_html": "",
             "url": "https://www.newyorker.com/culture/personal-history/love-and-magic-or-a-trip-to-the-circus",
@@ -7193,18 +7205,6 @@
             "title": "用T4從數據庫中自動生成POCOs",
             "summary": "Automatically Generate POCOs From DB With T4",
             "date_modified": "2013-10-16T21:35:51.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/mvc4-conditional-html-attributes/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/mvc4-conditional-html-attributes/",
-            "title": "MVC4的條件性HTML屬性",
-            "summary": "MVC4 Conditional HTML Attributes",
-            "date_modified": "2013-11-27T00:34:25.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"
