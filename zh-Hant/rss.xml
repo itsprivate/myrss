@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 22 Mar 2022 10:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 10:35:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,34 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[愛與魔法；或，馬戲團之旅]]></title>
+            <link>https://www.newyorker.com/culture/personal-history/love-and-magic-or-a-trip-to-the-circus</link>
+            <guid>https://www.newyorker.com/culture/personal-history/love-and-magic-or-a-trip-to-the-circus</guid>
+            <pubDate>Tue, 22 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Love and Magic; or, A Trip to the Circus]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我們即將治癒鐮狀細胞病嗎？]]></title>
+            <link>https://www.newyorker.com/science/annals-of-medicine/are-we-about-to-cure-sickle-cell-disease</link>
+            <guid>https://www.newyorker.com/science/annals-of-medicine/are-we-about-to-cure-sickle-cell-disease</guid>
+            <pubDate>Tue, 22 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Are We About to Cure Sickle-Cell Disease?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[紐約客》應用程序現已登陸安卓系統]]></title>
+            <link>https://www.newyorker.com/news/news-desk/the-new-yorker-app-is-now-available-on-android</link>
+            <guid>https://www.newyorker.com/news/news-desk/the-new-yorker-app-is-now-available-on-android</guid>
+            <pubDate>Tue, 22 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The New Yorker App Is Now Available on Android]]></description>
+        </item>
+        <item>
+            <title><![CDATA[西方新聞如何繞過普京的數字鐵幕]]></title>
+            <link>https://www.theatlantic.com/international/archive/2022/03/international-news-russia-kremlin-media-censorship/627120/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/international/archive/2022/03/international-news-russia-kremlin-media-censorship/627120/?utm_source=feed</guid>
+            <pubDate>Tue, 22 Mar 2022 10:27:08 GMT</pubDate>
+            <description><![CDATA[How Western News Is Getting Around Putin's Digital Iron Curtain]]></description>
+        </item>
         <item>
             <title><![CDATA[落名：2022年3月22日，星期二]]></title>
             <link>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/22</link>
@@ -4185,34 +4213,6 @@
             <guid>https://www.davidhaney.io/mvc4-conditional-html-attributes/</guid>
             <pubDate>Wed, 27 Nov 2013 00:34:25 GMT</pubDate>
             <description><![CDATA[MVC4 Conditional HTML Attributes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[關於SimplSockets的InfoQ採訪]]></title>
-            <link>https://www.davidhaney.io/interview-with-infoq-on-simplsockets/</link>
-            <guid>https://www.davidhaney.io/interview-with-infoq-on-simplsockets/</guid>
-            <pubDate>Wed, 11 Dec 2013 10:54:43 GMT</pubDate>
-            <description><![CDATA[Interview with InfoQ on SimplSockets]]></description>
-        </item>
-        <item>
-            <title><![CDATA[當ModelState.IsValid為假時觸發IValidatableObject.Validate]]></title>
-            <link>https://www.davidhaney.io/trigger-ivalidatableobject-validate-when-modelstate-isvalid-is-false/</link>
-            <guid>https://www.davidhaney.io/trigger-ivalidatableobject-validate-when-modelstate-isvalid-is-false/</guid>
-            <pubDate>Wed, 05 Feb 2014 15:55:40 GMT</pubDate>
-            <description><![CDATA[Trigger IValidatableObject.Validate When ModelState.IsValid is false]]></description>
-        </item>
-        <item>
-            <title><![CDATA[C#可能會得到新的 "安全導航 "操作符"？"。]]></title>
-            <link>https://www.davidhaney.io/c-probably-getting-new-safe-navigation-operator/</link>
-            <guid>https://www.davidhaney.io/c-probably-getting-new-safe-navigation-operator/</guid>
-            <pubDate>Fri, 28 Feb 2014 11:47:08 GMT</pubDate>
-            <description><![CDATA[C# Probably Getting New "Safe Navigation" Operator "?."]]></description>
-        </item>
-        <item>
-            <title><![CDATA[是否加入Node.js？]]></title>
-            <link>https://www.davidhaney.io/to-node-js-or-not-to-node-js/</link>
-            <guid>https://www.davidhaney.io/to-node-js-or-not-to-node-js/</guid>
-            <pubDate>Mon, 24 Mar 2014 16:41:25 GMT</pubDate>
-            <description><![CDATA[To Node.js Or Not To Node.js]]></description>
         </item>
     </channel>
 </rss>

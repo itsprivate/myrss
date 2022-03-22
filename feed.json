@@ -11,6 +11,54 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/culture/personal-history/love-and-magic-or-a-trip-to-the-circus",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/personal-history/love-and-magic-or-a-trip-to-the-circus",
+            "title": "爱与魔法；或，马戏团之旅",
+            "summary": "Love and Magic; or, A Trip to the Circus",
+            "date_modified": "2022-03-22T10:00:00.000Z",
+            "author": {
+                "name": "Isaac Bashevis Singer",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/science/annals-of-medicine/are-we-about-to-cure-sickle-cell-disease",
+            "content_html": "",
+            "url": "https://www.newyorker.com/science/annals-of-medicine/are-we-about-to-cure-sickle-cell-disease",
+            "title": "我们即将治愈镰状细胞病吗？",
+            "summary": "Are We About to Cure Sickle-Cell Disease?",
+            "date_modified": "2022-03-22T10:00:00.000Z",
+            "author": {
+                "name": "Dhruv Khullar",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/news-desk/the-new-yorker-app-is-now-available-on-android",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/news-desk/the-new-yorker-app-is-now-available-on-android",
+            "title": "纽约客》应用程序现已登陆安卓系统",
+            "summary": "The New Yorker App Is Now Available on Android",
+            "date_modified": "2022-03-22T10:00:00.000Z",
+            "author": {
+                "name": "The New Yorker",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/international/archive/2022/03/international-news-russia-kremlin-media-censorship/627120/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/international/archive/2022/03/international-news-russia-kremlin-media-censorship/627120/?utm_source=feed",
+            "title": "西方新闻如何绕过普京的数字铁幕",
+            "summary": "How Western News Is Getting Around Putin's Digital Iron Curtain",
+            "date_modified": "2022-03-22T10:27:08.000Z",
+            "author": {
+                "name": "Yasmeen Serhan",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/22",
             "content_html": "",
             "url": "https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/22",
@@ -7157,54 +7205,6 @@
             "title": "MVC4的条件性HTML属性",
             "summary": "MVC4 Conditional HTML Attributes",
             "date_modified": "2013-11-27T00:34:25.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/interview-with-infoq-on-simplsockets/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/interview-with-infoq-on-simplsockets/",
-            "title": "关于SimplSockets的InfoQ采访",
-            "summary": "Interview with InfoQ on SimplSockets",
-            "date_modified": "2013-12-11T10:54:43.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/trigger-ivalidatableobject-validate-when-modelstate-isvalid-is-false/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/trigger-ivalidatableobject-validate-when-modelstate-isvalid-is-false/",
-            "title": "当ModelState.IsValid为假时触发IValidatableObject.Validate",
-            "summary": "Trigger IValidatableObject.Validate When ModelState.IsValid is false",
-            "date_modified": "2014-02-05T15:55:40.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/c-probably-getting-new-safe-navigation-operator/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/c-probably-getting-new-safe-navigation-operator/",
-            "title": "C#可能会得到新的 \"安全导航 \"操作符\"？\"。",
-            "summary": "C# Probably Getting New \"Safe Navigation\" Operator \"?.\"",
-            "date_modified": "2014-02-28T11:47:08.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/to-node-js-or-not-to-node-js/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/to-node-js-or-not-to-node-js/",
-            "title": "是否加入Node.js？",
-            "summary": "To Node.js Or Not To Node.js",
-            "date_modified": "2014-03-24T16:41:25.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"
