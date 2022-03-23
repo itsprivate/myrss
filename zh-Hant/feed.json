@@ -19,6 +19,54 @@
             "date_modified": "2022-03-23T10:00:00.000Z",
             "author": {
                 "name": "Susan Orlean",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/culture/the-new-yorker-documentary/searching-for-treasure-and-purpose-in-the-rockies",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/the-new-yorker-documentary/searching-for-treasure-and-purpose-in-the-rockies",
+            "title": "在落基山脈尋找寶藏和目標",
+            "summary": "Searching for Treasure and Purpose in the Rockies",
+            "date_modified": "2022-03-23T10:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/culture/culture-desk/what-drive-my-car-reveals-on-a-second-viewing",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/culture-desk/what-drive-my-car-reveals-on-a-second-viewing",
+            "title": "駕駛我的車 \"在第二次觀看時揭示了什麼",
+            "summary": "What “Drive My Car” Reveals on a Second Viewing",
+            "date_modified": "2022-03-23T10:00:00.000Z",
+            "author": {
+                "name": "Kevin Dettmar",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://blackgnu.net/palemoon-hardening.html",
+            "content_html": "",
+            "url": "https://blackgnu.net/palemoon-hardening.html",
+            "title": "蒼月淬鍊指南",
+            "summary": "Pale Moon Hardening Guide",
+            "date_modified": "2022-03-08T00:00:00.000Z",
+            "author": {
+                "name": "Werwolf",
+                "url": "https://blackgnu.net/atom.xml"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/afterword/the-husband-and-wife-whose-restaurant-gave-the-world-tiramisu",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/afterword/the-husband-and-wife-whose-restaurant-gave-the-world-tiramisu",
+            "title": "丈夫和妻子的餐廳為世界帶來了提拉米蘇",
+            "summary": "The Husband and Wife Whose Restaurant Gave the World Tiramisu",
+            "date_modified": "2022-03-23T10:00:00.000Z",
+            "author": {
+                "name": "Susan Orlean",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         },
@@ -7159,54 +7207,6 @@
             "date_modified": "2022-03-10T19:00:00.000Z",
             "author": {
                 "name": "Ginny Hogan, Lex Singer",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/video/watch/the-new-yorker-documentary-the-unjust-relationship-between-capitalism-and-blackness-2022-01-28",
-            "content_html": "",
-            "url": "https://www.newyorker.com/video/watch/the-new-yorker-documentary-the-unjust-relationship-between-capitalism-and-blackness-2022-01-28",
-            "title": "資本主義與黑人之間的不公正關係",
-            "summary": "The Unjust Relationship Between Capitalism and Blackness",
-            "date_modified": "2022-02-02T11:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/video/watch/the-new-yorker-documentary-how-oysters-can-help-fight-climate-change",
-            "content_html": "",
-            "url": "https://www.newyorker.com/video/watch/the-new-yorker-documentary-how-oysters-can-help-fight-climate-change",
-            "title": "牡蠣如何幫助對抗氣候變化",
-            "summary": "How Oysters Can Help Fight Climate Change",
-            "date_modified": "2022-02-23T11:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/video/watch/the-new-yorker-documentary-the-reasons-behind-an-immigrants-inclination-to-qanon",
-            "content_html": "",
-            "url": "https://www.newyorker.com/video/watch/the-new-yorker-documentary-the-reasons-behind-an-immigrants-inclination-to-qanon",
-            "title": "QAnon對一個美國移民的誘惑力",
-            "summary": "The Allure of QAnon for a U.S. Immigrant",
-            "date_modified": "2022-03-02T11:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/video/watch/i-never-had-dreams-of-my-son",
-            "content_html": "",
-            "url": "https://www.newyorker.com/video/watch/i-never-had-dreams-of-my-son",
-            "title": "一名士兵在烏克蘭失蹤，他的父親能否找到他？",
-            "summary": "A Soldier Goes Missing in Ukraine—Can His Father Find Him?",
-            "date_modified": "2022-03-09T11:00:00.000Z",
-            "author": {
-                "name": "unknown",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

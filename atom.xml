@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-23T10:16:14.834Z</updated>
+    <updated>2022-03-23T10:38:56.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[丈夫和妻子的餐厅为世界带来了提拉米苏]]></title>
+        <id>https://www.newyorker.com/news/afterword/the-husband-and-wife-whose-restaurant-gave-the-world-tiramisu</id>
+        <link href="https://www.newyorker.com/news/afterword/the-husband-and-wife-whose-restaurant-gave-the-world-tiramisu"/>
+        <updated>2022-03-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Husband and Wife Whose Restaurant Gave the World Tiramisu]]></summary>
+        <author>
+            <name>Susan Orlean</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在落基山脉寻找宝藏和目标]]></title>
+        <id>https://www.newyorker.com/culture/the-new-yorker-documentary/searching-for-treasure-and-purpose-in-the-rockies</id>
+        <link href="https://www.newyorker.com/culture/the-new-yorker-documentary/searching-for-treasure-and-purpose-in-the-rockies"/>
+        <updated>2022-03-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Searching for Treasure and Purpose in the Rockies]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[驾驶我的车 "在第二次观看时揭示了什么]]></title>
+        <id>https://www.newyorker.com/culture/culture-desk/what-drive-my-car-reveals-on-a-second-viewing</id>
+        <link href="https://www.newyorker.com/culture/culture-desk/what-drive-my-car-reveals-on-a-second-viewing"/>
+        <updated>2022-03-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What “Drive My Car” Reveals on a Second Viewing]]></summary>
+        <author>
+            <name>Kevin Dettmar</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苍月淬炼指南]]></title>
+        <id>https://blackgnu.net/palemoon-hardening.html</id>
+        <link href="https://blackgnu.net/palemoon-hardening.html"/>
+        <updated>2022-03-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pale Moon Hardening Guide]]></summary>
+        <author>
+            <name>Werwolf</name>
+            <uri>https://blackgnu.net/atom.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[丈夫和妻子的餐厅为世界带来了提拉米苏]]></title>
         <id>https://www.newyorker.com/news/afterword/the-husband-and-wife-whose-restaurant-gave-the-world-tiramisu</id>
@@ -6568,50 +6612,6 @@
         <summary type="html"><![CDATA[Thoughts I Had During My Failed Attempts to Enjoy Nature]]></summary>
         <author>
             <name>Ginny Hogan, Lex Singer</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[资本主义与黑人之间的不公正关系]]></title>
-        <id>https://www.newyorker.com/video/watch/the-new-yorker-documentary-the-unjust-relationship-between-capitalism-and-blackness-2022-01-28</id>
-        <link href="https://www.newyorker.com/video/watch/the-new-yorker-documentary-the-unjust-relationship-between-capitalism-and-blackness-2022-01-28"/>
-        <updated>2022-02-02T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Unjust Relationship Between Capitalism and Blackness]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[牡蛎如何帮助对抗气候变化]]></title>
-        <id>https://www.newyorker.com/video/watch/the-new-yorker-documentary-how-oysters-can-help-fight-climate-change</id>
-        <link href="https://www.newyorker.com/video/watch/the-new-yorker-documentary-how-oysters-can-help-fight-climate-change"/>
-        <updated>2022-02-23T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How Oysters Can Help Fight Climate Change]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QAnon对一个美国移民的诱惑力]]></title>
-        <id>https://www.newyorker.com/video/watch/the-new-yorker-documentary-the-reasons-behind-an-immigrants-inclination-to-qanon</id>
-        <link href="https://www.newyorker.com/video/watch/the-new-yorker-documentary-the-reasons-behind-an-immigrants-inclination-to-qanon"/>
-        <updated>2022-03-02T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Allure of QAnon for a U.S. Immigrant]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一名士兵在乌克兰失踪，他的父亲能否找到他？]]></title>
-        <id>https://www.newyorker.com/video/watch/i-never-had-dreams-of-my-son</id>
-        <link href="https://www.newyorker.com/video/watch/i-never-had-dreams-of-my-son"/>
-        <updated>2022-03-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A Soldier Goes Missing in Ukraine—Can His Father Find Him?]]></summary>
-        <author>
-            <name>unknown</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
