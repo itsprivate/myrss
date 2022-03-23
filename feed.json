@@ -11,6 +11,54 @@
     },
     "items": [
         {
+            "id": "https://blackgnu.net/ratpoison.html",
+            "content_html": "",
+            "url": "https://blackgnu.net/ratpoison.html",
+            "title": "鼠药。杀死老鼠",
+            "summary": "Ratpoison: Kill the rat",
+            "date_modified": "2021-04-24T00:00:00.000Z",
+            "author": {
+                "name": "Werwolf",
+                "url": "https://blackgnu.net/atom.xml"
+            }
+        },
+        {
+            "id": "https://blackgnu.net/you-dont-need-a-new-computer.html",
+            "content_html": "",
+            "url": "https://blackgnu.net/you-dont-need-a-new-computer.html",
+            "title": "你不需要一台新电脑",
+            "summary": "You don't need a new computer",
+            "date_modified": "2021-04-27T00:00:00.000Z",
+            "author": {
+                "name": "Werwolf",
+                "url": "https://blackgnu.net/atom.xml"
+            }
+        },
+        {
+            "id": "https://blackgnu.net/systemd-sucks.html",
+            "content_html": "",
+            "url": "https://blackgnu.net/systemd-sucks.html",
+            "title": "Systemd，一个你应该避免的烂东西",
+            "summary": "Systemd, a piece of shit you should avoid",
+            "date_modified": "2021-05-09T00:00:00.000Z",
+            "author": {
+                "name": "Werwolf",
+                "url": "https://blackgnu.net/atom.xml"
+            }
+        },
+        {
+            "id": "https://blackgnu.net/firefox-hardening-guide.html",
+            "content_html": "",
+            "url": "https://blackgnu.net/firefox-hardening-guide.html",
+            "title": "火狐浏览器加固指南",
+            "summary": "Firefox Hardening Guide",
+            "date_modified": "2021-05-25T00:00:00.000Z",
+            "author": {
+                "name": "Werwolf",
+                "url": "https://blackgnu.net/atom.xml"
+            }
+        },
+        {
             "id": "https://blackgnu.net/brave-is-shit.html",
             "content_html": "",
             "url": "https://blackgnu.net/brave-is-shit.html",
@@ -7157,54 +7205,6 @@
             "title": "书评。一段名为帝国的记忆",
             "summary": "Book Review: A Memory Called Empire",
             "date_modified": "2020-09-22T02:54:22.000Z",
-            "author": {
-                "name": "moore",
-                "url": "http://edit.mooreds.com/wordpress/feed"
-            }
-        },
-        {
-            "id": "https://www.mooreds.com/wordpress/archives/3395",
-            "content_html": "",
-            "url": "https://www.mooreds.com/wordpress/archives/3395",
-            "title": "快速浏览xkit",
-            "summary": "A quick look at xkit",
-            "date_modified": "2020-10-17T12:34:24.000Z",
-            "author": {
-                "name": "moore",
-                "url": "http://edit.mooreds.com/wordpress/feed"
-            }
-        },
-        {
-            "id": "https://www.mooreds.com/wordpress/archives/3398",
-            "content_html": "",
-            "url": "https://www.mooreds.com/wordpress/archives/3398",
-            "title": "书评。生活中的算法",
-            "summary": "Book Review: Algorithms to live by",
-            "date_modified": "2020-11-11T12:34:00.000Z",
-            "author": {
-                "name": "moore",
-                "url": "http://edit.mooreds.com/wordpress/feed"
-            }
-        },
-        {
-            "id": "https://www.mooreds.com/wordpress/archives/3405",
-            "content_html": "",
-            "url": "https://www.mooreds.com/wordpress/archives/3405",
-            "title": "书评。布谷鸟的蛋",
-            "summary": "Book Review: The Cuckoo’s Egg",
-            "date_modified": "2020-12-09T13:10:00.000Z",
-            "author": {
-                "name": "moore",
-                "url": "http://edit.mooreds.com/wordpress/feed"
-            }
-        },
-        {
-            "id": "https://www.mooreds.com/wordpress/archives/3409",
-            "content_html": "",
-            "url": "https://www.mooreds.com/wordpress/archives/3409",
-            "title": "最不被重视的AWS服务",
-            "summary": "The most underappreciated AWS service",
-            "date_modified": "2021-01-20T16:35:00.000Z",
             "author": {
                 "name": "moore",
                 "url": "http://edit.mooreds.com/wordpress/feed"

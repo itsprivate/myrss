@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-23T10:52:57.507Z</updated>
+    <updated>2022-03-23T11:12:59.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[鼠藥。殺死老鼠]]></title>
+        <id>https://blackgnu.net/ratpoison.html</id>
+        <link href="https://blackgnu.net/ratpoison.html"/>
+        <updated>2021-04-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ratpoison: Kill the rat]]></summary>
+        <author>
+            <name>Werwolf</name>
+            <uri>https://blackgnu.net/atom.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你不需要一臺新電腦]]></title>
+        <id>https://blackgnu.net/you-dont-need-a-new-computer.html</id>
+        <link href="https://blackgnu.net/you-dont-need-a-new-computer.html"/>
+        <updated>2021-04-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You don't need a new computer]]></summary>
+        <author>
+            <name>Werwolf</name>
+            <uri>https://blackgnu.net/atom.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Systemd，一個你應該避免的爛東西]]></title>
+        <id>https://blackgnu.net/systemd-sucks.html</id>
+        <link href="https://blackgnu.net/systemd-sucks.html"/>
+        <updated>2021-05-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Systemd, a piece of shit you should avoid]]></summary>
+        <author>
+            <name>Werwolf</name>
+            <uri>https://blackgnu.net/atom.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[火狐瀏覽器加固指南]]></title>
+        <id>https://blackgnu.net/firefox-hardening-guide.html</id>
+        <link href="https://blackgnu.net/firefox-hardening-guide.html"/>
+        <updated>2021-05-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Firefox Hardening Guide]]></summary>
+        <author>
+            <name>Werwolf</name>
+            <uri>https://blackgnu.net/atom.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[勇敢的，虛假的隱私感覺]]></title>
         <id>https://blackgnu.net/brave-is-shit.html</id>
@@ -6566,50 +6610,6 @@
         <link href="https://www.mooreds.com/wordpress/archives/3392"/>
         <updated>2020-09-22T02:54:22.000Z</updated>
         <summary type="html"><![CDATA[Book Review: A Memory Called Empire]]></summary>
-        <author>
-            <name>moore</name>
-            <uri>http://edit.mooreds.com/wordpress/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[快速瀏覽xkit]]></title>
-        <id>https://www.mooreds.com/wordpress/archives/3395</id>
-        <link href="https://www.mooreds.com/wordpress/archives/3395"/>
-        <updated>2020-10-17T12:34:24.000Z</updated>
-        <summary type="html"><![CDATA[A quick look at xkit]]></summary>
-        <author>
-            <name>moore</name>
-            <uri>http://edit.mooreds.com/wordpress/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[書評。生活中的算法]]></title>
-        <id>https://www.mooreds.com/wordpress/archives/3398</id>
-        <link href="https://www.mooreds.com/wordpress/archives/3398"/>
-        <updated>2020-11-11T12:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Book Review: Algorithms to live by]]></summary>
-        <author>
-            <name>moore</name>
-            <uri>http://edit.mooreds.com/wordpress/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[書評。布穀鳥的蛋]]></title>
-        <id>https://www.mooreds.com/wordpress/archives/3405</id>
-        <link href="https://www.mooreds.com/wordpress/archives/3405"/>
-        <updated>2020-12-09T13:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Book Review: The Cuckoo’s Egg]]></summary>
-        <author>
-            <name>moore</name>
-            <uri>http://edit.mooreds.com/wordpress/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最不被重視的AWS服務]]></title>
-        <id>https://www.mooreds.com/wordpress/archives/3409</id>
-        <link href="https://www.mooreds.com/wordpress/archives/3409"/>
-        <updated>2021-01-20T16:35:00.000Z</updated>
-        <summary type="html"><![CDATA[The most underappreciated AWS service]]></summary>
         <author>
             <name>moore</name>
             <uri>http://edit.mooreds.com/wordpress/feed</uri>

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 23 Mar 2022 10:52:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 11:12:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,34 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[鼠药。杀死老鼠]]></title>
+            <link>https://blackgnu.net/ratpoison.html</link>
+            <guid>https://blackgnu.net/ratpoison.html</guid>
+            <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Ratpoison: Kill the rat]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你不需要一台新电脑]]></title>
+            <link>https://blackgnu.net/you-dont-need-a-new-computer.html</link>
+            <guid>https://blackgnu.net/you-dont-need-a-new-computer.html</guid>
+            <pubDate>Tue, 27 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[You don't need a new computer]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Systemd，一个你应该避免的烂东西]]></title>
+            <link>https://blackgnu.net/systemd-sucks.html</link>
+            <guid>https://blackgnu.net/systemd-sucks.html</guid>
+            <pubDate>Sun, 09 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Systemd, a piece of shit you should avoid]]></description>
+        </item>
+        <item>
+            <title><![CDATA[火狐浏览器加固指南]]></title>
+            <link>https://blackgnu.net/firefox-hardening-guide.html</link>
+            <guid>https://blackgnu.net/firefox-hardening-guide.html</guid>
+            <pubDate>Tue, 25 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Firefox Hardening Guide]]></description>
+        </item>
         <item>
             <title><![CDATA[勇敢的，虚假的隐私感觉]]></title>
             <link>https://blackgnu.net/brave-is-shit.html</link>
@@ -4185,34 +4213,6 @@
             <guid>https://www.mooreds.com/wordpress/archives/3392</guid>
             <pubDate>Tue, 22 Sep 2020 02:54:22 GMT</pubDate>
             <description><![CDATA[Book Review: A Memory Called Empire]]></description>
-        </item>
-        <item>
-            <title><![CDATA[快速浏览xkit]]></title>
-            <link>https://www.mooreds.com/wordpress/archives/3395</link>
-            <guid>https://www.mooreds.com/wordpress/archives/3395</guid>
-            <pubDate>Sat, 17 Oct 2020 12:34:24 GMT</pubDate>
-            <description><![CDATA[A quick look at xkit]]></description>
-        </item>
-        <item>
-            <title><![CDATA[书评。生活中的算法]]></title>
-            <link>https://www.mooreds.com/wordpress/archives/3398</link>
-            <guid>https://www.mooreds.com/wordpress/archives/3398</guid>
-            <pubDate>Wed, 11 Nov 2020 12:34:00 GMT</pubDate>
-            <description><![CDATA[Book Review: Algorithms to live by]]></description>
-        </item>
-        <item>
-            <title><![CDATA[书评。布谷鸟的蛋]]></title>
-            <link>https://www.mooreds.com/wordpress/archives/3405</link>
-            <guid>https://www.mooreds.com/wordpress/archives/3405</guid>
-            <pubDate>Wed, 09 Dec 2020 13:10:00 GMT</pubDate>
-            <description><![CDATA[Book Review: The Cuckoo’s Egg]]></description>
-        </item>
-        <item>
-            <title><![CDATA[最不被重视的AWS服务]]></title>
-            <link>https://www.mooreds.com/wordpress/archives/3409</link>
-            <guid>https://www.mooreds.com/wordpress/archives/3409</guid>
-            <pubDate>Wed, 20 Jan 2021 16:35:00 GMT</pubDate>
-            <description><![CDATA[The most underappreciated AWS service]]></description>
         </item>
     </channel>
 </rss>
