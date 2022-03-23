@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 23 Mar 2022 19:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 19:39:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[男人不接受治療，簡直會有完全不同的心理過程]]></title>
+            <link>https://astralcodexten.substack.com/p/men-will-literally-have-completely</link>
+            <guid>https://astralcodexten.substack.com/p/men-will-literally-have-completely</guid>
+            <pubDate>Wed, 23 Mar 2022 19:35:09 GMT</pubDate>
+            <description><![CDATA[Men Will Literally Have Completely Different Mental Processes Instead Of Going To Therapy]]></description>
+        </item>
         <item>
             <title><![CDATA[我曾試圖領導一個有道德的明星國家]]></title>
             <link>https://www.currentaffairs.org/2022/03/i-tried-to-lead-an-ethical-star-nation/</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/magazine/archive/2022/04/paul-yoon-short-story-cromer/622828/?utm_source=feed</guid>
             <pubDate>Fri, 11 Mar 2022 11:00:56 GMT</pubDate>
             <description><![CDATA[Cromer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[烏克蘭-俄羅斯危機的核詞彙]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/nuclear-glossary-ukraine-russia-crisis/627025/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/nuclear-glossary-ukraine-russia-crisis/627025/?utm_source=feed</guid>
-            <pubDate>Fri, 11 Mar 2022 11:00:56 GMT</pubDate>
-            <description><![CDATA[A Nuclear Glossary for the Ukraine-Russia Crisis]]></description>
         </item>
     </channel>
 </rss>
