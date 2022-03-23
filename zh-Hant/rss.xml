@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 23 Mar 2022 11:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 11:28:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,34 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[蘭德爾-肯尼迪談為什麼批判性種族理論很重要]]></title>
+            <link>https://www.currentaffairs.org/2022/03/randall-kennedy-on-why-critical-race-theory-is-important/</link>
+            <guid>https://www.currentaffairs.org/2022/03/randall-kennedy-on-why-critical-race-theory-is-important/</guid>
+            <pubDate>Wed, 02 Mar 2022 20:38:36 GMT</pubDate>
+            <description><![CDATA[Randall Kennedy on Why Critical Race Theory is Important]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我們能否就俄羅斯問題進行一次明智的成人對話？]]></title>
+            <link>https://www.currentaffairs.org/2022/03/can-we-have-an-intelligent-adult-conversation-about-russia/</link>
+            <guid>https://www.currentaffairs.org/2022/03/can-we-have-an-intelligent-adult-conversation-about-russia/</guid>
+            <pubDate>Fri, 04 Mar 2022 23:43:25 GMT</pubDate>
+            <description><![CDATA[Can We Have an Intelligent Adult Conversation About Russia?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[認真對待第三次世界大戰]]></title>
+            <link>https://www.currentaffairs.org/2022/03/taking-world-war-iii-seriously/</link>
+            <guid>https://www.currentaffairs.org/2022/03/taking-world-war-iii-seriously/</guid>
+            <pubDate>Mon, 07 Mar 2022 13:48:24 GMT</pubDate>
+            <description><![CDATA[Taking World War III Seriously]]></description>
+        </item>
+        <item>
+            <title><![CDATA[卡特琳娜-範登赫維爾談俄羅斯、烏克蘭和核化世界中的外交需要]]></title>
+            <link>https://www.currentaffairs.org/2022/03/katrina-vanden-heuvel-on-russia-ukraine-and-the-need-for-diplomacy-in-a-nuclearized-world/</link>
+            <guid>https://www.currentaffairs.org/2022/03/katrina-vanden-heuvel-on-russia-ukraine-and-the-need-for-diplomacy-in-a-nuclearized-world/</guid>
+            <pubDate>Tue, 08 Mar 2022 21:20:35 GMT</pubDate>
+            <description><![CDATA[Katrina vanden Heuvel on Russia, Ukraine, and the Need for Diplomacy in a Nuclearized World]]></description>
+        </item>
         <item>
             <title><![CDATA[鼠藥。殺死老鼠]]></title>
             <link>https://blackgnu.net/ratpoison.html</link>
@@ -4185,34 +4213,6 @@
             <guid>https://astralcodexten.substack.com/p/advice-for-unwoke-academic</guid>
             <pubDate>Thu, 10 Mar 2022 07:47:30 GMT</pubDate>
             <description><![CDATA[Advice For Unwoke Academic?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[黃體酮大劑量可能是一種廉價的Zulresso替代物]]></title>
-            <link>https://astralcodexten.substack.com/p/progesterone-megadoses-might-be-a</link>
-            <guid>https://astralcodexten.substack.com/p/progesterone-megadoses-might-be-a</guid>
-            <pubDate>Thu, 10 Mar 2022 21:13:58 GMT</pubDate>
-            <description><![CDATA[Progesterone Megadoses Might Be A Cheap Zulresso Substitute]]></description>
-        </item>
-        <item>
-            <title><![CDATA[關於靜態網站生成器和WordPress的思考]]></title>
-            <link>https://www.mooreds.com/wordpress/archives/3369</link>
-            <guid>https://www.mooreds.com/wordpress/archives/3369</guid>
-            <pubDate>Fri, 17 Jul 2020 21:32:24 GMT</pubDate>
-            <description><![CDATA[Thoughts on static site generators and WordPress]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我希望我在剛開始做開發時就知道的事]]></title>
-            <link>https://www.mooreds.com/wordpress/archives/3376</link>
-            <guid>https://www.mooreds.com/wordpress/archives/3376</guid>
-            <pubDate>Sun, 02 Aug 2020 15:59:53 GMT</pubDate>
-            <description><![CDATA[What I wish I had known when I was starting out as a developer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[書評。一段名為帝國的記憶]]></title>
-            <link>https://www.mooreds.com/wordpress/archives/3392</link>
-            <guid>https://www.mooreds.com/wordpress/archives/3392</guid>
-            <pubDate>Tue, 22 Sep 2020 02:54:22 GMT</pubDate>
-            <description><![CDATA[Book Review: A Memory Called Empire]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-23T11:12:59.121Z</updated>
+    <updated>2022-03-23T11:28:34.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[兰德尔-肯尼迪谈为什么批判性种族理论很重要]]></title>
+        <id>https://www.currentaffairs.org/2022/03/randall-kennedy-on-why-critical-race-theory-is-important/</id>
+        <link href="https://www.currentaffairs.org/2022/03/randall-kennedy-on-why-critical-race-theory-is-important/"/>
+        <updated>2022-03-02T20:38:36.000Z</updated>
+        <summary type="html"><![CDATA[Randall Kennedy on Why Critical Race Theory is Important]]></summary>
+        <author>
+            <name>Current Affairs</name>
+            <uri>https://www.currentaffairs.org/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们能否就俄罗斯问题进行一次明智的成人对话？]]></title>
+        <id>https://www.currentaffairs.org/2022/03/can-we-have-an-intelligent-adult-conversation-about-russia/</id>
+        <link href="https://www.currentaffairs.org/2022/03/can-we-have-an-intelligent-adult-conversation-about-russia/"/>
+        <updated>2022-03-04T23:43:25.000Z</updated>
+        <summary type="html"><![CDATA[Can We Have an Intelligent Adult Conversation About Russia?]]></summary>
+        <author>
+            <name>Nathan J. Robinson</name>
+            <uri>https://www.currentaffairs.org/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[认真对待第三次世界大战]]></title>
+        <id>https://www.currentaffairs.org/2022/03/taking-world-war-iii-seriously/</id>
+        <link href="https://www.currentaffairs.org/2022/03/taking-world-war-iii-seriously/"/>
+        <updated>2022-03-07T13:48:24.000Z</updated>
+        <summary type="html"><![CDATA[Taking World War III Seriously]]></summary>
+        <author>
+            <name>Nathan J. Robinson</name>
+            <uri>https://www.currentaffairs.org/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[卡特琳娜-范登赫维尔谈俄罗斯、乌克兰和核化世界中的外交需要]]></title>
+        <id>https://www.currentaffairs.org/2022/03/katrina-vanden-heuvel-on-russia-ukraine-and-the-need-for-diplomacy-in-a-nuclearized-world/</id>
+        <link href="https://www.currentaffairs.org/2022/03/katrina-vanden-heuvel-on-russia-ukraine-and-the-need-for-diplomacy-in-a-nuclearized-world/"/>
+        <updated>2022-03-08T21:20:35.000Z</updated>
+        <summary type="html"><![CDATA[Katrina vanden Heuvel on Russia, Ukraine, and the Need for Diplomacy in a Nuclearized World]]></summary>
+        <author>
+            <name>Current Affairs</name>
+            <uri>https://www.currentaffairs.org/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鼠药。杀死老鼠]]></title>
         <id>https://blackgnu.net/ratpoison.html</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>Scott Alexander</name>
             <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黄体酮大剂量可能是一种廉价的Zulresso替代物]]></title>
-        <id>https://astralcodexten.substack.com/p/progesterone-megadoses-might-be-a</id>
-        <link href="https://astralcodexten.substack.com/p/progesterone-megadoses-might-be-a"/>
-        <updated>2022-03-10T21:13:58.000Z</updated>
-        <summary type="html"><![CDATA[Progesterone Megadoses Might Be A Cheap Zulresso Substitute]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于静态网站生成器和WordPress的思考]]></title>
-        <id>https://www.mooreds.com/wordpress/archives/3369</id>
-        <link href="https://www.mooreds.com/wordpress/archives/3369"/>
-        <updated>2020-07-17T21:32:24.000Z</updated>
-        <summary type="html"><![CDATA[Thoughts on static site generators and WordPress]]></summary>
-        <author>
-            <name>moore</name>
-            <uri>http://edit.mooreds.com/wordpress/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我希望我在刚开始做开发时就知道的事]]></title>
-        <id>https://www.mooreds.com/wordpress/archives/3376</id>
-        <link href="https://www.mooreds.com/wordpress/archives/3376"/>
-        <updated>2020-08-02T15:59:53.000Z</updated>
-        <summary type="html"><![CDATA[What I wish I had known when I was starting out as a developer]]></summary>
-        <author>
-            <name>moore</name>
-            <uri>http://edit.mooreds.com/wordpress/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[书评。一段名为帝国的记忆]]></title>
-        <id>https://www.mooreds.com/wordpress/archives/3392</id>
-        <link href="https://www.mooreds.com/wordpress/archives/3392"/>
-        <updated>2020-09-22T02:54:22.000Z</updated>
-        <summary type="html"><![CDATA[Book Review: A Memory Called Empire]]></summary>
-        <author>
-            <name>moore</name>
-            <uri>http://edit.mooreds.com/wordpress/feed</uri>
         </author>
     </entry>
 </feed>
