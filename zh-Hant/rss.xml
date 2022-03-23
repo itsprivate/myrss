@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 23 Mar 2022 13:25:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 13:45:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[是的，你可以讓你的技術在淘汰中倖存下來]]></title>
+            <link>https://www.nytimes.com/2022/03/23/technology/personaltech/tech-obsolescence.html</link>
+            <guid>https://www.nytimes.com/2022/03/23/technology/personaltech/tech-obsolescence.html</guid>
+            <pubDate>Wed, 23 Mar 2022 13:00:13 GMT</pubDate>
+            <description><![CDATA[Yes, You Can Make Your Tech Survive Obsolescence]]></description>
+        </item>
         <item>
             <title><![CDATA[是的，你可以讓你的技術在淘汰中倖存下來]]></title>
             <link>https://www.nytimes.com/2022/03/23/technology/personaltech/tech-survive-obsolescence.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://astralcodexten.substack.com/p/links-for-february</guid>
             <pubDate>Tue, 22 Feb 2022 20:58:45 GMT</pubDate>
             <description><![CDATA[Links For February]]></description>
-        </item>
-        <item>
-            <title><![CDATA[生物錨。一個可能或不可能成功的技巧]]></title>
-            <link>https://astralcodexten.substack.com/p/biological-anchors-a-trick-that-might</link>
-            <guid>https://astralcodexten.substack.com/p/biological-anchors-a-trick-that-might</guid>
-            <pubDate>Wed, 23 Feb 2022 22:56:52 GMT</pubDate>
-            <description><![CDATA[Biological Anchors: A Trick That Might Or Might Not Work]]></description>
         </item>
     </channel>
 </rss>

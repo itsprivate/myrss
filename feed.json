@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/23/technology/personaltech/tech-obsolescence.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/23/technology/personaltech/tech-obsolescence.html",
+            "title": "是的，你可以让你的技术在淘汰中幸存下来",
+            "summary": "Yes, You Can Make Your Tech Survive Obsolescence",
+            "date_modified": "2022-03-23T13:00:13.000Z",
+            "author": {
+                "name": "Brian X. Chen",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/23/technology/personaltech/tech-survive-obsolescence.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/23/technology/personaltech/tech-survive-obsolescence.html",
@@ -7193,18 +7205,6 @@
             "title": "二月份的链接",
             "summary": "Links For February",
             "date_modified": "2022-02-22T20:58:45.000Z",
-            "author": {
-                "name": "Scott Alexander",
-                "url": "https://astralcodexten.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://astralcodexten.substack.com/p/biological-anchors-a-trick-that-might",
-            "content_html": "",
-            "url": "https://astralcodexten.substack.com/p/biological-anchors-a-trick-that-might",
-            "title": "生物锚。一个可能或不可能成功的技巧",
-            "summary": "Biological Anchors: A Trick That Might Or Might Not Work",
-            "date_modified": "2022-02-23T22:56:52.000Z",
             "author": {
                 "name": "Scott Alexander",
                 "url": "https://astralcodexten.substack.com/feed"
