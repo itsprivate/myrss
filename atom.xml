@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-23T20:53:51.888Z</updated>
+    <updated>2022-03-23T21:52:50.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[除 "取消文化 "外，对言论自由的威胁]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/03/the-threat-to-free-speech-beyond-cancel-culture/627599/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/the-threat-to-free-speech-beyond-cancel-culture/627599/?utm_source=feed"/>
+        <updated>2022-03-23T21:45:53.000Z</updated>
+        <summary type="html"><![CDATA[The Threat to Free Speech, Beyond ‘Cancel Culture’]]></summary>
+        <author>
+            <name>Conor Friedersdorf</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拜登政府着眼于俄罗斯，要求企业报告网络攻击行为]]></title>
         <id>https://www.nytimes.com/2022/03/23/us/politics/biden-russia-cyberattacks.html</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[The Friend Who Taught Her She Could Make It as a Single Mom]]></summary>
         <author>
             <name>Julie Beck</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[杰克和尼尔的故事]]></title>
-        <id>https://www.theatlantic.com/magazine/archive/2022/04/jack-kerouac-neal-cassady-friendship/622829/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/magazine/archive/2022/04/jack-kerouac-neal-cassady-friendship/622829/?utm_source=feed"/>
-        <updated>2022-03-11T12:00:57.000Z</updated>
-        <summary type="html"><![CDATA[The Story of Jack and Neal]]></summary>
-        <author>
-            <name>James Parker</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>

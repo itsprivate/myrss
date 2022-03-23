@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/newsletters/archive/2022/03/the-threat-to-free-speech-beyond-cancel-culture/627599/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/newsletters/archive/2022/03/the-threat-to-free-speech-beyond-cancel-culture/627599/?utm_source=feed",
+            "title": "除 \"取消文化 \"外，对言论自由的威胁",
+            "summary": "The Threat to Free Speech, Beyond ‘Cancel Culture’",
+            "date_modified": "2022-03-23T21:45:53.000Z",
+            "author": {
+                "name": "Conor Friedersdorf",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/23/us/politics/biden-russia-cyberattacks.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/23/us/politics/biden-russia-cyberattacks.html",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-11T15:00:57.000Z",
             "author": {
                 "name": "Julie Beck",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/magazine/archive/2022/04/jack-kerouac-neal-cassady-friendship/622829/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/magazine/archive/2022/04/jack-kerouac-neal-cassady-friendship/622829/?utm_source=feed",
-            "title": "杰克和尼尔的故事",
-            "summary": "The Story of Jack and Neal",
-            "date_modified": "2022-03-11T12:00:57.000Z",
-            "author": {
-                "name": "James Parker",
                 "url": "https://www.theatlantic.com/feed/all/"
             }
         }

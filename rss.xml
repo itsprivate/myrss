@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 23 Mar 2022 20:53:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 21:52:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[除 "取消文化 "外，对言论自由的威胁]]></title>
+            <link>https://www.theatlantic.com/newsletters/archive/2022/03/the-threat-to-free-speech-beyond-cancel-culture/627599/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/newsletters/archive/2022/03/the-threat-to-free-speech-beyond-cancel-culture/627599/?utm_source=feed</guid>
+            <pubDate>Wed, 23 Mar 2022 21:45:53 GMT</pubDate>
+            <description><![CDATA[The Threat to Free Speech, Beyond ‘Cancel Culture’]]></description>
+        </item>
         <item>
             <title><![CDATA[拜登政府着眼于俄罗斯，要求企业报告网络攻击行为]]></title>
             <link>https://www.nytimes.com/2022/03/23/us/politics/biden-russia-cyberattacks.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/family/archive/2022/03/sisterhood-between-single-mothers/627027/?utm_source=feed</guid>
             <pubDate>Fri, 11 Mar 2022 15:00:57 GMT</pubDate>
             <description><![CDATA[The Friend Who Taught Her She Could Make It as a Single Mom]]></description>
-        </item>
-        <item>
-            <title><![CDATA[杰克和尼尔的故事]]></title>
-            <link>https://www.theatlantic.com/magazine/archive/2022/04/jack-kerouac-neal-cassady-friendship/622829/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/magazine/archive/2022/04/jack-kerouac-neal-cassady-friendship/622829/?utm_source=feed</guid>
-            <pubDate>Fri, 11 Mar 2022 12:00:57 GMT</pubDate>
-            <description><![CDATA[The Story of Jack and Neal]]></description>
         </item>
     </channel>
 </rss>
