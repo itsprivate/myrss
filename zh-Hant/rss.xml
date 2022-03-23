@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 23 Mar 2022 11:38:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 11:52:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,41 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[關於體驗喬-羅根]]></title>
+            <link>https://www.currentaffairs.org/2022/02/on-experiencing-joe-rogan/</link>
+            <guid>https://www.currentaffairs.org/2022/02/on-experiencing-joe-rogan/</guid>
+            <pubDate>Sat, 12 Feb 2022 11:04:16 GMT</pubDate>
+            <description><![CDATA[On Experiencing Joe Rogan]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美國惡夢購物中心]]></title>
+            <link>https://www.currentaffairs.org/2022/02/the-american-nightmare-mall/</link>
+            <guid>https://www.currentaffairs.org/2022/02/the-american-nightmare-mall/</guid>
+            <pubDate>Tue, 15 Feb 2022 14:38:46 GMT</pubDate>
+            <description><![CDATA[The American Nightmare Mall]]></description>
+        </item>
+        <item>
+            <title><![CDATA[女權主義如何塑造 "收容國"？]]></title>
+            <link>https://www.currentaffairs.org/2022/02/how-feminism-shaped-the-carceral-state/</link>
+            <guid>https://www.currentaffairs.org/2022/02/how-feminism-shaped-the-carceral-state/</guid>
+            <pubDate>Mon, 14 Feb 2022 19:40:09 GMT</pubDate>
+            <description><![CDATA[How Feminism Shaped the Carceral State]]></description>
+        </item>
+        <item>
+            <title><![CDATA[否認，直到我們死去]]></title>
+            <link>https://www.currentaffairs.org/2022/02/deny-until-we-die/</link>
+            <guid>https://www.currentaffairs.org/2022/02/deny-until-we-die/</guid>
+            <pubDate>Thu, 17 Feb 2022 13:51:11 GMT</pubDate>
+            <description><![CDATA[Deny Until We Die]]></description>
+        </item>
+        <item>
+            <title><![CDATA[高校可以修復他們創造的破碎的錄取過程]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/03/change-college-acceptance-application-process/627581/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/03/change-college-acceptance-application-process/627581/?utm_source=feed</guid>
+            <pubDate>Wed, 23 Mar 2022 11:31:56 GMT</pubDate>
+            <description><![CDATA[Colleges Can Fix the Broken Admissions Process They Created]]></description>
+        </item>
         <item>
             <title><![CDATA[萬億和萬億。對無盡經濟增長的選擇性失明]]></title>
             <link>https://www.currentaffairs.org/2022/02/trillions-and-trillions-the-selective-blindness-on-endless-economic-growth/</link>
@@ -4178,41 +4213,6 @@
             <guid>https://astralcodexten.substack.com/p/austin-meetup-correction</guid>
             <pubDate>Fri, 25 Feb 2022 20:45:53 GMT</pubDate>
             <description><![CDATA[Austin Meetup Correction]]></description>
-        </item>
-        <item>
-            <title><![CDATA[開放話題213]]></title>
-            <link>https://astralcodexten.substack.com/p/open-thread-213</link>
-            <guid>https://astralcodexten.substack.com/p/open-thread-213</guid>
-            <pubDate>Mon, 28 Feb 2022 08:04:41 GMT</pubDate>
-            <description><![CDATA[Open Thread 213]]></description>
-        </item>
-        <item>
-            <title><![CDATA[烏克蘭的戰爭預測]]></title>
-            <link>https://astralcodexten.substack.com/p/ukraine-warcasting</link>
-            <guid>https://astralcodexten.substack.com/p/ukraine-warcasting</guid>
-            <pubDate>Tue, 01 Mar 2022 07:51:00 GMT</pubDate>
-            <description><![CDATA[Ukraine Warcasting]]></description>
-        </item>
-        <item>
-            <title><![CDATA[微型成癮症]]></title>
-            <link>https://astralcodexten.substack.com/p/microaddictions</link>
-            <guid>https://astralcodexten.substack.com/p/microaddictions</guid>
-            <pubDate>Wed, 02 Mar 2022 06:32:38 GMT</pubDate>
-            <description><![CDATA[Microaddictions]]></description>
-        </item>
-        <item>
-            <title><![CDATA[當我們爭論理性的時候，我們在爭論什麼？]]></title>
-            <link>https://astralcodexten.substack.com/p/what-are-we-arguing-about-when-we</link>
-            <guid>https://astralcodexten.substack.com/p/what-are-we-arguing-about-when-we</guid>
-            <pubDate>Fri, 04 Mar 2022 05:25:00 GMT</pubDate>
-            <description><![CDATA[What Are We Arguing About When We Argue About Rationality?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[隱秘的公開主題213.5]]></title>
-            <link>https://astralcodexten.substack.com/p/hidden-open-thread-2135</link>
-            <guid>https://astralcodexten.substack.com/p/hidden-open-thread-2135</guid>
-            <pubDate>Sat, 05 Mar 2022 01:49:44 GMT</pubDate>
-            <description><![CDATA[Hidden Open Thread 213.5]]></description>
         </item>
     </channel>
 </rss>

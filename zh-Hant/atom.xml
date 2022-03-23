@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-23T11:38:01.374Z</updated>
+    <updated>2022-03-23T11:52:43.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[關於體驗喬-羅根]]></title>
+        <id>https://www.currentaffairs.org/2022/02/on-experiencing-joe-rogan/</id>
+        <link href="https://www.currentaffairs.org/2022/02/on-experiencing-joe-rogan/"/>
+        <updated>2022-02-12T11:04:16.000Z</updated>
+        <summary type="html"><![CDATA[On Experiencing Joe Rogan]]></summary>
+        <author>
+            <name>Nathan J. Robinson</name>
+            <uri>https://www.currentaffairs.org/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美國惡夢購物中心]]></title>
+        <id>https://www.currentaffairs.org/2022/02/the-american-nightmare-mall/</id>
+        <link href="https://www.currentaffairs.org/2022/02/the-american-nightmare-mall/"/>
+        <updated>2022-02-15T14:38:46.000Z</updated>
+        <summary type="html"><![CDATA[The American Nightmare Mall]]></summary>
+        <author>
+            <name>Dan Barrecchia</name>
+            <uri>https://www.currentaffairs.org/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[女權主義如何塑造 "收容國"？]]></title>
+        <id>https://www.currentaffairs.org/2022/02/how-feminism-shaped-the-carceral-state/</id>
+        <link href="https://www.currentaffairs.org/2022/02/how-feminism-shaped-the-carceral-state/"/>
+        <updated>2022-02-14T19:40:09.000Z</updated>
+        <summary type="html"><![CDATA[How Feminism Shaped the Carceral State]]></summary>
+        <author>
+            <name>Current Affairs</name>
+            <uri>https://www.currentaffairs.org/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[否認，直到我們死去]]></title>
+        <id>https://www.currentaffairs.org/2022/02/deny-until-we-die/</id>
+        <link href="https://www.currentaffairs.org/2022/02/deny-until-we-die/"/>
+        <updated>2022-02-17T13:51:11.000Z</updated>
+        <summary type="html"><![CDATA[Deny Until We Die]]></summary>
+        <author>
+            <name>Mickey Butts</name>
+            <uri>https://www.currentaffairs.org/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高校可以修復他們創造的破碎的錄取過程]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/change-college-acceptance-application-process/627581/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/change-college-acceptance-application-process/627581/?utm_source=feed"/>
+        <updated>2022-03-23T11:31:56.000Z</updated>
+        <summary type="html"><![CDATA[Colleges Can Fix the Broken Admissions Process They Created]]></summary>
+        <author>
+            <name>Jeffrey Selingo</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[萬億和萬億。對無盡經濟增長的選擇性失明]]></title>
         <id>https://www.currentaffairs.org/2022/02/trillions-and-trillions-the-selective-blindness-on-endless-economic-growth/</id>
@@ -6555,61 +6610,6 @@
         <link href="https://astralcodexten.substack.com/p/austin-meetup-correction"/>
         <updated>2022-02-25T20:45:53.000Z</updated>
         <summary type="html"><![CDATA[Austin Meetup Correction]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開放話題213]]></title>
-        <id>https://astralcodexten.substack.com/p/open-thread-213</id>
-        <link href="https://astralcodexten.substack.com/p/open-thread-213"/>
-        <updated>2022-02-28T08:04:41.000Z</updated>
-        <summary type="html"><![CDATA[Open Thread 213]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭的戰爭預測]]></title>
-        <id>https://astralcodexten.substack.com/p/ukraine-warcasting</id>
-        <link href="https://astralcodexten.substack.com/p/ukraine-warcasting"/>
-        <updated>2022-03-01T07:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine Warcasting]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微型成癮症]]></title>
-        <id>https://astralcodexten.substack.com/p/microaddictions</id>
-        <link href="https://astralcodexten.substack.com/p/microaddictions"/>
-        <updated>2022-03-02T06:32:38.000Z</updated>
-        <summary type="html"><![CDATA[Microaddictions]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[當我們爭論理性的時候，我們在爭論什麼？]]></title>
-        <id>https://astralcodexten.substack.com/p/what-are-we-arguing-about-when-we</id>
-        <link href="https://astralcodexten.substack.com/p/what-are-we-arguing-about-when-we"/>
-        <updated>2022-03-04T05:25:00.000Z</updated>
-        <summary type="html"><![CDATA[What Are We Arguing About When We Argue About Rationality?]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隱秘的公開主題213.5]]></title>
-        <id>https://astralcodexten.substack.com/p/hidden-open-thread-2135</id>
-        <link href="https://astralcodexten.substack.com/p/hidden-open-thread-2135"/>
-        <updated>2022-03-05T01:49:44.000Z</updated>
-        <summary type="html"><![CDATA[Hidden Open Thread 213.5]]></summary>
         <author>
             <name>Scott Alexander</name>
             <uri>https://astralcodexten.substack.com/feed</uri>
