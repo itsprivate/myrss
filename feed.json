@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/22/science/brain-computer-als-communication.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/22/science/brain-computer-als-communication.html",
+            "title": "大脑植入物使完全瘫痪的病人能够进行交流",
+            "summary": "Brain Implant Allows Fully Paralyzed Patient to Communicate",
+            "date_modified": "2022-03-23T00:17:11.000Z",
+            "author": {
+                "name": "Jonathan Moens",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/daily-comment/the-threat-of-russian-cyberattacks-looms-large",
             "content_html": "",
             "url": "https://www.newyorker.com/news/daily-comment/the-threat-of-russian-cyberattacks-looms-large",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-07T11:00:00.000Z",
             "author": {
                 "name": "Daniel Alarcón",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/03/14/did-george-washington-have-an-enslaved-son",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/03/14/did-george-washington-have-an-enslaved-son",
-            "title": "乔治-华盛顿有一个被奴役的儿子吗？",
-            "summary": "Did George Washington Have an Enslaved Son?",
-            "date_modified": "2022-03-07T11:00:00.000Z",
-            "author": {
-                "name": "Jill Abramson",
                 "url": "https://www.newyorker.com/feed/news"
             }
         }

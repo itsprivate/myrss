@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-22T23:42:24.983Z</updated>
+    <updated>2022-03-23T00:45:35.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[大脑植入物使完全瘫痪的病人能够进行交流]]></title>
+        <id>https://www.nytimes.com/2022/03/22/science/brain-computer-als-communication.html</id>
+        <link href="https://www.nytimes.com/2022/03/22/science/brain-computer-als-communication.html"/>
+        <updated>2022-03-23T00:17:11.000Z</updated>
+        <summary type="html"><![CDATA[Brain Implant Allows Fully Paralyzed Patient to Communicate]]></summary>
+        <author>
+            <name>Jonathan Moens</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯网络攻击的威胁迫在眉睫]]></title>
         <id>https://www.newyorker.com/news/daily-comment/the-threat-of-russian-cyberattacks-looms-large</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[A Pandemic Tragedy in Guayaquil]]></summary>
         <author>
             <name>Daniel Alarcón</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乔治-华盛顿有一个被奴役的儿子吗？]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/14/did-george-washington-have-an-enslaved-son</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/14/did-george-washington-have-an-enslaved-son"/>
-        <updated>2022-03-07T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Did George Washington Have an Enslaved Son?]]></summary>
-        <author>
-            <name>Jill Abramson</name>
             <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>

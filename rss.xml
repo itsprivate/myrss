@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 22 Mar 2022 23:42:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 00:45:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[大脑植入物使完全瘫痪的病人能够进行交流]]></title>
+            <link>https://www.nytimes.com/2022/03/22/science/brain-computer-als-communication.html</link>
+            <guid>https://www.nytimes.com/2022/03/22/science/brain-computer-als-communication.html</guid>
+            <pubDate>Wed, 23 Mar 2022 00:17:11 GMT</pubDate>
+            <description><![CDATA[Brain Implant Allows Fully Paralyzed Patient to Communicate]]></description>
+        </item>
         <item>
             <title><![CDATA[俄罗斯网络攻击的威胁迫在眉睫]]></title>
             <link>https://www.newyorker.com/news/daily-comment/the-threat-of-russian-cyberattacks-looms-large</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/magazine/2022/03/14/a-pandemic-tragedy-in-guayaquil</guid>
             <pubDate>Mon, 07 Mar 2022 11:00:00 GMT</pubDate>
             <description><![CDATA[A Pandemic Tragedy in Guayaquil]]></description>
-        </item>
-        <item>
-            <title><![CDATA[乔治-华盛顿有一个被奴役的儿子吗？]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/14/did-george-washington-have-an-enslaved-son</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/14/did-george-washington-have-an-enslaved-son</guid>
-            <pubDate>Mon, 07 Mar 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[Did George Washington Have an Enslaved Son?]]></description>
         </item>
     </channel>
 </rss>
