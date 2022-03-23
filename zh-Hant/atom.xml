@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-23T11:28:34.488Z</updated>
+    <updated>2022-03-23T11:38:01.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[萬億和萬億。對無盡經濟增長的選擇性失明]]></title>
+        <id>https://www.currentaffairs.org/2022/02/trillions-and-trillions-the-selective-blindness-on-endless-economic-growth/</id>
+        <link href="https://www.currentaffairs.org/2022/02/trillions-and-trillions-the-selective-blindness-on-endless-economic-growth/"/>
+        <updated>2022-02-21T12:47:43.000Z</updated>
+        <summary type="html"><![CDATA[Trillions and Trillions: The Selective Blindness on Endless Economic Growth]]></summary>
+        <author>
+            <name>Rob Larson</name>
+            <uri>https://www.currentaffairs.org/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[切的後遺症》（The Afterlives of Che]]></title>
+        <id>https://www.currentaffairs.org/2022/02/the-afterlives-of-che/</id>
+        <link href="https://www.currentaffairs.org/2022/02/the-afterlives-of-che/"/>
+        <updated>2022-02-23T16:53:56.000Z</updated>
+        <summary type="html"><![CDATA[The Afterlives of Che]]></summary>
+        <author>
+            <name>Peter Taylor</name>
+            <uri>https://www.currentaffairs.org/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼獲得律師服務的權利如此重要]]></title>
+        <id>https://www.currentaffairs.org/2022/02/why-the-right-to-counsel-is-so-important/</id>
+        <link href="https://www.currentaffairs.org/2022/02/why-the-right-to-counsel-is-so-important/"/>
+        <updated>2022-02-25T00:41:18.000Z</updated>
+        <summary type="html"><![CDATA[Why the Right to Counsel Is So Important]]></summary>
+        <author>
+            <name>Current Affairs</name>
+            <uri>https://www.currentaffairs.org/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們的夢想世界]]></title>
+        <id>https://www.currentaffairs.org/2022/02/world-of-our-dreams/</id>
+        <link href="https://www.currentaffairs.org/2022/02/world-of-our-dreams/"/>
+        <updated>2022-02-28T19:37:10.000Z</updated>
+        <summary type="html"><![CDATA[World of Our Dreams]]></summary>
+        <author>
+            <name>Nathan J. Robinson</name>
+            <uri>https://www.currentaffairs.org/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘭德爾-肯尼迪談為什麼批判性種族理論很重要]]></title>
         <id>https://www.currentaffairs.org/2022/03/randall-kennedy-on-why-critical-race-theory-is-important/</id>
@@ -6566,50 +6610,6 @@
         <link href="https://astralcodexten.substack.com/p/hidden-open-thread-2135"/>
         <updated>2022-03-05T01:49:44.000Z</updated>
         <summary type="html"><![CDATA[Hidden Open Thread 213.5]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公開主題214]]></title>
-        <id>https://astralcodexten.substack.com/p/open-thread-214</id>
-        <link href="https://astralcodexten.substack.com/p/open-thread-214"/>
-        <updated>2022-03-07T02:06:55.000Z</updated>
-        <summary type="html"><![CDATA[Open Thread 214]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭的想法和鏈接]]></title>
-        <id>https://astralcodexten.substack.com/p/ukraine-thoughts-and-links</id>
-        <link href="https://astralcodexten.substack.com/p/ukraine-thoughts-and-links"/>
-        <updated>2022-03-08T05:41:40.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine Thoughts And Links]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zounds! 是Zulresso和Zuranolone!]]></title>
-        <id>https://astralcodexten.substack.com/p/zounds-its-zulresso-and-zuranolone</id>
-        <link href="https://astralcodexten.substack.com/p/zounds-its-zulresso-and-zuranolone"/>
-        <updated>2022-03-08T21:12:09.000Z</updated>
-        <summary type="html"><![CDATA[Zounds! It's Zulresso and Zuranolone!]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對未醒來的學者的建議？]]></title>
-        <id>https://astralcodexten.substack.com/p/advice-for-unwoke-academic</id>
-        <link href="https://astralcodexten.substack.com/p/advice-for-unwoke-academic"/>
-        <updated>2022-03-10T07:47:30.000Z</updated>
-        <summary type="html"><![CDATA[Advice For Unwoke Academic?]]></summary>
         <author>
             <name>Scott Alexander</name>
             <uri>https://astralcodexten.substack.com/feed</uri>
