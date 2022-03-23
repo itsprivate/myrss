@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-23T19:53:08.003Z</updated>
+    <updated>2022-03-23T20:14:38.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["温柔教养 "的严酷境界]]></title>
+        <id>https://www.newyorker.com/books/under-review/the-harsh-realm-of-gentle-parenting</id>
+        <link href="https://www.newyorker.com/books/under-review/the-harsh-realm-of-gentle-parenting"/>
+        <updated>2022-03-23T19:41:28.000Z</updated>
+        <summary type="html"><![CDATA[The Harsh Realm of “Gentle Parenting”]]></summary>
+        <author>
+            <name>Jessica Winter</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国守株待兔的COVID战略正在接受首次测试]]></title>
+        <id>https://www.theatlantic.com/health/archive/2022/03/next-covid-variant-surge-strategy/627597/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/health/archive/2022/03/next-covid-variant-surge-strategy/627597/?utm_source=feed"/>
+        <updated>2022-03-23T19:58:01.000Z</updated>
+        <summary type="html"><![CDATA[America’s Watch-and-Wait COVID Strategy Is Getting Its First Test]]></summary>
+        <author>
+            <name>Katherine J. Wu</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[职业母亲在杰克逊法官的话语中听到的内容]]></title>
         <id>https://www.theatlantic.com/family/archive/2022/03/ketanji-brown-jackson-hearing-working-mom-guilt/627595/?utm_source=feed</id>
@@ -6588,28 +6610,6 @@
         <link href="https://www.newyorker.com/magazine/2022/03/21/dionne-warwicks-flawless-voice"/>
         <updated>2022-03-11T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Dionne Warwick’s Flawless Voice]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[棍子! 他们不能做什么？]]></title>
-        <id>https://www.newyorker.com/video/watch/stickworld</id>
-        <link href="https://www.newyorker.com/video/watch/stickworld"/>
-        <updated>2022-03-11T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sticks! What Can’t They Do?]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在 "棍子世界"，棍子长在树上]]></title>
-        <id>https://www.newyorker.com/culture/screening-room/in-stickworld-sticks-grow-on-trees</id>
-        <link href="https://www.newyorker.com/culture/screening-room/in-stickworld-sticks-grow-on-trees"/>
-        <updated>2022-03-11T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In “Stickworld,” Sticks Grow on Trees]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.newyorker.com/feed/culture</uri>

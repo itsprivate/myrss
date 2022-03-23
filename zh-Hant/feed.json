@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/books/under-review/the-harsh-realm-of-gentle-parenting",
+            "content_html": "",
+            "url": "https://www.newyorker.com/books/under-review/the-harsh-realm-of-gentle-parenting",
+            "title": "\"溫柔教養 \"的嚴酷境界",
+            "summary": "The Harsh Realm of “Gentle Parenting”",
+            "date_modified": "2022-03-23T19:41:28.000Z",
+            "author": {
+                "name": "Jessica Winter",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/health/archive/2022/03/next-covid-variant-surge-strategy/627597/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/health/archive/2022/03/next-covid-variant-surge-strategy/627597/?utm_source=feed",
+            "title": "美國守株待兔的COVID戰略正在接受首次測試",
+            "summary": "America’s Watch-and-Wait COVID Strategy Is Getting Its First Test",
+            "date_modified": "2022-03-23T19:58:01.000Z",
+            "author": {
+                "name": "Katherine J. Wu",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/family/archive/2022/03/ketanji-brown-jackson-hearing-working-mom-guilt/627595/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/family/archive/2022/03/ketanji-brown-jackson-hearing-working-mom-guilt/627595/?utm_source=feed",
@@ -7180,30 +7204,6 @@
             "url": "https://www.newyorker.com/magazine/2022/03/21/dionne-warwicks-flawless-voice",
             "title": "迪翁-沃裡克的無暇之音",
             "summary": "Dionne Warwick’s Flawless Voice",
-            "date_modified": "2022-03-11T11:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/video/watch/stickworld",
-            "content_html": "",
-            "url": "https://www.newyorker.com/video/watch/stickworld",
-            "title": "棍子! 他們不能做什麼？",
-            "summary": "Sticks! What Can’t They Do?",
-            "date_modified": "2022-03-11T11:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/screening-room/in-stickworld-sticks-grow-on-trees",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/screening-room/in-stickworld-sticks-grow-on-trees",
-            "title": "在 \"棍子世界\"，棍子長在樹上",
-            "summary": "In “Stickworld,” Sticks Grow on Trees",
             "date_modified": "2022-03-11T11:00:00.000Z",
             "author": {
                 "name": "unknown",
