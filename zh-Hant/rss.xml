@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 23 Mar 2022 00:45:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 04:40:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[OK Doomer "和說現在還不算太晚的氣候倡導者們]]></title>
+            <link>https://www.nytimes.com/2022/03/22/climate/climate-change-ok-doomer.html</link>
+            <guid>https://www.nytimes.com/2022/03/22/climate/climate-change-ok-doomer.html</guid>
+            <pubDate>Tue, 22 Mar 2022 20:05:24 GMT</pubDate>
+            <description><![CDATA[‘OK Doomer’ and the Climate Advocates Who Say It’s Not Too Late]]></description>
+        </item>
         <item>
             <title><![CDATA[大腦植入物使完全癱瘓的病人能夠進行交流]]></title>
             <link>https://www.nytimes.com/2022/03/22/science/brain-computer-als-communication.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/magazine/2022/03/14/the-great-american-antler-boom</guid>
             <pubDate>Mon, 07 Mar 2022 11:00:00 GMT</pubDate>
             <description><![CDATA[The Great American Antler Boom]]></description>
-        </item>
-        <item>
-            <title><![CDATA[瓜亞基爾的一場大流行悲劇]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/14/a-pandemic-tragedy-in-guayaquil</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/14/a-pandemic-tragedy-in-guayaquil</guid>
-            <pubDate>Mon, 07 Mar 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[A Pandemic Tragedy in Guayaquil]]></description>
         </item>
     </channel>
 </rss>

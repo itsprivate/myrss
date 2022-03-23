@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-23T00:45:35.112Z</updated>
+    <updated>2022-03-23T04:40:36.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[OK Doomer "和說現在還不算太晚的氣候倡導者們]]></title>
+        <id>https://www.nytimes.com/2022/03/22/climate/climate-change-ok-doomer.html</id>
+        <link href="https://www.nytimes.com/2022/03/22/climate/climate-change-ok-doomer.html"/>
+        <updated>2022-03-22T20:05:24.000Z</updated>
+        <summary type="html"><![CDATA[‘OK Doomer’ and the Climate Advocates Who Say It’s Not Too Late]]></summary>
+        <author>
+            <name>Cara Buckley</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大腦植入物使完全癱瘓的病人能夠進行交流]]></title>
         <id>https://www.nytimes.com/2022/03/22/science/brain-computer-als-communication.html</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[The Great American Antler Boom]]></summary>
         <author>
             <name>Abe Streep</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瓜亞基爾的一場大流行悲劇]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/14/a-pandemic-tragedy-in-guayaquil</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/14/a-pandemic-tragedy-in-guayaquil"/>
-        <updated>2022-03-07T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A Pandemic Tragedy in Guayaquil]]></summary>
-        <author>
-            <name>Daniel Alarcón</name>
             <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>

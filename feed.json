@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/22/climate/climate-change-ok-doomer.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/22/climate/climate-change-ok-doomer.html",
+            "title": "OK Doomer \"和说现在还不算太晚的气候倡导者们",
+            "summary": "‘OK Doomer’ and the Climate Advocates Who Say It’s Not Too Late",
+            "date_modified": "2022-03-22T20:05:24.000Z",
+            "author": {
+                "name": "Cara Buckley",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/22/science/brain-computer-als-communication.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/22/science/brain-computer-als-communication.html",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-07T11:00:00.000Z",
             "author": {
                 "name": "Abe Streep",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/03/14/a-pandemic-tragedy-in-guayaquil",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/03/14/a-pandemic-tragedy-in-guayaquil",
-            "title": "瓜亚基尔的一场大流行悲剧",
-            "summary": "A Pandemic Tragedy in Guayaquil",
-            "date_modified": "2022-03-07T11:00:00.000Z",
-            "author": {
-                "name": "Daniel Alarcón",
                 "url": "https://www.newyorker.com/feed/news"
             }
         }
