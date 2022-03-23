@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 23 Mar 2022 11:52:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 13:25:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[是的，你可以讓你的技術在淘汰中倖存下來]]></title>
+            <link>https://www.nytimes.com/2022/03/23/technology/personaltech/tech-survive-obsolescence.html</link>
+            <guid>https://www.nytimes.com/2022/03/23/technology/personaltech/tech-survive-obsolescence.html</guid>
+            <pubDate>Wed, 23 Mar 2022 13:00:12 GMT</pubDate>
+            <description><![CDATA[Yes, You Can Make Your Tech Survive Obsolescence]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美國公司不能再掩飾其碳汙染了]]></title>
+            <link>https://www.theatlantic.com/science/archive/2022/03/sec-climate-rule-greenwashing/627588/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/science/archive/2022/03/sec-climate-rule-greenwashing/627588/?utm_source=feed</guid>
+            <pubDate>Wed, 23 Mar 2022 13:01:37 GMT</pubDate>
+            <description><![CDATA[American Companies Can’t Sugarcoat Their Carbon Pollution Anymore]]></description>
+        </item>
         <item>
             <title><![CDATA[關於體驗喬-羅根]]></title>
             <link>https://www.currentaffairs.org/2022/02/on-experiencing-joe-rogan/</link>
@@ -4199,20 +4213,6 @@
             <guid>https://astralcodexten.substack.com/p/biological-anchors-a-trick-that-might</guid>
             <pubDate>Wed, 23 Feb 2022 22:56:52 GMT</pubDate>
             <description><![CDATA[Biological Anchors: A Trick That Might Or Might Not Work]]></description>
-        </item>
-        <item>
-            <title><![CDATA[隱秘的公開主題212.5]]></title>
-            <link>https://astralcodexten.substack.com/p/hidden-open-thread-2125</link>
-            <guid>https://astralcodexten.substack.com/p/hidden-open-thread-2125</guid>
-            <pubDate>Fri, 25 Feb 2022 02:12:24 GMT</pubDate>
-            <description><![CDATA[Hidden Open Thread 212.5]]></description>
-        </item>
-        <item>
-            <title><![CDATA[奧斯汀見面會的修正]]></title>
-            <link>https://astralcodexten.substack.com/p/austin-meetup-correction</link>
-            <guid>https://astralcodexten.substack.com/p/austin-meetup-correction</guid>
-            <pubDate>Fri, 25 Feb 2022 20:45:53 GMT</pubDate>
-            <description><![CDATA[Austin Meetup Correction]]></description>
         </item>
     </channel>
 </rss>

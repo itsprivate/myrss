@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-23T11:52:43.677Z</updated>
+    <updated>2022-03-23T13:25:16.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是的，你可以讓你的技術在淘汰中倖存下來]]></title>
+        <id>https://www.nytimes.com/2022/03/23/technology/personaltech/tech-survive-obsolescence.html</id>
+        <link href="https://www.nytimes.com/2022/03/23/technology/personaltech/tech-survive-obsolescence.html"/>
+        <updated>2022-03-23T13:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Yes, You Can Make Your Tech Survive Obsolescence]]></summary>
+        <author>
+            <name>Brian X. Chen</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美國公司不能再掩飾其碳汙染了]]></title>
+        <id>https://www.theatlantic.com/science/archive/2022/03/sec-climate-rule-greenwashing/627588/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/science/archive/2022/03/sec-climate-rule-greenwashing/627588/?utm_source=feed"/>
+        <updated>2022-03-23T13:01:37.000Z</updated>
+        <summary type="html"><![CDATA[American Companies Can’t Sugarcoat Their Carbon Pollution Anymore]]></summary>
+        <author>
+            <name>Robinson Meyer</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於體驗喬-羅根]]></title>
         <id>https://www.currentaffairs.org/2022/02/on-experiencing-joe-rogan/</id>
@@ -6588,28 +6610,6 @@
         <link href="https://astralcodexten.substack.com/p/biological-anchors-a-trick-that-might"/>
         <updated>2022-02-23T22:56:52.000Z</updated>
         <summary type="html"><![CDATA[Biological Anchors: A Trick That Might Or Might Not Work]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隱秘的公開主題212.5]]></title>
-        <id>https://astralcodexten.substack.com/p/hidden-open-thread-2125</id>
-        <link href="https://astralcodexten.substack.com/p/hidden-open-thread-2125"/>
-        <updated>2022-02-25T02:12:24.000Z</updated>
-        <summary type="html"><![CDATA[Hidden Open Thread 212.5]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奧斯汀見面會的修正]]></title>
-        <id>https://astralcodexten.substack.com/p/austin-meetup-correction</id>
-        <link href="https://astralcodexten.substack.com/p/austin-meetup-correction"/>
-        <updated>2022-02-25T20:45:53.000Z</updated>
-        <summary type="html"><![CDATA[Austin Meetup Correction]]></summary>
         <author>
             <name>Scott Alexander</name>
             <uri>https://astralcodexten.substack.com/feed</uri>
