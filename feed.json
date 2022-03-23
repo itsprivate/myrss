@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://noahpinion.substack.com/p/ukraines-economic-future",
+            "content_html": "",
+            "url": "https://noahpinion.substack.com/p/ukraines-economic-future",
+            "title": "乌克兰的经济前景",
+            "summary": "Ukraine's economic future",
+            "date_modified": "2022-03-23T09:19:58.000Z",
+            "author": {
+                "name": "Noah Smith",
+                "url": "https://noahpinion.substack.com/feed"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/23/technology/stewart-brand-tech.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/23/technology/stewart-brand-tech.html",
@@ -7193,18 +7205,6 @@
             "title": "一位女士如何利用喜剧为巴勒斯坦权利发声",
             "summary": "How One Woman Is Using Comedy to Speak Up About Palestinian Rights",
             "date_modified": "2021-12-22T11:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/video/watch/the-new-yorker-documentary-nothing-to-declare",
-            "content_html": "",
-            "url": "https://www.newyorker.com/video/watch/the-new-yorker-documentary-nothing-to-declare",
-            "title": "两个爱尔兰男孩如何在跨大西洋航班上偷渡",
-            "summary": "How Two Irish Boys Stowed Themselves on a Transatlantic Flight",
-            "date_modified": "2022-01-12T11:00:00.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.newyorker.com/feed/news"

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-23T09:13:32.056Z</updated>
+    <updated>2022-03-23T09:32:24.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭的經濟前景]]></title>
+        <id>https://noahpinion.substack.com/p/ukraines-economic-future</id>
+        <link href="https://noahpinion.substack.com/p/ukraines-economic-future"/>
+        <updated>2022-03-23T09:19:58.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine's economic future]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[創造了 "個人電腦 "一詞的斯圖爾特-布蘭德說他仍然是個樂觀主義者]]></title>
         <id>https://www.nytimes.com/2022/03/23/technology/stewart-brand-tech.html</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.newyorker.com/video/watch/the-new-yorker-documentary-how-one-woman-is-using-comedy-to-speak-up-about-palestinian-rights"/>
         <updated>2021-12-22T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[How One Woman Is Using Comedy to Speak Up About Palestinian Rights]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[兩個愛爾蘭男孩如何在跨大西洋航班上偷渡]]></title>
-        <id>https://www.newyorker.com/video/watch/the-new-yorker-documentary-nothing-to-declare</id>
-        <link href="https://www.newyorker.com/video/watch/the-new-yorker-documentary-nothing-to-declare"/>
-        <updated>2022-01-12T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How Two Irish Boys Stowed Themselves on a Transatlantic Flight]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.newyorker.com/feed/news</uri>
