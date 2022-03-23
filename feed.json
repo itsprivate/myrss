@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/daily-comment/a-novel-and-the-fight-for-transgender-rights-in-argentina",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/daily-comment/a-novel-and-the-fight-for-transgender-rights-in-argentina",
+            "title": "小说与阿根廷的变性人权利之争",
+            "summary": "A Novel and the Fight for Transgender Rights in Argentina",
+            "date_modified": "2022-03-23T17:02:54.000Z",
+            "author": {
+                "name": "Graciela Mochkofsky",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/humor/borowitz-report/failure-to-rattle-jackson-sends-cruz-fleeing-to-cancun",
             "content_html": "",
             "url": "https://www.newyorker.com/humor/borowitz-report/failure-to-rattle-jackson-sends-cruz-fleeing-to-cancun",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-11T10:00:56.000Z",
             "author": {
                 "name": "Wendy Zhou",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/03/ukraine-russia-war-deaths-refugees/627029/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/03/ukraine-russia-war-deaths-refugees/627029/?utm_source=feed",
-            "title": "西方国家在拯救我的祖国方面做得不够好",
-            "summary": "The West Isn’t Doing Enough to Save My Homeland",
-            "date_modified": "2022-03-11T10:00:56.000Z",
-            "author": {
-                "name": "Olena Halushka",
                 "url": "https://www.theatlantic.com/feed/all/"
             }
         }

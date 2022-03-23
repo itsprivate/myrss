@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-23T17:30:37.139Z</updated>
+    <updated>2022-03-23T17:58:04.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[小说与阿根廷的变性人权利之争]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/a-novel-and-the-fight-for-transgender-rights-in-argentina</id>
+        <link href="https://www.newyorker.com/news/daily-comment/a-novel-and-the-fight-for-transgender-rights-in-argentina"/>
+        <updated>2022-03-23T17:02:54.000Z</updated>
+        <summary type="html"><![CDATA[A Novel and the Fight for Transgender Rights in Argentina]]></summary>
+        <author>
+            <name>Graciela Mochkofsky</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[未能撼动杰克逊让克鲁兹逃往坎昆]]></title>
         <id>https://www.newyorker.com/humor/borowitz-report/failure-to-rattle-jackson-sends-cruz-fleeing-to-cancun</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[China's Russia Policy Is About America]]></summary>
         <author>
             <name>Wendy Zhou</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西方国家在拯救我的祖国方面做得不够好]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/ukraine-russia-war-deaths-refugees/627029/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/ukraine-russia-war-deaths-refugees/627029/?utm_source=feed"/>
-        <updated>2022-03-11T10:00:56.000Z</updated>
-        <summary type="html"><![CDATA[The West Isn’t Doing Enough to Save My Homeland]]></summary>
-        <author>
-            <name>Olena Halushka</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 23 Mar 2022 17:30:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 17:58:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[小說與阿根廷的變性人權利之爭]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/a-novel-and-the-fight-for-transgender-rights-in-argentina</link>
+            <guid>https://www.newyorker.com/news/daily-comment/a-novel-and-the-fight-for-transgender-rights-in-argentina</guid>
+            <pubDate>Wed, 23 Mar 2022 17:02:54 GMT</pubDate>
+            <description><![CDATA[A Novel and the Fight for Transgender Rights in Argentina]]></description>
+        </item>
         <item>
             <title><![CDATA[未能撼動傑克遜讓克魯茲逃往坎昆]]></title>
             <link>https://www.newyorker.com/humor/borowitz-report/failure-to-rattle-jackson-sends-cruz-fleeing-to-cancun</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/ideas/archive/2022/03/china-xi-ukraine-war-america/627028/?utm_source=feed</guid>
             <pubDate>Fri, 11 Mar 2022 10:00:56 GMT</pubDate>
             <description><![CDATA[China's Russia Policy Is About America]]></description>
-        </item>
-        <item>
-            <title><![CDATA[西方國家在拯救我的祖國方面做得不夠好]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/ukraine-russia-war-deaths-refugees/627029/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/ukraine-russia-war-deaths-refugees/627029/?utm_source=feed</guid>
-            <pubDate>Fri, 11 Mar 2022 10:00:56 GMT</pubDate>
-            <description><![CDATA[The West Isn’t Doing Enough to Save My Homeland]]></description>
         </item>
     </channel>
 </rss>
