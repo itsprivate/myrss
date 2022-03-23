@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-23T10:38:56.310Z</updated>
+    <updated>2022-03-23T10:52:57.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[勇敢的，虚假的隐私感觉]]></title>
+        <id>https://blackgnu.net/brave-is-shit.html</id>
+        <link href="https://blackgnu.net/brave-is-shit.html"/>
+        <updated>2021-06-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Brave, the false sensation of privacy]]></summary>
+        <author>
+            <name>Werwolf</name>
+            <uri>https://blackgnu.net/atom.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安卓隐私指南。零信任]]></title>
+        <id>https://blackgnu.net/android-privacy-guide.html</id>
+        <link href="https://blackgnu.net/android-privacy-guide.html"/>
+        <updated>2021-07-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Android Privacy Guide: Zero Trust]]></summary>
+        <author>
+            <name>Werwolf</name>
+            <uri>https://blackgnu.net/atom.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于区块链和Web3]]></title>
+        <id>https://blackgnu.net/on-blockchain.html</id>
+        <link href="https://blackgnu.net/on-blockchain.html"/>
+        <updated>2022-01-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On blockchain and Web3]]></summary>
+        <author>
+            <name>Werwolf</name>
+            <uri>https://blackgnu.net/atom.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[博客更新]]></title>
+        <id>https://blackgnu.net/blog-update.html</id>
+        <link href="https://blackgnu.net/blog-update.html"/>
+        <updated>2022-02-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Blog update]]></summary>
+        <author>
+            <name>Werwolf</name>
+            <uri>https://blackgnu.net/atom.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[丈夫和妻子的餐厅为世界带来了提拉米苏]]></title>
         <id>https://www.newyorker.com/news/afterword/the-husband-and-wife-whose-restaurant-gave-the-world-tiramisu</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>moore</name>
             <uri>http://edit.mooreds.com/wordpress/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slack无法打开，出现NS_ERROR_DOM_ABORT_ERR错误]]></title>
-        <id>https://www.mooreds.com/wordpress/archives/3429</id>
-        <link href="https://www.mooreds.com/wordpress/archives/3429"/>
-        <updated>2021-02-01T15:35:28.000Z</updated>
-        <summary type="html"><![CDATA[Slack failing to open with NS_ERROR_DOM_ABORT_ERR error]]></summary>
-        <author>
-            <name>moore</name>
-            <uri>http://edit.mooreds.com/wordpress/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公共云时代的开源软件商业模式问题]]></title>
-        <id>https://www.mooreds.com/wordpress/archives/3438</id>
-        <link href="https://www.mooreds.com/wordpress/archives/3438"/>
-        <updated>2021-03-13T17:31:44.000Z</updated>
-        <summary type="html"><![CDATA[Open source software business model concerns in the age of the public cloud]]></summary>
-        <author>
-            <name>moore</name>
-            <uri>http://edit.mooreds.com/wordpress/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于寻找技术联合创始人的建议]]></title>
-        <id>https://www.mooreds.com/wordpress/archives/3445</id>
-        <link href="https://www.mooreds.com/wordpress/archives/3445"/>
-        <updated>2021-04-03T17:09:02.000Z</updated>
-        <summary type="html"><![CDATA[Advice for finding a technical co-founder]]></summary>
-        <author>
-            <name>moore</name>
-            <uri>http://edit.mooreds.com/wordpress/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在享受大自然的失败尝试中的想法]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/thoughts-i-had-during-my-failed-attempts-to-enjoy-nature</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/thoughts-i-had-during-my-failed-attempts-to-enjoy-nature"/>
-        <updated>2022-03-10T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Thoughts I Had During My Failed Attempts to Enjoy Nature]]></summary>
-        <author>
-            <name>Ginny Hogan, Lex Singer</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
