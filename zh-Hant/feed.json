@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/23/technology/stewart-brand-tech.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/23/technology/stewart-brand-tech.html",
+            "title": "創造了 \"個人電腦 \"一詞的斯圖爾特-布蘭德說他仍然是個樂觀主義者",
+            "summary": "Stewart Brand, Who Coined the Term ‘Personal Computer,’ Says He’s Still an Optimist",
+            "date_modified": "2022-03-23T09:00:19.000Z",
+            "author": {
+                "name": "John Markoff",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/03/23/technology/russia-american-far-right-ukraine.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/23/technology/russia-american-far-right-ukraine.html",
+            "title": "俄羅斯和美國極右翼人士通過烏克蘭戰爭找到共同點",
+            "summary": "Russia and Far-Right Americans Find Common Ground With Ukraine War",
+            "date_modified": "2022-03-23T09:00:23.000Z",
+            "author": {
+                "name": "Sheera Frenkel and Stuart A. Thompson",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/22/climate/climate-change-ok-doomer.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/22/climate/climate-change-ok-doomer.html",
@@ -7183,30 +7207,6 @@
             "date_modified": "2022-01-12T11:00:00.000Z",
             "author": {
                 "name": "unknown",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/video/watch/the-dehumanizing-theater-of-the-parole-process",
-            "content_html": "",
-            "url": "https://www.newyorker.com/video/watch/the-dehumanizing-theater-of-the-parole-process",
-            "title": "假釋程序的非人化戲劇",
-            "summary": "The Dehumanizing Theatre of the Parole Process",
-            "date_modified": "2021-11-17T11:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/03/14/the-great-american-antler-boom",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/03/14/the-great-american-antler-boom",
-            "title": "美國鹿角的大繁榮",
-            "summary": "The Great American Antler Boom",
-            "date_modified": "2022-03-07T11:00:00.000Z",
-            "author": {
-                "name": "Abe Streep",
                 "url": "https://www.newyorker.com/feed/news"
             }
         }

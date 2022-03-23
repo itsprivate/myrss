@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-23T04:40:35.987Z</updated>
+    <updated>2022-03-23T09:13:31.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[创造了 "个人电脑 "一词的斯图尔特-布兰德说他仍然是个乐观主义者]]></title>
+        <id>https://www.nytimes.com/2022/03/23/technology/stewart-brand-tech.html</id>
+        <link href="https://www.nytimes.com/2022/03/23/technology/stewart-brand-tech.html"/>
+        <updated>2022-03-23T09:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Stewart Brand, Who Coined the Term ‘Personal Computer,’ Says He’s Still an Optimist]]></summary>
+        <author>
+            <name>John Markoff</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯和美国极右翼人士通过乌克兰战争找到共同点]]></title>
+        <id>https://www.nytimes.com/2022/03/23/technology/russia-american-far-right-ukraine.html</id>
+        <link href="https://www.nytimes.com/2022/03/23/technology/russia-american-far-right-ukraine.html"/>
+        <updated>2022-03-23T09:00:23.000Z</updated>
+        <summary type="html"><![CDATA[Russia and Far-Right Americans Find Common Ground With Ukraine War]]></summary>
+        <author>
+            <name>Sheera Frenkel and Stuart A. Thompson</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OK Doomer "和说现在还不算太晚的气候倡导者们]]></title>
         <id>https://www.nytimes.com/2022/03/22/climate/climate-change-ok-doomer.html</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[How Two Irish Boys Stowed Themselves on a Transatlantic Flight]]></summary>
         <author>
             <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[假释程序的非人化戏剧]]></title>
-        <id>https://www.newyorker.com/video/watch/the-dehumanizing-theater-of-the-parole-process</id>
-        <link href="https://www.newyorker.com/video/watch/the-dehumanizing-theater-of-the-parole-process"/>
-        <updated>2021-11-17T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Dehumanizing Theatre of the Parole Process]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国鹿角的大繁荣]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/14/the-great-american-antler-boom</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/14/the-great-american-antler-boom"/>
-        <updated>2022-03-07T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Great American Antler Boom]]></summary>
-        <author>
-            <name>Abe Streep</name>
             <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>

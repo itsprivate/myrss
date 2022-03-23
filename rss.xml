@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 23 Mar 2022 04:40:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 09:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[创造了 "个人电脑 "一词的斯图尔特-布兰德说他仍然是个乐观主义者]]></title>
+            <link>https://www.nytimes.com/2022/03/23/technology/stewart-brand-tech.html</link>
+            <guid>https://www.nytimes.com/2022/03/23/technology/stewart-brand-tech.html</guid>
+            <pubDate>Wed, 23 Mar 2022 09:00:19 GMT</pubDate>
+            <description><![CDATA[Stewart Brand, Who Coined the Term ‘Personal Computer,’ Says He’s Still an Optimist]]></description>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯和美国极右翼人士通过乌克兰战争找到共同点]]></title>
+            <link>https://www.nytimes.com/2022/03/23/technology/russia-american-far-right-ukraine.html</link>
+            <guid>https://www.nytimes.com/2022/03/23/technology/russia-american-far-right-ukraine.html</guid>
+            <pubDate>Wed, 23 Mar 2022 09:00:23 GMT</pubDate>
+            <description><![CDATA[Russia and Far-Right Americans Find Common Ground With Ukraine War]]></description>
+        </item>
         <item>
             <title><![CDATA[OK Doomer "和说现在还不算太晚的气候倡导者们]]></title>
             <link>https://www.nytimes.com/2022/03/22/climate/climate-change-ok-doomer.html</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/video/watch/the-new-yorker-documentary-nothing-to-declare</guid>
             <pubDate>Wed, 12 Jan 2022 11:00:00 GMT</pubDate>
             <description><![CDATA[How Two Irish Boys Stowed Themselves on a Transatlantic Flight]]></description>
-        </item>
-        <item>
-            <title><![CDATA[假释程序的非人化戏剧]]></title>
-            <link>https://www.newyorker.com/video/watch/the-dehumanizing-theater-of-the-parole-process</link>
-            <guid>https://www.newyorker.com/video/watch/the-dehumanizing-theater-of-the-parole-process</guid>
-            <pubDate>Wed, 17 Nov 2021 11:00:00 GMT</pubDate>
-            <description><![CDATA[The Dehumanizing Theatre of the Parole Process]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国鹿角的大繁荣]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/14/the-great-american-antler-boom</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/14/the-great-american-antler-boom</guid>
-            <pubDate>Mon, 07 Mar 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[The Great American Antler Boom]]></description>
         </item>
     </channel>
 </rss>
