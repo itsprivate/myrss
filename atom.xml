@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-23T09:32:24.679Z</updated>
+    <updated>2022-03-23T10:16:14.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,127 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[丈夫和妻子的餐厅为世界带来了提拉米苏]]></title>
+        <id>https://www.newyorker.com/news/afterword/the-husband-and-wife-whose-restaurant-gave-the-world-tiramisu</id>
+        <link href="https://www.newyorker.com/news/afterword/the-husband-and-wife-whose-restaurant-gave-the-world-tiramisu"/>
+        <updated>2022-03-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Husband and Wife Whose Restaurant Gave the World Tiramisu]]></summary>
+        <author>
+            <name>Susan Orlean</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[启示录中的工作邮件]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/work-e-mails-during-an-apocalypse</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/work-e-mails-during-an-apocalypse"/>
+        <updated>2022-03-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Work E-mails During an Apocalypse]]></summary>
+        <author>
+            <name>Carlos Greaves</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[落名：2022年3月23日，星期三]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/23</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/23"/>
+        <updated>2022-03-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Name Drop: Wednesday, March 23, 2022]]></summary>
+        <author>
+            <name>Matt Jackson</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[填字游戏: 2022年3月23日，星期三]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/23</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/23"/>
+        <updated>2022-03-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Crossword: Wednesday, March 23, 2022]]></summary>
+        <author>
+            <name>Aimee Lucido</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[寻找一个古怪的百万富翁的隐藏宝库]]></title>
+        <id>https://www.newyorker.com/video/watch/the-new-yorker-documentary-finding-fenns-gold</id>
+        <link href="https://www.newyorker.com/video/watch/the-new-yorker-documentary-finding-fenns-gold"/>
+        <updated>2022-03-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Search for an Eccentric Millionaire’s Hidden Treasure Chest]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在落基山脉寻找宝藏和目标]]></title>
+        <id>https://www.newyorker.com/culture/the-new-yorker-documentary/searching-for-treasure-and-purpose-in-the-rockies</id>
+        <link href="https://www.newyorker.com/culture/the-new-yorker-documentary/searching-for-treasure-and-purpose-in-the-rockies"/>
+        <updated>2022-03-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Searching for Treasure and Purpose in the Rockies]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[帕梅拉-阿德隆如何在 "更好的事情 "中制作罗宋汤]]></title>
+        <id>https://www.newyorker.com/culture/kitchen-notes/how-pamela-adlon-makes-borscht-on-better-things</id>
+        <link href="https://www.newyorker.com/culture/kitchen-notes/how-pamela-adlon-makes-borscht-on-better-things"/>
+        <updated>2022-03-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How Pamela Adlon Makes Borscht on “Better Things”]]></summary>
+        <author>
+            <name>Rachel Syme</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[驾驶我的车 "在第二次观看时揭示了什么]]></title>
+        <id>https://www.newyorker.com/culture/culture-desk/what-drive-my-car-reveals-on-a-second-viewing</id>
+        <link href="https://www.newyorker.com/culture/culture-desk/what-drive-my-car-reveals-on-a-second-viewing"/>
+        <updated>2022-03-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What “Drive My Car” Reveals on a Second Viewing]]></summary>
+        <author>
+            <name>Kevin Dettmar</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这还不是历史上最危险的时刻。然而。]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/ukraine-russia-nuclear-weapons-cold-war/627587/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/ukraine-russia-nuclear-weapons-cold-war/627587/?utm_source=feed"/>
+        <updated>2022-03-23T09:42:59.000Z</updated>
+        <summary type="html"><![CDATA[This Isn't History's Most Dangerous Moment. Yet.]]></summary>
+        <author>
+            <name>Uri Friedman</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国人对大流行病的真实想法]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/covid-survey-results-public-opinion/627582/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/covid-survey-results-public-opinion/627582/?utm_source=feed"/>
+        <updated>2022-03-23T10:00:57.000Z</updated>
+        <summary type="html"><![CDATA[What Americans Really Think About the Pandemic]]></summary>
+        <author>
+            <name>Natalie Jackson</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[杰克逊法官的确认听证会与杰克逊法官关系不大]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/ketanji-brown-jackson-confirmation-hearing/627586/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/ketanji-brown-jackson-confirmation-hearing/627586/?utm_source=feed"/>
+        <updated>2022-03-23T10:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Judge Jackson’s Confirmation Hearing Has Had Little to Do With Judge Jackson]]></summary>
+        <author>
+            <name>David A. Graham</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[乌克兰的经济前景]]></title>
         <id>https://noahpinion.substack.com/p/ukraines-economic-future</id>
@@ -6492,127 +6613,6 @@
         <author>
             <name>unknown</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[佛教的丰富遗产]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/07/the-rich-legacy-of-buddhism</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/07/the-rich-legacy-of-buddhism"/>
-        <updated>2022-02-25T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Rich Legacy of Buddhism]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[珠穆朗玛峰意大利语，在Ci Siamo举行]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/14/zhuzhed-up-italian-at-ci-siamo</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/14/zhuzhed-up-italian-at-ci-siamo"/>
-        <updated>2022-03-04T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Zhuzhed-Up Italian, at Ci Siamo]]></summary>
-        <author>
-            <name>Shauna Lyon</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一位保护其文化遗产的科特迪瓦艺术家]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/14/an-ivorian-artist-who-preserved-his-cultural-heritage</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/14/an-ivorian-artist-who-preserved-his-cultural-heritage"/>
-        <updated>2022-03-04T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[An Ivorian Artist Who Preserved His Cultural Heritage]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[柠檬头乐队的青春忧郁]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/14/the-youthful-melancholy-of-the-lemonheads</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/14/the-youthful-melancholy-of-the-lemonheads"/>
-        <updated>2022-03-07T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Youthful Melancholy of the Lemonheads]]></summary>
-        <author>
-            <name>Amanda Petrusich</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音乐充斥着罗斯科教堂]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/14/music-fills-the-rothko-chapel</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/14/music-fills-the-rothko-chapel"/>
-        <updated>2022-03-07T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Music Fills the Rothko Chapel]]></summary>
-        <author>
-            <name>Alex Ross</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哈里-杜鲁门帮助建立了我们的世界秩序，不管是好是坏都是如此]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/14/harry-truman-helped-make-our-world-order-for-better-and-for-worse-jeffrey-frank-the-trials-of-harry-s-truman</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/14/harry-truman-helped-make-our-world-order-for-better-and-for-worse-jeffrey-frank-the-trials-of-harry-s-truman"/>
-        <updated>2022-03-07T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Harry Truman Helped Make Our World Order, for Better and for Worse]]></summary>
-        <author>
-            <name>Beverly Gage</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["蝙蝠侠 "是对罗伯特-帕丁森的一种浪费]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/14/the-batman-is-a-waste-of-robert-pattinson</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/14/the-batman-is-a-waste-of-robert-pattinson"/>
-        <updated>2022-03-03T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“The Batman” Is a Waste of Robert Pattinson]]></summary>
-        <author>
-            <name>Anthony Lane</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯仍未撤军]]></title>
-        <id>https://www.newyorker.com/cartoons/blitts-kvetchbook/still-no-russian-withdrawal</id>
-        <link href="https://www.newyorker.com/cartoons/blitts-kvetchbook/still-no-russian-withdrawal"/>
-        <updated>2022-03-10T20:51:05.000Z</updated>
-        <summary type="html"><![CDATA[Still No Russian Withdrawal]]></summary>
-        <author>
-            <name>Barry Blitt</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科内尔-韦斯特看到了文化中的精神衰落]]></title>
-        <id>https://www.newyorker.com/culture/the-new-yorker-interview/cornel-west-sees-a-spiritual-decay-in-the-culture</id>
-        <link href="https://www.newyorker.com/culture/the-new-yorker-interview/cornel-west-sees-a-spiritual-decay-in-the-culture"/>
-        <updated>2022-03-09T21:05:58.000Z</updated>
-        <summary type="html"><![CDATA[Cornel West Sees a Spiritual Decay in the Culture]]></summary>
-        <author>
-            <name>Vinson Cunningham</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被围困的乌克兰]]></title>
-        <id>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/ukraine-under-siege</id>
-        <link href="https://www.newyorker.com/podcast/the-new-yorker-radio-hour/ukraine-under-siege"/>
-        <updated>2022-03-04T21:44:19.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine Under Siege]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一位女士如何利用喜剧为巴勒斯坦权利发声]]></title>
-        <id>https://www.newyorker.com/video/watch/the-new-yorker-documentary-how-one-woman-is-using-comedy-to-speak-up-about-palestinian-rights</id>
-        <link href="https://www.newyorker.com/video/watch/the-new-yorker-documentary-how-one-woman-is-using-comedy-to-speak-up-about-palestinian-rights"/>
-        <updated>2021-12-22T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How One Woman Is Using Comedy to Speak Up About Palestinian Rights]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
 </feed>

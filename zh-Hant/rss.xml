@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 23 Mar 2022 09:32:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 10:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,83 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[丈夫和妻子的餐廳為世界帶來了提拉米蘇]]></title>
+            <link>https://www.newyorker.com/news/afterword/the-husband-and-wife-whose-restaurant-gave-the-world-tiramisu</link>
+            <guid>https://www.newyorker.com/news/afterword/the-husband-and-wife-whose-restaurant-gave-the-world-tiramisu</guid>
+            <pubDate>Wed, 23 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Husband and Wife Whose Restaurant Gave the World Tiramisu]]></description>
+        </item>
+        <item>
+            <title><![CDATA[啟示錄中的工作郵件]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/work-e-mails-during-an-apocalypse</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/work-e-mails-during-an-apocalypse</guid>
+            <pubDate>Wed, 23 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Work E-mails During an Apocalypse]]></description>
+        </item>
+        <item>
+            <title><![CDATA[落名：2022年3月23日，星期三]]></title>
+            <link>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/23</link>
+            <guid>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/23</guid>
+            <pubDate>Wed, 23 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Name Drop: Wednesday, March 23, 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[填字遊戲: 2022年3月23日，星期三]]></title>
+            <link>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/23</link>
+            <guid>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/23</guid>
+            <pubDate>Wed, 23 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Crossword: Wednesday, March 23, 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[尋找一個古怪的百萬富翁的隱藏寶庫]]></title>
+            <link>https://www.newyorker.com/video/watch/the-new-yorker-documentary-finding-fenns-gold</link>
+            <guid>https://www.newyorker.com/video/watch/the-new-yorker-documentary-finding-fenns-gold</guid>
+            <pubDate>Wed, 23 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Search for an Eccentric Millionaire’s Hidden Treasure Chest]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在落基山脈尋找寶藏和目標]]></title>
+            <link>https://www.newyorker.com/culture/the-new-yorker-documentary/searching-for-treasure-and-purpose-in-the-rockies</link>
+            <guid>https://www.newyorker.com/culture/the-new-yorker-documentary/searching-for-treasure-and-purpose-in-the-rockies</guid>
+            <pubDate>Wed, 23 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Searching for Treasure and Purpose in the Rockies]]></description>
+        </item>
+        <item>
+            <title><![CDATA[帕梅拉-阿德隆如何在 "更好的事情 "中製作羅宋湯]]></title>
+            <link>https://www.newyorker.com/culture/kitchen-notes/how-pamela-adlon-makes-borscht-on-better-things</link>
+            <guid>https://www.newyorker.com/culture/kitchen-notes/how-pamela-adlon-makes-borscht-on-better-things</guid>
+            <pubDate>Wed, 23 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[How Pamela Adlon Makes Borscht on “Better Things”]]></description>
+        </item>
+        <item>
+            <title><![CDATA[駕駛我的車 "在第二次觀看時揭示了什麼]]></title>
+            <link>https://www.newyorker.com/culture/culture-desk/what-drive-my-car-reveals-on-a-second-viewing</link>
+            <guid>https://www.newyorker.com/culture/culture-desk/what-drive-my-car-reveals-on-a-second-viewing</guid>
+            <pubDate>Wed, 23 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[What “Drive My Car” Reveals on a Second Viewing]]></description>
+        </item>
+        <item>
+            <title><![CDATA[這還不是歷史上最危險的時刻。然而。]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/03/ukraine-russia-nuclear-weapons-cold-war/627587/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/03/ukraine-russia-nuclear-weapons-cold-war/627587/?utm_source=feed</guid>
+            <pubDate>Wed, 23 Mar 2022 09:42:59 GMT</pubDate>
+            <description><![CDATA[This Isn't History's Most Dangerous Moment. Yet.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美國人對大流行病的真實想法]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/03/covid-survey-results-public-opinion/627582/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/03/covid-survey-results-public-opinion/627582/?utm_source=feed</guid>
+            <pubDate>Wed, 23 Mar 2022 10:00:57 GMT</pubDate>
+            <description><![CDATA[What Americans Really Think About the Pandemic]]></description>
+        </item>
+        <item>
+            <title><![CDATA[傑克遜法官的確認聽證會與傑克遜法官關係不大]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/03/ketanji-brown-jackson-confirmation-hearing/627586/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/03/ketanji-brown-jackson-confirmation-hearing/627586/?utm_source=feed</guid>
+            <pubDate>Wed, 23 Mar 2022 10:00:58 GMT</pubDate>
+            <description><![CDATA[Judge Jackson’s Confirmation Hearing Has Had Little to Do With Judge Jackson]]></description>
+        </item>
         <item>
             <title><![CDATA[烏克蘭的經濟前景]]></title>
             <link>https://noahpinion.substack.com/p/ukraines-economic-future</link>
@@ -4136,83 +4213,6 @@
             <guid>https://www.newyorker.com/video/watch/i-never-had-dreams-of-my-son</guid>
             <pubDate>Wed, 09 Mar 2022 11:00:00 GMT</pubDate>
             <description><![CDATA[A Soldier Goes Missing in Ukraine—Can His Father Find Him?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[佛教的豐富遺產]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/07/the-rich-legacy-of-buddhism</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/07/the-rich-legacy-of-buddhism</guid>
-            <pubDate>Fri, 25 Feb 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[The Rich Legacy of Buddhism]]></description>
-        </item>
-        <item>
-            <title><![CDATA[珠穆朗瑪峰意大利語，在Ci Siamo舉行]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/14/zhuzhed-up-italian-at-ci-siamo</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/14/zhuzhed-up-italian-at-ci-siamo</guid>
-            <pubDate>Fri, 04 Mar 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[Zhuzhed-Up Italian, at Ci Siamo]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一位保護其文化遺產的科特迪瓦藝術家]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/14/an-ivorian-artist-who-preserved-his-cultural-heritage</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/14/an-ivorian-artist-who-preserved-his-cultural-heritage</guid>
-            <pubDate>Fri, 04 Mar 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[An Ivorian Artist Who Preserved His Cultural Heritage]]></description>
-        </item>
-        <item>
-            <title><![CDATA[檸檬頭樂隊的青春憂鬱]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/14/the-youthful-melancholy-of-the-lemonheads</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/14/the-youthful-melancholy-of-the-lemonheads</guid>
-            <pubDate>Mon, 07 Mar 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[The Youthful Melancholy of the Lemonheads]]></description>
-        </item>
-        <item>
-            <title><![CDATA[音樂充斥著羅斯科教堂]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/14/music-fills-the-rothko-chapel</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/14/music-fills-the-rothko-chapel</guid>
-            <pubDate>Mon, 07 Mar 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[Music Fills the Rothko Chapel]]></description>
-        </item>
-        <item>
-            <title><![CDATA[哈里-杜魯門幫助建立了我們的世界秩序，不管是好是壞都是如此]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/14/harry-truman-helped-make-our-world-order-for-better-and-for-worse-jeffrey-frank-the-trials-of-harry-s-truman</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/14/harry-truman-helped-make-our-world-order-for-better-and-for-worse-jeffrey-frank-the-trials-of-harry-s-truman</guid>
-            <pubDate>Mon, 07 Mar 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[Harry Truman Helped Make Our World Order, for Better and for Worse]]></description>
-        </item>
-        <item>
-            <title><![CDATA["蝙蝠俠 "是對羅伯特-帕丁森的一種浪費]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/14/the-batman-is-a-waste-of-robert-pattinson</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/14/the-batman-is-a-waste-of-robert-pattinson</guid>
-            <pubDate>Thu, 03 Mar 2022 20:00:00 GMT</pubDate>
-            <description><![CDATA[“The Batman” Is a Waste of Robert Pattinson]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄羅斯仍未撤軍]]></title>
-            <link>https://www.newyorker.com/cartoons/blitts-kvetchbook/still-no-russian-withdrawal</link>
-            <guid>https://www.newyorker.com/cartoons/blitts-kvetchbook/still-no-russian-withdrawal</guid>
-            <pubDate>Thu, 10 Mar 2022 20:51:05 GMT</pubDate>
-            <description><![CDATA[Still No Russian Withdrawal]]></description>
-        </item>
-        <item>
-            <title><![CDATA[科內爾-韋斯特看到了文化中的精神衰落]]></title>
-            <link>https://www.newyorker.com/culture/the-new-yorker-interview/cornel-west-sees-a-spiritual-decay-in-the-culture</link>
-            <guid>https://www.newyorker.com/culture/the-new-yorker-interview/cornel-west-sees-a-spiritual-decay-in-the-culture</guid>
-            <pubDate>Wed, 09 Mar 2022 21:05:58 GMT</pubDate>
-            <description><![CDATA[Cornel West Sees a Spiritual Decay in the Culture]]></description>
-        </item>
-        <item>
-            <title><![CDATA[被圍困的烏克蘭]]></title>
-            <link>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/ukraine-under-siege</link>
-            <guid>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/ukraine-under-siege</guid>
-            <pubDate>Fri, 04 Mar 2022 21:44:19 GMT</pubDate>
-            <description><![CDATA[Ukraine Under Siege]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一位女士如何利用喜劇為巴勒斯坦權利發聲]]></title>
-            <link>https://www.newyorker.com/video/watch/the-new-yorker-documentary-how-one-woman-is-using-comedy-to-speak-up-about-palestinian-rights</link>
-            <guid>https://www.newyorker.com/video/watch/the-new-yorker-documentary-how-one-woman-is-using-comedy-to-speak-up-about-palestinian-rights</guid>
-            <pubDate>Wed, 22 Dec 2021 11:00:00 GMT</pubDate>
-            <description><![CDATA[How One Woman Is Using Comedy to Speak Up About Palestinian Rights]]></description>
         </item>
     </channel>
 </rss>
