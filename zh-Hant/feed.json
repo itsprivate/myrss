@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/23/technology/google-play-store-billing.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/23/technology/google-play-store-billing.html",
+            "title": "谷歌將允許一些應用程序，從Spotify開始，提供替代的計費方式",
+            "summary": "Google Will Allow Some Apps, Starting With Spotify, to Offer Alternate Billing Methods",
+            "date_modified": "2022-03-23T22:11:21.000Z",
+            "author": {
+                "name": "Daisuke Wakabayashi",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/newsletters/archive/2022/03/the-threat-to-free-speech-beyond-cancel-culture/627599/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/newsletters/archive/2022/03/the-threat-to-free-speech-beyond-cancel-culture/627599/?utm_source=feed",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-11T15:00:57.000Z",
             "author": {
                 "name": "Kate Cray",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/family/archive/2022/03/sisterhood-between-single-mothers/627027/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/family/archive/2022/03/sisterhood-between-single-mothers/627027/?utm_source=feed",
-            "title": "教會她如何做一個單親媽媽的朋友",
-            "summary": "The Friend Who Taught Her She Could Make It as a Single Mom",
-            "date_modified": "2022-03-11T15:00:57.000Z",
-            "author": {
-                "name": "Julie Beck",
                 "url": "https://www.theatlantic.com/feed/all/"
             }
         }
