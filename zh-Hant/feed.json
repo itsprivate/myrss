@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/23/us/politics/biden-russia-cyberattacks.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/23/us/politics/biden-russia-cyberattacks.html",
+            "title": "拜登政府著眼於俄羅斯，要求企業報告網絡攻擊行為",
+            "summary": "With Eye to Russia, Biden Administration Asks Companies to Report Cyberattacks",
+            "date_modified": "2022-03-23T20:44:03.000Z",
+            "author": {
+                "name": "Kate Conger",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/03/23/technology/personaltech/john-roach-dead.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/23/technology/personaltech/john-roach-dead.html",
+            "title": "個人電腦的先驅約翰-羅奇去世，享年83歲",
+            "summary": "John Roach, Pioneer of the Personal Computer, Is Dead at 83",
+            "date_modified": "2022-03-23T20:44:32.000Z",
+            "author": {
+                "name": "Sam Roberts",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/culture/archive/2022/03/underscores-music/627592/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/culture/archive/2022/03/underscores-music/627592/?utm_source=feed",
+            "title": "一個讓我對音樂的未來感到興奮的藝術家",
+            "summary": "An Artist Who Makes Me Excited About the Future of Music",
+            "date_modified": "2022-03-23T20:33:56.000Z",
+            "author": {
+                "name": "Spencer Kornhaber",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/books/under-review/the-harsh-realm-of-gentle-parenting",
             "content_html": "",
             "url": "https://www.newyorker.com/books/under-review/the-harsh-realm-of-gentle-parenting",
@@ -7172,42 +7208,6 @@
             "author": {
                 "name": "James Parker",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/politics/archive/2022/03/republicans-ukraine-russia-war-putin-trump/627019/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/politics/archive/2022/03/republicans-ukraine-russia-war-putin-trump/627019/?utm_source=feed",
-            "title": "共和黨人與普京劃清界限",
-            "summary": "Republicans Draw the Line at Putin",
-            "date_modified": "2022-03-11T12:00:56.000Z",
-            "author": {
-                "name": "Elaine Godfrey",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/family/archive/2022/03/covid-babies-toddler-growth-development/627030/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/family/archive/2022/03/covid-babies-toddler-growth-development/627030/?utm_source=feed",
-            "title": "COVID的孩子們現在正在學步",
-            "summary": "The COVID Babies Are Toddlers Now",
-            "date_modified": "2022-03-11T12:00:56.000Z",
-            "author": {
-                "name": "Lydia Denworth",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/03/21/dionne-warwicks-flawless-voice",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/03/21/dionne-warwicks-flawless-voice",
-            "title": "迪翁-沃裡克的無暇之音",
-            "summary": "Dionne Warwick’s Flawless Voice",
-            "date_modified": "2022-03-11T11:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]

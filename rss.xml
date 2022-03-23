@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 23 Mar 2022 20:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 20:53:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[拜登政府着眼于俄罗斯，要求企业报告网络攻击行为]]></title>
+            <link>https://www.nytimes.com/2022/03/23/us/politics/biden-russia-cyberattacks.html</link>
+            <guid>https://www.nytimes.com/2022/03/23/us/politics/biden-russia-cyberattacks.html</guid>
+            <pubDate>Wed, 23 Mar 2022 20:44:03 GMT</pubDate>
+            <description><![CDATA[With Eye to Russia, Biden Administration Asks Companies to Report Cyberattacks]]></description>
+        </item>
+        <item>
+            <title><![CDATA[个人电脑的先驱约翰-罗奇去世，享年83岁]]></title>
+            <link>https://www.nytimes.com/2022/03/23/technology/personaltech/john-roach-dead.html</link>
+            <guid>https://www.nytimes.com/2022/03/23/technology/personaltech/john-roach-dead.html</guid>
+            <pubDate>Wed, 23 Mar 2022 20:44:32 GMT</pubDate>
+            <description><![CDATA[John Roach, Pioneer of the Personal Computer, Is Dead at 83]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一个让我对音乐的未来感到兴奋的艺术家]]></title>
+            <link>https://www.theatlantic.com/culture/archive/2022/03/underscores-music/627592/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/culture/archive/2022/03/underscores-music/627592/?utm_source=feed</guid>
+            <pubDate>Wed, 23 Mar 2022 20:33:56 GMT</pubDate>
+            <description><![CDATA[An Artist Who Makes Me Excited About the Future of Music]]></description>
+        </item>
         <item>
             <title><![CDATA["温柔教养 "的严酷境界]]></title>
             <link>https://www.newyorker.com/books/under-review/the-harsh-realm-of-gentle-parenting</link>
@@ -4192,27 +4213,6 @@
             <guid>https://www.theatlantic.com/magazine/archive/2022/04/jack-kerouac-neal-cassady-friendship/622829/?utm_source=feed</guid>
             <pubDate>Fri, 11 Mar 2022 12:00:57 GMT</pubDate>
             <description><![CDATA[The Story of Jack and Neal]]></description>
-        </item>
-        <item>
-            <title><![CDATA[共和党人与普京划清界限]]></title>
-            <link>https://www.theatlantic.com/politics/archive/2022/03/republicans-ukraine-russia-war-putin-trump/627019/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/politics/archive/2022/03/republicans-ukraine-russia-war-putin-trump/627019/?utm_source=feed</guid>
-            <pubDate>Fri, 11 Mar 2022 12:00:56 GMT</pubDate>
-            <description><![CDATA[Republicans Draw the Line at Putin]]></description>
-        </item>
-        <item>
-            <title><![CDATA[COVID的孩子们现在正在学步]]></title>
-            <link>https://www.theatlantic.com/family/archive/2022/03/covid-babies-toddler-growth-development/627030/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/family/archive/2022/03/covid-babies-toddler-growth-development/627030/?utm_source=feed</guid>
-            <pubDate>Fri, 11 Mar 2022 12:00:56 GMT</pubDate>
-            <description><![CDATA[The COVID Babies Are Toddlers Now]]></description>
-        </item>
-        <item>
-            <title><![CDATA[迪翁-沃里克的无暇之音]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/21/dionne-warwicks-flawless-voice</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/21/dionne-warwicks-flawless-voice</guid>
-            <pubDate>Fri, 11 Mar 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[Dionne Warwick’s Flawless Voice]]></description>
         </item>
     </channel>
 </rss>

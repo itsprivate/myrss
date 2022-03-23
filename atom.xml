@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-23T20:14:38.818Z</updated>
+    <updated>2022-03-23T20:53:51.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[拜登政府着眼于俄罗斯，要求企业报告网络攻击行为]]></title>
+        <id>https://www.nytimes.com/2022/03/23/us/politics/biden-russia-cyberattacks.html</id>
+        <link href="https://www.nytimes.com/2022/03/23/us/politics/biden-russia-cyberattacks.html"/>
+        <updated>2022-03-23T20:44:03.000Z</updated>
+        <summary type="html"><![CDATA[With Eye to Russia, Biden Administration Asks Companies to Report Cyberattacks]]></summary>
+        <author>
+            <name>Kate Conger</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[个人电脑的先驱约翰-罗奇去世，享年83岁]]></title>
+        <id>https://www.nytimes.com/2022/03/23/technology/personaltech/john-roach-dead.html</id>
+        <link href="https://www.nytimes.com/2022/03/23/technology/personaltech/john-roach-dead.html"/>
+        <updated>2022-03-23T20:44:32.000Z</updated>
+        <summary type="html"><![CDATA[John Roach, Pioneer of the Personal Computer, Is Dead at 83]]></summary>
+        <author>
+            <name>Sam Roberts</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个让我对音乐的未来感到兴奋的艺术家]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/03/underscores-music/627592/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/03/underscores-music/627592/?utm_source=feed"/>
+        <updated>2022-03-23T20:33:56.000Z</updated>
+        <summary type="html"><![CDATA[An Artist Who Makes Me Excited About the Future of Music]]></summary>
+        <author>
+            <name>Spencer Kornhaber</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["温柔教养 "的严酷境界]]></title>
         <id>https://www.newyorker.com/books/under-review/the-harsh-realm-of-gentle-parenting</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>James Parker</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[共和党人与普京划清界限]]></title>
-        <id>https://www.theatlantic.com/politics/archive/2022/03/republicans-ukraine-russia-war-putin-trump/627019/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/politics/archive/2022/03/republicans-ukraine-russia-war-putin-trump/627019/?utm_source=feed"/>
-        <updated>2022-03-11T12:00:56.000Z</updated>
-        <summary type="html"><![CDATA[Republicans Draw the Line at Putin]]></summary>
-        <author>
-            <name>Elaine Godfrey</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COVID的孩子们现在正在学步]]></title>
-        <id>https://www.theatlantic.com/family/archive/2022/03/covid-babies-toddler-growth-development/627030/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/family/archive/2022/03/covid-babies-toddler-growth-development/627030/?utm_source=feed"/>
-        <updated>2022-03-11T12:00:56.000Z</updated>
-        <summary type="html"><![CDATA[The COVID Babies Are Toddlers Now]]></summary>
-        <author>
-            <name>Lydia Denworth</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[迪翁-沃里克的无暇之音]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/21/dionne-warwicks-flawless-voice</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/21/dionne-warwicks-flawless-voice"/>
-        <updated>2022-03-11T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dionne Warwick’s Flawless Voice]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
