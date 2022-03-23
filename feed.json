@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.currentaffairs.org/2022/03/i-tried-to-lead-an-ethical-star-nation/",
+            "content_html": "",
+            "url": "https://www.currentaffairs.org/2022/03/i-tried-to-lead-an-ethical-star-nation/",
+            "title": "我曾试图领导一个有道德的明星国家",
+            "summary": "I Tried to Lead an Ethical Star Nation",
+            "date_modified": "2022-03-23T15:02:34.000Z",
+            "author": {
+                "name": "Michael Thomas Carter",
+                "url": "https://www.currentaffairs.org/feed"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/photo/2022/03/photos-ukraine-war/627590/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/photo/2022/03/photos-ukraine-war/627590/?utm_source=feed",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Tom Nichols",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/11/technology/apple-trademarks.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/11/technology/apple-trademarks.html",
-            "title": "应用程序和橙子。苹果在商标上 \"欺负 \"的背后",
-            "summary": "Apps and Oranges: Behind Apple’s ‘Bullying’ on Trademarks",
-            "date_modified": "2022-03-11T10:00:20.000Z",
-            "author": {
-                "name": "Ryan Mac and Kellen Browning",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
     ]
