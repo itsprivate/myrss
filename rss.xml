@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 23 Mar 2022 17:58:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 18:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个月的战争改变了乌克兰]]></title>
+            <link>https://www.theatlantic.com/photo/2022/03/photos-ukraine-war/627590/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/photo/2022/03/photos-ukraine-war/627590/?utm_source=feed</guid>
+            <pubDate>Wed, 23 Mar 2022 17:56:19 GMT</pubDate>
+            <description><![CDATA[A Month of War Has Transformed Ukraine]]></description>
+        </item>
         <item>
             <title><![CDATA[小说与阿根廷的变性人权利之争]]></title>
             <link>https://www.newyorker.com/news/daily-comment/a-novel-and-the-fight-for-transgender-rights-in-argentina</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.nytimes.com/2022/03/11/technology/apple-trademarks.html</guid>
             <pubDate>Fri, 11 Mar 2022 10:00:20 GMT</pubDate>
             <description><![CDATA[Apps and Oranges: Behind Apple’s ‘Bullying’ on Trademarks]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中国的俄罗斯政策是关于美国的]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/china-xi-ukraine-war-america/627028/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/china-xi-ukraine-war-america/627028/?utm_source=feed</guid>
-            <pubDate>Fri, 11 Mar 2022 10:00:56 GMT</pubDate>
-            <description><![CDATA[China's Russia Policy Is About America]]></description>
         </item>
     </channel>
 </rss>

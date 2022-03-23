@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-23T17:58:04.757Z</updated>
+    <updated>2022-03-23T18:16:52.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個月的戰爭改變了烏克蘭]]></title>
+        <id>https://www.theatlantic.com/photo/2022/03/photos-ukraine-war/627590/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/photo/2022/03/photos-ukraine-war/627590/?utm_source=feed"/>
+        <updated>2022-03-23T17:56:19.000Z</updated>
+        <summary type="html"><![CDATA[A Month of War Has Transformed Ukraine]]></summary>
+        <author>
+            <name>Alan Taylor</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小說與阿根廷的變性人權利之爭]]></title>
         <id>https://www.newyorker.com/news/daily-comment/a-novel-and-the-fight-for-transgender-rights-in-argentina</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Ryan Mac and Kellen Browning</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中國的俄羅斯政策是關於美國的]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/china-xi-ukraine-war-america/627028/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/china-xi-ukraine-war-america/627028/?utm_source=feed"/>
-        <updated>2022-03-11T10:00:56.000Z</updated>
-        <summary type="html"><![CDATA[China's Russia Policy Is About America]]></summary>
-        <author>
-            <name>Wendy Zhou</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
