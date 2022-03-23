@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-23T19:39:52.016Z</updated>
+    <updated>2022-03-23T19:53:08.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[職業母親在傑克遜法官的話語中聽到的內容]]></title>
+        <id>https://www.theatlantic.com/family/archive/2022/03/ketanji-brown-jackson-hearing-working-mom-guilt/627595/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/family/archive/2022/03/ketanji-brown-jackson-hearing-working-mom-guilt/627595/?utm_source=feed"/>
+        <updated>2022-03-23T19:30:57.000Z</updated>
+        <summary type="html"><![CDATA[What Working Mothers Heard in Judge Jackson’s Words]]></summary>
+        <author>
+            <name>Molly Jong-Fast</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[男人不接受治療，簡直會有完全不同的心理過程]]></title>
         <id>https://astralcodexten.substack.com/p/men-will-literally-have-completely</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>unknown</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[克羅默]]></title>
-        <id>https://www.theatlantic.com/magazine/archive/2022/04/paul-yoon-short-story-cromer/622828/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/magazine/archive/2022/04/paul-yoon-short-story-cromer/622828/?utm_source=feed"/>
-        <updated>2022-03-11T11:00:56.000Z</updated>
-        <summary type="html"><![CDATA[Cromer]]></summary>
-        <author>
-            <name>Paul Yoon</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>

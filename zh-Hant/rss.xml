@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 23 Mar 2022 19:39:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 19:53:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[職業母親在傑克遜法官的話語中聽到的內容]]></title>
+            <link>https://www.theatlantic.com/family/archive/2022/03/ketanji-brown-jackson-hearing-working-mom-guilt/627595/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/family/archive/2022/03/ketanji-brown-jackson-hearing-working-mom-guilt/627595/?utm_source=feed</guid>
+            <pubDate>Wed, 23 Mar 2022 19:30:57 GMT</pubDate>
+            <description><![CDATA[What Working Mothers Heard in Judge Jackson’s Words]]></description>
+        </item>
         <item>
             <title><![CDATA[男人不接受治療，簡直會有完全不同的心理過程]]></title>
             <link>https://astralcodexten.substack.com/p/men-will-literally-have-completely</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/culture/screening-room/in-stickworld-sticks-grow-on-trees</guid>
             <pubDate>Fri, 11 Mar 2022 11:00:00 GMT</pubDate>
             <description><![CDATA[In “Stickworld,” Sticks Grow on Trees]]></description>
-        </item>
-        <item>
-            <title><![CDATA[克羅默]]></title>
-            <link>https://www.theatlantic.com/magazine/archive/2022/04/paul-yoon-short-story-cromer/622828/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/magazine/archive/2022/04/paul-yoon-short-story-cromer/622828/?utm_source=feed</guid>
-            <pubDate>Fri, 11 Mar 2022 11:00:56 GMT</pubDate>
-            <description><![CDATA[Cromer]]></description>
         </item>
     </channel>
 </rss>
