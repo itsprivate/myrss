@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-23T22:33:59.349Z</updated>
+    <updated>2022-03-23T22:52:23.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們能從一個星系中瞭解到什麼？]]></title>
+        <id>https://www.newyorker.com/science/elements/what-can-we-learn-about-the-universe-from-just-one-galaxy</id>
+        <link href="https://www.newyorker.com/science/elements/what-can-we-learn-about-the-universe-from-just-one-galaxy"/>
+        <updated>2022-03-23T22:38:26.000Z</updated>
+        <summary type="html"><![CDATA[What Can We Learn About the Universe from Just One Galaxy?]]></summary>
+        <author>
+            <name>Rivka Galchen</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌將允許一些應用程序，從Spotify開始，提供替代的計費方式]]></title>
         <id>https://www.nytimes.com/2022/03/23/technology/google-play-store-billing.html</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[We Still Don’t Know the Risk of Long COVID]]></summary>
         <author>
             <name>Katherine J. Wu</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爭奪我們的注意力]]></title>
-        <id>https://www.theatlantic.com/books/archive/2022/03/books-briefing-tim-wu-mary-oliver-hannah-arendt/627007/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/books/archive/2022/03/books-briefing-tim-wu-mary-oliver-hannah-arendt/627007/?utm_source=feed"/>
-        <updated>2022-03-11T15:00:57.000Z</updated>
-        <summary type="html"><![CDATA[The Fight for Our Attention]]></summary>
-        <author>
-            <name>Kate Cray</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>

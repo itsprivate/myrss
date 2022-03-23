@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 23 Mar 2022 22:33:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 22:52:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我们能从一个星系中了解到什么？]]></title>
+            <link>https://www.newyorker.com/science/elements/what-can-we-learn-about-the-universe-from-just-one-galaxy</link>
+            <guid>https://www.newyorker.com/science/elements/what-can-we-learn-about-the-universe-from-just-one-galaxy</guid>
+            <pubDate>Wed, 23 Mar 2022 22:38:26 GMT</pubDate>
+            <description><![CDATA[What Can We Learn About the Universe from Just One Galaxy?]]></description>
+        </item>
         <item>
             <title><![CDATA[谷歌将允许一些应用程序，从Spotify开始，提供替代的计费方式]]></title>
             <link>https://www.nytimes.com/2022/03/23/technology/google-play-store-billing.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/health/archive/2022/03/long-covid-risk/627031/?utm_source=feed</guid>
             <pubDate>Fri, 11 Mar 2022 15:37:10 GMT</pubDate>
             <description><![CDATA[We Still Don’t Know the Risk of Long COVID]]></description>
-        </item>
-        <item>
-            <title><![CDATA[争夺我们的注意力]]></title>
-            <link>https://www.theatlantic.com/books/archive/2022/03/books-briefing-tim-wu-mary-oliver-hannah-arendt/627007/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/books/archive/2022/03/books-briefing-tim-wu-mary-oliver-hannah-arendt/627007/?utm_source=feed</guid>
-            <pubDate>Fri, 11 Mar 2022 15:00:57 GMT</pubDate>
-            <description><![CDATA[The Fight for Our Attention]]></description>
         </item>
     </channel>
 </rss>

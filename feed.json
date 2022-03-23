@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/science/elements/what-can-we-learn-about-the-universe-from-just-one-galaxy",
+            "content_html": "",
+            "url": "https://www.newyorker.com/science/elements/what-can-we-learn-about-the-universe-from-just-one-galaxy",
+            "title": "我们能从一个星系中了解到什么？",
+            "summary": "What Can We Learn About the Universe from Just One Galaxy?",
+            "date_modified": "2022-03-23T22:38:26.000Z",
+            "author": {
+                "name": "Rivka Galchen",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/23/technology/google-play-store-billing.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/23/technology/google-play-store-billing.html",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-11T15:37:10.000Z",
             "author": {
                 "name": "Katherine J. Wu",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/books/archive/2022/03/books-briefing-tim-wu-mary-oliver-hannah-arendt/627007/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/books/archive/2022/03/books-briefing-tim-wu-mary-oliver-hannah-arendt/627007/?utm_source=feed",
-            "title": "争夺我们的注意力",
-            "summary": "The Fight for Our Attention",
-            "date_modified": "2022-03-11T15:00:57.000Z",
-            "author": {
-                "name": "Kate Cray",
                 "url": "https://www.theatlantic.com/feed/all/"
             }
         }
