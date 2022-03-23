@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 23 Mar 2022 14:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 14:31:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[节省或不节省日光？]]></title>
+            <link>https://www.theatlantic.com/family/archive/2022/03/daylight-saving-time-compromise-bill/627589/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/family/archive/2022/03/daylight-saving-time-compromise-bill/627589/?utm_source=feed</guid>
+            <pubDate>Wed, 23 Mar 2022 14:03:18 GMT</pubDate>
+            <description><![CDATA[To Save or Not to Save Daylight?]]></description>
+        </item>
         <item>
             <title><![CDATA[每日漫画。3月23日，星期三]]></title>
             <link>https://www.newyorker.com/cartoons/daily-cartoon/wednesday-march-23rd-hope-dread</link>
@@ -4206,13 +4213,6 @@
             <guid>https://astralcodexten.substack.com/p/austin-meetup-next-sunday</guid>
             <pubDate>Fri, 18 Feb 2022 19:34:59 GMT</pubDate>
             <description><![CDATA[Austin Meetup Next Sunday]]></description>
-        </item>
-        <item>
-            <title><![CDATA[公开主题212]]></title>
-            <link>https://astralcodexten.substack.com/p/open-thread-212</link>
-            <guid>https://astralcodexten.substack.com/p/open-thread-212</guid>
-            <pubDate>Mon, 21 Feb 2022 00:42:59 GMT</pubDate>
-            <description><![CDATA[Open Thread 212]]></description>
         </item>
     </channel>
 </rss>

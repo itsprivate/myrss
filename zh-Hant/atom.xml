@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-23T14:14:17.422Z</updated>
+    <updated>2022-03-23T14:31:57.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[節省或不節省日光？]]></title>
+        <id>https://www.theatlantic.com/family/archive/2022/03/daylight-saving-time-compromise-bill/627589/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/family/archive/2022/03/daylight-saving-time-compromise-bill/627589/?utm_source=feed"/>
+        <updated>2022-03-23T14:03:18.000Z</updated>
+        <summary type="html"><![CDATA[To Save or Not to Save Daylight?]]></summary>
+        <author>
+            <name>Joe Pinsker</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日漫畫。3月23日，星期三]]></title>
         <id>https://www.newyorker.com/cartoons/daily-cartoon/wednesday-march-23rd-hope-dread</id>
@@ -6599,17 +6610,6 @@
         <link href="https://astralcodexten.substack.com/p/austin-meetup-next-sunday"/>
         <updated>2022-02-18T19:34:59.000Z</updated>
         <summary type="html"><![CDATA[Austin Meetup Next Sunday]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公開主題212]]></title>
-        <id>https://astralcodexten.substack.com/p/open-thread-212</id>
-        <link href="https://astralcodexten.substack.com/p/open-thread-212"/>
-        <updated>2022-02-21T00:42:59.000Z</updated>
-        <summary type="html"><![CDATA[Open Thread 212]]></summary>
         <author>
             <name>Scott Alexander</name>
             <uri>https://astralcodexten.substack.com/feed</uri>
