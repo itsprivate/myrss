@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-23T14:31:57.745Z</updated>
+    <updated>2022-03-23T17:30:37.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[未能撼動傑克遜讓克魯茲逃往坎昆]]></title>
+        <id>https://www.newyorker.com/humor/borowitz-report/failure-to-rattle-jackson-sends-cruz-fleeing-to-cancun</id>
+        <link href="https://www.newyorker.com/humor/borowitz-report/failure-to-rattle-jackson-sends-cruz-fleeing-to-cancun"/>
+        <updated>2022-03-23T15:10:07.000Z</updated>
+        <summary type="html"><![CDATA[Failure to Rattle Jackson Sends Cruz Fleeing to Cancun]]></summary>
+        <author>
+            <name>Andy Borowitz</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以色列阻止向烏克蘭和愛沙尼亞出售飛馬間諜軟件]]></title>
+        <id>https://www.nytimes.com/2022/03/23/us/politics/pegasus-israel-ukraine-russia.html</id>
+        <link href="https://www.nytimes.com/2022/03/23/us/politics/pegasus-israel-ukraine-russia.html"/>
+        <updated>2022-03-23T16:58:42.000Z</updated>
+        <summary type="html"><![CDATA[Israel Blocked Sale of Pegasus Spyware to Ukraine and Estonia]]></summary>
+        <author>
+            <name>Ronen Bergman and Mark Mazzetti</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沒有全球性的購物中心]]></title>
+        <id>https://www.nytimes.com/2022/03/23/technology/global-shopping-big-tech.html</id>
+        <link href="https://www.nytimes.com/2022/03/23/technology/global-shopping-big-tech.html"/>
+        <updated>2022-03-23T16:44:13.000Z</updated>
+        <summary type="html"><![CDATA[There’s No Global Shopping Mall]]></summary>
+        <author>
+            <name>Shira Ovide</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[準備好迎接一波被遺漏的傳染病]]></title>
+        <id>https://www.theatlantic.com/health/archive/2022/03/ba2-variant-rapid-testing/627591/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/health/archive/2022/03/ba2-variant-rapid-testing/627591/?utm_source=feed"/>
+        <updated>2022-03-23T15:40:26.000Z</updated>
+        <summary type="html"><![CDATA[Get Ready for a Wave of Missed Infections]]></summary>
+        <author>
+            <name>Benjamin Mazer</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[當今美國性生活的難題]]></title>
+        <id>https://www.theatlantic.com/books/archive/2022/03/corinne-hoex-gentlemen-callers-review/627203/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/books/archive/2022/03/corinne-hoex-gentlemen-callers-review/627203/?utm_source=feed"/>
+        <updated>2022-03-23T16:37:12.000Z</updated>
+        <summary type="html"><![CDATA[The Conundrum of Sexual Life in Today’s America]]></summary>
+        <author>
+            <name>Zoë Hu</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[節省或不節省日光？]]></title>
         <id>https://www.theatlantic.com/family/archive/2022/03/daylight-saving-time-compromise-bill/627589/?utm_source=feed</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>Olena Halushka</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本週的照片。泥浴、雪橇犬、烏克蘭危機]]></title>
-        <id>https://www.theatlantic.com/photo/2022/03/photos-of-the-week-mud-bath-sled-dogs-ukraine-crisis/627033/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/photo/2022/03/photos-of-the-week-mud-bath-sled-dogs-ukraine-crisis/627033/?utm_source=feed"/>
-        <updated>2022-03-11T05:30:57.000Z</updated>
-        <summary type="html"><![CDATA[Photos of the Week: Mud Bath, Sled Dogs, Ukraine Crisis]]></summary>
-        <author>
-            <name>Alan Taylor</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[書評。可悲的是，色情]]></title>
-        <id>https://astralcodexten.substack.com/p/book-review-sadly-porn</id>
-        <link href="https://astralcodexten.substack.com/p/book-review-sadly-porn"/>
-        <updated>2022-02-16T20:44:15.000Z</updated>
-        <summary type="html"><![CDATA[Book Review: Sadly, Porn]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[神靈只有在我們相信他們的情況下才有力量]]></title>
-        <id>https://astralcodexten.substack.com/p/the-gods-only-have-power-because</id>
-        <link href="https://astralcodexten.substack.com/p/the-gods-only-have-power-because"/>
-        <updated>2022-02-17T21:02:11.000Z</updated>
-        <summary type="html"><![CDATA[The Gods Only Have Power Because We Believe In Them]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隱秘的公開主題211.5]]></title>
-        <id>https://astralcodexten.substack.com/p/hidden-open-thread-2115</id>
-        <link href="https://astralcodexten.substack.com/p/hidden-open-thread-2115"/>
-        <updated>2022-02-18T18:39:16.000Z</updated>
-        <summary type="html"><![CDATA[Hidden Open Thread 211.5]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[下週日的奧斯汀聚會]]></title>
-        <id>https://astralcodexten.substack.com/p/austin-meetup-next-sunday</id>
-        <link href="https://astralcodexten.substack.com/p/austin-meetup-next-sunday"/>
-        <updated>2022-02-18T19:34:59.000Z</updated>
-        <summary type="html"><![CDATA[Austin Meetup Next Sunday]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
         </author>
     </entry>
 </feed>
