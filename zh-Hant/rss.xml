@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 24 Mar 2022 15:25:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 16:42:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Uber與紐約市的黃色出租車公司合作]]></title>
+            <link>https://www.nytimes.com/2022/03/24/business/uber-new-york-taxis.html</link>
+            <guid>https://www.nytimes.com/2022/03/24/business/uber-new-york-taxis.html</guid>
+            <pubDate>Thu, 24 Mar 2022 15:20:16 GMT</pubDate>
+            <description><![CDATA[Uber Partners With Yellow Taxi Companies in N.Y.C.]]></description>
+        </item>
         <item>
             <title><![CDATA[亞馬遜是如何在即將到來的兩次選舉中抵制工會的？]]></title>
             <link>https://www.nytimes.com/2022/03/24/business/amazon-meetings-union-elections.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/newsletters/archive/2022/03/was-biden-right-to-ban-russian-oil/627045/?utm_source=feed</guid>
             <pubDate>Fri, 11 Mar 2022 22:19:39 GMT</pubDate>
             <description><![CDATA[Was Biden Right to Ban Russian Oil?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[暴君的弱點]]></title>
-            <link>https://www.newyorker.com/news/q-and-a/stephen-kotkin-putin-russia-ukraine-stalin</link>
-            <guid>https://www.newyorker.com/news/q-and-a/stephen-kotkin-putin-russia-ukraine-stalin</guid>
-            <pubDate>Fri, 11 Mar 2022 21:35:38 GMT</pubDate>
-            <description><![CDATA[The Weakness of the Despot]]></description>
         </item>
     </channel>
 </rss>

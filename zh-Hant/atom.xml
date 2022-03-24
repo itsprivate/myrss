@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-24T15:25:05.646Z</updated>
+    <updated>2022-03-24T16:42:23.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Uber與紐約市的黃色出租車公司合作]]></title>
+        <id>https://www.nytimes.com/2022/03/24/business/uber-new-york-taxis.html</id>
+        <link href="https://www.nytimes.com/2022/03/24/business/uber-new-york-taxis.html"/>
+        <updated>2022-03-24T15:20:16.000Z</updated>
+        <summary type="html"><![CDATA[Uber Partners With Yellow Taxi Companies in N.Y.C.]]></summary>
+        <author>
+            <name>Winnie Hu and Brian Rosenthal</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亞馬遜是如何在即將到來的兩次選舉中抵制工會的？]]></title>
         <id>https://www.nytimes.com/2022/03/24/business/amazon-meetings-union-elections.html</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Conor Friedersdorf</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暴君的弱點]]></title>
-        <id>https://www.newyorker.com/news/q-and-a/stephen-kotkin-putin-russia-ukraine-stalin</id>
-        <link href="https://www.newyorker.com/news/q-and-a/stephen-kotkin-putin-russia-ukraine-stalin"/>
-        <updated>2022-03-11T21:35:38.000Z</updated>
-        <summary type="html"><![CDATA[The Weakness of the Despot]]></summary>
-        <author>
-            <name>David Remnick</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
 </feed>

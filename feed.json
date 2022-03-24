@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/24/business/uber-new-york-taxis.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/24/business/uber-new-york-taxis.html",
+            "title": "Uber与纽约市的黄色出租车公司合作",
+            "summary": "Uber Partners With Yellow Taxi Companies in N.Y.C.",
+            "date_modified": "2022-03-24T15:20:16.000Z",
+            "author": {
+                "name": "Winnie Hu and Brian Rosenthal",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/24/business/amazon-meetings-union-elections.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/24/business/amazon-meetings-union-elections.html",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Conor Friedersdorf",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/q-and-a/stephen-kotkin-putin-russia-ukraine-stalin",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/q-and-a/stephen-kotkin-putin-russia-ukraine-stalin",
-            "title": "暴君的弱点",
-            "summary": "The Weakness of the Despot",
-            "date_modified": "2022-03-11T21:35:38.000Z",
-            "author": {
-                "name": "David Remnick",
-                "url": "https://www.newyorker.com/feed/news"
             }
         }
     ]
