@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://dkb.io/post/write-it-anyway",
+            "content_html": "",
+            "url": "https://dkb.io/post/write-it-anyway",
+            "title": "無論如何寫吧",
+            "summary": "Write It Anyway",
+            "date_modified": "2017-07-29T00:00:00.000Z",
+            "author": {
+                "name": "dkb@dkb.fyi (dkb)",
+                "url": "https://dkb.io/rss.xml"
+            }
+        },
+        {
             "id": "https://dkb.io/post/organize-the-world-information",
             "content_html": "",
             "url": "https://dkb.io/post/organize-the-world-information",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-11T18:03:51.000Z",
             "author": {
                 "name": "Caroline Mimbs Nyce",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/books/archive/2022/03/ukraine-russia-war-books-history/627032/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/books/archive/2022/03/ukraine-russia-war-books-history/627032/?utm_source=feed",
-            "title": "瞭解烏克蘭戰爭要讀的九本書",
-            "summary": "Nine Books to Read to Understand the War in Ukraine",
-            "date_modified": "2022-03-11T17:45:07.000Z",
-            "author": {
-                "name": "Marci Shore",
                 "url": "https://www.theatlantic.com/feed/all/"
             }
         }

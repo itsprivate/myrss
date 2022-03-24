@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 24 Mar 2022 07:38:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 07:51:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[無論如何寫吧]]></title>
+            <link>https://dkb.io/post/write-it-anyway</link>
+            <guid>https://dkb.io/post/write-it-anyway</guid>
+            <pubDate>Sat, 29 Jul 2017 00:00:00 GMT</pubDate>
+            <description><![CDATA[Write It Anyway]]></description>
+        </item>
         <item>
             <title><![CDATA[組織世界上的信息]]></title>
             <link>https://dkb.io/post/organize-the-world-information</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/newsletters/archive/2022/03/the-food-war/627037/?utm_source=feed</guid>
             <pubDate>Fri, 11 Mar 2022 18:03:51 GMT</pubDate>
             <description><![CDATA[<em>The Atlantic </em>Daily: Food Is About to Get More Expensive]]></description>
-        </item>
-        <item>
-            <title><![CDATA[瞭解烏克蘭戰爭要讀的九本書]]></title>
-            <link>https://www.theatlantic.com/books/archive/2022/03/ukraine-russia-war-books-history/627032/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/books/archive/2022/03/ukraine-russia-war-books-history/627032/?utm_source=feed</guid>
-            <pubDate>Fri, 11 Mar 2022 17:45:07 GMT</pubDate>
-            <description><![CDATA[Nine Books to Read to Understand the War in Ukraine]]></description>
         </item>
     </channel>
 </rss>
