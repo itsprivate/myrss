@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-24T14:41:07.531Z</updated>
+    <updated>2022-03-24T15:25:05.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亞馬遜是如何在即將到來的兩次選舉中抵制工會的？]]></title>
+        <id>https://www.nytimes.com/2022/03/24/business/amazon-meetings-union-elections.html</id>
+        <link href="https://www.nytimes.com/2022/03/24/business/amazon-meetings-union-elections.html"/>
+        <updated>2022-03-24T09:00:32.000Z</updated>
+        <summary type="html"><![CDATA[How Amazon Is Resisting Unions in Two Upcoming Elections]]></summary>
+        <author>
+            <name>Noam Scheiber</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日漫畫。3月24日，星期四]]></title>
         <id>https://www.newyorker.com/cartoons/daily-cartoon/thursday-march-24th-what-is-an-outfit</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>David Remnick</name>
             <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[梅塔削減了Facebook的一些福利]]></title>
-        <id>https://www.nytimes.com/2022/03/11/technology/facebook-meta-perks.html</id>
-        <link href="https://www.nytimes.com/2022/03/11/technology/facebook-meta-perks.html"/>
-        <updated>2022-03-11T22:02:16.000Z</updated>
-        <summary type="html"><![CDATA[Meta Cuts Back on Some of Facebook’s Perks]]></summary>
-        <author>
-            <name>Mike Isaac, Ryan Mac and Sheera Frenkel</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>
