@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-24T22:14:32.211Z</updated>
+    <updated>2022-03-24T22:34:36.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["所有的东西都在同一时间，"评论说。不存在那里，那里也不存在]]></title>
+        <id>https://www.newyorker.com/culture/the-front-row/everything-everywhere-all-at-once-reviewed-theres-no-there-there</id>
+        <link href="https://www.newyorker.com/culture/the-front-row/everything-everywhere-all-at-once-reviewed-theres-no-there-there"/>
+        <updated>2022-03-24T22:23:57.000Z</updated>
+        <summary type="html"><![CDATA[“Everything Everywhere All at Once,” Reviewed: There’s No There There]]></summary>
+        <author>
+            <name>Richard Brody</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你试着把你的猎物和呼吸同时束缚起来]]></title>
+        <id>https://www.theatlantic.com/science/archive/2022/03/how-boa-constrictor-snakes-eat-prey/627607/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/science/archive/2022/03/how-boa-constrictor-snakes-eat-prey/627607/?utm_source=feed"/>
+        <updated>2022-03-24T22:01:01.000Z</updated>
+        <summary type="html"><![CDATA[You Try Constricting Your Prey and Breathing at the Same Time]]></summary>
+        <author>
+            <name>Katherine J. Wu</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上合组织确认听证会上的 "QAnon "狗哨声]]></title>
         <id>https://www.theatlantic.com/technology/archive/2022/03/supreme-court-jackson-josh-hawley/629359/?utm_source=feed</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Caroline Mimbs Nyce</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为俄罗斯国家电视台工作是一种什么样的体验]]></title>
-        <id>https://www.nytimes.com/2022/03/12/business/rt-america-russian-tv.html</id>
-        <link href="https://www.nytimes.com/2022/03/12/business/rt-america-russian-tv.html"/>
-        <updated>2022-03-12T16:26:23.000Z</updated>
-        <summary type="html"><![CDATA[What It Was Like to Work for Russian State Television]]></summary>
-        <author>
-            <name>Cecilia Kang</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[等待耐力]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/21/waiting-for-the-endurance</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/21/waiting-for-the-endurance"/>
-        <updated>2022-03-12T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Waiting for the Endurance]]></summary>
-        <author>
-            <name>Adam Iscoe</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>

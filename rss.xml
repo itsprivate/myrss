@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 24 Mar 2022 22:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 22:34:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA["所有的东西都在同一时间，"评论说。不存在那里，那里也不存在]]></title>
+            <link>https://www.newyorker.com/culture/the-front-row/everything-everywhere-all-at-once-reviewed-theres-no-there-there</link>
+            <guid>https://www.newyorker.com/culture/the-front-row/everything-everywhere-all-at-once-reviewed-theres-no-there-there</guid>
+            <pubDate>Thu, 24 Mar 2022 22:23:57 GMT</pubDate>
+            <description><![CDATA[“Everything Everywhere All at Once,” Reviewed: There’s No There There]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你试着把你的猎物和呼吸同时束缚起来]]></title>
+            <link>https://www.theatlantic.com/science/archive/2022/03/how-boa-constrictor-snakes-eat-prey/627607/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/science/archive/2022/03/how-boa-constrictor-snakes-eat-prey/627607/?utm_source=feed</guid>
+            <pubDate>Thu, 24 Mar 2022 22:01:01 GMT</pubDate>
+            <description><![CDATA[You Try Constricting Your Prey and Breathing at the Same Time]]></description>
+        </item>
         <item>
             <title><![CDATA[上合组织确认听证会上的 "QAnon "狗哨声]]></title>
             <link>https://www.theatlantic.com/technology/archive/2022/03/supreme-court-jackson-josh-hawley/629359/?utm_source=feed</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.theatlantic.com/newsletters/archive/2022/03/womens-history-month-feminism-sexism/627047/?utm_source=feed</guid>
             <pubDate>Sat, 12 Mar 2022 17:44:55 GMT</pubDate>
             <description><![CDATA[<em>The Atlantic </em>Daily: Feminism Has Never Been Enough]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为俄罗斯国家电视台工作是一种什么样的体验]]></title>
-            <link>https://www.nytimes.com/2022/03/12/business/rt-america-russian-tv.html</link>
-            <guid>https://www.nytimes.com/2022/03/12/business/rt-america-russian-tv.html</guid>
-            <pubDate>Sat, 12 Mar 2022 16:26:23 GMT</pubDate>
-            <description><![CDATA[What It Was Like to Work for Russian State Television]]></description>
-        </item>
-        <item>
-            <title><![CDATA[等待耐力]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/21/waiting-for-the-endurance</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/21/waiting-for-the-endurance</guid>
-            <pubDate>Sat, 12 Mar 2022 15:00:00 GMT</pubDate>
-            <description><![CDATA[Waiting for the Endurance]]></description>
         </item>
     </channel>
 </rss>
