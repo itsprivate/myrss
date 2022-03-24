@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-24T18:15:03.925Z</updated>
+    <updated>2022-03-24T18:40:09.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于 "正义的蠕动 "的评论中的亮点]]></title>
+        <id>https://astralcodexten.substack.com/p/highlights-from-the-comments-on-justice</id>
+        <link href="https://astralcodexten.substack.com/p/highlights-from-the-comments-on-justice"/>
+        <updated>2022-03-24T18:12:57.000Z</updated>
+        <summary type="html"><![CDATA[Highlights From The Comments On Justice Creep]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[隐秘的开放性主题216.5]]></title>
+        <id>https://astralcodexten.substack.com/p/hidden-open-thread-2165</id>
+        <link href="https://astralcodexten.substack.com/p/hidden-open-thread-2165"/>
+        <updated>2022-03-24T18:29:36.000Z</updated>
+        <summary type="html"><![CDATA[Hidden Open Thread 216.5]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[爆发战争的软实力政治]]></title>
+        <id>https://www.newyorker.com/news/q-and-a/the-soft-power-politics-that-exploded-into-war</id>
+        <link href="https://www.newyorker.com/news/q-and-a/the-soft-power-politics-that-exploded-into-war"/>
+        <updated>2022-03-24T18:13:19.000Z</updated>
+        <summary type="html"><![CDATA[The Soft-Power Politics That Exploded Into War]]></summary>
+        <author>
+            <name>Isaac Chotiner</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[共和党人在凯坦吉-布朗-杰克逊的确认听证会上的疯狂攻击]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/the-republicans-wild-attacks-at-ketanji-brown-jacksons-confirmation-hearing</id>
+        <link href="https://www.newyorker.com/news/daily-comment/the-republicans-wild-attacks-at-ketanji-brown-jacksons-confirmation-hearing"/>
+        <updated>2022-03-24T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The Republicans’ Wild Attacks at Ketanji Brown Jackson’s Confirmation Hearing]]></summary>
+        <author>
+            <name>Amy Davidson Sorkin</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何淹没普京的 "信息沙漠"]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/how-to-flood-putins-information-desert</id>
+        <link href="https://www.newyorker.com/news/daily-comment/how-to-flood-putins-information-desert"/>
+        <updated>2022-03-24T18:32:11.000Z</updated>
+        <summary type="html"><![CDATA[How to Flood Putin’s “Information Desert”]]></summary>
+        <author>
+            <name>Evan Osnos</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我认为我应该得到的奖项比多莉-帕顿认为她应该得到摇滚名人堂的席位更多]]></title>
         <id>https://www.newyorker.com/humor/daily-shouts/awards-that-i-think-i-deserve-more-than-dolly-parton-thinks-she-deserves-a-spot-in-the-rock-and-roll-hall-of-fame</id>
@@ -6557,61 +6612,6 @@
         <summary type="html"><![CDATA[The Secret Life of Beatrix Potter]]></summary>
         <author>
             <name>Anna Russell</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[随着NFTs的普及，一些收藏家正在发财。]]></title>
-        <id>https://www.nytimes.com/2022/03/12/style/nft-art-profit.html</id>
-        <link href="https://www.nytimes.com/2022/03/12/style/nft-art-profit.html"/>
-        <updated>2022-03-12T10:00:08.000Z</updated>
-        <summary type="html"><![CDATA[As NFTs Grow in Popularity, Some Collectors Are Striking it Rich]]></summary>
-        <author>
-            <name>Alyson Krueger</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界应做好准备迎接乌克兰的长期战争]]></title>
-        <id>https://www.theatlantic.com/international/archive/2022/03/how-long-will-ukraine-russia-war-last/627036/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/international/archive/2022/03/how-long-will-ukraine-russia-war-last/627036/?utm_source=feed"/>
-        <updated>2022-03-12T10:00:56.000Z</updated>
-        <summary type="html"><![CDATA[The World Should Brace for a Long War in Ukraine]]></summary>
-        <author>
-            <name>Yasmeen Serhan</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰部长把数字工具变成了现代战争武器]]></title>
-        <id>https://www.nytimes.com/2022/03/12/technology/ukraine-minister-war-digital.html</id>
-        <link href="https://www.nytimes.com/2022/03/12/technology/ukraine-minister-war-digital.html"/>
-        <updated>2022-03-12T08:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Ukrainian Minister Has Turned Digital Tools Into Modern Weapons of War]]></summary>
-        <author>
-            <name>Adam Satariano</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰明信片]]></title>
-        <id>https://www.newyorker.com/magazine/ukraine-postcard</id>
-        <link href="https://www.newyorker.com/magazine/ukraine-postcard"/>
-        <updated>2022-03-12T04:35:30.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine Postcard]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[梦想的角色]]></title>
-        <id>https://www.newyorker.com/magazine/dream-role</id>
-        <link href="https://www.newyorker.com/magazine/dream-role"/>
-        <updated>2022-03-12T04:35:30.000Z</updated>
-        <summary type="html"><![CDATA[Dream Role]]></summary>
-        <author>
-            <name>unknown</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

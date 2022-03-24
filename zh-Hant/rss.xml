@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 24 Mar 2022 18:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 18:40:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,41 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[關於 "正義的蠕動 "的評論中的亮點]]></title>
+            <link>https://astralcodexten.substack.com/p/highlights-from-the-comments-on-justice</link>
+            <guid>https://astralcodexten.substack.com/p/highlights-from-the-comments-on-justice</guid>
+            <pubDate>Thu, 24 Mar 2022 18:12:57 GMT</pubDate>
+            <description><![CDATA[Highlights From The Comments On Justice Creep]]></description>
+        </item>
+        <item>
+            <title><![CDATA[隱秘的開放性主題216.5]]></title>
+            <link>https://astralcodexten.substack.com/p/hidden-open-thread-2165</link>
+            <guid>https://astralcodexten.substack.com/p/hidden-open-thread-2165</guid>
+            <pubDate>Thu, 24 Mar 2022 18:29:36 GMT</pubDate>
+            <description><![CDATA[Hidden Open Thread 216.5]]></description>
+        </item>
+        <item>
+            <title><![CDATA[爆發戰爭的軟實力政治]]></title>
+            <link>https://www.newyorker.com/news/q-and-a/the-soft-power-politics-that-exploded-into-war</link>
+            <guid>https://www.newyorker.com/news/q-and-a/the-soft-power-politics-that-exploded-into-war</guid>
+            <pubDate>Thu, 24 Mar 2022 18:13:19 GMT</pubDate>
+            <description><![CDATA[The Soft-Power Politics That Exploded Into War]]></description>
+        </item>
+        <item>
+            <title><![CDATA[共和黨人在凱坦吉-布朗-傑克遜的確認聽證會上的瘋狂攻擊]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/the-republicans-wild-attacks-at-ketanji-brown-jacksons-confirmation-hearing</link>
+            <guid>https://www.newyorker.com/news/daily-comment/the-republicans-wild-attacks-at-ketanji-brown-jacksons-confirmation-hearing</guid>
+            <pubDate>Thu, 24 Mar 2022 18:30:00 GMT</pubDate>
+            <description><![CDATA[The Republicans’ Wild Attacks at Ketanji Brown Jackson’s Confirmation Hearing]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何淹沒普京的 "信息沙漠"]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/how-to-flood-putins-information-desert</link>
+            <guid>https://www.newyorker.com/news/daily-comment/how-to-flood-putins-information-desert</guid>
+            <pubDate>Thu, 24 Mar 2022 18:32:11 GMT</pubDate>
+            <description><![CDATA[How to Flood Putin’s “Information Desert”]]></description>
+        </item>
         <item>
             <title><![CDATA[我認為我應該得到的獎項比多莉-帕頓認為她應該得到搖滾名人堂的席位更多]]></title>
             <link>https://www.newyorker.com/humor/daily-shouts/awards-that-i-think-i-deserve-more-than-dolly-parton-thinks-she-deserves-a-spot-in-the-rock-and-roll-hall-of-fame</link>
@@ -4178,41 +4213,6 @@
             <guid>https://www.newyorker.com/news/letter-from-the-uk/the-secret-life-of-beatrix-potter</guid>
             <pubDate>Sat, 12 Mar 2022 11:00:00 GMT</pubDate>
             <description><![CDATA[The Secret Life of Beatrix Potter]]></description>
-        </item>
-        <item>
-            <title><![CDATA[隨著NFTs的普及，一些收藏家正在發財。]]></title>
-            <link>https://www.nytimes.com/2022/03/12/style/nft-art-profit.html</link>
-            <guid>https://www.nytimes.com/2022/03/12/style/nft-art-profit.html</guid>
-            <pubDate>Sat, 12 Mar 2022 10:00:08 GMT</pubDate>
-            <description><![CDATA[As NFTs Grow in Popularity, Some Collectors Are Striking it Rich]]></description>
-        </item>
-        <item>
-            <title><![CDATA[世界應做好準備迎接烏克蘭的長期戰爭]]></title>
-            <link>https://www.theatlantic.com/international/archive/2022/03/how-long-will-ukraine-russia-war-last/627036/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/international/archive/2022/03/how-long-will-ukraine-russia-war-last/627036/?utm_source=feed</guid>
-            <pubDate>Sat, 12 Mar 2022 10:00:56 GMT</pubDate>
-            <description><![CDATA[The World Should Brace for a Long War in Ukraine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[烏克蘭部長把數字工具變成了現代戰爭武器]]></title>
-            <link>https://www.nytimes.com/2022/03/12/technology/ukraine-minister-war-digital.html</link>
-            <guid>https://www.nytimes.com/2022/03/12/technology/ukraine-minister-war-digital.html</guid>
-            <pubDate>Sat, 12 Mar 2022 08:00:09 GMT</pubDate>
-            <description><![CDATA[Ukrainian Minister Has Turned Digital Tools Into Modern Weapons of War]]></description>
-        </item>
-        <item>
-            <title><![CDATA[烏克蘭明信片]]></title>
-            <link>https://www.newyorker.com/magazine/ukraine-postcard</link>
-            <guid>https://www.newyorker.com/magazine/ukraine-postcard</guid>
-            <pubDate>Sat, 12 Mar 2022 04:35:30 GMT</pubDate>
-            <description><![CDATA[Ukraine Postcard]]></description>
-        </item>
-        <item>
-            <title><![CDATA[夢想的角色]]></title>
-            <link>https://www.newyorker.com/magazine/dream-role</link>
-            <guid>https://www.newyorker.com/magazine/dream-role</guid>
-            <pubDate>Sat, 12 Mar 2022 04:35:30 GMT</pubDate>
-            <description><![CDATA[Dream Role]]></description>
         </item>
     </channel>
 </rss>
