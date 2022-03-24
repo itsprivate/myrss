@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-24T17:58:31.695Z</updated>
+    <updated>2022-03-24T18:15:03.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我認為我應該得到的獎項比多莉-帕頓認為她應該得到搖滾名人堂的席位更多]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/awards-that-i-think-i-deserve-more-than-dolly-parton-thinks-she-deserves-a-spot-in-the-rock-and-roll-hall-of-fame</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/awards-that-i-think-i-deserve-more-than-dolly-parton-thinks-she-deserves-a-spot-in-the-rock-and-roll-hall-of-fame"/>
+        <updated>2022-03-24T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Awards That I Think I Deserve More Than Dolly Parton Thinks She Deserves a Spot in the Rock and Roll Hall of Fame]]></summary>
+        <author>
+            <name>Zoe Si</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GIF動畫的創造者斯蒂芬-威爾海特去世，享年74歲]]></title>
         <id>https://www.nytimes.com/2022/03/24/technology/stephen-wilhite-dead.html</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Dream Role]]></summary>
         <author>
             <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯軍隊在烏克蘭的潰敗]]></title>
-        <id>https://www.newyorker.com/news/q-and-a/the-russian-militarys-debacle-in-ukraine</id>
-        <link href="https://www.newyorker.com/news/q-and-a/the-russian-militarys-debacle-in-ukraine"/>
-        <updated>2022-03-11T23:13:48.000Z</updated>
-        <summary type="html"><![CDATA[The Russian Military’s Debacle in Ukraine]]></summary>
-        <author>
-            <name>Isaac Chotiner</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

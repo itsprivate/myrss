@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 24 Mar 2022 17:58:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 18:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我認為我應該得到的獎項比多莉-帕頓認為她應該得到搖滾名人堂的席位更多]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/awards-that-i-think-i-deserve-more-than-dolly-parton-thinks-she-deserves-a-spot-in-the-rock-and-roll-hall-of-fame</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/awards-that-i-think-i-deserve-more-than-dolly-parton-thinks-she-deserves-a-spot-in-the-rock-and-roll-hall-of-fame</guid>
+            <pubDate>Thu, 24 Mar 2022 18:00:00 GMT</pubDate>
+            <description><![CDATA[Awards That I Think I Deserve More Than Dolly Parton Thinks She Deserves a Spot in the Rock and Roll Hall of Fame]]></description>
+        </item>
         <item>
             <title><![CDATA[GIF動畫的創造者斯蒂芬-威爾海特去世，享年74歲]]></title>
             <link>https://www.nytimes.com/2022/03/24/technology/stephen-wilhite-dead.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/magazine/dream-role</guid>
             <pubDate>Sat, 12 Mar 2022 04:35:30 GMT</pubDate>
             <description><![CDATA[Dream Role]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄羅斯軍隊在烏克蘭的潰敗]]></title>
-            <link>https://www.newyorker.com/news/q-and-a/the-russian-militarys-debacle-in-ukraine</link>
-            <guid>https://www.newyorker.com/news/q-and-a/the-russian-militarys-debacle-in-ukraine</guid>
-            <pubDate>Fri, 11 Mar 2022 23:13:48 GMT</pubDate>
-            <description><![CDATA[The Russian Military’s Debacle in Ukraine]]></description>
         </item>
     </channel>
 </rss>
