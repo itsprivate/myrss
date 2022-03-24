@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/24/technology/delivery-robots-sidewalks.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/24/technology/delivery-robots-sidewalks.html",
+            "title": "爭奪街道和人行道",
+            "summary": "Competing for Streets and Sidewalks",
+            "date_modified": "2022-03-24T16:49:08.000Z",
+            "author": {
+                "name": "Shira Ovide",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/03/24/technology/eu-regulation-apple-meta-google.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/24/technology/eu-regulation-apple-meta-google.html",
+            "title": "歐盟通過具有里程碑意義的數字法案瞄準大型科技公司的權力",
+            "summary": "E.U. Takes Aim at Big Tech’s Power With Landmark Digital Act",
+            "date_modified": "2022-03-24T16:28:11.000Z",
+            "author": {
+                "name": "Adam Satariano",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/03/american-volunteer-foreign-fighters-ukraine-russia-war/627604/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/03/american-volunteer-foreign-fighters-ukraine-russia-war/627604/?utm_source=feed",
+            "title": "烏克蘭的 \"三比一 \"優勢",
+            "summary": "Ukraine’s Three-to-One Advantage",
+            "date_modified": "2022-03-24T16:43:38.000Z",
+            "author": {
+                "name": "Elliot Ackerman",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/24/business/uber-new-york-taxis.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/24/business/uber-new-york-taxis.html",
@@ -7172,42 +7208,6 @@
             "author": {
                 "name": "unknown",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/11/technology/duckduckgo-russia-disinformation.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/11/technology/duckduckgo-russia-disinformation.html",
-            "title": "在搜索引擎DuckDuckGo發誓限制俄羅斯的宣傳後，極右派提出抱怨。",
-            "summary": "The far right complains after the search engine DuckDuckGo vows to limit Russian propaganda.",
-            "date_modified": "2022-03-11T23:21:56.000Z",
-            "author": {
-                "name": "Stuart A. Thompson",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/letter-from-the-southwest/at-home-with-the-families-affected-by-texass-new-anti-trans-orders",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/letter-from-the-southwest/at-home-with-the-families-affected-by-texass-new-anti-trans-orders",
-            "title": "在家與受德克薩斯州新的反運輸令影響的家庭在一起",
-            "summary": "At Home with the Families Affected by Texas’s New Anti-Trans Orders",
-            "date_modified": "2022-03-09T21:36:28.000Z",
-            "author": {
-                "name": "Rachel Monroe",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/newsletters/archive/2022/03/was-biden-right-to-ban-russian-oil/627045/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/newsletters/archive/2022/03/was-biden-right-to-ban-russian-oil/627045/?utm_source=feed",
-            "title": "拜登禁止俄羅斯石油的做法是否正確？",
-            "summary": "Was Biden Right to Ban Russian Oil?",
-            "date_modified": "2022-03-11T22:19:39.000Z",
-            "author": {
-                "name": "Conor Friedersdorf",
-                "url": "https://www.theatlantic.com/feed/all/"
             }
         }
     ]

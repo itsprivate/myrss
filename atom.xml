@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-24T16:42:23.720Z</updated>
+    <updated>2022-03-24T17:43:40.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[争夺街道和人行道]]></title>
+        <id>https://www.nytimes.com/2022/03/24/technology/delivery-robots-sidewalks.html</id>
+        <link href="https://www.nytimes.com/2022/03/24/technology/delivery-robots-sidewalks.html"/>
+        <updated>2022-03-24T16:49:08.000Z</updated>
+        <summary type="html"><![CDATA[Competing for Streets and Sidewalks]]></summary>
+        <author>
+            <name>Shira Ovide</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧盟通过具有里程碑意义的数字法案瞄准大型科技公司的权力]]></title>
+        <id>https://www.nytimes.com/2022/03/24/technology/eu-regulation-apple-meta-google.html</id>
+        <link href="https://www.nytimes.com/2022/03/24/technology/eu-regulation-apple-meta-google.html"/>
+        <updated>2022-03-24T16:28:11.000Z</updated>
+        <summary type="html"><![CDATA[E.U. Takes Aim at Big Tech’s Power With Landmark Digital Act]]></summary>
+        <author>
+            <name>Adam Satariano</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰的 "三比一 "优势]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/american-volunteer-foreign-fighters-ukraine-russia-war/627604/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/american-volunteer-foreign-fighters-ukraine-russia-war/627604/?utm_source=feed"/>
+        <updated>2022-03-24T16:43:38.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine’s Three-to-One Advantage]]></summary>
+        <author>
+            <name>Elliot Ackerman</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uber与纽约市的黄色出租车公司合作]]></title>
         <id>https://www.nytimes.com/2022/03/24/business/uber-new-york-taxis.html</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>unknown</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在搜索引擎DuckDuckGo发誓限制俄罗斯的宣传后，极右派提出抱怨。]]></title>
-        <id>https://www.nytimes.com/2022/03/11/technology/duckduckgo-russia-disinformation.html</id>
-        <link href="https://www.nytimes.com/2022/03/11/technology/duckduckgo-russia-disinformation.html"/>
-        <updated>2022-03-11T23:21:56.000Z</updated>
-        <summary type="html"><![CDATA[The far right complains after the search engine DuckDuckGo vows to limit Russian propaganda.]]></summary>
-        <author>
-            <name>Stuart A. Thompson</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在家与受德克萨斯州新的反运输令影响的家庭在一起]]></title>
-        <id>https://www.newyorker.com/news/letter-from-the-southwest/at-home-with-the-families-affected-by-texass-new-anti-trans-orders</id>
-        <link href="https://www.newyorker.com/news/letter-from-the-southwest/at-home-with-the-families-affected-by-texass-new-anti-trans-orders"/>
-        <updated>2022-03-09T21:36:28.000Z</updated>
-        <summary type="html"><![CDATA[At Home with the Families Affected by Texas’s New Anti-Trans Orders]]></summary>
-        <author>
-            <name>Rachel Monroe</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拜登禁止俄罗斯石油的做法是否正确？]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2022/03/was-biden-right-to-ban-russian-oil/627045/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/was-biden-right-to-ban-russian-oil/627045/?utm_source=feed"/>
-        <updated>2022-03-11T22:19:39.000Z</updated>
-        <summary type="html"><![CDATA[Was Biden Right to Ban Russian Oil?]]></summary>
-        <author>
-            <name>Conor Friedersdorf</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
