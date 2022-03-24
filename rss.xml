@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 24 Mar 2022 19:37:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 20:45:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[关于可再生能源的好消息]]></title>
+            <link>https://www.newyorker.com/podcast/politics-and-more/the-good-news-about-renewable-energy</link>
+            <guid>https://www.newyorker.com/podcast/politics-and-more/the-good-news-about-renewable-energy</guid>
+            <pubDate>Thu, 24 Mar 2022 20:14:07 GMT</pubDate>
+            <description><![CDATA[The Good News About Renewable Energy]]></description>
+        </item>
         <item>
             <title><![CDATA[马德琳-奥尔布赖特是美国历史上第一个 "最有权力的女人"。]]></title>
             <link>https://www.newyorker.com/news/postscript/madeleine-albright-was-the-first-most-powerful-woman-in-us-history</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/ideas/archive/2022/03/a-uniquely-perilous-moment/627040/?utm_source=feed</guid>
             <pubDate>Sat, 12 Mar 2022 12:01:57 GMT</pubDate>
             <description><![CDATA[This Is a Uniquely Perilous Moment]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Beatrix Potter的秘密生活]]></title>
-            <link>https://www.newyorker.com/news/letter-from-the-uk/the-secret-life-of-beatrix-potter</link>
-            <guid>https://www.newyorker.com/news/letter-from-the-uk/the-secret-life-of-beatrix-potter</guid>
-            <pubDate>Sat, 12 Mar 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[The Secret Life of Beatrix Potter]]></description>
         </item>
     </channel>
 </rss>
