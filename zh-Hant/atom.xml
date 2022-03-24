@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-24T20:45:50.360Z</updated>
+    <updated>2022-03-24T21:34:02.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[新發現的名聲的令人眩暈的記錄]]></title>
+        <id>https://www.newyorker.com/culture/listening-booth/a-dizzy-record-of-newfound-fame</id>
+        <link href="https://www.newyorker.com/culture/listening-booth/a-dizzy-record-of-newfound-fame"/>
+        <updated>2022-03-24T21:15:38.000Z</updated>
+        <summary type="html"><![CDATA[A Dizzy Record of Newfound Fame]]></summary>
+        <author>
+            <name>Sheldon Pearce</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於可再生能源的好消息]]></title>
         <id>https://www.newyorker.com/podcast/politics-and-more/the-good-news-about-renewable-energy</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[‘I’m Not Going to Die in That Ditch Today’]]></summary>
         <author>
             <name>Sarah Hepola</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[這是一個獨特的危險時刻]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/a-uniquely-perilous-moment/627040/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/a-uniquely-perilous-moment/627040/?utm_source=feed"/>
-        <updated>2022-03-12T12:01:57.000Z</updated>
-        <summary type="html"><![CDATA[This Is a Uniquely Perilous Moment]]></summary>
-        <author>
-            <name>David French</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
