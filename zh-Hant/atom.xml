@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-24T18:56:19.792Z</updated>
+    <updated>2022-03-24T19:28:53.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[馬德琳-奧爾布賴特是美國曆史上第一個 "最有權力的女人"。]]></title>
+        <id>https://www.newyorker.com/news/postscript/madeleine-albright-was-the-first-most-powerful-woman-in-us-history</id>
+        <link href="https://www.newyorker.com/news/postscript/madeleine-albright-was-the-first-most-powerful-woman-in-us-history"/>
+        <updated>2022-03-24T19:21:44.000Z</updated>
+        <summary type="html"><![CDATA[Madeleine Albright Was the First “Most Powerful Woman” in U.S. History]]></summary>
+        <author>
+            <name>Robin Wright</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在普京的陰影下聽俄羅斯音樂]]></title>
         <id>https://www.newyorker.com/culture/cultural-comment/listening-to-russian-music-in-putins-shadow</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Shirley Li</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在波特蘭度假一週後，我真的感覺到我不能住在任何地方]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/after-vacationing-for-a-week-in-portland-i-really-feel-that-i-cannot-live-anywhere</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/after-vacationing-for-a-week-in-portland-i-really-feel-that-i-cannot-live-anywhere"/>
-        <updated>2022-03-12T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[After Vacationing for a Week in Portland, I Really Feel That I Cannot Live Anywhere]]></summary>
-        <author>
-            <name>Jonathan Zeller</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>

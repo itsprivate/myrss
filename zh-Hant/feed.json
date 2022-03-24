@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/postscript/madeleine-albright-was-the-first-most-powerful-woman-in-us-history",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/postscript/madeleine-albright-was-the-first-most-powerful-woman-in-us-history",
+            "title": "馬德琳-奧爾布賴特是美國曆史上第一個 \"最有權力的女人\"。",
+            "summary": "Madeleine Albright Was the First “Most Powerful Woman” in U.S. History",
+            "date_modified": "2022-03-24T19:21:44.000Z",
+            "author": {
+                "name": "Robin Wright",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/culture/cultural-comment/listening-to-russian-music-in-putins-shadow",
             "content_html": "",
             "url": "https://www.newyorker.com/culture/cultural-comment/listening-to-russian-music-in-putins-shadow",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Shirley Li",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/humor/daily-shouts/after-vacationing-for-a-week-in-portland-i-really-feel-that-i-cannot-live-anywhere",
-            "content_html": "",
-            "url": "https://www.newyorker.com/humor/daily-shouts/after-vacationing-for-a-week-in-portland-i-really-feel-that-i-cannot-live-anywhere",
-            "title": "在波特蘭度假一週後，我真的感覺到我不能住在任何地方",
-            "summary": "After Vacationing for a Week in Portland, I Really Feel That I Cannot Live Anywhere",
-            "date_modified": "2022-03-12T11:00:00.000Z",
-            "author": {
-                "name": "Jonathan Zeller",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]
