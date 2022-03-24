@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-24T03:04:03.016Z</updated>
+    <updated>2022-03-24T07:12:14.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[QAnon为共和党人对杰克逊的攻击欢呼。民主党人看到了一个信号。]]></title>
+        <id>https://www.nytimes.com/2022/03/24/us/qanon-supreme-court-ketanji-brown-jackson.html</id>
+        <link href="https://www.nytimes.com/2022/03/24/us/qanon-supreme-court-ketanji-brown-jackson.html"/>
+        <updated>2022-03-24T07:00:11.000Z</updated>
+        <summary type="html"><![CDATA[QAnon Cheers Republican Attacks on Jackson. Democrats See a Signal.]]></summary>
+        <author>
+            <name>David D. Kirkpatrick and Stuart A. Thompson</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[采访。我!]]></title>
         <id>https://noahpinion.substack.com/p/interview-me</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>dkb@dkb.fyi (dkb)</name>
             <uri>https://dkb.io/rss.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我想象的未来既不是乌托邦式的也不是歇斯底里式的]]></title>
-        <id>https://www.theatlantic.com/culture/archive/2022/03/after-yang-colin-farrell-kogonada-interview/627034/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/culture/archive/2022/03/after-yang-colin-farrell-kogonada-interview/627034/?utm_source=feed"/>
-        <updated>2022-03-11T15:56:56.000Z</updated>
-        <summary type="html"><![CDATA[‘I Imagined a Future That Was Neither Utopian nor Dystopian’]]></summary>
-        <author>
-            <name>David Sims</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
