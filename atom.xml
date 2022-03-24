@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-24T22:34:36.129Z</updated>
+    <updated>2022-03-24T22:43:31.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["所有的东西都在同一时间，"评论说。不存在那里，那里也不存在]]></title>
+        <id>https://www.newyorker.com/culture/the-front-row/everything-everywhere-all-at-once-reviewed-theres-no-there-there</id>
+        <link href="https://www.newyorker.com/culture/the-front-row/everything-everywhere-all-at-once-reviewed-theres-no-there-there"/>
+        <updated>2022-03-24T22:23:57.000Z</updated>
+        <summary type="html"><![CDATA[“Everything Everywhere All at Once,” Reviewed: There’s No There There]]></summary>
+        <author>
+            <name>Richard Brody</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["所有的东西都在同一时间，"评论说。不存在那里，那里也不存在]]></title>
         <id>https://www.newyorker.com/culture/the-front-row/everything-everywhere-all-at-once-reviewed-theres-no-there-there</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Paul Elie</name>
             <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<em>《大西洋日报》<em>日报。女权主义从来都不够用]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2022/03/womens-history-month-feminism-sexism/627047/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/womens-history-month-feminism-sexism/627047/?utm_source=feed"/>
-        <updated>2022-03-12T17:44:55.000Z</updated>
-        <summary type="html"><![CDATA[<em>The Atlantic </em>Daily: Feminism Has Never Been Enough]]></summary>
-        <author>
-            <name>Caroline Mimbs Nyce</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>

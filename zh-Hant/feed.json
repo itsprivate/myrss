@@ -19,6 +19,18 @@
             "date_modified": "2022-03-24T22:23:57.000Z",
             "author": {
                 "name": "Richard Brody",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/culture/the-front-row/everything-everywhere-all-at-once-reviewed-theres-no-there-there",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/the-front-row/everything-everywhere-all-at-once-reviewed-theres-no-there-there",
+            "title": "\"所有的東西都在同一時間，\"評論說。不存在那裡，那裡也不存在",
+            "summary": "“Everything Everywhere All at Once,” Reviewed: There’s No There There",
+            "date_modified": "2022-03-24T22:23:57.000Z",
+            "author": {
+                "name": "Richard Brody",
                 "url": "https://www.newyorker.com/feed/news"
             }
         },
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Paul Elie",
                 "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/newsletters/archive/2022/03/womens-history-month-feminism-sexism/627047/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/newsletters/archive/2022/03/womens-history-month-feminism-sexism/627047/?utm_source=feed",
-            "title": "<em>《大西洋日報》<em>日報。女權主義從來都不夠用",
-            "summary": "<em>The Atlantic </em>Daily: Feminism Has Never Been Enough",
-            "date_modified": "2022-03-12T17:44:55.000Z",
-            "author": {
-                "name": "Caroline Mimbs Nyce",
-                "url": "https://www.theatlantic.com/feed/all/"
             }
         }
     ]
