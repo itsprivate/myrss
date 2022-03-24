@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 24 Mar 2022 21:52:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 22:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[上合組織確認聽證會上的 "QAnon "狗哨聲]]></title>
+            <link>https://www.theatlantic.com/technology/archive/2022/03/supreme-court-jackson-josh-hawley/629359/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/technology/archive/2022/03/supreme-court-jackson-josh-hawley/629359/?utm_source=feed</guid>
+            <pubDate>Thu, 24 Mar 2022 21:55:03 GMT</pubDate>
+            <description><![CDATA[The QAnon Dog Whistle at the SCOTUS Confirmation Hearings]]></description>
+        </item>
         <item>
             <title><![CDATA[NFL球隊如何說服自己選擇德肖恩-沃特森這樣的球員]]></title>
             <link>https://www.theatlantic.com/ideas/archive/2022/03/deshaun-watson-football-browns-sexual-misconduct/627605/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/magazine/2022/03/21/waiting-for-the-endurance</guid>
             <pubDate>Sat, 12 Mar 2022 15:00:00 GMT</pubDate>
             <description><![CDATA[Waiting for the Endurance]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄羅斯入侵對烏克蘭造成的影響]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/21/what-the-russian-invasion-has-done-to-ukraine</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/21/what-the-russian-invasion-has-done-to-ukraine</guid>
-            <pubDate>Sat, 12 Mar 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[What the Russian Invasion Has Done to Ukraine]]></description>
         </item>
     </channel>
 </rss>
