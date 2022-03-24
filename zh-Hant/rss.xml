@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 24 Mar 2022 17:43:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 17:58:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[GIF動畫的創造者斯蒂芬-威爾海特去世，享年74歲]]></title>
+            <link>https://www.nytimes.com/2022/03/24/technology/stephen-wilhite-dead.html</link>
+            <guid>https://www.nytimes.com/2022/03/24/technology/stephen-wilhite-dead.html</guid>
+            <pubDate>Thu, 24 Mar 2022 17:40:20 GMT</pubDate>
+            <description><![CDATA[Stephen Wilhite, Creator of the Animated GIF, Dies at 74]]></description>
+        </item>
         <item>
             <title><![CDATA[爭奪街道和人行道]]></title>
             <link>https://www.nytimes.com/2022/03/24/technology/delivery-robots-sidewalks.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/news/q-and-a/the-russian-militarys-debacle-in-ukraine</guid>
             <pubDate>Fri, 11 Mar 2022 23:13:48 GMT</pubDate>
             <description><![CDATA[The Russian Military’s Debacle in Ukraine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[普京墮入專制主義，簡-坎皮恩談 "狗的力量"]]></title>
-            <link>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/putins-descent-into-despotism-and-jane-campion-on-the-power-of-the-dog</link>
-            <guid>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/putins-descent-into-despotism-and-jane-campion-on-the-power-of-the-dog</guid>
-            <pubDate>Fri, 11 Mar 2022 22:56:06 GMT</pubDate>
-            <description><![CDATA[Putin’s Descent Into Despotism, and Jane Campion on “The Power of the Dog”]]></description>
         </item>
     </channel>
 </rss>

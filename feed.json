@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/24/technology/stephen-wilhite-dead.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/24/technology/stephen-wilhite-dead.html",
+            "title": "GIF动画的创造者斯蒂芬-威尔海特去世，享年74岁",
+            "summary": "Stephen Wilhite, Creator of the Animated GIF, Dies at 74",
+            "date_modified": "2022-03-24T17:40:20.000Z",
+            "author": {
+                "name": "Amanda Holpuch and Neil Vigdor",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/24/technology/delivery-robots-sidewalks.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/24/technology/delivery-robots-sidewalks.html",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-11T23:13:48.000Z",
             "author": {
                 "name": "Isaac Chotiner",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour/putins-descent-into-despotism-and-jane-campion-on-the-power-of-the-dog",
-            "content_html": "",
-            "url": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour/putins-descent-into-despotism-and-jane-campion-on-the-power-of-the-dog",
-            "title": "普京堕入专制主义，简-坎皮恩谈 \"狗的力量\"",
-            "summary": "Putin’s Descent Into Despotism, and Jane Campion on “The Power of the Dog”",
-            "date_modified": "2022-03-11T22:56:06.000Z",
-            "author": {
-                "name": "unknown",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }
