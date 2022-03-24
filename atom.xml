@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-24T21:34:02.395Z</updated>
+    <updated>2022-03-24T21:52:17.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[NFL球队如何说服自己选择德肖恩-沃特森这样的球员]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/deshaun-watson-football-browns-sexual-misconduct/627605/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/deshaun-watson-football-browns-sexual-misconduct/627605/?utm_source=feed"/>
+        <updated>2022-03-24T21:31:42.000Z</updated>
+        <summary type="html"><![CDATA[How NFL Teams Talk Themselves Into Players Like Deshaun Watson]]></summary>
+        <author>
+            <name>Jemele Hill</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科里-布克谈凯坦吉-布朗-杰克逊："你会感到那种熟悉的伤害]]></title>
+        <id>https://www.theatlantic.com/politics/archive/2022/03/cory-booker-speech-ketanji-brown-jackson/629358/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/politics/archive/2022/03/cory-booker-speech-ketanji-brown-jackson/629358/?utm_source=feed"/>
+        <updated>2022-03-24T21:43:52.000Z</updated>
+        <summary type="html"><![CDATA[Cory Booker on Ketanji Brown Jackson: ‘You Feel That Familiar Hurt’]]></summary>
+        <author>
+            <name>Russell Berman</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新发现的名声的令人眩晕的记录]]></title>
         <id>https://www.newyorker.com/culture/listening-booth/a-dizzy-record-of-newfound-fame</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Joshua Yaffa</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为美国开慢车]]></title>
-        <id>https://www.theatlantic.com/technology/archive/2022/03/gas-prices-high-drive-slow/627039/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/technology/archive/2022/03/gas-prices-high-drive-slow/627039/?utm_source=feed"/>
-        <updated>2022-03-12T13:00:56.000Z</updated>
-        <summary type="html"><![CDATA[Drive Slow for America]]></summary>
-        <author>
-            <name>Judith Lewis Mernit</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我今天不会死在那条沟里的"。]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/writing-controversial-opinions-journalism/627014/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/writing-controversial-opinions-journalism/627014/?utm_source=feed"/>
-        <updated>2022-03-12T12:01:56.000Z</updated>
-        <summary type="html"><![CDATA[‘I’m Not Going to Die in That Ditch Today’]]></summary>
-        <author>
-            <name>Sarah Hepola</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>

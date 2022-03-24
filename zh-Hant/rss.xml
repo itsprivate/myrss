@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 24 Mar 2022 21:34:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 21:52:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[NFL球隊如何說服自己選擇德肖恩-沃特森這樣的球員]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/03/deshaun-watson-football-browns-sexual-misconduct/627605/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/03/deshaun-watson-football-browns-sexual-misconduct/627605/?utm_source=feed</guid>
+            <pubDate>Thu, 24 Mar 2022 21:31:42 GMT</pubDate>
+            <description><![CDATA[How NFL Teams Talk Themselves Into Players Like Deshaun Watson]]></description>
+        </item>
+        <item>
+            <title><![CDATA[科裡-布克談凱坦吉-布朗-傑克遜："你會感到那種熟悉的傷害]]></title>
+            <link>https://www.theatlantic.com/politics/archive/2022/03/cory-booker-speech-ketanji-brown-jackson/629358/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/politics/archive/2022/03/cory-booker-speech-ketanji-brown-jackson/629358/?utm_source=feed</guid>
+            <pubDate>Thu, 24 Mar 2022 21:43:52 GMT</pubDate>
+            <description><![CDATA[Cory Booker on Ketanji Brown Jackson: ‘You Feel That Familiar Hurt’]]></description>
+        </item>
         <item>
             <title><![CDATA[新發現的名聲的令人眩暈的記錄]]></title>
             <link>https://www.newyorker.com/culture/listening-booth/a-dizzy-record-of-newfound-fame</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/magazine/2022/03/21/what-the-russian-invasion-has-done-to-ukraine</guid>
             <pubDate>Sat, 12 Mar 2022 11:00:00 GMT</pubDate>
             <description><![CDATA[What the Russian Invasion Has Done to Ukraine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為美國開慢車]]></title>
-            <link>https://www.theatlantic.com/technology/archive/2022/03/gas-prices-high-drive-slow/627039/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/technology/archive/2022/03/gas-prices-high-drive-slow/627039/?utm_source=feed</guid>
-            <pubDate>Sat, 12 Mar 2022 13:00:56 GMT</pubDate>
-            <description><![CDATA[Drive Slow for America]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我今天不會死在那條溝裡的"。]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/writing-controversial-opinions-journalism/627014/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/writing-controversial-opinions-journalism/627014/?utm_source=feed</guid>
-            <pubDate>Sat, 12 Mar 2022 12:01:56 GMT</pubDate>
-            <description><![CDATA[‘I’m Not Going to Die in That Ditch Today’]]></description>
         </item>
     </channel>
 </rss>
