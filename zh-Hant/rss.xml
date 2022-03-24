@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 24 Mar 2022 07:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 07:31:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[谷歌搜索正在消亡]]></title>
+            <link>https://dkb.io/post/google-search-is-dying</link>
+            <guid>https://dkb.io/post/google-search-is-dying</guid>
+            <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Google Search Is Dying]]></description>
+        </item>
+        <item>
+            <title><![CDATA[西方的團結是暫時的]]></title>
+            <link>https://www.theatlantic.com/international/archive/2022/03/biden-nato-summit-russia-invasion-ukraine/627598/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/international/archive/2022/03/biden-nato-summit-russia-invasion-ukraine/627598/?utm_source=feed</guid>
+            <pubDate>Thu, 24 Mar 2022 07:00:57 GMT</pubDate>
+            <description><![CDATA[The West’s Unity Is Temporary]]></description>
+        </item>
         <item>
             <title><![CDATA[QAnon為共和黨人對傑克遜的攻擊歡呼。民主黨人看到了一個信號。]]></title>
             <link>https://www.nytimes.com/2022/03/24/us/qanon-supreme-court-ketanji-brown-jackson.html</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.nytimes.com/2022/03/11/technology/discoverys-warnermedia-merger.html</guid>
             <pubDate>Fri, 11 Mar 2022 17:18:03 GMT</pubDate>
             <description><![CDATA[Discovery’s Shareholders Approve a Merger with WarnerMedia]]></description>
-        </item>
-        <item>
-            <title><![CDATA[比特幣的價值在俄烏戰爭和通貨膨脹中下跌]]></title>
-            <link>https://www.nytimes.com/2022/03/11/technology/bitcoin-ukraine-russia-roose.html</link>
-            <guid>https://www.nytimes.com/2022/03/11/technology/bitcoin-ukraine-russia-roose.html</guid>
-            <pubDate>Fri, 11 Mar 2022 16:50:08 GMT</pubDate>
-            <description><![CDATA[Bitcoin’s Value Drops Amid Russia-Urkaine War and Inflation]]></description>
-        </item>
-        <item>
-            <title><![CDATA[市場排名。反SEO排名的算法]]></title>
-            <link>https://dkb.io/post/market-rank</link>
-            <guid>https://dkb.io/post/market-rank</guid>
-            <pubDate>Fri, 11 Mar 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[MarketRank: The Anti-SEO Ranking Algorithm]]></description>
         </item>
     </channel>
 </rss>

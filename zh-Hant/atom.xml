@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-24T07:12:14.176Z</updated>
+    <updated>2022-03-24T07:31:24.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌搜索正在消亡]]></title>
+        <id>https://dkb.io/post/google-search-is-dying</id>
+        <link href="https://dkb.io/post/google-search-is-dying"/>
+        <updated>2022-02-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Google Search Is Dying]]></summary>
+        <author>
+            <name>dkb@dkb.fyi (dkb)</name>
+            <uri>https://dkb.io/rss.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西方的團結是暫時的]]></title>
+        <id>https://www.theatlantic.com/international/archive/2022/03/biden-nato-summit-russia-invasion-ukraine/627598/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/international/archive/2022/03/biden-nato-summit-russia-invasion-ukraine/627598/?utm_source=feed"/>
+        <updated>2022-03-24T07:00:57.000Z</updated>
+        <summary type="html"><![CDATA[The West’s Unity Is Temporary]]></summary>
+        <author>
+            <name>Tom McTague</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[QAnon為共和黨人對傑克遜的攻擊歡呼。民主黨人看到了一個信號。]]></title>
         <id>https://www.nytimes.com/2022/03/24/us/qanon-supreme-court-ketanji-brown-jackson.html</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>John Koblin</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特幣的價值在俄烏戰爭和通貨膨脹中下跌]]></title>
-        <id>https://www.nytimes.com/2022/03/11/technology/bitcoin-ukraine-russia-roose.html</id>
-        <link href="https://www.nytimes.com/2022/03/11/technology/bitcoin-ukraine-russia-roose.html"/>
-        <updated>2022-03-11T16:50:08.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin’s Value Drops Amid Russia-Urkaine War and Inflation]]></summary>
-        <author>
-            <name>Kevin Roose</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[市場排名。反SEO排名的算法]]></title>
-        <id>https://dkb.io/post/market-rank</id>
-        <link href="https://dkb.io/post/market-rank"/>
-        <updated>2022-03-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[MarketRank: The Anti-SEO Ranking Algorithm]]></summary>
-        <author>
-            <name>dkb@dkb.fyi (dkb)</name>
-            <uri>https://dkb.io/rss.xml</uri>
         </author>
     </entry>
 </feed>
