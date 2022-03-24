@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-24T18:40:09.331Z</updated>
+    <updated>2022-03-24T18:56:19.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在普京的阴影下听俄罗斯音乐]]></title>
+        <id>https://www.newyorker.com/culture/cultural-comment/listening-to-russian-music-in-putins-shadow</id>
+        <link href="https://www.newyorker.com/culture/cultural-comment/listening-to-russian-music-in-putins-shadow"/>
+        <updated>2022-03-24T18:45:28.000Z</updated>
+        <summary type="html"><![CDATA[Listening to Russian Music in Putin’s Shadow]]></summary>
+        <author>
+            <name>Alex Ross</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于 "正义的蠕动 "的评论中的亮点]]></title>
         <id>https://astralcodexten.substack.com/p/highlights-from-the-comments-on-justice</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[After Vacationing for a Week in Portland, I Really Feel That I Cannot Live Anywhere]]></summary>
         <author>
             <name>Jonathan Zeller</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beatrix Potter的秘密生活]]></title>
-        <id>https://www.newyorker.com/news/letter-from-the-uk/the-secret-life-of-beatrix-potter</id>
-        <link href="https://www.newyorker.com/news/letter-from-the-uk/the-secret-life-of-beatrix-potter"/>
-        <updated>2022-03-12T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Secret Life of Beatrix Potter]]></summary>
-        <author>
-            <name>Anna Russell</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
