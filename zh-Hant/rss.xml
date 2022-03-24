@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 24 Mar 2022 07:31:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 07:38:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[組織世界上的信息]]></title>
+            <link>https://dkb.io/post/organize-the-world-information</link>
+            <guid>https://dkb.io/post/organize-the-world-information</guid>
+            <pubDate>Sun, 28 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[To Organize The World's Information]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何閱讀一本書]]></title>
+            <link>https://dkb.io/post/how-to-read-a-book</link>
+            <guid>https://dkb.io/post/how-to-read-a-book</guid>
+            <pubDate>Sun, 06 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[How To Read A Book]]></description>
+        </item>
         <item>
             <title><![CDATA[谷歌搜索正在消亡]]></title>
             <link>https://dkb.io/post/google-search-is-dying</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.theatlantic.com/books/archive/2022/03/ukraine-russia-war-books-history/627032/?utm_source=feed</guid>
             <pubDate>Fri, 11 Mar 2022 17:45:07 GMT</pubDate>
             <description><![CDATA[Nine Books to Read to Understand the War in Ukraine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日漫畫。3月11日，星期五]]></title>
-            <link>https://www.newyorker.com/cartoons/daily-cartoon/friday-march-11th-desert-gas</link>
-            <guid>https://www.newyorker.com/cartoons/daily-cartoon/friday-march-11th-desert-gas</guid>
-            <pubDate>Fri, 11 Mar 2022 17:10:21 GMT</pubDate>
-            <description><![CDATA[Daily Cartoon: Friday, March 11th]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Discovery的股東批准了與華納媒體的合併]]></title>
-            <link>https://www.nytimes.com/2022/03/11/technology/discoverys-warnermedia-merger.html</link>
-            <guid>https://www.nytimes.com/2022/03/11/technology/discoverys-warnermedia-merger.html</guid>
-            <pubDate>Fri, 11 Mar 2022 17:18:03 GMT</pubDate>
-            <description><![CDATA[Discovery’s Shareholders Approve a Merger with WarnerMedia]]></description>
         </item>
     </channel>
 </rss>
