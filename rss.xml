@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 24 Mar 2022 19:28:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 19:37:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[马德琳-奥尔布赖特是美国历史上第一个 "最有权力的女人"。]]></title>
+            <link>https://www.newyorker.com/news/postscript/madeleine-albright-was-the-first-most-powerful-woman-in-us-history</link>
+            <guid>https://www.newyorker.com/news/postscript/madeleine-albright-was-the-first-most-powerful-woman-in-us-history</guid>
+            <pubDate>Thu, 24 Mar 2022 19:21:44 GMT</pubDate>
+            <description><![CDATA[Madeleine Albright Was the First “Most Powerful Woman” in U.S. History]]></description>
+        </item>
         <item>
             <title><![CDATA[马德琳-奥尔布赖特是美国历史上第一个 "最有权力的女人"。]]></title>
             <link>https://www.newyorker.com/news/postscript/madeleine-albright-was-the-first-most-powerful-woman-in-us-history</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/news/letter-from-the-uk/the-secret-life-of-beatrix-potter</guid>
             <pubDate>Sat, 12 Mar 2022 11:00:00 GMT</pubDate>
             <description><![CDATA[The Secret Life of Beatrix Potter]]></description>
-        </item>
-        <item>
-            <title><![CDATA[好莱坞抵制俄罗斯的四点启示]]></title>
-            <link>https://www.theatlantic.com/culture/archive/2022/03/hollywood-russia-boycott/627042/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/culture/archive/2022/03/hollywood-russia-boycott/627042/?utm_source=feed</guid>
-            <pubDate>Sat, 12 Mar 2022 11:01:56 GMT</pubDate>
-            <description><![CDATA[Four Takeaways From Hollywood’s Boycott of Russia]]></description>
         </item>
     </channel>
 </rss>

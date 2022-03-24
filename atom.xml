@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-24T19:28:53.634Z</updated>
+    <updated>2022-03-24T19:37:55.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[马德琳-奥尔布赖特是美国历史上第一个 "最有权力的女人"。]]></title>
+        <id>https://www.newyorker.com/news/postscript/madeleine-albright-was-the-first-most-powerful-woman-in-us-history</id>
+        <link href="https://www.newyorker.com/news/postscript/madeleine-albright-was-the-first-most-powerful-woman-in-us-history"/>
+        <updated>2022-03-24T19:21:44.000Z</updated>
+        <summary type="html"><![CDATA[Madeleine Albright Was the First “Most Powerful Woman” in U.S. History]]></summary>
+        <author>
+            <name>Robin Wright</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[马德琳-奥尔布赖特是美国历史上第一个 "最有权力的女人"。]]></title>
         <id>https://www.newyorker.com/news/postscript/madeleine-albright-was-the-first-most-powerful-woman-in-us-history</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Anna Russell</name>
             <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好莱坞抵制俄罗斯的四点启示]]></title>
-        <id>https://www.theatlantic.com/culture/archive/2022/03/hollywood-russia-boycott/627042/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/culture/archive/2022/03/hollywood-russia-boycott/627042/?utm_source=feed"/>
-        <updated>2022-03-12T11:01:56.000Z</updated>
-        <summary type="html"><![CDATA[Four Takeaways From Hollywood’s Boycott of Russia]]></summary>
-        <author>
-            <name>Shirley Li</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>

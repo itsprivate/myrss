@@ -19,6 +19,18 @@
             "date_modified": "2022-03-24T19:21:44.000Z",
             "author": {
                 "name": "Robin Wright",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/postscript/madeleine-albright-was-the-first-most-powerful-woman-in-us-history",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/postscript/madeleine-albright-was-the-first-most-powerful-woman-in-us-history",
+            "title": "马德琳-奥尔布赖特是美国历史上第一个 \"最有权力的女人\"。",
+            "summary": "Madeleine Albright Was the First “Most Powerful Woman” in U.S. History",
+            "date_modified": "2022-03-24T19:21:44.000Z",
+            "author": {
+                "name": "Robin Wright",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         },
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Anna Russell",
                 "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/culture/archive/2022/03/hollywood-russia-boycott/627042/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/culture/archive/2022/03/hollywood-russia-boycott/627042/?utm_source=feed",
-            "title": "好莱坞抵制俄罗斯的四点启示",
-            "summary": "Four Takeaways From Hollywood’s Boycott of Russia",
-            "date_modified": "2022-03-12T11:01:56.000Z",
-            "author": {
-                "name": "Shirley Li",
-                "url": "https://www.theatlantic.com/feed/all/"
             }
         }
     ]
