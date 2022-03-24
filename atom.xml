@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-24T07:51:56.237Z</updated>
+    <updated>2022-03-24T10:14:00.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有谁能解除马乔里-泰勒-格林的席位吗？]]></title>
+        <id>https://www.newyorker.com/news/campaign-chronicles/can-anyone-unseat-marjorie-taylor-greene</id>
+        <link href="https://www.newyorker.com/news/campaign-chronicles/can-anyone-unseat-marjorie-taylor-greene"/>
+        <updated>2022-03-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Can Anyone Unseat Marjorie Taylor Greene?]]></summary>
+        <author>
+            <name>Charles Bethea</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如此轻松的驾驶]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/its-such-an-easy-drive</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/its-such-an-easy-drive"/>
+        <updated>2022-03-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s Such an Easy Drive]]></summary>
+        <author>
+            <name>Eddie Small</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个莱克斯岛医生的幻灭之路]]></title>
+        <id>https://www.newyorker.com/news/essay/the-disillusionment-of-a-rikers-island-doctor</id>
+        <link href="https://www.newyorker.com/news/essay/the-disillusionment-of-a-rikers-island-doctor"/>
+        <updated>2022-03-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Disillusionment of a Rikers Island Doctor]]></summary>
+        <author>
+            <name>Rachael Bedard</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[落名：2022年3月24日，星期四]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/24</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/24"/>
+        <updated>2022-03-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Name Drop: Thursday, March 24, 2022]]></summary>
+        <author>
+            <name>Matt Jackson</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[无论如何写吧]]></title>
         <id>https://dkb.io/post/write-it-anyway</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>Scott Alexander</name>
             <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京入侵乌克兰如何颠覆德国]]></title>
-        <id>https://www.newyorker.com/news/news-desk/how-putins-invasion-of-ukraine-upended-germany</id>
-        <link href="https://www.newyorker.com/news/news-desk/how-putins-invasion-of-ukraine-upended-germany"/>
-        <updated>2022-03-11T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How Putin’s Invasion of Ukraine Upended Germany]]></summary>
-        <author>
-            <name>Alec MacGillis</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[起床背后的心理学]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/the-psychology-behind-getting-out-of-bed</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/the-psychology-behind-getting-out-of-bed"/>
-        <updated>2022-03-11T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Psychology Behind Getting Out of Bed]]></summary>
-        <author>
-            <name>Naomi Extra</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京入侵乌克兰如何颠覆德国]]></title>
-        <id>https://www.newyorker.com/news/news-desk/how-putins-invasion-of-ukraine-upended-germany</id>
-        <link href="https://www.newyorker.com/news/news-desk/how-putins-invasion-of-ukraine-upended-germany"/>
-        <updated>2022-03-11T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How Putin’s Invasion of Ukraine Upended Germany]]></summary>
-        <author>
-            <name>Alec MacGillis</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<em>《大西洋日报》<em>。食品即将变得更加昂贵]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2022/03/the-food-war/627037/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/the-food-war/627037/?utm_source=feed"/>
-        <updated>2022-03-11T18:03:51.000Z</updated>
-        <summary type="html"><![CDATA[<em>The Atlantic </em>Daily: Food Is About to Get More Expensive]]></summary>
-        <author>
-            <name>Caroline Mimbs Nyce</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
