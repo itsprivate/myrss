@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-23T23:13:57.661Z</updated>
+    <updated>2022-03-24T03:04:03.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[采访。我!]]></title>
+        <id>https://noahpinion.substack.com/p/interview-me</id>
+        <link href="https://noahpinion.substack.com/p/interview-me"/>
+        <updated>2022-03-24T02:35:25.000Z</updated>
+        <summary type="html"><![CDATA[Interview: Me!]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国宇航局计划在月球上给SpaceX一些陪伴]]></title>
         <id>https://www.nytimes.com/2022/03/23/science/nasa-moon-landing.html</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>David Sims</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯开始宣布Facebook的母公司Meta为 "极端主义 "组织的进程。]]></title>
-        <id>https://www.nytimes.com/live/2022/03/11/world/ukraine-russia-news/russia-starts-the-process-of-declaring-facebooks-parent-meta-an-extremist-organization</id>
-        <link href="https://www.nytimes.com/live/2022/03/11/world/ukraine-russia-news/russia-starts-the-process-of-declaring-facebooks-parent-meta-an-extremist-organization"/>
-        <updated>2022-03-11T15:17:51.000Z</updated>
-        <summary type="html"><![CDATA[Russia starts the process of declaring Facebook’s parent, Meta, an ‘extremist’ organization.]]></summary>
-        <author>
-            <name>Ivan Nechepurenko and Adam Satariano</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 23 Mar 2022 23:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 03:04:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[采访。我!]]></title>
+            <link>https://noahpinion.substack.com/p/interview-me</link>
+            <guid>https://noahpinion.substack.com/p/interview-me</guid>
+            <pubDate>Thu, 24 Mar 2022 02:35:25 GMT</pubDate>
+            <description><![CDATA[Interview: Me!]]></description>
+        </item>
         <item>
             <title><![CDATA[美国宇航局计划在月球上给SpaceX一些陪伴]]></title>
             <link>https://www.nytimes.com/2022/03/23/science/nasa-moon-landing.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/culture/archive/2022/03/after-yang-colin-farrell-kogonada-interview/627034/?utm_source=feed</guid>
             <pubDate>Fri, 11 Mar 2022 15:56:56 GMT</pubDate>
             <description><![CDATA[‘I Imagined a Future That Was Neither Utopian nor Dystopian’]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯开始宣布Facebook的母公司Meta为 "极端主义 "组织的进程。]]></title>
-            <link>https://www.nytimes.com/live/2022/03/11/world/ukraine-russia-news/russia-starts-the-process-of-declaring-facebooks-parent-meta-an-extremist-organization</link>
-            <guid>https://www.nytimes.com/live/2022/03/11/world/ukraine-russia-news/russia-starts-the-process-of-declaring-facebooks-parent-meta-an-extremist-organization</guid>
-            <pubDate>Fri, 11 Mar 2022 15:17:51 GMT</pubDate>
-            <description><![CDATA[Russia starts the process of declaring Facebook’s parent, Meta, an ‘extremist’ organization.]]></description>
         </item>
     </channel>
 </rss>

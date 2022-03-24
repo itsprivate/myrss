@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://noahpinion.substack.com/p/interview-me",
+            "content_html": "",
+            "url": "https://noahpinion.substack.com/p/interview-me",
+            "title": "採訪。我!",
+            "summary": "Interview: Me!",
+            "date_modified": "2022-03-24T02:35:25.000Z",
+            "author": {
+                "name": "Noah Smith",
+                "url": "https://noahpinion.substack.com/feed"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/23/science/nasa-moon-landing.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/23/science/nasa-moon-landing.html",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "David Sims",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/live/2022/03/11/world/ukraine-russia-news/russia-starts-the-process-of-declaring-facebooks-parent-meta-an-extremist-organization",
-            "content_html": "",
-            "url": "https://www.nytimes.com/live/2022/03/11/world/ukraine-russia-news/russia-starts-the-process-of-declaring-facebooks-parent-meta-an-extremist-organization",
-            "title": "俄羅斯開始宣佈Facebook的母公司Meta為 \"極端主義 \"組織的進程。",
-            "summary": "Russia starts the process of declaring Facebook’s parent, Meta, an ‘extremist’ organization.",
-            "date_modified": "2022-03-11T15:17:51.000Z",
-            "author": {
-                "name": "Ivan Nechepurenko and Adam Satariano",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
     ]
