@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-24T10:35:52.397Z</updated>
+    <updated>2022-03-24T10:47:01.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[普京没有意识到战争已经发生了多大变化]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/putin-doesnt-realize-how-much-warfare-has-changed/627600/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/putin-doesnt-realize-how-much-warfare-has-changed/627600/?utm_source=feed"/>
+        <updated>2022-03-24T10:30:56.000Z</updated>
+        <summary type="html"><![CDATA[Putin Doesn’t Realize How Much Warfare Has Changed]]></summary>
+        <author>
+            <name>Antony Beevor</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[选择享受而不是快乐]]></title>
         <id>https://www.theatlantic.com/family/archive/2022/03/enjoyment-not-pleasure-creates-happiness/627583/?utm_source=feed</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Mike Isaac, Ryan Mac and Sheera Frenkel</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[偷来的尿布的意义]]></title>
-        <id>https://www.newyorker.com/news/our-local-correspondents/the-meaning-of-a-stolen-diaper</id>
-        <link href="https://www.newyorker.com/news/our-local-correspondents/the-meaning-of-a-stolen-diaper"/>
-        <updated>2022-03-11T19:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The Meaning of a Stolen Diaper]]></summary>
-        <author>
-            <name>Jessica Winter</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
