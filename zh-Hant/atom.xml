@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-25T16:17:12.630Z</updated>
+    <updated>2022-03-25T16:53:46.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[博物館正從NFT中獲利]]></title>
+        <id>https://www.nytimes.com/2022/03/25/arts/design/museums-nfts.html</id>
+        <link href="https://www.nytimes.com/2022/03/25/arts/design/museums-nfts.html"/>
+        <updated>2022-03-25T15:31:34.000Z</updated>
+        <summary type="html"><![CDATA[Museums Are Cashing In on NFTs]]></summary>
+        <author>
+            <name>Scott Reyburn</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[法律學者對金妮-托馬斯的 "停止偷竊 "文本感到震驚]]></title>
         <id>https://www.newyorker.com/news/news-desk/legal-scholars-are-shocked-by-ginni-thomass-stop-the-steal-texts</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Cartoon Caption Contest]]></summary>
         <author>
             <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是時候把普京在烏克蘭的戰爭稱為種族滅絕了嗎？]]></title>
-        <id>https://www.newyorker.com/news/daily-comment/is-it-time-to-call-putins-war-in-ukraine-genocide</id>
-        <link href="https://www.newyorker.com/news/daily-comment/is-it-time-to-call-putins-war-in-ukraine-genocide"/>
-        <updated>2022-03-13T23:51:50.000Z</updated>
-        <summary type="html"><![CDATA[Is It Time to Call Putin’s War in Ukraine Genocide?]]></summary>
-        <author>
-            <name>Philip Gourevitch</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
