@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-25T14:34:37.913Z</updated>
+    <updated>2022-03-25T15:37:07.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[金妮-托馬斯指責批評者無視她作為最高法院法官的三十年服務經歷]]></title>
+        <id>https://www.newyorker.com/humor/borowitz-report/ginni-thomas-accuses-critics-of-ignoring-her-thirty-years-of-service-as-supreme-court-justice</id>
+        <link href="https://www.newyorker.com/humor/borowitz-report/ginni-thomas-accuses-critics-of-ignoring-her-thirty-years-of-service-as-supreme-court-justice"/>
+        <updated>2022-03-25T15:07:46.000Z</updated>
+        <summary type="html"><![CDATA[Ginni Thomas Accuses Critics of Ignoring Her Thirty Years of Service as Supreme Court Justice]]></summary>
+        <author>
+            <name>Andy Borowitz</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日漫畫。3月25日，星期五]]></title>
         <id>https://www.newyorker.com/cartoons/daily-cartoon/friday-march-25th-bang-whimper-push</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[The Simple Brilliance of That Amazon Go <em>SNL </em>Sketch]]></summary>
         <author>
             <name>Amanda Wicks</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[感受牧民]]></title>
-        <id>https://www.theatlantic.com/technology/archive/2022/03/what-cow-therapy-taught-me/627044/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/technology/archive/2022/03/what-cow-therapy-taught-me/627044/?utm_source=feed"/>
-        <updated>2022-03-13T12:01:57.000Z</updated>
-        <summary type="html"><![CDATA[Feeling Herd]]></summary>
-        <author>
-            <name>Ian Bogost</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>

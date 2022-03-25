@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/humor/borowitz-report/ginni-thomas-accuses-critics-of-ignoring-her-thirty-years-of-service-as-supreme-court-justice",
+            "content_html": "",
+            "url": "https://www.newyorker.com/humor/borowitz-report/ginni-thomas-accuses-critics-of-ignoring-her-thirty-years-of-service-as-supreme-court-justice",
+            "title": "金妮-托马斯指责批评者无视她作为最高法院法官的三十年服务经历",
+            "summary": "Ginni Thomas Accuses Critics of Ignoring Her Thirty Years of Service as Supreme Court Justice",
+            "date_modified": "2022-03-25T15:07:46.000Z",
+            "author": {
+                "name": "Andy Borowitz",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/cartoons/daily-cartoon/friday-march-25th-bang-whimper-push",
             "content_html": "",
             "url": "https://www.newyorker.com/cartoons/daily-cartoon/friday-march-25th-bang-whimper-push",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-13T16:16:15.000Z",
             "author": {
                 "name": "Amanda Wicks",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/technology/archive/2022/03/what-cow-therapy-taught-me/627044/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/technology/archive/2022/03/what-cow-therapy-taught-me/627044/?utm_source=feed",
-            "title": "感受牧民",
-            "summary": "Feeling Herd",
-            "date_modified": "2022-03-13T12:01:57.000Z",
-            "author": {
-                "name": "Ian Bogost",
                 "url": "https://www.theatlantic.com/feed/all/"
             }
         }
