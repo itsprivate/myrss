@@ -19,6 +19,30 @@
             "date_modified": "2022-03-25T19:24:16.000Z",
             "author": {
                 "name": "Dhruv Khullar",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/books/archive/2022/03/yevgenia-belorusets-writer-ukraine-war/629380/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/books/archive/2022/03/yevgenia-belorusets-writer-ukraine-war/629380/?utm_source=feed",
+            "title": "她的世界開始崩潰，所以她開始寫日記",
+            "summary": "Her World Began to Collapse, So She Started Keeping a Diary",
+            "date_modified": "2022-03-25T19:40:51.000Z",
+            "author": {
+                "name": "Gal Beckerman",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/as-told-to/how-covid-exploded-in-hong-kong",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/as-told-to/how-covid-exploded-in-hong-kong",
+            "title": "COVID是如何在香港爆發的",
+            "summary": "How COVID Exploded in Hong Kong",
+            "date_modified": "2022-03-25T19:24:16.000Z",
+            "author": {
+                "name": "Dhruv Khullar",
                 "url": "https://www.newyorker.com/feed/news"
             }
         },
@@ -7183,30 +7207,6 @@
             "date_modified": "2022-03-14T10:00:00.000Z",
             "author": {
                 "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/03/21/bel-air-and-abbott-elementary-reboot-and-revive-the-network-sitcom",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/03/21/bel-air-and-abbott-elementary-reboot-and-revive-the-network-sitcom",
-            "title": "\"Bel-Air \"和 \"Abbott Elementary \"重新啟動和恢復網絡情景喜劇",
-            "summary": "“Bel-Air” and “Abbott Elementary” Reboot and Revive the Network Sitcom",
-            "date_modified": "2022-03-14T10:00:00.000Z",
-            "author": {
-                "name": "Doreen St. Félix",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/books/page-turner/how-it-felt-to-have-my-novel-stolen",
-            "content_html": "",
-            "url": "https://www.newyorker.com/books/page-turner/how-it-felt-to-have-my-novel-stolen",
-            "title": "我的小說被盜的感受",
-            "summary": "How It Felt to Have My Novel Stolen",
-            "date_modified": "2022-03-14T10:00:00.000Z",
-            "author": {
-                "name": "Peter C. Baker",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

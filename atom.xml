@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-25T19:27:18.269Z</updated>
+    <updated>2022-03-25T19:52:30.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[COVID是如何在香港爆发的]]></title>
+        <id>https://www.newyorker.com/news/as-told-to/how-covid-exploded-in-hong-kong</id>
+        <link href="https://www.newyorker.com/news/as-told-to/how-covid-exploded-in-hong-kong"/>
+        <updated>2022-03-25T19:24:16.000Z</updated>
+        <summary type="html"><![CDATA[How COVID Exploded in Hong Kong]]></summary>
+        <author>
+            <name>Dhruv Khullar</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[她的世界开始崩溃，所以她开始写日记]]></title>
+        <id>https://www.theatlantic.com/books/archive/2022/03/yevgenia-belorusets-writer-ukraine-war/629380/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/books/archive/2022/03/yevgenia-belorusets-writer-ukraine-war/629380/?utm_source=feed"/>
+        <updated>2022-03-25T19:40:51.000Z</updated>
+        <summary type="html"><![CDATA[Her World Began to Collapse, So She Started Keeping a Diary]]></summary>
+        <author>
+            <name>Gal Beckerman</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[COVID是如何在香港爆发的]]></title>
         <id>https://www.newyorker.com/news/as-told-to/how-covid-exploded-in-hong-kong</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[Slide Show: New Yorker Cartoons March 21, 2022, Issue]]></summary>
         <author>
             <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Bel-Air "和 "Abbott Elementary "重新启动和恢复网络情景喜剧]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/21/bel-air-and-abbott-elementary-reboot-and-revive-the-network-sitcom</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/21/bel-air-and-abbott-elementary-reboot-and-revive-the-network-sitcom"/>
-        <updated>2022-03-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“Bel-Air” and “Abbott Elementary” Reboot and Revive the Network Sitcom]]></summary>
-        <author>
-            <name>Doreen St. Félix</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的小说被盗的感受]]></title>
-        <id>https://www.newyorker.com/books/page-turner/how-it-felt-to-have-my-novel-stolen</id>
-        <link href="https://www.newyorker.com/books/page-turner/how-it-felt-to-have-my-novel-stolen"/>
-        <updated>2022-03-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How It Felt to Have My Novel Stolen]]></summary>
-        <author>
-            <name>Peter C. Baker</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
