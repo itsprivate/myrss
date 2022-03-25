@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-25T21:32:38.846Z</updated>
+    <updated>2022-03-25T22:13:17.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[克里斯-赫奇斯談戰爭和監獄的非人道性]]></title>
+        <id>https://www.currentaffairs.org/2022/03/chris-hedges-on-the-inhumanity-of-wars-and-prisons/</id>
+        <link href="https://www.currentaffairs.org/2022/03/chris-hedges-on-the-inhumanity-of-wars-and-prisons/"/>
+        <updated>2022-03-25T17:50:29.000Z</updated>
+        <summary type="html"><![CDATA[Chris Hedges on the Inhumanity of Wars and Prisons]]></summary>
+        <author>
+            <name>Current Affairs</name>
+            <uri>https://www.currentaffairs.org/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[債務所帶來的不可估量的危害]]></title>
         <id>https://www.currentaffairs.org/2022/03/the-incalculable-harms-imposed-by-debt/</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Eliot A. Cohen</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中國女人》中的歷史課]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/21/history-lessons-in-the-chinese-lady</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/21/history-lessons-in-the-chinese-lady"/>
-        <updated>2022-03-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[History Lessons in “The Chinese Lady”]]></summary>
-        <author>
-            <name>Vinson Cunningham</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>

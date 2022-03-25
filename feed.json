@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.currentaffairs.org/2022/03/chris-hedges-on-the-inhumanity-of-wars-and-prisons/",
+            "content_html": "",
+            "url": "https://www.currentaffairs.org/2022/03/chris-hedges-on-the-inhumanity-of-wars-and-prisons/",
+            "title": "克里斯-赫奇斯谈战争和监狱的非人道性",
+            "summary": "Chris Hedges on the Inhumanity of Wars and Prisons",
+            "date_modified": "2022-03-25T17:50:29.000Z",
+            "author": {
+                "name": "Current Affairs",
+                "url": "https://www.currentaffairs.org/feed"
+            }
+        },
+        {
             "id": "https://www.currentaffairs.org/2022/03/the-incalculable-harms-imposed-by-debt/",
             "content_html": "",
             "url": "https://www.currentaffairs.org/2022/03/the-incalculable-harms-imposed-by-debt/",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Eliot A. Cohen",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/03/21/history-lessons-in-the-chinese-lady",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/03/21/history-lessons-in-the-chinese-lady",
-            "title": "中国女人》中的历史课",
-            "summary": "History Lessons in “The Chinese Lady”",
-            "date_modified": "2022-03-14T10:00:00.000Z",
-            "author": {
-                "name": "Vinson Cunningham",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]

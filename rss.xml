@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 25 Mar 2022 21:32:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 22:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[克里斯-赫奇斯谈战争和监狱的非人道性]]></title>
+            <link>https://www.currentaffairs.org/2022/03/chris-hedges-on-the-inhumanity-of-wars-and-prisons/</link>
+            <guid>https://www.currentaffairs.org/2022/03/chris-hedges-on-the-inhumanity-of-wars-and-prisons/</guid>
+            <pubDate>Fri, 25 Mar 2022 17:50:29 GMT</pubDate>
+            <description><![CDATA[Chris Hedges on the Inhumanity of Wars and Prisons]]></description>
+        </item>
         <item>
             <title><![CDATA[债务所带来的不可估量的危害]]></title>
             <link>https://www.currentaffairs.org/2022/03/the-incalculable-harms-imposed-by-debt/</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/ideas/archive/2022/03/ukraine-united-states-nato/627052/?utm_source=feed</guid>
             <pubDate>Mon, 14 Mar 2022 10:01:56 GMT</pubDate>
             <description><![CDATA[America’s Hesitation Is Heartbreaking]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中国女人》中的历史课]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/21/history-lessons-in-the-chinese-lady</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/21/history-lessons-in-the-chinese-lady</guid>
-            <pubDate>Mon, 14 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[History Lessons in “The Chinese Lady”]]></description>
         </item>
     </channel>
 </rss>
