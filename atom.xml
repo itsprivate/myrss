@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-25T18:15:24.906Z</updated>
+    <updated>2022-03-25T18:40:51.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[戳穿普京 "防制裁 "经济的拜登官员]]></title>
+        <id>https://www.newyorker.com/news/annals-of-inquiry/the-biden-official-who-pierced-putins-sanction-proof-economy</id>
+        <link href="https://www.newyorker.com/news/annals-of-inquiry/the-biden-official-who-pierced-putins-sanction-proof-economy"/>
+        <updated>2022-03-25T18:30:10.000Z</updated>
+        <summary type="html"><![CDATA[The Biden Official Who Pierced Putin’s “Sanction-Proof” Economy]]></summary>
+        <author>
+            <name>Benjamin Wallace-Wells</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[红地毯类型的分类法]]></title>
         <id>https://www.newyorker.com/humor/daily-shouts/a-taxonomy-of-red-carpet-types</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[How Big a Threat to the U.S. Economy Is the War in Ukraine?]]></summary>
         <author>
             <name>John Cassidy</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[扎克-威廉姆斯阅读 "木兰花屋"]]></title>
-        <id>https://www.newyorker.com/podcast/the-writers-voice/zach-williams-reads-wood-sorrel-house</id>
-        <link href="https://www.newyorker.com/podcast/the-writers-voice/zach-williams-reads-wood-sorrel-house"/>
-        <updated>2022-03-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Zach Williams Reads “Wood Sorrel House”]]></summary>
-        <author>
-            <name>unknown</name>
             <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
