@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-25T16:53:46.639Z</updated>
+    <updated>2022-03-25T17:37:12.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[<em>The Atlantic</em> Daily: 当确认听证会是一个算账的机会时]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/03/what-working-mothers-heard-in-judge-jacksons-words/629361/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/what-working-mothers-heard-in-judge-jacksons-words/629361/?utm_source=feed"/>
+        <updated>2022-03-25T17:09:08.000Z</updated>
+        <summary type="html"><![CDATA[<em>The Atlantic</em> Daily: When a Confirmation Hearing Is a Chance to Settle Scores]]></summary>
+        <author>
+            <name>Caroline Mimbs Nyce</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[他们的首要任务只是逃离和生存]]></title>
+        <id>https://www.theatlantic.com/health/archive/2022/03/ukraine-crisis-pandemic-outbreak/629379/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/health/archive/2022/03/ukraine-crisis-pandemic-outbreak/629379/?utm_source=feed"/>
+        <updated>2022-03-25T17:06:56.000Z</updated>
+        <summary type="html"><![CDATA[‘Their Priority Is Just to Flee and Survive’]]></summary>
+        <author>
+            <name>Jacob Stern</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[博物馆正从NFT中获利]]></title>
         <id>https://www.nytimes.com/2022/03/25/arts/design/museums-nfts.html</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>The New York Times</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么西方可能不得不为普京提供一条出路？]]></title>
-        <id>https://www.theatlantic.com/international/archive/2022/03/west-save-putin-russia-ukraine/627051/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/international/archive/2022/03/west-save-putin-russia-ukraine/627051/?utm_source=feed"/>
-        <updated>2022-03-14T09:00:56.000Z</updated>
-        <summary type="html"><![CDATA[Why the West May Have to Offer Putin a Way Out]]></summary>
-        <author>
-            <name>Tom McTague</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卡通字幕大赛]]></title>
-        <id>https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-03-21</id>
-        <link href="https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-03-21"/>
-        <updated>2022-03-14T04:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Cartoon Caption Contest]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
