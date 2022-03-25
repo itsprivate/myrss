@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 25 Mar 2022 22:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 22:33:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[百岁博客达格妮-卡尔松逝世，享年109岁]]></title>
+            <link>https://www.nytimes.com/2022/03/25/world/europe/dagny-carlsson-dead.html</link>
+            <guid>https://www.nytimes.com/2022/03/25/world/europe/dagny-carlsson-dead.html</guid>
+            <pubDate>Fri, 25 Mar 2022 22:13:16 GMT</pubDate>
+            <description><![CDATA[Dagny Carlsson, Centenarian Blogger, Dies at 109]]></description>
+        </item>
         <item>
             <title><![CDATA[克里斯-赫奇斯谈战争和监狱的非人道性]]></title>
             <link>https://www.currentaffairs.org/2022/03/chris-hedges-on-the-inhumanity-of-wars-and-prisons/</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/magazine/2022/03/21/literatures-most-controversial-nobel-laureate</guid>
             <pubDate>Mon, 14 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Literature’s Most Controversial Nobel Laureate]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国的犹豫不决令人心碎]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/ukraine-united-states-nato/627052/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/ukraine-united-states-nato/627052/?utm_source=feed</guid>
-            <pubDate>Mon, 14 Mar 2022 10:01:56 GMT</pubDate>
-            <description><![CDATA[America’s Hesitation Is Heartbreaking]]></description>
         </item>
     </channel>
 </rss>
