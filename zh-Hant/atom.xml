@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-25T09:13:13.558Z</updated>
+    <updated>2022-03-25T10:15:31.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[填字遊戲。2022年3月25日，星期五]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/25</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/25"/>
+        <updated>2022-03-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Crossword: Friday, March 25, 2022]]></summary>
+        <author>
+            <name>Robyn Weintraub</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通往今年奧斯卡獎的坎坷之路]]></title>
+        <id>https://www.newyorker.com/culture/culture-desk/the-rocky-road-to-this-years-oscars</id>
+        <link href="https://www.newyorker.com/culture/culture-desk/the-rocky-road-to-this-years-oscars"/>
+        <updated>2022-03-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Rocky Road to This Year’s Oscars]]></summary>
+        <author>
+            <name>Michael Schulman</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亞裔美國婦女的反擊]]></title>
+        <id>https://www.newyorker.com/culture/photo-booth/asian-american-women-fight-back</id>
+        <link href="https://www.newyorker.com/culture/photo-booth/asian-american-women-fight-back"/>
+        <updated>2022-03-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Asian American Women Fight Back]]></summary>
+        <author>
+            <name>Jiayang Fan</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[南達科他州的一個新的墮胎戰場]]></title>
+        <id>https://www.newyorker.com/news/dispatch/a-new-abortion-battleground-in-south-dakota</id>
+        <link href="https://www.newyorker.com/news/dispatch/a-new-abortion-battleground-in-south-dakota"/>
+        <updated>2022-03-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A New Abortion Battleground, in South Dakota]]></summary>
+        <author>
+            <name>Peter Slevin</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大多數美國人憎恨他們的工作的神話]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/03/american-great-resignation-hate-work/627761/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/american-great-resignation-hate-work/627761/?utm_source=feed"/>
+        <updated>2022-03-25T10:01:56.000Z</updated>
+        <summary type="html"><![CDATA[The Myth That Most Americans Hate Their Job]]></summary>
+        <author>
+            <name>Derek Thompson</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[處於緊張狀態的<em>CODA</em>的核心部分]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/03/coda-deaf-actors-supporting-roles/627609/?utm_source=feed</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>Amy Davidson Sorkin</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烹飪的樂趣 褻瀆性的融合食物]]></title>
-        <id>https://www.newyorker.com/culture/kitchen-notes/the-joy-of-cooking-blasphemous-fusion-food</id>
-        <link href="https://www.newyorker.com/culture/kitchen-notes/the-joy-of-cooking-blasphemous-fusion-food"/>
-        <updated>2022-03-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Joy of Cooking Blasphemous Fusion Food]]></summary>
-        <author>
-            <name>Danny Chau</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[星期日閱讀。海倫-羅斯納的世界]]></title>
-        <id>https://www.newyorker.com/books/double-take/sunday-reading-the-world-of-helen-rosner</id>
-        <link href="https://www.newyorker.com/books/double-take/sunday-reading-the-world-of-helen-rosner"/>
-        <updated>2022-03-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sunday Reading: The World of Helen Rosner]]></summary>
-        <author>
-            <name>The New Yorker</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[莎拉-波利無法講述的故事]]></title>
-        <id>https://www.newyorker.com/culture/the-new-yorker-interview/the-stories-sarah-polley-couldnt-tell</id>
-        <link href="https://www.newyorker.com/culture/the-new-yorker-interview/the-stories-sarah-polley-couldnt-tell"/>
-        <updated>2022-03-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Stories Sarah Polley Couldn’t Tell]]></summary>
-        <author>
-            <name>Alexandra Schwartz</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[背對烏克蘭的民主國家]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/india-military-support-russia-ukraine-war/627035/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/india-military-support-russia-ukraine-war/627035/?utm_source=feed"/>
-        <updated>2022-03-13T09:00:56.000Z</updated>
-        <summary type="html"><![CDATA[The Democracy Turning Its Back on Ukraine]]></summary>
-        <author>
-            <name>Rajeswari Pillai Rajagopalan</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[偉大的美國二戰故事]]></title>
-        <id>https://www.currentaffairs.org/2022/03/the-great-american-world-war-ii-story/</id>
-        <link href="https://www.currentaffairs.org/2022/03/the-great-american-world-war-ii-story/"/>
-        <updated>2022-03-12T19:32:44.000Z</updated>
-        <summary type="html"><![CDATA[The Great American World War II Story]]></summary>
-        <author>
-            <name>Nathan J. Robinson</name>
-            <uri>https://www.currentaffairs.org/feed</uri>
         </author>
     </entry>
 </feed>
