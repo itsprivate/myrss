@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/culture/archive/2022/03/everything-everywhere-all-at-once-movie-review/629357/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/culture/archive/2022/03/everything-everywhere-all-at-once-movie-review/629357/?utm_source=feed",
+            "title": "<em>所有的东西都在同一时间</em>是一个令人费解的多元宇宙的幻想",
+            "summary": "<em>Everything Everywhere All at Once</em> Is a Mind-Bending Multiverse Fantasy",
+            "date_modified": "2022-03-25T11:01:56.000Z",
+            "author": {
+                "name": "David Sims",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/25",
             "content_html": "",
             "url": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/25",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-13T10:00:00.000Z",
             "author": {
                 "name": "Patrick Berry",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/03/21/the-trumpist-ukraine-blame-game",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/03/21/the-trumpist-ukraine-blame-game",
-            "title": "特朗普主义的乌克兰责备游戏",
-            "summary": "The Trumpist Ukraine Blame Game",
-            "date_modified": "2022-03-13T10:00:00.000Z",
-            "author": {
-                "name": "Amy Davidson Sorkin",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

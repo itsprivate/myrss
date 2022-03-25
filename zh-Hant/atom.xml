@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-25T10:15:31.778Z</updated>
+    <updated>2022-03-25T11:12:17.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[<em>所有的東西都在同一時間</em>是一個令人費解的多元宇宙的幻想]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/03/everything-everywhere-all-at-once-movie-review/629357/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/03/everything-everywhere-all-at-once-movie-review/629357/?utm_source=feed"/>
+        <updated>2022-03-25T11:01:56.000Z</updated>
+        <summary type="html"><![CDATA[<em>Everything Everywhere All at Once</em> Is a Mind-Bending Multiverse Fantasy]]></summary>
+        <author>
+            <name>David Sims</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[填字遊戲。2022年3月25日，星期五]]></title>
         <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/25</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[The Cryptic Crossword: Sunday, March 13, 2022]]></summary>
         <author>
             <name>Patrick Berry</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普主義的烏克蘭責備遊戲]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/21/the-trumpist-ukraine-blame-game</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/21/the-trumpist-ukraine-blame-game"/>
-        <updated>2022-03-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Trumpist Ukraine Blame Game]]></summary>
-        <author>
-            <name>Amy Davidson Sorkin</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
