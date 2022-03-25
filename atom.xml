@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-25T11:12:17.381Z</updated>
+    <updated>2022-03-25T12:19:11.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[这个冬天我读的10本好书]]></title>
+        <id>https://austinkleon.substack.com/p/10-good-books-i-read-this-winter</id>
+        <link href="https://austinkleon.substack.com/p/10-good-books-i-read-this-winter"/>
+        <updated>2022-03-25T12:00:35.000Z</updated>
+        <summary type="html"><![CDATA[10 good books I read this winter]]></summary>
+        <author>
+            <name>Austin Kleon</name>
+            <uri>https://austinkleon.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<em>所有的东西都在同一时间</em>是一个令人费解的多元宇宙的幻想]]></title>
         <id>https://www.theatlantic.com/culture/archive/2022/03/everything-everywhere-all-at-once-movie-review/629357/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Untapped “Star Wars” Spinoff Ideas]]></summary>
         <author>
             <name>Ward Sutton</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[密码字谜：2022年3月13日，星期日]]></title>
-        <id>https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/03/13</id>
-        <link href="https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/03/13"/>
-        <updated>2022-03-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Cryptic Crossword: Sunday, March 13, 2022]]></summary>
-        <author>
-            <name>Patrick Berry</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
