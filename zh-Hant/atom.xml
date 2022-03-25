@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-25T06:39:28.243Z</updated>
+    <updated>2022-03-25T09:13:13.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[處於緊張狀態的<em>CODA</em>的核心部分]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/coda-deaf-actors-supporting-roles/627609/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/coda-deaf-actors-supporting-roles/627609/?utm_source=feed"/>
+        <updated>2022-03-25T09:00:58.000Z</updated>
+        <summary type="html"><![CDATA[The Tension at the Heart of <em>CODA</em>]]></summary>
+        <author>
+            <name>John Hendrickson</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[汽車將再次取得勝利]]></title>
         <id>https://noahpinion.substack.com/p/the-car-will-triumph-again</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Nathan J. Robinson</name>
             <uri>https://www.currentaffairs.org/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[教皇、牧首和拯救烏克蘭的戰鬥]]></title>
-        <id>https://www.newyorker.com/news/daily-comment/the-pope-the-patriarchs-and-the-battle-to-save-ukraine</id>
-        <link href="https://www.newyorker.com/news/daily-comment/the-pope-the-patriarchs-and-the-battle-to-save-ukraine"/>
-        <updated>2022-03-12T17:37:45.000Z</updated>
-        <summary type="html"><![CDATA[The Pope, the Patriarchs, and the Battle to Save Ukraine]]></summary>
-        <author>
-            <name>Paul Elie</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>

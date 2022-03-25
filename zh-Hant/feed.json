@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/03/coda-deaf-actors-supporting-roles/627609/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/03/coda-deaf-actors-supporting-roles/627609/?utm_source=feed",
+            "title": "處於緊張狀態的<em>CODA</em>的核心部分",
+            "summary": "The Tension at the Heart of <em>CODA</em>",
+            "date_modified": "2022-03-25T09:00:58.000Z",
+            "author": {
+                "name": "John Hendrickson",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://noahpinion.substack.com/p/the-car-will-triumph-again",
             "content_html": "",
             "url": "https://noahpinion.substack.com/p/the-car-will-triumph-again",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Nathan J. Robinson",
                 "url": "https://www.currentaffairs.org/feed"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/daily-comment/the-pope-the-patriarchs-and-the-battle-to-save-ukraine",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/daily-comment/the-pope-the-patriarchs-and-the-battle-to-save-ukraine",
-            "title": "教皇、牧首和拯救烏克蘭的戰鬥",
-            "summary": "The Pope, the Patriarchs, and the Battle to Save Ukraine",
-            "date_modified": "2022-03-12T17:37:45.000Z",
-            "author": {
-                "name": "Paul Elie",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]
