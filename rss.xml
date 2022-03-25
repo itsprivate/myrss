@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 24 Mar 2022 22:43:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 04:59:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[本周的照片。燃烧的老虎、鱼头、猫假发]]></title>
+            <link>https://www.theatlantic.com/photo/2022/03/photos-of-the-week-burning-tiger-fish-heads-cat-wig/629360/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/photo/2022/03/photos-of-the-week-burning-tiger-fish-heads-cat-wig/629360/?utm_source=feed</guid>
+            <pubDate>Fri, 25 Mar 2022 04:31:56 GMT</pubDate>
+            <description><![CDATA[Photos of the Week: Burning Tiger, Fish Heads, Cat Wig]]></description>
+        </item>
         <item>
             <title><![CDATA["所有的东西都在同一时间，"评论说。不存在那里，那里也不存在]]></title>
             <link>https://www.newyorker.com/culture/the-front-row/everything-everywhere-all-at-once-reviewed-theres-no-there-there</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/ideas/archive/2022/03/brittney-griner-russia-wnba-inequality/627048/?utm_source=feed</guid>
             <pubDate>Sat, 12 Mar 2022 17:56:08 GMT</pubDate>
             <description><![CDATA[Inequality Put Brittney Griner in Serious Trouble]]></description>
-        </item>
-        <item>
-            <title><![CDATA[教皇、牧首和拯救乌克兰的战斗]]></title>
-            <link>https://www.newyorker.com/news/daily-comment/the-pope-the-patriarchs-and-the-battle-to-save-ukraine</link>
-            <guid>https://www.newyorker.com/news/daily-comment/the-pope-the-patriarchs-and-the-battle-to-save-ukraine</guid>
-            <pubDate>Sat, 12 Mar 2022 17:37:45 GMT</pubDate>
-            <description><![CDATA[The Pope, the Patriarchs, and the Battle to Save Ukraine]]></description>
         </item>
     </channel>
 </rss>
