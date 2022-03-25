@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 25 Mar 2022 18:40:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 18:57:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[戳穿普京 "防制裁 "經濟的拜登官員]]></title>
+            <link>https://www.newyorker.com/news/annals-of-inquiry/the-biden-official-who-pierced-putins-sanction-proof-economy</link>
+            <guid>https://www.newyorker.com/news/annals-of-inquiry/the-biden-official-who-pierced-putins-sanction-proof-economy</guid>
+            <pubDate>Fri, 25 Mar 2022 18:30:10 GMT</pubDate>
+            <description><![CDATA[The Biden Official Who Pierced Putin’s “Sanction-Proof” Economy]]></description>
+        </item>
+        <item>
+            <title><![CDATA[<em>變紅</em>是令人討厭的。這就是問題所在。]]></title>
+            <link>https://www.theatlantic.com/culture/archive/2022/03/turning-red-movie-inappropriate-controversy/629385/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/culture/archive/2022/03/turning-red-movie-inappropriate-controversy/629385/?utm_source=feed</guid>
+            <pubDate>Fri, 25 Mar 2022 18:45:01 GMT</pubDate>
+            <description><![CDATA[<em>Turning Red</em> Is Cringe. That’s the Point.]]></description>
+        </item>
         <item>
             <title><![CDATA[戳穿普京 "防制裁 "經濟的拜登官員]]></title>
             <link>https://www.newyorker.com/news/annals-of-inquiry/the-biden-official-who-pierced-putins-sanction-proof-economy</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/culture/cover-story/cover-story-2022-03-21</guid>
             <pubDate>Mon, 14 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Ana Juan’s “Motherland”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[扎克-威廉姆斯談放開邏輯]]></title>
-            <link>https://www.newyorker.com/books/this-week-in-fiction/zach-williams-03-21-22</link>
-            <guid>https://www.newyorker.com/books/this-week-in-fiction/zach-williams-03-21-22</guid>
-            <pubDate>Mon, 14 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Zach Williams on Letting Go of Logic]]></description>
-        </item>
-        <item>
-            <title><![CDATA[烏克蘭戰爭對美國經濟的威脅有多大？]]></title>
-            <link>https://www.newyorker.com/news/our-columnists/how-big-a-threat-to-the-us-economy-is-the-war-in-ukraine</link>
-            <guid>https://www.newyorker.com/news/our-columnists/how-big-a-threat-to-the-us-economy-is-the-war-in-ukraine</guid>
-            <pubDate>Mon, 14 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[How Big a Threat to the U.S. Economy Is the War in Ukraine?]]></description>
         </item>
     </channel>
 </rss>

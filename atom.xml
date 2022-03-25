@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-25T18:40:51.130Z</updated>
+    <updated>2022-03-25T18:57:48.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[戳穿普京 "防制裁 "经济的拜登官员]]></title>
+        <id>https://www.newyorker.com/news/annals-of-inquiry/the-biden-official-who-pierced-putins-sanction-proof-economy</id>
+        <link href="https://www.newyorker.com/news/annals-of-inquiry/the-biden-official-who-pierced-putins-sanction-proof-economy"/>
+        <updated>2022-03-25T18:30:10.000Z</updated>
+        <summary type="html"><![CDATA[The Biden Official Who Pierced Putin’s “Sanction-Proof” Economy]]></summary>
+        <author>
+            <name>Benjamin Wallace-Wells</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<em>变红</em>是令人讨厌的。这就是问题所在。]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/03/turning-red-movie-inappropriate-controversy/629385/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/03/turning-red-movie-inappropriate-controversy/629385/?utm_source=feed"/>
+        <updated>2022-03-25T18:45:01.000Z</updated>
+        <summary type="html"><![CDATA[<em>Turning Red</em> Is Cringe. That’s the Point.]]></summary>
+        <author>
+            <name>Shirley Li</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[戳穿普京 "防制裁 "经济的拜登官员]]></title>
         <id>https://www.newyorker.com/news/annals-of-inquiry/the-biden-official-who-pierced-putins-sanction-proof-economy</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Françoise Mouly</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[扎克-威廉姆斯谈放开逻辑]]></title>
-        <id>https://www.newyorker.com/books/this-week-in-fiction/zach-williams-03-21-22</id>
-        <link href="https://www.newyorker.com/books/this-week-in-fiction/zach-williams-03-21-22"/>
-        <updated>2022-03-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Zach Williams on Letting Go of Logic]]></summary>
-        <author>
-            <name>Deborah Treisman</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰战争对美国经济的威胁有多大？]]></title>
-        <id>https://www.newyorker.com/news/our-columnists/how-big-a-threat-to-the-us-economy-is-the-war-in-ukraine</id>
-        <link href="https://www.newyorker.com/news/our-columnists/how-big-a-threat-to-the-us-economy-is-the-war-in-ukraine"/>
-        <updated>2022-03-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How Big a Threat to the U.S. Economy Is the War in Ukraine?]]></summary>
-        <author>
-            <name>John Cassidy</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
 </feed>
