@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-25T15:37:07.129Z</updated>
+    <updated>2022-03-25T15:58:32.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[博物馆正从NFT中获利]]></title>
+        <id>https://www.nytimes.com/2022/03/25/arts/design/museums-are-cashing-in-on-nfts.html</id>
+        <link href="https://www.nytimes.com/2022/03/25/arts/design/museums-are-cashing-in-on-nfts.html"/>
+        <updated>2022-03-25T15:31:33.000Z</updated>
+        <summary type="html"><![CDATA[Museums Are Cashing In on NFTs]]></summary>
+        <author>
+            <name>Scott Reyburn</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金妮-托马斯指责批评者无视她作为最高法院法官的三十年服务经历]]></title>
         <id>https://www.newyorker.com/humor/borowitz-report/ginni-thomas-accuses-critics-of-ignoring-her-thirty-years-of-service-as-supreme-court-justice</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Scott Alexander</name>
             <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊围棋<em>SNL<em>图的简单辉煌]]></title>
-        <id>https://www.theatlantic.com/culture/archive/2022/03/snl-zoe-kravitz-amazon-go/627050/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/culture/archive/2022/03/snl-zoe-kravitz-amazon-go/627050/?utm_source=feed"/>
-        <updated>2022-03-13T16:16:15.000Z</updated>
-        <summary type="html"><![CDATA[The Simple Brilliance of That Amazon Go <em>SNL </em>Sketch]]></summary>
-        <author>
-            <name>Amanda Wicks</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
