@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-25T19:52:30.664Z</updated>
+    <updated>2022-03-25T20:13:58.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[康纳-拉特利夫的 "死眼 "和吉尔-莱波尔谈文化战争]]></title>
+        <id>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/connor-ratliffs-dead-eyes-and-jill-lepore-on-the-culture-war</id>
+        <link href="https://www.newyorker.com/podcast/the-new-yorker-radio-hour/connor-ratliffs-dead-eyes-and-jill-lepore-on-the-culture-war"/>
+        <updated>2022-03-25T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Connor Ratliff’s “Dead Eyes,” and Jill Lepore on the Culture War]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[COVID是如何在香港爆发的]]></title>
         <id>https://www.newyorker.com/news/as-told-to/how-covid-exploded-in-hong-kong</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Name Drop: Monday, March 14, 2022]]></summary>
         <author>
             <name>Matt Jackson</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[幻灯片展示。纽约客》漫画2022年3月21日刊]]></title>
-        <id>https://www.newyorker.com/gallery/cartoons-from-the-march-21-2022-issue</id>
-        <link href="https://www.newyorker.com/gallery/cartoons-from-the-march-21-2022-issue"/>
-        <updated>2022-03-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Slide Show: New Yorker Cartoons March 21, 2022, Issue]]></summary>
-        <author>
-            <name>unknown</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

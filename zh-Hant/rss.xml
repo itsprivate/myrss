@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 25 Mar 2022 19:52:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 20:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[康納-拉特利夫的 "死眼 "和吉爾-萊波爾談文化戰爭]]></title>
+            <link>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/connor-ratliffs-dead-eyes-and-jill-lepore-on-the-culture-war</link>
+            <guid>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/connor-ratliffs-dead-eyes-and-jill-lepore-on-the-culture-war</guid>
+            <pubDate>Fri, 25 Mar 2022 20:00:00 GMT</pubDate>
+            <description><![CDATA[Connor Ratliff’s “Dead Eyes,” and Jill Lepore on the Culture War]]></description>
+        </item>
         <item>
             <title><![CDATA[COVID是如何在香港爆發的]]></title>
             <link>https://www.newyorker.com/news/as-told-to/how-covid-exploded-in-hong-kong</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/14</guid>
             <pubDate>Mon, 14 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Name Drop: Monday, March 14, 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[幻燈片展示。紐約客》漫畫2022年3月21日刊]]></title>
-            <link>https://www.newyorker.com/gallery/cartoons-from-the-march-21-2022-issue</link>
-            <guid>https://www.newyorker.com/gallery/cartoons-from-the-march-21-2022-issue</guid>
-            <pubDate>Mon, 14 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Slide Show: New Yorker Cartoons March 21, 2022, Issue]]></description>
         </item>
     </channel>
 </rss>
