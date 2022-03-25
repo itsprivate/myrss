@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-25T15:58:32.689Z</updated>
+    <updated>2022-03-25T16:17:12.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[法律学者对金妮-托马斯的 "停止偷窃 "文本感到震惊]]></title>
+        <id>https://www.newyorker.com/news/news-desk/legal-scholars-are-shocked-by-ginni-thomass-stop-the-steal-texts</id>
+        <link href="https://www.newyorker.com/news/news-desk/legal-scholars-are-shocked-by-ginni-thomass-stop-the-steal-texts"/>
+        <updated>2022-03-25T15:53:59.000Z</updated>
+        <summary type="html"><![CDATA[Legal Scholars Are Shocked By Ginni Thomas’s “Stop the Steal” Texts]]></summary>
+        <author>
+            <name>Jane Mayer</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通往最高法院道路上的一个障碍]]></title>
+        <id>https://www.newyorker.com/cartoons/blitts-kvetchbook/an-obstacle-on-the-path-to-the-supreme-court</id>
+        <link href="https://www.newyorker.com/cartoons/blitts-kvetchbook/an-obstacle-on-the-path-to-the-supreme-court"/>
+        <updated>2022-03-25T15:54:47.000Z</updated>
+        <summary type="html"><![CDATA[An Obstacle on the Path to the Supreme Court]]></summary>
+        <author>
+            <name>Barry Blitt</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿祖里的堕落]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/italy-soccer-azzurri-loss-world-cup/629377/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/italy-soccer-azzurri-loss-world-cup/629377/?utm_source=feed"/>
+        <updated>2022-03-25T15:59:26.000Z</updated>
+        <summary type="html"><![CDATA[The Fall of the Azzurri]]></summary>
+        <author>
+            <name>Adam Serwer</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[博物馆正从NFT中获利]]></title>
         <id>https://www.nytimes.com/2022/03/25/arts/design/museums-are-cashing-in-on-nfts.html</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>Philip Gourevitch</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对公用事业感到失望，一些加州人正在离开电网]]></title>
-        <id>https://www.nytimes.com/2022/03/13/business/energy-environment/california-off-grid.html</id>
-        <link href="https://www.nytimes.com/2022/03/13/business/energy-environment/california-off-grid.html"/>
-        <updated>2022-03-13T21:02:50.000Z</updated>
-        <summary type="html"><![CDATA[Frustrated With Utilities, Some Californians Are Leaving the Grid]]></summary>
-        <author>
-            <name>Ivan Penn</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沃洛迪米尔-泽伦斯基的喜剧勇气]]></title>
-        <id>https://www.newyorker.com/culture/cultural-comment/volodymyr-zelenskys-comedic-courage</id>
-        <link href="https://www.newyorker.com/culture/cultural-comment/volodymyr-zelenskys-comedic-courage"/>
-        <updated>2022-03-13T20:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Volodymyr Zelensky’s Comedic Courage]]></summary>
-        <author>
-            <name>Adam Gopnik</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开放话题215]]></title>
-        <id>https://astralcodexten.substack.com/p/open-thread-215</id>
-        <link href="https://astralcodexten.substack.com/p/open-thread-215"/>
-        <updated>2022-03-13T19:35:09.000Z</updated>
-        <summary type="html"><![CDATA[Open Thread 215]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
         </author>
     </entry>
 </feed>

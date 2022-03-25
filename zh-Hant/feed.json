@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/news-desk/legal-scholars-are-shocked-by-ginni-thomass-stop-the-steal-texts",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/news-desk/legal-scholars-are-shocked-by-ginni-thomass-stop-the-steal-texts",
+            "title": "法律學者對金妮-托馬斯的 \"停止偷竊 \"文本感到震驚",
+            "summary": "Legal Scholars Are Shocked By Ginni Thomas’s “Stop the Steal” Texts",
+            "date_modified": "2022-03-25T15:53:59.000Z",
+            "author": {
+                "name": "Jane Mayer",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/cartoons/blitts-kvetchbook/an-obstacle-on-the-path-to-the-supreme-court",
+            "content_html": "",
+            "url": "https://www.newyorker.com/cartoons/blitts-kvetchbook/an-obstacle-on-the-path-to-the-supreme-court",
+            "title": "通往最高法院道路上的一個障礙",
+            "summary": "An Obstacle on the Path to the Supreme Court",
+            "date_modified": "2022-03-25T15:54:47.000Z",
+            "author": {
+                "name": "Barry Blitt",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/03/italy-soccer-azzurri-loss-world-cup/629377/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/03/italy-soccer-azzurri-loss-world-cup/629377/?utm_source=feed",
+            "title": "阿祖裡的墮落",
+            "summary": "The Fall of the Azzurri",
+            "date_modified": "2022-03-25T15:59:26.000Z",
+            "author": {
+                "name": "Adam Serwer",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/25/arts/design/museums-are-cashing-in-on-nfts.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/25/arts/design/museums-are-cashing-in-on-nfts.html",
@@ -7172,42 +7208,6 @@
             "author": {
                 "name": "Philip Gourevitch",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/13/business/energy-environment/california-off-grid.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/13/business/energy-environment/california-off-grid.html",
-            "title": "對公用事業感到失望，一些加州人正在離開電網",
-            "summary": "Frustrated With Utilities, Some Californians Are Leaving the Grid",
-            "date_modified": "2022-03-13T21:02:50.000Z",
-            "author": {
-                "name": "Ivan Penn",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/cultural-comment/volodymyr-zelenskys-comedic-courage",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/cultural-comment/volodymyr-zelenskys-comedic-courage",
-            "title": "沃洛迪米爾-澤倫斯基的喜劇勇氣",
-            "summary": "Volodymyr Zelensky’s Comedic Courage",
-            "date_modified": "2022-03-13T20:12:00.000Z",
-            "author": {
-                "name": "Adam Gopnik",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://astralcodexten.substack.com/p/open-thread-215",
-            "content_html": "",
-            "url": "https://astralcodexten.substack.com/p/open-thread-215",
-            "title": "開放話題215",
-            "summary": "Open Thread 215",
-            "date_modified": "2022-03-13T19:35:09.000Z",
-            "author": {
-                "name": "Scott Alexander",
-                "url": "https://astralcodexten.substack.com/feed"
             }
         }
     ]

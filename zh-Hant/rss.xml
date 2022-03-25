@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 25 Mar 2022 15:58:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 16:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[法律學者對金妮-托馬斯的 "停止偷竊 "文本感到震驚]]></title>
+            <link>https://www.newyorker.com/news/news-desk/legal-scholars-are-shocked-by-ginni-thomass-stop-the-steal-texts</link>
+            <guid>https://www.newyorker.com/news/news-desk/legal-scholars-are-shocked-by-ginni-thomass-stop-the-steal-texts</guid>
+            <pubDate>Fri, 25 Mar 2022 15:53:59 GMT</pubDate>
+            <description><![CDATA[Legal Scholars Are Shocked By Ginni Thomas’s “Stop the Steal” Texts]]></description>
+        </item>
+        <item>
+            <title><![CDATA[通往最高法院道路上的一個障礙]]></title>
+            <link>https://www.newyorker.com/cartoons/blitts-kvetchbook/an-obstacle-on-the-path-to-the-supreme-court</link>
+            <guid>https://www.newyorker.com/cartoons/blitts-kvetchbook/an-obstacle-on-the-path-to-the-supreme-court</guid>
+            <pubDate>Fri, 25 Mar 2022 15:54:47 GMT</pubDate>
+            <description><![CDATA[An Obstacle on the Path to the Supreme Court]]></description>
+        </item>
+        <item>
+            <title><![CDATA[阿祖裡的墮落]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/03/italy-soccer-azzurri-loss-world-cup/629377/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/03/italy-soccer-azzurri-loss-world-cup/629377/?utm_source=feed</guid>
+            <pubDate>Fri, 25 Mar 2022 15:59:26 GMT</pubDate>
+            <description><![CDATA[The Fall of the Azzurri]]></description>
+        </item>
         <item>
             <title><![CDATA[博物館正從NFT中獲利]]></title>
             <link>https://www.nytimes.com/2022/03/25/arts/design/museums-are-cashing-in-on-nfts.html</link>
@@ -4192,27 +4213,6 @@
             <guid>https://www.newyorker.com/news/daily-comment/is-it-time-to-call-putins-war-in-ukraine-genocide</guid>
             <pubDate>Sun, 13 Mar 2022 23:51:50 GMT</pubDate>
             <description><![CDATA[Is It Time to Call Putin’s War in Ukraine Genocide?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[對公用事業感到失望，一些加州人正在離開電網]]></title>
-            <link>https://www.nytimes.com/2022/03/13/business/energy-environment/california-off-grid.html</link>
-            <guid>https://www.nytimes.com/2022/03/13/business/energy-environment/california-off-grid.html</guid>
-            <pubDate>Sun, 13 Mar 2022 21:02:50 GMT</pubDate>
-            <description><![CDATA[Frustrated With Utilities, Some Californians Are Leaving the Grid]]></description>
-        </item>
-        <item>
-            <title><![CDATA[沃洛迪米爾-澤倫斯基的喜劇勇氣]]></title>
-            <link>https://www.newyorker.com/culture/cultural-comment/volodymyr-zelenskys-comedic-courage</link>
-            <guid>https://www.newyorker.com/culture/cultural-comment/volodymyr-zelenskys-comedic-courage</guid>
-            <pubDate>Sun, 13 Mar 2022 20:12:00 GMT</pubDate>
-            <description><![CDATA[Volodymyr Zelensky’s Comedic Courage]]></description>
-        </item>
-        <item>
-            <title><![CDATA[開放話題215]]></title>
-            <link>https://astralcodexten.substack.com/p/open-thread-215</link>
-            <guid>https://astralcodexten.substack.com/p/open-thread-215</guid>
-            <pubDate>Sun, 13 Mar 2022 19:35:09 GMT</pubDate>
-            <description><![CDATA[Open Thread 215]]></description>
         </item>
     </channel>
 </rss>
