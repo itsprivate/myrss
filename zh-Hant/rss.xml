@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 25 Mar 2022 12:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 14:34:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,41 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[每日漫畫。3月25日，星期五]]></title>
+            <link>https://www.newyorker.com/cartoons/daily-cartoon/friday-march-25th-bang-whimper-push</link>
+            <guid>https://www.newyorker.com/cartoons/daily-cartoon/friday-march-25th-bang-whimper-push</guid>
+            <pubDate>Fri, 25 Mar 2022 14:11:37 GMT</pubDate>
+            <description><![CDATA[Daily Cartoon: Friday, March 25th]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Instacart以 "動盪 "為由，將其估值降低了38%。]]></title>
+            <link>https://www.nytimes.com/2022/03/25/business/instacart-valuation.html</link>
+            <guid>https://www.nytimes.com/2022/03/25/business/instacart-valuation.html</guid>
+            <pubDate>Fri, 25 Mar 2022 11:56:59 GMT</pubDate>
+            <description><![CDATA[Instacart Cuts Its Valuation by 38 Percent, Citing ‘Turbulence’]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美國和歐洲領導人就跨大西洋數據隱私達成協議]]></title>
+            <link>https://www.nytimes.com/2022/03/25/business/us-europe-data-privacy.html</link>
+            <guid>https://www.nytimes.com/2022/03/25/business/us-europe-data-privacy.html</guid>
+            <pubDate>Fri, 25 Mar 2022 12:37:21 GMT</pubDate>
+            <description><![CDATA[U.S. and European Leaders Reach Deal on Trans-Atlantic Data Privacy]]></description>
+        </item>
+        <item>
+            <title><![CDATA[寫作反派的棘手任務]]></title>
+            <link>https://www.theatlantic.com/books/archive/2022/03/books-briefing-kate-elizabeth-russell-jessamine-chan/627594/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/books/archive/2022/03/books-briefing-kate-elizabeth-russell-jessamine-chan/627594/?utm_source=feed</guid>
+            <pubDate>Fri, 25 Mar 2022 14:00:57 GMT</pubDate>
+            <description><![CDATA[The Tricky Task of Writing a Villain]]></description>
+        </item>
+        <item>
+            <title><![CDATA[由包辦婚姻激發的友誼實驗]]></title>
+            <link>https://www.theatlantic.com/family/archive/2022/03/arranged-marriage-inspired-friendship/627608/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/family/archive/2022/03/arranged-marriage-inspired-friendship/627608/?utm_source=feed</guid>
+            <pubDate>Fri, 25 Mar 2022 14:00:57 GMT</pubDate>
+            <description><![CDATA[A Friendship Experiment Inspired by Arranged Marriage]]></description>
+        </item>
         <item>
             <title><![CDATA[這個冬天我讀的10本好書]]></title>
             <link>https://austinkleon.substack.com/p/10-good-books-i-read-this-winter</link>
@@ -4178,41 +4213,6 @@
             <guid>https://www.theatlantic.com/technology/archive/2022/03/what-cow-therapy-taught-me/627044/?utm_source=feed</guid>
             <pubDate>Sun, 13 Mar 2022 12:01:57 GMT</pubDate>
             <description><![CDATA[Feeling Herd]]></description>
-        </item>
-        <item>
-            <title><![CDATA[夜星]]></title>
-            <link>https://www.theatlantic.com/books/archive/2022/03/poem-richie-hofmann-night-star/627046/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/books/archive/2022/03/poem-richie-hofmann-night-star/627046/?utm_source=feed</guid>
-            <pubDate>Sun, 13 Mar 2022 12:01:57 GMT</pubDate>
-            <description><![CDATA[Night Star]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我們已經走到了歷史的轉折點]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/ben-rhodes-alexey-navalny-maria-stepanova/627049/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/ben-rhodes-alexey-navalny-maria-stepanova/627049/?utm_source=feed</guid>
-            <pubDate>Sun, 13 Mar 2022 10:49:03 GMT</pubDate>
-            <description><![CDATA[We Have Reached a Hinge of History]]></description>
-        </item>
-        <item>
-            <title><![CDATA[炎熱的瓦克斯夏季2.0即將到來]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/covid-summer-2022/627041/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/covid-summer-2022/627041/?utm_source=feed</guid>
-            <pubDate>Sun, 13 Mar 2022 11:00:56 GMT</pubDate>
-            <description><![CDATA[Hot Vax Summer 2.0 Is Coming]]></description>
-        </item>
-        <item>
-            <title><![CDATA[星期日閱讀。海倫-羅斯納的世界]]></title>
-            <link>https://www.newyorker.com/books/double-take/sunday-reading-the-world-of-helen-rosner</link>
-            <guid>https://www.newyorker.com/books/double-take/sunday-reading-the-world-of-helen-rosner</guid>
-            <pubDate>Sun, 13 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Sunday Reading: The World of Helen Rosner]]></description>
-        </item>
-        <item>
-            <title><![CDATA[未開發的 "星球大戰 "衍生品創意]]></title>
-            <link>https://www.newyorker.com/humor/daily-shouts/untapped-star-wars-spinoff-ideas</link>
-            <guid>https://www.newyorker.com/humor/daily-shouts/untapped-star-wars-spinoff-ideas</guid>
-            <pubDate>Sun, 13 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Untapped “Star Wars” Spinoff Ideas]]></description>
         </item>
     </channel>
 </rss>
