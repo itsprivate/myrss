@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/culture/archive/2022/03/atlanta-season-3-review/629394/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/culture/archive/2022/03/atlanta-season-3-review/629394/?utm_source=feed",
+            "title": "种族问题是<em>亚特兰大</em>的一个搞笑、恐怖的表现",
+            "summary": "Race Is a Hilarious, Horrifying Performance in <em>Atlanta</em>",
+            "date_modified": "2022-03-26T12:00:57.000Z",
+            "author": {
+                "name": "Nicole Acheampong",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/ideas/archive/2022/03/history-video-games-europa-universalis/622892/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/ideas/archive/2022/03/history-video-games-europa-universalis/622892/?utm_source=feed",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Bernard Avishai",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://astralcodexten.substack.com/p/mantic-monday-31422",
-            "content_html": "",
-            "url": "https://astralcodexten.substack.com/p/mantic-monday-31422",
-            "title": "Mantic 3/14/22星期一",
-            "summary": "Mantic Monday 3/14/22",
-            "date_modified": "2022-03-14T18:17:47.000Z",
-            "author": {
-                "name": "Scott Alexander",
-                "url": "https://astralcodexten.substack.com/feed"
             }
         }
     ]
