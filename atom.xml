@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-26T14:29:17.264Z</updated>
+    <updated>2022-03-26T15:45:32.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对不起，我对假新闻撒谎了]]></title>
+        <id>https://www.theatlantic.com/technology/archive/2022/03/fake-news-misinformation-mit-study/629396/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/technology/archive/2022/03/fake-news-misinformation-mit-study/629396/?utm_source=feed"/>
+        <updated>2022-03-26T15:23:21.000Z</updated>
+        <summary type="html"><![CDATA[Sorry, I Lied About Fake News]]></summary>
+        <author>
+            <name>Daniel Engber</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人类的纽约人和他们的二重奏狗]]></title>
         <id>https://www.newyorker.com/humor/sketchbook/human-new-yorkers-and-their-doppelganger-dogs</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Barry Blitt</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[福克斯新闻记者本杰明-霍尔在乌克兰受伤]]></title>
-        <id>https://www.nytimes.com/2022/03/14/technology/ukraine-fox-news-benjamin-hall.html</id>
-        <link href="https://www.nytimes.com/2022/03/14/technology/ukraine-fox-news-benjamin-hall.html"/>
-        <updated>2022-03-14T21:13:10.000Z</updated>
-        <summary type="html"><![CDATA[Fox News Correspondent Benjamin Hall Is Injured in Ukraine]]></summary>
-        <author>
-            <name>Michael M. Grynbaum</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>

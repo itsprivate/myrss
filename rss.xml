@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 26 Mar 2022 14:29:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 15:45:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[对不起，我对假新闻撒谎了]]></title>
+            <link>https://www.theatlantic.com/technology/archive/2022/03/fake-news-misinformation-mit-study/629396/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/technology/archive/2022/03/fake-news-misinformation-mit-study/629396/?utm_source=feed</guid>
+            <pubDate>Sat, 26 Mar 2022 15:23:21 GMT</pubDate>
+            <description><![CDATA[Sorry, I Lied About Fake News]]></description>
+        </item>
         <item>
             <title><![CDATA[人类的纽约人和他们的二重奏狗]]></title>
             <link>https://www.newyorker.com/humor/sketchbook/human-new-yorkers-and-their-doppelganger-dogs</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/cartoons/blitts-kvetchbook/putin-measures-the-drapes</guid>
             <pubDate>Mon, 14 Mar 2022 21:55:13 GMT</pubDate>
             <description><![CDATA[Putin Measures the Drapes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[福克斯新闻记者本杰明-霍尔在乌克兰受伤]]></title>
-            <link>https://www.nytimes.com/2022/03/14/technology/ukraine-fox-news-benjamin-hall.html</link>
-            <guid>https://www.nytimes.com/2022/03/14/technology/ukraine-fox-news-benjamin-hall.html</guid>
-            <pubDate>Mon, 14 Mar 2022 21:13:10 GMT</pubDate>
-            <description><![CDATA[Fox News Correspondent Benjamin Hall Is Injured in Ukraine]]></description>
         </item>
     </channel>
 </rss>

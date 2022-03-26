@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/technology/archive/2022/03/fake-news-misinformation-mit-study/629396/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/technology/archive/2022/03/fake-news-misinformation-mit-study/629396/?utm_source=feed",
+            "title": "对不起，我对假新闻撒谎了",
+            "summary": "Sorry, I Lied About Fake News",
+            "date_modified": "2022-03-26T15:23:21.000Z",
+            "author": {
+                "name": "Daniel Engber",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/humor/sketchbook/human-new-yorkers-and-their-doppelganger-dogs",
             "content_html": "",
             "url": "https://www.newyorker.com/humor/sketchbook/human-new-yorkers-and-their-doppelganger-dogs",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Barry Blitt",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/14/technology/ukraine-fox-news-benjamin-hall.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/14/technology/ukraine-fox-news-benjamin-hall.html",
-            "title": "福克斯新闻记者本杰明-霍尔在乌克兰受伤",
-            "summary": "Fox News Correspondent Benjamin Hall Is Injured in Ukraine",
-            "date_modified": "2022-03-14T21:13:10.000Z",
-            "author": {
-                "name": "Michael M. Grynbaum",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
     ]
