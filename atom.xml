@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-25T22:33:29.044Z</updated>
+    <updated>2022-03-26T02:16:10.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[来自爱达荷州的信]]></title>
+        <id>https://www.newyorker.com/magazine/letter-from-idaho</id>
+        <link href="https://www.newyorker.com/magazine/letter-from-idaho"/>
+        <updated>2022-03-26T02:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Letter from Idaho]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生物图片部。]]></title>
+        <id>https://www.newyorker.com/magazine/bio-pic-dept</id>
+        <link href="https://www.newyorker.com/magazine/bio-pic-dept"/>
+        <updated>2022-03-26T02:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Bio-Pic Dept.]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[百岁博客达格妮-卡尔松逝世，享年109岁]]></title>
         <id>https://www.nytimes.com/2022/03/25/world/europe/dagny-carlsson-dead.html</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Cullen Murphy</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俗气与陈腐之间的关键性区别]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2022/03/the-crucial-difference-between-cheesy-and-corny/627038/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/the-crucial-difference-between-cheesy-and-corny/627038/?utm_source=feed"/>
-        <updated>2022-03-14T11:01:56.000Z</updated>
-        <summary type="html"><![CDATA[The Crucial Difference Between Cheesy and Corny]]></summary>
-        <author>
-            <name>Caleb Madison</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文学界最具争议性的诺贝尔奖获得者]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/21/literatures-most-controversial-nobel-laureate</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/21/literatures-most-controversial-nobel-laureate"/>
-        <updated>2022-03-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Literature’s Most Controversial Nobel Laureate]]></summary>
-        <author>
-            <name>Ruth Franklin</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
