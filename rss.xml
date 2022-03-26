@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 26 Mar 2022 02:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 09:12:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[流媒体在好莱坞的辩论中获胜。最佳影片是下一个吗？]]></title>
+            <link>https://www.nytimes.com/2022/03/26/business/media/academy-awards-streaming-services.html</link>
+            <guid>https://www.nytimes.com/2022/03/26/business/media/academy-awards-streaming-services.html</guid>
+            <pubDate>Sat, 26 Mar 2022 09:00:11 GMT</pubDate>
+            <description><![CDATA[Streaming Has Won the Hollywood Debate. Is Best Picture Next?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你对Jay Penske了解不多。他对此无所谓。]]></title>
+            <link>https://www.nytimes.com/2022/03/26/style/jay-penske.html</link>
+            <guid>https://www.nytimes.com/2022/03/26/style/jay-penske.html</guid>
+            <pubDate>Sat, 26 Mar 2022 09:00:14 GMT</pubDate>
+            <description><![CDATA[You Don’t Know Much About Jay Penske. And He’s Fine With That.]]></description>
+        </item>
         <item>
             <title><![CDATA[来自爱达荷州的信]]></title>
             <link>https://www.newyorker.com/magazine/letter-from-idaho</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.currentaffairs.org/2022/03/why-the-anti-factory-farming-movement-needs-direct-action/</guid>
             <pubDate>Mon, 14 Mar 2022 08:12:14 GMT</pubDate>
             <description><![CDATA[Why the Anti-Factory Farming Movement Needs Direct Action]]></description>
-        </item>
-        <item>
-            <title><![CDATA[乙醇。为普京提供动力的燃料]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/gas-prices-ethanol-subsidies-putin/627053/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/gas-prices-ethanol-subsidies-putin/627053/?utm_source=feed</guid>
-            <pubDate>Mon, 14 Mar 2022 12:10:06 GMT</pubDate>
-            <description><![CDATA[Ethanol: The Fuel That Powers Putin]]></description>
-        </item>
-        <item>
-            <title><![CDATA[爱尔兰如何误入现代世界？]]></title>
-            <link>https://www.theatlantic.com/magazine/archive/2022/04/fintan-otoole-we-dont-know-ourselves-review/622830/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/magazine/archive/2022/04/fintan-otoole-we-dont-know-ourselves-review/622830/?utm_source=feed</guid>
-            <pubDate>Mon, 14 Mar 2022 11:01:57 GMT</pubDate>
-            <description><![CDATA[How Ireland Blundered Into the Modern World]]></description>
         </item>
     </channel>
 </rss>

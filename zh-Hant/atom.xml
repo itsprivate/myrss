@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-26T02:16:10.820Z</updated>
+    <updated>2022-03-26T09:12:23.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[流媒體在好萊塢的辯論中獲勝。最佳影片是下一個嗎？]]></title>
+        <id>https://www.nytimes.com/2022/03/26/business/media/academy-awards-streaming-services.html</id>
+        <link href="https://www.nytimes.com/2022/03/26/business/media/academy-awards-streaming-services.html"/>
+        <updated>2022-03-26T09:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Streaming Has Won the Hollywood Debate. Is Best Picture Next?]]></summary>
+        <author>
+            <name>Brooks Barnes and Nicole Sperling</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你對Jay Penske瞭解不多。他對此無所謂。]]></title>
+        <id>https://www.nytimes.com/2022/03/26/style/jay-penske.html</id>
+        <link href="https://www.nytimes.com/2022/03/26/style/jay-penske.html"/>
+        <updated>2022-03-26T09:00:14.000Z</updated>
+        <summary type="html"><![CDATA[You Don’t Know Much About Jay Penske. And He’s Fine With That.]]></summary>
+        <author>
+            <name>Katherine Rosman</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[來自愛達荷州的信]]></title>
         <id>https://www.newyorker.com/magazine/letter-from-idaho</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Marina Bolotnikova</name>
             <uri>https://www.currentaffairs.org/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乙醇。為普京提供動力的燃料]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/gas-prices-ethanol-subsidies-putin/627053/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/gas-prices-ethanol-subsidies-putin/627053/?utm_source=feed"/>
-        <updated>2022-03-14T12:10:06.000Z</updated>
-        <summary type="html"><![CDATA[Ethanol: The Fuel That Powers Putin]]></summary>
-        <author>
-            <name>David Frum</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[愛爾蘭如何誤入現代世界？]]></title>
-        <id>https://www.theatlantic.com/magazine/archive/2022/04/fintan-otoole-we-dont-know-ourselves-review/622830/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/magazine/archive/2022/04/fintan-otoole-we-dont-know-ourselves-review/622830/?utm_source=feed"/>
-        <updated>2022-03-14T11:01:57.000Z</updated>
-        <summary type="html"><![CDATA[How Ireland Blundered Into the Modern World]]></summary>
-        <author>
-            <name>Cullen Murphy</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
