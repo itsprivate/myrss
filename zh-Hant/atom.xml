@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-26T14:11:50.255Z</updated>
+    <updated>2022-03-26T14:29:17.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[人類的紐約人和他們的二重奏狗]]></title>
+        <id>https://www.newyorker.com/humor/sketchbook/human-new-yorkers-and-their-doppelganger-dogs</id>
+        <link href="https://www.newyorker.com/humor/sketchbook/human-new-yorkers-and-their-doppelganger-dogs"/>
+        <updated>2022-03-26T14:14:26.000Z</updated>
+        <summary type="html"><![CDATA[Human New Yorkers and Their Doppelgänger Dogs]]></summary>
+        <author>
+            <name>The New Yorker</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[羅伯特-摩西和簡-雅各布斯去倫敦]]></title>
         <id>https://www.newyorker.com/magazine/2022/04/04/robert-moses-jane-jacobs-straight-line-crazy-ralph-fiennes</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Michael M. Grynbaum</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[斯蒂芬-科特金。不要把俄羅斯入侵烏克蘭的責任歸咎於西方]]></title>
-        <id>https://www.newyorker.com/podcast/politics-and-more/stephen-kotkin-dont-blame-the-west-for-russias-invasion-of-ukraine</id>
-        <link href="https://www.newyorker.com/podcast/politics-and-more/stephen-kotkin-dont-blame-the-west-for-russias-invasion-of-ukraine"/>
-        <updated>2022-03-14T20:11:17.000Z</updated>
-        <summary type="html"><![CDATA[Stephen Kotkin: Don’t Blame the West for Russia’s Invasion of Ukraine]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>

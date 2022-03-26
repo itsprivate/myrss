@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/humor/sketchbook/human-new-yorkers-and-their-doppelganger-dogs",
+            "content_html": "",
+            "url": "https://www.newyorker.com/humor/sketchbook/human-new-yorkers-and-their-doppelganger-dogs",
+            "title": "人类的纽约人和他们的二重奏狗",
+            "summary": "Human New Yorkers and Their Doppelgänger Dogs",
+            "date_modified": "2022-03-26T14:14:26.000Z",
+            "author": {
+                "name": "The New Yorker",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/magazine/2022/04/04/robert-moses-jane-jacobs-straight-line-crazy-ralph-fiennes",
             "content_html": "",
             "url": "https://www.newyorker.com/magazine/2022/04/04/robert-moses-jane-jacobs-straight-line-crazy-ralph-fiennes",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Michael M. Grynbaum",
                 "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/podcast/politics-and-more/stephen-kotkin-dont-blame-the-west-for-russias-invasion-of-ukraine",
-            "content_html": "",
-            "url": "https://www.newyorker.com/podcast/politics-and-more/stephen-kotkin-dont-blame-the-west-for-russias-invasion-of-ukraine",
-            "title": "斯蒂芬-科特金。不要把俄罗斯入侵乌克兰的责任归咎于西方",
-            "summary": "Stephen Kotkin: Don’t Blame the West for Russia’s Invasion of Ukraine",
-            "date_modified": "2022-03-14T20:11:17.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]
