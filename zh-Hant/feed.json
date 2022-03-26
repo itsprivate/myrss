@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/03/history-video-games-europa-universalis/622892/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/03/history-video-games-europa-universalis/622892/?utm_source=feed",
+            "title": "孩子們現在正從電子遊戲中學習歷史",
+            "summary": "Kids Are Learning History From Video Games Now",
+            "date_modified": "2022-03-26T11:01:56.000Z",
+            "author": {
+                "name": "Luka Ivan Jukić",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/03/putin-kremlin-foreign-policy-strategy/629388/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/03/putin-kremlin-foreign-policy-strategy/629388/?utm_source=feed",
+            "title": "預測普京戰爭計劃的俄羅斯烏托邦小說",
+            "summary": "The Utopian Russian Novel That Predicted Putin’s War Plan",
+            "date_modified": "2022-03-26T11:01:56.000Z",
+            "author": {
+                "name": "Dina Khapaeva",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/culture/archive/2022/03/lost-city-movie-review-channing-tatum/629393/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/culture/archive/2022/03/lost-city-movie-review-channing-tatum/629393/?utm_source=feed",
+            "title": "查寧-塔圖姆在《迷失之城》中達到巔峰的Himbo</em>。",
+            "summary": "Channing Tatum Reaches Peak Himbo in <em>The Lost City</em>",
+            "date_modified": "2022-03-26T11:01:57.000Z",
+            "author": {
+                "name": "David Sims",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/our-local-correspondents/the-case-for-more-cuny-funding",
             "content_html": "",
             "url": "https://www.newyorker.com/news/our-local-correspondents/the-case-for-more-cuny-funding",
@@ -7172,42 +7208,6 @@
             "author": {
                 "name": "Scott Alexander",
                 "url": "https://astralcodexten.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/humor/daily-shouts/the-last-guide-to-literary-conflict-youll-ever-need",
-            "content_html": "",
-            "url": "https://www.newyorker.com/humor/daily-shouts/the-last-guide-to-literary-conflict-youll-ever-need",
-            "title": "你所需要的最後一份文學衝突指南",
-            "summary": "The Last Guide to Literary Conflict You’ll Ever Need",
-            "date_modified": "2022-03-14T18:00:00.000Z",
-            "author": {
-                "name": "Rachelle Meyer",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/science/archive/2022/03/colombian-toad-mating-amplexus/627057/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/science/archive/2022/03/colombian-toad-mating-amplexus/627057/?utm_source=feed",
-            "title": "終極粘人的男友",
-            "summary": "The Ultimate Clingy Boyfriend",
-            "date_modified": "2022-03-14T17:50:18.000Z",
-            "author": {
-                "name": "Katherine J. Wu",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/newsletters/archive/2022/03/lizzie-and-kaitlyn-go-to-williamsburg/627055/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/newsletters/archive/2022/03/lizzie-and-kaitlyn-go-to-williamsburg/627055/?utm_source=feed",
-            "title": "Lizzie和Kaitlyn去威廉斯堡",
-            "summary": "Lizzie and Kaitlyn Go to Williamsburg",
-            "date_modified": "2022-03-14T16:00:15.000Z",
-            "author": {
-                "name": "Kaitlyn Tiffany",
-                "url": "https://www.theatlantic.com/feed/all/"
             }
         }
     ]
