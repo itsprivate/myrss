@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/magazine/2022/04/04/robert-moses-jane-jacobs-straight-line-crazy-ralph-fiennes",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/04/04/robert-moses-jane-jacobs-straight-line-crazy-ralph-fiennes",
+            "title": "羅伯特-摩西和簡-雅各布斯去倫敦",
+            "summary": "Robert Moses and Jane Jacobs Go to London",
+            "date_modified": "2022-03-26T14:00:00.000Z",
+            "author": {
+                "name": "Rebecca Mead",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/26/us/arizona-digital-drivers-license.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/26/us/arizona-digital-drivers-license.html",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "unknown",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/14/technology/ukraine-fox-news-benjamin.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/14/technology/ukraine-fox-news-benjamin.html",
-            "title": "福克斯新聞記者本傑明-霍爾在烏克蘭受傷",
-            "summary": "Fox News Correspondent Benjamin Hall Is Injured in Ukraine",
-            "date_modified": "2022-03-14T19:36:16.000Z",
-            "author": {
-                "name": "Michael M. Grynbaum",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
     ]

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 26 Mar 2022 13:35:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 14:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[罗伯特-摩西和简-雅各布斯去伦敦]]></title>
+            <link>https://www.newyorker.com/magazine/2022/04/04/robert-moses-jane-jacobs-straight-line-crazy-ralph-fiennes</link>
+            <guid>https://www.newyorker.com/magazine/2022/04/04/robert-moses-jane-jacobs-straight-line-crazy-ralph-fiennes</guid>
+            <pubDate>Sat, 26 Mar 2022 14:00:00 GMT</pubDate>
+            <description><![CDATA[Robert Moses and Jane Jacobs Go to London]]></description>
+        </item>
         <item>
             <title><![CDATA[亚利桑那州提供iPhone上的驾照。其他国家也想成为下一个。]]></title>
             <link>https://www.nytimes.com/2022/03/26/us/arizona-digital-drivers-license.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/podcast/politics-and-more/stephen-kotkin-dont-blame-the-west-for-russias-invasion-of-ukraine</guid>
             <pubDate>Mon, 14 Mar 2022 20:11:17 GMT</pubDate>
             <description><![CDATA[Stephen Kotkin: Don’t Blame the West for Russia’s Invasion of Ukraine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[福克斯新闻记者本杰明-霍尔在乌克兰受伤]]></title>
-            <link>https://www.nytimes.com/2022/03/14/technology/ukraine-fox-news-benjamin.html</link>
-            <guid>https://www.nytimes.com/2022/03/14/technology/ukraine-fox-news-benjamin.html</guid>
-            <pubDate>Mon, 14 Mar 2022 19:36:16 GMT</pubDate>
-            <description><![CDATA[Fox News Correspondent Benjamin Hall Is Injured in Ukraine]]></description>
         </item>
     </channel>
 </rss>
