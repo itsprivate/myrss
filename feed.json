@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/newsletters/archive/2022/03/six-bad-movies-2022-oscars/629395/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/newsletters/archive/2022/03/six-bad-movies-2022-oscars/629395/?utm_source=feed",
+            "title": "<em>The Atlantic</em> Daily: 今年我们不爱的六部电影",
+            "summary": "<em>The Atlantic</em> Daily: Six Movies We Didn’t Love This Year",
+            "date_modified": "2022-03-26T18:18:59.000Z",
+            "author": {
+                "name": "Caroline Mimbs Nyce",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/technology/archive/2022/03/fake-news-misinformation-mit-study/629396/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/technology/archive/2022/03/fake-news-misinformation-mit-study/629396/?utm_source=feed",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-15T00:04:59.000Z",
             "author": {
                 "name": "Richard Brody",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/cartoons/blitts-kvetchbook/putin-measures-the-drapes",
-            "content_html": "",
-            "url": "https://www.newyorker.com/cartoons/blitts-kvetchbook/putin-measures-the-drapes",
-            "title": "普京测量窗帘",
-            "summary": "Putin Measures the Drapes",
-            "date_modified": "2022-03-14T21:55:13.000Z",
-            "author": {
-                "name": "Barry Blitt",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

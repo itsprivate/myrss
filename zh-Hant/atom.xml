@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-26T15:45:32.331Z</updated>
+    <updated>2022-03-26T18:36:58.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[<em>The Atlantic</em> Daily: 今年我們不愛的六部電影]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/03/six-bad-movies-2022-oscars/629395/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/six-bad-movies-2022-oscars/629395/?utm_source=feed"/>
+        <updated>2022-03-26T18:18:59.000Z</updated>
+        <summary type="html"><![CDATA[<em>The Atlantic</em> Daily: Six Movies We Didn’t Love This Year]]></summary>
+        <author>
+            <name>Caroline Mimbs Nyce</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對不起，我對假新聞撒謊了]]></title>
         <id>https://www.theatlantic.com/technology/archive/2022/03/fake-news-misinformation-mit-study/629396/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Metaphysical Horror Becomes All Too Real in the Audacious “Master”]]></summary>
         <author>
             <name>Richard Brody</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京測量窗簾]]></title>
-        <id>https://www.newyorker.com/cartoons/blitts-kvetchbook/putin-measures-the-drapes</id>
-        <link href="https://www.newyorker.com/cartoons/blitts-kvetchbook/putin-measures-the-drapes"/>
-        <updated>2022-03-14T21:55:13.000Z</updated>
-        <summary type="html"><![CDATA[Putin Measures the Drapes]]></summary>
-        <author>
-            <name>Barry Blitt</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
