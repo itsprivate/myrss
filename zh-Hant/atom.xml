@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-26T12:17:00.263Z</updated>
+    <updated>2022-03-26T13:35:01.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亞利桑那州提供iPhone上的駕照。其他國家也想成為下一個。]]></title>
+        <id>https://www.nytimes.com/2022/03/26/us/arizona-digital-drivers-license.html</id>
+        <link href="https://www.nytimes.com/2022/03/26/us/arizona-digital-drivers-license.html"/>
+        <updated>2022-03-26T13:12:41.000Z</updated>
+        <summary type="html"><![CDATA[Arizona Offers Driver’s Licenses on iPhones. Other States Want to Be Next.]]></summary>
+        <author>
+            <name>Neil Vigdor</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[應對通貨膨脹的錯誤方法]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/gavin-newsom-gas-prices-plan/629378/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/gavin-newsom-gas-prices-plan/629378/?utm_source=feed"/>
+        <updated>2022-03-26T13:00:57.000Z</updated>
+        <summary type="html"><![CDATA[The Wrong Way to Tackle Inflation]]></summary>
+        <author>
+            <name>Annie Lowrey</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[種族問題是<em>亞特蘭大</em>的一個搞笑、恐怖的表現]]></title>
         <id>https://www.theatlantic.com/culture/archive/2022/03/atlanta-season-3-review/629394/?utm_source=feed</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Michael M. Grynbaum</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[福克斯新聞記者本傑明-霍爾在烏克蘭受傷]]></title>
-        <id>https://www.nytimes.com/2022/03/14/technology/fox-news-benjamin-hall-injured-ukraine.html</id>
-        <link href="https://www.nytimes.com/2022/03/14/technology/fox-news-benjamin-hall-injured-ukraine.html"/>
-        <updated>2022-03-14T19:29:44.000Z</updated>
-        <summary type="html"><![CDATA[Fox News Correspondent Benjamin Hall Is Injured in Ukraine]]></summary>
-        <author>
-            <name>Michael M. Grynbaum</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[納夫塔利-貝內特在烏克蘭和伊朗問題上與弗拉基米爾-普京接觸的精心努力]]></title>
-        <id>https://www.newyorker.com/news/daily-comment/naftali-bennetts-calculated-effort-to-engage-with-vladimir-putin-on-ukraine-and-iran</id>
-        <link href="https://www.newyorker.com/news/daily-comment/naftali-bennetts-calculated-effort-to-engage-with-vladimir-putin-on-ukraine-and-iran"/>
-        <updated>2022-03-14T18:51:19.000Z</updated>
-        <summary type="html"><![CDATA[Naftali Bennett’s Calculated Effort to Engage With Vladimir Putin on Ukraine—and Iran]]></summary>
-        <author>
-            <name>Bernard Avishai</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>

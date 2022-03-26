@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/26/us/arizona-digital-drivers-license.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/26/us/arizona-digital-drivers-license.html",
+            "title": "亞利桑那州提供iPhone上的駕照。其他國家也想成為下一個。",
+            "summary": "Arizona Offers Driver’s Licenses on iPhones. Other States Want to Be Next.",
+            "date_modified": "2022-03-26T13:12:41.000Z",
+            "author": {
+                "name": "Neil Vigdor",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/03/gavin-newsom-gas-prices-plan/629378/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/03/gavin-newsom-gas-prices-plan/629378/?utm_source=feed",
+            "title": "應對通貨膨脹的錯誤方法",
+            "summary": "The Wrong Way to Tackle Inflation",
+            "date_modified": "2022-03-26T13:00:57.000Z",
+            "author": {
+                "name": "Annie Lowrey",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/culture/archive/2022/03/atlanta-season-3-review/629394/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/culture/archive/2022/03/atlanta-season-3-review/629394/?utm_source=feed",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "Michael M. Grynbaum",
                 "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/14/technology/fox-news-benjamin-hall-injured-ukraine.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/14/technology/fox-news-benjamin-hall-injured-ukraine.html",
-            "title": "福克斯新聞記者本傑明-霍爾在烏克蘭受傷",
-            "summary": "Fox News Correspondent Benjamin Hall Is Injured in Ukraine",
-            "date_modified": "2022-03-14T19:29:44.000Z",
-            "author": {
-                "name": "Michael M. Grynbaum",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/daily-comment/naftali-bennetts-calculated-effort-to-engage-with-vladimir-putin-on-ukraine-and-iran",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/daily-comment/naftali-bennetts-calculated-effort-to-engage-with-vladimir-putin-on-ukraine-and-iran",
-            "title": "納夫塔利-貝內特在烏克蘭和伊朗問題上與弗拉基米爾-普京接觸的精心努力",
-            "summary": "Naftali Bennett’s Calculated Effort to Engage With Vladimir Putin on Ukraine—and Iran",
-            "date_modified": "2022-03-14T18:51:19.000Z",
-            "author": {
-                "name": "Bernard Avishai",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 26 Mar 2022 12:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 13:35:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[亚利桑那州提供iPhone上的驾照。其他国家也想成为下一个。]]></title>
+            <link>https://www.nytimes.com/2022/03/26/us/arizona-digital-drivers-license.html</link>
+            <guid>https://www.nytimes.com/2022/03/26/us/arizona-digital-drivers-license.html</guid>
+            <pubDate>Sat, 26 Mar 2022 13:12:41 GMT</pubDate>
+            <description><![CDATA[Arizona Offers Driver’s Licenses on iPhones. Other States Want to Be Next.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[应对通货膨胀的错误方法]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/03/gavin-newsom-gas-prices-plan/629378/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/03/gavin-newsom-gas-prices-plan/629378/?utm_source=feed</guid>
+            <pubDate>Sat, 26 Mar 2022 13:00:57 GMT</pubDate>
+            <description><![CDATA[The Wrong Way to Tackle Inflation]]></description>
+        </item>
         <item>
             <title><![CDATA[种族问题是<em>亚特兰大</em>的一个搞笑、恐怖的表现]]></title>
             <link>https://www.theatlantic.com/culture/archive/2022/03/atlanta-season-3-review/629394/?utm_source=feed</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.nytimes.com/2022/03/14/technology/ukraine-fox-news-benjamin.html</guid>
             <pubDate>Mon, 14 Mar 2022 19:36:16 GMT</pubDate>
             <description><![CDATA[Fox News Correspondent Benjamin Hall Is Injured in Ukraine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[福克斯新闻记者本杰明-霍尔在乌克兰受伤]]></title>
-            <link>https://www.nytimes.com/2022/03/14/technology/fox-news-benjamin-hall-injured-ukraine.html</link>
-            <guid>https://www.nytimes.com/2022/03/14/technology/fox-news-benjamin-hall-injured-ukraine.html</guid>
-            <pubDate>Mon, 14 Mar 2022 19:29:44 GMT</pubDate>
-            <description><![CDATA[Fox News Correspondent Benjamin Hall Is Injured in Ukraine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[纳夫塔利-贝内特在乌克兰和伊朗问题上与弗拉基米尔-普京接触的精心努力]]></title>
-            <link>https://www.newyorker.com/news/daily-comment/naftali-bennetts-calculated-effort-to-engage-with-vladimir-putin-on-ukraine-and-iran</link>
-            <guid>https://www.newyorker.com/news/daily-comment/naftali-bennetts-calculated-effort-to-engage-with-vladimir-putin-on-ukraine-and-iran</guid>
-            <pubDate>Mon, 14 Mar 2022 18:51:19 GMT</pubDate>
-            <description><![CDATA[Naftali Bennett’s Calculated Effort to Engage With Vladimir Putin on Ukraine—and Iran]]></description>
         </item>
     </channel>
 </rss>
