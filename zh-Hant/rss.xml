@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 26 Mar 2022 09:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 10:13:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為紐約市立大學提供更多資金的理由]]></title>
+            <link>https://www.newyorker.com/news/our-local-correspondents/the-case-for-more-cuny-funding</link>
+            <guid>https://www.newyorker.com/news/our-local-correspondents/the-case-for-more-cuny-funding</guid>
+            <pubDate>Sat, 26 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Case for More CUNY Funding]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一個自由職業者在美國衛生保健系統中的四十三年經歷]]></title>
+            <link>https://www.newyorker.com/culture/personal-history/a-freelancers-forty-three-years-in-the-american-health-care-system</link>
+            <guid>https://www.newyorker.com/culture/personal-history/a-freelancers-forty-three-years-in-the-american-health-care-system</guid>
+            <pubDate>Sat, 26 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[A Freelancer’s Forty-Three Years in the American Health-Care System]]></description>
+        </item>
         <item>
             <title><![CDATA[流媒體在好萊塢的辯論中獲勝。最佳影片是下一個嗎？]]></title>
             <link>https://www.nytimes.com/2022/03/26/business/media/academy-awards-streaming-services.html</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.nytimes.com/2022/03/14/technology/personaltech/apple-iphone-se-review.html</guid>
             <pubDate>Mon, 14 Mar 2022 13:47:25 GMT</pubDate>
             <description><![CDATA[Apple iPhone SE Review: A Phone for the Anti-Consumer]]></description>
-        </item>
-        <item>
-            <title><![CDATA["木犀牛屋"，扎克-威廉姆斯著]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/21/wood-sorrel-house</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/21/wood-sorrel-house</guid>
-            <pubDate>Mon, 14 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[“Wood Sorrel House,” by Zach Williams]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼反工廠化農業運動需要直接行動？]]></title>
-            <link>https://www.currentaffairs.org/2022/03/why-the-anti-factory-farming-movement-needs-direct-action/</link>
-            <guid>https://www.currentaffairs.org/2022/03/why-the-anti-factory-farming-movement-needs-direct-action/</guid>
-            <pubDate>Mon, 14 Mar 2022 08:12:14 GMT</pubDate>
-            <description><![CDATA[Why the Anti-Factory Farming Movement Needs Direct Action]]></description>
         </item>
     </channel>
 </rss>

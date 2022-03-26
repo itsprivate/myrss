@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/our-local-correspondents/the-case-for-more-cuny-funding",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/our-local-correspondents/the-case-for-more-cuny-funding",
+            "title": "為紐約市立大學提供更多資金的理由",
+            "summary": "The Case for More CUNY Funding",
+            "date_modified": "2022-03-26T10:00:00.000Z",
+            "author": {
+                "name": "Eric Lach",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/culture/personal-history/a-freelancers-forty-three-years-in-the-american-health-care-system",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/personal-history/a-freelancers-forty-three-years-in-the-american-health-care-system",
+            "title": "一個自由職業者在美國衛生保健系統中的四十三年經歷",
+            "summary": "A Freelancer’s Forty-Three Years in the American Health-Care System",
+            "date_modified": "2022-03-26T10:00:00.000Z",
+            "author": {
+                "name": "David Owen",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/26/business/media/academy-awards-streaming-services.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/26/business/media/academy-awards-streaming-services.html",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "Brian X. Chen",
                 "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/03/21/wood-sorrel-house",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/03/21/wood-sorrel-house",
-            "title": "\"木犀牛屋\"，扎克-威廉姆斯著",
-            "summary": "“Wood Sorrel House,” by Zach Williams",
-            "date_modified": "2022-03-14T10:00:00.000Z",
-            "author": {
-                "name": "Zach Williams",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.currentaffairs.org/2022/03/why-the-anti-factory-farming-movement-needs-direct-action/",
-            "content_html": "",
-            "url": "https://www.currentaffairs.org/2022/03/why-the-anti-factory-farming-movement-needs-direct-action/",
-            "title": "為什麼反工廠化農業運動需要直接行動？",
-            "summary": "Why the Anti-Factory Farming Movement Needs Direct Action",
-            "date_modified": "2022-03-14T08:12:14.000Z",
-            "author": {
-                "name": "Marina Bolotnikova",
-                "url": "https://www.currentaffairs.org/feed"
             }
         }
     ]
