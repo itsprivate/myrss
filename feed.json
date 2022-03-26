@@ -19,6 +19,54 @@
             "date_modified": "2022-03-26T10:00:00.000Z",
             "author": {
                 "name": "Eric Lach",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/humor/daily-shouts/capitol-insurrection-lost-and-found",
+            "content_html": "",
+            "url": "https://www.newyorker.com/humor/daily-shouts/capitol-insurrection-lost-and-found",
+            "title": "国会起义失而复得",
+            "summary": "Capitol Insurrection Lost and Found",
+            "date_modified": "2022-03-26T10:00:00.000Z",
+            "author": {
+                "name": "Bill Scheft",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/culture/persons-of-interest/rose-matafeo-is-reconstructing-the-rom-com",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/persons-of-interest/rose-matafeo-is-reconstructing-the-rom-com",
+            "title": "罗丝-马塔菲奥正在重构爱情喜剧",
+            "summary": "Rose Matafeo Is Reconstructing the Rom-Com",
+            "date_modified": "2022-03-26T10:00:00.000Z",
+            "author": {
+                "name": "Coralie Kraft",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/culture/personal-history/a-freelancers-forty-three-years-in-the-american-health-care-system",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/personal-history/a-freelancers-forty-three-years-in-the-american-health-care-system",
+            "title": "一个自由职业者在美国卫生保健系统中的四十三年经历",
+            "summary": "A Freelancer’s Forty-Three Years in the American Health-Care System",
+            "date_modified": "2022-03-26T10:00:00.000Z",
+            "author": {
+                "name": "David Owen",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/our-local-correspondents/the-case-for-more-cuny-funding",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/our-local-correspondents/the-case-for-more-cuny-funding",
+            "title": "为纽约市立大学提供更多资金的理由",
+            "summary": "The Case for More CUNY Funding",
+            "date_modified": "2022-03-26T10:00:00.000Z",
+            "author": {
+                "name": "Eric Lach",
                 "url": "https://www.newyorker.com/feed/news"
             }
         },
@@ -7160,54 +7208,6 @@
             "author": {
                 "name": "Kaitlyn Tiffany",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/cartoons/daily-cartoon/monday-march-14th-daylight-saving-time",
-            "content_html": "",
-            "url": "https://www.newyorker.com/cartoons/daily-cartoon/monday-march-14th-daylight-saving-time",
-            "title": "每日漫画。3月14日，星期一",
-            "summary": "Daily Cartoon: Monday, March 14th",
-            "date_modified": "2022-03-14T15:53:25.000Z",
-            "author": {
-                "name": "Ellis Rosen",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/humor/borowitz-report/trump-offers-to-help-russia-file-for-bankruptcy",
-            "content_html": "",
-            "url": "https://www.newyorker.com/humor/borowitz-report/trump-offers-to-help-russia-file-for-bankruptcy",
-            "title": "特朗普提出帮助俄罗斯申请破产",
-            "summary": "Trump Offers to Help Russia File for Bankruptcy",
-            "date_modified": "2022-03-14T14:58:10.000Z",
-            "author": {
-                "name": "Andy Borowitz",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/03/what-if-world-war-iii-has-already-started/627054/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/03/what-if-world-war-iii-has-already-started/627054/?utm_source=feed",
-            "title": "如果第三次世界大战已经开始了呢？",
-            "summary": "What If World War III Has Already Started?",
-            "date_modified": "2022-03-14T15:00:24.000Z",
-            "author": {
-                "name": "Veronika Melkozerova",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/14/technology/personaltech/apple-iphone-se-review.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/14/technology/personaltech/apple-iphone-se-review.html",
-            "title": "苹果iPhone SE评论。一款为反消费者设计的手机",
-            "summary": "Apple iPhone SE Review: A Phone for the Anti-Consumer",
-            "date_modified": "2022-03-14T13:47:25.000Z",
-            "author": {
-                "name": "Brian X. Chen",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
     ]

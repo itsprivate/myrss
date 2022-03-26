@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 26 Mar 2022 10:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 10:35:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,34 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為紐約市立大學提供更多資金的理由]]></title>
+            <link>https://www.newyorker.com/news/our-local-correspondents/the-case-for-more-cuny-funding</link>
+            <guid>https://www.newyorker.com/news/our-local-correspondents/the-case-for-more-cuny-funding</guid>
+            <pubDate>Sat, 26 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Case for More CUNY Funding]]></description>
+        </item>
+        <item>
+            <title><![CDATA[國會起義失而復得]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/capitol-insurrection-lost-and-found</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/capitol-insurrection-lost-and-found</guid>
+            <pubDate>Sat, 26 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Capitol Insurrection Lost and Found]]></description>
+        </item>
+        <item>
+            <title><![CDATA[羅絲-馬塔菲奧正在重構愛情喜劇]]></title>
+            <link>https://www.newyorker.com/culture/persons-of-interest/rose-matafeo-is-reconstructing-the-rom-com</link>
+            <guid>https://www.newyorker.com/culture/persons-of-interest/rose-matafeo-is-reconstructing-the-rom-com</guid>
+            <pubDate>Sat, 26 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Rose Matafeo Is Reconstructing the Rom-Com]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一個自由職業者在美國衛生保健系統中的四十三年經歷]]></title>
+            <link>https://www.newyorker.com/culture/personal-history/a-freelancers-forty-three-years-in-the-american-health-care-system</link>
+            <guid>https://www.newyorker.com/culture/personal-history/a-freelancers-forty-three-years-in-the-american-health-care-system</guid>
+            <pubDate>Sat, 26 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[A Freelancer’s Forty-Three Years in the American Health-Care System]]></description>
+        </item>
         <item>
             <title><![CDATA[為紐約市立大學提供更多資金的理由]]></title>
             <link>https://www.newyorker.com/news/our-local-correspondents/the-case-for-more-cuny-funding</link>
@@ -4185,34 +4213,6 @@
             <guid>https://www.theatlantic.com/newsletters/archive/2022/03/lizzie-and-kaitlyn-go-to-williamsburg/627055/?utm_source=feed</guid>
             <pubDate>Mon, 14 Mar 2022 16:00:15 GMT</pubDate>
             <description><![CDATA[Lizzie and Kaitlyn Go to Williamsburg]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日漫畫。3月14日，星期一]]></title>
-            <link>https://www.newyorker.com/cartoons/daily-cartoon/monday-march-14th-daylight-saving-time</link>
-            <guid>https://www.newyorker.com/cartoons/daily-cartoon/monday-march-14th-daylight-saving-time</guid>
-            <pubDate>Mon, 14 Mar 2022 15:53:25 GMT</pubDate>
-            <description><![CDATA[Daily Cartoon: Monday, March 14th]]></description>
-        </item>
-        <item>
-            <title><![CDATA[特朗普提出幫助俄羅斯申請破產]]></title>
-            <link>https://www.newyorker.com/humor/borowitz-report/trump-offers-to-help-russia-file-for-bankruptcy</link>
-            <guid>https://www.newyorker.com/humor/borowitz-report/trump-offers-to-help-russia-file-for-bankruptcy</guid>
-            <pubDate>Mon, 14 Mar 2022 14:58:10 GMT</pubDate>
-            <description><![CDATA[Trump Offers to Help Russia File for Bankruptcy]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如果第三次世界大戰已經開始了呢？]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/what-if-world-war-iii-has-already-started/627054/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/what-if-world-war-iii-has-already-started/627054/?utm_source=feed</guid>
-            <pubDate>Mon, 14 Mar 2022 15:00:24 GMT</pubDate>
-            <description><![CDATA[What If World War III Has Already Started?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[蘋果iPhone SE評論。一款為反消費者設計的手機]]></title>
-            <link>https://www.nytimes.com/2022/03/14/technology/personaltech/apple-iphone-se-review.html</link>
-            <guid>https://www.nytimes.com/2022/03/14/technology/personaltech/apple-iphone-se-review.html</guid>
-            <pubDate>Mon, 14 Mar 2022 13:47:25 GMT</pubDate>
-            <description><![CDATA[Apple iPhone SE Review: A Phone for the Anti-Consumer]]></description>
         </item>
     </channel>
 </rss>
