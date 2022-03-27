@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-27T00:43:13.344Z</updated>
+    <updated>2022-03-27T07:12:07.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[慈善家推动警方搜查DNA数据库]]></title>
+        <id>https://www.nytimes.com/2022/03/27/technology/dna-tests-crime-solving.html</id>
+        <link href="https://www.nytimes.com/2022/03/27/technology/dna-tests-crime-solving.html"/>
+        <updated>2022-03-27T07:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Philanthropists Push Police Searches of DNA Databases]]></summary>
+        <author>
+            <name>Kashmir Hill</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拜登对普京的评论是一个没有理由的错误]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/03/biden-putin-regime-change-russia/629397/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Art in a Time of War]]></summary>
         <author>
             <name>Peter Schjeldahl</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么学校战争仍在肆虐]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/21/why-the-school-wars-still-rage</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/21/why-the-school-wars-still-rage"/>
-        <updated>2022-03-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Why the School Wars Still Rage]]></summary>
-        <author>
-            <name>Jill Lepore</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
