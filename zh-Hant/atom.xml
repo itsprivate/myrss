@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-27T14:30:39.143Z</updated>
+    <updated>2022-03-27T21:31:56.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[公開主題217]]></title>
+        <id>https://astralcodexten.substack.com/p/open-thread-217</id>
+        <link href="https://astralcodexten.substack.com/p/open-thread-217"/>
+        <updated>2022-03-27T21:14:08.000Z</updated>
+        <summary type="html"><![CDATA[Open Thread 217]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[給情人的妻子的再見信]]></title>
         <id>https://www.theatlantic.com/books/archive/2022/03/poem-kemi-alabi-goodbye-letter-my-lovers-wife/624177/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[‘Responsible Conservatism Has a Voice and a Future’]]></summary>
         <author>
             <name>The Atlantic</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[古惑仔 "變老 "了]]></title>
-        <id>https://www.theatlantic.com/magazine/archive/2022/04/jennifer-egan-goon-squad-candy-house/622831/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/magazine/archive/2022/04/jennifer-egan-goon-squad-candy-house/622831/?utm_source=feed"/>
-        <updated>2022-03-15T10:01:56.000Z</updated>
-        <summary type="html"><![CDATA[The Goon Squad Gets Old]]></summary>
-        <author>
-            <name>Mark Greif</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
