@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/politics/archive/2022/03/charlie-baker-massachusetts-governor-election/627157/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/politics/archive/2022/03/charlie-baker-massachusetts-governor-election/627157/?utm_source=feed",
+            "title": "查理-貝克和一黨專政的崛起",
+            "summary": "Charlie Baker and the Rise of One-Party Rule",
+            "date_modified": "2022-03-27T11:00:59.000Z",
+            "author": {
+                "name": "Kara Voght",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/books/double-take/sunday-reading-the-2022-academy-awards",
             "content_html": "",
             "url": "https://www.newyorker.com/books/double-take/sunday-reading-the-2022-academy-awards",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-15T10:00:00.000Z",
             "author": {
                 "name": "Mary Cella",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/15",
-            "content_html": "",
-            "url": "https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/15",
-            "title": "落名：2022年3月15日，星期二",
-            "summary": "Name Drop: Tuesday, March 15, 2022",
-            "date_modified": "2022-03-15T10:00:00.000Z",
-            "author": {
-                "name": "Matt Jackson",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

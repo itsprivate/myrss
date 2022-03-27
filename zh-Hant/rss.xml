@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sun, 27 Mar 2022 10:35:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 11:30:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[查理-貝克和一黨專政的崛起]]></title>
+            <link>https://www.theatlantic.com/politics/archive/2022/03/charlie-baker-massachusetts-governor-election/627157/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/politics/archive/2022/03/charlie-baker-massachusetts-governor-election/627157/?utm_source=feed</guid>
+            <pubDate>Sun, 27 Mar 2022 11:00:59 GMT</pubDate>
+            <description><![CDATA[Charlie Baker and the Rise of One-Party Rule]]></description>
+        </item>
         <item>
             <title><![CDATA[星期日閱讀。2022年的奧斯卡獎]]></title>
             <link>https://www.newyorker.com/books/double-take/sunday-reading-the-2022-academy-awards</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/humor/daily-shouts/existential-bra-fit-quiz</guid>
             <pubDate>Tue, 15 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Existential Bra-Fit Quiz]]></description>
-        </item>
-        <item>
-            <title><![CDATA[落名：2022年3月15日，星期二]]></title>
-            <link>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/15</link>
-            <guid>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/15</guid>
-            <pubDate>Tue, 15 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Name Drop: Tuesday, March 15, 2022]]></description>
         </item>
     </channel>
 </rss>

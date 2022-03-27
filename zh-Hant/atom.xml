@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-27T10:35:15.547Z</updated>
+    <updated>2022-03-27T11:30:17.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[查理-貝克和一黨專政的崛起]]></title>
+        <id>https://www.theatlantic.com/politics/archive/2022/03/charlie-baker-massachusetts-governor-election/627157/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/politics/archive/2022/03/charlie-baker-massachusetts-governor-election/627157/?utm_source=feed"/>
+        <updated>2022-03-27T11:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Charlie Baker and the Rise of One-Party Rule]]></summary>
+        <author>
+            <name>Kara Voght</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[星期日閱讀。2022年的奧斯卡獎]]></title>
         <id>https://www.newyorker.com/books/double-take/sunday-reading-the-2022-academy-awards</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Existential Bra-Fit Quiz]]></summary>
         <author>
             <name>Mary Cella</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[落名：2022年3月15日，星期二]]></title>
-        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/15</id>
-        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/15"/>
-        <updated>2022-03-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Name Drop: Tuesday, March 15, 2022]]></summary>
-        <author>
-            <name>Matt Jackson</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
