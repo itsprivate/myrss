@@ -11,6 +11,90 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/humor/daily-shouts/some-realistic-affirmations",
+            "content_html": "",
+            "url": "https://www.newyorker.com/humor/daily-shouts/some-realistic-affirmations",
+            "title": "一些現實的肯定",
+            "summary": "Some Realistic Affirmations",
+            "date_modified": "2022-03-27T10:00:00.000Z",
+            "author": {
+                "name": "Olivia de Recat",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/03/27",
+            "content_html": "",
+            "url": "https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/03/27",
+            "title": "密碼字謎：2022年3月27日，星期日",
+            "summary": "The Cryptic Crossword: Sunday, March 27, 2022",
+            "date_modified": "2022-03-27T10:00:00.000Z",
+            "author": {
+                "name": "Joshua Kosman, Henri Picciotto",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/magazine/2022/04/04/what-is-putin-thinking-russia-ukraine",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/04/04/what-is-putin-thinking-russia-ukraine",
+            "title": "普京在想什麼？",
+            "summary": "What Is Putin Thinking?",
+            "date_modified": "2022-03-27T10:00:00.000Z",
+            "author": {
+                "name": "David Remnick",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/books/double-take/sunday-reading-the-2022-academy-awards",
+            "content_html": "",
+            "url": "https://www.newyorker.com/books/double-take/sunday-reading-the-2022-academy-awards",
+            "title": "星期日閱讀。2022年的奧斯卡獎",
+            "summary": "Sunday Reading: The 2022 Academy Awards",
+            "date_modified": "2022-03-27T10:00:00.000Z",
+            "author": {
+                "name": "The New Yorker",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/culture/essay/the-beatle-who-got-away",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/essay/the-beatle-who-got-away",
+            "title": "逃之夭夭的披頭士",
+            "summary": "The Beatle Who Got Away",
+            "date_modified": "2022-03-27T10:00:00.000Z",
+            "author": {
+                "name": "Ted Widmer",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/culture/the-new-yorker-interview/judd-apatow-is-still-an-optimist",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/the-new-yorker-interview/judd-apatow-is-still-an-optimist",
+            "title": "賈德-阿帕圖仍然是個樂觀主義者",
+            "summary": "Judd Apatow Is Still an Optimist",
+            "date_modified": "2022-03-27T10:00:00.000Z",
+            "author": {
+                "name": "Susan Morrison",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/03/zelensky-speech-russia-propaganda-history/629381/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/03/zelensky-speech-russia-propaganda-history/629381/?utm_source=feed",
+            "title": "宣傳如何變成了娛樂",
+            "summary": "How Propaganda Became Entertaining",
+            "date_modified": "2022-03-27T10:01:56.000Z",
+            "author": {
+                "name": "Kathryn Cramer Brownell",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/27/business/media/chris-wallace-cnn-fox-news.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/27/business/media/chris-wallace-cnn-fox-news.html",
@@ -7123,90 +7207,6 @@
             "date_modified": "2022-03-15T10:00:00.000Z",
             "author": {
                 "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/new-yorker-live/william-barber-janai-nelson-voting-rights",
-            "content_html": "",
-            "url": "https://www.newyorker.com/new-yorker-live/william-barber-janai-nelson-voting-rights",
-            "title": "爭取投票權和2022年中期選舉之戰",
-            "summary": "The Battle for Voting Rights and the 2022 Midterms",
-            "date_modified": "2022-03-15T10:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/culture-desk/new-yorker-live-spring-series-ukraine-russia-kroll-bryant-barber-nelson",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/culture-desk/new-yorker-live-spring-series-ukraine-russia-kroll-bryant-barber-nelson",
-            "title": "加入我們的《紐約客》春季現場系列活動",
-            "summary": "Join Us for The New Yorker Live Spring Series",
-            "date_modified": "2022-03-15T10:00:00.000Z",
-            "author": {
-                "name": "The New Yorker",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/15/technology/ai-no-code.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/15/technology/ai-no-code.html",
-            "title": "無碼》將人工智能的力量帶給大眾",
-            "summary": "‘No Code’ Brings the Power of A.I. to the Masses",
-            "date_modified": "2022-03-15T09:00:20.000Z",
-            "author": {
-                "name": "Craig S. Smith",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/03/putin-nuclear-weapons-system-presidential-power/627058/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/03/putin-nuclear-weapons-system-presidential-power/627058/?utm_source=feed",
-            "title": "普京教給我們的可怕的真相",
-            "summary": "The Terrifying Truth Putin Has Taught Us",
-            "date_modified": "2022-03-15T09:00:56.000Z",
-            "author": {
-                "name": "Uri Friedman",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/15/technology/california-privacy-agency-ccpa-gdpr.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/15/technology/california-privacy-agency-ccpa-gdpr.html",
-            "title": "加州如何建立全國第一個隱私警察",
-            "summary": "How California Is Building the Nation’s First Privacy Police",
-            "date_modified": "2022-03-15T07:02:33.000Z",
-            "author": {
-                "name": "David McCabe",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.currentaffairs.org/2022/03/why-doesnt-california-solve-its-housing-crisis-by-building-some-new-cities/",
-            "content_html": "",
-            "url": "https://www.currentaffairs.org/2022/03/why-doesnt-california-solve-its-housing-crisis-by-building-some-new-cities/",
-            "title": "為什麼加州不通過建設一些新城市來解決住房危機？",
-            "summary": "Why Doesn’t California Solve Its Housing Crisis By Building Some New Cities?",
-            "date_modified": "2022-03-14T23:38:05.000Z",
-            "author": {
-                "name": "Adam Vander Tuig",
-                "url": "https://www.currentaffairs.org/feed"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/03/21/delightful-discoveries-at-hawksmoor",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/03/21/delightful-discoveries-at-hawksmoor",
-            "title": "在霍克斯莫爾的令人愉快的發現",
-            "summary": "Delightful Discoveries at Hawksmoor",
-            "date_modified": "2022-03-11T11:00:00.000Z",
-            "author": {
-                "name": "Jiayang Fan",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

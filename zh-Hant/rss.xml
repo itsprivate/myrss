@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sun, 27 Mar 2022 09:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 10:14:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,55 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一些現實的肯定]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/some-realistic-affirmations</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/some-realistic-affirmations</guid>
+            <pubDate>Sun, 27 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Some Realistic Affirmations]]></description>
+        </item>
+        <item>
+            <title><![CDATA[密碼字謎：2022年3月27日，星期日]]></title>
+            <link>https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/03/27</link>
+            <guid>https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/03/27</guid>
+            <pubDate>Sun, 27 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Cryptic Crossword: Sunday, March 27, 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[普京在想什麼？]]></title>
+            <link>https://www.newyorker.com/magazine/2022/04/04/what-is-putin-thinking-russia-ukraine</link>
+            <guid>https://www.newyorker.com/magazine/2022/04/04/what-is-putin-thinking-russia-ukraine</guid>
+            <pubDate>Sun, 27 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[What Is Putin Thinking?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[星期日閱讀。2022年的奧斯卡獎]]></title>
+            <link>https://www.newyorker.com/books/double-take/sunday-reading-the-2022-academy-awards</link>
+            <guid>https://www.newyorker.com/books/double-take/sunday-reading-the-2022-academy-awards</guid>
+            <pubDate>Sun, 27 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Sunday Reading: The 2022 Academy Awards]]></description>
+        </item>
+        <item>
+            <title><![CDATA[逃之夭夭的披頭士]]></title>
+            <link>https://www.newyorker.com/culture/essay/the-beatle-who-got-away</link>
+            <guid>https://www.newyorker.com/culture/essay/the-beatle-who-got-away</guid>
+            <pubDate>Sun, 27 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Beatle Who Got Away]]></description>
+        </item>
+        <item>
+            <title><![CDATA[賈德-阿帕圖仍然是個樂觀主義者]]></title>
+            <link>https://www.newyorker.com/culture/the-new-yorker-interview/judd-apatow-is-still-an-optimist</link>
+            <guid>https://www.newyorker.com/culture/the-new-yorker-interview/judd-apatow-is-still-an-optimist</guid>
+            <pubDate>Sun, 27 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Judd Apatow Is Still an Optimist]]></description>
+        </item>
+        <item>
+            <title><![CDATA[宣傳如何變成了娛樂]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/03/zelensky-speech-russia-propaganda-history/629381/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/03/zelensky-speech-russia-propaganda-history/629381/?utm_source=feed</guid>
+            <pubDate>Sun, 27 Mar 2022 10:01:56 GMT</pubDate>
+            <description><![CDATA[How Propaganda Became Entertaining]]></description>
+        </item>
         <item>
             <title><![CDATA[克里斯-華萊士說福克斯新聞的生活變得 "不可持續 "了]]></title>
             <link>https://www.nytimes.com/2022/03/27/business/media/chris-wallace-cnn-fox-news.html</link>
@@ -4164,55 +4213,6 @@
             <guid>https://www.newyorker.com/new-yorker-live/russia-ukraine-masha-gessen-david-remnick-joshua-yaffa</guid>
             <pubDate>Tue, 15 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[The War in Ukraine: A Discussion Hosted by David Remnick]]></description>
-        </item>
-        <item>
-            <title><![CDATA[爭取投票權和2022年中期選舉之戰]]></title>
-            <link>https://www.newyorker.com/new-yorker-live/william-barber-janai-nelson-voting-rights</link>
-            <guid>https://www.newyorker.com/new-yorker-live/william-barber-janai-nelson-voting-rights</guid>
-            <pubDate>Tue, 15 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Battle for Voting Rights and the 2022 Midterms]]></description>
-        </item>
-        <item>
-            <title><![CDATA[加入我們的《紐約客》春季現場系列活動]]></title>
-            <link>https://www.newyorker.com/culture/culture-desk/new-yorker-live-spring-series-ukraine-russia-kroll-bryant-barber-nelson</link>
-            <guid>https://www.newyorker.com/culture/culture-desk/new-yorker-live-spring-series-ukraine-russia-kroll-bryant-barber-nelson</guid>
-            <pubDate>Tue, 15 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Join Us for The New Yorker Live Spring Series]]></description>
-        </item>
-        <item>
-            <title><![CDATA[無碼》將人工智能的力量帶給大眾]]></title>
-            <link>https://www.nytimes.com/2022/03/15/technology/ai-no-code.html</link>
-            <guid>https://www.nytimes.com/2022/03/15/technology/ai-no-code.html</guid>
-            <pubDate>Tue, 15 Mar 2022 09:00:20 GMT</pubDate>
-            <description><![CDATA[‘No Code’ Brings the Power of A.I. to the Masses]]></description>
-        </item>
-        <item>
-            <title><![CDATA[普京教給我們的可怕的真相]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/putin-nuclear-weapons-system-presidential-power/627058/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/putin-nuclear-weapons-system-presidential-power/627058/?utm_source=feed</guid>
-            <pubDate>Tue, 15 Mar 2022 09:00:56 GMT</pubDate>
-            <description><![CDATA[The Terrifying Truth Putin Has Taught Us]]></description>
-        </item>
-        <item>
-            <title><![CDATA[加州如何建立全國第一個隱私警察]]></title>
-            <link>https://www.nytimes.com/2022/03/15/technology/california-privacy-agency-ccpa-gdpr.html</link>
-            <guid>https://www.nytimes.com/2022/03/15/technology/california-privacy-agency-ccpa-gdpr.html</guid>
-            <pubDate>Tue, 15 Mar 2022 07:02:33 GMT</pubDate>
-            <description><![CDATA[How California Is Building the Nation’s First Privacy Police]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼加州不通過建設一些新城市來解決住房危機？]]></title>
-            <link>https://www.currentaffairs.org/2022/03/why-doesnt-california-solve-its-housing-crisis-by-building-some-new-cities/</link>
-            <guid>https://www.currentaffairs.org/2022/03/why-doesnt-california-solve-its-housing-crisis-by-building-some-new-cities/</guid>
-            <pubDate>Mon, 14 Mar 2022 23:38:05 GMT</pubDate>
-            <description><![CDATA[Why Doesn’t California Solve Its Housing Crisis By Building Some New Cities?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在霍克斯莫爾的令人愉快的發現]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/21/delightful-discoveries-at-hawksmoor</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/21/delightful-discoveries-at-hawksmoor</guid>
-            <pubDate>Fri, 11 Mar 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[Delightful Discoveries at Hawksmoor]]></description>
         </item>
     </channel>
 </rss>

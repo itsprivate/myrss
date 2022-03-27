@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-27T09:15:22.044Z</updated>
+    <updated>2022-03-27T10:14:00.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一些現實的肯定]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/some-realistic-affirmations</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/some-realistic-affirmations"/>
+        <updated>2022-03-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Some Realistic Affirmations]]></summary>
+        <author>
+            <name>Olivia de Recat</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[密碼字謎：2022年3月27日，星期日]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/03/27</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/03/27"/>
+        <updated>2022-03-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Cryptic Crossword: Sunday, March 27, 2022]]></summary>
+        <author>
+            <name>Joshua Kosman, Henri Picciotto</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[普京在想什麼？]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/04/what-is-putin-thinking-russia-ukraine</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/04/what-is-putin-thinking-russia-ukraine"/>
+        <updated>2022-03-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What Is Putin Thinking?]]></summary>
+        <author>
+            <name>David Remnick</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[星期日閱讀。2022年的奧斯卡獎]]></title>
+        <id>https://www.newyorker.com/books/double-take/sunday-reading-the-2022-academy-awards</id>
+        <link href="https://www.newyorker.com/books/double-take/sunday-reading-the-2022-academy-awards"/>
+        <updated>2022-03-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sunday Reading: The 2022 Academy Awards]]></summary>
+        <author>
+            <name>The New Yorker</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[逃之夭夭的披頭士]]></title>
+        <id>https://www.newyorker.com/culture/essay/the-beatle-who-got-away</id>
+        <link href="https://www.newyorker.com/culture/essay/the-beatle-who-got-away"/>
+        <updated>2022-03-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Beatle Who Got Away]]></summary>
+        <author>
+            <name>Ted Widmer</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[賈德-阿帕圖仍然是個樂觀主義者]]></title>
+        <id>https://www.newyorker.com/culture/the-new-yorker-interview/judd-apatow-is-still-an-optimist</id>
+        <link href="https://www.newyorker.com/culture/the-new-yorker-interview/judd-apatow-is-still-an-optimist"/>
+        <updated>2022-03-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Judd Apatow Is Still an Optimist]]></summary>
+        <author>
+            <name>Susan Morrison</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宣傳如何變成了娛樂]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/zelensky-speech-russia-propaganda-history/629381/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/zelensky-speech-russia-propaganda-history/629381/?utm_source=feed"/>
+        <updated>2022-03-27T10:01:56.000Z</updated>
+        <summary type="html"><![CDATA[How Propaganda Became Entertaining]]></summary>
+        <author>
+            <name>Kathryn Cramer Brownell</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[克里斯-華萊士說福克斯新聞的生活變得 "不可持續 "了]]></title>
         <id>https://www.nytimes.com/2022/03/27/business/media/chris-wallace-cnn-fox-news.html</id>
@@ -6535,83 +6612,6 @@
         <summary type="html"><![CDATA[The War in Ukraine: A Discussion Hosted by David Remnick]]></summary>
         <author>
             <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爭取投票權和2022年中期選舉之戰]]></title>
-        <id>https://www.newyorker.com/new-yorker-live/william-barber-janai-nelson-voting-rights</id>
-        <link href="https://www.newyorker.com/new-yorker-live/william-barber-janai-nelson-voting-rights"/>
-        <updated>2022-03-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Battle for Voting Rights and the 2022 Midterms]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加入我們的《紐約客》春季現場系列活動]]></title>
-        <id>https://www.newyorker.com/culture/culture-desk/new-yorker-live-spring-series-ukraine-russia-kroll-bryant-barber-nelson</id>
-        <link href="https://www.newyorker.com/culture/culture-desk/new-yorker-live-spring-series-ukraine-russia-kroll-bryant-barber-nelson"/>
-        <updated>2022-03-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Join Us for The New Yorker Live Spring Series]]></summary>
-        <author>
-            <name>The New Yorker</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無碼》將人工智能的力量帶給大眾]]></title>
-        <id>https://www.nytimes.com/2022/03/15/technology/ai-no-code.html</id>
-        <link href="https://www.nytimes.com/2022/03/15/technology/ai-no-code.html"/>
-        <updated>2022-03-15T09:00:20.000Z</updated>
-        <summary type="html"><![CDATA[‘No Code’ Brings the Power of A.I. to the Masses]]></summary>
-        <author>
-            <name>Craig S. Smith</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京教給我們的可怕的真相]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/putin-nuclear-weapons-system-presidential-power/627058/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/putin-nuclear-weapons-system-presidential-power/627058/?utm_source=feed"/>
-        <updated>2022-03-15T09:00:56.000Z</updated>
-        <summary type="html"><![CDATA[The Terrifying Truth Putin Has Taught Us]]></summary>
-        <author>
-            <name>Uri Friedman</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加州如何建立全國第一個隱私警察]]></title>
-        <id>https://www.nytimes.com/2022/03/15/technology/california-privacy-agency-ccpa-gdpr.html</id>
-        <link href="https://www.nytimes.com/2022/03/15/technology/california-privacy-agency-ccpa-gdpr.html"/>
-        <updated>2022-03-15T07:02:33.000Z</updated>
-        <summary type="html"><![CDATA[How California Is Building the Nation’s First Privacy Police]]></summary>
-        <author>
-            <name>David McCabe</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼加州不通過建設一些新城市來解決住房危機？]]></title>
-        <id>https://www.currentaffairs.org/2022/03/why-doesnt-california-solve-its-housing-crisis-by-building-some-new-cities/</id>
-        <link href="https://www.currentaffairs.org/2022/03/why-doesnt-california-solve-its-housing-crisis-by-building-some-new-cities/"/>
-        <updated>2022-03-14T23:38:05.000Z</updated>
-        <summary type="html"><![CDATA[Why Doesn’t California Solve Its Housing Crisis By Building Some New Cities?]]></summary>
-        <author>
-            <name>Adam Vander Tuig</name>
-            <uri>https://www.currentaffairs.org/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在霍克斯莫爾的令人愉快的發現]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/21/delightful-discoveries-at-hawksmoor</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/21/delightful-discoveries-at-hawksmoor"/>
-        <updated>2022-03-11T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Delightful Discoveries at Hawksmoor]]></summary>
-        <author>
-            <name>Jiayang Fan</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
