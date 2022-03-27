@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/books/archive/2022/03/poem-kemi-alabi-goodbye-letter-my-lovers-wife/624177/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/books/archive/2022/03/poem-kemi-alabi-goodbye-letter-my-lovers-wife/624177/?utm_source=feed",
+            "title": "給情人的妻子的再見信",
+            "summary": "Goodbye Letter to My Lover’s Wife",
+            "date_modified": "2022-03-27T13:54:35.000Z",
+            "author": {
+                "name": "Kemi Alabi",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/politics/archive/2022/03/charlie-baker-massachusetts-governor-election/627157/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/politics/archive/2022/03/charlie-baker-massachusetts-governor-election/627157/?utm_source=feed",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Mark Greif",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/humor/daily-shouts/existential-bra-fit-quiz",
-            "content_html": "",
-            "url": "https://www.newyorker.com/humor/daily-shouts/existential-bra-fit-quiz",
-            "title": "存在感的胸罩測試",
-            "summary": "Existential Bra-Fit Quiz",
-            "date_modified": "2022-03-15T10:00:00.000Z",
-            "author": {
-                "name": "Mary Cella",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]
