@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 26 Mar 2022 18:36:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 00:43:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[拜登对普京的评论是一个没有理由的错误]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/03/biden-putin-regime-change-russia/629397/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/03/biden-putin-regime-change-russia/629397/?utm_source=feed</guid>
+            <pubDate>Sun, 27 Mar 2022 00:16:52 GMT</pubDate>
+            <description><![CDATA[Biden’s Comments About Putin Were an Unforced Error]]></description>
+        </item>
         <item>
             <title><![CDATA[<em>The Atlantic</em> Daily: 今年我们不爱的六部电影]]></title>
             <link>https://www.theatlantic.com/newsletters/archive/2022/03/six-bad-movies-2022-oscars/629395/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/magazine/2022/03/21/why-the-school-wars-still-rage</guid>
             <pubDate>Mon, 14 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Why the School Wars Still Rage]]></description>
-        </item>
-        <item>
-            <title><![CDATA[形而上的恐怖在大胆的 "大师 "中变得非常真实]]></title>
-            <link>https://www.newyorker.com/culture/the-front-row/metaphysical-horror-becomes-all-too-real-in-the-audacious-master</link>
-            <guid>https://www.newyorker.com/culture/the-front-row/metaphysical-horror-becomes-all-too-real-in-the-audacious-master</guid>
-            <pubDate>Tue, 15 Mar 2022 00:04:59 GMT</pubDate>
-            <description><![CDATA[Metaphysical Horror Becomes All Too Real in the Audacious “Master”]]></description>
         </item>
     </channel>
 </rss>
