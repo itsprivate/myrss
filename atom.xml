@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-27T10:14:00.630Z</updated>
+    <updated>2022-03-27T10:35:15.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[星期日阅读。2022年的奥斯卡奖]]></title>
+        <id>https://www.newyorker.com/books/double-take/sunday-reading-the-2022-academy-awards</id>
+        <link href="https://www.newyorker.com/books/double-take/sunday-reading-the-2022-academy-awards"/>
+        <updated>2022-03-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sunday Reading: The 2022 Academy Awards]]></summary>
+        <author>
+            <name>The New Yorker</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[逃之夭夭的披头士]]></title>
+        <id>https://www.newyorker.com/culture/essay/the-beatle-who-got-away</id>
+        <link href="https://www.newyorker.com/culture/essay/the-beatle-who-got-away"/>
+        <updated>2022-03-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Beatle Who Got Away]]></summary>
+        <author>
+            <name>Ted Widmer</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一些现实的肯定]]></title>
         <id>https://www.newyorker.com/humor/daily-shouts/some-realistic-affirmations</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[Name Drop: Tuesday, March 15, 2022]]></summary>
         <author>
             <name>Matt Jackson</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尼克-克罗尔和艾迪-布莱恩特关于生活中尴尬部分的建议]]></title>
-        <id>https://www.newyorker.com/new-yorker-live/nick-kroll-aidy-bryant-human-resources</id>
-        <link href="https://www.newyorker.com/new-yorker-live/nick-kroll-aidy-bryant-human-resources"/>
-        <updated>2022-03-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Nick Kroll and Aidy Bryant’s Advice on the Awkward Parts of Life]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰的战争。David Remnick主持的讨论]]></title>
-        <id>https://www.newyorker.com/new-yorker-live/russia-ukraine-masha-gessen-david-remnick-joshua-yaffa</id>
-        <link href="https://www.newyorker.com/new-yorker-live/russia-ukraine-masha-gessen-david-remnick-joshua-yaffa"/>
-        <updated>2022-03-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The War in Ukraine: A Discussion Hosted by David Remnick]]></summary>
-        <author>
-            <name>unknown</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

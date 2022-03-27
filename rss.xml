@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sun, 27 Mar 2022 10:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 10:35:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[星期日阅读。2022年的奥斯卡奖]]></title>
+            <link>https://www.newyorker.com/books/double-take/sunday-reading-the-2022-academy-awards</link>
+            <guid>https://www.newyorker.com/books/double-take/sunday-reading-the-2022-academy-awards</guid>
+            <pubDate>Sun, 27 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Sunday Reading: The 2022 Academy Awards]]></description>
+        </item>
+        <item>
+            <title><![CDATA[逃之夭夭的披头士]]></title>
+            <link>https://www.newyorker.com/culture/essay/the-beatle-who-got-away</link>
+            <guid>https://www.newyorker.com/culture/essay/the-beatle-who-got-away</guid>
+            <pubDate>Sun, 27 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Beatle Who Got Away]]></description>
+        </item>
         <item>
             <title><![CDATA[一些现实的肯定]]></title>
             <link>https://www.newyorker.com/humor/daily-shouts/some-realistic-affirmations</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/15</guid>
             <pubDate>Tue, 15 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Name Drop: Tuesday, March 15, 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[尼克-克罗尔和艾迪-布莱恩特关于生活中尴尬部分的建议]]></title>
-            <link>https://www.newyorker.com/new-yorker-live/nick-kroll-aidy-bryant-human-resources</link>
-            <guid>https://www.newyorker.com/new-yorker-live/nick-kroll-aidy-bryant-human-resources</guid>
-            <pubDate>Tue, 15 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Nick Kroll and Aidy Bryant’s Advice on the Awkward Parts of Life]]></description>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰的战争。David Remnick主持的讨论]]></title>
-            <link>https://www.newyorker.com/new-yorker-live/russia-ukraine-masha-gessen-david-remnick-joshua-yaffa</link>
-            <guid>https://www.newyorker.com/new-yorker-live/russia-ukraine-masha-gessen-david-remnick-joshua-yaffa</guid>
-            <pubDate>Tue, 15 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The War in Ukraine: A Discussion Hosted by David Remnick]]></description>
         </item>
     </channel>
 </rss>

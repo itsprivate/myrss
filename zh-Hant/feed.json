@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/books/double-take/sunday-reading-the-2022-academy-awards",
+            "content_html": "",
+            "url": "https://www.newyorker.com/books/double-take/sunday-reading-the-2022-academy-awards",
+            "title": "星期日閱讀。2022年的奧斯卡獎",
+            "summary": "Sunday Reading: The 2022 Academy Awards",
+            "date_modified": "2022-03-27T10:00:00.000Z",
+            "author": {
+                "name": "The New Yorker",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/culture/essay/the-beatle-who-got-away",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/essay/the-beatle-who-got-away",
+            "title": "逃之夭夭的披頭士",
+            "summary": "The Beatle Who Got Away",
+            "date_modified": "2022-03-27T10:00:00.000Z",
+            "author": {
+                "name": "Ted Widmer",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/humor/daily-shouts/some-realistic-affirmations",
             "content_html": "",
             "url": "https://www.newyorker.com/humor/daily-shouts/some-realistic-affirmations",
@@ -7183,30 +7207,6 @@
             "date_modified": "2022-03-15T10:00:00.000Z",
             "author": {
                 "name": "Matt Jackson",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/new-yorker-live/nick-kroll-aidy-bryant-human-resources",
-            "content_html": "",
-            "url": "https://www.newyorker.com/new-yorker-live/nick-kroll-aidy-bryant-human-resources",
-            "title": "尼克-克羅爾和艾迪-布萊恩特關於生活中尷尬部分的建議",
-            "summary": "Nick Kroll and Aidy Bryant’s Advice on the Awkward Parts of Life",
-            "date_modified": "2022-03-15T10:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/new-yorker-live/russia-ukraine-masha-gessen-david-remnick-joshua-yaffa",
-            "content_html": "",
-            "url": "https://www.newyorker.com/new-yorker-live/russia-ukraine-masha-gessen-david-remnick-joshua-yaffa",
-            "title": "烏克蘭的戰爭。David Remnick主持的討論",
-            "summary": "The War in Ukraine: A Discussion Hosted by David Remnick",
-            "date_modified": "2022-03-15T10:00:00.000Z",
-            "author": {
-                "name": "unknown",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }
