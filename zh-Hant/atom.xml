@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-28T07:13:15.767Z</updated>
+    <updated>2022-03-28T08:40:35.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2022年奧斯卡頒獎典禮上人滿為患、擁擠不堪、狂熱不已、毫無樂趣和短暫的暴力。]]></title>
+        <id>https://www.newyorker.com/culture/the-front-row/the-overcrammed-overrushed-frenetic-joyless-and-briefly-violent-2022-oscars-ceremony</id>
+        <link href="https://www.newyorker.com/culture/the-front-row/the-overcrammed-overrushed-frenetic-joyless-and-briefly-violent-2022-oscars-ceremony"/>
+        <updated>2022-03-28T08:20:38.000Z</updated>
+        <summary type="html"><![CDATA[The Overcrammed, Overrushed, Frenetic, Joyless, and Briefly Violent 2022 Oscars Ceremony]]></summary>
+        <author>
+            <name>Richard Brody</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[右派的視頻網站Rumble有更大的野心]]></title>
         <id>https://www.nytimes.com/2022/03/28/business/media/rumble-conservatives.html</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Shira Ovide</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界有一個解決塑料問題的大好機會]]></title>
-        <id>https://www.theatlantic.com/science/archive/2022/03/plastic-pollution-treaty-un-environmental-assembly/627066/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/science/archive/2022/03/plastic-pollution-treaty-un-environmental-assembly/627066/?utm_source=feed"/>
-        <updated>2022-03-15T16:13:31.000Z</updated>
-        <summary type="html"><![CDATA[The World Has One Big Chance to Fix Plastics]]></summary>
-        <author>
-            <name>Tridibesh Dey</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>

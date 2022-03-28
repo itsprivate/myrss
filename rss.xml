@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 28 Mar 2022 07:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 08:40:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[2022年奥斯卡颁奖典礼上人满为患、拥挤不堪、狂热不已、毫无乐趣和短暂的暴力。]]></title>
+            <link>https://www.newyorker.com/culture/the-front-row/the-overcrammed-overrushed-frenetic-joyless-and-briefly-violent-2022-oscars-ceremony</link>
+            <guid>https://www.newyorker.com/culture/the-front-row/the-overcrammed-overrushed-frenetic-joyless-and-briefly-violent-2022-oscars-ceremony</guid>
+            <pubDate>Mon, 28 Mar 2022 08:20:38 GMT</pubDate>
+            <description><![CDATA[The Overcrammed, Overrushed, Frenetic, Joyless, and Briefly Violent 2022 Oscars Ceremony]]></description>
+        </item>
         <item>
             <title><![CDATA[右派的视频网站Rumble有更大的野心]]></title>
             <link>https://www.nytimes.com/2022/03/28/business/media/rumble-conservatives.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.nytimes.com/2022/03/15/technology/music-industy-digital-revolution.html</guid>
             <pubDate>Tue, 15 Mar 2022 16:35:26 GMT</pubDate>
             <description><![CDATA[Music’s Messy Digital Revolution]]></description>
-        </item>
-        <item>
-            <title><![CDATA[世界有一个解决塑料问题的大好机会]]></title>
-            <link>https://www.theatlantic.com/science/archive/2022/03/plastic-pollution-treaty-un-environmental-assembly/627066/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/science/archive/2022/03/plastic-pollution-treaty-un-environmental-assembly/627066/?utm_source=feed</guid>
-            <pubDate>Tue, 15 Mar 2022 16:13:31 GMT</pubDate>
-            <description><![CDATA[The World Has One Big Chance to Fix Plastics]]></description>
         </item>
     </channel>
 </rss>
