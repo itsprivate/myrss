@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-28T09:33:42.488Z</updated>
+    <updated>2022-03-28T09:51:26.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[世界正在一分為二]]></title>
+        <id>https://www.theatlantic.com/international/archive/2022/03/ukraine-war-china-covid-lockdowns/629401/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/international/archive/2022/03/ukraine-war-china-covid-lockdowns/629401/?utm_source=feed"/>
+        <updated>2022-03-28T09:34:39.000Z</updated>
+        <summary type="html"><![CDATA[The World Is Splitting in Two]]></summary>
+        <author>
+            <name>Michael Schuman</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一名士兵在烏克蘭失蹤，他的父親能否找到他？]]></title>
         <id>https://www.newyorker.com/video/watch/i-never-had-dreams-of-my-son</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[The Endgame of the Oligarch Who Owns Chelsea]]></summary>
         <author>
             <name>Sam Knight</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[莎拉-布魯姆-拉斯金撤回對聯邦儲備委員會的提名]]></title>
-        <id>https://www.newyorker.com/news/news-desk/sarah-bloom-raskin-withdraws-her-nomination-to-the-federal-reserve-board</id>
-        <link href="https://www.newyorker.com/news/news-desk/sarah-bloom-raskin-withdraws-her-nomination-to-the-federal-reserve-board"/>
-        <updated>2022-03-15T18:42:44.000Z</updated>
-        <summary type="html"><![CDATA[Sarah Bloom Raskin Withdraws Her Nomination to the Federal Reserve Board]]></summary>
-        <author>
-            <name>Jane Mayer</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
