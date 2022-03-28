@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 28 Mar 2022 15:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 15:38:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[问题比金尼-托马斯更严重]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/03/ginni-thomas-texts-january-6-trump/629386/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/03/ginni-thomas-texts-january-6-trump/629386/?utm_source=feed</guid>
+            <pubDate>Mon, 28 Mar 2022 15:10:20 GMT</pubDate>
+            <description><![CDATA[The Problem Is Bigger Than Ginni Thomas]]></description>
+        </item>
         <item>
             <title><![CDATA[想象一下没有星环的土星]]></title>
             <link>https://www.theatlantic.com/science/archive/2022/03/saturn-losing-rings-nasa-moons/629391/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://noahpinion.substack.com/p/china-russia-and-the-inflation-situation</guid>
             <pubDate>Mon, 14 Mar 2022 06:08:35 GMT</pubDate>
             <description><![CDATA[China, Russia, and the inflation situation]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中国有一个决定性的选择要做]]></title>
-            <link>https://noahpinion.substack.com/p/china-has-a-fateful-choice-to-make</link>
-            <guid>https://noahpinion.substack.com/p/china-has-a-fateful-choice-to-make</guid>
-            <pubDate>Wed, 16 Mar 2022 09:08:44 GMT</pubDate>
-            <description><![CDATA[China has a fateful choice to make]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-28T15:14:30.235Z</updated>
+    <updated>2022-03-28T15:38:24.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[问题比金尼-托马斯更严重]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/ginni-thomas-texts-january-6-trump/629386/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/ginni-thomas-texts-january-6-trump/629386/?utm_source=feed"/>
+        <updated>2022-03-28T15:10:20.000Z</updated>
+        <summary type="html"><![CDATA[The Problem Is Bigger Than Ginni Thomas]]></summary>
+        <author>
+            <name>David Frum</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[想象一下没有星环的土星]]></title>
         <id>https://www.theatlantic.com/science/archive/2022/03/saturn-losing-rings-nasa-moons/629391/?utm_source=feed</id>
@@ -6599,17 +6610,6 @@
         <link href="https://noahpinion.substack.com/p/china-russia-and-the-inflation-situation"/>
         <updated>2022-03-14T06:08:35.000Z</updated>
         <summary type="html"><![CDATA[China, Russia, and the inflation situation]]></summary>
-        <author>
-            <name>Noah Smith</name>
-            <uri>https://noahpinion.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国有一个决定性的选择要做]]></title>
-        <id>https://noahpinion.substack.com/p/china-has-a-fateful-choice-to-make</id>
-        <link href="https://noahpinion.substack.com/p/china-has-a-fateful-choice-to-make"/>
-        <updated>2022-03-16T09:08:44.000Z</updated>
-        <summary type="html"><![CDATA[China has a fateful choice to make]]></summary>
         <author>
             <name>Noah Smith</name>
             <uri>https://noahpinion.substack.com/feed</uri>
