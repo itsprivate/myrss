@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-28T08:40:35.044Z</updated>
+    <updated>2022-03-28T09:14:21.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[地理围栏改善了瑞典的安全状况]]></title>
+        <id>https://www.nytimes.com/2022/03/28/world/europe/geofencing-sweden.html</id>
+        <link href="https://www.nytimes.com/2022/03/28/world/europe/geofencing-sweden.html"/>
+        <updated>2022-03-28T09:00:14.000Z</updated>
+        <summary type="html"><![CDATA[Geofencing Improves Safety in Sweden]]></summary>
+        <author>
+            <name>Tanya Mohn</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社交媒体让青少年不快乐吗？这可能取决于他们的年龄。]]></title>
+        <id>https://www.nytimes.com/2022/03/28/science/adolescents-social-media.html</id>
+        <link href="https://www.nytimes.com/2022/03/28/science/adolescents-social-media.html"/>
+        <updated>2022-03-28T09:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Does Social Media Make Teens Unhappy? It May Depend on Their Age.]]></summary>
+        <author>
+            <name>Virginia Hughes</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在釜山，一个基于数据的智能城市正在形成。]]></title>
+        <id>https://www.nytimes.com/2022/03/28/technology/eco-delta-smart-village-busan-south-korea.html</id>
+        <link href="https://www.nytimes.com/2022/03/28/technology/eco-delta-smart-village-busan-south-korea.html"/>
+        <updated>2022-03-28T09:00:18.000Z</updated>
+        <summary type="html"><![CDATA[In Busan, A Smart City Built on Data Takes Shape]]></summary>
+        <author>
+            <name>David Belcher</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年奥斯卡颁奖典礼上人满为患、拥挤不堪、狂热不已、毫无乐趣和短暂的暴力。]]></title>
         <id>https://www.newyorker.com/culture/the-front-row/the-overcrammed-overrushed-frenetic-joyless-and-briefly-violent-2022-oscars-ceremony</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>Caroline Mimbs Nyce</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[动物也可以成为难民]]></title>
-        <id>https://www.theatlantic.com/photo/2022/03/ukraine-animal-refugees/627067/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/photo/2022/03/ukraine-animal-refugees/627067/?utm_source=feed"/>
-        <updated>2022-03-15T17:30:34.000Z</updated>
-        <summary type="html"><![CDATA[Animals Can Be Refugees, Too]]></summary>
-        <author>
-            <name>Alan Taylor</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安静的异议的应用]]></title>
-        <id>https://www.theatlantic.com/culture/archive/2022/03/ukraine-telegram-app-cybersecurity/627068/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/culture/archive/2022/03/ukraine-telegram-app-cybersecurity/627068/?utm_source=feed"/>
-        <updated>2022-03-15T16:37:58.000Z</updated>
-        <summary type="html"><![CDATA[The Apps of Quiet Dissent]]></summary>
-        <author>
-            <name>Gal Beckerman</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音乐的混乱的数字革命]]></title>
-        <id>https://www.nytimes.com/2022/03/15/technology/music-industy-digital-revolution.html</id>
-        <link href="https://www.nytimes.com/2022/03/15/technology/music-industy-digital-revolution.html"/>
-        <updated>2022-03-15T16:35:26.000Z</updated>
-        <summary type="html"><![CDATA[Music’s Messy Digital Revolution]]></summary>
-        <author>
-            <name>Shira Ovide</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>

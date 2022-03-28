@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 28 Mar 2022 08:40:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 09:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[地理围栏改善了瑞典的安全状况]]></title>
+            <link>https://www.nytimes.com/2022/03/28/world/europe/geofencing-sweden.html</link>
+            <guid>https://www.nytimes.com/2022/03/28/world/europe/geofencing-sweden.html</guid>
+            <pubDate>Mon, 28 Mar 2022 09:00:14 GMT</pubDate>
+            <description><![CDATA[Geofencing Improves Safety in Sweden]]></description>
+        </item>
+        <item>
+            <title><![CDATA[社交媒体让青少年不快乐吗？这可能取决于他们的年龄。]]></title>
+            <link>https://www.nytimes.com/2022/03/28/science/adolescents-social-media.html</link>
+            <guid>https://www.nytimes.com/2022/03/28/science/adolescents-social-media.html</guid>
+            <pubDate>Mon, 28 Mar 2022 09:00:16 GMT</pubDate>
+            <description><![CDATA[Does Social Media Make Teens Unhappy? It May Depend on Their Age.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在釜山，一个基于数据的智能城市正在形成。]]></title>
+            <link>https://www.nytimes.com/2022/03/28/technology/eco-delta-smart-village-busan-south-korea.html</link>
+            <guid>https://www.nytimes.com/2022/03/28/technology/eco-delta-smart-village-busan-south-korea.html</guid>
+            <pubDate>Mon, 28 Mar 2022 09:00:18 GMT</pubDate>
+            <description><![CDATA[In Busan, A Smart City Built on Data Takes Shape]]></description>
+        </item>
         <item>
             <title><![CDATA[2022年奥斯卡颁奖典礼上人满为患、拥挤不堪、狂热不已、毫无乐趣和短暂的暴力。]]></title>
             <link>https://www.newyorker.com/culture/the-front-row/the-overcrammed-overrushed-frenetic-joyless-and-briefly-violent-2022-oscars-ceremony</link>
@@ -4192,27 +4213,6 @@
             <guid>https://www.theatlantic.com/newsletters/archive/2022/03/west-in-denial-russia-ukraine-invasion/627063/?utm_source=feed</guid>
             <pubDate>Tue, 15 Mar 2022 17:12:27 GMT</pubDate>
             <description><![CDATA[<em>The Atlantic</em> Daily: Is the West in Denial?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[动物也可以成为难民]]></title>
-            <link>https://www.theatlantic.com/photo/2022/03/ukraine-animal-refugees/627067/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/photo/2022/03/ukraine-animal-refugees/627067/?utm_source=feed</guid>
-            <pubDate>Tue, 15 Mar 2022 17:30:34 GMT</pubDate>
-            <description><![CDATA[Animals Can Be Refugees, Too]]></description>
-        </item>
-        <item>
-            <title><![CDATA[安静的异议的应用]]></title>
-            <link>https://www.theatlantic.com/culture/archive/2022/03/ukraine-telegram-app-cybersecurity/627068/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/culture/archive/2022/03/ukraine-telegram-app-cybersecurity/627068/?utm_source=feed</guid>
-            <pubDate>Tue, 15 Mar 2022 16:37:58 GMT</pubDate>
-            <description><![CDATA[The Apps of Quiet Dissent]]></description>
-        </item>
-        <item>
-            <title><![CDATA[音乐的混乱的数字革命]]></title>
-            <link>https://www.nytimes.com/2022/03/15/technology/music-industy-digital-revolution.html</link>
-            <guid>https://www.nytimes.com/2022/03/15/technology/music-industy-digital-revolution.html</guid>
-            <pubDate>Tue, 15 Mar 2022 16:35:26 GMT</pubDate>
-            <description><![CDATA[Music’s Messy Digital Revolution]]></description>
         </item>
     </channel>
 </rss>
