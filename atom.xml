@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-28T04:42:19.473Z</updated>
+    <updated>2022-03-28T05:30:20.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[给我们所有的难民，该死的！]]></title>
+        <id>https://noahpinion.substack.com/p/give-us-all-the-refugees-dammit</id>
+        <link href="https://noahpinion.substack.com/p/give-us-all-the-refugees-dammit"/>
+        <updated>2022-03-28T05:16:10.000Z</updated>
+        <summary type="html"><![CDATA[Give us all the refugees, dammit!]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[卡通字幕大赛]]></title>
         <id>https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-04-04</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Emma Marris</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特尔将投资至少190亿美元在德国新建芯片厂]]></title>
-        <id>https://www.nytimes.com/2022/03/15/technology/intel-factory-germany.html</id>
-        <link href="https://www.nytimes.com/2022/03/15/technology/intel-factory-germany.html"/>
-        <updated>2022-03-15T13:14:51.000Z</updated>
-        <summary type="html"><![CDATA[Intel to Invest at Least $19 Billion for New Chips Plant in Germany]]></summary>
-        <author>
-            <name>Don Clark and Adam Satariano</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>

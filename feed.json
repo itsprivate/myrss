@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://noahpinion.substack.com/p/give-us-all-the-refugees-dammit",
+            "content_html": "",
+            "url": "https://noahpinion.substack.com/p/give-us-all-the-refugees-dammit",
+            "title": "给我们所有的难民，该死的！",
+            "summary": "Give us all the refugees, dammit!",
+            "date_modified": "2022-03-28T05:16:10.000Z",
+            "author": {
+                "name": "Noah Smith",
+                "url": "https://noahpinion.substack.com/feed"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-04-04",
             "content_html": "",
             "url": "https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-04-04",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Emma Marris",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/15/technology/intel-factory-germany.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/15/technology/intel-factory-germany.html",
-            "title": "英特尔将投资至少190亿美元在德国新建芯片厂",
-            "summary": "Intel to Invest at Least $19 Billion for New Chips Plant in Germany",
-            "date_modified": "2022-03-15T13:14:51.000Z",
-            "author": {
-                "name": "Don Clark and Adam Satariano",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
     ]
