@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 28 Mar 2022 06:57:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 07:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[右派的视频网站Rumble有更大的野心]]></title>
+            <link>https://www.nytimes.com/2022/03/28/business/media/rumble-conservatives.html</link>
+            <guid>https://www.nytimes.com/2022/03/28/business/media/rumble-conservatives.html</guid>
+            <pubDate>Mon, 28 Mar 2022 07:00:09 GMT</pubDate>
+            <description><![CDATA[Rumble, the Right’s Go-To Video Site, Has Much Bigger Ambitions]]></description>
+        </item>
+        <item>
+            <title><![CDATA[当诺基亚撤出俄罗斯时，一个庞大的监控系统仍然存在]]></title>
+            <link>https://www.nytimes.com/2022/03/28/technology/nokia-russia-surveillance-system-sorm.html</link>
+            <guid>https://www.nytimes.com/2022/03/28/technology/nokia-russia-surveillance-system-sorm.html</guid>
+            <pubDate>Mon, 28 Mar 2022 07:00:13 GMT</pubDate>
+            <description><![CDATA[When Nokia Pulled Out of Russia, a Vast Surveillance System Remained]]></description>
+        </item>
         <item>
             <title><![CDATA[奥斯卡颁奖典礼上威尔-史密斯的一记耳光，以及随之而来的欣喜若狂的模糊感]]></title>
             <link>https://www.newyorker.com/culture/cultural-comment/will-smiths-slap-and-the-ecstatic-blur-that-followed-at-the-oscars</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.theatlantic.com/science/archive/2022/03/plastic-pollution-treaty-un-environmental-assembly/627066/?utm_source=feed</guid>
             <pubDate>Tue, 15 Mar 2022 16:13:31 GMT</pubDate>
             <description><![CDATA[The World Has One Big Chance to Fix Plastics]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日漫画。3月15日，星期二]]></title>
-            <link>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-15th-campfire-spring</link>
-            <guid>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-15th-campfire-spring</guid>
-            <pubDate>Tue, 15 Mar 2022 15:54:37 GMT</pubDate>
-            <description><![CDATA[Daily Cartoon: Tuesday, March 15th]]></description>
-        </item>
-        <item>
-            <title><![CDATA[福克斯新闻摄影师在乌克兰被杀]]></title>
-            <link>https://www.nytimes.com/2022/03/15/business/media/ukraine-fox-news-cameraman-killed.html</link>
-            <guid>https://www.nytimes.com/2022/03/15/business/media/ukraine-fox-news-cameraman-killed.html</guid>
-            <pubDate>Tue, 15 Mar 2022 16:00:11 GMT</pubDate>
-            <description><![CDATA[Fox News Cameraman Is Killed in Ukraine]]></description>
         </item>
     </channel>
 </rss>

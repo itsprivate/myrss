@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-28T06:57:42.528Z</updated>
+    <updated>2022-03-28T07:13:15.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[右派的视频网站Rumble有更大的野心]]></title>
+        <id>https://www.nytimes.com/2022/03/28/business/media/rumble-conservatives.html</id>
+        <link href="https://www.nytimes.com/2022/03/28/business/media/rumble-conservatives.html"/>
+        <updated>2022-03-28T07:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Rumble, the Right’s Go-To Video Site, Has Much Bigger Ambitions]]></summary>
+        <author>
+            <name>Jeremy W. Peters</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当诺基亚撤出俄罗斯时，一个庞大的监控系统仍然存在]]></title>
+        <id>https://www.nytimes.com/2022/03/28/technology/nokia-russia-surveillance-system-sorm.html</id>
+        <link href="https://www.nytimes.com/2022/03/28/technology/nokia-russia-surveillance-system-sorm.html"/>
+        <updated>2022-03-28T07:00:13.000Z</updated>
+        <summary type="html"><![CDATA[When Nokia Pulled Out of Russia, a Vast Surveillance System Remained]]></summary>
+        <author>
+            <name>Adam Satariano, Paul Mozur and Aaron Krolik</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[奥斯卡颁奖典礼上威尔-史密斯的一记耳光，以及随之而来的欣喜若狂的模糊感]]></title>
         <id>https://www.newyorker.com/culture/cultural-comment/will-smiths-slap-and-the-ecstatic-blur-that-followed-at-the-oscars</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Tridibesh Dey</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日漫画。3月15日，星期二]]></title>
-        <id>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-15th-campfire-spring</id>
-        <link href="https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-15th-campfire-spring"/>
-        <updated>2022-03-15T15:54:37.000Z</updated>
-        <summary type="html"><![CDATA[Daily Cartoon: Tuesday, March 15th]]></summary>
-        <author>
-            <name>Sarah Kempa</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[福克斯新闻摄影师在乌克兰被杀]]></title>
-        <id>https://www.nytimes.com/2022/03/15/business/media/ukraine-fox-news-cameraman-killed.html</id>
-        <link href="https://www.nytimes.com/2022/03/15/business/media/ukraine-fox-news-cameraman-killed.html"/>
-        <updated>2022-03-15T16:00:11.000Z</updated>
-        <summary type="html"><![CDATA[Fox News Cameraman Is Killed in Ukraine]]></summary>
-        <author>
-            <name>Michael M. Grynbaum</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>
