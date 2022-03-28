@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 28 Mar 2022 21:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 22:34:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[20位读者对竞技体育中的变性人的看法]]></title>
+            <link>https://www.theatlantic.com/newsletters/archive/2022/03/20-reader-views-on-transgender-people-in-competitive-sports/629410/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/newsletters/archive/2022/03/20-reader-views-on-transgender-people-in-competitive-sports/629410/?utm_source=feed</guid>
+            <pubDate>Mon, 28 Mar 2022 21:49:05 GMT</pubDate>
+            <description><![CDATA[20 Reader Views on Transgender People in Competitive Sports]]></description>
+        </item>
         <item>
             <title><![CDATA[现在不要松懈]]></title>
             <link>https://www.theatlantic.com/ideas/archive/2022/03/west-strategy-against-russia-ukraine-war/629387/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://noahpinion.substack.com/p/interview-alec-stapp-and-caleb-watney</guid>
             <pubDate>Wed, 16 Feb 2022 09:36:05 GMT</pubDate>
             <description><![CDATA[Interview: Alec Stapp and Caleb Watney of the Institute for Progress]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如果普京退让乌克兰，谁赢谁输？]]></title>
-            <link>https://noahpinion.substack.com/p/if-putin-backs-off-ukraine-who-wins</link>
-            <guid>https://noahpinion.substack.com/p/if-putin-backs-off-ukraine-who-wins</guid>
-            <pubDate>Thu, 17 Feb 2022 09:03:31 GMT</pubDate>
-            <description><![CDATA[If Putin backs off Ukraine, who wins and who loses?]]></description>
         </item>
     </channel>
 </rss>

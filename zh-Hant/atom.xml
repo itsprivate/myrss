@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-28T21:12:33.582Z</updated>
+    <updated>2022-03-28T22:34:49.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[20位讀者對競技體育中的變性人的看法]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/03/20-reader-views-on-transgender-people-in-competitive-sports/629410/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/20-reader-views-on-transgender-people-in-competitive-sports/629410/?utm_source=feed"/>
+        <updated>2022-03-28T21:49:05.000Z</updated>
+        <summary type="html"><![CDATA[20 Reader Views on Transgender People in Competitive Sports]]></summary>
+        <author>
+            <name>Conor Friedersdorf</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[現在不要鬆懈]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/03/west-strategy-against-russia-ukraine-war/629387/?utm_source=feed</id>
@@ -6599,17 +6610,6 @@
         <link href="https://noahpinion.substack.com/p/interview-alec-stapp-and-caleb-watney"/>
         <updated>2022-02-16T09:36:05.000Z</updated>
         <summary type="html"><![CDATA[Interview: Alec Stapp and Caleb Watney of the Institute for Progress]]></summary>
-        <author>
-            <name>Noah Smith</name>
-            <uri>https://noahpinion.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果普京退讓烏克蘭，誰贏誰輸？]]></title>
-        <id>https://noahpinion.substack.com/p/if-putin-backs-off-ukraine-who-wins</id>
-        <link href="https://noahpinion.substack.com/p/if-putin-backs-off-ukraine-who-wins"/>
-        <updated>2022-02-17T09:03:31.000Z</updated>
-        <summary type="html"><![CDATA[If Putin backs off Ukraine, who wins and who loses?]]></summary>
         <author>
             <name>Noah Smith</name>
             <uri>https://noahpinion.substack.com/feed</uri>
