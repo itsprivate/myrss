@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-28T05:30:20.709Z</updated>
+    <updated>2022-03-28T06:57:42.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[奧斯卡頒獎典禮上威爾-史密斯的一記耳光，以及隨之而來的欣喜若狂的模糊感]]></title>
+        <id>https://www.newyorker.com/culture/cultural-comment/will-smiths-slap-and-the-ecstatic-blur-that-followed-at-the-oscars</id>
+        <link href="https://www.newyorker.com/culture/cultural-comment/will-smiths-slap-and-the-ecstatic-blur-that-followed-at-the-oscars"/>
+        <updated>2022-03-28T06:41:28.000Z</updated>
+        <summary type="html"><![CDATA[Will Smith’s Slap, and the Ecstatic Blur That Followed, at the Oscars]]></summary>
+        <author>
+            <name>Vinson Cunningham</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年奧斯卡時尚：年輕的和不穿襯衫的人]]></title>
+        <id>https://www.newyorker.com/culture/on-and-off-the-avenue/oscars-fashion-2022-the-young-and-the-shirtless</id>
+        <link href="https://www.newyorker.com/culture/on-and-off-the-avenue/oscars-fashion-2022-the-young-and-the-shirtless"/>
+        <updated>2022-03-28T06:13:54.000Z</updated>
+        <summary type="html"><![CDATA[Oscars Fashion 2022: The Young and the Shirtless]]></summary>
+        <author>
+            <name>Rachel Syme</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[給我們所有的難民，該死的！]]></title>
         <id>https://noahpinion.substack.com/p/give-us-all-the-refugees-dammit</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Michael M. Grynbaum</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西方應該停止為全球貪汙腐敗分子提供如此多的幫助]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/russia-ukraine-senate-testimony-autocracy-kleptocrats/627061/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/russia-ukraine-senate-testimony-autocracy-kleptocrats/627061/?utm_source=feed"/>
-        <updated>2022-03-15T15:12:25.000Z</updated>
-        <summary type="html"><![CDATA[The West Should Stop Doing Global Kleptocrats So Many Favors]]></summary>
-        <author>
-            <name>Anne Applebaum</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們需要告訴人們他們的房子會被燒燬]]></title>
-        <id>https://www.theatlantic.com/science/archive/2022/03/wildfire-insurance-california-fair-plan/627065/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/science/archive/2022/03/wildfire-insurance-california-fair-plan/627065/?utm_source=feed"/>
-        <updated>2022-03-15T13:42:38.000Z</updated>
-        <summary type="html"><![CDATA[We Need to Tell People Their Houses Are Going to Burn]]></summary>
-        <author>
-            <name>Emma Marris</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>

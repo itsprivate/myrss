@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 28 Mar 2022 05:30:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 06:57:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[奧斯卡頒獎典禮上威爾-史密斯的一記耳光，以及隨之而來的欣喜若狂的模糊感]]></title>
+            <link>https://www.newyorker.com/culture/cultural-comment/will-smiths-slap-and-the-ecstatic-blur-that-followed-at-the-oscars</link>
+            <guid>https://www.newyorker.com/culture/cultural-comment/will-smiths-slap-and-the-ecstatic-blur-that-followed-at-the-oscars</guid>
+            <pubDate>Mon, 28 Mar 2022 06:41:28 GMT</pubDate>
+            <description><![CDATA[Will Smith’s Slap, and the Ecstatic Blur That Followed, at the Oscars]]></description>
+        </item>
+        <item>
+            <title><![CDATA[2022年奧斯卡時尚：年輕的和不穿襯衫的人]]></title>
+            <link>https://www.newyorker.com/culture/on-and-off-the-avenue/oscars-fashion-2022-the-young-and-the-shirtless</link>
+            <guid>https://www.newyorker.com/culture/on-and-off-the-avenue/oscars-fashion-2022-the-young-and-the-shirtless</guid>
+            <pubDate>Mon, 28 Mar 2022 06:13:54 GMT</pubDate>
+            <description><![CDATA[Oscars Fashion 2022: The Young and the Shirtless]]></description>
+        </item>
         <item>
             <title><![CDATA[給我們所有的難民，該死的！]]></title>
             <link>https://noahpinion.substack.com/p/give-us-all-the-refugees-dammit</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.nytimes.com/2022/03/15/business/media/ukraine-fox-news-cameraman-killed.html</guid>
             <pubDate>Tue, 15 Mar 2022 16:00:11 GMT</pubDate>
             <description><![CDATA[Fox News Cameraman Is Killed in Ukraine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[西方應該停止為全球貪汙腐敗分子提供如此多的幫助]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/russia-ukraine-senate-testimony-autocracy-kleptocrats/627061/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/russia-ukraine-senate-testimony-autocracy-kleptocrats/627061/?utm_source=feed</guid>
-            <pubDate>Tue, 15 Mar 2022 15:12:25 GMT</pubDate>
-            <description><![CDATA[The West Should Stop Doing Global Kleptocrats So Many Favors]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我們需要告訴人們他們的房子會被燒燬]]></title>
-            <link>https://www.theatlantic.com/science/archive/2022/03/wildfire-insurance-california-fair-plan/627065/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/science/archive/2022/03/wildfire-insurance-california-fair-plan/627065/?utm_source=feed</guid>
-            <pubDate>Tue, 15 Mar 2022 13:42:38 GMT</pubDate>
-            <description><![CDATA[We Need to Tell People Their Houses Are Going to Burn]]></description>
         </item>
     </channel>
 </rss>
