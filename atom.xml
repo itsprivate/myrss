@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-28T22:34:49.202Z</updated>
+    <updated>2022-03-28T23:13:01.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一位联邦法官刚刚说出了关于特朗普叛乱的真相]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/federal-judge-tells-truth-about-trumps-insurrection/629411/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/federal-judge-tells-truth-about-trumps-insurrection/629411/?utm_source=feed"/>
+        <updated>2022-03-28T22:51:29.000Z</updated>
+        <summary type="html"><![CDATA[A Federal Judge Just Told the Truth About Trump's Insurrection]]></summary>
+        <author>
+            <name>David A. Graham</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20位读者对竞技体育中的变性人的看法]]></title>
         <id>https://www.theatlantic.com/newsletters/archive/2022/03/20-reader-views-on-transgender-people-in-competitive-sports/629410/?utm_source=feed</id>
@@ -6599,17 +6610,6 @@
         <link href="https://noahpinion.substack.com/p/nfts-are-just-the-beginning-of-the"/>
         <updated>2022-02-15T07:01:49.000Z</updated>
         <summary type="html"><![CDATA[NFTs are just the beginning of the Crypto Wealth Splash]]></summary>
-        <author>
-            <name>Noah Smith</name>
-            <uri>https://noahpinion.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[访谈。进步研究所的阿莱克-斯塔普和卡勒-沃特尼]]></title>
-        <id>https://noahpinion.substack.com/p/interview-alec-stapp-and-caleb-watney</id>
-        <link href="https://noahpinion.substack.com/p/interview-alec-stapp-and-caleb-watney"/>
-        <updated>2022-02-16T09:36:05.000Z</updated>
-        <summary type="html"><![CDATA[Interview: Alec Stapp and Caleb Watney of the Institute for Progress]]></summary>
         <author>
             <name>Noah Smith</name>
             <uri>https://noahpinion.substack.com/feed</uri>

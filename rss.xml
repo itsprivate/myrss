@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 28 Mar 2022 22:34:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 23:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一位联邦法官刚刚说出了关于特朗普叛乱的真相]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/03/federal-judge-tells-truth-about-trumps-insurrection/629411/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/03/federal-judge-tells-truth-about-trumps-insurrection/629411/?utm_source=feed</guid>
+            <pubDate>Mon, 28 Mar 2022 22:51:29 GMT</pubDate>
+            <description><![CDATA[A Federal Judge Just Told the Truth About Trump's Insurrection]]></description>
+        </item>
         <item>
             <title><![CDATA[20位读者对竞技体育中的变性人的看法]]></title>
             <link>https://www.theatlantic.com/newsletters/archive/2022/03/20-reader-views-on-transgender-people-in-competitive-sports/629410/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://noahpinion.substack.com/p/nfts-are-just-the-beginning-of-the</guid>
             <pubDate>Tue, 15 Feb 2022 07:01:49 GMT</pubDate>
             <description><![CDATA[NFTs are just the beginning of the Crypto Wealth Splash]]></description>
-        </item>
-        <item>
-            <title><![CDATA[访谈。进步研究所的阿莱克-斯塔普和卡勒-沃特尼]]></title>
-            <link>https://noahpinion.substack.com/p/interview-alec-stapp-and-caleb-watney</link>
-            <guid>https://noahpinion.substack.com/p/interview-alec-stapp-and-caleb-watney</guid>
-            <pubDate>Wed, 16 Feb 2022 09:36:05 GMT</pubDate>
-            <description><![CDATA[Interview: Alec Stapp and Caleb Watney of the Institute for Progress]]></description>
         </item>
     </channel>
 </rss>
