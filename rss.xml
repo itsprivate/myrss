@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 28 Mar 2022 19:37:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 20:14:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[信息市场、决策市场、注意力市场、行动市场]]></title>
+            <link>https://astralcodexten.substack.com/p/information-markets-decision-markets</link>
+            <guid>https://astralcodexten.substack.com/p/information-markets-decision-markets</guid>
+            <pubDate>Mon, 28 Mar 2022 20:01:30 GMT</pubDate>
+            <description><![CDATA[Information Markets, Decision Markets, Attention Markets, Action Markets]]></description>
+        </item>
+        <item>
+            <title><![CDATA[吉尔-莱波尔谈父母的权利和文化战争]]></title>
+            <link>https://www.newyorker.com/podcast/politics-and-more/tnypoliticalscene-032822</link>
+            <guid>https://www.newyorker.com/podcast/politics-and-more/tnypoliticalscene-032822</guid>
+            <pubDate>Mon, 28 Mar 2022 20:00:00 GMT</pubDate>
+            <description><![CDATA[Jill Lepore on Parents’ Rights and the Culture War]]></description>
+        </item>
+        <item>
+            <title><![CDATA[警惕不假思索的希特勒比较]]></title>
+            <link>https://www.currentaffairs.org/2022/03/beware-thoughtless-hitler-comparisons/</link>
+            <guid>https://www.currentaffairs.org/2022/03/beware-thoughtless-hitler-comparisons/</guid>
+            <pubDate>Mon, 28 Mar 2022 16:10:01 GMT</pubDate>
+            <description><![CDATA[Beware Thoughtless Hitler Comparisons]]></description>
+        </item>
         <item>
             <title><![CDATA[威尔-史密斯让奥斯卡颁奖典礼令人难忘]]></title>
             <link>https://www.newyorker.com/culture/culture-desk/will-smith-made-the-oscars-memorable</link>
@@ -4192,27 +4213,6 @@
             <guid>https://noahpinion.substack.com/p/interview-emi-nakamura-macroeconomist</guid>
             <pubDate>Mon, 21 Feb 2022 07:00:33 GMT</pubDate>
             <description><![CDATA[Interview: Emi Nakamura, macroeconomist]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄乌战争的经济后果]]></title>
-            <link>https://noahpinion.substack.com/p/the-economic-consequences-of-a-russia</link>
-            <guid>https://noahpinion.substack.com/p/the-economic-consequences-of-a-russia</guid>
-            <pubDate>Wed, 23 Feb 2022 08:58:57 GMT</pubDate>
-            <description><![CDATA[The economic consequences of a Russia-Ukraine war]]></description>
-        </item>
-        <item>
-            <title><![CDATA[清醒的时刻]]></title>
-            <link>https://noahpinion.substack.com/p/a-moment-of-clarity</link>
-            <guid>https://noahpinion.substack.com/p/a-moment-of-clarity</guid>
-            <pubDate>Fri, 25 Feb 2022 04:08:24 GMT</pubDate>
-            <description><![CDATA[A moment of clarity]]></description>
-        </item>
-        <item>
-            <title><![CDATA[大制裁。快速解释]]></title>
-            <link>https://noahpinion.substack.com/p/the-big-sanctions-a-quick-explainer</link>
-            <guid>https://noahpinion.substack.com/p/the-big-sanctions-a-quick-explainer</guid>
-            <pubDate>Sun, 27 Feb 2022 09:32:16 GMT</pubDate>
-            <description><![CDATA[The big sanctions: A quick explainer]]></description>
         </item>
     </channel>
 </rss>

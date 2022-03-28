@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "https://astralcodexten.substack.com/p/information-markets-decision-markets",
+            "content_html": "",
+            "url": "https://astralcodexten.substack.com/p/information-markets-decision-markets",
+            "title": "信息市場、決策市場、注意力市場、行動市場",
+            "summary": "Information Markets, Decision Markets, Attention Markets, Action Markets",
+            "date_modified": "2022-03-28T20:01:30.000Z",
+            "author": {
+                "name": "Scott Alexander",
+                "url": "https://astralcodexten.substack.com/feed"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/podcast/politics-and-more/tnypoliticalscene-032822",
+            "content_html": "",
+            "url": "https://www.newyorker.com/podcast/politics-and-more/tnypoliticalscene-032822",
+            "title": "吉爾-萊波爾談父母的權利和文化戰爭",
+            "summary": "Jill Lepore on Parents’ Rights and the Culture War",
+            "date_modified": "2022-03-28T20:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.currentaffairs.org/2022/03/beware-thoughtless-hitler-comparisons/",
+            "content_html": "",
+            "url": "https://www.currentaffairs.org/2022/03/beware-thoughtless-hitler-comparisons/",
+            "title": "警惕不假思索的希特勒比較",
+            "summary": "Beware Thoughtless Hitler Comparisons",
+            "date_modified": "2022-03-28T16:10:01.000Z",
+            "author": {
+                "name": "Nathan J. Robinson",
+                "url": "https://www.currentaffairs.org/feed"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/culture/culture-desk/will-smith-made-the-oscars-memorable",
             "content_html": "",
             "url": "https://www.newyorker.com/culture/culture-desk/will-smith-made-the-oscars-memorable",
@@ -7169,42 +7205,6 @@
             "title": "訪談。中村惠美，宏觀經濟學家",
             "summary": "Interview: Emi Nakamura, macroeconomist",
             "date_modified": "2022-02-21T07:00:33.000Z",
-            "author": {
-                "name": "Noah Smith",
-                "url": "https://noahpinion.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://noahpinion.substack.com/p/the-economic-consequences-of-a-russia",
-            "content_html": "",
-            "url": "https://noahpinion.substack.com/p/the-economic-consequences-of-a-russia",
-            "title": "俄烏戰爭的經濟後果",
-            "summary": "The economic consequences of a Russia-Ukraine war",
-            "date_modified": "2022-02-23T08:58:57.000Z",
-            "author": {
-                "name": "Noah Smith",
-                "url": "https://noahpinion.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://noahpinion.substack.com/p/a-moment-of-clarity",
-            "content_html": "",
-            "url": "https://noahpinion.substack.com/p/a-moment-of-clarity",
-            "title": "清醒的時刻",
-            "summary": "A moment of clarity",
-            "date_modified": "2022-02-25T04:08:24.000Z",
-            "author": {
-                "name": "Noah Smith",
-                "url": "https://noahpinion.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://noahpinion.substack.com/p/the-big-sanctions-a-quick-explainer",
-            "content_html": "",
-            "url": "https://noahpinion.substack.com/p/the-big-sanctions-a-quick-explainer",
-            "title": "大制裁。快速解釋",
-            "summary": "The big sanctions: A quick explainer",
-            "date_modified": "2022-02-27T09:32:16.000Z",
             "author": {
                 "name": "Noah Smith",
                 "url": "https://noahpinion.substack.com/feed"
