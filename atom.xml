@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-28T18:40:25.089Z</updated>
+    <updated>2022-03-28T19:37:44.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[威尔-史密斯让奥斯卡颁奖典礼令人难忘]]></title>
+        <id>https://www.newyorker.com/culture/culture-desk/will-smith-made-the-oscars-memorable</id>
+        <link href="https://www.newyorker.com/culture/culture-desk/will-smith-made-the-oscars-memorable"/>
+        <updated>2022-03-28T19:23:55.000Z</updated>
+        <summary type="html"><![CDATA[Will Smith Made the Oscars Memorable]]></summary>
+        <author>
+            <name>Anthony Lane</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[樱花丛中]]></title>
         <id>https://www.theatlantic.com/photo/2022/03/photos-cherry-blossoms/629406/?utm_source=feed</id>
@@ -6599,17 +6610,6 @@
         <link href="https://noahpinion.substack.com/p/the-big-sanctions-a-quick-explainer"/>
         <updated>2022-02-27T09:32:16.000Z</updated>
         <summary type="html"><![CDATA[The big sanctions: A quick explainer]]></summary>
-        <author>
-            <name>Noah Smith</name>
-            <uri>https://noahpinion.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[视频采访。俄罗斯国防政策专家Rob Lee]]></title>
-        <id>https://noahpinion.substack.com/p/video-interview-rob-lee-russian-defense</id>
-        <link href="https://noahpinion.substack.com/p/video-interview-rob-lee-russian-defense"/>
-        <updated>2022-02-28T05:17:49.000Z</updated>
-        <summary type="html"><![CDATA[Video interview: Rob Lee, Russian defense policy specialist]]></summary>
         <author>
             <name>Noah Smith</name>
             <uri>https://noahpinion.substack.com/feed</uri>
