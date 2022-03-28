@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 28 Mar 2022 15:57:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 17:09:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[每日漫畫。3月28日，星期一]]></title>
+            <link>https://www.newyorker.com/cartoons/daily-cartoon/monday-march-28th-oscars-will-smith-slap</link>
+            <guid>https://www.newyorker.com/cartoons/daily-cartoon/monday-march-28th-oscars-will-smith-slap</guid>
+            <pubDate>Mon, 28 Mar 2022 16:48:23 GMT</pubDate>
+            <description><![CDATA[Daily Cartoon: Monday, March 28th]]></description>
+        </item>
+        <item>
+            <title><![CDATA[當暴力感覺像一個位子時]]></title>
+            <link>https://www.theatlantic.com/culture/archive/2022/03/will-smith-slap-chris-rock-oscars/629405/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/culture/archive/2022/03/will-smith-slap-chris-rock-oscars/629405/?utm_source=feed</guid>
+            <pubDate>Mon, 28 Mar 2022 16:46:25 GMT</pubDate>
+            <description><![CDATA[When Violence Feels Like a Bit]]></description>
+        </item>
         <item>
             <title><![CDATA[幸運-快樂]]></title>
             <link>https://www.newyorker.com/magazine/2022/04/04/lucky-go-happy</link>
@@ -4199,20 +4213,6 @@
             <guid>https://noahpinion.substack.com/p/the-tamerlane-principle</guid>
             <pubDate>Sun, 06 Mar 2022 10:09:15 GMT</pubDate>
             <description><![CDATA[The Tamerlane Principle]]></description>
-        </item>
-        <item>
-            <title><![CDATA[到目前為止，大制裁對俄羅斯有什麼傷害？]]></title>
-            <link>https://noahpinion.substack.com/p/how-are-the-big-sanctions-hurting</link>
-            <guid>https://noahpinion.substack.com/p/how-are-the-big-sanctions-hurting</guid>
-            <pubDate>Mon, 07 Mar 2022 10:01:18 GMT</pubDate>
-            <description><![CDATA[How are the Big Sanctions hurting Russia so far?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[烏克蘭戰爭和麵包的價格]]></title>
-            <link>https://noahpinion.substack.com/p/the-ukraine-war-and-the-price-of</link>
-            <guid>https://noahpinion.substack.com/p/the-ukraine-war-and-the-price-of</guid>
-            <pubDate>Tue, 08 Mar 2022 09:38:04 GMT</pubDate>
-            <description><![CDATA[The Ukraine War and the price of bread]]></description>
         </item>
     </channel>
 </rss>

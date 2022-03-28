@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-28T15:57:17.201Z</updated>
+    <updated>2022-03-28T17:09:10.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每日漫畫。3月28日，星期一]]></title>
+        <id>https://www.newyorker.com/cartoons/daily-cartoon/monday-march-28th-oscars-will-smith-slap</id>
+        <link href="https://www.newyorker.com/cartoons/daily-cartoon/monday-march-28th-oscars-will-smith-slap"/>
+        <updated>2022-03-28T16:48:23.000Z</updated>
+        <summary type="html"><![CDATA[Daily Cartoon: Monday, March 28th]]></summary>
+        <author>
+            <name>Zoe Si</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[當暴力感覺像一個位子時]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/03/will-smith-slap-chris-rock-oscars/629405/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/03/will-smith-slap-chris-rock-oscars/629405/?utm_source=feed"/>
+        <updated>2022-03-28T16:46:25.000Z</updated>
+        <summary type="html"><![CDATA[When Violence Feels Like a Bit]]></summary>
+        <author>
+            <name>Sophie Gilbert</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[幸運-快樂]]></title>
         <id>https://www.newyorker.com/magazine/2022/04/04/lucky-go-happy</id>
@@ -6588,28 +6610,6 @@
         <link href="https://noahpinion.substack.com/p/the-tamerlane-principle"/>
         <updated>2022-03-06T10:09:15.000Z</updated>
         <summary type="html"><![CDATA[The Tamerlane Principle]]></summary>
-        <author>
-            <name>Noah Smith</name>
-            <uri>https://noahpinion.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[到目前為止，大制裁對俄羅斯有什麼傷害？]]></title>
-        <id>https://noahpinion.substack.com/p/how-are-the-big-sanctions-hurting</id>
-        <link href="https://noahpinion.substack.com/p/how-are-the-big-sanctions-hurting"/>
-        <updated>2022-03-07T10:01:18.000Z</updated>
-        <summary type="html"><![CDATA[How are the Big Sanctions hurting Russia so far?]]></summary>
-        <author>
-            <name>Noah Smith</name>
-            <uri>https://noahpinion.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭戰爭和麵包的價格]]></title>
-        <id>https://noahpinion.substack.com/p/the-ukraine-war-and-the-price-of</id>
-        <link href="https://noahpinion.substack.com/p/the-ukraine-war-and-the-price-of"/>
-        <updated>2022-03-08T09:38:04.000Z</updated>
-        <summary type="html"><![CDATA[The Ukraine War and the price of bread]]></summary>
         <author>
             <name>Noah Smith</name>
             <uri>https://noahpinion.substack.com/feed</uri>
