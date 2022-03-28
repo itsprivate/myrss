@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-28T15:38:24.760Z</updated>
+    <updated>2022-03-28T15:57:17.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[幸運-快樂]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/04/lucky-go-happy</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/04/lucky-go-happy"/>
+        <updated>2022-03-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lucky-Go-Happy]]></summary>
+        <author>
+            <name>David Sedaris</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[常春藤盟校如何與學生反目成仇]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/04/mackenzie-fierceton-rhodes-scholarship-university-of-pennsylvania</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/04/mackenzie-fierceton-rhodes-scholarship-university-of-pennsylvania"/>
+        <updated>2022-03-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How an Ivy League School Turned Against a Student]]></summary>
+        <author>
+            <name>Rachel Aviv</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[羅伯特-埃格斯的歷史觀進入主流社會]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/04/robert-eggerss-historical-visions-go-mainstream</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/04/robert-eggerss-historical-visions-go-mainstream"/>
+        <updated>2022-03-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Robert Eggers’s Historical Visions Go Mainstream]]></summary>
+        <author>
+            <name>Sam Knight</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[殺死狼來擁有自由黨？]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/04/killing-wolves-to-own-the-libs-idaho</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/04/killing-wolves-to-own-the-libs-idaho"/>
+        <updated>2022-03-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Killing Wolves to Own the Libs?]]></summary>
+        <author>
+            <name>Paige Williams</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[問題比金尼-托馬斯更嚴重]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/03/ginni-thomas-texts-january-6-trump/629386/?utm_source=feed</id>
@@ -6566,50 +6610,6 @@
         <link href="https://noahpinion.substack.com/p/the-ukraine-war-and-the-price-of"/>
         <updated>2022-03-08T09:38:04.000Z</updated>
         <summary type="html"><![CDATA[The Ukraine War and the price of bread]]></summary>
-        <author>
-            <name>Noah Smith</name>
-            <uri>https://noahpinion.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高油價會導致經濟衰退嗎？]]></title>
-        <id>https://noahpinion.substack.com/p/will-high-oil-prices-cause-a-recession</id>
-        <link href="https://noahpinion.substack.com/p/will-high-oil-prices-cause-a-recession"/>
-        <updated>2022-03-10T08:11:16.000Z</updated>
-        <summary type="html"><![CDATA[Will high oil prices cause a recession?]]></summary>
-        <author>
-            <name>Noah Smith</name>
-            <uri>https://noahpinion.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是時候進行外交革命了]]></title>
-        <id>https://noahpinion.substack.com/p/time-for-a-diplomatic-revolution</id>
-        <link href="https://noahpinion.substack.com/p/time-for-a-diplomatic-revolution"/>
-        <updated>2022-03-11T11:15:09.000Z</updated>
-        <summary type="html"><![CDATA[Time for a Diplomatic Revolution]]></summary>
-        <author>
-            <name>Noah Smith</name>
-            <uri>https://noahpinion.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要擔心去美元化的問題]]></title>
-        <id>https://noahpinion.substack.com/p/dont-worry-about-de-dollarization</id>
-        <link href="https://noahpinion.substack.com/p/dont-worry-about-de-dollarization"/>
-        <updated>2022-03-13T07:24:32.000Z</updated>
-        <summary type="html"><![CDATA[Don't worry about de-dollarization]]></summary>
-        <author>
-            <name>Noah Smith</name>
-            <uri>https://noahpinion.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中國、俄羅斯和通貨膨脹形勢]]></title>
-        <id>https://noahpinion.substack.com/p/china-russia-and-the-inflation-situation</id>
-        <link href="https://noahpinion.substack.com/p/china-russia-and-the-inflation-situation"/>
-        <updated>2022-03-14T06:08:35.000Z</updated>
-        <summary type="html"><![CDATA[China, Russia, and the inflation situation]]></summary>
         <author>
             <name>Noah Smith</name>
             <uri>https://noahpinion.substack.com/feed</uri>

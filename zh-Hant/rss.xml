@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 28 Mar 2022 15:38:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 15:57:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,34 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[幸運-快樂]]></title>
+            <link>https://www.newyorker.com/magazine/2022/04/04/lucky-go-happy</link>
+            <guid>https://www.newyorker.com/magazine/2022/04/04/lucky-go-happy</guid>
+            <pubDate>Mon, 28 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Lucky-Go-Happy]]></description>
+        </item>
+        <item>
+            <title><![CDATA[常春藤盟校如何與學生反目成仇]]></title>
+            <link>https://www.newyorker.com/magazine/2022/04/04/mackenzie-fierceton-rhodes-scholarship-university-of-pennsylvania</link>
+            <guid>https://www.newyorker.com/magazine/2022/04/04/mackenzie-fierceton-rhodes-scholarship-university-of-pennsylvania</guid>
+            <pubDate>Mon, 28 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[How an Ivy League School Turned Against a Student]]></description>
+        </item>
+        <item>
+            <title><![CDATA[羅伯特-埃格斯的歷史觀進入主流社會]]></title>
+            <link>https://www.newyorker.com/magazine/2022/04/04/robert-eggerss-historical-visions-go-mainstream</link>
+            <guid>https://www.newyorker.com/magazine/2022/04/04/robert-eggerss-historical-visions-go-mainstream</guid>
+            <pubDate>Mon, 28 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Robert Eggers’s Historical Visions Go Mainstream]]></description>
+        </item>
+        <item>
+            <title><![CDATA[殺死狼來擁有自由黨？]]></title>
+            <link>https://www.newyorker.com/magazine/2022/04/04/killing-wolves-to-own-the-libs-idaho</link>
+            <guid>https://www.newyorker.com/magazine/2022/04/04/killing-wolves-to-own-the-libs-idaho</guid>
+            <pubDate>Mon, 28 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Killing Wolves to Own the Libs?]]></description>
+        </item>
         <item>
             <title><![CDATA[問題比金尼-托馬斯更嚴重]]></title>
             <link>https://www.theatlantic.com/ideas/archive/2022/03/ginni-thomas-texts-january-6-trump/629386/?utm_source=feed</link>
@@ -4185,34 +4213,6 @@
             <guid>https://noahpinion.substack.com/p/the-ukraine-war-and-the-price-of</guid>
             <pubDate>Tue, 08 Mar 2022 09:38:04 GMT</pubDate>
             <description><![CDATA[The Ukraine War and the price of bread]]></description>
-        </item>
-        <item>
-            <title><![CDATA[高油價會導致經濟衰退嗎？]]></title>
-            <link>https://noahpinion.substack.com/p/will-high-oil-prices-cause-a-recession</link>
-            <guid>https://noahpinion.substack.com/p/will-high-oil-prices-cause-a-recession</guid>
-            <pubDate>Thu, 10 Mar 2022 08:11:16 GMT</pubDate>
-            <description><![CDATA[Will high oil prices cause a recession?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[是時候進行外交革命了]]></title>
-            <link>https://noahpinion.substack.com/p/time-for-a-diplomatic-revolution</link>
-            <guid>https://noahpinion.substack.com/p/time-for-a-diplomatic-revolution</guid>
-            <pubDate>Fri, 11 Mar 2022 11:15:09 GMT</pubDate>
-            <description><![CDATA[Time for a Diplomatic Revolution]]></description>
-        </item>
-        <item>
-            <title><![CDATA[不要擔心去美元化的問題]]></title>
-            <link>https://noahpinion.substack.com/p/dont-worry-about-de-dollarization</link>
-            <guid>https://noahpinion.substack.com/p/dont-worry-about-de-dollarization</guid>
-            <pubDate>Sun, 13 Mar 2022 07:24:32 GMT</pubDate>
-            <description><![CDATA[Don't worry about de-dollarization]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中國、俄羅斯和通貨膨脹形勢]]></title>
-            <link>https://noahpinion.substack.com/p/china-russia-and-the-inflation-situation</link>
-            <guid>https://noahpinion.substack.com/p/china-russia-and-the-inflation-situation</guid>
-            <pubDate>Mon, 14 Mar 2022 06:08:35 GMT</pubDate>
-            <description><![CDATA[China, Russia, and the inflation situation]]></description>
         </item>
     </channel>
 </rss>

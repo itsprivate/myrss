@@ -11,6 +11,54 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/magazine/2022/04/04/lucky-go-happy",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/04/04/lucky-go-happy",
+            "title": "幸運-快樂",
+            "summary": "Lucky-Go-Happy",
+            "date_modified": "2022-03-28T10:00:00.000Z",
+            "author": {
+                "name": "David Sedaris",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/magazine/2022/04/04/mackenzie-fierceton-rhodes-scholarship-university-of-pennsylvania",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/04/04/mackenzie-fierceton-rhodes-scholarship-university-of-pennsylvania",
+            "title": "常春藤盟校如何與學生反目成仇",
+            "summary": "How an Ivy League School Turned Against a Student",
+            "date_modified": "2022-03-28T10:00:00.000Z",
+            "author": {
+                "name": "Rachel Aviv",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/magazine/2022/04/04/robert-eggerss-historical-visions-go-mainstream",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/04/04/robert-eggerss-historical-visions-go-mainstream",
+            "title": "羅伯特-埃格斯的歷史觀進入主流社會",
+            "summary": "Robert Eggers’s Historical Visions Go Mainstream",
+            "date_modified": "2022-03-28T10:00:00.000Z",
+            "author": {
+                "name": "Sam Knight",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/magazine/2022/04/04/killing-wolves-to-own-the-libs-idaho",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/04/04/killing-wolves-to-own-the-libs-idaho",
+            "title": "殺死狼來擁有自由黨？",
+            "summary": "Killing Wolves to Own the Libs?",
+            "date_modified": "2022-03-28T10:00:00.000Z",
+            "author": {
+                "name": "Paige Williams",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/ideas/archive/2022/03/ginni-thomas-texts-january-6-trump/629386/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/ideas/archive/2022/03/ginni-thomas-texts-january-6-trump/629386/?utm_source=feed",
@@ -7157,54 +7205,6 @@
             "title": "烏克蘭戰爭和麵包的價格",
             "summary": "The Ukraine War and the price of bread",
             "date_modified": "2022-03-08T09:38:04.000Z",
-            "author": {
-                "name": "Noah Smith",
-                "url": "https://noahpinion.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://noahpinion.substack.com/p/will-high-oil-prices-cause-a-recession",
-            "content_html": "",
-            "url": "https://noahpinion.substack.com/p/will-high-oil-prices-cause-a-recession",
-            "title": "高油價會導致經濟衰退嗎？",
-            "summary": "Will high oil prices cause a recession?",
-            "date_modified": "2022-03-10T08:11:16.000Z",
-            "author": {
-                "name": "Noah Smith",
-                "url": "https://noahpinion.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://noahpinion.substack.com/p/time-for-a-diplomatic-revolution",
-            "content_html": "",
-            "url": "https://noahpinion.substack.com/p/time-for-a-diplomatic-revolution",
-            "title": "是時候進行外交革命了",
-            "summary": "Time for a Diplomatic Revolution",
-            "date_modified": "2022-03-11T11:15:09.000Z",
-            "author": {
-                "name": "Noah Smith",
-                "url": "https://noahpinion.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://noahpinion.substack.com/p/dont-worry-about-de-dollarization",
-            "content_html": "",
-            "url": "https://noahpinion.substack.com/p/dont-worry-about-de-dollarization",
-            "title": "不要擔心去美元化的問題",
-            "summary": "Don't worry about de-dollarization",
-            "date_modified": "2022-03-13T07:24:32.000Z",
-            "author": {
-                "name": "Noah Smith",
-                "url": "https://noahpinion.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://noahpinion.substack.com/p/china-russia-and-the-inflation-situation",
-            "content_html": "",
-            "url": "https://noahpinion.substack.com/p/china-russia-and-the-inflation-situation",
-            "title": "中國、俄羅斯和通貨膨脹形勢",
-            "summary": "China, Russia, and the inflation situation",
-            "date_modified": "2022-03-14T06:08:35.000Z",
             "author": {
                 "name": "Noah Smith",
                 "url": "https://noahpinion.substack.com/feed"
