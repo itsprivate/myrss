@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-27T21:31:55.977Z</updated>
+    <updated>2022-03-28T04:42:19.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[卡通字幕大赛]]></title>
+        <id>https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-04-04</id>
+        <link href="https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-04-04"/>
+        <updated>2022-03-28T04:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Cartoon Caption Contest]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[奥斯卡历史上最令人震惊的时刻]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/03/will-smith-chris-rock-oscars/629400/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/03/will-smith-chris-rock-oscars/629400/?utm_source=feed"/>
+        <updated>2022-03-28T04:19:50.000Z</updated>
+        <summary type="html"><![CDATA[The Most Shocking Moment in Oscars History]]></summary>
+        <author>
+            <name>David Sims</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[公开主题217]]></title>
         <id>https://astralcodexten.substack.com/p/open-thread-217</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Don Clark and Adam Satariano</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[市区的下一个生命]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/hybrid-remote-work-office-space/627060/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/hybrid-remote-work-office-space/627060/?utm_source=feed"/>
-        <updated>2022-03-15T11:00:57.000Z</updated>
-        <summary type="html"><![CDATA[The Next Life of Downtown]]></summary>
-        <author>
-            <name>Tracy Hadden Loh</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[负责任的保守主义有发言权和未来]]></title>
-        <id>https://www.theatlantic.com/magazine/archive/2022/04/the-commons/622823/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/magazine/archive/2022/04/the-commons/622823/?utm_source=feed"/>
-        <updated>2022-03-15T10:01:56.000Z</updated>
-        <summary type="html"><![CDATA[‘Responsible Conservatism Has a Voice and a Future’]]></summary>
-        <author>
-            <name>The Atlantic</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
