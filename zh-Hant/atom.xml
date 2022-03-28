@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-28T09:51:26.915Z</updated>
+    <updated>2022-03-28T10:15:42.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Artem Chapeye談保衛烏克蘭]]></title>
+        <id>https://www.newyorker.com/books/this-week-in-fiction/artem-chapeye-04-04-22</id>
+        <link href="https://www.newyorker.com/books/this-week-in-fiction/artem-chapeye-04-04-22"/>
+        <updated>2022-03-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Artem Chapeye on Defending Ukraine]]></summary>
+        <author>
+            <name>Deborah Treisman</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一位敘利亞攝影師給難民兒童的禮物]]></title>
+        <id>https://www.newyorker.com/culture/photo-booth/a-syrian-photographers-gift-to-refugee-children</id>
+        <link href="https://www.newyorker.com/culture/photo-booth/a-syrian-photographers-gift-to-refugee-children"/>
+        <updated>2022-03-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Syrian Photographer’s Gift to Refugee Children]]></summary>
+        <author>
+            <name>Eren Orbey</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[馬克-烏里克森的 "恆星之夜"]]></title>
+        <id>https://www.newyorker.com/culture/cover-story/cover-story-2022-04-04</id>
+        <link href="https://www.newyorker.com/culture/cover-story/cover-story-2022-04-04"/>
+        <updated>2022-03-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mark Ulriksen’s “Stellar Night”]]></summary>
+        <author>
+            <name>Françoise Mouly</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼美國的人口增長剛剛墜落到歷史最低點？]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/03/american-population-growth-rate-slow/629392/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/american-population-growth-rate-slow/629392/?utm_source=feed"/>
+        <updated>2022-03-28T10:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Why U.S. Population Growth Just Crashed to an All-Time Low]]></summary>
+        <author>
+            <name>Derek Thompson</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[長槍短炮]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/will-hurd-2024-book/629398/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/will-hurd-2024-book/629398/?utm_source=feed"/>
+        <updated>2022-03-28T10:00:59.000Z</updated>
+        <summary type="html"><![CDATA[The Long Shot]]></summary>
+        <author>
+            <name>Tim Alberta</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[確實有我們的一席之地]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/03/oscars-2022-ariana-debose-troy-kotsur/629399/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/03/oscars-2022-ariana-debose-troy-kotsur/629399/?utm_source=feed"/>
+        <updated>2022-03-28T10:01:00.000Z</updated>
+        <summary type="html"><![CDATA[‘There Is, Indeed, a Place for Us’]]></summary>
+        <author>
+            <name>Shirley Li</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[世界正在一分為二]]></title>
         <id>https://www.theatlantic.com/international/archive/2022/03/ukraine-war-china-covid-lockdowns/629401/?utm_source=feed</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>Brian Klaas</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[正義的蠕動]]></title>
-        <id>https://astralcodexten.substack.com/p/justice-creep</id>
-        <link href="https://astralcodexten.substack.com/p/justice-creep"/>
-        <updated>2022-03-16T02:15:07.000Z</updated>
-        <summary type="html"><![CDATA[Justice Creep]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尼娜-赫魯曉娃談普京的有毒民族主義和新的 "新俄羅斯"]]></title>
-        <id>https://www.newyorker.com/news/q-and-a/nina-khrushcheva-on-putins-poisonous-nationalism-and-a-new-new-russia</id>
-        <link href="https://www.newyorker.com/news/q-and-a/nina-khrushcheva-on-putins-poisonous-nationalism-and-a-new-new-russia"/>
-        <updated>2022-03-16T00:12:59.000Z</updated>
-        <summary type="html"><![CDATA[Nina Khrushcheva on Putin’s Poisonous Nationalism and a New “New Russia”]]></summary>
-        <author>
-            <name>Isaac Chotiner</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個受孩子們喜愛的自由搏擊運動員]]></title>
-        <id>https://www.newyorker.com/news/afterword/a-lucha-libre-wrestler-beloved-by-children</id>
-        <link href="https://www.newyorker.com/news/afterword/a-lucha-libre-wrestler-beloved-by-children"/>
-        <updated>2022-03-15T23:19:01.000Z</updated>
-        <summary type="html"><![CDATA[A Lucha Libre Wrestler Beloved by Children]]></summary>
-        <author>
-            <name>Susan Orlean</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在基輔城外尋找生存空間]]></title>
-        <id>https://www.newyorker.com/culture/photo-booth/a-search-for-survival-outside-kyiv</id>
-        <link href="https://www.newyorker.com/culture/photo-booth/a-search-for-survival-outside-kyiv"/>
-        <updated>2022-03-15T22:40:33.000Z</updated>
-        <summary type="html"><![CDATA[A Search for Survival Outside Kyiv]]></summary>
-        <author>
-            <name>Jane Ferguson</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[擁有切爾西的寡頭的終結者]]></title>
-        <id>https://www.newyorker.com/news/letter-from-the-uk/the-endgame-of-the-oligarch-who-owns-chelsea</id>
-        <link href="https://www.newyorker.com/news/letter-from-the-uk/the-endgame-of-the-oligarch-who-owns-chelsea"/>
-        <updated>2022-03-15T21:38:08.000Z</updated>
-        <summary type="html"><![CDATA[The Endgame of the Oligarch Who Owns Chelsea]]></summary>
-        <author>
-            <name>Sam Knight</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[擁有切爾西的寡頭的終結者]]></title>
-        <id>https://www.newyorker.com/news/letter-from-the-uk/the-endgame-of-the-oligarch-who-owns-chelsea</id>
-        <link href="https://www.newyorker.com/news/letter-from-the-uk/the-endgame-of-the-oligarch-who-owns-chelsea"/>
-        <updated>2022-03-15T21:38:08.000Z</updated>
-        <summary type="html"><![CDATA[The Endgame of the Oligarch Who Owns Chelsea]]></summary>
-        <author>
-            <name>Sam Knight</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
