@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-28T17:53:12.186Z</updated>
+    <updated>2022-03-28T18:16:25.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亲爱的佩珀。甜蜜的小谎言]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/dear-pepper-sweet-little-lies</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/dear-pepper-sweet-little-lies"/>
+        <updated>2022-03-28T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dear Pepper: Sweet Little Lies]]></summary>
+        <author>
+            <name>Liana Finck</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[介绍《纽约客》的新每日通讯]]></title>
         <id>https://www.newyorker.com/news/news-desk/introducing-the-new-yorkers-new-daily-newsletter</id>
@@ -6599,17 +6610,6 @@
         <link href="https://noahpinion.substack.com/p/beyond-sanctions-an-off-ramp-for"/>
         <updated>2022-03-01T01:39:10.000Z</updated>
         <summary type="html"><![CDATA[Beyond sanctions: An off-ramp for post-Putin Russia]]></summary>
-        <author>
-            <name>Noah Smith</name>
-            <uri>https://noahpinion.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯的战争将如何影响中国？]]></title>
-        <id>https://noahpinion.substack.com/p/how-will-russias-war-affect-china</id>
-        <link href="https://noahpinion.substack.com/p/how-will-russias-war-affect-china"/>
-        <updated>2022-03-03T09:09:24.000Z</updated>
-        <summary type="html"><![CDATA[How will Russia's war affect China?]]></summary>
         <author>
             <name>Noah Smith</name>
             <uri>https://noahpinion.substack.com/feed</uri>
