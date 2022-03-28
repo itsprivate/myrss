@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-28T20:14:34.173Z</updated>
+    <updated>2022-03-28T20:35:14.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们不能陷入 "恐俄症"。]]></title>
+        <id>https://www.currentaffairs.org/2022/03/we-cant-lapse-into-russophobia/</id>
+        <link href="https://www.currentaffairs.org/2022/03/we-cant-lapse-into-russophobia/"/>
+        <updated>2022-03-16T12:33:03.000Z</updated>
+        <summary type="html"><![CDATA[We Can&#8217;t Lapse Into Russophobia]]></summary>
+        <author>
+            <name>Nathan J. Robinson</name>
+            <uri>https://www.currentaffairs.org/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[信息市场、决策市场、注意力市场、行动市场]]></title>
         <id>https://astralcodexten.substack.com/p/information-markets-decision-markets</id>
@@ -6599,17 +6610,6 @@
         <link href="https://noahpinion.substack.com/p/the-rejection-of-bidenomics"/>
         <updated>2022-02-19T10:52:35.000Z</updated>
         <summary type="html"><![CDATA[The rejection of Bidenomics]]></summary>
-        <author>
-            <name>Noah Smith</name>
-            <uri>https://noahpinion.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[访谈。中村惠美，宏观经济学家]]></title>
-        <id>https://noahpinion.substack.com/p/interview-emi-nakamura-macroeconomist</id>
-        <link href="https://noahpinion.substack.com/p/interview-emi-nakamura-macroeconomist"/>
-        <updated>2022-02-21T07:00:33.000Z</updated>
-        <summary type="html"><![CDATA[Interview: Emi Nakamura, macroeconomist]]></summary>
         <author>
             <name>Noah Smith</name>
             <uri>https://noahpinion.substack.com/feed</uri>
