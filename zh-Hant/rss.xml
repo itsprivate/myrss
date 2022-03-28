@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 28 Mar 2022 17:09:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 17:53:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[介紹《紐約客》的新每日通訊]]></title>
+            <link>https://www.newyorker.com/news/news-desk/introducing-the-new-yorkers-new-daily-newsletter</link>
+            <guid>https://www.newyorker.com/news/news-desk/introducing-the-new-yorkers-new-daily-newsletter</guid>
+            <pubDate>Mon, 28 Mar 2022 17:25:03 GMT</pubDate>
+            <description><![CDATA[Introducing The New Yorker’s New Daily Newsletter]]></description>
+        </item>
+        <item>
+            <title><![CDATA[當威爾-史密斯在奧斯卡頒獎典禮上掌摑克里斯-洛克時，房間裡的感覺是什麼？]]></title>
+            <link>https://www.newyorker.com/culture/culture-desk/what-it-felt-like-in-the-room-when-will-smith-slapped-chris-rock-at-the-oscars</link>
+            <guid>https://www.newyorker.com/culture/culture-desk/what-it-felt-like-in-the-room-when-will-smith-slapped-chris-rock-at-the-oscars</guid>
+            <pubDate>Mon, 28 Mar 2022 17:20:52 GMT</pubDate>
+            <description><![CDATA[What It Felt Like in the Room When Will Smith Slapped Chris Rock at the Oscars]]></description>
+        </item>
         <item>
             <title><![CDATA[每日漫畫。3月28日，星期一]]></title>
             <link>https://www.newyorker.com/cartoons/daily-cartoon/monday-march-28th-oscars-will-smith-slap</link>
@@ -4199,20 +4213,6 @@
             <guid>https://noahpinion.substack.com/p/how-will-russias-war-affect-china</guid>
             <pubDate>Thu, 03 Mar 2022 09:09:24 GMT</pubDate>
             <description><![CDATA[How will Russia's war affect China?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[採訪。安德魯-蓋爾曼，統計學家]]></title>
-            <link>https://noahpinion.substack.com/p/interview-andrew-gelman-statistician</link>
-            <guid>https://noahpinion.substack.com/p/interview-andrew-gelman-statistician</guid>
-            <pubDate>Fri, 04 Mar 2022 05:52:47 GMT</pubDate>
-            <description><![CDATA[Interview: Andrew Gelman, statistician]]></description>
-        </item>
-        <item>
-            <title><![CDATA[塔梅爾蘭原則]]></title>
-            <link>https://noahpinion.substack.com/p/the-tamerlane-principle</link>
-            <guid>https://noahpinion.substack.com/p/the-tamerlane-principle</guid>
-            <pubDate>Sun, 06 Mar 2022 10:09:15 GMT</pubDate>
-            <description><![CDATA[The Tamerlane Principle]]></description>
         </item>
     </channel>
 </rss>

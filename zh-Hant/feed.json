@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/news-desk/introducing-the-new-yorkers-new-daily-newsletter",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/news-desk/introducing-the-new-yorkers-new-daily-newsletter",
+            "title": "介紹《紐約客》的新每日通訊",
+            "summary": "Introducing The New Yorker’s New Daily Newsletter",
+            "date_modified": "2022-03-28T17:25:03.000Z",
+            "author": {
+                "name": "Jessie Li, Ian Crouch",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/culture/culture-desk/what-it-felt-like-in-the-room-when-will-smith-slapped-chris-rock-at-the-oscars",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/culture-desk/what-it-felt-like-in-the-room-when-will-smith-slapped-chris-rock-at-the-oscars",
+            "title": "當威爾-史密斯在奧斯卡頒獎典禮上掌摑克里斯-洛克時，房間裡的感覺是什麼？",
+            "summary": "What It Felt Like in the Room When Will Smith Slapped Chris Rock at the Oscars",
+            "date_modified": "2022-03-28T17:20:52.000Z",
+            "author": {
+                "name": "Michael Schulman",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/cartoons/daily-cartoon/monday-march-28th-oscars-will-smith-slap",
             "content_html": "",
             "url": "https://www.newyorker.com/cartoons/daily-cartoon/monday-march-28th-oscars-will-smith-slap",
@@ -7181,30 +7205,6 @@
             "title": "俄羅斯的戰爭將如何影響中國？",
             "summary": "How will Russia's war affect China?",
             "date_modified": "2022-03-03T09:09:24.000Z",
-            "author": {
-                "name": "Noah Smith",
-                "url": "https://noahpinion.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://noahpinion.substack.com/p/interview-andrew-gelman-statistician",
-            "content_html": "",
-            "url": "https://noahpinion.substack.com/p/interview-andrew-gelman-statistician",
-            "title": "採訪。安德魯-蓋爾曼，統計學家",
-            "summary": "Interview: Andrew Gelman, statistician",
-            "date_modified": "2022-03-04T05:52:47.000Z",
-            "author": {
-                "name": "Noah Smith",
-                "url": "https://noahpinion.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://noahpinion.substack.com/p/the-tamerlane-principle",
-            "content_html": "",
-            "url": "https://noahpinion.substack.com/p/the-tamerlane-principle",
-            "title": "塔梅爾蘭原則",
-            "summary": "The Tamerlane Principle",
-            "date_modified": "2022-03-06T10:09:15.000Z",
             "author": {
                 "name": "Noah Smith",
                 "url": "https://noahpinion.substack.com/feed"

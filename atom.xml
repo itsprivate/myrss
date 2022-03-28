@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-28T17:09:10.025Z</updated>
+    <updated>2022-03-28T17:53:12.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[介绍《纽约客》的新每日通讯]]></title>
+        <id>https://www.newyorker.com/news/news-desk/introducing-the-new-yorkers-new-daily-newsletter</id>
+        <link href="https://www.newyorker.com/news/news-desk/introducing-the-new-yorkers-new-daily-newsletter"/>
+        <updated>2022-03-28T17:25:03.000Z</updated>
+        <summary type="html"><![CDATA[Introducing The New Yorker’s New Daily Newsletter]]></summary>
+        <author>
+            <name>Jessie Li, Ian Crouch</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当威尔-史密斯在奥斯卡颁奖典礼上掌掴克里斯-洛克时，房间里的感觉是什么？]]></title>
+        <id>https://www.newyorker.com/culture/culture-desk/what-it-felt-like-in-the-room-when-will-smith-slapped-chris-rock-at-the-oscars</id>
+        <link href="https://www.newyorker.com/culture/culture-desk/what-it-felt-like-in-the-room-when-will-smith-slapped-chris-rock-at-the-oscars"/>
+        <updated>2022-03-28T17:20:52.000Z</updated>
+        <summary type="html"><![CDATA[What It Felt Like in the Room When Will Smith Slapped Chris Rock at the Oscars]]></summary>
+        <author>
+            <name>Michael Schulman</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日漫画。3月28日，星期一]]></title>
         <id>https://www.newyorker.com/cartoons/daily-cartoon/monday-march-28th-oscars-will-smith-slap</id>
@@ -6588,28 +6610,6 @@
         <link href="https://noahpinion.substack.com/p/how-will-russias-war-affect-china"/>
         <updated>2022-03-03T09:09:24.000Z</updated>
         <summary type="html"><![CDATA[How will Russia's war affect China?]]></summary>
-        <author>
-            <name>Noah Smith</name>
-            <uri>https://noahpinion.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[采访。安德鲁-盖尔曼，统计学家]]></title>
-        <id>https://noahpinion.substack.com/p/interview-andrew-gelman-statistician</id>
-        <link href="https://noahpinion.substack.com/p/interview-andrew-gelman-statistician"/>
-        <updated>2022-03-04T05:52:47.000Z</updated>
-        <summary type="html"><![CDATA[Interview: Andrew Gelman, statistician]]></summary>
-        <author>
-            <name>Noah Smith</name>
-            <uri>https://noahpinion.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[塔梅尔兰原则]]></title>
-        <id>https://noahpinion.substack.com/p/the-tamerlane-principle</id>
-        <link href="https://noahpinion.substack.com/p/the-tamerlane-principle"/>
-        <updated>2022-03-06T10:09:15.000Z</updated>
-        <summary type="html"><![CDATA[The Tamerlane Principle]]></summary>
         <author>
             <name>Noah Smith</name>
             <uri>https://noahpinion.substack.com/feed</uri>
