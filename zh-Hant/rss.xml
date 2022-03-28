@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 28 Mar 2022 10:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 10:37:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,41 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[大英帝國比你意識到的要糟糕得多]]></title>
+            <link>https://www.newyorker.com/magazine/2022/04/04/the-british-empire-was-much-worse-than-you-realize-caroline-elkinss-legacy-of-violence</link>
+            <guid>https://www.newyorker.com/magazine/2022/04/04/the-british-empire-was-much-worse-than-you-realize-caroline-elkinss-legacy-of-violence</guid>
+            <pubDate>Mon, 28 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The British Empire Was Much Worse Than You Realize]]></description>
+        </item>
+        <item>
+            <title><![CDATA[亞歷克斯-埃德爾曼在 "只為我們 "中獲得了政治地位]]></title>
+            <link>https://www.newyorker.com/magazine/2022/04/04/alex-edelman-gets-political-in-just-for-us</link>
+            <guid>https://www.newyorker.com/magazine/2022/04/04/alex-edelman-gets-political-in-just-for-us</guid>
+            <pubDate>Mon, 28 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Alex Edelman Gets Political in “Just for Us”]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Artem Chapeye談保衛烏克蘭]]></title>
+            <link>https://www.newyorker.com/books/this-week-in-fiction/artem-chapeye-04-04-22</link>
+            <guid>https://www.newyorker.com/books/this-week-in-fiction/artem-chapeye-04-04-22</guid>
+            <pubDate>Mon, 28 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Artem Chapeye on Defending Ukraine]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一位敘利亞攝影師給難民兒童的禮物]]></title>
+            <link>https://www.newyorker.com/culture/photo-booth/a-syrian-photographers-gift-to-refugee-children</link>
+            <guid>https://www.newyorker.com/culture/photo-booth/a-syrian-photographers-gift-to-refugee-children</guid>
+            <pubDate>Mon, 28 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[A Syrian Photographer’s Gift to Refugee Children]]></description>
+        </item>
+        <item>
+            <title><![CDATA[馬克-烏里克森的 "恆星之夜"]]></title>
+            <link>https://www.newyorker.com/culture/cover-story/cover-story-2022-04-04</link>
+            <guid>https://www.newyorker.com/culture/cover-story/cover-story-2022-04-04</guid>
+            <pubDate>Mon, 28 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Mark Ulriksen’s “Stellar Night”]]></description>
+        </item>
         <item>
             <title><![CDATA[Artem Chapeye談保衛烏克蘭]]></title>
             <link>https://www.newyorker.com/books/this-week-in-fiction/artem-chapeye-04-04-22</link>
@@ -4178,41 +4213,6 @@
             <guid>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/16</guid>
             <pubDate>Wed, 16 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Name Drop: Wednesday, March 16, 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何知道你什麼時候對你的前男友釋懷了]]></title>
-            <link>https://www.newyorker.com/humor/daily-shouts/how-to-know-when-youre-over-your-ex</link>
-            <guid>https://www.newyorker.com/humor/daily-shouts/how-to-know-when-youre-over-your-ex</guid>
-            <pubDate>Wed, 16 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[How to Know When You’re Over Your Ex]]></description>
-        </item>
-        <item>
-            <title><![CDATA[填字遊戲: 2022年3月16日，星期三]]></title>
-            <link>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/16</link>
-            <guid>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/16</guid>
-            <pubDate>Wed, 16 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Crossword: Wednesday, March 16, 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[年輕的烏克蘭人一夜之間失去了什麼]]></title>
-            <link>https://www.newyorker.com/culture/photo-booth/what-young-ukrainians-have-lost-overnight</link>
-            <guid>https://www.newyorker.com/culture/photo-booth/what-young-ukrainians-have-lost-overnight</guid>
-            <pubDate>Wed, 16 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[What Young Ukrainians Have Lost Overnight]]></description>
-        </item>
-        <item>
-            <title><![CDATA[沙卡里-理查德森在 "11秒內 "攻克時間難題]]></title>
-            <link>https://www.newyorker.com/culture/the-new-yorker-documentary/shacarri-richardson-tackles-time-in-sub-eleven-seconds</link>
-            <guid>https://www.newyorker.com/culture/the-new-yorker-documentary/shacarri-richardson-tackles-time-in-sub-eleven-seconds</guid>
-            <pubDate>Wed, 16 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Sha’Carri Richardson Tackles Time in “Sub Eleven Seconds”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[普京已落入獨裁者陷阱]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/putin-dictator-trap-russia-ukraine/627064/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/putin-dictator-trap-russia-ukraine/627064/?utm_source=feed</guid>
-            <pubDate>Wed, 16 Mar 2022 09:41:06 GMT</pubDate>
-            <description><![CDATA[Vladimir Putin Has Fallen Into the Dictator Trap]]></description>
         </item>
     </channel>
 </rss>

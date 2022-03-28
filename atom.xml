@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-28T10:15:42.547Z</updated>
+    <updated>2022-03-28T10:37:21.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[大英帝国比你意识到的要糟糕得多]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/04/the-british-empire-was-much-worse-than-you-realize-caroline-elkinss-legacy-of-violence</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/04/the-british-empire-was-much-worse-than-you-realize-caroline-elkinss-legacy-of-violence"/>
+        <updated>2022-03-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The British Empire Was Much Worse Than You Realize]]></summary>
+        <author>
+            <name>Sunil Khilnani</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚历克斯-埃德尔曼在 "只为我们 "中获得了政治地位]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/04/alex-edelman-gets-political-in-just-for-us</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/04/alex-edelman-gets-political-in-just-for-us"/>
+        <updated>2022-03-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Alex Edelman Gets Political in “Just for Us”]]></summary>
+        <author>
+            <name>Alexandra Schwartz</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Artem Chapeye谈保卫乌克兰]]></title>
+        <id>https://www.newyorker.com/books/this-week-in-fiction/artem-chapeye-04-04-22</id>
+        <link href="https://www.newyorker.com/books/this-week-in-fiction/artem-chapeye-04-04-22"/>
+        <updated>2022-03-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Artem Chapeye on Defending Ukraine]]></summary>
+        <author>
+            <name>Deborah Treisman</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一位叙利亚摄影师给难民儿童的礼物]]></title>
+        <id>https://www.newyorker.com/culture/photo-booth/a-syrian-photographers-gift-to-refugee-children</id>
+        <link href="https://www.newyorker.com/culture/photo-booth/a-syrian-photographers-gift-to-refugee-children"/>
+        <updated>2022-03-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Syrian Photographer’s Gift to Refugee Children]]></summary>
+        <author>
+            <name>Eren Orbey</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马克-乌里克森的 "恒星之夜"]]></title>
+        <id>https://www.newyorker.com/culture/cover-story/cover-story-2022-04-04</id>
+        <link href="https://www.newyorker.com/culture/cover-story/cover-story-2022-04-04"/>
+        <updated>2022-03-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mark Ulriksen’s “Stellar Night”]]></summary>
+        <author>
+            <name>Françoise Mouly</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Artem Chapeye谈保卫乌克兰]]></title>
         <id>https://www.newyorker.com/books/this-week-in-fiction/artem-chapeye-04-04-22</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>Matt Jackson</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何知道你什么时候对你的前男友释怀了]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/how-to-know-when-youre-over-your-ex</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/how-to-know-when-youre-over-your-ex"/>
-        <updated>2022-03-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How to Know When You’re Over Your Ex]]></summary>
-        <author>
-            <name>Eli Coyote Mandel</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[填字游戏: 2022年3月16日，星期三]]></title>
-        <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/16</id>
-        <link href="https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/16"/>
-        <updated>2022-03-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Crossword: Wednesday, March 16, 2022]]></summary>
-        <author>
-            <name>Elizabeth C. Gorski</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年轻的乌克兰人一夜之间失去了什么]]></title>
-        <id>https://www.newyorker.com/culture/photo-booth/what-young-ukrainians-have-lost-overnight</id>
-        <link href="https://www.newyorker.com/culture/photo-booth/what-young-ukrainians-have-lost-overnight"/>
-        <updated>2022-03-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What Young Ukrainians Have Lost Overnight]]></summary>
-        <author>
-            <name>Sophie Pinkham</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沙卡里-理查德森在 "11秒内 "攻克时间难题]]></title>
-        <id>https://www.newyorker.com/culture/the-new-yorker-documentary/shacarri-richardson-tackles-time-in-sub-eleven-seconds</id>
-        <link href="https://www.newyorker.com/culture/the-new-yorker-documentary/shacarri-richardson-tackles-time-in-sub-eleven-seconds"/>
-        <updated>2022-03-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sha’Carri Richardson Tackles Time in “Sub Eleven Seconds”]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京已落入独裁者陷阱]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/putin-dictator-trap-russia-ukraine/627064/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/putin-dictator-trap-russia-ukraine/627064/?utm_source=feed"/>
-        <updated>2022-03-16T09:41:06.000Z</updated>
-        <summary type="html"><![CDATA[Vladimir Putin Has Fallen Into the Dictator Trap]]></summary>
-        <author>
-            <name>Brian Klaas</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
