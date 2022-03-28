@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 28 Mar 2022 20:35:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 21:12:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[现在不要松懈]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/03/west-strategy-against-russia-ukraine-war/629387/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/03/west-strategy-against-russia-ukraine-war/629387/?utm_source=feed</guid>
+            <pubDate>Mon, 28 Mar 2022 20:54:10 GMT</pubDate>
+            <description><![CDATA[Don't Let Up Now]]></description>
+        </item>
         <item>
             <title><![CDATA[我们不能陷入 "恐俄症"。]]></title>
             <link>https://www.currentaffairs.org/2022/03/we-cant-lapse-into-russophobia/</link>
@@ -4206,13 +4213,6 @@
             <guid>https://noahpinion.substack.com/p/if-putin-backs-off-ukraine-who-wins</guid>
             <pubDate>Thu, 17 Feb 2022 09:03:31 GMT</pubDate>
             <description><![CDATA[If Putin backs off Ukraine, who wins and who loses?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[对拜登经济学的拒绝]]></title>
-            <link>https://noahpinion.substack.com/p/the-rejection-of-bidenomics</link>
-            <guid>https://noahpinion.substack.com/p/the-rejection-of-bidenomics</guid>
-            <pubDate>Sat, 19 Feb 2022 10:52:35 GMT</pubDate>
-            <description><![CDATA[The rejection of Bidenomics]]></description>
         </item>
     </channel>
 </rss>

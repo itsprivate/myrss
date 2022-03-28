@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-28T20:35:14.812Z</updated>
+    <updated>2022-03-28T21:12:33.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[現在不要鬆懈]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/west-strategy-against-russia-ukraine-war/629387/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/west-strategy-against-russia-ukraine-war/629387/?utm_source=feed"/>
+        <updated>2022-03-28T20:54:10.000Z</updated>
+        <summary type="html"><![CDATA[Don't Let Up Now]]></summary>
+        <author>
+            <name>Eliot A. Cohen</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們不能陷入 "恐俄症"。]]></title>
         <id>https://www.currentaffairs.org/2022/03/we-cant-lapse-into-russophobia/</id>
@@ -6599,17 +6610,6 @@
         <link href="https://noahpinion.substack.com/p/if-putin-backs-off-ukraine-who-wins"/>
         <updated>2022-02-17T09:03:31.000Z</updated>
         <summary type="html"><![CDATA[If Putin backs off Ukraine, who wins and who loses?]]></summary>
-        <author>
-            <name>Noah Smith</name>
-            <uri>https://noahpinion.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對拜登經濟學的拒絕]]></title>
-        <id>https://noahpinion.substack.com/p/the-rejection-of-bidenomics</id>
-        <link href="https://noahpinion.substack.com/p/the-rejection-of-bidenomics"/>
-        <updated>2022-02-19T10:52:35.000Z</updated>
-        <summary type="html"><![CDATA[The rejection of Bidenomics]]></summary>
         <author>
             <name>Noah Smith</name>
             <uri>https://noahpinion.substack.com/feed</uri>
