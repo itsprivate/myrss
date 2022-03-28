@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-28T09:14:21.254Z</updated>
+    <updated>2022-03-28T09:33:42.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一名士兵在乌克兰失踪，他的父亲能否找到他？]]></title>
+        <id>https://www.newyorker.com/video/watch/i-never-had-dreams-of-my-son</id>
+        <link href="https://www.newyorker.com/video/watch/i-never-had-dreams-of-my-son"/>
+        <updated>2022-03-09T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Soldier Goes Missing in Ukraine—Can His Father Find Him?]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[右派的视频网站Rumble有更大的野心]]></title>
+        <id>https://www.nytimes.com/2022/03/28/business/media/rumble-social-media-conservatives-videos.html</id>
+        <link href="https://www.nytimes.com/2022/03/28/business/media/rumble-social-media-conservatives-videos.html"/>
+        <updated>2022-03-28T07:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Rumble, the Right’s Go-To Video Site, Has Much Bigger Ambitions]]></summary>
+        <author>
+            <name>Jeremy W. Peters</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社交媒体让青少年不快乐吗？这可能取决于他们的年龄。]]></title>
+        <id>https://www.nytimes.com/2022/03/28/science/social-media-teens-mental-health.html</id>
+        <link href="https://www.nytimes.com/2022/03/28/science/social-media-teens-mental-health.html"/>
+        <updated>2022-03-28T09:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Does Social Media Make Teens Unhappy? It May Depend on Their Age.]]></summary>
+        <author>
+            <name>Virginia Hughes</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[地理围栏改善了瑞典的安全状况]]></title>
         <id>https://www.nytimes.com/2022/03/28/world/europe/geofencing-sweden.html</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>Jane Mayer</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[现在是否到了第二批助推器的时候了？]]></title>
-        <id>https://www.theatlantic.com/health/archive/2022/03/vaccine-second-booster-shot-seniors/627069/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/health/archive/2022/03/vaccine-second-booster-shot-seniors/627069/?utm_source=feed"/>
-        <updated>2022-03-15T18:08:35.000Z</updated>
-        <summary type="html"><![CDATA[Is It Time for Second Boosters Yet?]]></summary>
-        <author>
-            <name>Rachel Gutman</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[查尔斯-狄更斯如何使小说焕然一新]]></title>
-        <id>https://www.theatlantic.com/books/archive/2022/03/bleak-house-charles-dickens-made-novel-new/627059/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/books/archive/2022/03/bleak-house-charles-dickens-made-novel-new/627059/?utm_source=feed"/>
-        <updated>2022-03-15T17:49:36.000Z</updated>
-        <summary type="html"><![CDATA[How Charles Dickens Made the Novel New]]></summary>
-        <author>
-            <name>Charlie Tyson</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<em>《大西洋》</em>日报。西方国家在否认吗？]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2022/03/west-in-denial-russia-ukraine-invasion/627063/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/west-in-denial-russia-ukraine-invasion/627063/?utm_source=feed"/>
-        <updated>2022-03-15T17:12:27.000Z</updated>
-        <summary type="html"><![CDATA[<em>The Atlantic</em> Daily: Is the West in Denial?]]></summary>
-        <author>
-            <name>Caroline Mimbs Nyce</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
