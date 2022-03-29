@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/29/technology/snapchat-tiktok-parental-control.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/29/technology/snapchat-tiktok-parental-control.html",
+            "title": "各国要求Snap和TikTok给予家长对应用程序更多的控制权",
+            "summary": "States Ask Snap and TikTok to Give Parents More Control Over Apps",
+            "date_modified": "2022-03-29T22:25:56.000Z",
+            "author": {
+                "name": "David McCabe",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/q-and-a/what-a-negotiated-solution-in-ukraine-might-look-like",
             "content_html": "",
             "url": "https://www.newyorker.com/news/q-and-a/what-a-negotiated-solution-in-ukraine-might-look-like",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Scott Alexander",
                 "url": "https://astralcodexten.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/listening-booth/wurlds-understated-global-sound",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/listening-booth/wurlds-understated-global-sound",
-            "title": "WurlD的低调的全球声音",
-            "summary": "WurlD’s Understated Global Sound",
-            "date_modified": "2022-03-16T18:58:07.000Z",
-            "author": {
-                "name": "Sheldon Pearce",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 29 Mar 2022 21:41:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 22:33:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[各国要求Snap和TikTok给予家长对应用程序更多的控制权]]></title>
+            <link>https://www.nytimes.com/2022/03/29/technology/snapchat-tiktok-parental-control.html</link>
+            <guid>https://www.nytimes.com/2022/03/29/technology/snapchat-tiktok-parental-control.html</guid>
+            <pubDate>Tue, 29 Mar 2022 22:25:56 GMT</pubDate>
+            <description><![CDATA[States Ask Snap and TikTok to Give Parents More Control Over Apps]]></description>
+        </item>
         <item>
             <title><![CDATA[乌克兰的谈判解决方案可能是什么样子的]]></title>
             <link>https://www.newyorker.com/news/q-and-a/what-a-negotiated-solution-in-ukraine-might-look-like</link>
@@ -4206,13 +4213,6 @@
             <guid>https://astralcodexten.substack.com/p/highlights-from-the-comments-on-zulresso</guid>
             <pubDate>Wed, 16 Mar 2022 18:50:18 GMT</pubDate>
             <description><![CDATA[Highlights From The Comments On Zulresso]]></description>
-        </item>
-        <item>
-            <title><![CDATA[WurlD的低调的全球声音]]></title>
-            <link>https://www.newyorker.com/culture/listening-booth/wurlds-understated-global-sound</link>
-            <guid>https://www.newyorker.com/culture/listening-booth/wurlds-understated-global-sound</guid>
-            <pubDate>Wed, 16 Mar 2022 18:58:07 GMT</pubDate>
-            <description><![CDATA[WurlD’s Understated Global Sound]]></description>
         </item>
     </channel>
 </rss>

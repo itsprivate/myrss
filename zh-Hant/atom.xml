@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-29T21:41:05.887Z</updated>
+    <updated>2022-03-29T22:33:46.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[各國要求Snap和TikTok給予家長對應用程序更多的控制權]]></title>
+        <id>https://www.nytimes.com/2022/03/29/technology/snapchat-tiktok-parental-control.html</id>
+        <link href="https://www.nytimes.com/2022/03/29/technology/snapchat-tiktok-parental-control.html"/>
+        <updated>2022-03-29T22:25:56.000Z</updated>
+        <summary type="html"><![CDATA[States Ask Snap and TikTok to Give Parents More Control Over Apps]]></summary>
+        <author>
+            <name>David McCabe</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[烏克蘭的談判解決方案可能是什麼樣子的]]></title>
         <id>https://www.newyorker.com/news/q-and-a/what-a-negotiated-solution-in-ukraine-might-look-like</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Scott Alexander</name>
             <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WurlD的低調的全球聲音]]></title>
-        <id>https://www.newyorker.com/culture/listening-booth/wurlds-understated-global-sound</id>
-        <link href="https://www.newyorker.com/culture/listening-booth/wurlds-understated-global-sound"/>
-        <updated>2022-03-16T18:58:07.000Z</updated>
-        <summary type="html"><![CDATA[WurlD’s Understated Global Sound]]></summary>
-        <author>
-            <name>Sheldon Pearce</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
