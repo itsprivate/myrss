@@ -19,6 +19,18 @@
             "date_modified": "2022-03-29T21:16:10.000Z",
             "author": {
                 "name": "Isaac Chotiner",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/q-and-a/what-a-negotiated-solution-in-ukraine-might-look-like",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/q-and-a/what-a-negotiated-solution-in-ukraine-might-look-like",
+            "title": "乌克兰的谈判解决方案可能是什么样子的",
+            "summary": "What a Negotiated Solution in Ukraine Might Look Like",
+            "date_modified": "2022-03-29T21:16:10.000Z",
+            "author": {
+                "name": "Isaac Chotiner",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         },
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Sheldon Pearce",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/03/21/have-chinese-spies-infiltrated-american-campuses",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/03/21/have-chinese-spies-infiltrated-american-campuses",
-            "title": "中国的间谍是否渗透到了美国的校园？",
-            "summary": "Have Chinese Spies Infiltrated American Campuses?",
-            "date_modified": "2022-03-14T10:00:00.000Z",
-            "author": {
-                "name": "Gideon Lewis-Kraus",
-                "url": "https://www.newyorker.com/feed/news"
             }
         }
     ]

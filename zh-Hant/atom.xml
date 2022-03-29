@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-29T21:31:34.334Z</updated>
+    <updated>2022-03-29T21:41:05.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭的談判解決方案可能是什麼樣子的]]></title>
+        <id>https://www.newyorker.com/news/q-and-a/what-a-negotiated-solution-in-ukraine-might-look-like</id>
+        <link href="https://www.newyorker.com/news/q-and-a/what-a-negotiated-solution-in-ukraine-might-look-like"/>
+        <updated>2022-03-29T21:16:10.000Z</updated>
+        <summary type="html"><![CDATA[What a Negotiated Solution in Ukraine Might Look Like]]></summary>
+        <author>
+            <name>Isaac Chotiner</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[烏克蘭的談判解決方案可能是什麼樣子的]]></title>
         <id>https://www.newyorker.com/news/q-and-a/what-a-negotiated-solution-in-ukraine-might-look-like</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Sheldon Pearce</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中國的間諜是否滲透到了美國的校園？]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/21/have-chinese-spies-infiltrated-american-campuses</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/21/have-chinese-spies-infiltrated-american-campuses"/>
-        <updated>2022-03-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Have Chinese Spies Infiltrated American Campuses?]]></summary>
-        <author>
-            <name>Gideon Lewis-Kraus</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
 </feed>
