@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-29T17:07:21.589Z</updated>
+    <updated>2022-03-29T17:39:00.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[特朗普称1月6日的电话有7个小时的空档，原因是发现号上的鲨鱼马拉松]]></title>
+        <id>https://www.newyorker.com/humor/borowitz-report/trump-says-seven-hour-gap-in-january-6th-phone-calls-due-to-shark-marathon-on-discovery</id>
+        <link href="https://www.newyorker.com/humor/borowitz-report/trump-says-seven-hour-gap-in-january-6th-phone-calls-due-to-shark-marathon-on-discovery"/>
+        <updated>2022-03-29T17:13:50.000Z</updated>
+        <summary type="html"><![CDATA[Trump Says Seven-Hour Gap in January 6th Phone Calls Due to Shark Marathon on Discovery]]></summary>
+        <author>
+            <name>Andy Borowitz</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰罗宋汤，和支持，在瓦雷尼克之家]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/04/ukrainian-borscht-and-support-at-varenyk-house</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/04/ukrainian-borscht-and-support-at-varenyk-house"/>
+        <updated>2022-03-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ukrainian Borscht, and Support, at Varenyk House]]></summary>
+        <author>
+            <name>Hannah Goldfield</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[兰花展重返纽约植物园]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/04/the-orchid-show-returns-to-new-york-botanical-garden-jeff-leatham</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/04/the-orchid-show-returns-to-new-york-botanical-garden-jeff-leatham"/>
+        <updated>2022-03-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Orchid Show Returns to the New York Botanical Garden]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[舒适的 "WeCrashed "和 "Modern Grifter "系列。]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/04/the-comforts-of-wecrashed-and-the-modern-grifter-series</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/04/the-comforts-of-wecrashed-and-the-modern-grifter-series"/>
+        <updated>2022-03-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Comforts of “WeCrashed” and the Modern Grifter Series]]></summary>
+        <author>
+            <name>Naomi Fry</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["童年》是有史以来最优秀的回忆录之一]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/04/a-childhood-is-one-of-the-finest-memoirs-ever-written</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/04/a-childhood-is-one-of-the-finest-memoirs-ever-written"/>
+        <updated>2022-03-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“A Childhood” Is One of the Finest Memoirs Ever Written]]></summary>
+        <author>
+            <name>Casey Cep</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果和流媒体的幻象]]></title>
+        <id>https://www.nytimes.com/2022/03/29/technology/coda-apple-tv-streaming.html</id>
+        <link href="https://www.nytimes.com/2022/03/29/technology/coda-apple-tv-streaming.html"/>
+        <updated>2022-03-29T16:59:51.000Z</updated>
+        <summary type="html"><![CDATA[Apple and the Streaming Mirage]]></summary>
+        <author>
+            <name>Shira Ovide</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度支持俄罗斯的推文引发对影响运动的怀疑]]></title>
+        <id>https://www.nytimes.com/2022/03/29/technology/twitter-russia-india.html</id>
+        <link href="https://www.nytimes.com/2022/03/29/technology/twitter-russia-india.html"/>
+        <updated>2022-03-29T17:13:12.000Z</updated>
+        <summary type="html"><![CDATA[Pro-Russia Tweets In India Spark Suspicions of an Influence Campaign]]></summary>
+        <author>
+            <name>Kate Conger and Suhasini Raj</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<em>The Atlantic</em> Daily: 乌克兰局势的演变]]></title>
         <id>https://www.theatlantic.com/newsletters/archive/2022/03/fighters-ukraine-russia-war/629414/?utm_source=feed</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>John Cassidy</name>
             <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的狗的品种说明了你的情况]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/what-your-dogs-breed-says-about-you</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/what-your-dogs-breed-says-about-you"/>
-        <updated>2022-03-16T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What Your Dog’s Breed Says About You]]></summary>
-        <author>
-            <name>Jenny Gorelick, Ariel Sinha</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何超越5分钟的互联网潮流]]></title>
-        <id>https://www.nytimes.com/2022/03/16/technology/tasty-internet-fads.html</id>
-        <link href="https://www.nytimes.com/2022/03/16/technology/tasty-internet-fads.html"/>
-        <updated>2022-03-16T16:23:07.000Z</updated>
-        <summary type="html"><![CDATA[How to Outlast 5-Minute Internet Fads]]></summary>
-        <author>
-            <name>Shira Ovide</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在本-阿弗莱克的《深水》中，惊悚片再次变得性感起来<em></em>。]]></title>
-        <id>https://www.theatlantic.com/culture/archive/2022/03/deep-water-movie-review-affleck/627077/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/culture/archive/2022/03/deep-water-movie-review-affleck/627077/?utm_source=feed"/>
-        <updated>2022-03-16T17:28:13.000Z</updated>
-        <summary type="html"><![CDATA[The Thriller Is Sexy Again in Ben Affleck’s <em>Deep Water</em>]]></summary>
-        <author>
-            <name>David Sims</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究发现，脑成像研究因数据集小而受阻]]></title>
-        <id>https://www.nytimes.com/2022/03/16/science/brain-imaging-research.html</id>
-        <link href="https://www.nytimes.com/2022/03/16/science/brain-imaging-research.html"/>
-        <updated>2022-03-16T16:07:09.000Z</updated>
-        <summary type="html"><![CDATA[Brain-Imaging Studies Hampered by Small Data Sets, Study Finds]]></summary>
-        <author>
-            <name>Matt Richtel</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界末日的试运行]]></title>
-        <id>https://www.theatlantic.com/family/archive/2022/03/bomb-shelter-book-nuclear-war/627075/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/family/archive/2022/03/bomb-shelter-book-nuclear-war/627075/?utm_source=feed"/>
-        <updated>2022-03-16T15:19:34.000Z</updated>
-        <summary type="html"><![CDATA[Test Runs for the End of the World]]></summary>
-        <author>
-            <name>Mary Laura Philpott</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marjorie Taylor Greene称夏令时是控制时钟的阴谋]]></title>
-        <id>https://www.newyorker.com/humor/borowitz-report/marjorie-taylor-greene-calls-daylight-saving-time-a-conspiracy-to-control-clocks</id>
-        <link href="https://www.newyorker.com/humor/borowitz-report/marjorie-taylor-greene-calls-daylight-saving-time-a-conspiracy-to-control-clocks"/>
-        <updated>2022-03-16T14:47:14.000Z</updated>
-        <summary type="html"><![CDATA[Marjorie Taylor Greene Calls Daylight-Saving Time a Conspiracy to Control Clocks]]></summary>
-        <author>
-            <name>Andy Borowitz</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沙卡里-理查森谈时间在跑步和生活中的意义]]></title>
-        <id>https://www.newyorker.com/video/watch/the-new-yorker-documentary-sub-eleven-seconds</id>
-        <link href="https://www.newyorker.com/video/watch/the-new-yorker-documentary-sub-eleven-seconds"/>
-        <updated>2022-03-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sha’Carri Richardson on the Meaning of Time in Running and in Life]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>

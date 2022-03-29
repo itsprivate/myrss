@@ -11,6 +11,90 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/humor/borowitz-report/trump-says-seven-hour-gap-in-january-6th-phone-calls-due-to-shark-marathon-on-discovery",
+            "content_html": "",
+            "url": "https://www.newyorker.com/humor/borowitz-report/trump-says-seven-hour-gap-in-january-6th-phone-calls-due-to-shark-marathon-on-discovery",
+            "title": "特朗普称1月6日的电话有7个小时的空档，原因是发现号上的鲨鱼马拉松",
+            "summary": "Trump Says Seven-Hour Gap in January 6th Phone Calls Due to Shark Marathon on Discovery",
+            "date_modified": "2022-03-29T17:13:50.000Z",
+            "author": {
+                "name": "Andy Borowitz",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/magazine/2022/04/04/ukrainian-borscht-and-support-at-varenyk-house",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/04/04/ukrainian-borscht-and-support-at-varenyk-house",
+            "title": "乌克兰罗宋汤，和支持，在瓦雷尼克之家",
+            "summary": "Ukrainian Borscht, and Support, at Varenyk House",
+            "date_modified": "2022-03-25T10:00:00.000Z",
+            "author": {
+                "name": "Hannah Goldfield",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/magazine/2022/04/04/the-orchid-show-returns-to-new-york-botanical-garden-jeff-leatham",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/04/04/the-orchid-show-returns-to-new-york-botanical-garden-jeff-leatham",
+            "title": "兰花展重返纽约植物园",
+            "summary": "The Orchid Show Returns to the New York Botanical Garden",
+            "date_modified": "2022-03-25T10:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/magazine/2022/04/04/the-comforts-of-wecrashed-and-the-modern-grifter-series",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/04/04/the-comforts-of-wecrashed-and-the-modern-grifter-series",
+            "title": "舒适的 \"WeCrashed \"和 \"Modern Grifter \"系列。",
+            "summary": "The Comforts of “WeCrashed” and the Modern Grifter Series",
+            "date_modified": "2022-03-28T10:00:00.000Z",
+            "author": {
+                "name": "Naomi Fry",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/magazine/2022/04/04/a-childhood-is-one-of-the-finest-memoirs-ever-written",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/04/04/a-childhood-is-one-of-the-finest-memoirs-ever-written",
+            "title": "\"童年》是有史以来最优秀的回忆录之一",
+            "summary": "“A Childhood” Is One of the Finest Memoirs Ever Written",
+            "date_modified": "2022-03-28T10:00:00.000Z",
+            "author": {
+                "name": "Casey Cep",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/03/29/technology/coda-apple-tv-streaming.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/29/technology/coda-apple-tv-streaming.html",
+            "title": "苹果和流媒体的幻象",
+            "summary": "Apple and the Streaming Mirage",
+            "date_modified": "2022-03-29T16:59:51.000Z",
+            "author": {
+                "name": "Shira Ovide",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/03/29/technology/twitter-russia-india.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/29/technology/twitter-russia-india.html",
+            "title": "印度支持俄罗斯的推文引发对影响运动的怀疑",
+            "summary": "Pro-Russia Tweets In India Spark Suspicions of an Influence Campaign",
+            "date_modified": "2022-03-29T17:13:12.000Z",
+            "author": {
+                "name": "Kate Conger and Suhasini Raj",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/newsletters/archive/2022/03/fighters-ukraine-russia-war/629414/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/newsletters/archive/2022/03/fighters-ukraine-russia-war/629414/?utm_source=feed",
@@ -7124,90 +7208,6 @@
             "author": {
                 "name": "John Cassidy",
                 "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/humor/daily-shouts/what-your-dogs-breed-says-about-you",
-            "content_html": "",
-            "url": "https://www.newyorker.com/humor/daily-shouts/what-your-dogs-breed-says-about-you",
-            "title": "你的狗的品种说明了你的情况",
-            "summary": "What Your Dog’s Breed Says About You",
-            "date_modified": "2022-03-16T18:00:00.000Z",
-            "author": {
-                "name": "Jenny Gorelick, Ariel Sinha",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/16/technology/tasty-internet-fads.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/16/technology/tasty-internet-fads.html",
-            "title": "如何超越5分钟的互联网潮流",
-            "summary": "How to Outlast 5-Minute Internet Fads",
-            "date_modified": "2022-03-16T16:23:07.000Z",
-            "author": {
-                "name": "Shira Ovide",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/culture/archive/2022/03/deep-water-movie-review-affleck/627077/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/culture/archive/2022/03/deep-water-movie-review-affleck/627077/?utm_source=feed",
-            "title": "在本-阿弗莱克的《深水》中，惊悚片再次变得性感起来<em></em>。",
-            "summary": "The Thriller Is Sexy Again in Ben Affleck’s <em>Deep Water</em>",
-            "date_modified": "2022-03-16T17:28:13.000Z",
-            "author": {
-                "name": "David Sims",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/16/science/brain-imaging-research.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/16/science/brain-imaging-research.html",
-            "title": "研究发现，脑成像研究因数据集小而受阻",
-            "summary": "Brain-Imaging Studies Hampered by Small Data Sets, Study Finds",
-            "date_modified": "2022-03-16T16:07:09.000Z",
-            "author": {
-                "name": "Matt Richtel",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/family/archive/2022/03/bomb-shelter-book-nuclear-war/627075/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/family/archive/2022/03/bomb-shelter-book-nuclear-war/627075/?utm_source=feed",
-            "title": "世界末日的试运行",
-            "summary": "Test Runs for the End of the World",
-            "date_modified": "2022-03-16T15:19:34.000Z",
-            "author": {
-                "name": "Mary Laura Philpott",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/humor/borowitz-report/marjorie-taylor-greene-calls-daylight-saving-time-a-conspiracy-to-control-clocks",
-            "content_html": "",
-            "url": "https://www.newyorker.com/humor/borowitz-report/marjorie-taylor-greene-calls-daylight-saving-time-a-conspiracy-to-control-clocks",
-            "title": "Marjorie Taylor Greene称夏令时是控制时钟的阴谋",
-            "summary": "Marjorie Taylor Greene Calls Daylight-Saving Time a Conspiracy to Control Clocks",
-            "date_modified": "2022-03-16T14:47:14.000Z",
-            "author": {
-                "name": "Andy Borowitz",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/video/watch/the-new-yorker-documentary-sub-eleven-seconds",
-            "content_html": "",
-            "url": "https://www.newyorker.com/video/watch/the-new-yorker-documentary-sub-eleven-seconds",
-            "title": "沙卡里-理查森谈时间在跑步和生活中的意义",
-            "summary": "Sha’Carri Richardson on the Meaning of Time in Running and in Life",
-            "date_modified": "2022-03-16T10:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]
