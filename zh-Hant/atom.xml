@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-29T08:39:12.599Z</updated>
+    <updated>2022-03-29T09:13:41.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[機器人如何幫助殘疾學生]]></title>
+        <id>https://www.nytimes.com/2022/03/29/technology/ai-robots-students-disabilities.html</id>
+        <link href="https://www.nytimes.com/2022/03/29/technology/ai-robots-students-disabilities.html"/>
+        <updated>2022-03-29T09:00:23.000Z</updated>
+        <summary type="html"><![CDATA[How Robots Can Assist Students With Disabilities]]></summary>
+        <author>
+            <name>Alina Tugend</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[核博弈理論及其侷限性]]></title>
         <id>https://noahpinion.substack.com/p/nuclear-game-theory-and-its-limitations</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Join Us for The New Yorker Live Spring Series]]></summary>
         <author>
             <name>The New Yorker</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在基輔城外尋找生存空間]]></title>
-        <id>https://www.newyorker.com/culture/photo-booth/a-search-for-survival-outside-kyiv</id>
-        <link href="https://www.newyorker.com/culture/photo-booth/a-search-for-survival-outside-kyiv"/>
-        <updated>2022-03-15T22:40:33.000Z</updated>
-        <summary type="html"><![CDATA[A Search for Survival Outside Kyiv]]></summary>
-        <author>
-            <name>Jane Ferguson</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

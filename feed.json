@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/29/technology/ai-robots-students-disabilities.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/29/technology/ai-robots-students-disabilities.html",
+            "title": "机器人如何帮助残疾学生",
+            "summary": "How Robots Can Assist Students With Disabilities",
+            "date_modified": "2022-03-29T09:00:23.000Z",
+            "author": {
+                "name": "Alina Tugend",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://noahpinion.substack.com/p/nuclear-game-theory-and-its-limitations",
             "content_html": "",
             "url": "https://noahpinion.substack.com/p/nuclear-game-theory-and-its-limitations",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-15T10:00:00.000Z",
             "author": {
                 "name": "The New Yorker",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/photo-booth/a-search-for-survival-outside-kyiv",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/photo-booth/a-search-for-survival-outside-kyiv",
-            "title": "在基辅城外寻找生存空间",
-            "summary": "A Search for Survival Outside Kyiv",
-            "date_modified": "2022-03-15T22:40:33.000Z",
-            "author": {
-                "name": "Jane Ferguson",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }
