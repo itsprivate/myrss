@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-29T15:14:54.260Z</updated>
+    <updated>2022-03-29T17:07:21.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[<em>The Atlantic</em> Daily: 烏克蘭局勢的演變]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/03/fighters-ukraine-russia-war/629414/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/fighters-ukraine-russia-war/629414/?utm_source=feed"/>
+        <updated>2022-03-29T16:44:43.000Z</updated>
+        <summary type="html"><![CDATA[<em>The Atlantic</em> Daily: The Evolving Situation in Ukraine]]></summary>
+        <author>
+            <name>Caroline Mimbs Nyce</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個社區與垃圾郵件的複雜關係]]></title>
+        <id>https://www.theatlantic.com/podcasts/archive/2022/03/spam-wwii-history-hormel-canned-meat/629416/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/podcasts/archive/2022/03/spam-wwii-history-hormel-canned-meat/629416/?utm_source=feed"/>
+        <updated>2022-03-29T16:45:53.000Z</updated>
+        <summary type="html"><![CDATA[One Community’s Complicated Relationship With SPAM]]></summary>
+        <author>
+            <name>Mary Stachyra Lopez</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日漫畫。3月29日，星期二]]></title>
         <id>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-29th-red-eyed-tree-frog</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>unknown</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日漫畫。3月16日，星期三]]></title>
-        <id>https://www.newyorker.com/cartoons/daily-cartoon/wednesday-march-16th-brady-retirement</id>
-        <link href="https://www.newyorker.com/cartoons/daily-cartoon/wednesday-march-16th-brady-retirement"/>
-        <updated>2022-03-16T14:11:56.000Z</updated>
-        <summary type="html"><![CDATA[Daily Cartoon: Wednesday, March 16th]]></summary>
-        <author>
-            <name>Trevor Spaulding</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隱秘的公開主題214.5]]></title>
-        <id>https://astralcodexten.substack.com/p/hidden-open-thread-2145</id>
-        <link href="https://astralcodexten.substack.com/p/hidden-open-thread-2145"/>
-        <updated>2022-03-11T19:29:50.000Z</updated>
-        <summary type="html"><![CDATA[Hidden Open Thread 214.5]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
         </author>
     </entry>
 </feed>

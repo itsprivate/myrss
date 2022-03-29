@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/newsletters/archive/2022/03/fighters-ukraine-russia-war/629414/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/newsletters/archive/2022/03/fighters-ukraine-russia-war/629414/?utm_source=feed",
+            "title": "<em>The Atlantic</em> Daily: 烏克蘭局勢的演變",
+            "summary": "<em>The Atlantic</em> Daily: The Evolving Situation in Ukraine",
+            "date_modified": "2022-03-29T16:44:43.000Z",
+            "author": {
+                "name": "Caroline Mimbs Nyce",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/podcasts/archive/2022/03/spam-wwii-history-hormel-canned-meat/629416/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/podcasts/archive/2022/03/spam-wwii-history-hormel-canned-meat/629416/?utm_source=feed",
+            "title": "一個社區與垃圾郵件的複雜關係",
+            "summary": "One Community’s Complicated Relationship With SPAM",
+            "date_modified": "2022-03-29T16:45:53.000Z",
+            "author": {
+                "name": "Mary Stachyra Lopez",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-29th-red-eyed-tree-frog",
             "content_html": "",
             "url": "https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-29th-red-eyed-tree-frog",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "unknown",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/cartoons/daily-cartoon/wednesday-march-16th-brady-retirement",
-            "content_html": "",
-            "url": "https://www.newyorker.com/cartoons/daily-cartoon/wednesday-march-16th-brady-retirement",
-            "title": "每日漫畫。3月16日，星期三",
-            "summary": "Daily Cartoon: Wednesday, March 16th",
-            "date_modified": "2022-03-16T14:11:56.000Z",
-            "author": {
-                "name": "Trevor Spaulding",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://astralcodexten.substack.com/p/hidden-open-thread-2145",
-            "content_html": "",
-            "url": "https://astralcodexten.substack.com/p/hidden-open-thread-2145",
-            "title": "隱秘的公開主題214.5",
-            "summary": "Hidden Open Thread 214.5",
-            "date_modified": "2022-03-11T19:29:50.000Z",
-            "author": {
-                "name": "Scott Alexander",
-                "url": "https://astralcodexten.substack.com/feed"
             }
         }
     ]

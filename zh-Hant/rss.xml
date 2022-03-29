@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 29 Mar 2022 15:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 17:07:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[<em>The Atlantic</em> Daily: 烏克蘭局勢的演變]]></title>
+            <link>https://www.theatlantic.com/newsletters/archive/2022/03/fighters-ukraine-russia-war/629414/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/newsletters/archive/2022/03/fighters-ukraine-russia-war/629414/?utm_source=feed</guid>
+            <pubDate>Tue, 29 Mar 2022 16:44:43 GMT</pubDate>
+            <description><![CDATA[<em>The Atlantic</em> Daily: The Evolving Situation in Ukraine]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一個社區與垃圾郵件的複雜關係]]></title>
+            <link>https://www.theatlantic.com/podcasts/archive/2022/03/spam-wwii-history-hormel-canned-meat/629416/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/podcasts/archive/2022/03/spam-wwii-history-hormel-canned-meat/629416/?utm_source=feed</guid>
+            <pubDate>Tue, 29 Mar 2022 16:45:53 GMT</pubDate>
+            <description><![CDATA[One Community’s Complicated Relationship With SPAM]]></description>
+        </item>
         <item>
             <title><![CDATA[每日漫畫。3月29日，星期二]]></title>
             <link>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-29th-red-eyed-tree-frog</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/video/watch/the-new-yorker-documentary-sub-eleven-seconds</guid>
             <pubDate>Wed, 16 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Sha’Carri Richardson on the Meaning of Time in Running and in Life]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日漫畫。3月16日，星期三]]></title>
-            <link>https://www.newyorker.com/cartoons/daily-cartoon/wednesday-march-16th-brady-retirement</link>
-            <guid>https://www.newyorker.com/cartoons/daily-cartoon/wednesday-march-16th-brady-retirement</guid>
-            <pubDate>Wed, 16 Mar 2022 14:11:56 GMT</pubDate>
-            <description><![CDATA[Daily Cartoon: Wednesday, March 16th]]></description>
-        </item>
-        <item>
-            <title><![CDATA[隱秘的公開主題214.5]]></title>
-            <link>https://astralcodexten.substack.com/p/hidden-open-thread-2145</link>
-            <guid>https://astralcodexten.substack.com/p/hidden-open-thread-2145</guid>
-            <pubDate>Fri, 11 Mar 2022 19:29:50 GMT</pubDate>
-            <description><![CDATA[Hidden Open Thread 214.5]]></description>
         </item>
     </channel>
 </rss>
