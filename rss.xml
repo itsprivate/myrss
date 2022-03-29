@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 29 Mar 2022 17:39:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 20:34:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[儿童的COVID疫苗需要多好？]]></title>
+            <link>https://www.theatlantic.com/health/archive/2022/03/how-effective-are-kids-covid-vaccines/629419/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/health/archive/2022/03/how-effective-are-kids-covid-vaccines/629419/?utm_source=feed</guid>
+            <pubDate>Tue, 29 Mar 2022 20:15:32 GMT</pubDate>
+            <description><![CDATA[How Good Do Kids’ COVID Vaccines Need to Be?]]></description>
+        </item>
         <item>
             <title><![CDATA[特朗普称1月6日的电话有7个小时的空档，原因是发现号上的鲨鱼马拉松]]></title>
             <link>https://www.newyorker.com/humor/borowitz-report/trump-says-seven-hour-gap-in-january-6th-phone-calls-due-to-shark-marathon-on-discovery</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/magazine/2022/03/21/ukrainian-refugees-journeys-have-just-begun</guid>
             <pubDate>Mon, 14 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Ukrainian Refugees’ Journeys Have Just Begun]]></description>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰战争对美国经济的威胁有多大？]]></title>
-            <link>https://www.newyorker.com/news/our-columnists/how-big-a-threat-to-the-us-economy-is-the-war-in-ukraine</link>
-            <guid>https://www.newyorker.com/news/our-columnists/how-big-a-threat-to-the-us-economy-is-the-war-in-ukraine</guid>
-            <pubDate>Mon, 14 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[How Big a Threat to the U.S. Economy Is the War in Ukraine?]]></description>
         </item>
     </channel>
 </rss>

@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/health/archive/2022/03/how-effective-are-kids-covid-vaccines/629419/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/health/archive/2022/03/how-effective-are-kids-covid-vaccines/629419/?utm_source=feed",
+            "title": "兒童的COVID疫苗需要多好？",
+            "summary": "How Good Do Kids’ COVID Vaccines Need to Be?",
+            "date_modified": "2022-03-29T20:15:32.000Z",
+            "author": {
+                "name": "Katherine J. Wu",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/humor/borowitz-report/trump-says-seven-hour-gap-in-january-6th-phone-calls-due-to-shark-marathon-on-discovery",
             "content_html": "",
             "url": "https://www.newyorker.com/humor/borowitz-report/trump-says-seven-hour-gap-in-january-6th-phone-calls-due-to-shark-marathon-on-discovery",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-14T10:00:00.000Z",
             "author": {
                 "name": "unknown",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/our-columnists/how-big-a-threat-to-the-us-economy-is-the-war-in-ukraine",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/our-columnists/how-big-a-threat-to-the-us-economy-is-the-war-in-ukraine",
-            "title": "烏克蘭戰爭對美國經濟的威脅有多大？",
-            "summary": "How Big a Threat to the U.S. Economy Is the War in Ukraine?",
-            "date_modified": "2022-03-14T10:00:00.000Z",
-            "author": {
-                "name": "John Cassidy",
                 "url": "https://www.newyorker.com/feed/news"
             }
         }

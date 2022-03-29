@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-29T17:39:00.221Z</updated>
+    <updated>2022-03-29T20:34:27.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[兒童的COVID疫苗需要多好？]]></title>
+        <id>https://www.theatlantic.com/health/archive/2022/03/how-effective-are-kids-covid-vaccines/629419/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/health/archive/2022/03/how-effective-are-kids-covid-vaccines/629419/?utm_source=feed"/>
+        <updated>2022-03-29T20:15:32.000Z</updated>
+        <summary type="html"><![CDATA[How Good Do Kids’ COVID Vaccines Need to Be?]]></summary>
+        <author>
+            <name>Katherine J. Wu</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[特朗普稱1月6日的電話有7個小時的空檔，原因是發現號上的鯊魚馬拉松]]></title>
         <id>https://www.newyorker.com/humor/borowitz-report/trump-says-seven-hour-gap-in-january-6th-phone-calls-due-to-shark-marathon-on-discovery</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Ukrainian Refugees’ Journeys Have Just Begun]]></summary>
         <author>
             <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭戰爭對美國經濟的威脅有多大？]]></title>
-        <id>https://www.newyorker.com/news/our-columnists/how-big-a-threat-to-the-us-economy-is-the-war-in-ukraine</id>
-        <link href="https://www.newyorker.com/news/our-columnists/how-big-a-threat-to-the-us-economy-is-the-war-in-ukraine"/>
-        <updated>2022-03-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How Big a Threat to the U.S. Economy Is the War in Ukraine?]]></summary>
-        <author>
-            <name>John Cassidy</name>
             <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
