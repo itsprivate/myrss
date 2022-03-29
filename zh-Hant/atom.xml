@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-29T10:15:04.310Z</updated>
+    <updated>2022-03-29T10:43:10.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有孩子朋友的人寫的論文]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/dissertations-written-by-someone-who-has-friends-with-kids</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/dissertations-written-by-someone-who-has-friends-with-kids"/>
+        <updated>2022-03-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dissertations Written by Someone Who Has Friends with Kids]]></summary>
+        <author>
+            <name>Erica Lies, Kerry Elson</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[填字遊戲: 2022年3月29日，星期二]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/29</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/29"/>
+        <updated>2022-03-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Crossword: Tuesday, March 29, 2022]]></summary>
+        <author>
+            <name>Paolo Pasco</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[落名：2022年3月29日，星期二]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/29</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/29"/>
+        <updated>2022-03-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Name Drop: Tuesday, March 29, 2022]]></summary>
+        <author>
+            <name>Liz Maynes-Aminzade</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼這麼多俄羅斯人說他們支持烏克蘭的戰爭？]]></title>
+        <id>https://www.newyorker.com/news/news-desk/why-do-so-many-russians-say-they-support-the-war-in-ukraine</id>
+        <link href="https://www.newyorker.com/news/news-desk/why-do-so-many-russians-say-they-support-the-war-in-ukraine"/>
+        <updated>2022-03-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why Do So Many Russians Say They Support the War in Ukraine?]]></summary>
+        <author>
+            <name>Joshua Yaffa</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[當我意識到這是老年痴呆症時]]></title>
+        <id>https://www.newyorker.com/culture/culture-desk/when-i-realized-it-was-alzheimers</id>
+        <link href="https://www.newyorker.com/culture/culture-desk/when-i-realized-it-was-alzheimers"/>
+        <updated>2022-03-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When I Realized It Was Alzheimer’s]]></summary>
+        <author>
+            <name>Amy Bloom, Jason Adam Katzenstein</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[將理論推向主流的編輯]]></title>
+        <id>https://www.newyorker.com/culture/persons-of-interest/the-editor-who-moves-theory-into-the-mainstream</id>
+        <link href="https://www.newyorker.com/culture/persons-of-interest/the-editor-who-moves-theory-into-the-mainstream"/>
+        <updated>2022-03-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Editor Who Moves Theory Into the Mainstream]]></summary>
+        <author>
+            <name>Jennifer Wilson</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[當我意識到是阿爾茨海默病時]]></title>
         <id>https://www.newyorker.com/culture/culture-desk/when-i-realized-it-was-alzheimers</id>
@@ -6546,72 +6612,6 @@
         <summary type="html"><![CDATA[How to Know When You’re Over Your Ex]]></summary>
         <author>
             <name>Eli Coyote Mandel</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[填字遊戲: 2022年3月16日，星期三]]></title>
-        <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/16</id>
-        <link href="https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/16"/>
-        <updated>2022-03-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Crossword: Wednesday, March 16, 2022]]></summary>
-        <author>
-            <name>Elizabeth C. Gorski</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京墮入專制主義，簡-坎皮恩談 "狗的力量"]]></title>
-        <id>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/putins-descent-into-despotism-and-jane-campion-on-the-power-of-the-dog</id>
-        <link href="https://www.newyorker.com/podcast/the-new-yorker-radio-hour/putins-descent-into-despotism-and-jane-campion-on-the-power-of-the-dog"/>
-        <updated>2022-03-11T22:56:06.000Z</updated>
-        <summary type="html"><![CDATA[Putin’s Descent Into Despotism, and Jane Campion on “The Power of the Dog”]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在霍克斯莫爾的令人愉快的發現]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/21/delightful-discoveries-at-hawksmoor</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/21/delightful-discoveries-at-hawksmoor"/>
-        <updated>2022-03-11T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Delightful Discoveries at Hawksmoor]]></summary>
-        <author>
-            <name>Jiayang Fan</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[迪翁-沃裡克的無暇之音]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/21/dionne-warwicks-flawless-voice</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/21/dionne-warwicks-flawless-voice"/>
-        <updated>2022-03-11T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dionne Warwick’s Flawless Voice]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Bel-Air "和 "Abbott Elementary "重新啟動和恢復網絡情景喜劇]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/21/bel-air-and-abbott-elementary-reboot-and-revive-the-network-sitcom</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/21/bel-air-and-abbott-elementary-reboot-and-revive-the-network-sitcom"/>
-        <updated>2022-03-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“Bel-Air” and “Abbott Elementary” Reboot and Revive the Network Sitcom]]></summary>
-        <author>
-            <name>Doreen St. Félix</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中國女人》中的歷史課]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/21/history-lessons-in-the-chinese-lady</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/21/history-lessons-in-the-chinese-lady"/>
-        <updated>2022-03-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[History Lessons in “The Chinese Lady”]]></summary>
-        <author>
-            <name>Vinson Cunningham</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

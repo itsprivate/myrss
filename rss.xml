@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 29 Mar 2022 10:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 10:43:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,48 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[有孩子朋友的人写的论文]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/dissertations-written-by-someone-who-has-friends-with-kids</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/dissertations-written-by-someone-who-has-friends-with-kids</guid>
+            <pubDate>Tue, 29 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Dissertations Written by Someone Who Has Friends with Kids]]></description>
+        </item>
+        <item>
+            <title><![CDATA[填字游戏: 2022年3月29日，星期二]]></title>
+            <link>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/29</link>
+            <guid>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/29</guid>
+            <pubDate>Tue, 29 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Crossword: Tuesday, March 29, 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[落名：2022年3月29日，星期二]]></title>
+            <link>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/29</link>
+            <guid>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/29</guid>
+            <pubDate>Tue, 29 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Name Drop: Tuesday, March 29, 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[为什么这么多俄罗斯人说他们支持乌克兰的战争？]]></title>
+            <link>https://www.newyorker.com/news/news-desk/why-do-so-many-russians-say-they-support-the-war-in-ukraine</link>
+            <guid>https://www.newyorker.com/news/news-desk/why-do-so-many-russians-say-they-support-the-war-in-ukraine</guid>
+            <pubDate>Tue, 29 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Why Do So Many Russians Say They Support the War in Ukraine?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[当我意识到这是老年痴呆症时]]></title>
+            <link>https://www.newyorker.com/culture/culture-desk/when-i-realized-it-was-alzheimers</link>
+            <guid>https://www.newyorker.com/culture/culture-desk/when-i-realized-it-was-alzheimers</guid>
+            <pubDate>Tue, 29 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[When I Realized It Was Alzheimer’s]]></description>
+        </item>
+        <item>
+            <title><![CDATA[将理论推向主流的编辑]]></title>
+            <link>https://www.newyorker.com/culture/persons-of-interest/the-editor-who-moves-theory-into-the-mainstream</link>
+            <guid>https://www.newyorker.com/culture/persons-of-interest/the-editor-who-moves-theory-into-the-mainstream</guid>
+            <pubDate>Tue, 29 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Editor Who Moves Theory Into the Mainstream]]></description>
+        </item>
         <item>
             <title><![CDATA[当我意识到是阿尔茨海默病时]]></title>
             <link>https://www.newyorker.com/culture/culture-desk/when-i-realized-it-was-alzheimers</link>
@@ -4171,48 +4213,6 @@
             <guid>https://www.newyorker.com/humor/daily-shouts/how-to-know-when-youre-over-your-ex</guid>
             <pubDate>Wed, 16 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[How to Know When You’re Over Your Ex]]></description>
-        </item>
-        <item>
-            <title><![CDATA[填字游戏: 2022年3月16日，星期三]]></title>
-            <link>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/16</link>
-            <guid>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/16</guid>
-            <pubDate>Wed, 16 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Crossword: Wednesday, March 16, 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[普京堕入专制主义，简-坎皮恩谈 "狗的力量"]]></title>
-            <link>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/putins-descent-into-despotism-and-jane-campion-on-the-power-of-the-dog</link>
-            <guid>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/putins-descent-into-despotism-and-jane-campion-on-the-power-of-the-dog</guid>
-            <pubDate>Fri, 11 Mar 2022 22:56:06 GMT</pubDate>
-            <description><![CDATA[Putin’s Descent Into Despotism, and Jane Campion on “The Power of the Dog”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在霍克斯莫尔的令人愉快的发现]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/21/delightful-discoveries-at-hawksmoor</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/21/delightful-discoveries-at-hawksmoor</guid>
-            <pubDate>Fri, 11 Mar 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[Delightful Discoveries at Hawksmoor]]></description>
-        </item>
-        <item>
-            <title><![CDATA[迪翁-沃里克的无暇之音]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/21/dionne-warwicks-flawless-voice</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/21/dionne-warwicks-flawless-voice</guid>
-            <pubDate>Fri, 11 Mar 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[Dionne Warwick’s Flawless Voice]]></description>
-        </item>
-        <item>
-            <title><![CDATA["Bel-Air "和 "Abbott Elementary "重新启动和恢复网络情景喜剧]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/21/bel-air-and-abbott-elementary-reboot-and-revive-the-network-sitcom</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/21/bel-air-and-abbott-elementary-reboot-and-revive-the-network-sitcom</guid>
-            <pubDate>Mon, 14 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[“Bel-Air” and “Abbott Elementary” Reboot and Revive the Network Sitcom]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中国女人》中的历史课]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/21/history-lessons-in-the-chinese-lady</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/21/history-lessons-in-the-chinese-lady</guid>
-            <pubDate>Mon, 14 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[History Lessons in “The Chinese Lady”]]></description>
         </item>
     </channel>
 </rss>
