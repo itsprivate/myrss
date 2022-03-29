@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 29 Mar 2022 14:32:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 15:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[每日漫画。3月29日，星期二]]></title>
+            <link>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-29th-red-eyed-tree-frog</link>
+            <guid>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-29th-red-eyed-tree-frog</guid>
+            <pubDate>Tue, 29 Mar 2022 14:53:55 GMT</pubDate>
+            <description><![CDATA[Daily Cartoon: Tuesday, March 29th]]></description>
+        </item>
+        <item>
+            <title><![CDATA[与冬季德克萨斯人一起玩沙狐球和河上巡游]]></title>
+            <link>https://www.newyorker.com/news/letter-from-the-southwest/shuffleboard-and-river-cruises-with-the-winter-texans</link>
+            <guid>https://www.newyorker.com/news/letter-from-the-southwest/shuffleboard-and-river-cruises-with-the-winter-texans</guid>
+            <pubDate>Tue, 29 Mar 2022 14:56:59 GMT</pubDate>
+            <description><![CDATA[Shuffleboard and River Cruises with the Winter Texans]]></description>
+        </item>
         <item>
             <title><![CDATA[特朗普内疚的7小时37分钟]]></title>
             <link>https://www.theatlantic.com/ideas/archive/2022/03/trump-phone-calls-gap-january-6/629413/?utm_source=feed</link>
@@ -4199,20 +4213,6 @@
             <guid>https://astralcodexten.substack.com/p/hidden-open-thread-2145</guid>
             <pubDate>Fri, 11 Mar 2022 19:29:50 GMT</pubDate>
             <description><![CDATA[Hidden Open Thread 214.5]]></description>
-        </item>
-        <item>
-            <title><![CDATA[开放话题215]]></title>
-            <link>https://astralcodexten.substack.com/p/open-thread-215</link>
-            <guid>https://astralcodexten.substack.com/p/open-thread-215</guid>
-            <pubDate>Sun, 13 Mar 2022 19:35:09 GMT</pubDate>
-            <description><![CDATA[Open Thread 215]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Mantic 3/14/22星期一]]></title>
-            <link>https://astralcodexten.substack.com/p/mantic-monday-31422</link>
-            <guid>https://astralcodexten.substack.com/p/mantic-monday-31422</guid>
-            <pubDate>Mon, 14 Mar 2022 18:17:47 GMT</pubDate>
-            <description><![CDATA[Mantic Monday 3/14/22]]></description>
         </item>
     </channel>
 </rss>

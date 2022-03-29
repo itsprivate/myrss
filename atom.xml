@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-29T14:32:35.828Z</updated>
+    <updated>2022-03-29T15:14:54.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每日漫画。3月29日，星期二]]></title>
+        <id>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-29th-red-eyed-tree-frog</id>
+        <link href="https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-29th-red-eyed-tree-frog"/>
+        <updated>2022-03-29T14:53:55.000Z</updated>
+        <summary type="html"><![CDATA[Daily Cartoon: Tuesday, March 29th]]></summary>
+        <author>
+            <name>Ali Solomon</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[与冬季德克萨斯人一起玩沙狐球和河上巡游]]></title>
+        <id>https://www.newyorker.com/news/letter-from-the-southwest/shuffleboard-and-river-cruises-with-the-winter-texans</id>
+        <link href="https://www.newyorker.com/news/letter-from-the-southwest/shuffleboard-and-river-cruises-with-the-winter-texans"/>
+        <updated>2022-03-29T14:56:59.000Z</updated>
+        <summary type="html"><![CDATA[Shuffleboard and River Cruises with the Winter Texans]]></summary>
+        <author>
+            <name>Rachel Monroe</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[特朗普内疚的7小时37分钟]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/03/trump-phone-calls-gap-january-6/629413/?utm_source=feed</id>
@@ -6588,28 +6610,6 @@
         <link href="https://astralcodexten.substack.com/p/hidden-open-thread-2145"/>
         <updated>2022-03-11T19:29:50.000Z</updated>
         <summary type="html"><![CDATA[Hidden Open Thread 214.5]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开放话题215]]></title>
-        <id>https://astralcodexten.substack.com/p/open-thread-215</id>
-        <link href="https://astralcodexten.substack.com/p/open-thread-215"/>
-        <updated>2022-03-13T19:35:09.000Z</updated>
-        <summary type="html"><![CDATA[Open Thread 215]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mantic 3/14/22星期一]]></title>
-        <id>https://astralcodexten.substack.com/p/mantic-monday-31422</id>
-        <link href="https://astralcodexten.substack.com/p/mantic-monday-31422"/>
-        <updated>2022-03-14T18:17:47.000Z</updated>
-        <summary type="html"><![CDATA[Mantic Monday 3/14/22]]></summary>
         <author>
             <name>Scott Alexander</name>
             <uri>https://astralcodexten.substack.com/feed</uri>
