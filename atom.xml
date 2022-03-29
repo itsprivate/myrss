@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-29T10:43:09.905Z</updated>
+    <updated>2022-03-29T11:31:36.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在看什么？]]></title>
+        <id>https://austinkleon.substack.com/p/what-are-you-watching</id>
+        <link href="https://austinkleon.substack.com/p/what-are-you-watching"/>
+        <updated>2022-03-29T11:00:31.000Z</updated>
+        <summary type="html"><![CDATA[What are you watching?]]></summary>
+        <author>
+            <name>Austin Kleon</name>
+            <uri>https://austinkleon.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文学作品中最令人难忘的12种食物描述]]></title>
+        <id>https://www.theatlantic.com/books/archive/2022/03/unforgettable-food-scenes-books-haruki-murakami/627601/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/books/archive/2022/03/unforgettable-food-scenes-books-haruki-murakami/627601/?utm_source=feed"/>
+        <updated>2022-03-29T11:01:02.000Z</updated>
+        <summary type="html"><![CDATA[The 12 Most Unforgettable Descriptions of Food in Literature]]></summary>
+        <author>
+            <name>Adrienne LaFrance</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有孩子朋友的人写的论文]]></title>
         <id>https://www.newyorker.com/humor/daily-shouts/dissertations-written-by-someone-who-has-friends-with-kids</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[Nina Khrushcheva on Putin’s Poisonous Nationalism and a New “New Russia”]]></summary>
         <author>
             <name>Isaac Chotiner</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[落名：2022年3月16日，星期三]]></title>
-        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/16</id>
-        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/16"/>
-        <updated>2022-03-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Name Drop: Wednesday, March 16, 2022]]></summary>
-        <author>
-            <name>Matt Jackson</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何知道你什么时候对你的前男友释怀了]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/how-to-know-when-youre-over-your-ex</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/how-to-know-when-youre-over-your-ex"/>
-        <updated>2022-03-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How to Know When You’re Over Your Ex]]></summary>
-        <author>
-            <name>Eli Coyote Mandel</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
