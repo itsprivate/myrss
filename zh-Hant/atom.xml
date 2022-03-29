@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-29T20:34:27.058Z</updated>
+    <updated>2022-03-29T21:31:34.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭的談判解決方案可能是什麼樣子的]]></title>
+        <id>https://www.newyorker.com/news/q-and-a/what-a-negotiated-solution-in-ukraine-might-look-like</id>
+        <link href="https://www.newyorker.com/news/q-and-a/what-a-negotiated-solution-in-ukraine-might-look-like"/>
+        <updated>2022-03-29T21:16:10.000Z</updated>
+        <summary type="html"><![CDATA[What a Negotiated Solution in Ukraine Might Look Like]]></summary>
+        <author>
+            <name>Isaac Chotiner</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[兒童的COVID疫苗需要多好？]]></title>
         <id>https://www.theatlantic.com/health/archive/2022/03/how-effective-are-kids-covid-vaccines/629419/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Have Chinese Spies Infiltrated American Campuses?]]></summary>
         <author>
             <name>Gideon Lewis-Kraus</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭難民的旅程剛剛開始]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/21/ukrainian-refugees-journeys-have-just-begun</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/21/ukrainian-refugees-journeys-have-just-begun"/>
-        <updated>2022-03-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ukrainian Refugees’ Journeys Have Just Begun]]></summary>
-        <author>
-            <name>unknown</name>
             <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>

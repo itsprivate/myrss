@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/q-and-a/what-a-negotiated-solution-in-ukraine-might-look-like",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/q-and-a/what-a-negotiated-solution-in-ukraine-might-look-like",
+            "title": "乌克兰的谈判解决方案可能是什么样子的",
+            "summary": "What a Negotiated Solution in Ukraine Might Look Like",
+            "date_modified": "2022-03-29T21:16:10.000Z",
+            "author": {
+                "name": "Isaac Chotiner",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/health/archive/2022/03/how-effective-are-kids-covid-vaccines/629419/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/health/archive/2022/03/how-effective-are-kids-covid-vaccines/629419/?utm_source=feed",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-14T10:00:00.000Z",
             "author": {
                 "name": "Gideon Lewis-Kraus",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/03/21/ukrainian-refugees-journeys-have-just-begun",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/03/21/ukrainian-refugees-journeys-have-just-begun",
-            "title": "乌克兰难民的旅程刚刚开始",
-            "summary": "Ukrainian Refugees’ Journeys Have Just Begun",
-            "date_modified": "2022-03-14T10:00:00.000Z",
-            "author": {
-                "name": "unknown",
                 "url": "https://www.newyorker.com/feed/news"
             }
         }
