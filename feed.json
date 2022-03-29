@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://austinkleon.substack.com/p/old-ways-to-do-new-things",
+            "content_html": "",
+            "url": "https://austinkleon.substack.com/p/old-ways-to-do-new-things",
+            "title": "用旧方法做新事情",
+            "summary": "Old ways to do new things",
+            "date_modified": "2022-03-29T12:00:52.000Z",
+            "author": {
+                "name": "Austin Kleon",
+                "url": "https://austinkleon.substack.com/feed"
+            }
+        },
+        {
             "id": "https://austinkleon.substack.com/p/what-are-you-watching",
             "content_html": "",
             "url": "https://austinkleon.substack.com/p/what-are-you-watching",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-15T23:19:01.000Z",
             "author": {
                 "name": "Susan Orlean",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/q-and-a/nina-khrushcheva-on-putins-poisonous-nationalism-and-a-new-new-russia",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/q-and-a/nina-khrushcheva-on-putins-poisonous-nationalism-and-a-new-new-russia",
-            "title": "尼娜-赫鲁晓娃谈普京的有毒民族主义和新的 \"新俄罗斯\"",
-            "summary": "Nina Khrushcheva on Putin’s Poisonous Nationalism and a New “New Russia”",
-            "date_modified": "2022-03-16T00:12:59.000Z",
-            "author": {
-                "name": "Isaac Chotiner",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

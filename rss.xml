@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 29 Mar 2022 11:31:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 12:23:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用旧方法做新事情]]></title>
+            <link>https://austinkleon.substack.com/p/old-ways-to-do-new-things</link>
+            <guid>https://austinkleon.substack.com/p/old-ways-to-do-new-things</guid>
+            <pubDate>Tue, 29 Mar 2022 12:00:52 GMT</pubDate>
+            <description><![CDATA[Old ways to do new things]]></description>
+        </item>
         <item>
             <title><![CDATA[你在看什么？]]></title>
             <link>https://austinkleon.substack.com/p/what-are-you-watching</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/news/afterword/a-lucha-libre-wrestler-beloved-by-children</guid>
             <pubDate>Tue, 15 Mar 2022 23:19:01 GMT</pubDate>
             <description><![CDATA[A Lucha Libre Wrestler Beloved by Children]]></description>
-        </item>
-        <item>
-            <title><![CDATA[尼娜-赫鲁晓娃谈普京的有毒民族主义和新的 "新俄罗斯"]]></title>
-            <link>https://www.newyorker.com/news/q-and-a/nina-khrushcheva-on-putins-poisonous-nationalism-and-a-new-new-russia</link>
-            <guid>https://www.newyorker.com/news/q-and-a/nina-khrushcheva-on-putins-poisonous-nationalism-and-a-new-new-russia</guid>
-            <pubDate>Wed, 16 Mar 2022 00:12:59 GMT</pubDate>
-            <description><![CDATA[Nina Khrushcheva on Putin’s Poisonous Nationalism and a New “New Russia”]]></description>
         </item>
     </channel>
 </rss>

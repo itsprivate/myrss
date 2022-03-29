@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-29T11:31:36.331Z</updated>
+    <updated>2022-03-29T12:23:48.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用舊方法做新事情]]></title>
+        <id>https://austinkleon.substack.com/p/old-ways-to-do-new-things</id>
+        <link href="https://austinkleon.substack.com/p/old-ways-to-do-new-things"/>
+        <updated>2022-03-29T12:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Old ways to do new things]]></summary>
+        <author>
+            <name>Austin Kleon</name>
+            <uri>https://austinkleon.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你在看什麼？]]></title>
         <id>https://austinkleon.substack.com/p/what-are-you-watching</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[A Lucha Libre Wrestler Beloved by Children]]></summary>
         <author>
             <name>Susan Orlean</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尼娜-赫魯曉娃談普京的有毒民族主義和新的 "新俄羅斯"]]></title>
-        <id>https://www.newyorker.com/news/q-and-a/nina-khrushcheva-on-putins-poisonous-nationalism-and-a-new-new-russia</id>
-        <link href="https://www.newyorker.com/news/q-and-a/nina-khrushcheva-on-putins-poisonous-nationalism-and-a-new-new-russia"/>
-        <updated>2022-03-16T00:12:59.000Z</updated>
-        <summary type="html"><![CDATA[Nina Khrushcheva on Putin’s Poisonous Nationalism and a New “New Russia”]]></summary>
-        <author>
-            <name>Isaac Chotiner</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
