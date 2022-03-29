@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 29 Mar 2022 09:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 10:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,34 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[當我意識到是阿爾茨海默病時]]></title>
+            <link>https://www.newyorker.com/culture/culture-desk/when-i-realized-it-was-alzheimers</link>
+            <guid>https://www.newyorker.com/culture/culture-desk/when-i-realized-it-was-alzheimers</guid>
+            <pubDate>Tue, 29 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[When I Realized It Was Alzheimer’s]]></description>
+        </item>
+        <item>
+            <title><![CDATA[將理論推向主流的編輯]]></title>
+            <link>https://www.newyorker.com/culture/persons-of-interest/the-editor-who-moves-theory-into-the-mainstream</link>
+            <guid>https://www.newyorker.com/culture/persons-of-interest/the-editor-who-moves-theory-into-the-mainstream</guid>
+            <pubDate>Tue, 29 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Editor Who Moves Theory Into the Mainstream]]></description>
+        </item>
+        <item>
+            <title><![CDATA[為什麼這麼多俄羅斯人說他們支持烏克蘭的戰爭？]]></title>
+            <link>https://www.newyorker.com/news/news-desk/why-do-so-many-russians-say-they-support-the-war-in-ukraine</link>
+            <guid>https://www.newyorker.com/news/news-desk/why-do-so-many-russians-say-they-support-the-war-in-ukraine</guid>
+            <pubDate>Tue, 29 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Why Do So Many Russians Say They Support the War in Ukraine?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[基輔的犀牛]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/03/ukraine-oleh-sentsov-film-war/629408/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/03/ukraine-oleh-sentsov-film-war/629408/?utm_source=feed</guid>
+            <pubDate>Tue, 29 Mar 2022 10:00:57 GMT</pubDate>
+            <description><![CDATA[The Rhino of Kyiv]]></description>
+        </item>
         <item>
             <title><![CDATA[機器人如何幫助殘疾學生]]></title>
             <link>https://www.nytimes.com/2022/03/29/technology/ai-robots-students-disabilities.html</link>
@@ -4185,34 +4213,6 @@
             <guid>https://www.newyorker.com/magazine/2022/03/21/history-lessons-in-the-chinese-lady</guid>
             <pubDate>Mon, 14 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[History Lessons in “The Chinese Lady”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[文學界最具爭議性的諾貝爾獎獲得者]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/21/literatures-most-controversial-nobel-laureate</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/21/literatures-most-controversial-nobel-laureate</guid>
-            <pubDate>Mon, 14 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Literature’s Most Controversial Nobel Laureate]]></description>
-        </item>
-        <item>
-            <title><![CDATA[戰爭時期的藝術]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/21/art-in-a-time-of-war</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/21/art-in-a-time-of-war</guid>
-            <pubDate>Mon, 14 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Art in a Time of War]]></description>
-        </item>
-        <item>
-            <title><![CDATA[形而上的恐怖在大膽的 "大師 "中變得非常真實]]></title>
-            <link>https://www.newyorker.com/culture/the-front-row/metaphysical-horror-becomes-all-too-real-in-the-audacious-master</link>
-            <guid>https://www.newyorker.com/culture/the-front-row/metaphysical-horror-becomes-all-too-real-in-the-audacious-master</guid>
-            <pubDate>Tue, 15 Mar 2022 00:04:59 GMT</pubDate>
-            <description><![CDATA[Metaphysical Horror Becomes All Too Real in the Audacious “Master”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[加入我們的《紐約客》春季現場系列活動]]></title>
-            <link>https://www.newyorker.com/culture/culture-desk/new-yorker-live-spring-series-ukraine-russia-kroll-bryant-barber-nelson</link>
-            <guid>https://www.newyorker.com/culture/culture-desk/new-yorker-live-spring-series-ukraine-russia-kroll-bryant-barber-nelson</guid>
-            <pubDate>Tue, 15 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Join Us for The New Yorker Live Spring Series]]></description>
         </item>
     </channel>
 </rss>

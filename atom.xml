@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-29T09:13:41.468Z</updated>
+    <updated>2022-03-29T10:15:04.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[当我意识到是阿尔茨海默病时]]></title>
+        <id>https://www.newyorker.com/culture/culture-desk/when-i-realized-it-was-alzheimers</id>
+        <link href="https://www.newyorker.com/culture/culture-desk/when-i-realized-it-was-alzheimers"/>
+        <updated>2022-03-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When I Realized It Was Alzheimer’s]]></summary>
+        <author>
+            <name>Amy Bloom, Jason Adam Katzenstein</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[将理论推向主流的编辑]]></title>
+        <id>https://www.newyorker.com/culture/persons-of-interest/the-editor-who-moves-theory-into-the-mainstream</id>
+        <link href="https://www.newyorker.com/culture/persons-of-interest/the-editor-who-moves-theory-into-the-mainstream"/>
+        <updated>2022-03-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Editor Who Moves Theory Into the Mainstream]]></summary>
+        <author>
+            <name>Jennifer Wilson</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么这么多俄罗斯人说他们支持乌克兰的战争？]]></title>
+        <id>https://www.newyorker.com/news/news-desk/why-do-so-many-russians-say-they-support-the-war-in-ukraine</id>
+        <link href="https://www.newyorker.com/news/news-desk/why-do-so-many-russians-say-they-support-the-war-in-ukraine"/>
+        <updated>2022-03-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why Do So Many Russians Say They Support the War in Ukraine?]]></summary>
+        <author>
+            <name>Joshua Yaffa</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基辅的犀牛]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/ukraine-oleh-sentsov-film-war/629408/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/ukraine-oleh-sentsov-film-war/629408/?utm_source=feed"/>
+        <updated>2022-03-29T10:00:57.000Z</updated>
+        <summary type="html"><![CDATA[The Rhino of Kyiv]]></summary>
+        <author>
+            <name>Elliot Ackerman</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[机器人如何帮助残疾学生]]></title>
         <id>https://www.nytimes.com/2022/03/29/technology/ai-robots-students-disabilities.html</id>
@@ -6568,50 +6612,6 @@
         <summary type="html"><![CDATA[History Lessons in “The Chinese Lady”]]></summary>
         <author>
             <name>Vinson Cunningham</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文学界最具争议性的诺贝尔奖获得者]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/21/literatures-most-controversial-nobel-laureate</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/21/literatures-most-controversial-nobel-laureate"/>
-        <updated>2022-03-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Literature’s Most Controversial Nobel Laureate]]></summary>
-        <author>
-            <name>Ruth Franklin</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[战争时期的艺术]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/21/art-in-a-time-of-war</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/21/art-in-a-time-of-war"/>
-        <updated>2022-03-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Art in a Time of War]]></summary>
-        <author>
-            <name>Peter Schjeldahl</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[形而上的恐怖在大胆的 "大师 "中变得非常真实]]></title>
-        <id>https://www.newyorker.com/culture/the-front-row/metaphysical-horror-becomes-all-too-real-in-the-audacious-master</id>
-        <link href="https://www.newyorker.com/culture/the-front-row/metaphysical-horror-becomes-all-too-real-in-the-audacious-master"/>
-        <updated>2022-03-15T00:04:59.000Z</updated>
-        <summary type="html"><![CDATA[Metaphysical Horror Becomes All Too Real in the Audacious “Master”]]></summary>
-        <author>
-            <name>Richard Brody</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加入我们的《纽约客》春季现场系列活动]]></title>
-        <id>https://www.newyorker.com/culture/culture-desk/new-yorker-live-spring-series-ukraine-russia-kroll-bryant-barber-nelson</id>
-        <link href="https://www.newyorker.com/culture/culture-desk/new-yorker-live-spring-series-ukraine-russia-kroll-bryant-barber-nelson"/>
-        <updated>2022-03-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Join Us for The New Yorker Live Spring Series]]></summary>
-        <author>
-            <name>The New Yorker</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

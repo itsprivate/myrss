@@ -11,6 +11,54 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/culture/culture-desk/when-i-realized-it-was-alzheimers",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/culture-desk/when-i-realized-it-was-alzheimers",
+            "title": "當我意識到是阿爾茨海默病時",
+            "summary": "When I Realized It Was Alzheimer’s",
+            "date_modified": "2022-03-29T10:00:00.000Z",
+            "author": {
+                "name": "Amy Bloom, Jason Adam Katzenstein",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/culture/persons-of-interest/the-editor-who-moves-theory-into-the-mainstream",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/persons-of-interest/the-editor-who-moves-theory-into-the-mainstream",
+            "title": "將理論推向主流的編輯",
+            "summary": "The Editor Who Moves Theory Into the Mainstream",
+            "date_modified": "2022-03-29T10:00:00.000Z",
+            "author": {
+                "name": "Jennifer Wilson",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/news-desk/why-do-so-many-russians-say-they-support-the-war-in-ukraine",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/news-desk/why-do-so-many-russians-say-they-support-the-war-in-ukraine",
+            "title": "為什麼這麼多俄羅斯人說他們支持烏克蘭的戰爭？",
+            "summary": "Why Do So Many Russians Say They Support the War in Ukraine?",
+            "date_modified": "2022-03-29T10:00:00.000Z",
+            "author": {
+                "name": "Joshua Yaffa",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/03/ukraine-oleh-sentsov-film-war/629408/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/03/ukraine-oleh-sentsov-film-war/629408/?utm_source=feed",
+            "title": "基輔的犀牛",
+            "summary": "The Rhino of Kyiv",
+            "date_modified": "2022-03-29T10:00:57.000Z",
+            "author": {
+                "name": "Elliot Ackerman",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/29/technology/ai-robots-students-disabilities.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/29/technology/ai-robots-students-disabilities.html",
@@ -7159,54 +7207,6 @@
             "date_modified": "2022-03-14T10:00:00.000Z",
             "author": {
                 "name": "Vinson Cunningham",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/03/21/literatures-most-controversial-nobel-laureate",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/03/21/literatures-most-controversial-nobel-laureate",
-            "title": "文學界最具爭議性的諾貝爾獎獲得者",
-            "summary": "Literature’s Most Controversial Nobel Laureate",
-            "date_modified": "2022-03-14T10:00:00.000Z",
-            "author": {
-                "name": "Ruth Franklin",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/03/21/art-in-a-time-of-war",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/03/21/art-in-a-time-of-war",
-            "title": "戰爭時期的藝術",
-            "summary": "Art in a Time of War",
-            "date_modified": "2022-03-14T10:00:00.000Z",
-            "author": {
-                "name": "Peter Schjeldahl",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/the-front-row/metaphysical-horror-becomes-all-too-real-in-the-audacious-master",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/the-front-row/metaphysical-horror-becomes-all-too-real-in-the-audacious-master",
-            "title": "形而上的恐怖在大膽的 \"大師 \"中變得非常真實",
-            "summary": "Metaphysical Horror Becomes All Too Real in the Audacious “Master”",
-            "date_modified": "2022-03-15T00:04:59.000Z",
-            "author": {
-                "name": "Richard Brody",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/culture-desk/new-yorker-live-spring-series-ukraine-russia-kroll-bryant-barber-nelson",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/culture-desk/new-yorker-live-spring-series-ukraine-russia-kroll-bryant-barber-nelson",
-            "title": "加入我們的《紐約客》春季現場系列活動",
-            "summary": "Join Us for The New Yorker Live Spring Series",
-            "date_modified": "2022-03-15T10:00:00.000Z",
-            "author": {
-                "name": "The New Yorker",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }
