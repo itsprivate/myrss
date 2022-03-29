@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/dispatch/the-one-place-in-lviv-where-the-war-is-never-far-away",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/dispatch/the-one-place-in-lviv-where-the-war-is-never-far-away",
+            "title": "利沃夫的一個地方，戰爭從未遠離。",
+            "summary": "The One Place in Lviv Where the War Is Never Far Away",
+            "date_modified": "2022-03-29T12:30:31.000Z",
+            "author": {
+                "name": "Keith Gessen",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/science/archive/2022/03/climate-change-heavy-rain-landslides-flood/629404/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/science/archive/2022/03/climate-change-heavy-rain-landslides-flood/629404/?utm_source=feed",
+            "title": "極端雨水使地球發生變化",
+            "summary": "Extreme Rain Makes the Earth Shift",
+            "date_modified": "2022-03-29T12:14:41.000Z",
+            "author": {
+                "name": "Kendra Pierre-Louis",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://austinkleon.substack.com/p/old-ways-to-do-new-things",
             "content_html": "",
             "url": "https://austinkleon.substack.com/p/old-ways-to-do-new-things",
@@ -7183,30 +7207,6 @@
             "date_modified": "2022-03-15T18:42:44.000Z",
             "author": {
                 "name": "Jane Mayer",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/letter-from-the-uk/the-endgame-of-the-oligarch-who-owns-chelsea",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/letter-from-the-uk/the-endgame-of-the-oligarch-who-owns-chelsea",
-            "title": "擁有切爾西的寡頭的終結者",
-            "summary": "The Endgame of the Oligarch Who Owns Chelsea",
-            "date_modified": "2022-03-15T21:38:08.000Z",
-            "author": {
-                "name": "Sam Knight",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/afterword/a-lucha-libre-wrestler-beloved-by-children",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/afterword/a-lucha-libre-wrestler-beloved-by-children",
-            "title": "一個受孩子們喜愛的自由搏擊運動員",
-            "summary": "A Lucha Libre Wrestler Beloved by Children",
-            "date_modified": "2022-03-15T23:19:01.000Z",
-            "author": {
-                "name": "Susan Orlean",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

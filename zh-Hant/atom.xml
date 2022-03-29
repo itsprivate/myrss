@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-29T12:23:48.327Z</updated>
+    <updated>2022-03-29T13:00:10.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[利沃夫的一個地方，戰爭從未遠離。]]></title>
+        <id>https://www.newyorker.com/news/dispatch/the-one-place-in-lviv-where-the-war-is-never-far-away</id>
+        <link href="https://www.newyorker.com/news/dispatch/the-one-place-in-lviv-where-the-war-is-never-far-away"/>
+        <updated>2022-03-29T12:30:31.000Z</updated>
+        <summary type="html"><![CDATA[The One Place in Lviv Where the War Is Never Far Away]]></summary>
+        <author>
+            <name>Keith Gessen</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[極端雨水使地球發生變化]]></title>
+        <id>https://www.theatlantic.com/science/archive/2022/03/climate-change-heavy-rain-landslides-flood/629404/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/science/archive/2022/03/climate-change-heavy-rain-landslides-flood/629404/?utm_source=feed"/>
+        <updated>2022-03-29T12:14:41.000Z</updated>
+        <summary type="html"><![CDATA[Extreme Rain Makes the Earth Shift]]></summary>
+        <author>
+            <name>Kendra Pierre-Louis</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用舊方法做新事情]]></title>
         <id>https://austinkleon.substack.com/p/old-ways-to-do-new-things</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[Sarah Bloom Raskin Withdraws Her Nomination to the Federal Reserve Board]]></summary>
         <author>
             <name>Jane Mayer</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[擁有切爾西的寡頭的終結者]]></title>
-        <id>https://www.newyorker.com/news/letter-from-the-uk/the-endgame-of-the-oligarch-who-owns-chelsea</id>
-        <link href="https://www.newyorker.com/news/letter-from-the-uk/the-endgame-of-the-oligarch-who-owns-chelsea"/>
-        <updated>2022-03-15T21:38:08.000Z</updated>
-        <summary type="html"><![CDATA[The Endgame of the Oligarch Who Owns Chelsea]]></summary>
-        <author>
-            <name>Sam Knight</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個受孩子們喜愛的自由搏擊運動員]]></title>
-        <id>https://www.newyorker.com/news/afterword/a-lucha-libre-wrestler-beloved-by-children</id>
-        <link href="https://www.newyorker.com/news/afterword/a-lucha-libre-wrestler-beloved-by-children"/>
-        <updated>2022-03-15T23:19:01.000Z</updated>
-        <summary type="html"><![CDATA[A Lucha Libre Wrestler Beloved by Children]]></summary>
-        <author>
-            <name>Susan Orlean</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
