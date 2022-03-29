@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-28T23:13:02.056Z</updated>
+    <updated>2022-03-29T00:46:16.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[拜登的命運現在與普京的烏克蘭戰爭有著不可分割的聯繫]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/bidens-fate-is-now-inextricably-linked-to-putins-war-in-ukraine</id>
+        <link href="https://www.newyorker.com/news/daily-comment/bidens-fate-is-now-inextricably-linked-to-putins-war-in-ukraine"/>
+        <updated>2022-03-28T23:58:20.000Z</updated>
+        <summary type="html"><![CDATA[Biden’s Fate Is Now Inextricably Linked to Putin’s War in Ukraine]]></summary>
+        <author>
+            <name>Robin Wright</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[民主黨人應如何應對通脹上升和高油價？]]></title>
+        <id>https://www.newyorker.com/news/our-columnists/how-should-democrats-respond-to-rising-inflation-and-high-gas-prices</id>
+        <link href="https://www.newyorker.com/news/our-columnists/how-should-democrats-respond-to-rising-inflation-and-high-gas-prices"/>
+        <updated>2022-03-29T00:01:11.000Z</updated>
+        <summary type="html"><![CDATA[How Should Democrats Respond to Rising Inflation and High Gas Prices?]]></summary>
+        <author>
+            <name>John Cassidy</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uber接近與舊金山出租車公司達成合作協議]]></title>
+        <id>https://www.nytimes.com/2022/03/28/technology/uber-taxis-san-francisco-deal.html</id>
+        <link href="https://www.nytimes.com/2022/03/28/technology/uber-taxis-san-francisco-deal.html"/>
+        <updated>2022-03-29T00:34:07.000Z</updated>
+        <summary type="html"><![CDATA[Uber Close to Deal for Partnership With San Francisco Taxi Outfit]]></summary>
+        <author>
+            <name>Kellen Browning</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[奧斯卡頒獎典禮失控之夜]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/03/oscars-will-smith-speech-slap/629409/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/03/oscars-will-smith-speech-slap/629409/?utm_source=feed"/>
+        <updated>2022-03-29T00:36:36.000Z</updated>
+        <summary type="html"><![CDATA[The Night the Oscars Lost Control]]></summary>
+        <author>
+            <name>Shirley Li</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[辯論威爾-史密斯和克里斯-洛克的兩個美洲人]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/two-americas-debating-will-smith-chris-rock-oscars-slap/629407/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/two-americas-debating-will-smith-chris-rock-oscars-slap/629407/?utm_source=feed"/>
+        <updated>2022-03-29T00:31:50.000Z</updated>
+        <summary type="html"><![CDATA[The Two Americas Debating Will Smith and Chris Rock]]></summary>
+        <author>
+            <name>Jemele Hill</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一位聯邦法官剛剛說出了關於特朗普叛亂的真相]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/03/federal-judge-tells-truth-about-trumps-insurrection/629411/?utm_source=feed</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>Sophie Pinkham</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沙卡里-理查德森在 "11秒內 "攻克時間難題]]></title>
-        <id>https://www.newyorker.com/culture/the-new-yorker-documentary/shacarri-richardson-tackles-time-in-sub-eleven-seconds</id>
-        <link href="https://www.newyorker.com/culture/the-new-yorker-documentary/shacarri-richardson-tackles-time-in-sub-eleven-seconds"/>
-        <updated>2022-03-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sha’Carri Richardson Tackles Time in “Sub Eleven Seconds”]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼學校戰爭仍在肆虐]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/21/why-the-school-wars-still-rage</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/21/why-the-school-wars-still-rage"/>
-        <updated>2022-03-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Why the School Wars Still Rage]]></summary>
-        <author>
-            <name>Jill Lepore</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的小說被盜的感受]]></title>
-        <id>https://www.newyorker.com/books/page-turner/how-it-felt-to-have-my-novel-stolen</id>
-        <link href="https://www.newyorker.com/books/page-turner/how-it-felt-to-have-my-novel-stolen"/>
-        <updated>2022-03-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How It Felt to Have My Novel Stolen]]></summary>
-        <author>
-            <name>Peter C. Baker</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沃洛迪米爾-澤倫斯基的喜劇勇氣]]></title>
-        <id>https://www.newyorker.com/culture/cultural-comment/volodymyr-zelenskys-comedic-courage</id>
-        <link href="https://www.newyorker.com/culture/cultural-comment/volodymyr-zelenskys-comedic-courage"/>
-        <updated>2022-03-13T20:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Volodymyr Zelensky’s Comedic Courage]]></summary>
-        <author>
-            <name>Adam Gopnik</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT只是加密貨幣財富大爆炸的開始]]></title>
-        <id>https://noahpinion.substack.com/p/nfts-are-just-the-beginning-of-the</id>
-        <link href="https://noahpinion.substack.com/p/nfts-are-just-the-beginning-of-the"/>
-        <updated>2022-02-15T07:01:49.000Z</updated>
-        <summary type="html"><![CDATA[NFTs are just the beginning of the Crypto Wealth Splash]]></summary>
-        <author>
-            <name>Noah Smith</name>
-            <uri>https://noahpinion.substack.com/feed</uri>
         </author>
     </entry>
 </feed>

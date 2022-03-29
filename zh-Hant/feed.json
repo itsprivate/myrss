@@ -11,6 +11,66 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/daily-comment/bidens-fate-is-now-inextricably-linked-to-putins-war-in-ukraine",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/daily-comment/bidens-fate-is-now-inextricably-linked-to-putins-war-in-ukraine",
+            "title": "拜登的命運現在與普京的烏克蘭戰爭有著不可分割的聯繫",
+            "summary": "Biden’s Fate Is Now Inextricably Linked to Putin’s War in Ukraine",
+            "date_modified": "2022-03-28T23:58:20.000Z",
+            "author": {
+                "name": "Robin Wright",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/our-columnists/how-should-democrats-respond-to-rising-inflation-and-high-gas-prices",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/our-columnists/how-should-democrats-respond-to-rising-inflation-and-high-gas-prices",
+            "title": "民主黨人應如何應對通脹上升和高油價？",
+            "summary": "How Should Democrats Respond to Rising Inflation and High Gas Prices?",
+            "date_modified": "2022-03-29T00:01:11.000Z",
+            "author": {
+                "name": "John Cassidy",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/03/28/technology/uber-taxis-san-francisco-deal.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/28/technology/uber-taxis-san-francisco-deal.html",
+            "title": "Uber接近與舊金山出租車公司達成合作協議",
+            "summary": "Uber Close to Deal for Partnership With San Francisco Taxi Outfit",
+            "date_modified": "2022-03-29T00:34:07.000Z",
+            "author": {
+                "name": "Kellen Browning",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/culture/archive/2022/03/oscars-will-smith-speech-slap/629409/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/culture/archive/2022/03/oscars-will-smith-speech-slap/629409/?utm_source=feed",
+            "title": "奧斯卡頒獎典禮失控之夜",
+            "summary": "The Night the Oscars Lost Control",
+            "date_modified": "2022-03-29T00:36:36.000Z",
+            "author": {
+                "name": "Shirley Li",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/03/two-americas-debating-will-smith-chris-rock-oscars-slap/629407/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/03/two-americas-debating-will-smith-chris-rock-oscars-slap/629407/?utm_source=feed",
+            "title": "辯論威爾-史密斯和克里斯-洛克的兩個美洲人",
+            "summary": "The Two Americas Debating Will Smith and Chris Rock",
+            "date_modified": "2022-03-29T00:31:50.000Z",
+            "author": {
+                "name": "Jemele Hill",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/ideas/archive/2022/03/federal-judge-tells-truth-about-trumps-insurrection/629411/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/ideas/archive/2022/03/federal-judge-tells-truth-about-trumps-insurrection/629411/?utm_source=feed",
@@ -7148,66 +7208,6 @@
             "author": {
                 "name": "Sophie Pinkham",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/the-new-yorker-documentary/shacarri-richardson-tackles-time-in-sub-eleven-seconds",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/the-new-yorker-documentary/shacarri-richardson-tackles-time-in-sub-eleven-seconds",
-            "title": "沙卡里-理查德森在 \"11秒內 \"攻克時間難題",
-            "summary": "Sha’Carri Richardson Tackles Time in “Sub Eleven Seconds”",
-            "date_modified": "2022-03-16T10:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/03/21/why-the-school-wars-still-rage",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/03/21/why-the-school-wars-still-rage",
-            "title": "為什麼學校戰爭仍在肆虐",
-            "summary": "Why the School Wars Still Rage",
-            "date_modified": "2022-03-14T10:00:00.000Z",
-            "author": {
-                "name": "Jill Lepore",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/books/page-turner/how-it-felt-to-have-my-novel-stolen",
-            "content_html": "",
-            "url": "https://www.newyorker.com/books/page-turner/how-it-felt-to-have-my-novel-stolen",
-            "title": "我的小說被盜的感受",
-            "summary": "How It Felt to Have My Novel Stolen",
-            "date_modified": "2022-03-14T10:00:00.000Z",
-            "author": {
-                "name": "Peter C. Baker",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/cultural-comment/volodymyr-zelenskys-comedic-courage",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/cultural-comment/volodymyr-zelenskys-comedic-courage",
-            "title": "沃洛迪米爾-澤倫斯基的喜劇勇氣",
-            "summary": "Volodymyr Zelensky’s Comedic Courage",
-            "date_modified": "2022-03-13T20:12:00.000Z",
-            "author": {
-                "name": "Adam Gopnik",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://noahpinion.substack.com/p/nfts-are-just-the-beginning-of-the",
-            "content_html": "",
-            "url": "https://noahpinion.substack.com/p/nfts-are-just-the-beginning-of-the",
-            "title": "NFT只是加密貨幣財富大爆炸的開始",
-            "summary": "NFTs are just the beginning of the Crypto Wealth Splash",
-            "date_modified": "2022-02-15T07:01:49.000Z",
-            "author": {
-                "name": "Noah Smith",
-                "url": "https://noahpinion.substack.com/feed"
             }
         }
     ]
