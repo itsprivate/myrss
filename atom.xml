@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-29T00:46:16.207Z</updated>
+    <updated>2022-03-29T08:39:12.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[核博弈理论及其局限性]]></title>
+        <id>https://noahpinion.substack.com/p/nuclear-game-theory-and-its-limitations</id>
+        <link href="https://noahpinion.substack.com/p/nuclear-game-theory-and-its-limitations"/>
+        <updated>2022-03-29T08:30:46.000Z</updated>
+        <summary type="html"><![CDATA[Nuclear game theory and its limitations]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拜登的命运现在与普京的乌克兰战争有着不可分割的联系]]></title>
         <id>https://www.newyorker.com/news/daily-comment/bidens-fate-is-now-inextricably-linked-to-putins-war-in-ukraine</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[A Search for Survival Outside Kyiv]]></summary>
         <author>
             <name>Jane Ferguson</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年轻的乌克兰人一夜之间失去了什么]]></title>
-        <id>https://www.newyorker.com/culture/photo-booth/what-young-ukrainians-have-lost-overnight</id>
-        <link href="https://www.newyorker.com/culture/photo-booth/what-young-ukrainians-have-lost-overnight"/>
-        <updated>2022-03-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What Young Ukrainians Have Lost Overnight]]></summary>
-        <author>
-            <name>Sophie Pinkham</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

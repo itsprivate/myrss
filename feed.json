@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://noahpinion.substack.com/p/nuclear-game-theory-and-its-limitations",
+            "content_html": "",
+            "url": "https://noahpinion.substack.com/p/nuclear-game-theory-and-its-limitations",
+            "title": "核博弈理论及其局限性",
+            "summary": "Nuclear game theory and its limitations",
+            "date_modified": "2022-03-29T08:30:46.000Z",
+            "author": {
+                "name": "Noah Smith",
+                "url": "https://noahpinion.substack.com/feed"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/daily-comment/bidens-fate-is-now-inextricably-linked-to-putins-war-in-ukraine",
             "content_html": "",
             "url": "https://www.newyorker.com/news/daily-comment/bidens-fate-is-now-inextricably-linked-to-putins-war-in-ukraine",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-15T22:40:33.000Z",
             "author": {
                 "name": "Jane Ferguson",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/photo-booth/what-young-ukrainians-have-lost-overnight",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/photo-booth/what-young-ukrainians-have-lost-overnight",
-            "title": "年轻的乌克兰人一夜之间失去了什么",
-            "summary": "What Young Ukrainians Have Lost Overnight",
-            "date_modified": "2022-03-16T10:00:00.000Z",
-            "author": {
-                "name": "Sophie Pinkham",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }
