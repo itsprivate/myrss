@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 30 Mar 2022 20:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 22:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[拜登也是俄乌战争中的一张王牌]]></title>
+            <link>https://www.theatlantic.com/newsletters/archive/2022/03/biden-is-a-wild-card-in-the-russia-ukraine-war-too/629434/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/newsletters/archive/2022/03/biden-is-a-wild-card-in-the-russia-ukraine-war-too/629434/?utm_source=feed</guid>
+            <pubDate>Wed, 30 Mar 2022 21:53:34 GMT</pubDate>
+            <description><![CDATA[Biden Is a Wild Card in the Russia-Ukraine War, Too]]></description>
+        </item>
         <item>
             <title><![CDATA[偶像的话语]]></title>
             <link>https://astralcodexten.substack.com/p/idol-words</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/magazine/letter-from-daytona-beach</guid>
             <pubDate>Fri, 18 Mar 2022 02:02:30 GMT</pubDate>
             <description><![CDATA[Letter from Daytona Beach]]></description>
-        </item>
-        <item>
-            <title><![CDATA[罗莎莉娅成为全球流行巨星的水平]]></title>
-            <link>https://www.newyorker.com/culture/culture-desk/rosalia-levels-up-as-a-global-pop-superstar</link>
-            <guid>https://www.newyorker.com/culture/culture-desk/rosalia-levels-up-as-a-global-pop-superstar</guid>
-            <pubDate>Fri, 18 Mar 2022 00:01:02 GMT</pubDate>
-            <description><![CDATA[Rosalía Levels Up as a Global Pop Superstar]]></description>
         </item>
     </channel>
 </rss>

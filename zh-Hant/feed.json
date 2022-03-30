@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/newsletters/archive/2022/03/biden-is-a-wild-card-in-the-russia-ukraine-war-too/629434/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/newsletters/archive/2022/03/biden-is-a-wild-card-in-the-russia-ukraine-war-too/629434/?utm_source=feed",
+            "title": "拜登也是俄烏戰爭中的一張王牌",
+            "summary": "Biden Is a Wild Card in the Russia-Ukraine War, Too",
+            "date_modified": "2022-03-30T21:53:34.000Z",
+            "author": {
+                "name": "Conor Friedersdorf",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://astralcodexten.substack.com/p/idol-words",
             "content_html": "",
             "url": "https://astralcodexten.substack.com/p/idol-words",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-18T02:02:30.000Z",
             "author": {
                 "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/culture-desk/rosalia-levels-up-as-a-global-pop-superstar",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/culture-desk/rosalia-levels-up-as-a-global-pop-superstar",
-            "title": "羅莎莉婭成為全球流行巨星的水平",
-            "summary": "Rosalía Levels Up as a Global Pop Superstar",
-            "date_modified": "2022-03-18T00:01:02.000Z",
-            "author": {
-                "name": "Carrie Battan",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }
