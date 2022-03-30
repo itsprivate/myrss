@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-30T13:27:36.438Z</updated>
+    <updated>2022-03-30T16:19:00.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[开车的人》（The Man Who Drove a Badillac]]></title>
+        <id>https://www.newyorker.com/news/afterword/the-man-who-drove-a-badillac</id>
+        <link href="https://www.newyorker.com/news/afterword/the-man-who-drove-a-badillac"/>
+        <updated>2022-03-30T16:02:36.000Z</updated>
+        <summary type="html"><![CDATA[The Man Who Drove a Badillac]]></summary>
+        <author>
+            <name>Susan Orlean</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何识别模仿国税局或慈善机构的骗局]]></title>
         <id>https://www.nytimes.com/2022/03/30/technology/personaltech/scams-phishing-spring.html</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Scott Alexander</name>
             <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[除了啤酒，他们还应该为圣帕特里克节制作绿色的其他东西]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/other-things-they-should-make-green-for-st-patricks-day-besides-beer</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/other-things-they-should-make-green-for-st-patricks-day-besides-beer"/>
-        <updated>2022-03-17T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Other Things They Should Make Green for St. Patrick’s Day Besides Beer]]></summary>
-        <author>
-            <name>Jason Adam Katzenstein, Colin Stokes</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
