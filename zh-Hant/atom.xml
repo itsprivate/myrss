@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-30T16:19:00.904Z</updated>
+    <updated>2022-03-30T16:49:05.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每日漫畫。3月30日，星期三]]></title>
+        <id>https://www.newyorker.com/cartoons/daily-cartoon/wednesday-march-30th-one-upmanship</id>
+        <link href="https://www.newyorker.com/cartoons/daily-cartoon/wednesday-march-30th-one-upmanship"/>
+        <updated>2022-03-30T16:21:07.000Z</updated>
+        <summary type="html"><![CDATA[Daily Cartoon: Wednesday, March 30th]]></summary>
+        <author>
+            <name>Maik Banks</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[想要一個物美價廉的小工具？祝您好運。]]></title>
+        <id>https://www.nytimes.com/2022/03/30/technology/higher-priced-gadgets-pandemic.html</id>
+        <link href="https://www.nytimes.com/2022/03/30/technology/higher-priced-gadgets-pandemic.html"/>
+        <updated>2022-03-30T16:38:06.000Z</updated>
+        <summary type="html"><![CDATA[Want a Value-Priced Gadget? Good Luck.]]></summary>
+        <author>
+            <name>Shira Ovide</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不能回家的特別悲痛]]></title>
+        <id>https://www.theatlantic.com/family/archive/2022/03/migratory-grief-ukraine-hong-kong/629426/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/family/archive/2022/03/migratory-grief-ukraine-hong-kong/629426/?utm_source=feed"/>
+        <updated>2022-03-30T16:01:38.000Z</updated>
+        <summary type="html"><![CDATA[The Particular Grief of Not Being Able to Go Home]]></summary>
+        <author>
+            <name>Sheon Han</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[開車的人》（The Man Who Drove a Badillac]]></title>
         <id>https://www.newyorker.com/news/afterword/the-man-who-drove-a-badillac</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>Karen Weise</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[傑羅姆-鮑威爾關於通脹的雙重信息]]></title>
-        <id>https://www.newyorker.com/news/our-columnists/jerome-powells-double-message-on-inflation</id>
-        <link href="https://www.newyorker.com/news/our-columnists/jerome-powells-double-message-on-inflation"/>
-        <updated>2022-03-17T18:43:49.000Z</updated>
-        <summary type="html"><![CDATA[Jerome Powell’s Double Message on Inflation]]></summary>
-        <author>
-            <name>John Cassidy</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國駐外記者的誕生]]></title>
-        <id>https://www.newyorker.com/books/under-review/the-birth-of-the-american-foreign-correspondent</id>
-        <link href="https://www.newyorker.com/books/under-review/the-birth-of-the-american-foreign-correspondent"/>
-        <updated>2022-03-17T18:25:00.000Z</updated>
-        <summary type="html"><![CDATA[The Birth of the American Foreign Correspondent]]></summary>
-        <author>
-            <name>Krithika Varagur</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[洋蔥騎士]]></title>
-        <id>https://astralcodexten.substack.com/p/the-onion-knight</id>
-        <link href="https://astralcodexten.substack.com/p/the-onion-knight"/>
-        <updated>2022-03-17T18:00:45.000Z</updated>
-        <summary type="html"><![CDATA[The Onion Knight]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
         </author>
     </entry>
 </feed>
