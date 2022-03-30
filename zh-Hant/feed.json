@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/politics/archive/2022/03/republican-fossil-fuels-renewable-energy/629420/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/politics/archive/2022/03/republican-fossil-fuels-renewable-energy/629420/?utm_source=feed",
+            "title": "紅州的綠色能源文化戰爭",
+            "summary": "The Green-Energy Culture Wars in Red States",
+            "date_modified": "2022-03-30T09:00:56.000Z",
+            "author": {
+                "name": "Ronald Brownstein",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/30/technology/ukraine-russia-facebook-instagram.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/30/technology/ukraine-russia-facebook-instagram.html",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-17T10:00:00.000Z",
             "author": {
                 "name": "Matt Jackson",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/sports/sporting-scene/how-one-swimmer-became-the-focus-of-a-debate-about-trans-athletes",
-            "content_html": "",
-            "url": "https://www.newyorker.com/sports/sporting-scene/how-one-swimmer-became-the-focus-of-a-debate-about-trans-athletes",
-            "title": "一位游泳運動員如何成為有關變性運動員辯論的焦點",
-            "summary": "How One Swimmer Became the Focus of a Debate About Trans Athletes",
-            "date_modified": "2022-03-17T10:00:00.000Z",
-            "author": {
-                "name": "Louisa Thomas",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }
