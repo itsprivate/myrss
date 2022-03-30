@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 30 Mar 2022 17:03:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 17:16:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[自成一体的人的形成]]></title>
+            <link>https://www.currentaffairs.org/2022/03/the-making-of-the-self-made-man/</link>
+            <guid>https://www.currentaffairs.org/2022/03/the-making-of-the-self-made-man/</guid>
+            <pubDate>Wed, 30 Mar 2022 13:09:10 GMT</pubDate>
+            <description><![CDATA[The Making of the Self-Made Man]]></description>
+        </item>
         <item>
             <title><![CDATA[一位美国作家为何选择留在乌克兰]]></title>
             <link>https://www.newyorker.com/culture/personal-history/why-an-american-writer-chooses-to-stay-in-ukraine</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.nytimes.com/2022/03/17/technology/gas-prices-uber-lyft-drivers.html</guid>
             <pubDate>Thu, 17 Mar 2022 20:31:50 GMT</pubDate>
             <description><![CDATA[Uber, Lyft Drivers Struggle With High Gas Prices]]></description>
-        </item>
-        <item>
-            <title><![CDATA[另一个COVID浪潮正在逼近]]></title>
-            <link>https://www.theatlantic.com/health/archive/2022/03/omicron-subvariant-new-covid-wave/627094/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/health/archive/2022/03/omicron-subvariant-new-covid-wave/627094/?utm_source=feed</guid>
-            <pubDate>Thu, 17 Mar 2022 20:06:03 GMT</pubDate>
-            <description><![CDATA[Another COVID Wave Is Looming]]></description>
         </item>
     </channel>
 </rss>
