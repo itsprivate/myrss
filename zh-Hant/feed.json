@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/humor/daily-shouts/that-time-i-met-the-spirit-of-the-killing-stone",
+            "content_html": "",
+            "url": "https://www.newyorker.com/humor/daily-shouts/that-time-i-met-the-spirit-of-the-killing-stone",
+            "title": "那次我遇到殺生石的靈魂",
+            "summary": "That Time I Met the Spirit of the Killing Stone",
+            "date_modified": "2022-03-30T18:00:00.000Z",
+            "author": {
+                "name": "Christine Mari",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/humor/borowitz-report/senate-republicans-punish-susan-collins-by-making-her-sit-next-to-rand-paul",
+            "content_html": "",
+            "url": "https://www.newyorker.com/humor/borowitz-report/senate-republicans-punish-susan-collins-by-making-her-sit-next-to-rand-paul",
+            "title": "參議院共和黨人懲罰蘇珊-柯林斯，讓她坐在蘭德-保羅旁邊",
+            "summary": "Senate Republicans Punish Susan Collins By Making Her Sit Next To Rand Paul",
+            "date_modified": "2022-03-30T18:09:35.000Z",
+            "author": {
+                "name": "Andy Borowitz",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/culture/the-front-row/squirrels-to-the-nuts-reviewed-the-directors-cut-of-peter-bogdanovichs-last-feature",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/the-front-row/squirrels-to-the-nuts-reviewed-the-directors-cut-of-peter-bogdanovichs-last-feature",
+            "title": "\"松鼠的堅果\"，評論。彼得-博格達諾維奇的最後一部作品的導演剪輯版",
+            "summary": "“Squirrels to the Nuts,” Reviewed: The Director’s Cut of Peter Bogdanovich’s Last Feature",
+            "date_modified": "2022-03-30T18:11:53.000Z",
+            "author": {
+                "name": "Richard Brody",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.currentaffairs.org/2022/03/the-making-of-the-self-made-man/",
             "content_html": "",
             "url": "https://www.currentaffairs.org/2022/03/the-making-of-the-self-made-man/",
@@ -7172,42 +7208,6 @@
             "author": {
                 "name": "unknown",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/03/schwarzenegger-russia-ukraine-war-message/627100/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/03/schwarzenegger-russia-ukraine-war-message/627100/?utm_source=feed",
-            "title": "我有一個消息要告訴我的俄羅斯朋友",
-            "summary": "I Have a Message for My Russian Friends",
-            "date_modified": "2022-03-17T21:50:52.000Z",
-            "author": {
-                "name": "Arnold Schwarzenegger",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.currentaffairs.org/2022/03/is-whataboutism-always-a-bad-thing/",
-            "content_html": "",
-            "url": "https://www.currentaffairs.org/2022/03/is-whataboutism-always-a-bad-thing/",
-            "title": "什麼主義總是一件壞事嗎？",
-            "summary": "Is &#8220;Whataboutism&#8221; Always a Bad Thing?",
-            "date_modified": "2022-03-17T17:40:27.000Z",
-            "author": {
-                "name": "Ben Burgis",
-                "url": "https://www.currentaffairs.org/feed"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/17/technology/gas-prices-uber-lyft-drivers.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/17/technology/gas-prices-uber-lyft-drivers.html",
-            "title": "Uber和Lyft司機在高油價下掙扎",
-            "summary": "Uber, Lyft Drivers Struggle With High Gas Prices",
-            "date_modified": "2022-03-17T20:31:50.000Z",
-            "author": {
-                "name": "Kellen Browning",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
     ]

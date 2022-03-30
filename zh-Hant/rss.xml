@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 30 Mar 2022 17:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 18:42:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[那次我遇到殺生石的靈魂]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/that-time-i-met-the-spirit-of-the-killing-stone</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/that-time-i-met-the-spirit-of-the-killing-stone</guid>
+            <pubDate>Wed, 30 Mar 2022 18:00:00 GMT</pubDate>
+            <description><![CDATA[That Time I Met the Spirit of the Killing Stone]]></description>
+        </item>
+        <item>
+            <title><![CDATA[參議院共和黨人懲罰蘇珊-柯林斯，讓她坐在蘭德-保羅旁邊]]></title>
+            <link>https://www.newyorker.com/humor/borowitz-report/senate-republicans-punish-susan-collins-by-making-her-sit-next-to-rand-paul</link>
+            <guid>https://www.newyorker.com/humor/borowitz-report/senate-republicans-punish-susan-collins-by-making-her-sit-next-to-rand-paul</guid>
+            <pubDate>Wed, 30 Mar 2022 18:09:35 GMT</pubDate>
+            <description><![CDATA[Senate Republicans Punish Susan Collins By Making Her Sit Next To Rand Paul]]></description>
+        </item>
+        <item>
+            <title><![CDATA["松鼠的堅果"，評論。彼得-博格達諾維奇的最後一部作品的導演剪輯版]]></title>
+            <link>https://www.newyorker.com/culture/the-front-row/squirrels-to-the-nuts-reviewed-the-directors-cut-of-peter-bogdanovichs-last-feature</link>
+            <guid>https://www.newyorker.com/culture/the-front-row/squirrels-to-the-nuts-reviewed-the-directors-cut-of-peter-bogdanovichs-last-feature</guid>
+            <pubDate>Wed, 30 Mar 2022 18:11:53 GMT</pubDate>
+            <description><![CDATA[“Squirrels to the Nuts,” Reviewed: The Director’s Cut of Peter Bogdanovich’s Last Feature]]></description>
+        </item>
         <item>
             <title><![CDATA[自成一體的人的形成]]></title>
             <link>https://www.currentaffairs.org/2022/03/the-making-of-the-self-made-man/</link>
@@ -4192,27 +4213,6 @@
             <guid>https://www.newyorker.com/podcast/politics-and-more/how-do-we-know-when-someone-is-a-spy</guid>
             <pubDate>Thu, 17 Mar 2022 22:38:29 GMT</pubDate>
             <description><![CDATA[How Do We Know When Someone Is a Spy?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我有一個消息要告訴我的俄羅斯朋友]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/schwarzenegger-russia-ukraine-war-message/627100/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/schwarzenegger-russia-ukraine-war-message/627100/?utm_source=feed</guid>
-            <pubDate>Thu, 17 Mar 2022 21:50:52 GMT</pubDate>
-            <description><![CDATA[I Have a Message for My Russian Friends]]></description>
-        </item>
-        <item>
-            <title><![CDATA[什麼主義總是一件壞事嗎？]]></title>
-            <link>https://www.currentaffairs.org/2022/03/is-whataboutism-always-a-bad-thing/</link>
-            <guid>https://www.currentaffairs.org/2022/03/is-whataboutism-always-a-bad-thing/</guid>
-            <pubDate>Thu, 17 Mar 2022 17:40:27 GMT</pubDate>
-            <description><![CDATA[Is &#8220;Whataboutism&#8221; Always a Bad Thing?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Uber和Lyft司機在高油價下掙扎]]></title>
-            <link>https://www.nytimes.com/2022/03/17/technology/gas-prices-uber-lyft-drivers.html</link>
-            <guid>https://www.nytimes.com/2022/03/17/technology/gas-prices-uber-lyft-drivers.html</guid>
-            <pubDate>Thu, 17 Mar 2022 20:31:50 GMT</pubDate>
-            <description><![CDATA[Uber, Lyft Drivers Struggle With High Gas Prices]]></description>
         </item>
     </channel>
 </rss>

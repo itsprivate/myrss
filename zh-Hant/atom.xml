@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-30T17:16:26.053Z</updated>
+    <updated>2022-03-30T18:42:10.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[那次我遇到殺生石的靈魂]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/that-time-i-met-the-spirit-of-the-killing-stone</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/that-time-i-met-the-spirit-of-the-killing-stone"/>
+        <updated>2022-03-30T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[That Time I Met the Spirit of the Killing Stone]]></summary>
+        <author>
+            <name>Christine Mari</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[參議院共和黨人懲罰蘇珊-柯林斯，讓她坐在蘭德-保羅旁邊]]></title>
+        <id>https://www.newyorker.com/humor/borowitz-report/senate-republicans-punish-susan-collins-by-making-her-sit-next-to-rand-paul</id>
+        <link href="https://www.newyorker.com/humor/borowitz-report/senate-republicans-punish-susan-collins-by-making-her-sit-next-to-rand-paul"/>
+        <updated>2022-03-30T18:09:35.000Z</updated>
+        <summary type="html"><![CDATA[Senate Republicans Punish Susan Collins By Making Her Sit Next To Rand Paul]]></summary>
+        <author>
+            <name>Andy Borowitz</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["松鼠的堅果"，評論。彼得-博格達諾維奇的最後一部作品的導演剪輯版]]></title>
+        <id>https://www.newyorker.com/culture/the-front-row/squirrels-to-the-nuts-reviewed-the-directors-cut-of-peter-bogdanovichs-last-feature</id>
+        <link href="https://www.newyorker.com/culture/the-front-row/squirrels-to-the-nuts-reviewed-the-directors-cut-of-peter-bogdanovichs-last-feature"/>
+        <updated>2022-03-30T18:11:53.000Z</updated>
+        <summary type="html"><![CDATA[“Squirrels to the Nuts,” Reviewed: The Director’s Cut of Peter Bogdanovich’s Last Feature]]></summary>
+        <author>
+            <name>Richard Brody</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自成一體的人的形成]]></title>
         <id>https://www.currentaffairs.org/2022/03/the-making-of-the-self-made-man/</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>unknown</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我有一個消息要告訴我的俄羅斯朋友]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/schwarzenegger-russia-ukraine-war-message/627100/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/schwarzenegger-russia-ukraine-war-message/627100/?utm_source=feed"/>
-        <updated>2022-03-17T21:50:52.000Z</updated>
-        <summary type="html"><![CDATA[I Have a Message for My Russian Friends]]></summary>
-        <author>
-            <name>Arnold Schwarzenegger</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什麼主義總是一件壞事嗎？]]></title>
-        <id>https://www.currentaffairs.org/2022/03/is-whataboutism-always-a-bad-thing/</id>
-        <link href="https://www.currentaffairs.org/2022/03/is-whataboutism-always-a-bad-thing/"/>
-        <updated>2022-03-17T17:40:27.000Z</updated>
-        <summary type="html"><![CDATA[Is &#8220;Whataboutism&#8221; Always a Bad Thing?]]></summary>
-        <author>
-            <name>Ben Burgis</name>
-            <uri>https://www.currentaffairs.org/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uber和Lyft司機在高油價下掙扎]]></title>
-        <id>https://www.nytimes.com/2022/03/17/technology/gas-prices-uber-lyft-drivers.html</id>
-        <link href="https://www.nytimes.com/2022/03/17/technology/gas-prices-uber-lyft-drivers.html"/>
-        <updated>2022-03-17T20:31:50.000Z</updated>
-        <summary type="html"><![CDATA[Uber, Lyft Drivers Struggle With High Gas Prices]]></summary>
-        <author>
-            <name>Kellen Browning</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>
