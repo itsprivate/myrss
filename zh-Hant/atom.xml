@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-30T18:57:56.592Z</updated>
+    <updated>2022-03-30T20:14:18.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[偶像的話語]]></title>
+        <id>https://astralcodexten.substack.com/p/idol-words</id>
+        <link href="https://astralcodexten.substack.com/p/idol-words"/>
+        <updated>2022-03-30T20:08:21.000Z</updated>
+        <summary type="html"><![CDATA[Idol Words]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[特朗普是一個扁平的圓]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/03/trump-flat-circle/629431/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Rosalía Levels Up as a Global Pop Superstar]]></summary>
         <author>
             <name>Carrie Battan</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[古典音樂的鐵幕]]></title>
-        <id>https://www.newyorker.com/culture/q-and-a/classical-musics-iron-curtain</id>
-        <link href="https://www.newyorker.com/culture/q-and-a/classical-musics-iron-curtain"/>
-        <updated>2022-03-17T22:50:59.000Z</updated>
-        <summary type="html"><![CDATA[Classical Music’s Iron Curtain]]></summary>
-        <author>
-            <name>Isaac Chotiner</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
