@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-30T16:49:04.961Z</updated>
+    <updated>2022-03-30T17:03:06.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一位美国作家为何选择留在乌克兰]]></title>
+        <id>https://www.newyorker.com/culture/personal-history/why-an-american-writer-chooses-to-stay-in-ukraine</id>
+        <link href="https://www.newyorker.com/culture/personal-history/why-an-american-writer-chooses-to-stay-in-ukraine"/>
+        <updated>2022-03-30T16:43:42.000Z</updated>
+        <summary type="html"><![CDATA[Why an American Writer Chooses to Stay in Ukraine]]></summary>
+        <author>
+            <name>Kate Tsurkan</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日漫画。3月30日，星期三]]></title>
         <id>https://www.newyorker.com/cartoons/daily-cartoon/wednesday-march-30th-one-upmanship</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Rachel Gutman</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[N.L.R.B.起诉亚马逊在斯塔滕岛工厂的劳工行为。]]></title>
-        <id>https://www.nytimes.com/2022/03/17/business/amazon-staten-island-facility.html</id>
-        <link href="https://www.nytimes.com/2022/03/17/business/amazon-staten-island-facility.html"/>
-        <updated>2022-03-17T19:40:10.000Z</updated>
-        <summary type="html"><![CDATA[N.L.R.B. sues Amazon over labor practices at a Staten Island facility.]]></summary>
-        <author>
-            <name>Karen Weise</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>

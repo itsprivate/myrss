@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/culture/personal-history/why-an-american-writer-chooses-to-stay-in-ukraine",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/personal-history/why-an-american-writer-chooses-to-stay-in-ukraine",
+            "title": "一位美國作家為何選擇留在烏克蘭",
+            "summary": "Why an American Writer Chooses to Stay in Ukraine",
+            "date_modified": "2022-03-30T16:43:42.000Z",
+            "author": {
+                "name": "Kate Tsurkan",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/cartoons/daily-cartoon/wednesday-march-30th-one-upmanship",
             "content_html": "",
             "url": "https://www.newyorker.com/cartoons/daily-cartoon/wednesday-march-30th-one-upmanship",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Rachel Gutman",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/17/business/amazon-staten-island-facility.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/17/business/amazon-staten-island-facility.html",
-            "title": "N.L.R.B.起訴亞馬遜在斯塔滕島工廠的勞工行為。",
-            "summary": "N.L.R.B. sues Amazon over labor practices at a Staten Island facility.",
-            "date_modified": "2022-03-17T19:40:10.000Z",
-            "author": {
-                "name": "Karen Weise",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
     ]
