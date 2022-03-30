@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 30 Mar 2022 13:00:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 13:27:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何识别模仿国税局或慈善机构的骗局]]></title>
+            <link>https://www.nytimes.com/2022/03/30/technology/personaltech/scams-phishing-spring.html</link>
+            <guid>https://www.nytimes.com/2022/03/30/technology/personaltech/scams-phishing-spring.html</guid>
+            <pubDate>Wed, 30 Mar 2022 13:00:11 GMT</pubDate>
+            <description><![CDATA[How to Spot Scams That Mimic the IRS or Charities]]></description>
+        </item>
+        <item>
+            <title><![CDATA[左派的气候游戏手册已经过时了]]></title>
+            <link>https://www.theatlantic.com/science/archive/2022/03/left-climate-playbook-biden-russia/629425/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/science/archive/2022/03/left-climate-playbook-biden-russia/629425/?utm_source=feed</guid>
+            <pubDate>Wed, 30 Mar 2022 13:13:45 GMT</pubDate>
+            <description><![CDATA[The Left’s Climate Playbook Is Already Outdated]]></description>
+        </item>
         <item>
             <title><![CDATA[坠落体的规律]]></title>
             <link>https://www.theatlantic.com/books/archive/2022/03/poem-brittney-scott-law-falling-bodies/629424/?utm_source=feed</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/humor/daily-shouts/other-things-they-should-make-green-for-st-patricks-day-besides-beer</guid>
             <pubDate>Thu, 17 Mar 2022 18:00:00 GMT</pubDate>
             <description><![CDATA[Other Things They Should Make Green for St. Patrick’s Day Besides Beer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[棍子! 他们不能做什么？]]></title>
-            <link>https://www.newyorker.com/video/watch/stickworld</link>
-            <guid>https://www.newyorker.com/video/watch/stickworld</guid>
-            <pubDate>Fri, 11 Mar 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[Sticks! What Can’t They Do?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[扎克-威廉姆斯谈放开逻辑]]></title>
-            <link>https://www.newyorker.com/books/this-week-in-fiction/zach-williams-03-21-22</link>
-            <guid>https://www.newyorker.com/books/this-week-in-fiction/zach-williams-03-21-22</guid>
-            <pubDate>Mon, 14 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Zach Williams on Letting Go of Logic]]></description>
         </item>
     </channel>
 </rss>

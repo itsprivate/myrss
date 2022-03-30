@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/30/technology/personaltech/scams-phishing-spring.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/30/technology/personaltech/scams-phishing-spring.html",
+            "title": "如何識別模仿國稅局或慈善機構的騙局",
+            "summary": "How to Spot Scams That Mimic the IRS or Charities",
+            "date_modified": "2022-03-30T13:00:11.000Z",
+            "author": {
+                "name": "J. D. Biersdorfer",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/science/archive/2022/03/left-climate-playbook-biden-russia/629425/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/science/archive/2022/03/left-climate-playbook-biden-russia/629425/?utm_source=feed",
+            "title": "左派的氣候遊戲手冊已經過時了",
+            "summary": "The Left’s Climate Playbook Is Already Outdated",
+            "date_modified": "2022-03-30T13:13:45.000Z",
+            "author": {
+                "name": "Robinson Meyer",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/books/archive/2022/03/poem-brittney-scott-law-falling-bodies/629424/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/books/archive/2022/03/poem-brittney-scott-law-falling-bodies/629424/?utm_source=feed",
@@ -7183,30 +7207,6 @@
             "date_modified": "2022-03-17T18:00:00.000Z",
             "author": {
                 "name": "Jason Adam Katzenstein, Colin Stokes",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/video/watch/stickworld",
-            "content_html": "",
-            "url": "https://www.newyorker.com/video/watch/stickworld",
-            "title": "棍子! 他們不能做什麼？",
-            "summary": "Sticks! What Can’t They Do?",
-            "date_modified": "2022-03-11T11:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/books/this-week-in-fiction/zach-williams-03-21-22",
-            "content_html": "",
-            "url": "https://www.newyorker.com/books/this-week-in-fiction/zach-williams-03-21-22",
-            "title": "扎克-威廉姆斯談放開邏輯",
-            "summary": "Zach Williams on Letting Go of Logic",
-            "date_modified": "2022-03-14T10:00:00.000Z",
-            "author": {
-                "name": "Deborah Treisman",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }
