@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 30 Mar 2022 02:28:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 09:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[乌克兰的战争如何搅乱了Facebook和Instagram]]></title>
+            <link>https://www.nytimes.com/2022/03/30/technology/ukraine-russia-facebook-instagram.html</link>
+            <guid>https://www.nytimes.com/2022/03/30/technology/ukraine-russia-facebook-instagram.html</guid>
+            <pubDate>Wed, 30 Mar 2022 09:00:18 GMT</pubDate>
+            <description><![CDATA[How War in Ukraine Roiled Facebook and Instagram]]></description>
+        </item>
+        <item>
+            <title><![CDATA[为超级计算机铺路的程序员获得图灵奖]]></title>
+            <link>https://www.nytimes.com/2022/03/30/technology/turing-award-jack-dongarra.html</link>
+            <guid>https://www.nytimes.com/2022/03/30/technology/turing-award-jack-dongarra.html</guid>
+            <pubDate>Wed, 30 Mar 2022 09:00:32 GMT</pubDate>
+            <description><![CDATA[Turing Award Won by Programmer Who Paved Way for Supercomputers]]></description>
+        </item>
         <item>
             <title><![CDATA[日本的故乡税]]></title>
             <link>https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/sports/sporting-scene/how-one-swimmer-became-the-focus-of-a-debate-about-trans-athletes</guid>
             <pubDate>Thu, 17 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[How One Swimmer Became the Focus of a Debate About Trans Athletes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何解决与你的加密货币房东之间的冲突]]></title>
-            <link>https://www.newyorker.com/humor/daily-shouts/how-to-resolve-conflicts-with-your-crypto-landlord</link>
-            <guid>https://www.newyorker.com/humor/daily-shouts/how-to-resolve-conflicts-with-your-crypto-landlord</guid>
-            <pubDate>Thu, 17 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[How to Resolve Conflicts with Your Crypto Landlord]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国各州的能力实际上是相当高的]]></title>
-            <link>https://noahpinion.substack.com/p/us-state-capacity-is-actually-pretty</link>
-            <guid>https://noahpinion.substack.com/p/us-state-capacity-is-actually-pretty</guid>
-            <pubDate>Thu, 17 Mar 2022 09:00:08 GMT</pubDate>
-            <description><![CDATA[U.S. state capacity is actually pretty high]]></description>
         </item>
     </channel>
 </rss>

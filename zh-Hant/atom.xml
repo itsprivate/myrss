@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-30T02:28:44.442Z</updated>
+    <updated>2022-03-30T09:13:41.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭的戰爭如何攪亂了Facebook和Instagram]]></title>
+        <id>https://www.nytimes.com/2022/03/30/technology/ukraine-russia-facebook-instagram.html</id>
+        <link href="https://www.nytimes.com/2022/03/30/technology/ukraine-russia-facebook-instagram.html"/>
+        <updated>2022-03-30T09:00:18.000Z</updated>
+        <summary type="html"><![CDATA[How War in Ukraine Roiled Facebook and Instagram]]></summary>
+        <author>
+            <name>Ryan Mac, Mike Isaac and Sheera Frenkel</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為超級計算機鋪路的程序員獲得圖靈獎]]></title>
+        <id>https://www.nytimes.com/2022/03/30/technology/turing-award-jack-dongarra.html</id>
+        <link href="https://www.nytimes.com/2022/03/30/technology/turing-award-jack-dongarra.html"/>
+        <updated>2022-03-30T09:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Turing Award Won by Programmer Who Paved Way for Supercomputers]]></summary>
+        <author>
+            <name>Cade Metz</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日本的故鄉稅]]></title>
         <id>https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Louisa Thomas</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何解決與你的加密貨幣房東之間的衝突]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/how-to-resolve-conflicts-with-your-crypto-landlord</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/how-to-resolve-conflicts-with-your-crypto-landlord"/>
-        <updated>2022-03-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How to Resolve Conflicts with Your Crypto Landlord]]></summary>
-        <author>
-            <name>Devorah Blachor</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國各州的能力實際上是相當高的]]></title>
-        <id>https://noahpinion.substack.com/p/us-state-capacity-is-actually-pretty</id>
-        <link href="https://noahpinion.substack.com/p/us-state-capacity-is-actually-pretty"/>
-        <updated>2022-03-17T09:00:08.000Z</updated>
-        <summary type="html"><![CDATA[U.S. state capacity is actually pretty high]]></summary>
-        <author>
-            <name>Noah Smith</name>
-            <uri>https://noahpinion.substack.com/feed</uri>
         </author>
     </entry>
 </feed>
