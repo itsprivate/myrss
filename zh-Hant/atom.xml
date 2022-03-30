@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-30T10:14:49.716Z</updated>
+    <updated>2022-03-30T10:36:29.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[窺視一個恐懼、憤怒、想象的世界]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/ginni-thomas-mark-meadows-republican-religion/629415/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/ginni-thomas-mark-meadows-republican-religion/629415/?utm_source=feed"/>
+        <updated>2022-03-30T10:01:56.000Z</updated>
+        <summary type="html"><![CDATA[A Glimpse Into a Fearful, Angry, Imaginary World]]></summary>
+        <author>
+            <name>Peter Wehner</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一對父女體驗記憶的魅力]]></title>
         <id>https://www.newyorker.com/video/watch/the-new-yorker-shorts-a-father-and-daughter-experience-the-magic-of-memory</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Shira Ovide</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<em>《大西洋》</em>日報。火災保險正在助長一種危險的幻想]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2022/03/fire-insurance-climate-change/627091/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/fire-insurance-climate-change/627091/?utm_source=feed"/>
-        <updated>2022-03-17T16:44:07.000Z</updated>
-        <summary type="html"><![CDATA[<em>The Atlantic</em> Daily: Fire Insurance Is Feeding a Dangerous Fantasy]]></summary>
-        <author>
-            <name>Caroline Mimbs Nyce</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
