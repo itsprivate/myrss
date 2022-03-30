@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-30T01:09:12.943Z</updated>
+    <updated>2022-03-30T02:28:44.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,127 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[日本的故鄉稅]]></title>
+        <id>https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/</id>
+        <link href="https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/"/>
+        <updated>2018-10-19T11:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Japan's Hometown Tax]]></summary>
+        <author>
+            <name>Patrick McKenzie (patio11)</name>
+            <uri>https://www.kalzumeus.com/feed/articles/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Stripe工作是怎樣的體驗]]></title>
+        <id>https://www.kalzumeus.com/2019/3/18/two-years-at-stripe/</id>
+        <link href="https://www.kalzumeus.com/2019/3/18/two-years-at-stripe/"/>
+        <updated>2019-03-18T15:55:00.000Z</updated>
+        <summary type="html"><![CDATA[What Working At Stripe Has Been Like]]></summary>
+        <author>
+            <name>Patrick McKenzie (patio11)</name>
+            <uri>https://www.kalzumeus.com/feed/articles/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[折扣經紀公司如何賺錢]]></title>
+        <id>https://www.kalzumeus.com/2019/6/26/how-brokerages-make-money/</id>
+        <link href="https://www.kalzumeus.com/2019/6/26/how-brokerages-make-money/"/>
+        <updated>2019-06-25T15:01:00.000Z</updated>
+        <summary type="html"><![CDATA[How Discount Brokerages Make Money]]></summary>
+        <author>
+            <name>Patrick McKenzie (patio11)</name>
+            <uri>https://www.kalzumeus.com/feed/articles/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tether: 到目前為止的故事]]></title>
+        <id>https://www.kalzumeus.com/2019/10/28/tether-and-bitfinex/</id>
+        <link href="https://www.kalzumeus.com/2019/10/28/tether-and-bitfinex/"/>
+        <updated>2019-10-28T15:27:37.000Z</updated>
+        <summary type="html"><![CDATA[Tether: The Story So Far]]></summary>
+        <author>
+            <name>Patrick McKenzie (patio11)</name>
+            <uri>https://www.kalzumeus.com/feed/articles/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[工作組關於日本和covid-19的白皮書]]></title>
+        <id>https://www.kalzumeus.com/covid19-japan-white-paper/</id>
+        <link href="https://www.kalzumeus.com/covid19-japan-white-paper/"/>
+        <updated>2020-03-26T09:15:00.000Z</updated>
+        <summary type="html"><![CDATA[The Working Group's White paper on Japan and covid-19]]></summary>
+        <author>
+            <name>Patrick McKenzie (patio11)</name>
+            <uri>https://www.kalzumeus.com/feed/articles/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[丟棄哈希值：一個用來證明文件出處的習慣用語]]></title>
+        <id>https://www.kalzumeus.com/essays/dropping-hashes/</id>
+        <link href="https://www.kalzumeus.com/essays/dropping-hashes/"/>
+        <updated>2020-04-21T12:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Dropping hashes: an idiom used to demonstrate provenance of documents]]></summary>
+        <author>
+            <name>Patrick McKenzie (patio11)</name>
+            <uri>https://www.kalzumeus.com/feed/articles/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於冠狀病毒的預登記結果的最新情況]]></title>
+        <id>https://www.kalzumeus.com/2020/04/21/japan-coronavirus/</id>
+        <link href="https://www.kalzumeus.com/2020/04/21/japan-coronavirus/"/>
+        <updated>2020-04-21T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An update on a pre-registered result about the coronavirus]]></summary>
+        <author>
+            <name>Patrick McKenzie (patio11)</name>
+            <uri>https://www.kalzumeus.com/feed/articles/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Stripe工作是怎樣的體驗]]></title>
+        <id>https://www.kalzumeus.com/2020/10/09/four-years-at-stripe/</id>
+        <link href="https://www.kalzumeus.com/2020/10/09/four-years-at-stripe/"/>
+        <updated>2020-10-08T16:35:00.000Z</updated>
+        <summary type="html"><![CDATA[What Working At Stripe Has Been Like]]></summary>
+        <author>
+            <name>Patrick McKenzie (patio11)</name>
+            <uri>https://www.kalzumeus.com/feed/articles/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解決疫苗數據問題]]></title>
+        <id>https://www.kalzumeus.com/2021/04/23/vaccinate-the-states/</id>
+        <link href="https://www.kalzumeus.com/2021/04/23/vaccinate-the-states/"/>
+        <updated>2021-04-24T00:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Solving The Vaccine Data Problem]]></summary>
+        <author>
+            <name>Patrick McKenzie (patio11)</name>
+            <uri>https://www.kalzumeus.com/feed/articles/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[應用商店支付的競爭將加劇]]></title>
+        <id>https://www.kalzumeus.com/2021/08/27/app-store-payment-competition/</id>
+        <link href="https://www.kalzumeus.com/2021/08/27/app-store-payment-competition/"/>
+        <updated>2021-08-27T15:25:00.000Z</updated>
+        <summary type="html"><![CDATA[App Store Payments Will Have Increased Competition]]></summary>
+        <author>
+            <name>Patrick McKenzie (patio11)</name>
+            <uri>https://www.kalzumeus.com/feed/articles/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[誰獲得了自決權？]]></title>
+        <id>https://astralcodexten.substack.com/p/who-gets-self-determination</id>
+        <link href="https://astralcodexten.substack.com/p/who-gets-self-determination"/>
+        <updated>2022-03-30T01:20:37.000Z</updated>
+        <summary type="html"><![CDATA[Who Gets Self-Determination?]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[各國要求Snap和TikTok給予家長對應用程序更多的控制權]]></title>
         <id>https://www.nytimes.com/2022/03/29/technology/snapchat-tiktok-parental-control.html</id>
@@ -6492,127 +6613,6 @@
         <author>
             <name>Noah Smith</name>
             <uri>https://noahpinion.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<em>實驗</em>廣播。一個工程師試圖用自己的方式擺脫悲劇的困擾]]></title>
-        <id>https://www.theatlantic.com/podcasts/archive/2022/03/traumatic-brain-injury-rehab-engineering/627089/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/podcasts/archive/2022/03/traumatic-brain-injury-rehab-engineering/627089/?utm_source=feed"/>
-        <updated>2022-03-17T11:07:50.000Z</updated>
-        <summary type="html"><![CDATA[<em>The Experiment </em>Podcast: An Engineer Tries to Build His Way Out of Tragedy]]></summary>
-        <author>
-            <name>The Atlantic</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港的COVID時空隧道]]></title>
-        <id>https://www.theatlantic.com/international/archive/2022/03/hong-kong-china-covid-surge-lockdown/627083/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/international/archive/2022/03/hong-kong-china-covid-surge-lockdown/627083/?utm_source=feed"/>
-        <updated>2022-03-17T11:56:32.000Z</updated>
-        <summary type="html"><![CDATA[Hong Kong’s COVID Time Warp]]></summary>
-        <author>
-            <name>Timothy McLaughlin</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[網上的混蛋就是網下的混蛋]]></title>
-        <id>https://www.theatlantic.com/family/archive/2022/03/how-to-manage-cyberbullying-internet-trolls/627084/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/family/archive/2022/03/how-to-manage-cyberbullying-internet-trolls/627084/?utm_source=feed"/>
-        <updated>2022-03-17T11:17:36.000Z</updated>
-        <summary type="html"><![CDATA[Online Jerks Are Offline Jerks]]></summary>
-        <author>
-            <name>Arthur C. Brooks</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[責罵永遠無法阻止COVID的蔓延]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/covid-restrictions-lifted-mask-mandates/627078/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/covid-restrictions-lifted-mask-mandates/627078/?utm_source=feed"/>
-        <updated>2022-03-17T11:19:51.000Z</updated>
-        <summary type="html"><![CDATA[Scolding Will Never Stop COVID’s Spread]]></summary>
-        <author>
-            <name>Conor Friedersdorf</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[結核病通過......海豹進入南美洲？]]></title>
-        <id>https://www.theatlantic.com/science/archive/2022/03/mystery-how-tuberculosis-got-americas/627088/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/science/archive/2022/03/mystery-how-tuberculosis-got-americas/627088/?utm_source=feed"/>
-        <updated>2022-03-17T12:00:57.000Z</updated>
-        <summary type="html"><![CDATA[Tuberculosis Got to South America Through … Seals?]]></summary>
-        <author>
-            <name>Sarah Zhang</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[澤倫斯基援引珍珠港和9/11事件，懇請華盛頓方面提供更多信息]]></title>
-        <id>https://www.newyorker.com/news/daily-comment/zelensky-invokes-pearl-harbor-and-911-as-he-pleads-for-more-from-washington</id>
-        <link href="https://www.newyorker.com/news/daily-comment/zelensky-invokes-pearl-harbor-and-911-as-he-pleads-for-more-from-washington"/>
-        <updated>2022-03-16T21:38:45.000Z</updated>
-        <summary type="html"><![CDATA[Zelensky Invokes Pearl Harbor and 9/11 as He Pleads for More from Washington]]></summary>
-        <author>
-            <name>Robin Wright</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一部終於抓住村上寫作的電影]]></title>
-        <id>https://www.theatlantic.com/podcasts/archive/2022/03/drive-my-car/627085/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/podcasts/archive/2022/03/drive-my-car/627085/?utm_source=feed"/>
-        <updated>2022-03-16T20:17:33.000Z</updated>
-        <summary type="html"><![CDATA[A Film That Finally Captures Murakami’s Writing]]></summary>
-        <author>
-            <name>Lenika Cruz</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[批評烏克蘭也是自由言論]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2022/03/criticizing-ukraine-is-free-speech-too/627087/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/criticizing-ukraine-is-free-speech-too/627087/?utm_source=feed"/>
-        <updated>2022-03-16T20:36:10.000Z</updated>
-        <summary type="html"><![CDATA[Criticizing Ukraine Is Free Speech, Too]]></summary>
-        <author>
-            <name>Conor Friedersdorf</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼面對核武器帶來的威脅如此困難？]]></title>
-        <id>https://www.currentaffairs.org/2022/03/why-its-so-hard-to-face-the-threat-posed-by-nuclear-weapons/</id>
-        <link href="https://www.currentaffairs.org/2022/03/why-its-so-hard-to-face-the-threat-posed-by-nuclear-weapons/"/>
-        <updated>2022-03-16T15:58:17.000Z</updated>
-        <summary type="html"><![CDATA[Why It&#8217;s So Hard to Face the Threat Posed by Nuclear Weapons]]></summary>
-        <author>
-            <name>Phil Torres</name>
-            <uri>https://www.currentaffairs.org/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[澤倫斯基如何成為民主的化身]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/zelensky-congress-speech-no-fly-zone/627080/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/zelensky-congress-speech-no-fly-zone/627080/?utm_source=feed"/>
-        <updated>2022-03-16T19:53:16.000Z</updated>
-        <summary type="html"><![CDATA[How Zelensky Came to Embody Democracy]]></summary>
-        <author>
-            <name>Franklin Foer</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於Zulresso的評論中的亮點]]></title>
-        <id>https://astralcodexten.substack.com/p/highlights-from-the-comments-on-zulresso</id>
-        <link href="https://astralcodexten.substack.com/p/highlights-from-the-comments-on-zulresso"/>
-        <updated>2022-03-16T18:50:18.000Z</updated>
-        <summary type="html"><![CDATA[Highlights From The Comments On Zulresso]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
         </author>
     </entry>
 </feed>

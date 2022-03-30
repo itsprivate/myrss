@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 30 Mar 2022 01:09:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 02:28:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,83 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[日本的故乡税]]></title>
+            <link>https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/</link>
+            <guid>https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/</guid>
+            <pubDate>Fri, 19 Oct 2018 11:35:00 GMT</pubDate>
+            <description><![CDATA[Japan's Hometown Tax]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在Stripe工作是怎样的体验]]></title>
+            <link>https://www.kalzumeus.com/2019/3/18/two-years-at-stripe/</link>
+            <guid>https://www.kalzumeus.com/2019/3/18/two-years-at-stripe/</guid>
+            <pubDate>Mon, 18 Mar 2019 15:55:00 GMT</pubDate>
+            <description><![CDATA[What Working At Stripe Has Been Like]]></description>
+        </item>
+        <item>
+            <title><![CDATA[折扣经纪公司如何赚钱]]></title>
+            <link>https://www.kalzumeus.com/2019/6/26/how-brokerages-make-money/</link>
+            <guid>https://www.kalzumeus.com/2019/6/26/how-brokerages-make-money/</guid>
+            <pubDate>Tue, 25 Jun 2019 15:01:00 GMT</pubDate>
+            <description><![CDATA[How Discount Brokerages Make Money]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Tether: 到目前为止的故事]]></title>
+            <link>https://www.kalzumeus.com/2019/10/28/tether-and-bitfinex/</link>
+            <guid>https://www.kalzumeus.com/2019/10/28/tether-and-bitfinex/</guid>
+            <pubDate>Mon, 28 Oct 2019 15:27:37 GMT</pubDate>
+            <description><![CDATA[Tether: The Story So Far]]></description>
+        </item>
+        <item>
+            <title><![CDATA[工作组关于日本和covid-19的白皮书]]></title>
+            <link>https://www.kalzumeus.com/covid19-japan-white-paper/</link>
+            <guid>https://www.kalzumeus.com/covid19-japan-white-paper/</guid>
+            <pubDate>Thu, 26 Mar 2020 09:15:00 GMT</pubDate>
+            <description><![CDATA[The Working Group's White paper on Japan and covid-19]]></description>
+        </item>
+        <item>
+            <title><![CDATA[丢弃哈希值：一个用来证明文件出处的习惯用语]]></title>
+            <link>https://www.kalzumeus.com/essays/dropping-hashes/</link>
+            <guid>https://www.kalzumeus.com/essays/dropping-hashes/</guid>
+            <pubDate>Tue, 21 Apr 2020 12:45:00 GMT</pubDate>
+            <description><![CDATA[Dropping hashes: an idiom used to demonstrate provenance of documents]]></description>
+        </item>
+        <item>
+            <title><![CDATA[关于冠状病毒的预登记结果的最新情况]]></title>
+            <link>https://www.kalzumeus.com/2020/04/21/japan-coronavirus/</link>
+            <guid>https://www.kalzumeus.com/2020/04/21/japan-coronavirus/</guid>
+            <pubDate>Tue, 21 Apr 2020 13:00:00 GMT</pubDate>
+            <description><![CDATA[An update on a pre-registered result about the coronavirus]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在Stripe工作是怎样的体验]]></title>
+            <link>https://www.kalzumeus.com/2020/10/09/four-years-at-stripe/</link>
+            <guid>https://www.kalzumeus.com/2020/10/09/four-years-at-stripe/</guid>
+            <pubDate>Thu, 08 Oct 2020 16:35:00 GMT</pubDate>
+            <description><![CDATA[What Working At Stripe Has Been Like]]></description>
+        </item>
+        <item>
+            <title><![CDATA[解决疫苗数据问题]]></title>
+            <link>https://www.kalzumeus.com/2021/04/23/vaccinate-the-states/</link>
+            <guid>https://www.kalzumeus.com/2021/04/23/vaccinate-the-states/</guid>
+            <pubDate>Sat, 24 Apr 2021 00:01:00 GMT</pubDate>
+            <description><![CDATA[Solving The Vaccine Data Problem]]></description>
+        </item>
+        <item>
+            <title><![CDATA[应用商店支付的竞争将加剧]]></title>
+            <link>https://www.kalzumeus.com/2021/08/27/app-store-payment-competition/</link>
+            <guid>https://www.kalzumeus.com/2021/08/27/app-store-payment-competition/</guid>
+            <pubDate>Fri, 27 Aug 2021 15:25:00 GMT</pubDate>
+            <description><![CDATA[App Store Payments Will Have Increased Competition]]></description>
+        </item>
+        <item>
+            <title><![CDATA[谁获得了自决权？]]></title>
+            <link>https://astralcodexten.substack.com/p/who-gets-self-determination</link>
+            <guid>https://astralcodexten.substack.com/p/who-gets-self-determination</guid>
+            <pubDate>Wed, 30 Mar 2022 01:20:37 GMT</pubDate>
+            <description><![CDATA[Who Gets Self-Determination?]]></description>
+        </item>
         <item>
             <title><![CDATA[各国要求Snap和TikTok给予家长对应用程序更多的控制权]]></title>
             <link>https://www.nytimes.com/2022/03/29/technology/snapchat-tiktok-parental-control.html</link>
@@ -4136,83 +4213,6 @@
             <guid>https://noahpinion.substack.com/p/us-state-capacity-is-actually-pretty</guid>
             <pubDate>Thu, 17 Mar 2022 09:00:08 GMT</pubDate>
             <description><![CDATA[U.S. state capacity is actually pretty high]]></description>
-        </item>
-        <item>
-            <title><![CDATA[<em>实验</em>广播。一个工程师试图用自己的方式摆脱悲剧的困扰]]></title>
-            <link>https://www.theatlantic.com/podcasts/archive/2022/03/traumatic-brain-injury-rehab-engineering/627089/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/podcasts/archive/2022/03/traumatic-brain-injury-rehab-engineering/627089/?utm_source=feed</guid>
-            <pubDate>Thu, 17 Mar 2022 11:07:50 GMT</pubDate>
-            <description><![CDATA[<em>The Experiment </em>Podcast: An Engineer Tries to Build His Way Out of Tragedy]]></description>
-        </item>
-        <item>
-            <title><![CDATA[香港的COVID时空隧道]]></title>
-            <link>https://www.theatlantic.com/international/archive/2022/03/hong-kong-china-covid-surge-lockdown/627083/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/international/archive/2022/03/hong-kong-china-covid-surge-lockdown/627083/?utm_source=feed</guid>
-            <pubDate>Thu, 17 Mar 2022 11:56:32 GMT</pubDate>
-            <description><![CDATA[Hong Kong’s COVID Time Warp]]></description>
-        </item>
-        <item>
-            <title><![CDATA[网上的混蛋就是网下的混蛋]]></title>
-            <link>https://www.theatlantic.com/family/archive/2022/03/how-to-manage-cyberbullying-internet-trolls/627084/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/family/archive/2022/03/how-to-manage-cyberbullying-internet-trolls/627084/?utm_source=feed</guid>
-            <pubDate>Thu, 17 Mar 2022 11:17:36 GMT</pubDate>
-            <description><![CDATA[Online Jerks Are Offline Jerks]]></description>
-        </item>
-        <item>
-            <title><![CDATA[责骂永远无法阻止COVID的蔓延]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/covid-restrictions-lifted-mask-mandates/627078/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/covid-restrictions-lifted-mask-mandates/627078/?utm_source=feed</guid>
-            <pubDate>Thu, 17 Mar 2022 11:19:51 GMT</pubDate>
-            <description><![CDATA[Scolding Will Never Stop COVID’s Spread]]></description>
-        </item>
-        <item>
-            <title><![CDATA[结核病通过......海豹进入南美洲？]]></title>
-            <link>https://www.theatlantic.com/science/archive/2022/03/mystery-how-tuberculosis-got-americas/627088/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/science/archive/2022/03/mystery-how-tuberculosis-got-americas/627088/?utm_source=feed</guid>
-            <pubDate>Thu, 17 Mar 2022 12:00:57 GMT</pubDate>
-            <description><![CDATA[Tuberculosis Got to South America Through … Seals?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[泽伦斯基援引珍珠港和9/11事件，恳请华盛顿方面提供更多信息]]></title>
-            <link>https://www.newyorker.com/news/daily-comment/zelensky-invokes-pearl-harbor-and-911-as-he-pleads-for-more-from-washington</link>
-            <guid>https://www.newyorker.com/news/daily-comment/zelensky-invokes-pearl-harbor-and-911-as-he-pleads-for-more-from-washington</guid>
-            <pubDate>Wed, 16 Mar 2022 21:38:45 GMT</pubDate>
-            <description><![CDATA[Zelensky Invokes Pearl Harbor and 9/11 as He Pleads for More from Washington]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一部终于抓住村上写作的电影]]></title>
-            <link>https://www.theatlantic.com/podcasts/archive/2022/03/drive-my-car/627085/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/podcasts/archive/2022/03/drive-my-car/627085/?utm_source=feed</guid>
-            <pubDate>Wed, 16 Mar 2022 20:17:33 GMT</pubDate>
-            <description><![CDATA[A Film That Finally Captures Murakami’s Writing]]></description>
-        </item>
-        <item>
-            <title><![CDATA[批评乌克兰也是自由言论]]></title>
-            <link>https://www.theatlantic.com/newsletters/archive/2022/03/criticizing-ukraine-is-free-speech-too/627087/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/newsletters/archive/2022/03/criticizing-ukraine-is-free-speech-too/627087/?utm_source=feed</guid>
-            <pubDate>Wed, 16 Mar 2022 20:36:10 GMT</pubDate>
-            <description><![CDATA[Criticizing Ukraine Is Free Speech, Too]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么面对核武器带来的威胁如此困难？]]></title>
-            <link>https://www.currentaffairs.org/2022/03/why-its-so-hard-to-face-the-threat-posed-by-nuclear-weapons/</link>
-            <guid>https://www.currentaffairs.org/2022/03/why-its-so-hard-to-face-the-threat-posed-by-nuclear-weapons/</guid>
-            <pubDate>Wed, 16 Mar 2022 15:58:17 GMT</pubDate>
-            <description><![CDATA[Why It&#8217;s So Hard to Face the Threat Posed by Nuclear Weapons]]></description>
-        </item>
-        <item>
-            <title><![CDATA[泽伦斯基如何成为民主的化身]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/zelensky-congress-speech-no-fly-zone/627080/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/zelensky-congress-speech-no-fly-zone/627080/?utm_source=feed</guid>
-            <pubDate>Wed, 16 Mar 2022 19:53:16 GMT</pubDate>
-            <description><![CDATA[How Zelensky Came to Embody Democracy]]></description>
-        </item>
-        <item>
-            <title><![CDATA[关于Zulresso的评论中的亮点]]></title>
-            <link>https://astralcodexten.substack.com/p/highlights-from-the-comments-on-zulresso</link>
-            <guid>https://astralcodexten.substack.com/p/highlights-from-the-comments-on-zulresso</guid>
-            <pubDate>Wed, 16 Mar 2022 18:50:18 GMT</pubDate>
-            <description><![CDATA[Highlights From The Comments On Zulresso]]></description>
         </item>
     </channel>
 </rss>
