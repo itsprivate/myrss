@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-30T10:36:29.460Z</updated>
+    <updated>2022-03-30T11:30:28.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[大流行病是如何破坏社会互动的]]></title>
+        <id>https://www.theatlantic.com/politics/archive/2022/03/antisocial-behavior-crime-violence-increase-pandemic/627076/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/politics/archive/2022/03/antisocial-behavior-crime-violence-increase-pandemic/627076/?utm_source=feed"/>
+        <updated>2022-03-30T11:00:58.000Z</updated>
+        <summary type="html"><![CDATA[How the Pandemic Broke Social Interaction]]></summary>
+        <author>
+            <name>Olga Khazan</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[窥视一个恐惧、愤怒、想象的世界]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/03/ginni-thomas-mark-meadows-republican-religion/629415/?utm_source=feed</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Barry Blitt</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一些技术的魔力已经消失了]]></title>
-        <id>https://www.nytimes.com/2022/03/17/technology/tech-bubble.html</id>
-        <link href="https://www.nytimes.com/2022/03/17/technology/tech-bubble.html"/>
-        <updated>2022-03-17T16:48:20.000Z</updated>
-        <summary type="html"><![CDATA[Some of the Tech Magic Is Gone]]></summary>
-        <author>
-            <name>Shira Ovide</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>

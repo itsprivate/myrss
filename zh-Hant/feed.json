@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/politics/archive/2022/03/antisocial-behavior-crime-violence-increase-pandemic/627076/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/politics/archive/2022/03/antisocial-behavior-crime-violence-increase-pandemic/627076/?utm_source=feed",
+            "title": "大流行病是如何破壞社會互動的",
+            "summary": "How the Pandemic Broke Social Interaction",
+            "date_modified": "2022-03-30T11:00:58.000Z",
+            "author": {
+                "name": "Olga Khazan",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/ideas/archive/2022/03/ginni-thomas-mark-meadows-republican-religion/629415/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/ideas/archive/2022/03/ginni-thomas-mark-meadows-republican-religion/629415/?utm_source=feed",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Barry Blitt",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/17/technology/tech-bubble.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/17/technology/tech-bubble.html",
-            "title": "一些技術的魔力已經消失了",
-            "summary": "Some of the Tech Magic Is Gone",
-            "date_modified": "2022-03-17T16:48:20.000Z",
-            "author": {
-                "name": "Shira Ovide",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
     ]
