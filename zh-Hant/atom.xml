@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-31T19:28:28.921Z</updated>
+    <updated>2022-03-31T19:51:55.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[成年人還是受性虐待的未成年人？正確的做法讓Facebook感到不安]]></title>
+        <id>https://www.nytimes.com/2022/03/31/business/meta-child-sexual-abuse.html</id>
+        <link href="https://www.nytimes.com/2022/03/31/business/meta-child-sexual-abuse.html"/>
+        <updated>2022-03-31T19:38:51.000Z</updated>
+        <summary type="html"><![CDATA[Adults or Sexually Abused Minors? Getting It Right Vexes Facebook]]></summary>
+        <author>
+            <name>Michael H. Keller</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<em>《大西洋》</em>日報。在電視前吃晚飯的理由]]></title>
         <id>https://www.theatlantic.com/newsletters/archive/2022/03/eating-dinner-in-front-of-the-tv/629439/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Mark Zuckerberg Won’t Be Named in Meta Privacy Suit, Judge Says]]></summary>
         <author>
             <name>Cecilia Kang</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巴西出於對虛假信息的擔憂而禁止Telegram。]]></title>
-        <id>https://www.nytimes.com/2022/03/18/world/americas/brazil-bans-telegram.html</id>
-        <link href="https://www.nytimes.com/2022/03/18/world/americas/brazil-bans-telegram.html"/>
-        <updated>2022-03-19T02:55:48.000Z</updated>
-        <summary type="html"><![CDATA[Brazil Bans Telegram Over Disinformation Concerns]]></summary>
-        <author>
-            <name>Jack Nicas</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
