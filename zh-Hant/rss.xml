@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 31 Mar 2022 18:40:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 19:13:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[美國！。我在與我的即興表演團體 "戰爭之屁 "表演時一直在思考世界的問題]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/america-i-keep-thinking-about-the-worlds-problems-while-performing-with-my-improv-group-the-fart-of-war</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/america-i-keep-thinking-about-the-worlds-problems-while-performing-with-my-improv-group-the-fart-of-war</guid>
+            <pubDate>Thu, 31 Mar 2022 18:53:00 GMT</pubDate>
+            <description><![CDATA[America!: I Keep Thinking About the World’s Problems While Performing with My Improv Group “The Fart of War”]]></description>
+        </item>
+        <item>
+            <title><![CDATA[新聞中的動物]]></title>
+            <link>https://www.theatlantic.com/photo/2022/03/photos-animals-news/629438/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/photo/2022/03/photos-animals-news/629438/?utm_source=feed</guid>
+            <pubDate>Thu, 31 Mar 2022 18:57:36 GMT</pubDate>
+            <description><![CDATA[Animals in the News]]></description>
+        </item>
         <item>
             <title><![CDATA[隱秘的公開主題217.5]]></title>
             <link>https://astralcodexten.substack.com/p/hidden-open-thread-2175</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.nytimes.com/2022/03/18/technology/amazon-dc-antitrust-suit.html</guid>
             <pubDate>Fri, 18 Mar 2022 23:20:14 GMT</pubDate>
             <description><![CDATA[D.C. Suit Accusing Amazon of Controlling Prices Is Thrown Out]]></description>
-        </item>
-        <item>
-            <title><![CDATA[訴訟指責谷歌對黑人員工有偏見]]></title>
-            <link>https://www.nytimes.com/2022/03/18/technology/google-discrimination-suit-black-employees.html</link>
-            <guid>https://www.nytimes.com/2022/03/18/technology/google-discrimination-suit-black-employees.html</guid>
-            <pubDate>Sat, 19 Mar 2022 00:15:00 GMT</pubDate>
-            <description><![CDATA[Lawsuit Accuses Google of Bias Against Black Employees]]></description>
-        </item>
-        <item>
-            <title><![CDATA[候選人如何利用TikTok來爭取年輕的選民]]></title>
-            <link>https://www.nytimes.com/2022/03/19/style/tiktok-political-campaigns-midterm-elections.html</link>
-            <guid>https://www.nytimes.com/2022/03/19/style/tiktok-political-campaigns-midterm-elections.html</guid>
-            <pubDate>Sat, 19 Mar 2022 09:02:30 GMT</pubDate>
-            <description><![CDATA[How Candidates Are Using TikTok to Secure Younger Voters]]></description>
         </item>
     </channel>
 </rss>

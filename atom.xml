@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-31T18:40:40.716Z</updated>
+    <updated>2022-03-31T19:13:18.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国！。我在与我的即兴表演团体 "战争之屁 "表演时一直在思考世界的问题]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/america-i-keep-thinking-about-the-worlds-problems-while-performing-with-my-improv-group-the-fart-of-war</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/america-i-keep-thinking-about-the-worlds-problems-while-performing-with-my-improv-group-the-fart-of-war"/>
+        <updated>2022-03-31T18:53:00.000Z</updated>
+        <summary type="html"><![CDATA[America!: I Keep Thinking About the World’s Problems While Performing with My Improv Group “The Fart of War”]]></summary>
+        <author>
+            <name>Ali Fitzgerald</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新闻中的动物]]></title>
+        <id>https://www.theatlantic.com/photo/2022/03/photos-animals-news/629438/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/photo/2022/03/photos-animals-news/629438/?utm_source=feed"/>
+        <updated>2022-03-31T18:57:36.000Z</updated>
+        <summary type="html"><![CDATA[Animals in the News]]></summary>
+        <author>
+            <name>Alan Taylor</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[隐秘的公开主题217.5]]></title>
         <id>https://astralcodexten.substack.com/p/hidden-open-thread-2175</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[D.C. Suit Accusing Amazon of Controlling Prices Is Thrown Out]]></summary>
         <author>
             <name>David McCabe</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[诉讼指责谷歌对黑人员工有偏见]]></title>
-        <id>https://www.nytimes.com/2022/03/18/technology/google-discrimination-suit-black-employees.html</id>
-        <link href="https://www.nytimes.com/2022/03/18/technology/google-discrimination-suit-black-employees.html"/>
-        <updated>2022-03-19T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Lawsuit Accuses Google of Bias Against Black Employees]]></summary>
-        <author>
-            <name>Daisuke Wakabayashi</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[候选人如何利用TikTok来争取年轻的选民]]></title>
-        <id>https://www.nytimes.com/2022/03/19/style/tiktok-political-campaigns-midterm-elections.html</id>
-        <link href="https://www.nytimes.com/2022/03/19/style/tiktok-political-campaigns-midterm-elections.html"/>
-        <updated>2022-03-19T09:02:30.000Z</updated>
-        <summary type="html"><![CDATA[How Candidates Are Using TikTok to Secure Younger Voters]]></summary>
-        <author>
-            <name>Anna P. Kambhampaty</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>

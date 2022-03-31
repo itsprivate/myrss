@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/humor/daily-shouts/america-i-keep-thinking-about-the-worlds-problems-while-performing-with-my-improv-group-the-fart-of-war",
+            "content_html": "",
+            "url": "https://www.newyorker.com/humor/daily-shouts/america-i-keep-thinking-about-the-worlds-problems-while-performing-with-my-improv-group-the-fart-of-war",
+            "title": "美國！。我在與我的即興表演團體 \"戰爭之屁 \"表演時一直在思考世界的問題",
+            "summary": "America!: I Keep Thinking About the World’s Problems While Performing with My Improv Group “The Fart of War”",
+            "date_modified": "2022-03-31T18:53:00.000Z",
+            "author": {
+                "name": "Ali Fitzgerald",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/photo/2022/03/photos-animals-news/629438/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/photo/2022/03/photos-animals-news/629438/?utm_source=feed",
+            "title": "新聞中的動物",
+            "summary": "Animals in the News",
+            "date_modified": "2022-03-31T18:57:36.000Z",
+            "author": {
+                "name": "Alan Taylor",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://astralcodexten.substack.com/p/hidden-open-thread-2175",
             "content_html": "",
             "url": "https://astralcodexten.substack.com/p/hidden-open-thread-2175",
@@ -7183,30 +7207,6 @@
             "date_modified": "2022-03-18T23:20:14.000Z",
             "author": {
                 "name": "David McCabe",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/18/technology/google-discrimination-suit-black-employees.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/18/technology/google-discrimination-suit-black-employees.html",
-            "title": "訴訟指責谷歌對黑人員工有偏見",
-            "summary": "Lawsuit Accuses Google of Bias Against Black Employees",
-            "date_modified": "2022-03-19T00:15:00.000Z",
-            "author": {
-                "name": "Daisuke Wakabayashi",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/19/style/tiktok-political-campaigns-midterm-elections.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/19/style/tiktok-political-campaigns-midterm-elections.html",
-            "title": "候選人如何利用TikTok來爭取年輕的選民",
-            "summary": "How Candidates Are Using TikTok to Secure Younger Voters",
-            "date_modified": "2022-03-19T09:02:30.000Z",
-            "author": {
-                "name": "Anna P. Kambhampaty",
                 "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
