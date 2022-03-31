@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/31/style/ben-mckenzie-crypto.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/31/style/ben-mckenzie-crypto.html",
+            "title": "本-麦肯齐，\"O.C.\" 明星，转而成为加密货币的批评者",
+            "summary": "Ben McKenzie, “O.C.” Star, Pivots to Crypto Critic",
+            "date_modified": "2022-03-31T09:00:20.000Z",
+            "author": {
+                "name": "David Yaffe-Bellany",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/31/style/wikipedia-instagram-depths-annie-rauwerda.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/31/style/wikipedia-instagram-depths-annie-rauwerda.html",
@@ -7192,18 +7204,6 @@
             "url": "https://www.newyorker.com/magazine/night-school",
             "title": "夜校",
             "summary": "Night School",
-            "date_modified": "2022-03-18T02:52:51.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/art-everywhere",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/art-everywhere",
-            "title": "随处可见的艺术",
-            "summary": "Art Everywhere",
             "date_modified": "2022-03-18T02:52:51.000Z",
             "author": {
                 "name": "unknown",
