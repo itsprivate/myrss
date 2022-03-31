@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 30 Mar 2022 22:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 07:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在Instagram上挖掘 "维基百科的深渊"。]]></title>
+            <link>https://www.nytimes.com/2022/03/31/style/wikipedia-instagram-depths-annie-rauwerda.html</link>
+            <guid>https://www.nytimes.com/2022/03/31/style/wikipedia-instagram-depths-annie-rauwerda.html</guid>
+            <pubDate>Thu, 31 Mar 2022 07:00:05 GMT</pubDate>
+            <description><![CDATA[Mining the ‘Depths of Wikipedia’ on Instagram]]></description>
+        </item>
         <item>
             <title><![CDATA[拜登也是俄乌战争中的一张王牌]]></title>
             <link>https://www.theatlantic.com/newsletters/archive/2022/03/biden-is-a-wild-card-in-the-russia-ukraine-war-too/629434/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/magazine/art-everywhere</guid>
             <pubDate>Fri, 18 Mar 2022 02:52:51 GMT</pubDate>
             <description><![CDATA[Art Everywhere]]></description>
-        </item>
-        <item>
-            <title><![CDATA[来自代托纳海滩的信]]></title>
-            <link>https://www.newyorker.com/magazine/letter-from-daytona-beach</link>
-            <guid>https://www.newyorker.com/magazine/letter-from-daytona-beach</guid>
-            <pubDate>Fri, 18 Mar 2022 02:02:30 GMT</pubDate>
-            <description><![CDATA[Letter from Daytona Beach]]></description>
         </item>
     </channel>
 </rss>

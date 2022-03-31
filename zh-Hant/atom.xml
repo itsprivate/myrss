@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-30T22:13:57.608Z</updated>
+    <updated>2022-03-31T07:13:07.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Instagram上挖掘 "維基百科的深淵"。]]></title>
+        <id>https://www.nytimes.com/2022/03/31/style/wikipedia-instagram-depths-annie-rauwerda.html</id>
+        <link href="https://www.nytimes.com/2022/03/31/style/wikipedia-instagram-depths-annie-rauwerda.html"/>
+        <updated>2022-03-31T07:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Mining the ‘Depths of Wikipedia’ on Instagram]]></summary>
+        <author>
+            <name>Anna P. Kambhampaty</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拜登也是俄烏戰爭中的一張王牌]]></title>
         <id>https://www.theatlantic.com/newsletters/archive/2022/03/biden-is-a-wild-card-in-the-russia-ukraine-war-too/629434/?utm_source=feed</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.newyorker.com/magazine/art-everywhere"/>
         <updated>2022-03-18T02:52:51.000Z</updated>
         <summary type="html"><![CDATA[Art Everywhere]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[來自代託納海灘的信]]></title>
-        <id>https://www.newyorker.com/magazine/letter-from-daytona-beach</id>
-        <link href="https://www.newyorker.com/magazine/letter-from-daytona-beach"/>
-        <updated>2022-03-18T02:02:30.000Z</updated>
-        <summary type="html"><![CDATA[Letter from Daytona Beach]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
