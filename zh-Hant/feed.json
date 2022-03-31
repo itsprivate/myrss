@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/newsletters/archive/2022/03/eating-dinner-in-front-of-the-tv/629439/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/newsletters/archive/2022/03/eating-dinner-in-front-of-the-tv/629439/?utm_source=feed",
+            "title": "<em>《大西洋》</em>日報。在電視前吃晚飯的理由",
+            "summary": "<em>The Atlantic</em> Daily: The Case for Eating Dinner in Front of the TV",
+            "date_modified": "2022-03-31T19:17:02.000Z",
+            "author": {
+                "name": "Jordan Calhoun",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/humor/daily-shouts/america-i-keep-thinking-about-the-worlds-problems-while-performing-with-my-improv-group-the-fart-of-war",
             "content_html": "",
             "url": "https://www.newyorker.com/humor/daily-shouts/america-i-keep-thinking-about-the-worlds-problems-while-performing-with-my-improv-group-the-fart-of-war",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-19T02:55:48.000Z",
             "author": {
                 "name": "Jack Nicas",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/18/technology/amazon-dc-antitrust-suit.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/18/technology/amazon-dc-antitrust-suit.html",
-            "title": "指控亞馬遜控制價格的華盛頓特區訴訟案被拋出",
-            "summary": "D.C. Suit Accusing Amazon of Controlling Prices Is Thrown Out",
-            "date_modified": "2022-03-18T23:20:14.000Z",
-            "author": {
-                "name": "David McCabe",
                 "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }

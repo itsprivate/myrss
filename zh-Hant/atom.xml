@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-31T19:13:18.943Z</updated>
+    <updated>2022-03-31T19:28:28.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[<em>《大西洋》</em>日報。在電視前吃晚飯的理由]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/03/eating-dinner-in-front-of-the-tv/629439/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/eating-dinner-in-front-of-the-tv/629439/?utm_source=feed"/>
+        <updated>2022-03-31T19:17:02.000Z</updated>
+        <summary type="html"><![CDATA[<em>The Atlantic</em> Daily: The Case for Eating Dinner in Front of the TV]]></summary>
+        <author>
+            <name>Jordan Calhoun</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國！。我在與我的即興表演團體 "戰爭之屁 "表演時一直在思考世界的問題]]></title>
         <id>https://www.newyorker.com/humor/daily-shouts/america-i-keep-thinking-about-the-worlds-problems-while-performing-with-my-improv-group-the-fart-of-war</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Brazil Bans Telegram Over Disinformation Concerns]]></summary>
         <author>
             <name>Jack Nicas</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[指控亞馬遜控制價格的華盛頓特區訴訟案被拋出]]></title>
-        <id>https://www.nytimes.com/2022/03/18/technology/amazon-dc-antitrust-suit.html</id>
-        <link href="https://www.nytimes.com/2022/03/18/technology/amazon-dc-antitrust-suit.html"/>
-        <updated>2022-03-18T23:20:14.000Z</updated>
-        <summary type="html"><![CDATA[D.C. Suit Accusing Amazon of Controlling Prices Is Thrown Out]]></summary>
-        <author>
-            <name>David McCabe</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
