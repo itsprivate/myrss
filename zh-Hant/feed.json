@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/newsletter/the-daily",
+            "content_html": "",
+            "url": "https://www.newyorker.com/newsletter/the-daily",
+            "title": "每日新聞",
+            "summary": "The Daily",
+            "date_modified": "2022-03-31T20:48:16.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/culture/archive/2022/03/morbius-review-jared-leto/629442/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/culture/archive/2022/03/morbius-review-jared-leto/629442/?utm_source=feed",
@@ -7193,18 +7205,6 @@
             "title": "改變我生活的書",
             "summary": "The book that changed my life",
             "date_modified": "2022-03-15T12:00:38.000Z",
-            "author": {
-                "name": "Austin Kleon",
-                "url": "https://austinkleon.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://austinkleon.substack.com/p/why-am-i-talking",
-            "content_html": "",
-            "url": "https://austinkleon.substack.com/p/why-am-i-talking",
-            "title": "為什麼我在說話？",
-            "summary": "Why Am I Talking?",
-            "date_modified": "2022-03-18T12:00:34.000Z",
             "author": {
                 "name": "Austin Kleon",
                 "url": "https://austinkleon.substack.com/feed"
