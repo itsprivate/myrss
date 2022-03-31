@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 31 Mar 2022 21:52:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 22:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[奥尔德斯-哈丁的隐秘叙事]]></title>
+            <link>https://www.newyorker.com/culture/listening-booth/the-cryptic-storytelling-of-aldous-harding</link>
+            <guid>https://www.newyorker.com/culture/listening-booth/the-cryptic-storytelling-of-aldous-harding</guid>
+            <pubDate>Thu, 31 Mar 2022 21:42:15 GMT</pubDate>
+            <description><![CDATA[The Cryptic Storytelling of Aldous Harding]]></description>
+        </item>
         <item>
             <title><![CDATA[奥尔德斯-哈丁的隐秘叙事]]></title>
             <link>https://www.newyorker.com/culture/listening-booth/the-cryptic-storytelling-of-aldous-harding</link>
@@ -4206,13 +4213,6 @@
             <guid>https://austinkleon.substack.com/p/only-the-questions</guid>
             <pubDate>Fri, 04 Mar 2022 13:00:37 GMT</pubDate>
             <description><![CDATA[Only the questions]]></description>
-        </item>
-        <item>
-            <title><![CDATA[两个轮子上的冒险]]></title>
-            <link>https://austinkleon.substack.com/p/adventures-on-two-wheels</link>
-            <guid>https://austinkleon.substack.com/p/adventures-on-two-wheels</guid>
-            <pubDate>Tue, 08 Mar 2022 13:00:37 GMT</pubDate>
-            <description><![CDATA[Adventures on two wheels]]></description>
         </item>
     </channel>
 </rss>
