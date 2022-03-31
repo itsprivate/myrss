@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-31T15:38:04.411Z</updated>
+    <updated>2022-03-31T17:09:18.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[擁抱伯樂]]></title>
+        <id>https://www.nytimes.com/2022/03/31/technology/hugs-to-boring.html</id>
+        <link href="https://www.nytimes.com/2022/03/31/technology/hugs-to-boring.html"/>
+        <updated>2022-03-31T17:01:32.000Z</updated>
+        <summary type="html"><![CDATA[Hugs to Boring]]></summary>
+        <author>
+            <name>Shira Ovide</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[被 "變紅 "所累的方式不止一種]]></title>
         <id>https://www.newyorker.com/culture/culture-desk/there-is-more-than-one-way-to-be-exhausted-by-turning-red</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Ali Solomon</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[夏利-XCX製造了另一個崇拜經典]]></title>
-        <id>https://www.theatlantic.com/culture/archive/2022/03/charli-xcx-crash-album-review/627106/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/culture/archive/2022/03/charli-xcx-crash-album-review/627106/?utm_source=feed"/>
-        <updated>2022-03-18T14:46:37.000Z</updated>
-        <summary type="html"><![CDATA[Charli XCX Has Made Another Cult Classic]]></summary>
-        <author>
-            <name>Spencer Kornhaber</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
