@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-31T09:14:18.015Z</updated>
+    <updated>2022-03-31T10:17:02.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[戰爭變得詭異]]></title>
+        <id>https://noahpinion.substack.com/p/war-got-weird</id>
+        <link href="https://noahpinion.substack.com/p/war-got-weird"/>
+        <updated>2022-03-31T09:53:52.000Z</updated>
+        <summary type="html"><![CDATA[War got weird]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沒有自由的世界秩序]]></title>
+        <id>https://www.theatlantic.com/magazine/archive/2022/05/autocracy-could-destroy-democracy-russia-ukraine/629363/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/magazine/archive/2022/05/autocracy-could-destroy-democracy-russia-ukraine/629363/?utm_source=feed"/>
+        <updated>2022-03-31T10:01:56.000Z</updated>
+        <summary type="html"><![CDATA[There Is No Liberal World Order]]></summary>
+        <author>
+            <name>Anne Applebaum</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<em>西區故事</em>需要更新]]></title>
+        <id>https://www.theatlantic.com/podcasts/archive/2022/03/west-side-story-needed-update/629384/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/podcasts/archive/2022/03/west-side-story-needed-update/629384/?utm_source=feed"/>
+        <updated>2022-03-31T10:01:56.000Z</updated>
+        <summary type="html"><![CDATA[<em>West Side Story</em> Needed an Update]]></summary>
+        <author>
+            <name>Sophie Gilbert</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯的軍隊曾經很強大，直到它不在了。]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/russia-ukraine-invasion-military-predictions/629418/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/russia-ukraine-invasion-military-predictions/629418/?utm_source=feed"/>
+        <updated>2022-03-31T10:01:57.000Z</updated>
+        <summary type="html"><![CDATA[Russia's Military Was Great Until It Wasn't]]></summary>
+        <author>
+            <name>Phillips Payson O’Brien</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最成功的人都有點不滿意]]></title>
+        <id>https://www.theatlantic.com/family/archive/2022/03/chasing-happiness-leads-to-dissatisfaction/629427/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/family/archive/2022/03/chasing-happiness-leads-to-dissatisfaction/629427/?utm_source=feed"/>
+        <updated>2022-03-31T10:01:57.000Z</updated>
+        <summary type="html"><![CDATA[The Most Successful People Are a Little Dissatisfied]]></summary>
+        <author>
+            <name>Arthur C. Brooks</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼一個ISIS的宣傳員放棄了伊斯蘭教？]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/deprogramming-isis-supporters-jihadi-extremism/629433/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/deprogramming-isis-supporters-jihadi-extremism/629433/?utm_source=feed"/>
+        <updated>2022-03-31T10:01:57.000Z</updated>
+        <summary type="html"><![CDATA[Why an ISIS Propagandist Abandoned Islam]]></summary>
+        <author>
+            <name>Graeme Wood</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[移民是一種政治選擇，而不是一種確定性]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/rich-countries-immigration-border-control/629435/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/rich-countries-immigration-border-control/629435/?utm_source=feed"/>
+        <updated>2022-03-31T10:01:57.000Z</updated>
+        <summary type="html"><![CDATA[Immigration Is a Political Choice—Not a Certainty]]></summary>
+        <author>
+            <name>Jennifer D. Sciubba</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本-麥肯齊，"O.C." 明星，轉而成為加密貨幣的批評者]]></title>
         <id>https://www.nytimes.com/2022/03/31/style/ben-mckenzie-crypto.html</id>
@@ -6535,83 +6612,6 @@
         <summary type="html"><![CDATA[“The Outfit” Is Made to Measure for Mark Rylance]]></summary>
         <author>
             <name>Anthony Lane</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在一個著火的世界裡，不要再燒東西了]]></title>
-        <id>https://www.newyorker.com/news/essay/in-a-world-on-fire-stop-burning-things</id>
-        <link href="https://www.newyorker.com/news/essay/in-a-world-on-fire-stop-burning-things"/>
-        <updated>2022-03-18T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In a World on Fire, Stop Burning Things]]></summary>
-        <author>
-            <name>Bill McKibben</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拜登的不確定性原則]]></title>
-        <id>https://www.theatlantic.com/politics/archive/2022/03/biden-covid-russia-midterm-elections/627097/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/politics/archive/2022/03/biden-covid-russia-midterm-elections/627097/?utm_source=feed"/>
-        <updated>2022-03-18T09:01:56.000Z</updated>
-        <summary type="html"><![CDATA[Biden’s Uncertainty Principle]]></summary>
-        <author>
-            <name>Ronald Brownstein</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國需要一項拉美政策]]></title>
-        <id>https://noahpinion.substack.com/p/the-us-needs-a-latin-america-policy</id>
-        <link href="https://noahpinion.substack.com/p/the-us-needs-a-latin-america-policy"/>
-        <updated>2022-03-18T07:42:01.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. needs a Latin America policy]]></summary>
-        <author>
-            <name>Noah Smith</name>
-            <uri>https://noahpinion.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新款iPhone SE的優點和缺點]]></title>
-        <id>https://www.nytimes.com/es/2022/03/18/espanol/resena-nuevo-iphone-se.html</id>
-        <link href="https://www.nytimes.com/es/2022/03/18/espanol/resena-nuevo-iphone-se.html"/>
-        <updated>2022-03-18T07:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Ventajas y desventajas del nuevo iPhone SE]]></summary>
-        <author>
-            <name>Brian X. Chen</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭戰爭如何減緩電動汽車的銷售？]]></title>
-        <id>https://www.nytimes.com/2022/03/18/business/energy-environment/nickel-russia-battery-electric-cars.html</id>
-        <link href="https://www.nytimes.com/2022/03/18/business/energy-environment/nickel-russia-battery-electric-cars.html"/>
-        <updated>2022-03-18T07:00:11.000Z</updated>
-        <summary type="html"><![CDATA[How the War in Ukraine Could Slow the Sales of Electric Cars]]></summary>
-        <author>
-            <name>Jack Ewing and Stephen Gandel</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本週的照片。拯救樹懶、月球火箭、烏克蘭危機]]></title>
-        <id>https://www.theatlantic.com/photo/2022/03/photos-of-the-week-sloth-rescue-moon-rocket-ukraine-crisis/627101/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/photo/2022/03/photos-of-the-week-sloth-rescue-moon-rocket-ukraine-crisis/627101/?utm_source=feed"/>
-        <updated>2022-03-18T04:31:56.000Z</updated>
-        <summary type="html"><![CDATA[Photos of the Week: Sloth Rescue, Moon Rocket, Ukraine Crisis]]></summary>
-        <author>
-            <name>Alan Taylor</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[夜校]]></title>
-        <id>https://www.newyorker.com/magazine/night-school</id>
-        <link href="https://www.newyorker.com/magazine/night-school"/>
-        <updated>2022-03-18T02:52:51.000Z</updated>
-        <summary type="html"><![CDATA[Night School]]></summary>
-        <author>
-            <name>unknown</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
