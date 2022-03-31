@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-31T22:12:38.365Z</updated>
+    <updated>2022-03-31T23:14:05.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["阿波罗10号半"，评论。理查德-林克莱特将内在和外在生活结合起来]]></title>
+        <id>https://www.newyorker.com/culture/the-front-row/apollo-10-12-reviewed-richard-linklater-unites-inner-and-outer-life</id>
+        <link href="https://www.newyorker.com/culture/the-front-row/apollo-10-12-reviewed-richard-linklater-unites-inner-and-outer-life"/>
+        <updated>2022-03-31T22:44:37.000Z</updated>
+        <summary type="html"><![CDATA[“Apollo 10 1/2,” Reviewed: Richard Linklater Unites Inner and Outer Life]]></summary>
+        <author>
+            <name>Richard Brody</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[奥尔德斯-哈丁的隐秘叙事]]></title>
         <id>https://www.newyorker.com/culture/listening-booth/the-cryptic-storytelling-of-aldous-harding</id>
@@ -6599,17 +6610,6 @@
         <link href="https://austinkleon.substack.com/p/how-i-prepare-for-an-interview"/>
         <updated>2022-03-01T13:00:44.000Z</updated>
         <summary type="html"><![CDATA[How I prepare for an interview]]></summary>
-        <author>
-            <name>Austin Kleon</name>
-            <uri>https://austinkleon.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只有问题]]></title>
-        <id>https://austinkleon.substack.com/p/only-the-questions</id>
-        <link href="https://austinkleon.substack.com/p/only-the-questions"/>
-        <updated>2022-03-04T13:00:37.000Z</updated>
-        <summary type="html"><![CDATA[Only the questions]]></summary>
         <author>
             <name>Austin Kleon</name>
             <uri>https://austinkleon.substack.com/feed</uri>
