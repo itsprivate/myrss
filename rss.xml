@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 31 Mar 2022 19:51:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 20:36:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[<em>Morbius</em>是一个非常令人讨厌的怪人的肖像]]></title>
+            <link>https://www.theatlantic.com/culture/archive/2022/03/morbius-review-jared-leto/629442/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/culture/archive/2022/03/morbius-review-jared-leto/629442/?utm_source=feed</guid>
+            <pubDate>Thu, 31 Mar 2022 20:19:41 GMT</pubDate>
+            <description><![CDATA[<em>Morbius</em> Is a Portrait of a Very Annoying Weirdo]]></description>
+        </item>
         <item>
             <title><![CDATA[成年人还是受性虐待的未成年人？正确的做法让Facebook感到不安]]></title>
             <link>https://www.nytimes.com/2022/03/31/business/meta-child-sexual-abuse.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://austinkleon.substack.com/p/why-am-i-talking</guid>
             <pubDate>Fri, 18 Mar 2022 12:00:34 GMT</pubDate>
             <description><![CDATA[Why Am I Talking?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[法官称马克-扎克伯格不会被列入Meta隐私诉讼案中]]></title>
-            <link>https://www.nytimes.com/2022/03/18/technology/zuckerberg-meta-privacy-lawsuit.html</link>
-            <guid>https://www.nytimes.com/2022/03/18/technology/zuckerberg-meta-privacy-lawsuit.html</guid>
-            <pubDate>Fri, 18 Mar 2022 20:47:48 GMT</pubDate>
-            <description><![CDATA[Mark Zuckerberg Won’t Be Named in Meta Privacy Suit, Judge Says]]></description>
         </item>
     </channel>
 </rss>

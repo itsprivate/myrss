@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-31T19:51:55.333Z</updated>
+    <updated>2022-03-31T20:36:04.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[<em>Morbius</em>是一个非常令人讨厌的怪人的肖像]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/03/morbius-review-jared-leto/629442/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/03/morbius-review-jared-leto/629442/?utm_source=feed"/>
+        <updated>2022-03-31T20:19:41.000Z</updated>
+        <summary type="html"><![CDATA[<em>Morbius</em> Is a Portrait of a Very Annoying Weirdo]]></summary>
+        <author>
+            <name>David Sims</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[成年人还是受性虐待的未成年人？正确的做法让Facebook感到不安]]></title>
         <id>https://www.nytimes.com/2022/03/31/business/meta-child-sexual-abuse.html</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Austin Kleon</name>
             <uri>https://austinkleon.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[法官称马克-扎克伯格不会被列入Meta隐私诉讼案中]]></title>
-        <id>https://www.nytimes.com/2022/03/18/technology/zuckerberg-meta-privacy-lawsuit.html</id>
-        <link href="https://www.nytimes.com/2022/03/18/technology/zuckerberg-meta-privacy-lawsuit.html"/>
-        <updated>2022-03-18T20:47:48.000Z</updated>
-        <summary type="html"><![CDATA[Mark Zuckerberg Won’t Be Named in Meta Privacy Suit, Judge Says]]></summary>
-        <author>
-            <name>Cecilia Kang</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>
