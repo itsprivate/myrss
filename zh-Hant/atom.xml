@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-31T17:09:18.952Z</updated>
+    <updated>2022-03-31T17:37:02.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[逃離戰爭，一個烏克蘭人來到布魯克林]]></title>
+        <id>https://www.newyorker.com/news/news-desk/fleeing-the-war-a-ukrainian-comes-to-brooklyn</id>
+        <link href="https://www.newyorker.com/news/news-desk/fleeing-the-war-a-ukrainian-comes-to-brooklyn"/>
+        <updated>2022-03-31T17:15:19.000Z</updated>
+        <summary type="html"><![CDATA[Fleeing the War, a Ukrainian Comes to Brooklyn]]></summary>
+        <author>
+            <name>Dexter Filkins</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你的相機卷裡有一個傑作]]></title>
+        <id>https://www.newyorker.com/culture/culture-desk/your-camera-roll-contains-a-masterpiece</id>
+        <link href="https://www.newyorker.com/culture/culture-desk/your-camera-roll-contains-a-masterpiece"/>
+        <updated>2022-03-31T17:05:04.000Z</updated>
+        <summary type="html"><![CDATA[Your Camera Roll Contains a Masterpiece]]></summary>
+        <author>
+            <name>Michael Johnston</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第二個助推器也無妨]]></title>
+        <id>https://www.theatlantic.com/health/archive/2022/03/do-i-need-second-covid-booster-shot/629440/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/health/archive/2022/03/do-i-need-second-covid-booster-shot/629440/?utm_source=feed"/>
+        <updated>2022-03-31T17:08:16.000Z</updated>
+        <summary type="html"><![CDATA[A Second Booster Can’t Hurt]]></summary>
+        <author>
+            <name>Rachel Gutman</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以色列的一個熟悉的劇本可能有一個新的結局]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/israel-violence-extremists/629441/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/israel-violence-extremists/629441/?utm_source=feed"/>
+        <updated>2022-03-31T17:28:33.000Z</updated>
+        <summary type="html"><![CDATA[A Familiar Script in Israel Might Have a New Ending]]></summary>
+        <author>
+            <name>Yair Rosenberg</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[擁抱伯樂]]></title>
         <id>https://www.nytimes.com/2022/03/31/technology/hugs-to-boring.html</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>Jeff Williams</name>
             <uri>https://www.currentaffairs.org/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不僅僅是 "憎恨"。]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2022/03/asian-americans-hate-crime-laws/627108/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/asian-americans-hate-crime-laws/627108/?utm_source=feed"/>
-        <updated>2022-03-18T17:58:38.000Z</updated>
-        <summary type="html"><![CDATA[More Than Just ‘Hate’]]></summary>
-        <author>
-            <name>Caroline Mimbs Nyce</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼實踐並不意味著完美]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/adult-new-hobbies/627099/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/adult-new-hobbies/627099/?utm_source=feed"/>
-        <updated>2022-03-19T09:01:56.000Z</updated>
-        <summary type="html"><![CDATA[Why Practice Doesn’t Make Perfect]]></summary>
-        <author>
-            <name>Olga Khazan</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界在燃燒。為什麼不囤積一些鎳幣？]]></title>
-        <id>https://www.theatlantic.com/technology/archive/2022/03/nickel-shortage-supply-shock-russia/627107/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/technology/archive/2022/03/nickel-shortage-supply-shock-russia/627107/?utm_source=feed"/>
-        <updated>2022-03-18T15:58:30.000Z</updated>
-        <summary type="html"><![CDATA[The World Is Burning. Why Not Hoard Some Nickels?]]></summary>
-        <author>
-            <name>Saahil Desai</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日漫畫。3月18日，星期五]]></title>
-        <id>https://www.newyorker.com/cartoons/daily-cartoon/friday-march-18th-witch-garden</id>
-        <link href="https://www.newyorker.com/cartoons/daily-cartoon/friday-march-18th-witch-garden"/>
-        <updated>2022-03-18T15:01:37.000Z</updated>
-        <summary type="html"><![CDATA[Daily Cartoon: Friday, March 18th]]></summary>
-        <author>
-            <name>Ali Solomon</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>

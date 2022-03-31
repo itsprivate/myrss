@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 31 Mar 2022 17:09:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 17:37:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,34 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[逃離戰爭，一個烏克蘭人來到布魯克林]]></title>
+            <link>https://www.newyorker.com/news/news-desk/fleeing-the-war-a-ukrainian-comes-to-brooklyn</link>
+            <guid>https://www.newyorker.com/news/news-desk/fleeing-the-war-a-ukrainian-comes-to-brooklyn</guid>
+            <pubDate>Thu, 31 Mar 2022 17:15:19 GMT</pubDate>
+            <description><![CDATA[Fleeing the War, a Ukrainian Comes to Brooklyn]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你的相機卷裡有一個傑作]]></title>
+            <link>https://www.newyorker.com/culture/culture-desk/your-camera-roll-contains-a-masterpiece</link>
+            <guid>https://www.newyorker.com/culture/culture-desk/your-camera-roll-contains-a-masterpiece</guid>
+            <pubDate>Thu, 31 Mar 2022 17:05:04 GMT</pubDate>
+            <description><![CDATA[Your Camera Roll Contains a Masterpiece]]></description>
+        </item>
+        <item>
+            <title><![CDATA[第二個助推器也無妨]]></title>
+            <link>https://www.theatlantic.com/health/archive/2022/03/do-i-need-second-covid-booster-shot/629440/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/health/archive/2022/03/do-i-need-second-covid-booster-shot/629440/?utm_source=feed</guid>
+            <pubDate>Thu, 31 Mar 2022 17:08:16 GMT</pubDate>
+            <description><![CDATA[A Second Booster Can’t Hurt]]></description>
+        </item>
+        <item>
+            <title><![CDATA[以色列的一個熟悉的劇本可能有一個新的結局]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/03/israel-violence-extremists/629441/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/03/israel-violence-extremists/629441/?utm_source=feed</guid>
+            <pubDate>Thu, 31 Mar 2022 17:28:33 GMT</pubDate>
+            <description><![CDATA[A Familiar Script in Israel Might Have a New Ending]]></description>
+        </item>
         <item>
             <title><![CDATA[擁抱伯樂]]></title>
             <link>https://www.nytimes.com/2022/03/31/technology/hugs-to-boring.html</link>
@@ -4185,34 +4213,6 @@
             <guid>https://www.currentaffairs.org/2022/03/can-music-theory-education-overcome-its-whiteness-problem/</guid>
             <pubDate>Fri, 18 Mar 2022 20:43:58 GMT</pubDate>
             <description><![CDATA[Can Music Theory Education Overcome its Whiteness Problem?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[不僅僅是 "憎恨"。]]></title>
-            <link>https://www.theatlantic.com/newsletters/archive/2022/03/asian-americans-hate-crime-laws/627108/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/newsletters/archive/2022/03/asian-americans-hate-crime-laws/627108/?utm_source=feed</guid>
-            <pubDate>Fri, 18 Mar 2022 17:58:38 GMT</pubDate>
-            <description><![CDATA[More Than Just ‘Hate’]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼實踐並不意味著完美]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/adult-new-hobbies/627099/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/adult-new-hobbies/627099/?utm_source=feed</guid>
-            <pubDate>Sat, 19 Mar 2022 09:01:56 GMT</pubDate>
-            <description><![CDATA[Why Practice Doesn’t Make Perfect]]></description>
-        </item>
-        <item>
-            <title><![CDATA[世界在燃燒。為什麼不囤積一些鎳幣？]]></title>
-            <link>https://www.theatlantic.com/technology/archive/2022/03/nickel-shortage-supply-shock-russia/627107/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/technology/archive/2022/03/nickel-shortage-supply-shock-russia/627107/?utm_source=feed</guid>
-            <pubDate>Fri, 18 Mar 2022 15:58:30 GMT</pubDate>
-            <description><![CDATA[The World Is Burning. Why Not Hoard Some Nickels?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日漫畫。3月18日，星期五]]></title>
-            <link>https://www.newyorker.com/cartoons/daily-cartoon/friday-march-18th-witch-garden</link>
-            <guid>https://www.newyorker.com/cartoons/daily-cartoon/friday-march-18th-witch-garden</guid>
-            <pubDate>Fri, 18 Mar 2022 15:01:37 GMT</pubDate>
-            <description><![CDATA[Daily Cartoon: Friday, March 18th]]></description>
         </item>
     </channel>
 </rss>

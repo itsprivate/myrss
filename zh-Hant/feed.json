@@ -11,6 +11,54 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/news-desk/fleeing-the-war-a-ukrainian-comes-to-brooklyn",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/news-desk/fleeing-the-war-a-ukrainian-comes-to-brooklyn",
+            "title": "逃離戰爭，一個烏克蘭人來到布魯克林",
+            "summary": "Fleeing the War, a Ukrainian Comes to Brooklyn",
+            "date_modified": "2022-03-31T17:15:19.000Z",
+            "author": {
+                "name": "Dexter Filkins",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/culture/culture-desk/your-camera-roll-contains-a-masterpiece",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/culture-desk/your-camera-roll-contains-a-masterpiece",
+            "title": "你的相機卷裡有一個傑作",
+            "summary": "Your Camera Roll Contains a Masterpiece",
+            "date_modified": "2022-03-31T17:05:04.000Z",
+            "author": {
+                "name": "Michael Johnston",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/health/archive/2022/03/do-i-need-second-covid-booster-shot/629440/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/health/archive/2022/03/do-i-need-second-covid-booster-shot/629440/?utm_source=feed",
+            "title": "第二個助推器也無妨",
+            "summary": "A Second Booster Can’t Hurt",
+            "date_modified": "2022-03-31T17:08:16.000Z",
+            "author": {
+                "name": "Rachel Gutman",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/03/israel-violence-extremists/629441/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/03/israel-violence-extremists/629441/?utm_source=feed",
+            "title": "以色列的一個熟悉的劇本可能有一個新的結局",
+            "summary": "A Familiar Script in Israel Might Have a New Ending",
+            "date_modified": "2022-03-31T17:28:33.000Z",
+            "author": {
+                "name": "Yair Rosenberg",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/03/31/technology/hugs-to-boring.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/03/31/technology/hugs-to-boring.html",
@@ -7160,54 +7208,6 @@
             "author": {
                 "name": "Jeff Williams",
                 "url": "https://www.currentaffairs.org/feed"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/newsletters/archive/2022/03/asian-americans-hate-crime-laws/627108/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/newsletters/archive/2022/03/asian-americans-hate-crime-laws/627108/?utm_source=feed",
-            "title": "不僅僅是 \"憎恨\"。",
-            "summary": "More Than Just ‘Hate’",
-            "date_modified": "2022-03-18T17:58:38.000Z",
-            "author": {
-                "name": "Caroline Mimbs Nyce",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/03/adult-new-hobbies/627099/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/03/adult-new-hobbies/627099/?utm_source=feed",
-            "title": "為什麼實踐並不意味著完美",
-            "summary": "Why Practice Doesn’t Make Perfect",
-            "date_modified": "2022-03-19T09:01:56.000Z",
-            "author": {
-                "name": "Olga Khazan",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/technology/archive/2022/03/nickel-shortage-supply-shock-russia/627107/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/technology/archive/2022/03/nickel-shortage-supply-shock-russia/627107/?utm_source=feed",
-            "title": "世界在燃燒。為什麼不囤積一些鎳幣？",
-            "summary": "The World Is Burning. Why Not Hoard Some Nickels?",
-            "date_modified": "2022-03-18T15:58:30.000Z",
-            "author": {
-                "name": "Saahil Desai",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/cartoons/daily-cartoon/friday-march-18th-witch-garden",
-            "content_html": "",
-            "url": "https://www.newyorker.com/cartoons/daily-cartoon/friday-march-18th-witch-garden",
-            "title": "每日漫畫。3月18日，星期五",
-            "summary": "Daily Cartoon: Friday, March 18th",
-            "date_modified": "2022-03-18T15:01:37.000Z",
-            "author": {
-                "name": "Ali Solomon",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]
