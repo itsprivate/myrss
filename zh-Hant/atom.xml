@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-31T10:38:42.659Z</updated>
+    <updated>2022-03-31T13:00:14.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[TikTok的算法噴出病毒惡棍]]></title>
+        <id>https://www.theatlantic.com/technology/archive/2022/03/west-elm-caleb-tiktok-mob-villain/629423/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/technology/archive/2022/03/west-elm-caleb-tiktok-mob-villain/629423/?utm_source=feed"/>
+        <updated>2022-03-31T12:00:56.000Z</updated>
+        <summary type="html"><![CDATA[TikTok’s Algorithm Spews Out Viral Villains]]></summary>
+        <author>
+            <name>Kaitlyn Tiffany</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[填字遊戲: 2022年3月31日，星期四]]></title>
         <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/31</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[How Miscarriage Can Haunt a New Pregnancy]]></summary>
         <author>
             <name>Kristin Wong</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國的流感疫苗問題也是其下一個COVID疫苗問題]]></title>
-        <id>https://www.theatlantic.com/health/archive/2022/03/flu-shot-covid-vaccine-mandates/627104/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/health/archive/2022/03/flu-shot-covid-vaccine-mandates/627104/?utm_source=feed"/>
-        <updated>2022-03-18T11:00:58.000Z</updated>
-        <summary type="html"><![CDATA[America’s Flu-Shot Problem Is Also Its Next COVID-Shot Problem]]></summary>
-        <author>
-            <name>Katherine J. Wu</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
