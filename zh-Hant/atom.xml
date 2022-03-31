@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-31T14:32:52.448Z</updated>
+    <updated>2022-03-31T14:41:11.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美國能否善意地殺死它的囚犯？]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/03/death-penalty-lethal-injection-lawsuit/629383/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/03/death-penalty-lethal-injection-lawsuit/629383/?utm_source=feed"/>
+        <updated>2022-03-31T14:26:48.000Z</updated>
+        <summary type="html"><![CDATA[Can America Kill Its Prisoners Kindly?]]></summary>
+        <author>
+            <name>Elizabeth Bruenig</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日漫畫。3月31日，星期四]]></title>
         <id>https://www.newyorker.com/cartoons/daily-cartoon/thursday-march-31st-alien-fuel</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Literature Isn’t Bound by the Rules of Time]]></summary>
         <author>
             <name>Emma Sarappo</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通貨膨脹很糟糕，而且即將變得更糟糕]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/inflation-federal-reserve-recession/627079/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/inflation-federal-reserve-recession/627079/?utm_source=feed"/>
-        <updated>2022-03-18T11:00:57.000Z</updated>
-        <summary type="html"><![CDATA[Inflation Is Bad and About to Get Worse]]></summary>
-        <author>
-            <name>Annie Lowrey</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>

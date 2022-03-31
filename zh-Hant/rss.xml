@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 31 Mar 2022 14:32:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 14:41:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[美國能否善意地殺死它的囚犯？]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/03/death-penalty-lethal-injection-lawsuit/629383/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/03/death-penalty-lethal-injection-lawsuit/629383/?utm_source=feed</guid>
+            <pubDate>Thu, 31 Mar 2022 14:26:48 GMT</pubDate>
+            <description><![CDATA[Can America Kill Its Prisoners Kindly?]]></description>
+        </item>
         <item>
             <title><![CDATA[每日漫畫。3月31日，星期四]]></title>
             <link>https://www.newyorker.com/cartoons/daily-cartoon/thursday-march-31st-alien-fuel</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/books/archive/2022/03/books-briefing-alejandro-zambra-lauren-groff/627082/?utm_source=feed</guid>
             <pubDate>Fri, 18 Mar 2022 14:00:56 GMT</pubDate>
             <description><![CDATA[Literature Isn’t Bound by the Rules of Time]]></description>
-        </item>
-        <item>
-            <title><![CDATA[通貨膨脹很糟糕，而且即將變得更糟糕]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/inflation-federal-reserve-recession/627079/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/inflation-federal-reserve-recession/627079/?utm_source=feed</guid>
-            <pubDate>Fri, 18 Mar 2022 11:00:57 GMT</pubDate>
-            <description><![CDATA[Inflation Is Bad and About to Get Worse]]></description>
         </item>
     </channel>
 </rss>
