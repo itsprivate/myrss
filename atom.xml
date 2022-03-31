@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-31T10:17:02.728Z</updated>
+    <updated>2022-03-31T10:38:42.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[填字游戏: 2022年3月31日，星期四]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/31</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/31"/>
+        <updated>2022-03-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Crossword: Thursday, March 31, 2022]]></summary>
+        <author>
+            <name>Patrick Berry</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你最喜欢的科技公司的愚人节]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/april-fools-from-your-favorite-tech-company</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/april-fools-from-your-favorite-tech-company"/>
+        <updated>2022-03-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[April Fools’ from Your Favorite Tech Company]]></summary>
+        <author>
+            <name>Lillian Stone, Jon Plester, Nate Odenkirk</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[落名：2022年3月31日，星期四]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/31</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/31"/>
+        <updated>2022-03-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Name Drop: Thursday, March 31, 2022]]></summary>
+        <author>
+            <name>Liz Maynes-Aminzade</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[战争变得诡异]]></title>
         <id>https://noahpinion.substack.com/p/war-got-weird</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>Katherine J. Wu</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[左派在乌克兰问题上有很好的答案]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/dsa-ukraine-statement-anti-war/627086/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/dsa-ukraine-statement-anti-war/627086/?utm_source=feed"/>
-        <updated>2022-03-18T10:30:56.000Z</updated>
-        <summary type="html"><![CDATA[The Left Has Good Answers on Ukraine]]></summary>
-        <author>
-            <name>Elizabeth Bruenig</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奥利维亚-罗德里戈的车辆登记、卡玛拉-哈里斯的演技以及其他新的大师班课程]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/vehicle-registration-with-olivia-rodrigo-acting-with-kamala-harris-and-other-new-masterclass-sessions</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/vehicle-registration-with-olivia-rodrigo-acting-with-kamala-harris-and-other-new-masterclass-sessions"/>
-        <updated>2022-03-18T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Vehicle Registration with Olivia Rodrigo, Acting with Kamala Harris, and Other New MasterClass Sessions]]></summary>
-        <author>
-            <name>Meghana Indurti, Karan Sunil</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为马克-里朗斯量身定做的 "服装"]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/28/the-outfit-is-made-to-measure-for-mark-rylance</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/28/the-outfit-is-made-to-measure-for-mark-rylance"/>
-        <updated>2022-03-18T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“The Outfit” Is Made to Measure for Mark Rylance]]></summary>
-        <author>
-            <name>Anthony Lane</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>

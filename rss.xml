@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 31 Mar 2022 10:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 10:38:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[填字游戏: 2022年3月31日，星期四]]></title>
+            <link>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/31</link>
+            <guid>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/31</guid>
+            <pubDate>Thu, 31 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Crossword: Thursday, March 31, 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你最喜欢的科技公司的愚人节]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/april-fools-from-your-favorite-tech-company</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/april-fools-from-your-favorite-tech-company</guid>
+            <pubDate>Thu, 31 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[April Fools’ from Your Favorite Tech Company]]></description>
+        </item>
+        <item>
+            <title><![CDATA[落名：2022年3月31日，星期四]]></title>
+            <link>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/31</link>
+            <guid>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/31</guid>
+            <pubDate>Thu, 31 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Name Drop: Thursday, March 31, 2022]]></description>
+        </item>
         <item>
             <title><![CDATA[战争变得诡异]]></title>
             <link>https://noahpinion.substack.com/p/war-got-weird</link>
@@ -4192,27 +4213,6 @@
             <guid>https://www.theatlantic.com/health/archive/2022/03/flu-shot-covid-vaccine-mandates/627104/?utm_source=feed</guid>
             <pubDate>Fri, 18 Mar 2022 11:00:58 GMT</pubDate>
             <description><![CDATA[America’s Flu-Shot Problem Is Also Its Next COVID-Shot Problem]]></description>
-        </item>
-        <item>
-            <title><![CDATA[左派在乌克兰问题上有很好的答案]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/dsa-ukraine-statement-anti-war/627086/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/dsa-ukraine-statement-anti-war/627086/?utm_source=feed</guid>
-            <pubDate>Fri, 18 Mar 2022 10:30:56 GMT</pubDate>
-            <description><![CDATA[The Left Has Good Answers on Ukraine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[奥利维亚-罗德里戈的车辆登记、卡玛拉-哈里斯的演技以及其他新的大师班课程]]></title>
-            <link>https://www.newyorker.com/humor/daily-shouts/vehicle-registration-with-olivia-rodrigo-acting-with-kamala-harris-and-other-new-masterclass-sessions</link>
-            <guid>https://www.newyorker.com/humor/daily-shouts/vehicle-registration-with-olivia-rodrigo-acting-with-kamala-harris-and-other-new-masterclass-sessions</guid>
-            <pubDate>Fri, 18 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Vehicle Registration with Olivia Rodrigo, Acting with Kamala Harris, and Other New MasterClass Sessions]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为马克-里朗斯量身定做的 "服装"]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/28/the-outfit-is-made-to-measure-for-mark-rylance</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/28/the-outfit-is-made-to-measure-for-mark-rylance</guid>
-            <pubDate>Fri, 18 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[“The Outfit” Is Made to Measure for Mark Rylance]]></description>
         </item>
     </channel>
 </rss>
