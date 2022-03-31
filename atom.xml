@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-31T13:00:14.514Z</updated>
+    <updated>2022-03-31T13:26:39.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们必须寻找更长的时间]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/03/sarah-meister-war-photography-ukraine/629428/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/03/sarah-meister-war-photography-ukraine/629428/?utm_source=feed"/>
+        <updated>2022-03-31T12:45:27.000Z</updated>
+        <summary type="html"><![CDATA[‘We Have to Look for Longer’]]></summary>
+        <author>
+            <name>Sophie Gilbert</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TikTok的算法喷出病毒恶棍]]></title>
         <id>https://www.theatlantic.com/technology/archive/2022/03/west-elm-caleb-tiktok-mob-villain/629423/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[You Don’t Like Daylight Saving Time. You Just Like Summer.]]></summary>
         <author>
             <name>Heather Turgeon and Julie Wright</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[流产如何困扰着新的妊娠]]></title>
-        <id>https://www.theatlantic.com/family/archive/2022/03/anxiety-pregnancy-after-miscarriage/627102/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/family/archive/2022/03/anxiety-pregnancy-after-miscarriage/627102/?utm_source=feed"/>
-        <updated>2022-03-18T11:00:58.000Z</updated>
-        <summary type="html"><![CDATA[How Miscarriage Can Haunt a New Pregnancy]]></summary>
-        <author>
-            <name>Kristin Wong</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
