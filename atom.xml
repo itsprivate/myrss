@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-31T20:52:39.184Z</updated>
+    <updated>2022-03-31T21:32:11.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[工会在阿拉巴马州的亚马逊投票中处于落后地位，挑战正在进行中]]></title>
+        <id>https://www.nytimes.com/2022/03/31/technology/amazon-union-election-alabama.html</id>
+        <link href="https://www.nytimes.com/2022/03/31/technology/amazon-union-election-alabama.html"/>
+        <updated>2022-03-31T21:26:01.000Z</updated>
+        <summary type="html"><![CDATA[Union Trails in Amazon Vote in Alabama, With Challenges Pending]]></summary>
+        <author>
+            <name>Noam Scheiber</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日新闻]]></title>
         <id>https://www.newyorker.com/newsletter/the-daily</id>
@@ -6599,17 +6610,6 @@
         <link href="https://austinkleon.substack.com/p/say-yes-and-never-do-it"/>
         <updated>2022-03-11T13:00:40.000Z</updated>
         <summary type="html"><![CDATA[Say yes and never do it]]></summary>
-        <author>
-            <name>Austin Kleon</name>
-            <uri>https://austinkleon.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[改变我生活的书]]></title>
-        <id>https://austinkleon.substack.com/p/the-book-that-changed-my-life</id>
-        <link href="https://austinkleon.substack.com/p/the-book-that-changed-my-life"/>
-        <updated>2022-03-15T12:00:38.000Z</updated>
-        <summary type="html"><![CDATA[The book that changed my life]]></summary>
         <author>
             <name>Austin Kleon</name>
             <uri>https://austinkleon.substack.com/feed</uri>

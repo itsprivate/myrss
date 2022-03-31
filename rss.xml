@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 31 Mar 2022 20:52:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 21:32:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[工会在阿拉巴马州的亚马逊投票中处于落后地位，挑战正在进行中]]></title>
+            <link>https://www.nytimes.com/2022/03/31/technology/amazon-union-election-alabama.html</link>
+            <guid>https://www.nytimes.com/2022/03/31/technology/amazon-union-election-alabama.html</guid>
+            <pubDate>Thu, 31 Mar 2022 21:26:01 GMT</pubDate>
+            <description><![CDATA[Union Trails in Amazon Vote in Alabama, With Challenges Pending]]></description>
+        </item>
         <item>
             <title><![CDATA[每日新闻]]></title>
             <link>https://www.newyorker.com/newsletter/the-daily</link>
@@ -4206,13 +4213,6 @@
             <guid>https://austinkleon.substack.com/p/say-yes-and-never-do-it</guid>
             <pubDate>Fri, 11 Mar 2022 13:00:40 GMT</pubDate>
             <description><![CDATA[Say yes and never do it]]></description>
-        </item>
-        <item>
-            <title><![CDATA[改变我生活的书]]></title>
-            <link>https://austinkleon.substack.com/p/the-book-that-changed-my-life</link>
-            <guid>https://austinkleon.substack.com/p/the-book-that-changed-my-life</guid>
-            <pubDate>Tue, 15 Mar 2022 12:00:38 GMT</pubDate>
-            <description><![CDATA[The book that changed my life]]></description>
         </item>
     </channel>
 </rss>

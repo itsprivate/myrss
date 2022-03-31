@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/03/31/technology/amazon-union-election-alabama.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/31/technology/amazon-union-election-alabama.html",
+            "title": "工會在阿拉巴馬州的亞馬遜投票中處於落後地位，挑戰正在進行中",
+            "summary": "Union Trails in Amazon Vote in Alabama, With Challenges Pending",
+            "date_modified": "2022-03-31T21:26:01.000Z",
+            "author": {
+                "name": "Noam Scheiber",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/newsletter/the-daily",
             "content_html": "",
             "url": "https://www.newyorker.com/newsletter/the-daily",
@@ -7193,18 +7205,6 @@
             "title": "說 \"是 \"而不去做",
             "summary": "Say yes and never do it",
             "date_modified": "2022-03-11T13:00:40.000Z",
-            "author": {
-                "name": "Austin Kleon",
-                "url": "https://austinkleon.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://austinkleon.substack.com/p/the-book-that-changed-my-life",
-            "content_html": "",
-            "url": "https://austinkleon.substack.com/p/the-book-that-changed-my-life",
-            "title": "改變我生活的書",
-            "summary": "The book that changed my life",
-            "date_modified": "2022-03-15T12:00:38.000Z",
             "author": {
                 "name": "Austin Kleon",
                 "url": "https://austinkleon.substack.com/feed"
