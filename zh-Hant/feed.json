@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/culture/culture-desk/there-is-more-than-one-way-to-be-exhausted-by-turning-red",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/culture-desk/there-is-more-than-one-way-to-be-exhausted-by-turning-red",
+            "title": "被 \"變紅 \"所累的方式不止一種",
+            "summary": "There Is More Than One Way to Be Exhausted by “Turning Red”",
+            "date_modified": "2022-03-31T15:19:11.000Z",
+            "author": {
+                "name": "Jane Hu",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.currentaffairs.org/2022/03/the-clash-of-civilizations-thesis-is-still-ignorant-nonsense/",
+            "content_html": "",
+            "url": "https://www.currentaffairs.org/2022/03/the-clash-of-civilizations-thesis-is-still-ignorant-nonsense/",
+            "title": "文明衝突 \"論仍然是無知的胡言亂語",
+            "summary": "The “Clash of Civilizations” Thesis Is Still Ignorant Nonsense",
+            "date_modified": "2022-03-31T11:32:22.000Z",
+            "author": {
+                "name": "Nathan J. Robinson",
+                "url": "https://www.currentaffairs.org/feed"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/ideas/archive/2022/03/death-penalty-lethal-injection-lawsuit/629383/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/ideas/archive/2022/03/death-penalty-lethal-injection-lawsuit/629383/?utm_source=feed",
@@ -7183,30 +7207,6 @@
             "date_modified": "2022-03-18T14:46:37.000Z",
             "author": {
                 "name": "Spencer Kornhaber",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/newsletters/archive/2022/03/the-drift-issue-launch-party-manhattan/627105/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/newsletters/archive/2022/03/the-drift-issue-launch-party-manhattan/627105/?utm_source=feed",
-            "title": "漂流》雜誌的聚會，一個很酷的新雜誌",
-            "summary": "Party for ‘The Drift,’ a Cool New Magazine",
-            "date_modified": "2022-03-18T14:50:00.000Z",
-            "author": {
-                "name": "Kaitlyn Tiffany",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/books/archive/2022/03/books-briefing-alejandro-zambra-lauren-groff/627082/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/books/archive/2022/03/books-briefing-alejandro-zambra-lauren-groff/627082/?utm_source=feed",
-            "title": "文學不受時間規則的約束",
-            "summary": "Literature Isn’t Bound by the Rules of Time",
-            "date_modified": "2022-03-18T14:00:56.000Z",
-            "author": {
-                "name": "Emma Sarappo",
                 "url": "https://www.theatlantic.com/feed/all/"
             }
         }

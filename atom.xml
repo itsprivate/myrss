@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-31T14:41:11.004Z</updated>
+    <updated>2022-03-31T15:38:04.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[被 "变红 "所累的方式不止一种]]></title>
+        <id>https://www.newyorker.com/culture/culture-desk/there-is-more-than-one-way-to-be-exhausted-by-turning-red</id>
+        <link href="https://www.newyorker.com/culture/culture-desk/there-is-more-than-one-way-to-be-exhausted-by-turning-red"/>
+        <updated>2022-03-31T15:19:11.000Z</updated>
+        <summary type="html"><![CDATA[There Is More Than One Way to Be Exhausted by “Turning Red”]]></summary>
+        <author>
+            <name>Jane Hu</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文明冲突 "论仍然是无知的胡言乱语]]></title>
+        <id>https://www.currentaffairs.org/2022/03/the-clash-of-civilizations-thesis-is-still-ignorant-nonsense/</id>
+        <link href="https://www.currentaffairs.org/2022/03/the-clash-of-civilizations-thesis-is-still-ignorant-nonsense/"/>
+        <updated>2022-03-31T11:32:22.000Z</updated>
+        <summary type="html"><![CDATA[The “Clash of Civilizations” Thesis Is Still Ignorant Nonsense]]></summary>
+        <author>
+            <name>Nathan J. Robinson</name>
+            <uri>https://www.currentaffairs.org/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国能否善意地杀死它的囚犯？]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/03/death-penalty-lethal-injection-lawsuit/629383/?utm_source=feed</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[Charli XCX Has Made Another Cult Classic]]></summary>
         <author>
             <name>Spencer Kornhaber</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[漂流》杂志的聚会，一个很酷的新杂志]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2022/03/the-drift-issue-launch-party-manhattan/627105/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/the-drift-issue-launch-party-manhattan/627105/?utm_source=feed"/>
-        <updated>2022-03-18T14:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Party for ‘The Drift,’ a Cool New Magazine]]></summary>
-        <author>
-            <name>Kaitlyn Tiffany</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文学不受时间规则的约束]]></title>
-        <id>https://www.theatlantic.com/books/archive/2022/03/books-briefing-alejandro-zambra-lauren-groff/627082/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/books/archive/2022/03/books-briefing-alejandro-zambra-lauren-groff/627082/?utm_source=feed"/>
-        <updated>2022-03-18T14:00:56.000Z</updated>
-        <summary type="html"><![CDATA[Literature Isn’t Bound by the Rules of Time]]></summary>
-        <author>
-            <name>Emma Sarappo</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 31 Mar 2022 14:41:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 15:38:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[被 "变红 "所累的方式不止一种]]></title>
+            <link>https://www.newyorker.com/culture/culture-desk/there-is-more-than-one-way-to-be-exhausted-by-turning-red</link>
+            <guid>https://www.newyorker.com/culture/culture-desk/there-is-more-than-one-way-to-be-exhausted-by-turning-red</guid>
+            <pubDate>Thu, 31 Mar 2022 15:19:11 GMT</pubDate>
+            <description><![CDATA[There Is More Than One Way to Be Exhausted by “Turning Red”]]></description>
+        </item>
+        <item>
+            <title><![CDATA[文明冲突 "论仍然是无知的胡言乱语]]></title>
+            <link>https://www.currentaffairs.org/2022/03/the-clash-of-civilizations-thesis-is-still-ignorant-nonsense/</link>
+            <guid>https://www.currentaffairs.org/2022/03/the-clash-of-civilizations-thesis-is-still-ignorant-nonsense/</guid>
+            <pubDate>Thu, 31 Mar 2022 11:32:22 GMT</pubDate>
+            <description><![CDATA[The “Clash of Civilizations” Thesis Is Still Ignorant Nonsense]]></description>
+        </item>
         <item>
             <title><![CDATA[美国能否善意地杀死它的囚犯？]]></title>
             <link>https://www.theatlantic.com/ideas/archive/2022/03/death-penalty-lethal-injection-lawsuit/629383/?utm_source=feed</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.theatlantic.com/culture/archive/2022/03/charli-xcx-crash-album-review/627106/?utm_source=feed</guid>
             <pubDate>Fri, 18 Mar 2022 14:46:37 GMT</pubDate>
             <description><![CDATA[Charli XCX Has Made Another Cult Classic]]></description>
-        </item>
-        <item>
-            <title><![CDATA[漂流》杂志的聚会，一个很酷的新杂志]]></title>
-            <link>https://www.theatlantic.com/newsletters/archive/2022/03/the-drift-issue-launch-party-manhattan/627105/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/newsletters/archive/2022/03/the-drift-issue-launch-party-manhattan/627105/?utm_source=feed</guid>
-            <pubDate>Fri, 18 Mar 2022 14:50:00 GMT</pubDate>
-            <description><![CDATA[Party for ‘The Drift,’ a Cool New Magazine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[文学不受时间规则的约束]]></title>
-            <link>https://www.theatlantic.com/books/archive/2022/03/books-briefing-alejandro-zambra-lauren-groff/627082/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/books/archive/2022/03/books-briefing-alejandro-zambra-lauren-groff/627082/?utm_source=feed</guid>
-            <pubDate>Fri, 18 Mar 2022 14:00:56 GMT</pubDate>
-            <description><![CDATA[Literature Isn’t Bound by the Rules of Time]]></description>
         </item>
     </channel>
 </rss>
