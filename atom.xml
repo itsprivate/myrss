@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-31T21:32:11.806Z</updated>
+    <updated>2022-03-31T21:52:24.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[奥尔德斯-哈丁的隐秘叙事]]></title>
+        <id>https://www.newyorker.com/culture/listening-booth/the-cryptic-storytelling-of-aldous-harding</id>
+        <link href="https://www.newyorker.com/culture/listening-booth/the-cryptic-storytelling-of-aldous-harding"/>
+        <updated>2022-03-31T21:42:15.000Z</updated>
+        <summary type="html"><![CDATA[The Cryptic Storytelling of Aldous Harding]]></summary>
+        <author>
+            <name>Sheldon Pearce</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[工会在阿拉巴马州的亚马逊投票中处于落后地位，挑战正在进行中]]></title>
         <id>https://www.nytimes.com/2022/03/31/technology/amazon-union-election-alabama.html</id>
@@ -6599,17 +6610,6 @@
         <link href="https://austinkleon.substack.com/p/adventures-on-two-wheels"/>
         <updated>2022-03-08T13:00:37.000Z</updated>
         <summary type="html"><![CDATA[Adventures on two wheels]]></summary>
-        <author>
-            <name>Austin Kleon</name>
-            <uri>https://austinkleon.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[说 "是 "而不去做]]></title>
-        <id>https://austinkleon.substack.com/p/say-yes-and-never-do-it</id>
-        <link href="https://austinkleon.substack.com/p/say-yes-and-never-do-it"/>
-        <updated>2022-03-11T13:00:40.000Z</updated>
-        <summary type="html"><![CDATA[Say yes and never do it]]></summary>
         <author>
             <name>Austin Kleon</name>
             <uri>https://austinkleon.substack.com/feed</uri>
