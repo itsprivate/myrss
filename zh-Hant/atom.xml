@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-03-31T13:26:39.388Z</updated>
+    <updated>2022-03-31T14:32:52.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每日漫畫。3月31日，星期四]]></title>
+        <id>https://www.newyorker.com/cartoons/daily-cartoon/thursday-march-31st-alien-fuel</id>
+        <link href="https://www.newyorker.com/cartoons/daily-cartoon/thursday-march-31st-alien-fuel"/>
+        <updated>2022-03-31T14:06:51.000Z</updated>
+        <summary type="html"><![CDATA[Daily Cartoon: Thursday, March 31st]]></summary>
+        <author>
+            <name>Tom Toro</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們必須尋找更長的時間]]></title>
         <id>https://www.theatlantic.com/culture/archive/2022/03/sarah-meister-war-photography-ukraine/629428/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Inflation Is Bad and About to Get Worse]]></summary>
         <author>
             <name>Annie Lowrey</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你不喜歡日光節約時間。你只是喜歡夏天。]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/daylight-saving-time-bad-teenagers/627095/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/daylight-saving-time-bad-teenagers/627095/?utm_source=feed"/>
-        <updated>2022-03-18T11:00:58.000Z</updated>
-        <summary type="html"><![CDATA[You Don’t Like Daylight Saving Time. You Just Like Summer.]]></summary>
-        <author>
-            <name>Heather Turgeon and Julie Wright</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>

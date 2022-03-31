@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 31 Mar 2022 13:26:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 14:32:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[每日漫畫。3月31日，星期四]]></title>
+            <link>https://www.newyorker.com/cartoons/daily-cartoon/thursday-march-31st-alien-fuel</link>
+            <guid>https://www.newyorker.com/cartoons/daily-cartoon/thursday-march-31st-alien-fuel</guid>
+            <pubDate>Thu, 31 Mar 2022 14:06:51 GMT</pubDate>
+            <description><![CDATA[Daily Cartoon: Thursday, March 31st]]></description>
+        </item>
         <item>
             <title><![CDATA[我們必須尋找更長的時間]]></title>
             <link>https://www.theatlantic.com/culture/archive/2022/03/sarah-meister-war-photography-ukraine/629428/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/ideas/archive/2022/03/inflation-federal-reserve-recession/627079/?utm_source=feed</guid>
             <pubDate>Fri, 18 Mar 2022 11:00:57 GMT</pubDate>
             <description><![CDATA[Inflation Is Bad and About to Get Worse]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你不喜歡日光節約時間。你只是喜歡夏天。]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/daylight-saving-time-bad-teenagers/627095/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/daylight-saving-time-bad-teenagers/627095/?utm_source=feed</guid>
-            <pubDate>Fri, 18 Mar 2022 11:00:58 GMT</pubDate>
-            <description><![CDATA[You Don’t Like Daylight Saving Time. You Just Like Summer.]]></description>
         </item>
     </channel>
 </rss>
