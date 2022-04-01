@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://noahpinion.substack.com/p/interview-arvind-subramanian-former",
+            "content_html": "",
+            "url": "https://noahpinion.substack.com/p/interview-arvind-subramanian-former",
+            "title": "采访。印度政府前首席经济顾问Arvind Subramanian",
+            "summary": "Interview: Arvind Subramanian, former Chief Economic Advisor to the Government of India",
+            "date_modified": "2022-04-01T01:30:47.000Z",
+            "author": {
+                "name": "Noah Smith",
+                "url": "https://noahpinion.substack.com/feed"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/03/31/business/economy/biden-minerals-defense-production-act.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/03/31/business/economy/biden-minerals-defense-production-act.html",
+            "title": "拜登援引《国防生产法》以促进关键矿产供应",
+            "summary": "Biden Invokes Defense Production Act to Boost Critical Mineral Supply",
+            "date_modified": "2022-03-31T21:17:57.000Z",
+            "author": {
+                "name": "Ana Swanson",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/daily-comment/a-better-idea-than-releasing-oil-from-the-strategic-reserve",
             "content_html": "",
             "url": "https://www.newyorker.com/news/daily-comment/a-better-idea-than-releasing-oil-from-the-strategic-reserve",
@@ -7181,30 +7205,6 @@
             "title": "假期日记",
             "summary": "A vacation diary",
             "date_modified": "2022-02-15T13:00:48.000Z",
-            "author": {
-                "name": "Austin Kleon",
-                "url": "https://austinkleon.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://austinkleon.substack.com/p/a-road-trip-q-and-a",
-            "content_html": "",
-            "url": "https://austinkleon.substack.com/p/a-road-trip-q-and-a",
-            "title": "公路旅行问答",
-            "summary": "A road trip Q&A",
-            "date_modified": "2022-02-18T13:00:52.000Z",
-            "author": {
-                "name": "Austin Kleon",
-                "url": "https://austinkleon.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://austinkleon.substack.com/p/analog-ctrl-z",
-            "content_html": "",
-            "url": "https://austinkleon.substack.com/p/analog-ctrl-z",
-            "title": "模拟Ctrl-Z",
-            "summary": "Analog Ctrl-Z",
-            "date_modified": "2022-02-22T13:00:36.000Z",
             "author": {
                 "name": "Austin Kleon",
                 "url": "https://austinkleon.substack.com/feed"

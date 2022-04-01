@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-01T00:48:19.577Z</updated>
+    <updated>2022-04-01T02:47:41.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[采访。印度政府前首席经济顾问Arvind Subramanian]]></title>
+        <id>https://noahpinion.substack.com/p/interview-arvind-subramanian-former</id>
+        <link href="https://noahpinion.substack.com/p/interview-arvind-subramanian-former"/>
+        <updated>2022-04-01T01:30:47.000Z</updated>
+        <summary type="html"><![CDATA[Interview: Arvind Subramanian, former Chief Economic Advisor to the Government of India]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拜登援引《国防生产法》以促进关键矿产供应]]></title>
+        <id>https://www.nytimes.com/2022/03/31/business/economy/biden-minerals-defense-production-act.html</id>
+        <link href="https://www.nytimes.com/2022/03/31/business/economy/biden-minerals-defense-production-act.html"/>
+        <updated>2022-03-31T21:17:57.000Z</updated>
+        <summary type="html"><![CDATA[Biden Invokes Defense Production Act to Boost Critical Mineral Supply]]></summary>
+        <author>
+            <name>Ana Swanson</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个比从战略储备中释放石油更好的想法]]></title>
         <id>https://www.newyorker.com/news/daily-comment/a-better-idea-than-releasing-oil-from-the-strategic-reserve</id>
@@ -6588,28 +6610,6 @@
         <link href="https://austinkleon.substack.com/p/a-vacation-diary"/>
         <updated>2022-02-15T13:00:48.000Z</updated>
         <summary type="html"><![CDATA[A vacation diary]]></summary>
-        <author>
-            <name>Austin Kleon</name>
-            <uri>https://austinkleon.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公路旅行问答]]></title>
-        <id>https://austinkleon.substack.com/p/a-road-trip-q-and-a</id>
-        <link href="https://austinkleon.substack.com/p/a-road-trip-q-and-a"/>
-        <updated>2022-02-18T13:00:52.000Z</updated>
-        <summary type="html"><![CDATA[A road trip Q&A]]></summary>
-        <author>
-            <name>Austin Kleon</name>
-            <uri>https://austinkleon.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[模拟Ctrl-Z]]></title>
-        <id>https://austinkleon.substack.com/p/analog-ctrl-z</id>
-        <link href="https://austinkleon.substack.com/p/analog-ctrl-z"/>
-        <updated>2022-02-22T13:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Analog Ctrl-Z]]></summary>
         <author>
             <name>Austin Kleon</name>
             <uri>https://austinkleon.substack.com/feed</uri>

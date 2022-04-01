@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 01 Apr 2022 00:48:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 02:47:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[采访。印度政府前首席经济顾问Arvind Subramanian]]></title>
+            <link>https://noahpinion.substack.com/p/interview-arvind-subramanian-former</link>
+            <guid>https://noahpinion.substack.com/p/interview-arvind-subramanian-former</guid>
+            <pubDate>Fri, 01 Apr 2022 01:30:47 GMT</pubDate>
+            <description><![CDATA[Interview: Arvind Subramanian, former Chief Economic Advisor to the Government of India]]></description>
+        </item>
+        <item>
+            <title><![CDATA[拜登援引《国防生产法》以促进关键矿产供应]]></title>
+            <link>https://www.nytimes.com/2022/03/31/business/economy/biden-minerals-defense-production-act.html</link>
+            <guid>https://www.nytimes.com/2022/03/31/business/economy/biden-minerals-defense-production-act.html</guid>
+            <pubDate>Thu, 31 Mar 2022 21:17:57 GMT</pubDate>
+            <description><![CDATA[Biden Invokes Defense Production Act to Boost Critical Mineral Supply]]></description>
+        </item>
         <item>
             <title><![CDATA[一个比从战略储备中释放石油更好的想法]]></title>
             <link>https://www.newyorker.com/news/daily-comment/a-better-idea-than-releasing-oil-from-the-strategic-reserve</link>
@@ -4199,20 +4213,6 @@
             <guid>https://austinkleon.substack.com/p/a-vacation-diary</guid>
             <pubDate>Tue, 15 Feb 2022 13:00:48 GMT</pubDate>
             <description><![CDATA[A vacation diary]]></description>
-        </item>
-        <item>
-            <title><![CDATA[公路旅行问答]]></title>
-            <link>https://austinkleon.substack.com/p/a-road-trip-q-and-a</link>
-            <guid>https://austinkleon.substack.com/p/a-road-trip-q-and-a</guid>
-            <pubDate>Fri, 18 Feb 2022 13:00:52 GMT</pubDate>
-            <description><![CDATA[A road trip Q&A]]></description>
-        </item>
-        <item>
-            <title><![CDATA[模拟Ctrl-Z]]></title>
-            <link>https://austinkleon.substack.com/p/analog-ctrl-z</link>
-            <guid>https://austinkleon.substack.com/p/analog-ctrl-z</guid>
-            <pubDate>Tue, 22 Feb 2022 13:00:36 GMT</pubDate>
-            <description><![CDATA[Analog Ctrl-Z]]></description>
         </item>
     </channel>
 </rss>
