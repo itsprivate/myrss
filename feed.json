@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/books/archive/2022/04/margaret-atwood-hitchens-prize-speech/629443/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/books/archive/2022/04/margaret-atwood-hitchens-prize-speech/629443/?utm_source=feed",
+            "title": "你的感觉不是借口",
+            "summary": "Your Feelings Are No Excuse",
+            "date_modified": "2022-04-01T13:40:15.000Z",
+            "author": {
+                "name": "Margaret Atwood",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/01/technology/amazon-labor-practices.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/01/technology/amazon-labor-practices.html",
@@ -7193,18 +7205,6 @@
             "title": "新的博客名称和域名",
             "summary": "New Blog Name and Domain",
             "date_modified": "2018-08-03T04:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/net-core-azure-functions-tutorial/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/net-core-azure-functions-tutorial/",
-            "title": ".NET核心Azure函数教程",
-            "summary": ".NET Core Azure Functions Tutorial",
-            "date_modified": "2018-11-19T05:00:00.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-01T13:34:12.818Z</updated>
+    <updated>2022-04-01T13:53:30.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的感覺不是藉口]]></title>
+        <id>https://www.theatlantic.com/books/archive/2022/04/margaret-atwood-hitchens-prize-speech/629443/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/books/archive/2022/04/margaret-atwood-hitchens-prize-speech/629443/?utm_source=feed"/>
+        <updated>2022-04-01T13:40:15.000Z</updated>
+        <summary type="html"><![CDATA[Your Feelings Are No Excuse]]></summary>
+        <author>
+            <name>Margaret Atwood</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[眾議院委員會調查亞馬遜的勞工行為]]></title>
         <id>https://www.nytimes.com/2022/04/01/technology/amazon-labor-practices.html</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.davidhaney.io/new-blog-name-and-domain/"/>
         <updated>2018-08-03T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[New Blog Name and Domain]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.NET核心Azure函數教程]]></title>
-        <id>https://www.davidhaney.io/net-core-azure-functions-tutorial/</id>
-        <link href="https://www.davidhaney.io/net-core-azure-functions-tutorial/"/>
-        <updated>2018-11-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[.NET Core Azure Functions Tutorial]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>
