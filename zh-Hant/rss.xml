@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 01 Apr 2022 18:41:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 18:58:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[西方準備為烏克蘭走多遠？]]></title>
+            <link>https://www.newyorker.com/news/the-political-scene/how-far-is-the-west-prepared-to-go-for-ukraine</link>
+            <guid>https://www.newyorker.com/news/the-political-scene/how-far-is-the-west-prepared-to-go-for-ukraine</guid>
+            <pubDate>Fri, 01 Apr 2022 18:43:02 GMT</pubDate>
+            <description><![CDATA[How Far Is the West Prepared to Go for Ukraine?]]></description>
+        </item>
         <item>
             <title><![CDATA[因戰爭而流離失所的外國學生]]></title>
             <link>https://www.newyorker.com/news/dispatch/the-foreign-students-displaced-by-war</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.davidhaney.io/on-secretly-terrible-engineers-a-rebuttal/</guid>
             <pubDate>Mon, 09 Mar 2015 18:32:37 GMT</pubDate>
             <description><![CDATA[On Secretly Terrible Engineers - A Rebuttal]]></description>
-        </item>
-        <item>
-            <title><![CDATA[開發人員不應測量兩次，切割一次]]></title>
-            <link>https://www.davidhaney.io/developers-shouldnt-measure-twice-cut-once/</link>
-            <guid>https://www.davidhaney.io/developers-shouldnt-measure-twice-cut-once/</guid>
-            <pubDate>Wed, 15 Apr 2015 16:25:02 GMT</pubDate>
-            <description><![CDATA[Developers Shouldn't Measure Twice, Cut Once]]></description>
         </item>
     </channel>
 </rss>

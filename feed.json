@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/the-political-scene/how-far-is-the-west-prepared-to-go-for-ukraine",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/the-political-scene/how-far-is-the-west-prepared-to-go-for-ukraine",
+            "title": "西方准备为乌克兰走多远？",
+            "summary": "How Far Is the West Prepared to Go for Ukraine?",
+            "date_modified": "2022-04-01T18:43:02.000Z",
+            "author": {
+                "name": "Benjamin Wallace-Wells",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/dispatch/the-foreign-students-displaced-by-war",
             "content_html": "",
             "url": "https://www.newyorker.com/news/dispatch/the-foreign-students-displaced-by-war",
@@ -7193,18 +7205,6 @@
             "title": "关于秘密的可怕的工程师--反驳",
             "summary": "On Secretly Terrible Engineers - A Rebuttal",
             "date_modified": "2015-03-09T18:32:37.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/developers-shouldnt-measure-twice-cut-once/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/developers-shouldnt-measure-twice-cut-once/",
-            "title": "开发人员不应测量两次，切割一次",
-            "summary": "Developers Shouldn't Measure Twice, Cut Once",
-            "date_modified": "2015-04-15T16:25:02.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"
