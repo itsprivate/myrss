@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/news-desk/a-new-video-shows-a-missing-american-hostage-pleading-for-help-in-taliban-custody",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/news-desk/a-new-video-shows-a-missing-american-hostage-pleading-for-help-in-taliban-custody",
+            "title": "一段新的视频显示，一名失踪的美国人质在塔利班的监护下请求帮助",
+            "summary": "A New Video Shows a Missing American Hostage Pleading for Help in Taliban Custody",
+            "date_modified": "2022-04-01T15:00:26.000Z",
+            "author": {
+                "name": "Michael Ames",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.currentaffairs.org/2022/04/laurie-penny-on-the-sexual-revolution/",
+            "content_html": "",
+            "url": "https://www.currentaffairs.org/2022/04/laurie-penny-on-the-sexual-revolution/",
+            "title": "劳里-佩妮谈性革命",
+            "summary": "Laurie Penny on The Sexual Revolution",
+            "date_modified": "2022-04-01T10:50:16.000Z",
+            "author": {
+                "name": "Current Affairs",
+                "url": "https://www.currentaffairs.org/feed"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/culture/archive/2022/04/memoria-review-existential-mystery-tilda-swinton/629447/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/culture/archive/2022/04/memoria-review-existential-mystery-tilda-swinton/629447/?utm_source=feed",
+            "title": "<em>Memoria</em>是一个存在主义的谜团，有着令人遐想的答案",
+            "summary": "<em>Memoria</em> Is an Existential Mystery With Fanciful Answers",
+            "date_modified": "2022-04-01T14:51:50.000Z",
+            "author": {
+                "name": "David Sims",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/books/archive/2022/04/books-briefing-ferrante-choi/629429/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/books/archive/2022/04/books-briefing-ferrante-choi/629429/?utm_source=feed",
@@ -7169,42 +7205,6 @@
             "title": "开发团队的互动。进行良好的代码审查",
             "summary": "Dev Team Interactions: Conducting Good Code Reviews",
             "date_modified": "2017-01-27T10:03:20.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/gitlab-data-loss-a-discussion/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/gitlab-data-loss-a-discussion/",
-            "title": "GitLab数据丢失：一个讨论",
-            "summary": "GitLab Data Loss: A Discussion",
-            "date_modified": "2017-02-02T11:33:02.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/on-hiring-developers-are-like-stocks/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/on-hiring-developers-are-like-stocks/",
-            "title": "关于招聘。开发人员就像股票一样",
-            "summary": "On Hiring: Developers Are Like Stocks",
-            "date_modified": "2017-02-10T11:11:30.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/new-blog-and-hiring-needs/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/new-blog-and-hiring-needs/",
-            "title": "新博客与招聘需求",
-            "summary": "New Blog & Hiring Needs",
-            "date_modified": "2018-06-09T17:56:24.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"
