@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-01T15:40:07.759Z</updated>
+    <updated>2022-04-01T16:53:43.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[斯坦頓島的亞馬遜工人投票決定成立工會]]></title>
+        <id>https://www.nytimes.com/2022/04/01/technology/amazon-union-staten-island.html</id>
+        <link href="https://www.nytimes.com/2022/04/01/technology/amazon-union-staten-island.html"/>
+        <updated>2022-04-01T16:34:54.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Workers on Staten Island Vote to Unionize]]></summary>
+        <author>
+            <name>Karen Weise and Noam Scheiber</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何理解俄羅斯現在對烏克蘭的戰爭？]]></title>
+        <id>https://www.theatlantic.com/international/archive/2022/04/ukraine-russia-war-questions-answers/627596/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/international/archive/2022/04/ukraine-russia-war-questions-answers/627596/?utm_source=feed"/>
+        <updated>2022-04-01T16:27:39.000Z</updated>
+        <summary type="html"><![CDATA[How to Make Sense of Russia’s War on Ukraine Right Now]]></summary>
+        <author>
+            <name>The Atlantic</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[威爾-史密斯和克里斯-洛克在奧斯卡頒獎典禮上。真正發生了什麼]]></title>
         <id>https://www.newyorker.com/cartoons/blitts-kvetchbook/will-smith-and-chris-rock-at-the-oscars-what-really-happened</id>
@@ -6588,28 +6610,6 @@
         <link href="https://www.davidhaney.io/lets-talk-about-rock-stars-egos/"/>
         <updated>2016-06-17T17:02:13.000Z</updated>
         <summary type="html"><![CDATA[Let's Talk About Rock Stars & Egos]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們的行業需要同情心]]></title>
-        <id>https://www.davidhaney.io/our-industry-needs-compassion/</id>
-        <link href="https://www.davidhaney.io/our-industry-needs-compassion/"/>
-        <updated>2017-01-03T12:37:39.000Z</updated>
-        <summary type="html"><![CDATA[Our Industry Needs Compassion]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自定義ASP.NET MVC動作結果緩存屬性]]></title>
-        <id>https://www.davidhaney.io/custom-asp-net-mvc-action-result-cache-attribute/</id>
-        <link href="https://www.davidhaney.io/custom-asp-net-mvc-action-result-cache-attribute/"/>
-        <updated>2017-01-10T09:07:15.000Z</updated>
-        <summary type="html"><![CDATA[Custom ASP.NET MVC Action Result Cache Attribute]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>
