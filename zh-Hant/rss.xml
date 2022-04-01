@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 01 Apr 2022 20:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 20:34:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一名記者返回基輔]]></title>
+            <link>https://www.newyorker.com/newsletter/the-daily/a-journalist-returns-to-kyiv</link>
+            <guid>https://www.newyorker.com/newsletter/the-daily/a-journalist-returns-to-kyiv</guid>
+            <pubDate>Fri, 01 Apr 2022 20:00:00 GMT</pubDate>
+            <description><![CDATA[A Journalist Returns to Kyiv]]></description>
+        </item>
+        <item>
+            <title><![CDATA[調查1月6日]]></title>
+            <link>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/investigating-january-6th</link>
+            <guid>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/investigating-january-6th</guid>
+            <pubDate>Fri, 01 Apr 2022 20:00:00 GMT</pubDate>
+            <description><![CDATA[Investigating January 6th]]></description>
+        </item>
         <item>
             <title><![CDATA[一名記者返回基輔]]></title>
             <link>https://www.newyorker.com/newsletter/the-daily/a-journalist-returns-to-kyiv</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.davidhaney.io/how-i-got-a-job-at-stack-exchange/</guid>
             <pubDate>Fri, 20 Jun 2014 16:59:10 GMT</pubDate>
             <description><![CDATA[How I Got A Job At Stack Exchange]]></description>
-        </item>
-        <item>
-            <title><![CDATA[iPhone 6。風格大於實質]]></title>
-            <link>https://www.davidhaney.io/iphone-6-style-over-substance/</link>
-            <guid>https://www.davidhaney.io/iphone-6-style-over-substance/</guid>
-            <pubDate>Tue, 09 Sep 2014 19:22:53 GMT</pubDate>
-            <description><![CDATA[iPhone 6: Style Over Substance]]></description>
-        </item>
-        <item>
-            <title><![CDATA[工作頭銜的問題]]></title>
-            <link>https://www.davidhaney.io/the-trouble-with-job-titles/</link>
-            <guid>https://www.davidhaney.io/the-trouble-with-job-titles/</guid>
-            <pubDate>Fri, 17 Oct 2014 18:41:14 GMT</pubDate>
-            <description><![CDATA[The Trouble With Job Titles]]></description>
         </item>
     </channel>
 </rss>

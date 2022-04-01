@@ -19,6 +19,30 @@
             "date_modified": "2022-04-01T20:00:00.000Z",
             "author": {
                 "name": "The New Yorker",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour/investigating-january-6th",
+            "content_html": "",
+            "url": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour/investigating-january-6th",
+            "title": "調查1月6日",
+            "summary": "Investigating January 6th",
+            "date_modified": "2022-04-01T20:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/newsletter/the-daily/a-journalist-returns-to-kyiv",
+            "content_html": "",
+            "url": "https://www.newyorker.com/newsletter/the-daily/a-journalist-returns-to-kyiv",
+            "title": "一名記者返回基輔",
+            "summary": "A Journalist Returns to Kyiv",
+            "date_modified": "2022-04-01T20:00:00.000Z",
+            "author": {
+                "name": "The New Yorker",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         },
@@ -7181,30 +7205,6 @@
             "title": "我是如何在Stack Exchange得到一份工作的",
             "summary": "How I Got A Job At Stack Exchange",
             "date_modified": "2014-06-20T16:59:10.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/iphone-6-style-over-substance/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/iphone-6-style-over-substance/",
-            "title": "iPhone 6。風格大於實質",
-            "summary": "iPhone 6: Style Over Substance",
-            "date_modified": "2014-09-09T19:22:53.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/the-trouble-with-job-titles/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/the-trouble-with-job-titles/",
-            "title": "工作頭銜的問題",
-            "summary": "The Trouble With Job Titles",
-            "date_modified": "2014-10-17T18:41:14.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"

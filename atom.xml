@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-01T20:14:30.050Z</updated>
+    <updated>2022-04-01T20:34:59.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一名记者返回基辅]]></title>
+        <id>https://www.newyorker.com/newsletter/the-daily/a-journalist-returns-to-kyiv</id>
+        <link href="https://www.newyorker.com/newsletter/the-daily/a-journalist-returns-to-kyiv"/>
+        <updated>2022-04-01T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Journalist Returns to Kyiv]]></summary>
+        <author>
+            <name>The New Yorker</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[调查1月6日]]></title>
+        <id>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/investigating-january-6th</id>
+        <link href="https://www.newyorker.com/podcast/the-new-yorker-radio-hour/investigating-january-6th"/>
+        <updated>2022-04-01T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Investigating January 6th]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一名记者返回基辅]]></title>
         <id>https://www.newyorker.com/newsletter/the-daily/a-journalist-returns-to-kyiv</id>
@@ -6588,28 +6610,6 @@
         <link href="https://www.davidhaney.io/how-i-got-a-job-at-stack-exchange/"/>
         <updated>2014-06-20T16:59:10.000Z</updated>
         <summary type="html"><![CDATA[How I Got A Job At Stack Exchange]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 6。风格大于实质]]></title>
-        <id>https://www.davidhaney.io/iphone-6-style-over-substance/</id>
-        <link href="https://www.davidhaney.io/iphone-6-style-over-substance/"/>
-        <updated>2014-09-09T19:22:53.000Z</updated>
-        <summary type="html"><![CDATA[iPhone 6: Style Over Substance]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[工作头衔的问题]]></title>
-        <id>https://www.davidhaney.io/the-trouble-with-job-titles/</id>
-        <link href="https://www.davidhaney.io/the-trouble-with-job-titles/"/>
-        <updated>2014-10-17T18:41:14.000Z</updated>
-        <summary type="html"><![CDATA[The Trouble With Job Titles]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>
