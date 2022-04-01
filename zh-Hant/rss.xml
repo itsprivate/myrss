@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 01 Apr 2022 11:31:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 12:21:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[贏家時間]]></title>
+            <link>https://austinkleon.substack.com/p/winning-time</link>
+            <guid>https://austinkleon.substack.com/p/winning-time</guid>
+            <pubDate>Fri, 01 Apr 2022 12:00:54 GMT</pubDate>
+            <description><![CDATA[Winning time]]></description>
+        </item>
         <item>
             <title><![CDATA[一棵植物的整個生命取決於一個神秘的同夥]]></title>
             <link>https://www.theatlantic.com/science/archive/2022/04/zamia-pseudoparasitica-panamanian-plant-seed-dispersal/629444/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.davidhaney.io/sabbatical-begins/</guid>
             <pubDate>Sat, 31 Aug 2019 05:00:00 GMT</pubDate>
             <description><![CDATA[Sabbatical Begins]]></description>
-        </item>
-        <item>
-            <title><![CDATA[安息日第一週]]></title>
-            <link>https://www.davidhaney.io/sabbatical-week-one/</link>
-            <guid>https://www.davidhaney.io/sabbatical-week-one/</guid>
-            <pubDate>Sun, 08 Sep 2019 05:00:00 GMT</pubDate>
-            <description><![CDATA[Sabbatical Week One]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-01T11:31:38.372Z</updated>
+    <updated>2022-04-01T12:21:22.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[贏家時間]]></title>
+        <id>https://austinkleon.substack.com/p/winning-time</id>
+        <link href="https://austinkleon.substack.com/p/winning-time"/>
+        <updated>2022-04-01T12:00:54.000Z</updated>
+        <summary type="html"><![CDATA[Winning time]]></summary>
+        <author>
+            <name>Austin Kleon</name>
+            <uri>https://austinkleon.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一棵植物的整個生命取決於一個神秘的同夥]]></title>
         <id>https://www.theatlantic.com/science/archive/2022/04/zamia-pseudoparasitica-panamanian-plant-seed-dispersal/629444/?utm_source=feed</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.davidhaney.io/sabbatical-begins/"/>
         <updated>2019-08-31T05:00:00.000Z</updated>
         <summary type="html"><![CDATA[Sabbatical Begins]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安息日第一週]]></title>
-        <id>https://www.davidhaney.io/sabbatical-week-one/</id>
-        <link href="https://www.davidhaney.io/sabbatical-week-one/"/>
-        <updated>2019-09-08T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sabbatical Week One]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>
