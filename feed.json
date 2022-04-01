@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/books/archive/2022/04/books-briefing-ferrante-choi/629429/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/books/archive/2022/04/books-briefing-ferrante-choi/629429/?utm_source=feed",
+            "title": "撒谎是其自身的故事形式",
+            "summary": "Lying Is Its Own Form of Storytelling",
+            "date_modified": "2022-04-01T14:01:56.000Z",
+            "author": {
+                "name": "Emma Sarappo",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/cartoons/daily-cartoon/friday-april-1st-too-much-too-soon",
             "content_html": "",
             "url": "https://www.newyorker.com/cartoons/daily-cartoon/friday-april-1st-too-much-too-soon",
@@ -7193,18 +7205,6 @@
             "title": "新博客与招聘需求",
             "summary": "New Blog & Hiring Needs",
             "date_modified": "2018-06-09T17:56:24.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/writing-a-great-junior-tech-resume/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/writing-a-great-junior-tech-resume/",
-            "title": "撰写一份优秀的初级技术员履历表",
-            "summary": "Writing a Great Junior Tech Résumé",
-            "date_modified": "2018-07-24T04:00:00.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"
