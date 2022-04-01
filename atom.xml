@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-01T04:45:54.407Z</updated>
+    <updated>2022-04-01T05:38:07.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[低垂的果实的争论。模型和预测]]></title>
+        <id>https://astralcodexten.substack.com/p/the-low-hanging-fruit-argument-models</id>
+        <link href="https://astralcodexten.substack.com/p/the-low-hanging-fruit-argument-models"/>
+        <updated>2022-04-01T05:28:58.000Z</updated>
+        <summary type="html"><![CDATA[The Low-Hanging Fruit Argument: Models And Predictions]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本周的照片。燃烧的艾菲，树懒气球，奥斯卡的耳光]]></title>
         <id>https://www.theatlantic.com/photo/2022/04/photos-week/629445/?utm_source=feed</id>
@@ -6599,17 +6610,6 @@
         <link href="https://austinkleon.substack.com/p/thinking-on-the-page"/>
         <updated>2022-02-08T13:00:46.000Z</updated>
         <summary type="html"><![CDATA[Thinking on the page]]></summary>
-        <author>
-            <name>Austin Kleon</name>
-            <uri>https://austinkleon.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要大喊大叫!]]></title>
-        <id>https://austinkleon.substack.com/p/no-yelling</id>
-        <link href="https://austinkleon.substack.com/p/no-yelling"/>
-        <updated>2022-02-11T13:00:42.000Z</updated>
-        <summary type="html"><![CDATA[No yelling!]]></summary>
         <author>
             <name>Austin Kleon</name>
             <uri>https://austinkleon.substack.com/feed</uri>
