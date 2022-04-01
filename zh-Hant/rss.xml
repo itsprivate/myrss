@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 01 Apr 2022 20:34:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 20:51:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[福奇作證說大麻合法化將幫助那些不得不聽特德-克魯茲講話的人]]></title>
+            <link>https://www.newyorker.com/humor/borowitz-report/fauci-testifies-that-legalizing-marijuana-would-help-people-who-have-to-listen-to-ted-cruz-talk</link>
+            <guid>https://www.newyorker.com/humor/borowitz-report/fauci-testifies-that-legalizing-marijuana-would-help-people-who-have-to-listen-to-ted-cruz-talk</guid>
+            <pubDate>Fri, 01 Apr 2022 20:33:51 GMT</pubDate>
+            <description><![CDATA[Fauci Testifies That Legalizing Marijuana Would Help People Who Have to Listen to Ted Cruz Talk]]></description>
+        </item>
         <item>
             <title><![CDATA[一名記者返回基輔]]></title>
             <link>https://www.newyorker.com/newsletter/the-daily/a-journalist-returns-to-kyiv</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.davidhaney.io/how-to-guarantee-dev-team-failure/</guid>
             <pubDate>Wed, 07 May 2014 13:27:35 GMT</pubDate>
             <description><![CDATA[How To Guarantee Dev Team Failure]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我是如何在Stack Exchange得到一份工作的]]></title>
-            <link>https://www.davidhaney.io/how-i-got-a-job-at-stack-exchange/</link>
-            <guid>https://www.davidhaney.io/how-i-got-a-job-at-stack-exchange/</guid>
-            <pubDate>Fri, 20 Jun 2014 16:59:10 GMT</pubDate>
-            <description><![CDATA[How I Got A Job At Stack Exchange]]></description>
         </item>
     </channel>
 </rss>
