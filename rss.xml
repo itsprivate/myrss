@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 01 Apr 2022 02:47:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 04:45:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[本周的照片。燃烧的艾菲，树懒气球，奥斯卡的耳光]]></title>
+            <link>https://www.theatlantic.com/photo/2022/04/photos-week/629445/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/photo/2022/04/photos-week/629445/?utm_source=feed</guid>
+            <pubDate>Fri, 01 Apr 2022 04:31:56 GMT</pubDate>
+            <description><![CDATA[Photos of the Week: Burning Effigy, Sloth Balloon, Oscar Slap]]></description>
+        </item>
         <item>
             <title><![CDATA[采访。印度政府前首席经济顾问Arvind Subramanian]]></title>
             <link>https://noahpinion.substack.com/p/interview-arvind-subramanian-former</link>
@@ -4206,13 +4213,6 @@
             <guid>https://austinkleon.substack.com/p/no-yelling</guid>
             <pubDate>Fri, 11 Feb 2022 13:00:42 GMT</pubDate>
             <description><![CDATA[No yelling!]]></description>
-        </item>
-        <item>
-            <title><![CDATA[假期日记]]></title>
-            <link>https://austinkleon.substack.com/p/a-vacation-diary</link>
-            <guid>https://austinkleon.substack.com/p/a-vacation-diary</guid>
-            <pubDate>Tue, 15 Feb 2022 13:00:48 GMT</pubDate>
-            <description><![CDATA[A vacation diary]]></description>
         </item>
     </channel>
 </rss>
