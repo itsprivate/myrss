@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-01T10:14:37.397Z</updated>
+    <updated>2022-04-01T10:38:23.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[埃内斯托浪漫的巴斯克式食品]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/11/the-romantic-basque-leaning-food-of-ernestos</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/11/the-romantic-basque-leaning-food-of-ernestos"/>
+        <updated>2022-04-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Romantic Basque-Leaning Food of Ernesto’s]]></summary>
+        <author>
+            <name>Hannah Goldfield</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[填字游戏。2022年4月1日，星期五]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/01</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/01"/>
+        <updated>2022-04-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Crossword: Friday, April 1, 2022]]></summary>
+        <author>
+            <name>Sarah Kay, Ross Trudeau</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[落名。2022年4月1日，星期五]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/01</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/01"/>
+        <updated>2022-04-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Name Drop: Friday, April 1, 2022]]></summary>
+        <author>
+            <name>Liz Maynes-Aminzade</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[漫画家为悲痛留出空间]]></title>
+        <id>https://www.newyorker.com/culture/culture-desk/a-cartoonist-makes-space-for-grief</id>
+        <link href="https://www.newyorker.com/culture/culture-desk/a-cartoonist-makes-space-for-grief"/>
+        <updated>2022-04-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Cartoonist Makes Space for Grief]]></summary>
+        <author>
+            <name>Françoise Mouly, Genevieve Bormes</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重写艾米丽-圣-约翰-曼德尔]]></title>
+        <id>https://www.newyorker.com/culture/persons-of-interest/the-rewriting-of-emily-st-john-mandel</id>
+        <link href="https://www.newyorker.com/culture/persons-of-interest/the-rewriting-of-emily-st-john-mandel"/>
+        <updated>2022-04-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Rewriting of Emily St. John Mandel]]></summary>
+        <author>
+            <name>Katy Waldman</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谢尔曼-阿莱克西读雷蒙德-卡佛]]></title>
         <id>https://www.newyorker.com/podcast/fiction/sherman-alexie-reads-raymond-carver</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[歌声是时间的庇护所]]></title>
-        <id>https://austinkleon.substack.com/p/songs-are-shelters-in-time</id>
-        <link href="https://austinkleon.substack.com/p/songs-are-shelters-in-time"/>
-        <updated>2022-01-14T13:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Songs are shelters in time]]></summary>
-        <author>
-            <name>Austin Kleon</name>
-            <uri>https://austinkleon.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的日记回顾]]></title>
-        <id>https://austinkleon.substack.com/p/a-walkthrough-of-my-diary</id>
-        <link href="https://austinkleon.substack.com/p/a-walkthrough-of-my-diary"/>
-        <updated>2022-01-18T13:00:42.000Z</updated>
-        <summary type="html"><![CDATA[A walkthrough of my diary]]></summary>
-        <author>
-            <name>Austin Kleon</name>
-            <uri>https://austinkleon.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[远离坑洞的目光]]></title>
-        <id>https://austinkleon.substack.com/p/look-away-from-the-pit</id>
-        <link href="https://austinkleon.substack.com/p/look-away-from-the-pit"/>
-        <updated>2022-01-21T13:00:31.000Z</updated>
-        <summary type="html"><![CDATA[Look away from the pit]]></summary>
-        <author>
-            <name>Austin Kleon</name>
-            <uri>https://austinkleon.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谈话如何开始]]></title>
-        <id>https://austinkleon.substack.com/p/how-a-talk-begins</id>
-        <link href="https://austinkleon.substack.com/p/how-a-talk-begins"/>
-        <updated>2022-01-25T13:11:13.000Z</updated>
-        <summary type="html"><![CDATA[How a talk begins]]></summary>
-        <author>
-            <name>Austin Kleon</name>
-            <uri>https://austinkleon.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在帮忙吗？]]></title>
-        <id>https://austinkleon.substack.com/p/are-you-helping</id>
-        <link href="https://austinkleon.substack.com/p/are-you-helping"/>
-        <updated>2022-01-28T13:00:41.000Z</updated>
-        <summary type="html"><![CDATA[Are you helping?]]></summary>
-        <author>
-            <name>Austin Kleon</name>
-            <uri>https://austinkleon.substack.com/feed</uri>
         </author>
     </entry>
 </feed>
