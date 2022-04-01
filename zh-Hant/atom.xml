@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-01T13:53:30.968Z</updated>
+    <updated>2022-04-01T14:13:46.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每日漫畫。4月1日，星期五]]></title>
+        <id>https://www.newyorker.com/cartoons/daily-cartoon/friday-april-1st-too-much-too-soon</id>
+        <link href="https://www.newyorker.com/cartoons/daily-cartoon/friday-april-1st-too-much-too-soon"/>
+        <updated>2022-04-01T14:09:16.000Z</updated>
+        <summary type="html"><![CDATA[Daily Cartoon: Friday, April 1st]]></summary>
+        <author>
+            <name>Mick Stevens</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的感覺不是藉口]]></title>
         <id>https://www.theatlantic.com/books/archive/2022/04/margaret-atwood-hitchens-prize-speech/629443/?utm_source=feed</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.davidhaney.io/writing-a-great-junior-tech-resume/"/>
         <updated>2018-07-24T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[Writing a Great Junior Tech Résumé]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新的博客名稱和域名]]></title>
-        <id>https://www.davidhaney.io/new-blog-name-and-domain/</id>
-        <link href="https://www.davidhaney.io/new-blog-name-and-domain/"/>
-        <updated>2018-08-03T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[New Blog Name and Domain]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>
