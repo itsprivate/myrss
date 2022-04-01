@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/international/archive/2022/04/photos-refugees-escape-from-ukraine-to-moldova/629403/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/international/archive/2022/04/photos-refugees-escape-from-ukraine-to-moldova/629403/?utm_source=feed",
+            "title": "逃離烏克蘭",
+            "summary": "Escape from Ukraine",
+            "date_modified": "2022-04-01T19:25:36.000Z",
+            "author": {
+                "name": "The Atlantic",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/the-political-scene/how-far-is-the-west-prepared-to-go-for-ukraine",
             "content_html": "",
             "url": "https://www.newyorker.com/news/the-political-scene/how-far-is-the-west-prepared-to-go-for-ukraine",
@@ -7193,18 +7205,6 @@
             "title": "招聘的競爭優勢",
             "summary": "The Recruiting Competitive Advantage",
             "date_modified": "2015-01-23T12:04:37.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/on-secretly-terrible-engineers-a-rebuttal/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/on-secretly-terrible-engineers-a-rebuttal/",
-            "title": "關於秘密的可怕的工程師--反駁",
-            "summary": "On Secretly Terrible Engineers - A Rebuttal",
-            "date_modified": "2015-03-09T18:32:37.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"

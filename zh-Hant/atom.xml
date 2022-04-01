@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-01T18:58:18.974Z</updated>
+    <updated>2022-04-01T19:52:01.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[逃離烏克蘭]]></title>
+        <id>https://www.theatlantic.com/international/archive/2022/04/photos-refugees-escape-from-ukraine-to-moldova/629403/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/international/archive/2022/04/photos-refugees-escape-from-ukraine-to-moldova/629403/?utm_source=feed"/>
+        <updated>2022-04-01T19:25:36.000Z</updated>
+        <summary type="html"><![CDATA[Escape from Ukraine]]></summary>
+        <author>
+            <name>The Atlantic</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[西方準備為烏克蘭走多遠？]]></title>
         <id>https://www.newyorker.com/news/the-political-scene/how-far-is-the-west-prepared-to-go-for-ukraine</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.davidhaney.io/the-recruiting-competitive-advantage/"/>
         <updated>2015-01-23T12:04:37.000Z</updated>
         <summary type="html"><![CDATA[The Recruiting Competitive Advantage]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於秘密的可怕的工程師--反駁]]></title>
-        <id>https://www.davidhaney.io/on-secretly-terrible-engineers-a-rebuttal/</id>
-        <link href="https://www.davidhaney.io/on-secretly-terrible-engineers-a-rebuttal/"/>
-        <updated>2015-03-09T18:32:37.000Z</updated>
-        <summary type="html"><![CDATA[On Secretly Terrible Engineers - A Rebuttal]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>
