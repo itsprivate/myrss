@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-01T15:15:00.181Z</updated>
+    <updated>2022-04-01T15:40:07.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[威爾-史密斯和克里斯-洛克在奧斯卡頒獎典禮上。真正發生了什麼]]></title>
+        <id>https://www.newyorker.com/cartoons/blitts-kvetchbook/will-smith-and-chris-rock-at-the-oscars-what-really-happened</id>
+        <link href="https://www.newyorker.com/cartoons/blitts-kvetchbook/will-smith-and-chris-rock-at-the-oscars-what-really-happened"/>
+        <updated>2022-04-01T15:17:02.000Z</updated>
+        <summary type="html"><![CDATA[Will Smith and Chris Rock at the Oscars: What Really Happened]]></summary>
+        <author>
+            <name>Barry Blitt</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一段新的視頻顯示，一名失蹤的美國人質在塔利班的監護下請求幫助]]></title>
+        <id>https://www.newyorker.com/news/news-desk/a-new-video-shows-a-missing-american-hostage-pleading-for-help-in-taliban-custody</id>
+        <link href="https://www.newyorker.com/news/news-desk/a-new-video-shows-a-missing-american-hostage-pleading-for-help-in-taliban-custody"/>
+        <updated>2022-04-01T15:00:26.000Z</updated>
+        <summary type="html"><![CDATA[A New Video Shows a Missing American Hostage Pleading for Help in Taliban Custody]]></summary>
+        <author>
+            <name>Michael Ames</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一段新的視頻顯示，一名失蹤的美國人質在塔利班的監護下請求幫助]]></title>
         <id>https://www.newyorker.com/news/news-desk/a-new-video-shows-a-missing-american-hostage-pleading-for-help-in-taliban-custody</id>
@@ -6588,28 +6610,6 @@
         <link href="https://www.davidhaney.io/custom-asp-net-mvc-action-result-cache-attribute/"/>
         <updated>2017-01-10T09:07:15.000Z</updated>
         <summary type="html"><![CDATA[Custom ASP.NET MVC Action Result Cache Attribute]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開發團隊的互動。責任與指責]]></title>
-        <id>https://www.davidhaney.io/dev-team-interactions-accountability-blame/</id>
-        <link href="https://www.davidhaney.io/dev-team-interactions-accountability-blame/"/>
-        <updated>2017-01-20T13:20:59.000Z</updated>
-        <summary type="html"><![CDATA[Dev Team Interactions: Accountability & Blame]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開發團隊的互動。進行良好的代碼審查]]></title>
-        <id>https://www.davidhaney.io/dev-team-interactions-conducting-good-code-reviews/</id>
-        <link href="https://www.davidhaney.io/dev-team-interactions-conducting-good-code-reviews/"/>
-        <updated>2017-01-27T10:03:20.000Z</updated>
-        <summary type="html"><![CDATA[Dev Team Interactions: Conducting Good Code Reviews]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>

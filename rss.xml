@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 01 Apr 2022 15:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 15:40:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[威尔-史密斯和克里斯-洛克在奥斯卡颁奖典礼上。真正发生了什么]]></title>
+            <link>https://www.newyorker.com/cartoons/blitts-kvetchbook/will-smith-and-chris-rock-at-the-oscars-what-really-happened</link>
+            <guid>https://www.newyorker.com/cartoons/blitts-kvetchbook/will-smith-and-chris-rock-at-the-oscars-what-really-happened</guid>
+            <pubDate>Fri, 01 Apr 2022 15:17:02 GMT</pubDate>
+            <description><![CDATA[Will Smith and Chris Rock at the Oscars: What Really Happened]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一段新的视频显示，一名失踪的美国人质在塔利班的监护下请求帮助]]></title>
+            <link>https://www.newyorker.com/news/news-desk/a-new-video-shows-a-missing-american-hostage-pleading-for-help-in-taliban-custody</link>
+            <guid>https://www.newyorker.com/news/news-desk/a-new-video-shows-a-missing-american-hostage-pleading-for-help-in-taliban-custody</guid>
+            <pubDate>Fri, 01 Apr 2022 15:00:26 GMT</pubDate>
+            <description><![CDATA[A New Video Shows a Missing American Hostage Pleading for Help in Taliban Custody]]></description>
+        </item>
         <item>
             <title><![CDATA[一段新的视频显示，一名失踪的美国人质在塔利班的监护下请求帮助]]></title>
             <link>https://www.newyorker.com/news/news-desk/a-new-video-shows-a-missing-american-hostage-pleading-for-help-in-taliban-custody</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.davidhaney.io/custom-asp-net-mvc-action-result-cache-attribute/</guid>
             <pubDate>Tue, 10 Jan 2017 09:07:15 GMT</pubDate>
             <description><![CDATA[Custom ASP.NET MVC Action Result Cache Attribute]]></description>
-        </item>
-        <item>
-            <title><![CDATA[开发团队的互动。责任与指责]]></title>
-            <link>https://www.davidhaney.io/dev-team-interactions-accountability-blame/</link>
-            <guid>https://www.davidhaney.io/dev-team-interactions-accountability-blame/</guid>
-            <pubDate>Fri, 20 Jan 2017 13:20:59 GMT</pubDate>
-            <description><![CDATA[Dev Team Interactions: Accountability & Blame]]></description>
-        </item>
-        <item>
-            <title><![CDATA[开发团队的互动。进行良好的代码审查]]></title>
-            <link>https://www.davidhaney.io/dev-team-interactions-conducting-good-code-reviews/</link>
-            <guid>https://www.davidhaney.io/dev-team-interactions-conducting-good-code-reviews/</guid>
-            <pubDate>Fri, 27 Jan 2017 10:03:20 GMT</pubDate>
-            <description><![CDATA[Dev Team Interactions: Conducting Good Code Reviews]]></description>
         </item>
     </channel>
 </rss>
