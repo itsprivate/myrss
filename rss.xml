@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 01 Apr 2022 16:53:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 18:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[历史人物的早期网络喧嚣]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/early-internet-hustles-of-historical-figures</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/early-internet-hustles-of-historical-figures</guid>
+            <pubDate>Fri, 01 Apr 2022 18:00:00 GMT</pubDate>
+            <description><![CDATA[Early Internet Hustles of Historical Figures]]></description>
+        </item>
+        <item>
+            <title><![CDATA[<em>大西洋</em>日报。多少次COVID拍摄才算 "足够"？]]></title>
+            <link>https://www.theatlantic.com/newsletters/archive/2022/03/how-many-covid-shots-second-booster/629451/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/newsletters/archive/2022/03/how-many-covid-shots-second-booster/629451/?utm_source=feed</guid>
+            <pubDate>Fri, 01 Apr 2022 17:45:09 GMT</pubDate>
+            <description><![CDATA[<em>The Atlantic</em> Daily: How Many COVID Shots Will be ‘Enough’?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[什么是战时的有效利他主义？]]></title>
+            <link>https://www.theatlantic.com/family/archive/2022/04/help-ukraine-donations-effective-altruism/629453/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/family/archive/2022/04/help-ukraine-donations-effective-altruism/629453/?utm_source=feed</guid>
+            <pubDate>Fri, 01 Apr 2022 17:56:56 GMT</pubDate>
+            <description><![CDATA[What Is Effective Altruism During Wartime?]]></description>
+        </item>
         <item>
             <title><![CDATA[斯坦顿岛的亚马逊工人投票决定成立工会]]></title>
             <link>https://www.nytimes.com/2022/04/01/technology/amazon-union-staten-island.html</link>
@@ -4192,27 +4213,6 @@
             <guid>https://www.davidhaney.io/diversity-is-really-freaking-hard/</guid>
             <pubDate>Thu, 24 Sep 2015 11:23:38 GMT</pubDate>
             <description><![CDATA[Diversity Is Really Freaking Hard]]></description>
-        </item>
-        <item>
-            <title><![CDATA[开发者报酬。堆栈溢出并没有堆栈排名]]></title>
-            <link>https://www.davidhaney.io/developer-compensation-stack-overflow-doesnt-stack-rank/</link>
-            <guid>https://www.davidhaney.io/developer-compensation-stack-overflow-doesnt-stack-rank/</guid>
-            <pubDate>Fri, 26 Feb 2016 14:05:41 GMT</pubDate>
-            <description><![CDATA[Developer Compensation: Stack Overflow Doesn't Stack Rank]]></description>
-        </item>
-        <item>
-            <title><![CDATA[故宫博物院和左手掌。我们是否忘记了如何编程？]]></title>
-            <link>https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/</link>
-            <guid>https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/</guid>
-            <pubDate>Wed, 23 Mar 2016 18:01:52 GMT</pubDate>
-            <description><![CDATA[NPM & left-pad: Have We Forgotten How To Program?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[让我们来谈谈摇滚明星和自负的问题]]></title>
-            <link>https://www.davidhaney.io/lets-talk-about-rock-stars-egos/</link>
-            <guid>https://www.davidhaney.io/lets-talk-about-rock-stars-egos/</guid>
-            <pubDate>Fri, 17 Jun 2016 17:02:13 GMT</pubDate>
-            <description><![CDATA[Let's Talk About Rock Stars & Egos]]></description>
         </item>
     </channel>
 </rss>

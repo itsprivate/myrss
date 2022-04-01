@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-01T16:53:43.582Z</updated>
+    <updated>2022-04-01T18:16:38.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[历史人物的早期网络喧嚣]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/early-internet-hustles-of-historical-figures</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/early-internet-hustles-of-historical-figures"/>
+        <updated>2022-04-01T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Early Internet Hustles of Historical Figures]]></summary>
+        <author>
+            <name>Charlie Dektar, Kathleen Radigan</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<em>大西洋</em>日报。多少次COVID拍摄才算 "足够"？]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/03/how-many-covid-shots-second-booster/629451/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/how-many-covid-shots-second-booster/629451/?utm_source=feed"/>
+        <updated>2022-04-01T17:45:09.000Z</updated>
+        <summary type="html"><![CDATA[<em>The Atlantic</em> Daily: How Many COVID Shots Will be ‘Enough’?]]></summary>
+        <author>
+            <name>Katherine J. Wu</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什么是战时的有效利他主义？]]></title>
+        <id>https://www.theatlantic.com/family/archive/2022/04/help-ukraine-donations-effective-altruism/629453/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/family/archive/2022/04/help-ukraine-donations-effective-altruism/629453/?utm_source=feed"/>
+        <updated>2022-04-01T17:56:56.000Z</updated>
+        <summary type="html"><![CDATA[What Is Effective Altruism During Wartime?]]></summary>
+        <author>
+            <name>Joe Pinsker</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[斯坦顿岛的亚马逊工人投票决定成立工会]]></title>
         <id>https://www.nytimes.com/2022/04/01/technology/amazon-union-staten-island.html</id>
@@ -6577,39 +6610,6 @@
         <link href="https://www.davidhaney.io/diversity-is-really-freaking-hard/"/>
         <updated>2015-09-24T11:23:38.000Z</updated>
         <summary type="html"><![CDATA[Diversity Is Really Freaking Hard]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开发者报酬。堆栈溢出并没有堆栈排名]]></title>
-        <id>https://www.davidhaney.io/developer-compensation-stack-overflow-doesnt-stack-rank/</id>
-        <link href="https://www.davidhaney.io/developer-compensation-stack-overflow-doesnt-stack-rank/"/>
-        <updated>2016-02-26T14:05:41.000Z</updated>
-        <summary type="html"><![CDATA[Developer Compensation: Stack Overflow Doesn't Stack Rank]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[故宫博物院和左手掌。我们是否忘记了如何编程？]]></title>
-        <id>https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/</id>
-        <link href="https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/"/>
-        <updated>2016-03-23T18:01:52.000Z</updated>
-        <summary type="html"><![CDATA[NPM & left-pad: Have We Forgotten How To Program?]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[让我们来谈谈摇滚明星和自负的问题]]></title>
-        <id>https://www.davidhaney.io/lets-talk-about-rock-stars-egos/</id>
-        <link href="https://www.davidhaney.io/lets-talk-about-rock-stars-egos/"/>
-        <updated>2016-06-17T17:02:13.000Z</updated>
-        <summary type="html"><![CDATA[Let's Talk About Rock Stars & Egos]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>
