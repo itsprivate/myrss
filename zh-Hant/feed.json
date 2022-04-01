@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/dispatch/the-foreign-students-displaced-by-war",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/dispatch/the-foreign-students-displaced-by-war",
+            "title": "因戰爭而流離失所的外國學生",
+            "summary": "The Foreign Students Displaced by War",
+            "date_modified": "2022-04-01T18:13:53.000Z",
+            "author": {
+                "name": "Alexis Okeowo",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/daily-comment/israel-and-the-triangular-crisis-of-ukraine-iran-and-palestine",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/daily-comment/israel-and-the-triangular-crisis-of-ukraine-iran-and-palestine",
+            "title": "以色列與烏克蘭、伊朗和巴勒斯坦的三角危機",
+            "summary": "Israel and the Triangular Crisis of Ukraine, Iran, and Palestine",
+            "date_modified": "2022-04-01T18:29:59.000Z",
+            "author": {
+                "name": "Bernard Avishai",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/humor/daily-shouts/early-internet-hustles-of-historical-figures",
             "content_html": "",
             "url": "https://www.newyorker.com/humor/daily-shouts/early-internet-hustles-of-historical-figures",
@@ -7181,30 +7205,6 @@
             "title": "開發人員不應測量兩次，切割一次",
             "summary": "Developers Shouldn't Measure Twice, Cut Once",
             "date_modified": "2015-04-15T16:25:02.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/developer-turned-manager/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/developer-turned-manager/",
-            "title": "開發人員轉為經理",
-            "summary": "Developer Turned Manager",
-            "date_modified": "2015-08-03T14:18:02.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/diversity-is-really-freaking-hard/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/diversity-is-really-freaking-hard/",
-            "title": "多樣性真的很難得",
-            "summary": "Diversity Is Really Freaking Hard",
-            "date_modified": "2015-09-24T11:23:38.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"

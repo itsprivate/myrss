@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 01 Apr 2022 18:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 18:41:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[因战争而流离失所的外国学生]]></title>
+            <link>https://www.newyorker.com/news/dispatch/the-foreign-students-displaced-by-war</link>
+            <guid>https://www.newyorker.com/news/dispatch/the-foreign-students-displaced-by-war</guid>
+            <pubDate>Fri, 01 Apr 2022 18:13:53 GMT</pubDate>
+            <description><![CDATA[The Foreign Students Displaced by War]]></description>
+        </item>
+        <item>
+            <title><![CDATA[以色列与乌克兰、伊朗和巴勒斯坦的三角危机]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/israel-and-the-triangular-crisis-of-ukraine-iran-and-palestine</link>
+            <guid>https://www.newyorker.com/news/daily-comment/israel-and-the-triangular-crisis-of-ukraine-iran-and-palestine</guid>
+            <pubDate>Fri, 01 Apr 2022 18:29:59 GMT</pubDate>
+            <description><![CDATA[Israel and the Triangular Crisis of Ukraine, Iran, and Palestine]]></description>
+        </item>
         <item>
             <title><![CDATA[历史人物的早期网络喧嚣]]></title>
             <link>https://www.newyorker.com/humor/daily-shouts/early-internet-hustles-of-historical-figures</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.davidhaney.io/developers-shouldnt-measure-twice-cut-once/</guid>
             <pubDate>Wed, 15 Apr 2015 16:25:02 GMT</pubDate>
             <description><![CDATA[Developers Shouldn't Measure Twice, Cut Once]]></description>
-        </item>
-        <item>
-            <title><![CDATA[开发人员转为经理]]></title>
-            <link>https://www.davidhaney.io/developer-turned-manager/</link>
-            <guid>https://www.davidhaney.io/developer-turned-manager/</guid>
-            <pubDate>Mon, 03 Aug 2015 14:18:02 GMT</pubDate>
-            <description><![CDATA[Developer Turned Manager]]></description>
-        </item>
-        <item>
-            <title><![CDATA[多样性真的很难得]]></title>
-            <link>https://www.davidhaney.io/diversity-is-really-freaking-hard/</link>
-            <guid>https://www.davidhaney.io/diversity-is-really-freaking-hard/</guid>
-            <pubDate>Thu, 24 Sep 2015 11:23:38 GMT</pubDate>
-            <description><![CDATA[Diversity Is Really Freaking Hard]]></description>
         </item>
     </channel>
 </rss>
