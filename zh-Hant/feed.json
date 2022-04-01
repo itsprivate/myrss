@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/newsletter/the-daily/a-journalist-returns-to-kyiv",
+            "content_html": "",
+            "url": "https://www.newyorker.com/newsletter/the-daily/a-journalist-returns-to-kyiv",
+            "title": "一名記者返回基輔",
+            "summary": "A Journalist Returns to Kyiv",
+            "date_modified": "2022-04-01T20:00:00.000Z",
+            "author": {
+                "name": "The New Yorker",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour/investigating-january-6th",
+            "content_html": "",
+            "url": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour/investigating-january-6th",
+            "title": "調查1月6日",
+            "summary": "Investigating January 6th",
+            "date_modified": "2022-04-01T20:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/international/archive/2022/04/photos-refugees-escape-from-ukraine-to-moldova/629403/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/international/archive/2022/04/photos-refugees-escape-from-ukraine-to-moldova/629403/?utm_source=feed",
@@ -7181,30 +7205,6 @@
             "title": "工作頭銜的問題",
             "summary": "The Trouble With Job Titles",
             "date_modified": "2014-10-17T18:41:14.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/on-credentialism-in-software-development/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/on-credentialism-in-software-development/",
-            "title": "論軟件開發中的資歷主義",
-            "summary": "On Credentialism In Software Development",
-            "date_modified": "2014-12-29T16:00:27.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/the-recruiting-competitive-advantage/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/the-recruiting-competitive-advantage/",
-            "title": "招聘的競爭優勢",
-            "summary": "The Recruiting Competitive Advantage",
-            "date_modified": "2015-01-23T12:04:37.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"

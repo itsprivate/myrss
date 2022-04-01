@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 01 Apr 2022 19:52:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 20:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一名记者返回基辅]]></title>
+            <link>https://www.newyorker.com/newsletter/the-daily/a-journalist-returns-to-kyiv</link>
+            <guid>https://www.newyorker.com/newsletter/the-daily/a-journalist-returns-to-kyiv</guid>
+            <pubDate>Fri, 01 Apr 2022 20:00:00 GMT</pubDate>
+            <description><![CDATA[A Journalist Returns to Kyiv]]></description>
+        </item>
+        <item>
+            <title><![CDATA[调查1月6日]]></title>
+            <link>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/investigating-january-6th</link>
+            <guid>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/investigating-january-6th</guid>
+            <pubDate>Fri, 01 Apr 2022 20:00:00 GMT</pubDate>
+            <description><![CDATA[Investigating January 6th]]></description>
+        </item>
         <item>
             <title><![CDATA[逃离乌克兰]]></title>
             <link>https://www.theatlantic.com/international/archive/2022/04/photos-refugees-escape-from-ukraine-to-moldova/629403/?utm_source=feed</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.davidhaney.io/the-trouble-with-job-titles/</guid>
             <pubDate>Fri, 17 Oct 2014 18:41:14 GMT</pubDate>
             <description><![CDATA[The Trouble With Job Titles]]></description>
-        </item>
-        <item>
-            <title><![CDATA[论软件开发中的资历主义]]></title>
-            <link>https://www.davidhaney.io/on-credentialism-in-software-development/</link>
-            <guid>https://www.davidhaney.io/on-credentialism-in-software-development/</guid>
-            <pubDate>Mon, 29 Dec 2014 16:00:27 GMT</pubDate>
-            <description><![CDATA[On Credentialism In Software Development]]></description>
-        </item>
-        <item>
-            <title><![CDATA[招聘的竞争优势]]></title>
-            <link>https://www.davidhaney.io/the-recruiting-competitive-advantage/</link>
-            <guid>https://www.davidhaney.io/the-recruiting-competitive-advantage/</guid>
-            <pubDate>Fri, 23 Jan 2015 12:04:37 GMT</pubDate>
-            <description><![CDATA[The Recruiting Competitive Advantage]]></description>
         </item>
     </channel>
 </rss>
