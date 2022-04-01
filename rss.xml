@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 01 Apr 2022 05:38:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 09:32:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[当战争结束时，家庭分离仍然存在]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/war-family-separation-taiwan-ukraine/629432/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/war-family-separation-taiwan-ukraine/629432/?utm_source=feed</guid>
+            <pubDate>Fri, 01 Apr 2022 09:01:56 GMT</pubDate>
+            <description><![CDATA[When War Ends, Family Separation Remains]]></description>
+        </item>
         <item>
             <title><![CDATA[低垂的果实的争论。模型和预测]]></title>
             <link>https://astralcodexten.substack.com/p/the-low-hanging-fruit-argument-models</link>
@@ -4206,13 +4213,6 @@
             <guid>https://austinkleon.substack.com/p/trying-not-to-spiral-out</guid>
             <pubDate>Fri, 04 Feb 2022 13:00:36 GMT</pubDate>
             <description><![CDATA[Trying not to spiral out]]></description>
-        </item>
-        <item>
-            <title><![CDATA[页面上的思考]]></title>
-            <link>https://austinkleon.substack.com/p/thinking-on-the-page</link>
-            <guid>https://austinkleon.substack.com/p/thinking-on-the-page</guid>
-            <pubDate>Tue, 08 Feb 2022 13:00:46 GMT</pubDate>
-            <description><![CDATA[Thinking on the page]]></description>
         </item>
     </channel>
 </rss>

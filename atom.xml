@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-01T05:38:07.954Z</updated>
+    <updated>2022-04-01T09:32:35.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[当战争结束时，家庭分离仍然存在]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/war-family-separation-taiwan-ukraine/629432/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/war-family-separation-taiwan-ukraine/629432/?utm_source=feed"/>
+        <updated>2022-04-01T09:01:56.000Z</updated>
+        <summary type="html"><![CDATA[When War Ends, Family Separation Remains]]></summary>
+        <author>
+            <name>Zhuqing Li</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[低垂的果实的争论。模型和预测]]></title>
         <id>https://astralcodexten.substack.com/p/the-low-hanging-fruit-argument-models</id>
@@ -6599,17 +6610,6 @@
         <link href="https://austinkleon.substack.com/p/trying-not-to-spiral-out"/>
         <updated>2022-02-04T13:00:36.000Z</updated>
         <summary type="html"><![CDATA[Trying not to spiral out]]></summary>
-        <author>
-            <name>Austin Kleon</name>
-            <uri>https://austinkleon.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[页面上的思考]]></title>
-        <id>https://austinkleon.substack.com/p/thinking-on-the-page</id>
-        <link href="https://austinkleon.substack.com/p/thinking-on-the-page"/>
-        <updated>2022-02-08T13:00:46.000Z</updated>
-        <summary type="html"><![CDATA[Thinking on the page]]></summary>
         <author>
             <name>Austin Kleon</name>
             <uri>https://austinkleon.substack.com/feed</uri>
