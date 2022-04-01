@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/01/technology/amazon-labor-practices.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/01/technology/amazon-labor-practices.html",
+            "title": "眾議院委員會調查亞馬遜的勞工行為",
+            "summary": "House Committee Investigating Amazon Labor Practices",
+            "date_modified": "2022-04-01T13:00:08.000Z",
+            "author": {
+                "name": "Karen Weise",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://austinkleon.substack.com/p/winning-time",
             "content_html": "",
             "url": "https://austinkleon.substack.com/p/winning-time",
@@ -7193,18 +7205,6 @@
             "title": ".NET核心Azure函數教程",
             "summary": ".NET Core Azure Functions Tutorial",
             "date_modified": "2018-11-19T05:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/sabbatical-begins/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/sabbatical-begins/",
-            "title": "安息日開始了",
-            "summary": "Sabbatical Begins",
-            "date_modified": "2019-08-31T05:00:00.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"

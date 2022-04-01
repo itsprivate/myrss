@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-01T12:21:22.367Z</updated>
+    <updated>2022-04-01T13:34:12.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[眾議院委員會調查亞馬遜的勞工行為]]></title>
+        <id>https://www.nytimes.com/2022/04/01/technology/amazon-labor-practices.html</id>
+        <link href="https://www.nytimes.com/2022/04/01/technology/amazon-labor-practices.html"/>
+        <updated>2022-04-01T13:00:08.000Z</updated>
+        <summary type="html"><![CDATA[House Committee Investigating Amazon Labor Practices]]></summary>
+        <author>
+            <name>Karen Weise</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[贏家時間]]></title>
         <id>https://austinkleon.substack.com/p/winning-time</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.davidhaney.io/net-core-azure-functions-tutorial/"/>
         <updated>2018-11-19T05:00:00.000Z</updated>
         <summary type="html"><![CDATA[.NET Core Azure Functions Tutorial]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安息日開始了]]></title>
-        <id>https://www.davidhaney.io/sabbatical-begins/</id>
-        <link href="https://www.davidhaney.io/sabbatical-begins/"/>
-        <updated>2019-08-31T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sabbatical Begins]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>
