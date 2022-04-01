@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-01T09:32:35.906Z</updated>
+    <updated>2022-04-01T10:14:37.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[謝爾曼-阿萊克西讀雷蒙德-卡佛]]></title>
+        <id>https://www.newyorker.com/podcast/fiction/sherman-alexie-reads-raymond-carver</id>
+        <link href="https://www.newyorker.com/podcast/fiction/sherman-alexie-reads-raymond-carver"/>
+        <updated>2022-04-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sherman Alexie Reads Raymond Carver]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[漫畫家為悲痛留出空間]]></title>
+        <id>https://www.newyorker.com/culture/culture-desk/a-cartoonist-makes-space-for-grief</id>
+        <link href="https://www.newyorker.com/culture/culture-desk/a-cartoonist-makes-space-for-grief"/>
+        <updated>2022-04-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Cartoonist Makes Space for Grief]]></summary>
+        <author>
+            <name>Françoise Mouly, Genevieve Bormes</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重寫艾米麗-聖-約翰-曼德爾]]></title>
+        <id>https://www.newyorker.com/culture/persons-of-interest/the-rewriting-of-emily-st-john-mandel</id>
+        <link href="https://www.newyorker.com/culture/persons-of-interest/the-rewriting-of-emily-st-john-mandel"/>
+        <updated>2022-04-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Rewriting of Emily St. John Mandel]]></summary>
+        <author>
+            <name>Katy Waldman</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[當戰爭結束時，家庭分離仍然存在]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/04/war-family-separation-taiwan-ukraine/629432/?utm_source=feed</id>
@@ -6577,39 +6610,6 @@
         <link href="https://austinkleon.substack.com/p/are-you-helping"/>
         <updated>2022-01-28T13:00:41.000Z</updated>
         <summary type="html"><![CDATA[Are you helping?]]></summary>
-        <author>
-            <name>Austin Kleon</name>
-            <uri>https://austinkleon.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深入研究你喜歡的東西!]]></title>
-        <id>https://austinkleon.substack.com/p/study-something-you-love-in-depth</id>
-        <link href="https://austinkleon.substack.com/p/study-something-you-love-in-depth"/>
-        <updated>2022-02-01T13:00:46.000Z</updated>
-        <summary type="html"><![CDATA[Study something you love in depth!]]></summary>
-        <author>
-            <name>Austin Kleon</name>
-            <uri>https://austinkleon.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每一天都是土撥鼠日]]></title>
-        <id>https://austinkleon.substack.com/p/every-day-is-groundhog-day-75c</id>
-        <link href="https://austinkleon.substack.com/p/every-day-is-groundhog-day-75c"/>
-        <updated>2022-02-02T13:05:01.000Z</updated>
-        <summary type="html"><![CDATA[Every day is Groundhog Day]]></summary>
-        <author>
-            <name>Austin Kleon</name>
-            <uri>https://austinkleon.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[試圖避免螺旋式下跌]]></title>
-        <id>https://austinkleon.substack.com/p/trying-not-to-spiral-out</id>
-        <link href="https://austinkleon.substack.com/p/trying-not-to-spiral-out"/>
-        <updated>2022-02-04T13:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Trying not to spiral out]]></summary>
         <author>
             <name>Austin Kleon</name>
             <uri>https://austinkleon.substack.com/feed</uri>

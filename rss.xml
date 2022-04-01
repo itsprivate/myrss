@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 01 Apr 2022 09:32:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 10:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[谢尔曼-阿莱克西读雷蒙德-卡佛]]></title>
+            <link>https://www.newyorker.com/podcast/fiction/sherman-alexie-reads-raymond-carver</link>
+            <guid>https://www.newyorker.com/podcast/fiction/sherman-alexie-reads-raymond-carver</guid>
+            <pubDate>Fri, 01 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Sherman Alexie Reads Raymond Carver]]></description>
+        </item>
+        <item>
+            <title><![CDATA[漫画家为悲痛留出空间]]></title>
+            <link>https://www.newyorker.com/culture/culture-desk/a-cartoonist-makes-space-for-grief</link>
+            <guid>https://www.newyorker.com/culture/culture-desk/a-cartoonist-makes-space-for-grief</guid>
+            <pubDate>Fri, 01 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[A Cartoonist Makes Space for Grief]]></description>
+        </item>
+        <item>
+            <title><![CDATA[重写艾米丽-圣-约翰-曼德尔]]></title>
+            <link>https://www.newyorker.com/culture/persons-of-interest/the-rewriting-of-emily-st-john-mandel</link>
+            <guid>https://www.newyorker.com/culture/persons-of-interest/the-rewriting-of-emily-st-john-mandel</guid>
+            <pubDate>Fri, 01 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Rewriting of Emily St. John Mandel]]></description>
+        </item>
         <item>
             <title><![CDATA[当战争结束时，家庭分离仍然存在]]></title>
             <link>https://www.theatlantic.com/ideas/archive/2022/04/war-family-separation-taiwan-ukraine/629432/?utm_source=feed</link>
@@ -4192,27 +4213,6 @@
             <guid>https://austinkleon.substack.com/p/are-you-helping</guid>
             <pubDate>Fri, 28 Jan 2022 13:00:41 GMT</pubDate>
             <description><![CDATA[Are you helping?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[深入研究你喜欢的东西!]]></title>
-            <link>https://austinkleon.substack.com/p/study-something-you-love-in-depth</link>
-            <guid>https://austinkleon.substack.com/p/study-something-you-love-in-depth</guid>
-            <pubDate>Tue, 01 Feb 2022 13:00:46 GMT</pubDate>
-            <description><![CDATA[Study something you love in depth!]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每一天都是土拨鼠日]]></title>
-            <link>https://austinkleon.substack.com/p/every-day-is-groundhog-day-75c</link>
-            <guid>https://austinkleon.substack.com/p/every-day-is-groundhog-day-75c</guid>
-            <pubDate>Wed, 02 Feb 2022 13:05:01 GMT</pubDate>
-            <description><![CDATA[Every day is Groundhog Day]]></description>
-        </item>
-        <item>
-            <title><![CDATA[试图避免螺旋式下跌]]></title>
-            <link>https://austinkleon.substack.com/p/trying-not-to-spiral-out</link>
-            <guid>https://austinkleon.substack.com/p/trying-not-to-spiral-out</guid>
-            <pubDate>Fri, 04 Feb 2022 13:00:36 GMT</pubDate>
-            <description><![CDATA[Trying not to spiral out]]></description>
         </item>
     </channel>
 </rss>

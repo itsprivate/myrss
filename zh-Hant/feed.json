@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/podcast/fiction/sherman-alexie-reads-raymond-carver",
+            "content_html": "",
+            "url": "https://www.newyorker.com/podcast/fiction/sherman-alexie-reads-raymond-carver",
+            "title": "謝爾曼-阿萊克西讀雷蒙德-卡佛",
+            "summary": "Sherman Alexie Reads Raymond Carver",
+            "date_modified": "2022-04-01T10:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/culture/culture-desk/a-cartoonist-makes-space-for-grief",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/culture-desk/a-cartoonist-makes-space-for-grief",
+            "title": "漫畫家為悲痛留出空間",
+            "summary": "A Cartoonist Makes Space for Grief",
+            "date_modified": "2022-04-01T10:00:00.000Z",
+            "author": {
+                "name": "Françoise Mouly, Genevieve Bormes",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/culture/persons-of-interest/the-rewriting-of-emily-st-john-mandel",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/persons-of-interest/the-rewriting-of-emily-st-john-mandel",
+            "title": "重寫艾米麗-聖-約翰-曼德爾",
+            "summary": "The Rewriting of Emily St. John Mandel",
+            "date_modified": "2022-04-01T10:00:00.000Z",
+            "author": {
+                "name": "Katy Waldman",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/ideas/archive/2022/04/war-family-separation-taiwan-ukraine/629432/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/ideas/archive/2022/04/war-family-separation-taiwan-ukraine/629432/?utm_source=feed",
@@ -7169,42 +7205,6 @@
             "title": "你在幫忙嗎？",
             "summary": "Are you helping?",
             "date_modified": "2022-01-28T13:00:41.000Z",
-            "author": {
-                "name": "Austin Kleon",
-                "url": "https://austinkleon.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://austinkleon.substack.com/p/study-something-you-love-in-depth",
-            "content_html": "",
-            "url": "https://austinkleon.substack.com/p/study-something-you-love-in-depth",
-            "title": "深入研究你喜歡的東西!",
-            "summary": "Study something you love in depth!",
-            "date_modified": "2022-02-01T13:00:46.000Z",
-            "author": {
-                "name": "Austin Kleon",
-                "url": "https://austinkleon.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://austinkleon.substack.com/p/every-day-is-groundhog-day-75c",
-            "content_html": "",
-            "url": "https://austinkleon.substack.com/p/every-day-is-groundhog-day-75c",
-            "title": "每一天都是土撥鼠日",
-            "summary": "Every day is Groundhog Day",
-            "date_modified": "2022-02-02T13:05:01.000Z",
-            "author": {
-                "name": "Austin Kleon",
-                "url": "https://austinkleon.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://austinkleon.substack.com/p/trying-not-to-spiral-out",
-            "content_html": "",
-            "url": "https://austinkleon.substack.com/p/trying-not-to-spiral-out",
-            "title": "試圖避免螺旋式下跌",
-            "summary": "Trying not to spiral out",
-            "date_modified": "2022-02-04T13:00:36.000Z",
             "author": {
                 "name": "Austin Kleon",
                 "url": "https://austinkleon.substack.com/feed"
