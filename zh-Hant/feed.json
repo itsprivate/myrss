@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/daily-comment/a-better-idea-than-releasing-oil-from-the-strategic-reserve",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/daily-comment/a-better-idea-than-releasing-oil-from-the-strategic-reserve",
+            "title": "一個比從戰略儲備中釋放石油更好的想法",
+            "summary": "A Better Idea Than Releasing Oil from the Strategic Reserve",
+            "date_modified": "2022-04-01T00:12:29.000Z",
+            "author": {
+                "name": "Elizabeth Kolbert",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/culture/infinite-scroll/the-millennial-aesthetic-comes-for-your-vacuum-cleaner",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/infinite-scroll/the-millennial-aesthetic-comes-for-your-vacuum-cleaner",
+            "title": "千禧年的審美為你的吸塵器而來",
+            "summary": "The Millennial Aesthetic Comes for Your Vacuum Cleaner",
+            "date_modified": "2022-04-01T00:29:39.000Z",
+            "author": {
+                "name": "Kyle Chayka",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/culture/the-front-row/apollo-10-12-reviewed-richard-linklater-unites-inner-and-outer-life",
             "content_html": "",
             "url": "https://www.newyorker.com/culture/the-front-row/apollo-10-12-reviewed-richard-linklater-unites-inner-and-outer-life",
@@ -7181,30 +7205,6 @@
             "title": "模擬Ctrl-Z",
             "summary": "Analog Ctrl-Z",
             "date_modified": "2022-02-22T13:00:36.000Z",
-            "author": {
-                "name": "Austin Kleon",
-                "url": "https://austinkleon.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://austinkleon.substack.com/p/intentionally-spiraling-out",
-            "content_html": "",
-            "url": "https://austinkleon.substack.com/p/intentionally-spiraling-out",
-            "title": "故意螺旋式上升",
-            "summary": "Intentionally spiraling out",
-            "date_modified": "2022-02-25T13:00:39.000Z",
-            "author": {
-                "name": "Austin Kleon",
-                "url": "https://austinkleon.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://austinkleon.substack.com/p/how-i-prepare-for-an-interview",
-            "content_html": "",
-            "url": "https://austinkleon.substack.com/p/how-i-prepare-for-an-interview",
-            "title": "我是如何準備面試的",
-            "summary": "How I prepare for an interview",
-            "date_modified": "2022-03-01T13:00:44.000Z",
             "author": {
                 "name": "Austin Kleon",
                 "url": "https://austinkleon.substack.com/feed"

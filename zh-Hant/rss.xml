@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 31 Mar 2022 23:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 00:48:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一個比從戰略儲備中釋放石油更好的想法]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/a-better-idea-than-releasing-oil-from-the-strategic-reserve</link>
+            <guid>https://www.newyorker.com/news/daily-comment/a-better-idea-than-releasing-oil-from-the-strategic-reserve</guid>
+            <pubDate>Fri, 01 Apr 2022 00:12:29 GMT</pubDate>
+            <description><![CDATA[A Better Idea Than Releasing Oil from the Strategic Reserve]]></description>
+        </item>
+        <item>
+            <title><![CDATA[千禧年的審美為你的吸塵器而來]]></title>
+            <link>https://www.newyorker.com/culture/infinite-scroll/the-millennial-aesthetic-comes-for-your-vacuum-cleaner</link>
+            <guid>https://www.newyorker.com/culture/infinite-scroll/the-millennial-aesthetic-comes-for-your-vacuum-cleaner</guid>
+            <pubDate>Fri, 01 Apr 2022 00:29:39 GMT</pubDate>
+            <description><![CDATA[The Millennial Aesthetic Comes for Your Vacuum Cleaner]]></description>
+        </item>
         <item>
             <title><![CDATA["阿波羅10號半"，評論。理查德-林克萊特將內在和外在生活結合起來]]></title>
             <link>https://www.newyorker.com/culture/the-front-row/apollo-10-12-reviewed-richard-linklater-unites-inner-and-outer-life</link>
@@ -4199,20 +4213,6 @@
             <guid>https://austinkleon.substack.com/p/analog-ctrl-z</guid>
             <pubDate>Tue, 22 Feb 2022 13:00:36 GMT</pubDate>
             <description><![CDATA[Analog Ctrl-Z]]></description>
-        </item>
-        <item>
-            <title><![CDATA[故意螺旋式上升]]></title>
-            <link>https://austinkleon.substack.com/p/intentionally-spiraling-out</link>
-            <guid>https://austinkleon.substack.com/p/intentionally-spiraling-out</guid>
-            <pubDate>Fri, 25 Feb 2022 13:00:39 GMT</pubDate>
-            <description><![CDATA[Intentionally spiraling out]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我是如何準備面試的]]></title>
-            <link>https://austinkleon.substack.com/p/how-i-prepare-for-an-interview</link>
-            <guid>https://austinkleon.substack.com/p/how-i-prepare-for-an-interview</guid>
-            <pubDate>Tue, 01 Mar 2022 13:00:44 GMT</pubDate>
-            <description><![CDATA[How I prepare for an interview]]></description>
         </item>
     </channel>
 </rss>
