@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/podcast/politics-and-more/an-ivy-league-student-accused-of-lying-about-her-past",
+            "content_html": "",
+            "url": "https://www.newyorker.com/podcast/politics-and-more/an-ivy-league-student-accused-of-lying-about-her-past",
+            "title": "一个常春藤盟校的学生被指控对她的过去撒谎",
+            "summary": "An Ivy League Student Accused of Lying About Her Past",
+            "date_modified": "2022-04-01T23:23:48.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/humor/borowitz-report/fauci-testifies-that-legalizing-marijuana-would-help-people-who-have-to-listen-to-ted-cruz-talk",
             "content_html": "",
             "url": "https://www.newyorker.com/humor/borowitz-report/fauci-testifies-that-legalizing-marijuana-would-help-people-who-have-to-listen-to-ted-cruz-talk",
@@ -7193,18 +7205,6 @@
             "title": "是否加入Node.js？",
             "summary": "To Node.js Or Not To Node.js",
             "date_modified": "2014-03-24T16:41:25.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/how-to-guarantee-dev-team-failure/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/how-to-guarantee-dev-team-failure/",
-            "title": "如何保证开发团队的失败",
-            "summary": "How To Guarantee Dev Team Failure",
-            "date_modified": "2014-05-07T13:27:35.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"
