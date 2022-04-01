@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 01 Apr 2022 10:38:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 11:31:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一棵植物的整个生命取决于一个神秘的同伙]]></title>
+            <link>https://www.theatlantic.com/science/archive/2022/04/zamia-pseudoparasitica-panamanian-plant-seed-dispersal/629444/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/science/archive/2022/04/zamia-pseudoparasitica-panamanian-plant-seed-dispersal/629444/?utm_source=feed</guid>
+            <pubDate>Fri, 01 Apr 2022 11:16:54 GMT</pubDate>
+            <description><![CDATA[A Plant’s Whole Life Depended on a Mystery Accomplice]]></description>
+        </item>
         <item>
             <title><![CDATA[埃内斯托浪漫的巴斯克式食品]]></title>
             <link>https://www.newyorker.com/magazine/2022/04/11/the-romantic-basque-leaning-food-of-ernestos</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.davidhaney.io/sabbatical-week-one/</guid>
             <pubDate>Sun, 08 Sep 2019 05:00:00 GMT</pubDate>
             <description><![CDATA[Sabbatical Week One]]></description>
-        </item>
-        <item>
-            <title><![CDATA[.NET Core MVC - 如何访问appsettings.json]]></title>
-            <link>https://www.davidhaney.io/net-core-mvc-access-appsettings-json/</link>
-            <guid>https://www.davidhaney.io/net-core-mvc-access-appsettings-json/</guid>
-            <pubDate>Mon, 09 Nov 2020 05:00:00 GMT</pubDate>
-            <description><![CDATA[.NET Core MVC - How to Access appsettings.json]]></description>
         </item>
     </channel>
 </rss>

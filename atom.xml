@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-01T10:38:23.914Z</updated>
+    <updated>2022-04-01T11:31:38.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一棵植物的整个生命取决于一个神秘的同伙]]></title>
+        <id>https://www.theatlantic.com/science/archive/2022/04/zamia-pseudoparasitica-panamanian-plant-seed-dispersal/629444/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/science/archive/2022/04/zamia-pseudoparasitica-panamanian-plant-seed-dispersal/629444/?utm_source=feed"/>
+        <updated>2022-04-01T11:16:54.000Z</updated>
+        <summary type="html"><![CDATA[A Plant’s Whole Life Depended on a Mystery Accomplice]]></summary>
+        <author>
+            <name>Katherine J. Wu</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[埃内斯托浪漫的巴斯克式食品]]></title>
         <id>https://www.newyorker.com/magazine/2022/04/11/the-romantic-basque-leaning-food-of-ernestos</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.davidhaney.io/sabbatical-week-one/"/>
         <updated>2019-09-08T05:00:00.000Z</updated>
         <summary type="html"><![CDATA[Sabbatical Week One]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.NET Core MVC - 如何访问appsettings.json]]></title>
-        <id>https://www.davidhaney.io/net-core-mvc-access-appsettings-json/</id>
-        <link href="https://www.davidhaney.io/net-core-mvc-access-appsettings-json/"/>
-        <updated>2020-11-09T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[.NET Core MVC - How to Access appsettings.json]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>
