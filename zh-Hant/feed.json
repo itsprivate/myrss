@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/podcasts/archive/2022/04/peak-scammer-tvs-blurred-lines/629437/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/podcasts/archive/2022/04/peak-scammer-tvs-blurred-lines/629437/?utm_source=feed",
+            "title": "為什麼<em>《輟學》</em>能在其他詐騙節目中獲得成功？",
+            "summary": "Why <em>The Dropout</em> Succeeds Where Other Scammer Shows Fall Short",
+            "date_modified": "2022-04-02T11:01:56.000Z",
+            "author": {
+                "name": "Shirley Li",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/politics/archive/2022/04/republicans-divided-us-involvement-ukraine/629458/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/politics/archive/2022/04/republicans-divided-us-involvement-ukraine/629458/?utm_source=feed",
+            "title": "普京是壞的，但是 \"共和黨人",
+            "summary": "The “Putin Is Bad, But” Republicans",
+            "date_modified": "2022-04-02T11:01:56.000Z",
+            "author": {
+                "name": "Ben Jacobs",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://dkb.io/post/market-rank",
             "content_html": "",
             "url": "https://dkb.io/post/market-rank",
@@ -7181,30 +7205,6 @@
             "title": "由紅門出版",
             "summary": "Published by Red Gate",
             "date_modified": "2013-01-18T15:10:04.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/determine-mime-type-from-file-name/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/determine-mime-type-from-file-name/",
-            "title": "根據文件名確定MIME類型",
-            "summary": "Determine MIME Type from File Name",
-            "date_modified": "2013-02-11T15:15:46.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/a-better-mime-mapping-stealer/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/a-better-mime-mapping-stealer/",
-            "title": "一個更好的MIME映射竊取器!",
-            "summary": "A Better MIME Mapping Stealer!",
-            "date_modified": "2013-02-12T12:07:12.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"

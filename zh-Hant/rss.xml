@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 02 Apr 2022 10:44:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 11:11:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼<em>《輟學》</em>能在其他詐騙節目中獲得成功？]]></title>
+            <link>https://www.theatlantic.com/podcasts/archive/2022/04/peak-scammer-tvs-blurred-lines/629437/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/podcasts/archive/2022/04/peak-scammer-tvs-blurred-lines/629437/?utm_source=feed</guid>
+            <pubDate>Sat, 02 Apr 2022 11:01:56 GMT</pubDate>
+            <description><![CDATA[Why <em>The Dropout</em> Succeeds Where Other Scammer Shows Fall Short]]></description>
+        </item>
+        <item>
+            <title><![CDATA[普京是壞的，但是 "共和黨人]]></title>
+            <link>https://www.theatlantic.com/politics/archive/2022/04/republicans-divided-us-involvement-ukraine/629458/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/politics/archive/2022/04/republicans-divided-us-involvement-ukraine/629458/?utm_source=feed</guid>
+            <pubDate>Sat, 02 Apr 2022 11:01:56 GMT</pubDate>
+            <description><![CDATA[The “Putin Is Bad, But” Republicans]]></description>
+        </item>
         <item>
             <title><![CDATA[市場排名。反SEO排名的算法]]></title>
             <link>https://dkb.io/post/market-rank</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.davidhaney.io/published-by-red-gate/</guid>
             <pubDate>Fri, 18 Jan 2013 15:10:04 GMT</pubDate>
             <description><![CDATA[Published by Red Gate]]></description>
-        </item>
-        <item>
-            <title><![CDATA[根據文件名確定MIME類型]]></title>
-            <link>https://www.davidhaney.io/determine-mime-type-from-file-name/</link>
-            <guid>https://www.davidhaney.io/determine-mime-type-from-file-name/</guid>
-            <pubDate>Mon, 11 Feb 2013 15:15:46 GMT</pubDate>
-            <description><![CDATA[Determine MIME Type from File Name]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一個更好的MIME映射竊取器!]]></title>
-            <link>https://www.davidhaney.io/a-better-mime-mapping-stealer/</link>
-            <guid>https://www.davidhaney.io/a-better-mime-mapping-stealer/</guid>
-            <pubDate>Tue, 12 Feb 2013 12:07:12 GMT</pubDate>
-            <description><![CDATA[A Better MIME Mapping Stealer!]]></description>
         </item>
     </channel>
 </rss>
