@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-02T23:12:30.633Z</updated>
+    <updated>2022-04-02T23:40:51.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Zines!]]></title>
+        <id>https://noahpinion.substack.com/p/zines</id>
+        <link href="https://noahpinion.substack.com/p/zines"/>
+        <updated>2022-04-02T23:29:44.000Z</updated>
+        <summary type="html"><![CDATA[Zines!]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[词汇表背后的狡猾心思]]></title>
         <id>https://www.newyorker.com/video/watch/shorts-murmurs-the-devious-mind-behind-wordle</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.davidhaney.io/tpl-and-error-handling-continuations/"/>
         <updated>2012-08-12T23:21:30.000Z</updated>
         <summary type="html"><![CDATA[TPL and Error Handling & Continuation Tasks]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由MDSN英国博客发布]]></title>
-        <id>https://www.davidhaney.io/published-by-mdsn-uk-blog/</id>
-        <link href="https://www.davidhaney.io/published-by-mdsn-uk-blog/"/>
-        <updated>2012-08-26T23:49:41.000Z</updated>
-        <summary type="html"><![CDATA[Published by MDSN UK Blog]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>

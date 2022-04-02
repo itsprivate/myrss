@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://noahpinion.substack.com/p/zines",
+            "content_html": "",
+            "url": "https://noahpinion.substack.com/p/zines",
+            "title": "Zines!",
+            "summary": "Zines!",
+            "date_modified": "2022-04-02T23:29:44.000Z",
+            "author": {
+                "name": "Noah Smith",
+                "url": "https://noahpinion.substack.com/feed"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/video/watch/shorts-murmurs-the-devious-mind-behind-wordle",
             "content_html": "",
             "url": "https://www.newyorker.com/video/watch/shorts-murmurs-the-devious-mind-behind-wordle",
@@ -7193,18 +7205,6 @@
             "title": "TPL和錯誤處理及延續任務",
             "summary": "TPL and Error Handling & Continuation Tasks",
             "date_modified": "2012-08-12T23:21:30.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/published-by-mdsn-uk-blog/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/published-by-mdsn-uk-blog/",
-            "title": "由MDSN英國博客發佈",
-            "summary": "Published by MDSN UK Blog",
-            "date_modified": "2012-08-26T23:49:41.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"

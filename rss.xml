@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 02 Apr 2022 23:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 23:40:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Zines!]]></title>
+            <link>https://noahpinion.substack.com/p/zines</link>
+            <guid>https://noahpinion.substack.com/p/zines</guid>
+            <pubDate>Sat, 02 Apr 2022 23:29:44 GMT</pubDate>
+            <description><![CDATA[Zines!]]></description>
+        </item>
         <item>
             <title><![CDATA[词汇表背后的狡猾心思]]></title>
             <link>https://www.newyorker.com/video/watch/shorts-murmurs-the-devious-mind-behind-wordle</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.davidhaney.io/tpl-and-error-handling-continuations/</guid>
             <pubDate>Sun, 12 Aug 2012 23:21:30 GMT</pubDate>
             <description><![CDATA[TPL and Error Handling & Continuation Tasks]]></description>
-        </item>
-        <item>
-            <title><![CDATA[由MDSN英国博客发布]]></title>
-            <link>https://www.davidhaney.io/published-by-mdsn-uk-blog/</link>
-            <guid>https://www.davidhaney.io/published-by-mdsn-uk-blog/</guid>
-            <pubDate>Sun, 26 Aug 2012 23:49:41 GMT</pubDate>
-            <description><![CDATA[Published by MDSN UK Blog]]></description>
         </item>
     </channel>
 </rss>
