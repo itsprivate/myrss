@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 02 Apr 2022 12:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 14:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[拳击比赛回放：巴掌门]]></title>
+            <link>https://www.newyorker.com/magazine/2022/04/11/boxing-play-by-play-slapgate</link>
+            <guid>https://www.newyorker.com/magazine/2022/04/11/boxing-play-by-play-slapgate</guid>
+            <pubDate>Sat, 02 Apr 2022 14:00:00 GMT</pubDate>
+            <description><![CDATA[Boxing Play-by-Play: Slapgate]]></description>
+        </item>
         <item>
             <title><![CDATA[SAT并不是不公平的事情]]></title>
             <link>https://www.theatlantic.com/ideas/archive/2022/04/mit-admissions-reinstates-sat-act-tests/629455/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.davidhaney.io/visual-studio-2012-intellisense-not-working-solved/</guid>
             <pubDate>Tue, 20 Nov 2012 21:12:41 GMT</pubDate>
             <description><![CDATA[Visual Studio 2012 Intellisense Not Working - SOLVED]]></description>
-        </item>
-        <item>
-            <title><![CDATA[但它并没有发生在开发或QA中!]]></title>
-            <link>https://www.davidhaney.io/but-it-didnt-happen-in-dev-or-qa/</link>
-            <guid>https://www.davidhaney.io/but-it-didnt-happen-in-dev-or-qa/</guid>
-            <pubDate>Sun, 02 Dec 2012 17:22:20 GMT</pubDate>
-            <description><![CDATA[But it Didn't Happen in DEV or QA!]]></description>
         </item>
     </channel>
 </rss>

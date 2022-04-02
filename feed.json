@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/magazine/2022/04/11/boxing-play-by-play-slapgate",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/04/11/boxing-play-by-play-slapgate",
+            "title": "拳击比赛回放：巴掌门",
+            "summary": "Boxing Play-by-Play: Slapgate",
+            "date_modified": "2022-04-02T14:00:00.000Z",
+            "author": {
+                "name": "Zach Helfand",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/ideas/archive/2022/04/mit-admissions-reinstates-sat-act-tests/629455/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/ideas/archive/2022/04/mit-admissions-reinstates-sat-act-tests/629455/?utm_source=feed",
@@ -7193,18 +7205,6 @@
             "title": "Visual Studio 2012 Intellisense不工作 - 已解决",
             "summary": "Visual Studio 2012 Intellisense Not Working - SOLVED",
             "date_modified": "2012-11-20T21:12:41.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/but-it-didnt-happen-in-dev-or-qa/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/but-it-didnt-happen-in-dev-or-qa/",
-            "title": "但它并没有发生在开发或QA中!",
-            "summary": "But it Didn't Happen in DEV or QA!",
-            "date_modified": "2012-12-02T17:22:20.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"
