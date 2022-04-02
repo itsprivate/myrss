@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-02T10:35:01.626Z</updated>
+    <updated>2022-04-02T10:44:52.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[市场排名。反SEO排名的算法]]></title>
+        <id>https://dkb.io/post/market-rank</id>
+        <link href="https://dkb.io/post/market-rank"/>
+        <updated>2022-03-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MarketRank: The Anti-SEO Ranking Algorithm]]></summary>
+        <author>
+            <name>dkb@dkb.fyi (dkb)</name>
+            <uri>https://dkb.io/rss.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[猎杀一只丢失的蝙蝠]]></title>
         <id>https://www.newyorker.com/science/elements/the-hunt-for-a-lost-bat</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.davidhaney.io/a-better-mime-mapping-stealer/"/>
         <updated>2013-02-12T12:07:12.000Z</updated>
         <summary type="html"><![CDATA[A Better MIME Mapping Stealer!]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[让多读、少写的清单更有效率]]></title>
-        <id>https://www.davidhaney.io/make-mostly-read-seldom-written-lists-much-more-efficient/</id>
-        <link href="https://www.davidhaney.io/make-mostly-read-seldom-written-lists-much-more-efficient/"/>
-        <updated>2013-03-15T17:11:42.000Z</updated>
-        <summary type="html"><![CDATA[Make Mostly Read, Seldom-Written Lists Much More Efficient]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>

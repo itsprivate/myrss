@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 02 Apr 2022 10:35:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 10:44:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[市場排名。反SEO排名的算法]]></title>
+            <link>https://dkb.io/post/market-rank</link>
+            <guid>https://dkb.io/post/market-rank</guid>
+            <pubDate>Fri, 11 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[MarketRank: The Anti-SEO Ranking Algorithm]]></description>
+        </item>
         <item>
             <title><![CDATA[獵殺一隻丟失的蝙蝠]]></title>
             <link>https://www.newyorker.com/science/elements/the-hunt-for-a-lost-bat</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.davidhaney.io/a-better-mime-mapping-stealer/</guid>
             <pubDate>Tue, 12 Feb 2013 12:07:12 GMT</pubDate>
             <description><![CDATA[A Better MIME Mapping Stealer!]]></description>
-        </item>
-        <item>
-            <title><![CDATA[讓多讀、少寫的清單更有效率]]></title>
-            <link>https://www.davidhaney.io/make-mostly-read-seldom-written-lists-much-more-efficient/</link>
-            <guid>https://www.davidhaney.io/make-mostly-read-seldom-written-lists-much-more-efficient/</guid>
-            <pubDate>Fri, 15 Mar 2013 17:11:42 GMT</pubDate>
-            <description><![CDATA[Make Mostly Read, Seldom-Written Lists Much More Efficient]]></description>
         </item>
     </channel>
 </rss>
