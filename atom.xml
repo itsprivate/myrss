@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-01T23:43:12.978Z</updated>
+    <updated>2022-04-02T03:13:46.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[逐个击破]]></title>
+        <id>https://www.newyorker.com/magazine/play-by-play</id>
+        <link href="https://www.newyorker.com/magazine/play-by-play"/>
+        <updated>2022-04-02T02:56:15.000Z</updated>
+        <summary type="html"><![CDATA[Play-by-Play]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个常春藤盟校的学生被指控对她的过去撒谎]]></title>
         <id>https://www.newyorker.com/podcast/politics-and-more/an-ivy-league-student-accused-of-lying-about-her-past</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.davidhaney.io/c-probably-getting-new-safe-navigation-operator/"/>
         <updated>2014-02-28T11:47:08.000Z</updated>
         <summary type="html"><![CDATA[C# Probably Getting New "Safe Navigation" Operator "?."]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否加入Node.js？]]></title>
-        <id>https://www.davidhaney.io/to-node-js-or-not-to-node-js/</id>
-        <link href="https://www.davidhaney.io/to-node-js-or-not-to-node-js/"/>
-        <updated>2014-03-24T16:41:25.000Z</updated>
-        <summary type="html"><![CDATA[To Node.js Or Not To Node.js]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>
