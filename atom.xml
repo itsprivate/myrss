@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-02T14:11:56.044Z</updated>
+    <updated>2022-04-02T16:15:33.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[<em>《大西洋》</em>日报。大多数美国人并不讨厌他们的工作]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/04/most-americans-dont-hate-their-jobs/629460/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/04/most-americans-dont-hate-their-jobs/629460/?utm_source=feed"/>
+        <updated>2022-04-02T16:06:52.000Z</updated>
+        <summary type="html"><![CDATA[<em>The Atlantic</em> Daily: Most Americans Don’t Hate Their Job]]></summary>
+        <author>
+            <name>Caroline Mimbs Nyce</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拳击比赛回放：巴掌门]]></title>
         <id>https://www.newyorker.com/magazine/2022/04/11/boxing-play-by-play-slapgate</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.davidhaney.io/static-vs-instance-string-equals-benchmark/"/>
         <updated>2012-10-24T16:57:14.000Z</updated>
         <summary type="html"><![CDATA[Static vs Instance string.Equals Benchmark]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visual Studio 2012 Intellisense不工作 - 已解决]]></title>
-        <id>https://www.davidhaney.io/visual-studio-2012-intellisense-not-working-solved/</id>
-        <link href="https://www.davidhaney.io/visual-studio-2012-intellisense-not-working-solved/"/>
-        <updated>2012-11-20T21:12:41.000Z</updated>
-        <summary type="html"><![CDATA[Visual Studio 2012 Intellisense Not Working - SOLVED]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>

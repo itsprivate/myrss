@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/newsletters/archive/2022/04/most-americans-dont-hate-their-jobs/629460/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/newsletters/archive/2022/04/most-americans-dont-hate-their-jobs/629460/?utm_source=feed",
+            "title": "<em>《大西洋》</em>日报。大多数美国人并不讨厌他们的工作",
+            "summary": "<em>The Atlantic</em> Daily: Most Americans Don’t Hate Their Job",
+            "date_modified": "2022-04-02T16:06:52.000Z",
+            "author": {
+                "name": "Caroline Mimbs Nyce",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/magazine/2022/04/11/boxing-play-by-play-slapgate",
             "content_html": "",
             "url": "https://www.newyorker.com/magazine/2022/04/11/boxing-play-by-play-slapgate",
@@ -7193,18 +7205,6 @@
             "title": "静态 vs 实例 string.Equals Benchmark",
             "summary": "Static vs Instance string.Equals Benchmark",
             "date_modified": "2012-10-24T16:57:14.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/visual-studio-2012-intellisense-not-working-solved/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/visual-studio-2012-intellisense-not-working-solved/",
-            "title": "Visual Studio 2012 Intellisense不工作 - 已解决",
-            "summary": "Visual Studio 2012 Intellisense Not Working - SOLVED",
-            "date_modified": "2012-11-20T21:12:41.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"
