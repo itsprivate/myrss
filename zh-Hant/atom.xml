@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-02T17:03:44.126Z</updated>
+    <updated>2022-04-02T18:14:57.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[克里斯蒂安-斯莫爾和德里克-帕爾默如何戰勝亞馬遜]]></title>
+        <id>https://www.nytimes.com/2022/04/02/business/amazon-union-christian-smalls.html</id>
+        <link href="https://www.nytimes.com/2022/04/02/business/amazon-union-christian-smalls.html"/>
+        <updated>2022-04-02T17:57:41.000Z</updated>
+        <summary type="html"><![CDATA[How Christian Smalls and Derrick Palmer Beat Amazon]]></summary>
+        <author>
+            <name>Jodi Kantor and Karen Weise</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[特斯拉第一季度銷量大增，再次逆行業潮流而動]]></title>
         <id>https://www.nytimes.com/2022/04/02/business/tesla-sales-electric-vehicles.html</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.davidhaney.io/the-joel-test-really-is-meaningful/"/>
         <updated>2012-10-14T22:10:54.000Z</updated>
         <summary type="html"><![CDATA[The Joel Test Really is Meaningful]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[靜態 vs 實例 string.Equals]]></title>
-        <id>https://www.davidhaney.io/stats-vs-reference-string-equals/</id>
-        <link href="https://www.davidhaney.io/stats-vs-reference-string-equals/"/>
-        <updated>2012-10-22T14:57:14.000Z</updated>
-        <summary type="html"><![CDATA[Static vs Instance string.Equals]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>

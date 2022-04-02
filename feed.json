@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/02/business/amazon-union-christian-smalls.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/02/business/amazon-union-christian-smalls.html",
+            "title": "克里斯蒂安-斯莫尔和德里克-帕尔默如何战胜亚马逊",
+            "summary": "How Christian Smalls and Derrick Palmer Beat Amazon",
+            "date_modified": "2022-04-02T17:57:41.000Z",
+            "author": {
+                "name": "Jodi Kantor and Karen Weise",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/02/business/tesla-sales-electric-vehicles.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/02/business/tesla-sales-electric-vehicles.html",
@@ -7193,18 +7205,6 @@
             "title": "乔尔测试真的很有意义",
             "summary": "The Joel Test Really is Meaningful",
             "date_modified": "2012-10-14T22:10:54.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/stats-vs-reference-string-equals/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/stats-vs-reference-string-equals/",
-            "title": "静态 vs 实例 string.Equals",
-            "summary": "Static vs Instance string.Equals",
-            "date_modified": "2012-10-22T14:57:14.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"
