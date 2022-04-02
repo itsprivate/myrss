@@ -11,6 +11,66 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/science/elements/the-hunt-for-a-lost-bat",
+            "content_html": "",
+            "url": "https://www.newyorker.com/science/elements/the-hunt-for-a-lost-bat",
+            "title": "獵殺一隻丟失的蝙蝠",
+            "summary": "The Hunt for a Lost Bat",
+            "date_modified": "2022-04-02T10:00:00.000Z",
+            "author": {
+                "name": "Carolyn Kormann",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/humor/daily-shouts/lets-all-do-the-lumbago-download-the-lastdance-dating-app-today",
+            "content_html": "",
+            "url": "https://www.newyorker.com/humor/daily-shouts/lets-all-do-the-lumbago-download-the-lastdance-dating-app-today",
+            "title": "讓我們都來做腰痛。今天就下載LastDance約會軟件",
+            "summary": "Let’s All Do the Lumbago: Download the LastDance Dating App Today",
+            "date_modified": "2022-04-02T10:00:00.000Z",
+            "author": {
+                "name": "Larry Doyle",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/our-columnists/joe-manchin-cant-shoot-down-the-logic-of-a-wealth-tax",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/our-columnists/joe-manchin-cant-shoot-down-the-logic-of-a-wealth-tax",
+            "title": "喬-曼欽無法擊倒財富稅的邏輯",
+            "summary": "Joe Manchin Can’t Shoot Down the Logic of a Wealth Tax",
+            "date_modified": "2022-04-02T10:00:00.000Z",
+            "author": {
+                "name": "John Cassidy",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/business/currency/how-much-do-things-really-cost",
+            "content_html": "",
+            "url": "https://www.newyorker.com/business/currency/how-much-do-things-really-cost",
+            "title": "事情的真正成本是多少？",
+            "summary": "How Much Do Things Really Cost?",
+            "date_modified": "2022-04-02T10:00:00.000Z",
+            "author": {
+                "name": "Nick Romeo",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/culture/photo-booth/the-mysteries-of-a-knit-club-in-small-town-mississippi",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/photo-booth/the-mysteries-of-a-knit-club-in-small-town-mississippi",
+            "title": "密西西比小鎮的 \"針織俱樂部 \"之謎",
+            "summary": "The Mysteries of a “Knit Club” in Small-Town Mississippi",
+            "date_modified": "2022-04-02T10:00:00.000Z",
+            "author": {
+                "name": "Vince Aletti",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/our-columnists/joe-manchin-cant-shoot-down-the-logic-of-a-wealth-tax",
             "content_html": "",
             "url": "https://www.newyorker.com/news/our-columnists/joe-manchin-cant-shoot-down-the-logic-of-a-wealth-tax",
@@ -7145,66 +7205,6 @@
             "title": "讓多讀、少寫的清單更有效率",
             "summary": "Make Mostly Read, Seldom-Written Lists Much More Efficient",
             "date_modified": "2013-03-15T17:11:42.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/one-more-thing-about-list-binary-search/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/one-more-thing-about-list-binary-search/",
-            "title": "關於列表二進制搜索的另一件事",
-            "summary": "One More Thing About List Binary Search",
-            "date_modified": "2013-03-30T15:36:24.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/generic-comparer/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/generic-comparer/",
-            "title": "仿製藥比較器",
-            "summary": "Generic Comparer",
-            "date_modified": "2013-04-22T14:53:17.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/web-api-mapping-querystringform-input/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/web-api-mapping-querystringform-input/",
-            "title": "網絡API映射查詢字符串/表單輸入",
-            "summary": "Web API Mapping QueryString/Form Input",
-            "date_modified": "2013-07-24T17:55:12.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/automatically-generate-pocos-from-db-with-t4/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/automatically-generate-pocos-from-db-with-t4/",
-            "title": "用T4從數據庫中自動生成POCOs",
-            "summary": "Automatically Generate POCOs From DB With T4",
-            "date_modified": "2013-10-16T21:35:51.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/mvc4-conditional-html-attributes/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/mvc4-conditional-html-attributes/",
-            "title": "MVC4的條件性HTML屬性",
-            "summary": "MVC4 Conditional HTML Attributes",
-            "date_modified": "2013-11-27T00:34:25.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"

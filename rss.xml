@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 02 Apr 2022 10:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 10:35:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,41 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[猎杀一只丢失的蝙蝠]]></title>
+            <link>https://www.newyorker.com/science/elements/the-hunt-for-a-lost-bat</link>
+            <guid>https://www.newyorker.com/science/elements/the-hunt-for-a-lost-bat</guid>
+            <pubDate>Sat, 02 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Hunt for a Lost Bat]]></description>
+        </item>
+        <item>
+            <title><![CDATA[让我们都来做腰痛。今天就下载LastDance约会软件]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/lets-all-do-the-lumbago-download-the-lastdance-dating-app-today</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/lets-all-do-the-lumbago-download-the-lastdance-dating-app-today</guid>
+            <pubDate>Sat, 02 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Let’s All Do the Lumbago: Download the LastDance Dating App Today]]></description>
+        </item>
+        <item>
+            <title><![CDATA[乔-曼钦无法击倒财富税的逻辑]]></title>
+            <link>https://www.newyorker.com/news/our-columnists/joe-manchin-cant-shoot-down-the-logic-of-a-wealth-tax</link>
+            <guid>https://www.newyorker.com/news/our-columnists/joe-manchin-cant-shoot-down-the-logic-of-a-wealth-tax</guid>
+            <pubDate>Sat, 02 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Joe Manchin Can’t Shoot Down the Logic of a Wealth Tax]]></description>
+        </item>
+        <item>
+            <title><![CDATA[事情的真正成本是多少？]]></title>
+            <link>https://www.newyorker.com/business/currency/how-much-do-things-really-cost</link>
+            <guid>https://www.newyorker.com/business/currency/how-much-do-things-really-cost</guid>
+            <pubDate>Sat, 02 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[How Much Do Things Really Cost?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[密西西比小镇的 "针织俱乐部 "之谜]]></title>
+            <link>https://www.newyorker.com/culture/photo-booth/the-mysteries-of-a-knit-club-in-small-town-mississippi</link>
+            <guid>https://www.newyorker.com/culture/photo-booth/the-mysteries-of-a-knit-club-in-small-town-mississippi</guid>
+            <pubDate>Sat, 02 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Mysteries of a “Knit Club” in Small-Town Mississippi]]></description>
+        </item>
         <item>
             <title><![CDATA[乔-曼钦无法击倒财富税的逻辑]]></title>
             <link>https://www.newyorker.com/news/our-columnists/joe-manchin-cant-shoot-down-the-logic-of-a-wealth-tax</link>
@@ -4178,41 +4213,6 @@
             <guid>https://www.davidhaney.io/make-mostly-read-seldom-written-lists-much-more-efficient/</guid>
             <pubDate>Fri, 15 Mar 2013 17:11:42 GMT</pubDate>
             <description><![CDATA[Make Mostly Read, Seldom-Written Lists Much More Efficient]]></description>
-        </item>
-        <item>
-            <title><![CDATA[关于列表二进制搜索的另一件事]]></title>
-            <link>https://www.davidhaney.io/one-more-thing-about-list-binary-search/</link>
-            <guid>https://www.davidhaney.io/one-more-thing-about-list-binary-search/</guid>
-            <pubDate>Sat, 30 Mar 2013 15:36:24 GMT</pubDate>
-            <description><![CDATA[One More Thing About List Binary Search]]></description>
-        </item>
-        <item>
-            <title><![CDATA[仿制药比较器]]></title>
-            <link>https://www.davidhaney.io/generic-comparer/</link>
-            <guid>https://www.davidhaney.io/generic-comparer/</guid>
-            <pubDate>Mon, 22 Apr 2013 14:53:17 GMT</pubDate>
-            <description><![CDATA[Generic Comparer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[网络API映射查询字符串/表单输入]]></title>
-            <link>https://www.davidhaney.io/web-api-mapping-querystringform-input/</link>
-            <guid>https://www.davidhaney.io/web-api-mapping-querystringform-input/</guid>
-            <pubDate>Wed, 24 Jul 2013 17:55:12 GMT</pubDate>
-            <description><![CDATA[Web API Mapping QueryString/Form Input]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用T4从数据库中自动生成POCOs]]></title>
-            <link>https://www.davidhaney.io/automatically-generate-pocos-from-db-with-t4/</link>
-            <guid>https://www.davidhaney.io/automatically-generate-pocos-from-db-with-t4/</guid>
-            <pubDate>Wed, 16 Oct 2013 21:35:51 GMT</pubDate>
-            <description><![CDATA[Automatically Generate POCOs From DB With T4]]></description>
-        </item>
-        <item>
-            <title><![CDATA[MVC4的条件性HTML属性]]></title>
-            <link>https://www.davidhaney.io/mvc4-conditional-html-attributes/</link>
-            <guid>https://www.davidhaney.io/mvc4-conditional-html-attributes/</guid>
-            <pubDate>Wed, 27 Nov 2013 00:34:25 GMT</pubDate>
-            <description><![CDATA[MVC4 Conditional HTML Attributes]]></description>
         </item>
     </channel>
 </rss>

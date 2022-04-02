@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-02T10:13:33.376Z</updated>
+    <updated>2022-04-02T10:35:01.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[猎杀一只丢失的蝙蝠]]></title>
+        <id>https://www.newyorker.com/science/elements/the-hunt-for-a-lost-bat</id>
+        <link href="https://www.newyorker.com/science/elements/the-hunt-for-a-lost-bat"/>
+        <updated>2022-04-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Hunt for a Lost Bat]]></summary>
+        <author>
+            <name>Carolyn Kormann</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[让我们都来做腰痛。今天就下载LastDance约会软件]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/lets-all-do-the-lumbago-download-the-lastdance-dating-app-today</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/lets-all-do-the-lumbago-download-the-lastdance-dating-app-today"/>
+        <updated>2022-04-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s All Do the Lumbago: Download the LastDance Dating App Today]]></summary>
+        <author>
+            <name>Larry Doyle</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乔-曼钦无法击倒财富税的逻辑]]></title>
+        <id>https://www.newyorker.com/news/our-columnists/joe-manchin-cant-shoot-down-the-logic-of-a-wealth-tax</id>
+        <link href="https://www.newyorker.com/news/our-columnists/joe-manchin-cant-shoot-down-the-logic-of-a-wealth-tax"/>
+        <updated>2022-04-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Joe Manchin Can’t Shoot Down the Logic of a Wealth Tax]]></summary>
+        <author>
+            <name>John Cassidy</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[事情的真正成本是多少？]]></title>
+        <id>https://www.newyorker.com/business/currency/how-much-do-things-really-cost</id>
+        <link href="https://www.newyorker.com/business/currency/how-much-do-things-really-cost"/>
+        <updated>2022-04-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How Much Do Things Really Cost?]]></summary>
+        <author>
+            <name>Nick Romeo</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[密西西比小镇的 "针织俱乐部 "之谜]]></title>
+        <id>https://www.newyorker.com/culture/photo-booth/the-mysteries-of-a-knit-club-in-small-town-mississippi</id>
+        <link href="https://www.newyorker.com/culture/photo-booth/the-mysteries-of-a-knit-club-in-small-town-mississippi"/>
+        <updated>2022-04-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Mysteries of a “Knit Club” in Small-Town Mississippi]]></summary>
+        <author>
+            <name>Vince Aletti</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[乔-曼钦无法击倒财富税的逻辑]]></title>
         <id>https://www.newyorker.com/news/our-columnists/joe-manchin-cant-shoot-down-the-logic-of-a-wealth-tax</id>
@@ -6555,61 +6610,6 @@
         <link href="https://www.davidhaney.io/make-mostly-read-seldom-written-lists-much-more-efficient/"/>
         <updated>2013-03-15T17:11:42.000Z</updated>
         <summary type="html"><![CDATA[Make Mostly Read, Seldom-Written Lists Much More Efficient]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于列表二进制搜索的另一件事]]></title>
-        <id>https://www.davidhaney.io/one-more-thing-about-list-binary-search/</id>
-        <link href="https://www.davidhaney.io/one-more-thing-about-list-binary-search/"/>
-        <updated>2013-03-30T15:36:24.000Z</updated>
-        <summary type="html"><![CDATA[One More Thing About List Binary Search]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仿制药比较器]]></title>
-        <id>https://www.davidhaney.io/generic-comparer/</id>
-        <link href="https://www.davidhaney.io/generic-comparer/"/>
-        <updated>2013-04-22T14:53:17.000Z</updated>
-        <summary type="html"><![CDATA[Generic Comparer]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网络API映射查询字符串/表单输入]]></title>
-        <id>https://www.davidhaney.io/web-api-mapping-querystringform-input/</id>
-        <link href="https://www.davidhaney.io/web-api-mapping-querystringform-input/"/>
-        <updated>2013-07-24T17:55:12.000Z</updated>
-        <summary type="html"><![CDATA[Web API Mapping QueryString/Form Input]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用T4从数据库中自动生成POCOs]]></title>
-        <id>https://www.davidhaney.io/automatically-generate-pocos-from-db-with-t4/</id>
-        <link href="https://www.davidhaney.io/automatically-generate-pocos-from-db-with-t4/"/>
-        <updated>2013-10-16T21:35:51.000Z</updated>
-        <summary type="html"><![CDATA[Automatically Generate POCOs From DB With T4]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MVC4的条件性HTML属性]]></title>
-        <id>https://www.davidhaney.io/mvc4-conditional-html-attributes/</id>
-        <link href="https://www.davidhaney.io/mvc4-conditional-html-attributes/"/>
-        <updated>2013-11-27T00:34:25.000Z</updated>
-        <summary type="html"><![CDATA[MVC4 Conditional HTML Attributes]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>
