@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-02T11:11:37.202Z</updated>
+    <updated>2022-04-02T12:16:42.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SAT並不是不公平的事情]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/mit-admissions-reinstates-sat-act-tests/629455/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/mit-admissions-reinstates-sat-act-tests/629455/?utm_source=feed"/>
+        <updated>2022-04-02T11:50:11.000Z</updated>
+        <summary type="html"><![CDATA[The SAT Isn’t What’s Unfair]]></summary>
+        <author>
+            <name>Kathryn Paige Harden</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼<em>《輟學》</em>能在其他詐騙節目中獲得成功？]]></title>
         <id>https://www.theatlantic.com/podcasts/archive/2022/04/peak-scammer-tvs-blurred-lines/629437/?utm_source=feed</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.davidhaney.io/but-it-didnt-happen-in-dev-or-qa/"/>
         <updated>2012-12-02T17:22:20.000Z</updated>
         <summary type="html"><![CDATA[But it Didn't Happen in DEV or QA!]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由紅門出版]]></title>
-        <id>https://www.davidhaney.io/published-by-red-gate/</id>
-        <link href="https://www.davidhaney.io/published-by-red-gate/"/>
-        <updated>2013-01-18T15:10:04.000Z</updated>
-        <summary type="html"><![CDATA[Published by Red Gate]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>
