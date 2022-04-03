@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-03T17:35:09.587Z</updated>
+    <updated>2022-04-03T18:37:41.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[开放话题218]]></title>
+        <id>https://astralcodexten.substack.com/p/open-thread-218</id>
+        <link href="https://astralcodexten.substack.com/p/open-thread-218"/>
+        <updated>2022-04-03T17:41:58.000Z</updated>
+        <summary type="html"><![CDATA[Open Thread 218]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<em>SNL</em>忍不住要谈一谈这个耳光]]></title>
         <id>https://www.theatlantic.com/culture/archive/2022/04/saturday-night-live-jerrod-carmichael-oscars-slap/629463/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Classical Music’s Iron Curtain]]></summary>
         <author>
             <name>Isaac Chotiner</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[罗莎莉娅成为全球流行巨星的水平]]></title>
-        <id>https://www.newyorker.com/culture/culture-desk/rosalia-levels-up-as-a-global-pop-superstar</id>
-        <link href="https://www.newyorker.com/culture/culture-desk/rosalia-levels-up-as-a-global-pop-superstar"/>
-        <updated>2022-03-18T00:01:02.000Z</updated>
-        <summary type="html"><![CDATA[Rosalía Levels Up as a Global Pop Superstar]]></summary>
-        <author>
-            <name>Carrie Battan</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
