@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/international/archive/2022/04/ukraine-affects-orban-macron-2022-elections/629446/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/international/archive/2022/04/ukraine-affects-orban-macron-2022-elections/629446/?utm_source=feed",
+            "title": "乌克兰是如何颠覆欧洲政治的",
+            "summary": "How Ukraine Is Upending European Politics",
+            "date_modified": "2022-04-03T08:27:17.000Z",
+            "author": {
+                "name": "Yasmeen Serhan",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://noahpinion.substack.com/p/zines",
             "content_html": "",
             "url": "https://noahpinion.substack.com/p/zines",
@@ -7193,18 +7205,6 @@
             "title": "TPL和错误处理",
             "summary": "TPL and Error Handling",
             "date_modified": "2012-08-05T13:39:38.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/tpl-and-error-handling-continuations/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/tpl-and-error-handling-continuations/",
-            "title": "TPL和错误处理及延续任务",
-            "summary": "TPL and Error Handling & Continuation Tasks",
-            "date_modified": "2012-08-12T23:21:30.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"

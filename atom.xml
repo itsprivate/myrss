@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-02T23:40:51.660Z</updated>
+    <updated>2022-04-03T08:52:42.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[乌克兰是如何颠覆欧洲政治的]]></title>
+        <id>https://www.theatlantic.com/international/archive/2022/04/ukraine-affects-orban-macron-2022-elections/629446/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/international/archive/2022/04/ukraine-affects-orban-macron-2022-elections/629446/?utm_source=feed"/>
+        <updated>2022-04-03T08:27:17.000Z</updated>
+        <summary type="html"><![CDATA[How Ukraine Is Upending European Politics]]></summary>
+        <author>
+            <name>Yasmeen Serhan</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zines!]]></title>
         <id>https://noahpinion.substack.com/p/zines</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.davidhaney.io/tpl-and-error-handling/"/>
         <updated>2012-08-05T13:39:38.000Z</updated>
         <summary type="html"><![CDATA[TPL and Error Handling]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TPL和错误处理及延续任务]]></title>
-        <id>https://www.davidhaney.io/tpl-and-error-handling-continuations/</id>
-        <link href="https://www.davidhaney.io/tpl-and-error-handling-continuations/"/>
-        <updated>2012-08-12T23:21:30.000Z</updated>
-        <summary type="html"><![CDATA[TPL and Error Handling & Continuation Tasks]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>

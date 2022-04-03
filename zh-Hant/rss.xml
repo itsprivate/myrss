@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 02 Apr 2022 23:40:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 08:52:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[烏克蘭是如何顛覆歐洲政治的]]></title>
+            <link>https://www.theatlantic.com/international/archive/2022/04/ukraine-affects-orban-macron-2022-elections/629446/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/international/archive/2022/04/ukraine-affects-orban-macron-2022-elections/629446/?utm_source=feed</guid>
+            <pubDate>Sun, 03 Apr 2022 08:27:17 GMT</pubDate>
+            <description><![CDATA[How Ukraine Is Upending European Politics]]></description>
+        </item>
         <item>
             <title><![CDATA[Zines!]]></title>
             <link>https://noahpinion.substack.com/p/zines</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.davidhaney.io/tpl-and-error-handling/</guid>
             <pubDate>Sun, 05 Aug 2012 13:39:38 GMT</pubDate>
             <description><![CDATA[TPL and Error Handling]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TPL和錯誤處理及延續任務]]></title>
-            <link>https://www.davidhaney.io/tpl-and-error-handling-continuations/</link>
-            <guid>https://www.davidhaney.io/tpl-and-error-handling-continuations/</guid>
-            <pubDate>Sun, 12 Aug 2012 23:21:30 GMT</pubDate>
-            <description><![CDATA[TPL and Error Handling & Continuation Tasks]]></description>
         </item>
     </channel>
 </rss>
