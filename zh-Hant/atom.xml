@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-03T09:13:03.802Z</updated>
+    <updated>2022-04-03T10:14:57.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們現在對COVID做什麼？]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/11/what-do-we-do-about-covid-now</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/11/what-do-we-do-about-covid-now"/>
+        <updated>2022-04-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What Do We Do About COVID Now?]]></summary>
+        <author>
+            <name>Dhruv Khullar</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你想象中的房東在做什麼，而不是修理你壞掉的馬桶]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/what-you-imagine-your-landlord-is-doing-instead-of-fixing-your-broken-toilet</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/what-you-imagine-your-landlord-is-doing-instead-of-fixing-your-broken-toilet"/>
+        <updated>2022-04-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What You Imagine Your Landlord Is Doing Instead of Fixing Your Broken Toilet]]></summary>
+        <author>
+            <name>Susan Schoenberger, Claire Wyman</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[卡羅爾-德納姆的繪畫作品讓你感到不安]]></title>
+        <id>https://www.newyorker.com/culture/the-new-yorker-interview/carroll-dunhams-paintings-make-you-squirm</id>
+        <link href="https://www.newyorker.com/culture/the-new-yorker-interview/carroll-dunhams-paintings-make-you-squirm"/>
+        <updated>2022-04-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Carroll Dunham’s Paintings Make You Squirm]]></summary>
+        <author>
+            <name>Naomi Fry</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[星期日閱讀。格萊美提名者，過去和現在]]></title>
+        <id>https://www.newyorker.com/books/double-take/sunday-reading-grammy-nominees-past-and-present</id>
+        <link href="https://www.newyorker.com/books/double-take/sunday-reading-grammy-nominees-past-and-present"/>
+        <updated>2022-04-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sunday Reading: Grammy Nominees, Past and Present]]></summary>
+        <author>
+            <name>The New Yorker</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[羅伯特-馬龍散佈關於疫苗的虛假信息。他還說他發明了一些疫苗。]]></title>
         <id>https://www.nytimes.com/2022/04/03/technology/robert-malone-covid.html</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>Joshua Yaffa</name>
             <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在一個著火的世界裡，不要再燒東西了]]></title>
-        <id>https://www.newyorker.com/news/essay/in-a-world-on-fire-stop-burning-things</id>
-        <link href="https://www.newyorker.com/news/essay/in-a-world-on-fire-stop-burning-things"/>
-        <updated>2022-03-18T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In a World on Fire, Stop Burning Things]]></summary>
-        <author>
-            <name>Bill McKibben</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LINQ和延遲執行]]></title>
-        <id>https://www.davidhaney.io/linq-and-deferred-execution/</id>
-        <link href="https://www.davidhaney.io/linq-and-deferred-execution/"/>
-        <updated>2012-06-11T00:57:15.000Z</updated>
-        <summary type="html"><![CDATA[LINQ and Deferred Execution]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用MVC3和.NET 4.0的自定義輸出緩存--做得很好]]></title>
-        <id>https://www.davidhaney.io/custom-output-caching-with-mvc3-and-net-4-0-done-right/</id>
-        <link href="https://www.davidhaney.io/custom-output-caching-with-mvc3-and-net-4-0-done-right/"/>
-        <updated>2012-06-20T00:47:52.000Z</updated>
-        <summary type="html"><![CDATA[Custom Output Caching with MVC3 and .NET 4.0 - Done Properly!]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[編譯器技巧--推斷類型]]></title>
-        <id>https://www.davidhaney.io/compiler-tricks-inferred-types/</id>
-        <link href="https://www.davidhaney.io/compiler-tricks-inferred-types/"/>
-        <updated>2012-07-16T00:33:54.000Z</updated>
-        <summary type="html"><![CDATA[Compiler Tricks - Inferred Types]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
         </author>
     </entry>
 </feed>
