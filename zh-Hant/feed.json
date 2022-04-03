@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/books/archive/2022/04/nonfiction-books-memoirs-john-mcphee/629422/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/books/archive/2022/04/nonfiction-books-memoirs-john-mcphee/629422/?utm_source=feed",
+            "title": "無論你寫什麼，你都在那裡",
+            "summary": "Whatever You Write, There You Are",
+            "date_modified": "2022-04-03T11:00:56.000Z",
+            "author": {
+                "name": "Kristen Martin",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/politics/archive/2022/04/how-ohio-governor-mike-dewine-survived-trump/629450/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/politics/archive/2022/04/how-ohio-governor-mike-dewine-survived-trump/629450/?utm_source=feed",
+            "title": "最後的實權派共和黨人",
+            "summary": "The Last of the Establishment Republicans",
+            "date_modified": "2022-04-03T11:00:57.000Z",
+            "author": {
+                "name": "Russell Berman",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/books/double-take/sunday-reading-grammy-nominees-past-and-present",
             "content_html": "",
             "url": "https://www.newyorker.com/books/double-take/sunday-reading-grammy-nominees-past-and-present",
@@ -7181,30 +7205,6 @@
             "title": "假釋程序的非人化戲劇",
             "summary": "The Dehumanizing Theatre of the Parole Process",
             "date_modified": "2021-11-17T11:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/03/21/have-chinese-spies-infiltrated-american-campuses",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/03/21/have-chinese-spies-infiltrated-american-campuses",
-            "title": "中國的間諜是否滲透到了美國的校園？",
-            "summary": "Have Chinese Spies Infiltrated American Campuses?",
-            "date_modified": "2022-03-14T10:00:00.000Z",
-            "author": {
-                "name": "Gideon Lewis-Kraus",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/03/21/ukrainian-refugees-journeys-have-just-begun",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/03/21/ukrainian-refugees-journeys-have-just-begun",
-            "title": "烏克蘭難民的旅程剛剛開始",
-            "summary": "Ukrainian Refugees’ Journeys Have Just Begun",
-            "date_modified": "2022-03-14T10:00:00.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.newyorker.com/feed/news"
