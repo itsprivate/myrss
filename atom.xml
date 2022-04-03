@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-03T16:48:15.833Z</updated>
+    <updated>2022-04-03T17:35:09.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[<em>SNL</em>忍不住要谈一谈这个耳光]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/04/saturday-night-live-jerrod-carmichael-oscars-slap/629463/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/04/saturday-night-live-jerrod-carmichael-oscars-slap/629463/?utm_source=feed"/>
+        <updated>2022-04-03T17:14:46.000Z</updated>
+        <summary type="html"><![CDATA[<em>SNL</em> Couldn’t Resist Talking About the Slap]]></summary>
+        <author>
+            <name>Amanda Wicks</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[乌克兰的动物讲述他们自己的故事]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/04/animals-ukraine-tell-their-own-story/629462/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Rosalía Levels Up as a Global Pop Superstar]]></summary>
         <author>
             <name>Carrie Battan</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone相机是否变得太聪明了？]]></title>
-        <id>https://www.newyorker.com/culture/infinite-scroll/have-iphone-cameras-become-too-smart</id>
-        <link href="https://www.newyorker.com/culture/infinite-scroll/have-iphone-cameras-become-too-smart"/>
-        <updated>2022-03-18T20:42:35.000Z</updated>
-        <summary type="html"><![CDATA[Have iPhone Cameras Become Too Smart?]]></summary>
-        <author>
-            <name>Kyle Chayka</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

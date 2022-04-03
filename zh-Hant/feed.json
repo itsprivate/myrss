@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/culture/archive/2022/04/saturday-night-live-jerrod-carmichael-oscars-slap/629463/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/culture/archive/2022/04/saturday-night-live-jerrod-carmichael-oscars-slap/629463/?utm_source=feed",
+            "title": "<em>SNL</em>忍不住要談一談這個耳光",
+            "summary": "<em>SNL</em> Couldn’t Resist Talking About the Slap",
+            "date_modified": "2022-04-03T17:14:46.000Z",
+            "author": {
+                "name": "Amanda Wicks",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/ideas/archive/2022/04/animals-ukraine-tell-their-own-story/629462/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/ideas/archive/2022/04/animals-ukraine-tell-their-own-story/629462/?utm_source=feed",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-18T00:01:02.000Z",
             "author": {
                 "name": "Carrie Battan",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/infinite-scroll/have-iphone-cameras-become-too-smart",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/infinite-scroll/have-iphone-cameras-become-too-smart",
-            "title": "iPhone相機是否變得太聰明瞭？",
-            "summary": "Have iPhone Cameras Become Too Smart?",
-            "date_modified": "2022-03-18T20:42:35.000Z",
-            "author": {
-                "name": "Kyle Chayka",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

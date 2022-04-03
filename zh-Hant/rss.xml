@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sun, 03 Apr 2022 16:48:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 17:35:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[<em>SNL</em>忍不住要談一談這個耳光]]></title>
+            <link>https://www.theatlantic.com/culture/archive/2022/04/saturday-night-live-jerrod-carmichael-oscars-slap/629463/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/culture/archive/2022/04/saturday-night-live-jerrod-carmichael-oscars-slap/629463/?utm_source=feed</guid>
+            <pubDate>Sun, 03 Apr 2022 17:14:46 GMT</pubDate>
+            <description><![CDATA[<em>SNL</em> Couldn’t Resist Talking About the Slap]]></description>
+        </item>
         <item>
             <title><![CDATA[烏克蘭的動物講述他們自己的故事]]></title>
             <link>https://www.theatlantic.com/ideas/archive/2022/04/animals-ukraine-tell-their-own-story/629462/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/culture/culture-desk/rosalia-levels-up-as-a-global-pop-superstar</guid>
             <pubDate>Fri, 18 Mar 2022 00:01:02 GMT</pubDate>
             <description><![CDATA[Rosalía Levels Up as a Global Pop Superstar]]></description>
-        </item>
-        <item>
-            <title><![CDATA[iPhone相機是否變得太聰明瞭？]]></title>
-            <link>https://www.newyorker.com/culture/infinite-scroll/have-iphone-cameras-become-too-smart</link>
-            <guid>https://www.newyorker.com/culture/infinite-scroll/have-iphone-cameras-become-too-smart</guid>
-            <pubDate>Fri, 18 Mar 2022 20:42:35 GMT</pubDate>
-            <description><![CDATA[Have iPhone Cameras Become Too Smart?]]></description>
         </item>
     </channel>
 </rss>
