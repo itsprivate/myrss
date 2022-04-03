@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-03T10:14:57.501Z</updated>
+    <updated>2022-04-03T10:34:47.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[星期日閱讀。格萊美提名者，過去和現在]]></title>
+        <id>https://www.newyorker.com/books/double-take/sunday-reading-grammy-nominees-past-and-present</id>
+        <link href="https://www.newyorker.com/books/double-take/sunday-reading-grammy-nominees-past-and-present"/>
+        <updated>2022-04-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sunday Reading: Grammy Nominees, Past and Present]]></summary>
+        <author>
+            <name>The New Yorker</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們現在對COVID做什麼？]]></title>
         <id>https://www.newyorker.com/magazine/2022/04/11/what-do-we-do-about-covid-now</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Ukrainian Refugees’ Journeys Have Just Begun]]></summary>
         <author>
             <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯入侵對烏克蘭造成的影響]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/21/what-the-russian-invasion-has-done-to-ukraine</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/21/what-the-russian-invasion-has-done-to-ukraine"/>
-        <updated>2022-03-12T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What the Russian Invasion Has Done to Ukraine]]></summary>
-        <author>
-            <name>Joshua Yaffa</name>
             <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
