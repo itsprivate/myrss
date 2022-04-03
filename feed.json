@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/03/technology/robert-malone-covid.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/03/technology/robert-malone-covid.html",
+            "title": "罗伯特-马龙散布关于疫苗的虚假信息。他还说他发明了一些疫苗。",
+            "summary": "Robert Malone Spreads Falsehoods About Vaccines. He Also Says He Invented Some.",
+            "date_modified": "2022-04-03T09:00:17.000Z",
+            "author": {
+                "name": "Davey Alba",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/international/archive/2022/04/ukraine-affects-orban-macron-2022-elections/629446/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/international/archive/2022/04/ukraine-affects-orban-macron-2022-elections/629446/?utm_source=feed",
@@ -7193,18 +7205,6 @@
             "title": "编译器技巧--推断类型",
             "summary": "Compiler Tricks - Inferred Types",
             "date_modified": "2012-07-16T00:33:54.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/tpl-and-error-handling/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/tpl-and-error-handling/",
-            "title": "TPL和错误处理",
-            "summary": "TPL and Error Handling",
-            "date_modified": "2012-08-05T13:39:38.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"

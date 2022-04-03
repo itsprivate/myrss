@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sun, 03 Apr 2022 08:52:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 09:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[羅伯特-馬龍散佈關於疫苗的虛假信息。他還說他發明了一些疫苗。]]></title>
+            <link>https://www.nytimes.com/2022/04/03/technology/robert-malone-covid.html</link>
+            <guid>https://www.nytimes.com/2022/04/03/technology/robert-malone-covid.html</guid>
+            <pubDate>Sun, 03 Apr 2022 09:00:17 GMT</pubDate>
+            <description><![CDATA[Robert Malone Spreads Falsehoods About Vaccines. He Also Says He Invented Some.]]></description>
+        </item>
         <item>
             <title><![CDATA[烏克蘭是如何顛覆歐洲政治的]]></title>
             <link>https://www.theatlantic.com/international/archive/2022/04/ukraine-affects-orban-macron-2022-elections/629446/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.davidhaney.io/compiler-tricks-inferred-types/</guid>
             <pubDate>Mon, 16 Jul 2012 00:33:54 GMT</pubDate>
             <description><![CDATA[Compiler Tricks - Inferred Types]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TPL和錯誤處理]]></title>
-            <link>https://www.davidhaney.io/tpl-and-error-handling/</link>
-            <guid>https://www.davidhaney.io/tpl-and-error-handling/</guid>
-            <pubDate>Sun, 05 Aug 2012 13:39:38 GMT</pubDate>
-            <description><![CDATA[TPL and Error Handling]]></description>
         </item>
     </channel>
 </rss>
