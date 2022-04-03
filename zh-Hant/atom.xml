@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-03T12:51:48.997Z</updated>
+    <updated>2022-04-03T14:29:19.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[隱秘字謎：2022年4月3日，星期日]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/04/03</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/04/03"/>
+        <updated>2022-04-03T14:11:00.000Z</updated>
+        <summary type="html"><![CDATA[The Cryptic Crossword: Sunday, April 3, 2022]]></summary>
+        <author>
+            <name>Paolo Pasco</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[月球之謎]]></title>
         <id>https://www.theatlantic.com/books/archive/2022/04/poem-colm-toibin-mysterium-lunae/629459/?utm_source=feed</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.newyorker.com/video/watch/the-new-yorker-documentary-how-one-woman-is-using-comedy-to-speak-up-about-palestinian-rights"/>
         <updated>2021-12-22T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[How One Woman Is Using Comedy to Speak Up About Palestinian Rights]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[兩個愛爾蘭男孩如何在跨大西洋航班上偷渡]]></title>
-        <id>https://www.newyorker.com/video/watch/the-new-yorker-documentary-nothing-to-declare</id>
-        <link href="https://www.newyorker.com/video/watch/the-new-yorker-documentary-nothing-to-declare"/>
-        <updated>2022-01-12T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How Two Irish Boys Stowed Themselves on a Transatlantic Flight]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.newyorker.com/feed/news</uri>
