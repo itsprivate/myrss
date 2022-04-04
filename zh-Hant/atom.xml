@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-03T18:37:41.465Z</updated>
+    <updated>2022-04-04T04:41:05.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[卡通字幕大賽]]></title>
+        <id>https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-04-11</id>
+        <link href="https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-04-11"/>
+        <updated>2022-04-04T04:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Cartoon Caption Contest]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[開放話題218]]></title>
         <id>https://astralcodexten.substack.com/p/open-thread-218</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[“Ahed’s Knee,” Reviewed: An Israeli Filmmaker’s Crackup Shatters the Screen]]></summary>
         <author>
             <name>Richard Brody</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[古典音樂的鐵幕]]></title>
-        <id>https://www.newyorker.com/culture/q-and-a/classical-musics-iron-curtain</id>
-        <link href="https://www.newyorker.com/culture/q-and-a/classical-musics-iron-curtain"/>
-        <updated>2022-03-17T22:50:59.000Z</updated>
-        <summary type="html"><![CDATA[Classical Music’s Iron Curtain]]></summary>
-        <author>
-            <name>Isaac Chotiner</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
