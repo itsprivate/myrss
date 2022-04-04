@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-04T04:41:05.017Z</updated>
+    <updated>2022-04-04T05:30:44.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[澤倫斯基驚喜亮相格萊美的原因]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/04/grammy-zelensky-ukraine-2022/629467/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/04/grammy-zelensky-ukraine-2022/629467/?utm_source=feed"/>
+        <updated>2022-04-04T05:08:40.000Z</updated>
+        <summary type="html"><![CDATA[The Reason for Zelensky’s Surprise Grammy Appearance]]></summary>
+        <author>
+            <name>Spencer Kornhaber</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[卡通字幕大賽]]></title>
         <id>https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-04-11</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Law & Order: S.V.U.]]></summary>
         <author>
             <name>Barry Blitt</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[回顧 "阿赫德的膝蓋"。一個以色列電影製作人的裂痕粉碎了屏幕]]></title>
-        <id>https://www.newyorker.com/culture/the-front-row/aheds-knee-reviewed-an-israeli-filmmakers-crackup-shatters-the-screen</id>
-        <link href="https://www.newyorker.com/culture/the-front-row/aheds-knee-reviewed-an-israeli-filmmakers-crackup-shatters-the-screen"/>
-        <updated>2022-03-18T20:09:39.000Z</updated>
-        <summary type="html"><![CDATA[“Ahed’s Knee,” Reviewed: An Israeli Filmmaker’s Crackup Shatters the Screen]]></summary>
-        <author>
-            <name>Richard Brody</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
