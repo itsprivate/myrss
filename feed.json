@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.currentaffairs.org/2022/03/the-great-american-world-war-ii-story/",
+            "content_html": "",
+            "url": "https://www.currentaffairs.org/2022/03/the-great-american-world-war-ii-story/",
+            "title": "伟大的美国二战故事",
+            "summary": "The Great American World War II Story",
+            "date_modified": "2022-03-18T12:31:25.000Z",
+            "author": {
+                "name": "Nathan J. Robinson",
+                "url": "https://www.currentaffairs.org/feed"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/magazine/archive/2022/05/world-war-ii-empire-colonialism/629371/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/magazine/archive/2022/05/world-war-ii-empire-colonialism/629371/?utm_source=feed",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-18T20:00:00.000Z",
             "author": {
                 "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/dispatch/ukraines-radio-station-of-national-resistance",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/dispatch/ukraines-radio-station-of-national-resistance",
-            "title": "乌克兰的民族抵抗电台",
-            "summary": "Ukraine’s Radio Station of National Resistance",
-            "date_modified": "2022-03-18T20:30:43.000Z",
-            "author": {
-                "name": "Nicolas Niarchos",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }
