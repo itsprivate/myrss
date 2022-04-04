@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 04 Apr 2022 12:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 14:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[当特朗普试图纠正历史记录时发生了什么？]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/trump-interview-a-first-historical-assessment/629454/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/trump-interview-a-first-historical-assessment/629454/?utm_source=feed</guid>
+            <pubDate>Mon, 04 Apr 2022 14:01:56 GMT</pubDate>
+            <description><![CDATA[What Happened When Trump Tried to Correct the Historical Record]]></description>
+        </item>
+        <item>
+            <title><![CDATA[是什么让一部电影改变了人们的生活？]]></title>
+            <link>https://www.theatlantic.com/newsletters/archive/2022/04/best-underrated-movies/629456/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/newsletters/archive/2022/04/best-underrated-movies/629456/?utm_source=feed</guid>
+            <pubDate>Mon, 04 Apr 2022 14:01:56 GMT</pubDate>
+            <description><![CDATA[What Makes a Movie Life-Changing?]]></description>
+        </item>
         <item>
             <title><![CDATA[埃隆-马斯克购买了Twitter的大量股份。]]></title>
             <link>https://www.nytimes.com/2022/04/04/technology/elon-musk-twitter.html</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.mooreds.com/wordpress/archives/3429</guid>
             <pubDate>Mon, 01 Feb 2021 15:35:28 GMT</pubDate>
             <description><![CDATA[Slack failing to open with NS_ERROR_DOM_ABORT_ERR error]]></description>
-        </item>
-        <item>
-            <title><![CDATA[公共云时代的开源软件商业模式问题]]></title>
-            <link>https://www.mooreds.com/wordpress/archives/3438</link>
-            <guid>https://www.mooreds.com/wordpress/archives/3438</guid>
-            <pubDate>Sat, 13 Mar 2021 17:31:44 GMT</pubDate>
-            <description><![CDATA[Open source software business model concerns in the age of the public cloud]]></description>
-        </item>
-        <item>
-            <title><![CDATA[关于寻找技术联合创始人的建议]]></title>
-            <link>https://www.mooreds.com/wordpress/archives/3445</link>
-            <guid>https://www.mooreds.com/wordpress/archives/3445</guid>
-            <pubDate>Sat, 03 Apr 2021 17:09:02 GMT</pubDate>
-            <description><![CDATA[Advice for finding a technical co-founder]]></description>
         </item>
     </channel>
 </rss>

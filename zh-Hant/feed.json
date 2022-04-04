@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/04/trump-interview-a-first-historical-assessment/629454/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/04/trump-interview-a-first-historical-assessment/629454/?utm_source=feed",
+            "title": "當特朗普試圖糾正歷史記錄時發生了什麼？",
+            "summary": "What Happened When Trump Tried to Correct the Historical Record",
+            "date_modified": "2022-04-04T14:01:56.000Z",
+            "author": {
+                "name": "Julian E. Zelizer",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/newsletters/archive/2022/04/best-underrated-movies/629456/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/newsletters/archive/2022/04/best-underrated-movies/629456/?utm_source=feed",
+            "title": "是什麼讓一部電影改變了人們的生活？",
+            "summary": "What Makes a Movie Life-Changing?",
+            "date_modified": "2022-04-04T14:01:56.000Z",
+            "author": {
+                "name": "Conor Friedersdorf",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/04/technology/elon-musk-twitter.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/04/technology/elon-musk-twitter.html",
@@ -7181,30 +7205,6 @@
             "title": "Slack無法打開，出現NS_ERROR_DOM_ABORT_ERR錯誤",
             "summary": "Slack failing to open with NS_ERROR_DOM_ABORT_ERR error",
             "date_modified": "2021-02-01T15:35:28.000Z",
-            "author": {
-                "name": "moore",
-                "url": "http://edit.mooreds.com/wordpress/feed"
-            }
-        },
-        {
-            "id": "https://www.mooreds.com/wordpress/archives/3438",
-            "content_html": "",
-            "url": "https://www.mooreds.com/wordpress/archives/3438",
-            "title": "公共雲時代的開源軟件商業模式問題",
-            "summary": "Open source software business model concerns in the age of the public cloud",
-            "date_modified": "2021-03-13T17:31:44.000Z",
-            "author": {
-                "name": "moore",
-                "url": "http://edit.mooreds.com/wordpress/feed"
-            }
-        },
-        {
-            "id": "https://www.mooreds.com/wordpress/archives/3445",
-            "content_html": "",
-            "url": "https://www.mooreds.com/wordpress/archives/3445",
-            "title": "關於尋找技術聯合創始人的建議",
-            "summary": "Advice for finding a technical co-founder",
-            "date_modified": "2021-04-03T17:09:02.000Z",
             "author": {
                 "name": "moore",
                 "url": "http://edit.mooreds.com/wordpress/feed"

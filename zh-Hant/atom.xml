@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-04T12:20:06.158Z</updated>
+    <updated>2022-04-04T14:14:17.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[當特朗普試圖糾正歷史記錄時發生了什麼？]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/trump-interview-a-first-historical-assessment/629454/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/trump-interview-a-first-historical-assessment/629454/?utm_source=feed"/>
+        <updated>2022-04-04T14:01:56.000Z</updated>
+        <summary type="html"><![CDATA[What Happened When Trump Tried to Correct the Historical Record]]></summary>
+        <author>
+            <name>Julian E. Zelizer</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是什麼讓一部電影改變了人們的生活？]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/04/best-underrated-movies/629456/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/04/best-underrated-movies/629456/?utm_source=feed"/>
+        <updated>2022-04-04T14:01:56.000Z</updated>
+        <summary type="html"><![CDATA[What Makes a Movie Life-Changing?]]></summary>
+        <author>
+            <name>Conor Friedersdorf</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[埃隆-馬斯克購買了Twitter的大量股份。]]></title>
         <id>https://www.nytimes.com/2022/04/04/technology/elon-musk-twitter.html</id>
@@ -6588,28 +6610,6 @@
         <link href="https://www.mooreds.com/wordpress/archives/3429"/>
         <updated>2021-02-01T15:35:28.000Z</updated>
         <summary type="html"><![CDATA[Slack failing to open with NS_ERROR_DOM_ABORT_ERR error]]></summary>
-        <author>
-            <name>moore</name>
-            <uri>http://edit.mooreds.com/wordpress/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公共雲時代的開源軟件商業模式問題]]></title>
-        <id>https://www.mooreds.com/wordpress/archives/3438</id>
-        <link href="https://www.mooreds.com/wordpress/archives/3438"/>
-        <updated>2021-03-13T17:31:44.000Z</updated>
-        <summary type="html"><![CDATA[Open source software business model concerns in the age of the public cloud]]></summary>
-        <author>
-            <name>moore</name>
-            <uri>http://edit.mooreds.com/wordpress/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於尋找技術聯合創始人的建議]]></title>
-        <id>https://www.mooreds.com/wordpress/archives/3445</id>
-        <link href="https://www.mooreds.com/wordpress/archives/3445"/>
-        <updated>2021-04-03T17:09:02.000Z</updated>
-        <summary type="html"><![CDATA[Advice for finding a technical co-founder]]></summary>
         <author>
             <name>moore</name>
             <uri>http://edit.mooreds.com/wordpress/feed</uri>
