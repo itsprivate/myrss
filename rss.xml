@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 04 Apr 2022 22:34:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 23:51:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[普京的战争给了美国一个认真对待难民的机会]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/putins-war-gives-america-a-chance-to-get-serious-about-refugees</link>
+            <guid>https://www.newyorker.com/news/daily-comment/putins-war-gives-america-a-chance-to-get-serious-about-refugees</guid>
+            <pubDate>Mon, 04 Apr 2022 23:43:21 GMT</pubDate>
+            <description><![CDATA[Putin’s War Gives America a Chance to Get Serious About Refugees]]></description>
+        </item>
         <item>
             <title><![CDATA[民主党政治家们是否理解化石燃料必须被淘汰？]]></title>
             <link>https://www.currentaffairs.org/2022/04/do-democratic-politicians-understand-that-fossil-fuels-have-to-go/</link>
@@ -4206,13 +4213,6 @@
             <guid>https://astralcodexten.substack.com/p/what-are-we-arguing-about-when-we</guid>
             <pubDate>Fri, 04 Mar 2022 05:25:00 GMT</pubDate>
             <description><![CDATA[What Are We Arguing About When We Argue About Rationality?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[隐秘的公开主题213.5]]></title>
-            <link>https://astralcodexten.substack.com/p/hidden-open-thread-2135</link>
-            <guid>https://astralcodexten.substack.com/p/hidden-open-thread-2135</guid>
-            <pubDate>Sat, 05 Mar 2022 01:49:44 GMT</pubDate>
-            <description><![CDATA[Hidden Open Thread 213.5]]></description>
         </item>
     </channel>
 </rss>

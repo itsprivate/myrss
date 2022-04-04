@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-04T22:34:41.156Z</updated>
+    <updated>2022-04-04T23:51:17.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[普京的战争给了美国一个认真对待难民的机会]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/putins-war-gives-america-a-chance-to-get-serious-about-refugees</id>
+        <link href="https://www.newyorker.com/news/daily-comment/putins-war-gives-america-a-chance-to-get-serious-about-refugees"/>
+        <updated>2022-04-04T23:43:21.000Z</updated>
+        <summary type="html"><![CDATA[Putin’s War Gives America a Chance to Get Serious About Refugees]]></summary>
+        <author>
+            <name>Bill McKibben</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[民主党政治家们是否理解化石燃料必须被淘汰？]]></title>
         <id>https://www.currentaffairs.org/2022/04/do-democratic-politicians-understand-that-fossil-fuels-have-to-go/</id>
@@ -6599,17 +6610,6 @@
         <link href="https://astralcodexten.substack.com/p/what-are-we-arguing-about-when-we"/>
         <updated>2022-03-04T05:25:00.000Z</updated>
         <summary type="html"><![CDATA[What Are We Arguing About When We Argue About Rationality?]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隐秘的公开主题213.5]]></title>
-        <id>https://astralcodexten.substack.com/p/hidden-open-thread-2135</id>
-        <link href="https://astralcodexten.substack.com/p/hidden-open-thread-2135"/>
-        <updated>2022-03-05T01:49:44.000Z</updated>
-        <summary type="html"><![CDATA[Hidden Open Thread 213.5]]></summary>
         <author>
             <name>Scott Alexander</name>
             <uri>https://astralcodexten.substack.com/feed</uri>
