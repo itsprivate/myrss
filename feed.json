@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/04/russia-bucha-killings-war-crimes-genocide/629470/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/04/russia-bucha-killings-war-crimes-genocide/629470/?utm_source=feed",
+            "title": "恐怖的布查",
+            "summary": "The Horror of Bucha",
+            "date_modified": "2022-04-04T15:12:00.000Z",
+            "author": {
+                "name": "Franklin Foer",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/humor/borowitz-report/palin-blasts-wordle-for-using-such-long-words",
             "content_html": "",
             "url": "https://www.newyorker.com/humor/borowitz-report/palin-blasts-wordle-for-using-such-long-words",
@@ -7193,18 +7205,6 @@
             "title": "快速浏览xkit",
             "summary": "A quick look at xkit",
             "date_modified": "2020-10-17T12:34:24.000Z",
-            "author": {
-                "name": "moore",
-                "url": "http://edit.mooreds.com/wordpress/feed"
-            }
-        },
-        {
-            "id": "https://www.mooreds.com/wordpress/archives/3398",
-            "content_html": "",
-            "url": "https://www.mooreds.com/wordpress/archives/3398",
-            "title": "书评。生活中的算法",
-            "summary": "Book Review: Algorithms to live by",
-            "date_modified": "2020-11-11T12:34:00.000Z",
             "author": {
                 "name": "moore",
                 "url": "http://edit.mooreds.com/wordpress/feed"

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-04T15:15:29.847Z</updated>
+    <updated>2022-04-04T15:38:40.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[恐怖的布查]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/russia-bucha-killings-war-crimes-genocide/629470/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/russia-bucha-killings-war-crimes-genocide/629470/?utm_source=feed"/>
+        <updated>2022-04-04T15:12:00.000Z</updated>
+        <summary type="html"><![CDATA[The Horror of Bucha]]></summary>
+        <author>
+            <name>Franklin Foer</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[佩林抨擊Wordle使用如此長的單詞]]></title>
         <id>https://www.newyorker.com/humor/borowitz-report/palin-blasts-wordle-for-using-such-long-words</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.mooreds.com/wordpress/archives/3395"/>
         <updated>2020-10-17T12:34:24.000Z</updated>
         <summary type="html"><![CDATA[A quick look at xkit]]></summary>
-        <author>
-            <name>moore</name>
-            <uri>http://edit.mooreds.com/wordpress/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[書評。生活中的算法]]></title>
-        <id>https://www.mooreds.com/wordpress/archives/3398</id>
-        <link href="https://www.mooreds.com/wordpress/archives/3398"/>
-        <updated>2020-11-11T12:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Book Review: Algorithms to live by]]></summary>
         <author>
             <name>moore</name>
             <uri>http://edit.mooreds.com/wordpress/feed</uri>

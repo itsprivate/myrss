@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 04 Apr 2022 15:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 15:38:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[恐怖的布查]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/russia-bucha-killings-war-crimes-genocide/629470/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/russia-bucha-killings-war-crimes-genocide/629470/?utm_source=feed</guid>
+            <pubDate>Mon, 04 Apr 2022 15:12:00 GMT</pubDate>
+            <description><![CDATA[The Horror of Bucha]]></description>
+        </item>
         <item>
             <title><![CDATA[佩林抨击Wordle使用如此长的单词]]></title>
             <link>https://www.newyorker.com/humor/borowitz-report/palin-blasts-wordle-for-using-such-long-words</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.mooreds.com/wordpress/archives/3395</guid>
             <pubDate>Sat, 17 Oct 2020 12:34:24 GMT</pubDate>
             <description><![CDATA[A quick look at xkit]]></description>
-        </item>
-        <item>
-            <title><![CDATA[书评。生活中的算法]]></title>
-            <link>https://www.mooreds.com/wordpress/archives/3398</link>
-            <guid>https://www.mooreds.com/wordpress/archives/3398</guid>
-            <pubDate>Wed, 11 Nov 2020 12:34:00 GMT</pubDate>
-            <description><![CDATA[Book Review: Algorithms to live by]]></description>
         </item>
     </channel>
 </rss>
