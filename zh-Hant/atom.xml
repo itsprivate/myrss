@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-04T11:30:42.634Z</updated>
+    <updated>2022-04-04T11:52:11.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[傑西卡-布魯德通過《地下墮胎》報告了為後<em>羅伊<em>未來做準備的秘密網絡。]]></title>
+        <id>https://www.theatlantic.com/press-releases/archive/2022/04/atlantics-may-2022-issue-abortion-underground-jessica-bruder/629466/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/press-releases/archive/2022/04/atlantics-may-2022-issue-abortion-underground-jessica-bruder/629466/?utm_source=feed"/>
+        <updated>2022-04-04T11:27:11.000Z</updated>
+        <summary type="html"><![CDATA[With “The Abortion Underground,” Jessica Bruder Reports on the Covert Network Preparing for a Post-<em>Roe </em>Future]]></summary>
+        <author>
+            <name>The Atlantic</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[偉大的美國二戰故事]]></title>
         <id>https://www.currentaffairs.org/2022/03/the-great-american-world-war-ii-story/</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[A Zodiac Chart for Babies]]></summary>
         <author>
             <name>Grace Farris, Eugenia Viti</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭廣播電臺]]></title>
-        <id>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/radio-ukraine</id>
-        <link href="https://www.newyorker.com/podcast/the-new-yorker-radio-hour/radio-ukraine"/>
-        <updated>2022-03-18T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Radio Ukraine]]></summary>
-        <author>
-            <name>unknown</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

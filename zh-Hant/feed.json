@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/press-releases/archive/2022/04/atlantics-may-2022-issue-abortion-underground-jessica-bruder/629466/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/press-releases/archive/2022/04/atlantics-may-2022-issue-abortion-underground-jessica-bruder/629466/?utm_source=feed",
+            "title": "傑西卡-布魯德通過《地下墮胎》報告了為後<em>羅伊<em>未來做準備的秘密網絡。",
+            "summary": "With “The Abortion Underground,” Jessica Bruder Reports on the Covert Network Preparing for a Post-<em>Roe </em>Future",
+            "date_modified": "2022-04-04T11:27:11.000Z",
+            "author": {
+                "name": "The Atlantic",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.currentaffairs.org/2022/03/the-great-american-world-war-ii-story/",
             "content_html": "",
             "url": "https://www.currentaffairs.org/2022/03/the-great-american-world-war-ii-story/",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-18T18:00:00.000Z",
             "author": {
                 "name": "Grace Farris, Eugenia Viti",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour/radio-ukraine",
-            "content_html": "",
-            "url": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour/radio-ukraine",
-            "title": "烏克蘭廣播電臺",
-            "summary": "Radio Ukraine",
-            "date_modified": "2022-03-18T20:00:00.000Z",
-            "author": {
-                "name": "unknown",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }
