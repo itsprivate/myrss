@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-04T10:15:33.558Z</updated>
+    <updated>2022-04-04T11:12:57.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[第二次世界大战的新历史]]></title>
+        <id>https://www.theatlantic.com/magazine/archive/2022/05/world-war-ii-empire-colonialism/629371/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/magazine/archive/2022/05/world-war-ii-empire-colonialism/629371/?utm_source=feed"/>
+        <updated>2022-04-04T11:00:57.000Z</updated>
+        <summary type="html"><![CDATA[A New History of World War II]]></summary>
+        <author>
+            <name>Daniel Immerwahr</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大屠杀的另一种历史]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-soviet-union-holocaust-jewish-history/629421/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/ukraine-soviet-union-holocaust-jewish-history/629421/?utm_source=feed"/>
+        <updated>2022-04-04T11:00:57.000Z</updated>
+        <summary type="html"><![CDATA[The Other History of the Holocaust]]></summary>
+        <author>
+            <name>Alex Zeldin</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什么是 "很多"？]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/04/a-lot-word-etymology/629452/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/04/a-lot-word-etymology/629452/?utm_source=feed"/>
+        <updated>2022-04-04T11:00:57.000Z</updated>
+        <summary type="html"><![CDATA[What Makes Someone ‘A Lot’?]]></summary>
+        <author>
+            <name>Caleb Madison</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每个人都是如何变得如此孤独的]]></title>
         <id>https://www.newyorker.com/magazine/2022/04/11/how-everyone-got-so-lonely-laura-kipnis-noreena-hertz</id>
@@ -6579,39 +6612,6 @@
         <summary type="html"><![CDATA[Ukraine’s Radio Station of National Resistance]]></summary>
         <author>
             <name>Nicolas Niarchos</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QAnon对一个美国移民的诱惑力]]></title>
-        <id>https://www.newyorker.com/video/watch/the-new-yorker-documentary-the-reasons-behind-an-immigrants-inclination-to-qanon</id>
-        <link href="https://www.newyorker.com/video/watch/the-new-yorker-documentary-the-reasons-behind-an-immigrants-inclination-to-qanon"/>
-        <updated>2022-03-02T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Allure of QAnon for a U.S. Immigrant]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一名士兵在乌克兰失踪，他的父亲能否找到他？]]></title>
-        <id>https://www.newyorker.com/video/watch/i-never-had-dreams-of-my-son</id>
-        <link href="https://www.newyorker.com/video/watch/i-never-had-dreams-of-my-son"/>
-        <updated>2022-03-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A Soldier Goes Missing in Ukraine—Can His Father Find Him?]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[棍子! 他们不能做什么？]]></title>
-        <id>https://www.newyorker.com/video/watch/stickworld</id>
-        <link href="https://www.newyorker.com/video/watch/stickworld"/>
-        <updated>2022-03-11T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sticks! What Can’t They Do?]]></summary>
-        <author>
-            <name>unknown</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

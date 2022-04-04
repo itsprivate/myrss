@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/magazine/archive/2022/05/world-war-ii-empire-colonialism/629371/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/magazine/archive/2022/05/world-war-ii-empire-colonialism/629371/?utm_source=feed",
+            "title": "第二次世界大戰的新歷史",
+            "summary": "A New History of World War II",
+            "date_modified": "2022-04-04T11:00:57.000Z",
+            "author": {
+                "name": "Daniel Immerwahr",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/04/ukraine-soviet-union-holocaust-jewish-history/629421/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/04/ukraine-soviet-union-holocaust-jewish-history/629421/?utm_source=feed",
+            "title": "大屠殺的另一種歷史",
+            "summary": "The Other History of the Holocaust",
+            "date_modified": "2022-04-04T11:00:57.000Z",
+            "author": {
+                "name": "Alex Zeldin",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/newsletters/archive/2022/04/a-lot-word-etymology/629452/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/newsletters/archive/2022/04/a-lot-word-etymology/629452/?utm_source=feed",
+            "title": "什麼是 \"很多\"？",
+            "summary": "What Makes Someone ‘A Lot’?",
+            "date_modified": "2022-04-04T11:00:57.000Z",
+            "author": {
+                "name": "Caleb Madison",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/magazine/2022/04/11/how-everyone-got-so-lonely-laura-kipnis-noreena-hertz",
             "content_html": "",
             "url": "https://www.newyorker.com/magazine/2022/04/11/how-everyone-got-so-lonely-laura-kipnis-noreena-hertz",
@@ -7171,42 +7207,6 @@
             "date_modified": "2022-03-18T20:30:43.000Z",
             "author": {
                 "name": "Nicolas Niarchos",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/video/watch/the-new-yorker-documentary-the-reasons-behind-an-immigrants-inclination-to-qanon",
-            "content_html": "",
-            "url": "https://www.newyorker.com/video/watch/the-new-yorker-documentary-the-reasons-behind-an-immigrants-inclination-to-qanon",
-            "title": "QAnon對一個美國移民的誘惑力",
-            "summary": "The Allure of QAnon for a U.S. Immigrant",
-            "date_modified": "2022-03-02T11:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/video/watch/i-never-had-dreams-of-my-son",
-            "content_html": "",
-            "url": "https://www.newyorker.com/video/watch/i-never-had-dreams-of-my-son",
-            "title": "一名士兵在烏克蘭失蹤，他的父親能否找到他？",
-            "summary": "A Soldier Goes Missing in Ukraine—Can His Father Find Him?",
-            "date_modified": "2022-03-09T11:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/video/watch/stickworld",
-            "content_html": "",
-            "url": "https://www.newyorker.com/video/watch/stickworld",
-            "title": "棍子! 他們不能做什麼？",
-            "summary": "Sticks! What Can’t They Do?",
-            "date_modified": "2022-03-11T11:00:00.000Z",
-            "author": {
-                "name": "unknown",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

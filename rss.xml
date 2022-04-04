@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 04 Apr 2022 10:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 11:12:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[第二次世界大战的新历史]]></title>
+            <link>https://www.theatlantic.com/magazine/archive/2022/05/world-war-ii-empire-colonialism/629371/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/magazine/archive/2022/05/world-war-ii-empire-colonialism/629371/?utm_source=feed</guid>
+            <pubDate>Mon, 04 Apr 2022 11:00:57 GMT</pubDate>
+            <description><![CDATA[A New History of World War II]]></description>
+        </item>
+        <item>
+            <title><![CDATA[大屠杀的另一种历史]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-soviet-union-holocaust-jewish-history/629421/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-soviet-union-holocaust-jewish-history/629421/?utm_source=feed</guid>
+            <pubDate>Mon, 04 Apr 2022 11:00:57 GMT</pubDate>
+            <description><![CDATA[The Other History of the Holocaust]]></description>
+        </item>
+        <item>
+            <title><![CDATA[什么是 "很多"？]]></title>
+            <link>https://www.theatlantic.com/newsletters/archive/2022/04/a-lot-word-etymology/629452/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/newsletters/archive/2022/04/a-lot-word-etymology/629452/?utm_source=feed</guid>
+            <pubDate>Mon, 04 Apr 2022 11:00:57 GMT</pubDate>
+            <description><![CDATA[What Makes Someone ‘A Lot’?]]></description>
+        </item>
         <item>
             <title><![CDATA[每个人都是如何变得如此孤独的]]></title>
             <link>https://www.newyorker.com/magazine/2022/04/11/how-everyone-got-so-lonely-laura-kipnis-noreena-hertz</link>
@@ -4192,27 +4213,6 @@
             <guid>https://www.newyorker.com/news/dispatch/ukraines-radio-station-of-national-resistance</guid>
             <pubDate>Fri, 18 Mar 2022 20:30:43 GMT</pubDate>
             <description><![CDATA[Ukraine’s Radio Station of National Resistance]]></description>
-        </item>
-        <item>
-            <title><![CDATA[QAnon对一个美国移民的诱惑力]]></title>
-            <link>https://www.newyorker.com/video/watch/the-new-yorker-documentary-the-reasons-behind-an-immigrants-inclination-to-qanon</link>
-            <guid>https://www.newyorker.com/video/watch/the-new-yorker-documentary-the-reasons-behind-an-immigrants-inclination-to-qanon</guid>
-            <pubDate>Wed, 02 Mar 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[The Allure of QAnon for a U.S. Immigrant]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一名士兵在乌克兰失踪，他的父亲能否找到他？]]></title>
-            <link>https://www.newyorker.com/video/watch/i-never-had-dreams-of-my-son</link>
-            <guid>https://www.newyorker.com/video/watch/i-never-had-dreams-of-my-son</guid>
-            <pubDate>Wed, 09 Mar 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[A Soldier Goes Missing in Ukraine—Can His Father Find Him?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[棍子! 他们不能做什么？]]></title>
-            <link>https://www.newyorker.com/video/watch/stickworld</link>
-            <guid>https://www.newyorker.com/video/watch/stickworld</guid>
-            <pubDate>Fri, 11 Mar 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[Sticks! What Can’t They Do?]]></description>
         </item>
     </channel>
 </rss>
