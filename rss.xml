@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 04 Apr 2022 20:15:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 20:34:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[调查1月6日]]></title>
+            <link>https://www.newyorker.com/podcast/politics-and-more/investigating-january-6th</link>
+            <guid>https://www.newyorker.com/podcast/politics-and-more/investigating-january-6th</guid>
+            <pubDate>Mon, 04 Apr 2022 20:00:00 GMT</pubDate>
+            <description><![CDATA[Investigating January 6th]]></description>
+        </item>
         <item>
             <title><![CDATA[调查1月6日]]></title>
             <link>https://www.newyorker.com/podcast/politics-and-more/investigating-january-6th</link>
@@ -4206,13 +4213,6 @@
             <guid>https://astralcodexten.substack.com/p/zounds-its-zulresso-and-zuranolone</guid>
             <pubDate>Tue, 08 Mar 2022 21:12:09 GMT</pubDate>
             <description><![CDATA[Zounds! It's Zulresso and Zuranolone!]]></description>
-        </item>
-        <item>
-            <title><![CDATA[对未醒来的学者的建议？]]></title>
-            <link>https://astralcodexten.substack.com/p/advice-for-unwoke-academic</link>
-            <guid>https://astralcodexten.substack.com/p/advice-for-unwoke-academic</guid>
-            <pubDate>Thu, 10 Mar 2022 07:47:30 GMT</pubDate>
-            <description><![CDATA[Advice For Unwoke Academic?]]></description>
         </item>
     </channel>
 </rss>

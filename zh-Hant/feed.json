@@ -19,6 +19,18 @@
             "date_modified": "2022-04-04T20:00:00.000Z",
             "author": {
                 "name": "unknown",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/podcast/politics-and-more/investigating-january-6th",
+            "content_html": "",
+            "url": "https://www.newyorker.com/podcast/politics-and-more/investigating-january-6th",
+            "title": "調查1月6日",
+            "summary": "Investigating January 6th",
+            "date_modified": "2022-04-04T20:00:00.000Z",
+            "author": {
+                "name": "unknown",
                 "url": "https://www.newyorker.com/feed/news"
             }
         },
@@ -7193,18 +7205,6 @@
             "title": "Zounds! 是Zulresso和Zuranolone!",
             "summary": "Zounds! It's Zulresso and Zuranolone!",
             "date_modified": "2022-03-08T21:12:09.000Z",
-            "author": {
-                "name": "Scott Alexander",
-                "url": "https://astralcodexten.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://astralcodexten.substack.com/p/advice-for-unwoke-academic",
-            "content_html": "",
-            "url": "https://astralcodexten.substack.com/p/advice-for-unwoke-academic",
-            "title": "對未醒來的學者的建議？",
-            "summary": "Advice For Unwoke Academic?",
-            "date_modified": "2022-03-10T07:47:30.000Z",
             "author": {
                 "name": "Scott Alexander",
                 "url": "https://astralcodexten.substack.com/feed"
