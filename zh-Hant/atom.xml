@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-04T19:37:46.154Z</updated>
+    <updated>2022-04-04T20:15:19.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[調查1月6日]]></title>
+        <id>https://www.newyorker.com/podcast/politics-and-more/investigating-january-6th</id>
+        <link href="https://www.newyorker.com/podcast/politics-and-more/investigating-january-6th"/>
+        <updated>2022-04-04T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Investigating January 6th]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基輔普通生命的毀滅]]></title>
         <id>https://www.newyorker.com/culture/photo-booth/the-destruction-of-ordinary-lives-in-kyiv</id>
@@ -6599,17 +6610,6 @@
         <link href="https://astralcodexten.substack.com/p/advice-for-unwoke-academic"/>
         <updated>2022-03-10T07:47:30.000Z</updated>
         <summary type="html"><![CDATA[Advice For Unwoke Academic?]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黃體酮大劑量可能是一種廉價的Zulresso替代物]]></title>
-        <id>https://astralcodexten.substack.com/p/progesterone-megadoses-might-be-a</id>
-        <link href="https://astralcodexten.substack.com/p/progesterone-megadoses-might-be-a"/>
-        <updated>2022-03-10T21:13:58.000Z</updated>
-        <summary type="html"><![CDATA[Progesterone Megadoses Might Be A Cheap Zulresso Substitute]]></summary>
         <author>
             <name>Scott Alexander</name>
             <uri>https://astralcodexten.substack.com/feed</uri>
