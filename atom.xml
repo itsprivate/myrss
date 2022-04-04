@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-04T09:13:51.217Z</updated>
+    <updated>2022-04-04T10:15:33.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,127 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每个人都是如何变得如此孤独的]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/11/how-everyone-got-so-lonely-laura-kipnis-noreena-hertz</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/11/how-everyone-got-so-lonely-laura-kipnis-noreena-hertz"/>
+        <updated>2022-04-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How Everyone Got So Lonely]]></summary>
+        <author>
+            <name>Zoë Heller</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在哥特人、原哥特人和H.R.Giger展会上的技术金属头目之间]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/11/among-the-goths-proto-goths-and-technical-metalheads-at-an-h-r-giger-show</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/11/among-the-goths-proto-goths-and-technical-metalheads-at-an-h-r-giger-show"/>
+        <updated>2022-04-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Among the Goths, Proto-Goths, and Technical Metalheads at an H. R. Giger Show]]></summary>
+        <author>
+            <name>Hannah Seidlitz</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个连环杀手专家的解读]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/11/the-unravelling-of-an-expert-on-serial-killers</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/11/the-unravelling-of-an-expert-on-serial-killers"/>
+        <updated>2022-04-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Unravelling of an Expert on Serial Killers]]></summary>
+        <author>
+            <name>Lauren Collins</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[填字游戏: 2022年4月4日，星期一]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/04</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/04"/>
+        <updated>2022-04-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Crossword: Monday, April 4, 2022]]></summary>
+        <author>
+            <name>Natan Last</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[凯文-巴里谈鬼故事和爱尔兰酒吧]]></title>
+        <id>https://www.newyorker.com/books/this-week-in-fiction/kevin-barry-04-11-22</id>
+        <link href="https://www.newyorker.com/books/this-week-in-fiction/kevin-barry-04-11-22"/>
+        <updated>2022-04-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Kevin Barry on Ghost Stories and Irish Pubs]]></summary>
+        <author>
+            <name>Cressida Leyshon</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[索尔-斯坦伯格的 "无题，1967年"]]></title>
+        <id>https://www.newyorker.com/culture/cover-story/cover-story-2022-04-11</id>
+        <link href="https://www.newyorker.com/culture/cover-story/cover-story-2022-04-11"/>
+        <updated>2022-04-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Saul Steinberg’s “Untitled, 1967”]]></summary>
+        <author>
+            <name>Françoise Mouly</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰和俄罗斯的厨师为乌克兰做饭]]></title>
+        <id>https://www.newyorker.com/news/letter-from-the-uk/the-ukrainian-and-russian-chefs-cooking-for-ukraine</id>
+        <link href="https://www.newyorker.com/news/letter-from-the-uk/the-ukrainian-and-russian-chefs-cooking-for-ukraine"/>
+        <updated>2022-04-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Ukrainian and Russian Chefs Cooking for Ukraine]]></summary>
+        <author>
+            <name>Anna Russell</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[凯文-巴里阅读 "没有啤酒的酒吧"]]></title>
+        <id>https://www.newyorker.com/podcast/the-writers-voice/kevin-barry-reads-the-pub-with-no-beer</id>
+        <link href="https://www.newyorker.com/podcast/the-writers-voice/kevin-barry-reads-the-pub-with-no-beer"/>
+        <updated>2022-04-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Kevin Barry Reads “The Pub with No Beer”]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[堕胎的地下世界]]></title>
+        <id>https://www.theatlantic.com/magazine/archive/2022/05/roe-v-wade-overturn-abortion-rights/629366/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/magazine/archive/2022/05/roe-v-wade-overturn-abortion-rights/629366/?utm_source=feed"/>
+        <updated>2022-04-04T10:00:56.000Z</updated>
+        <summary type="html"><![CDATA[The Abortion Underground]]></summary>
+        <author>
+            <name>Jessica Bruder</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么人们在夜间增加了第二班？]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/04/triple-peak-day-work-from-home/629457/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/04/triple-peak-day-work-from-home/629457/?utm_source=feed"/>
+        <updated>2022-04-04T10:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Why People Are Adding a Second Shift at Night]]></summary>
+        <author>
+            <name>Derek Thompson</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在联盟胜利的基础上再接再厉》在亚马逊上市]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/how-build-union-victory-amazon-staten-island/629464/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/how-build-union-victory-amazon-staten-island/629464/?utm_source=feed"/>
+        <updated>2022-04-04T10:00:57.000Z</updated>
+        <summary type="html"><![CDATA[How to Build on the Union Victory at Amazon]]></summary>
+        <author>
+            <name>Steven Greenhouse</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[西方如何重建其世界]]></title>
         <id>https://www.theatlantic.com/international/archive/2022/04/western-response-to-china-russia-invasion/629465/?utm_source=feed</id>
@@ -6489,127 +6610,6 @@
         <link href="https://www.newyorker.com/video/watch/stickworld"/>
         <updated>2022-03-11T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Sticks! What Can’t They Do?]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沙卡里-理查森谈时间在跑步和生活中的意义]]></title>
-        <id>https://www.newyorker.com/video/watch/the-new-yorker-documentary-sub-eleven-seconds</id>
-        <link href="https://www.newyorker.com/video/watch/the-new-yorker-documentary-sub-eleven-seconds"/>
-        <updated>2022-03-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sha’Carri Richardson on the Meaning of Time in Running and in Life]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京堕入专制主义，简-坎皮恩谈 "狗的力量"]]></title>
-        <id>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/putins-descent-into-despotism-and-jane-campion-on-the-power-of-the-dog</id>
-        <link href="https://www.newyorker.com/podcast/the-new-yorker-radio-hour/putins-descent-into-despotism-and-jane-campion-on-the-power-of-the-dog"/>
-        <updated>2022-03-11T22:56:06.000Z</updated>
-        <summary type="html"><![CDATA[Putin’s Descent Into Despotism, and Jane Campion on “The Power of the Dog”]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年轻的乌克兰人一夜之间失去了什么]]></title>
-        <id>https://www.newyorker.com/culture/photo-booth/what-young-ukrainians-have-lost-overnight</id>
-        <link href="https://www.newyorker.com/culture/photo-booth/what-young-ukrainians-have-lost-overnight"/>
-        <updated>2022-03-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What Young Ukrainians Have Lost Overnight]]></summary>
-        <author>
-            <name>Sophie Pinkham</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一位保护其文化遗产的科特迪瓦艺术家]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/14/an-ivorian-artist-who-preserved-his-cultural-heritage</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/14/an-ivorian-artist-who-preserved-his-cultural-heritage"/>
-        <updated>2022-03-04T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[An Ivorian Artist Who Preserved His Cultural Heritage]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在霍克斯莫尔的令人愉快的发现]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/21/delightful-discoveries-at-hawksmoor</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/21/delightful-discoveries-at-hawksmoor"/>
-        <updated>2022-03-11T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Delightful Discoveries at Hawksmoor]]></summary>
-        <author>
-            <name>Jiayang Fan</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[迪翁-沃里克的无暇之音]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/21/dionne-warwicks-flawless-voice</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/21/dionne-warwicks-flawless-voice"/>
-        <updated>2022-03-11T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dionne Warwick’s Flawless Voice]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Bel-Air "和 "Abbott Elementary "重新启动和恢复网络情景喜剧]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/21/bel-air-and-abbott-elementary-reboot-and-revive-the-network-sitcom</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/21/bel-air-and-abbott-elementary-reboot-and-revive-the-network-sitcom"/>
-        <updated>2022-03-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“Bel-Air” and “Abbott Elementary” Reboot and Revive the Network Sitcom]]></summary>
-        <author>
-            <name>Doreen St. Félix</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国女人》中的历史课]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/21/history-lessons-in-the-chinese-lady</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/21/history-lessons-in-the-chinese-lady"/>
-        <updated>2022-03-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[History Lessons in “The Chinese Lady”]]></summary>
-        <author>
-            <name>Vinson Cunningham</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文学界最具争议性的诺贝尔奖获得者]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/21/literatures-most-controversial-nobel-laureate</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/21/literatures-most-controversial-nobel-laureate"/>
-        <updated>2022-03-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Literature’s Most Controversial Nobel Laureate]]></summary>
-        <author>
-            <name>Ruth Franklin</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[战争时期的艺术]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/21/art-in-a-time-of-war</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/21/art-in-a-time-of-war"/>
-        <updated>2022-03-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Art in a Time of War]]></summary>
-        <author>
-            <name>Peter Schjeldahl</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沙卡里-理查德森在 "11秒内 "攻克时间难题]]></title>
-        <id>https://www.newyorker.com/culture/the-new-yorker-documentary/shacarri-richardson-tackles-time-in-sub-eleven-seconds</id>
-        <link href="https://www.newyorker.com/culture/the-new-yorker-documentary/shacarri-richardson-tackles-time-in-sub-eleven-seconds"/>
-        <updated>2022-03-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sha’Carri Richardson Tackles Time in “Sub Eleven Seconds”]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
