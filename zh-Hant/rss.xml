@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 04 Apr 2022 17:53:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 18:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[婦女真正應該得到什麼？]]></title>
+            <link>https://www.currentaffairs.org/2022/04/what-do-women-really-deserve/</link>
+            <guid>https://www.currentaffairs.org/2022/04/what-do-women-really-deserve/</guid>
+            <pubDate>Mon, 04 Apr 2022 13:53:39 GMT</pubDate>
+            <description><![CDATA[What Do Women Really Deserve?]]></description>
+        </item>
         <item>
             <title><![CDATA[格萊美獎迴歸，但卻難以打出正確的音符]]></title>
             <link>https://www.newyorker.com/culture/culture-desk/the-grammys-return-but-struggle-to-hit-the-right-notes</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.mooreds.com/wordpress/archives/3369</guid>
             <pubDate>Fri, 17 Jul 2020 21:32:24 GMT</pubDate>
             <description><![CDATA[Thoughts on static site generators and WordPress]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我希望我在剛開始做開發時就知道的事]]></title>
-            <link>https://www.mooreds.com/wordpress/archives/3376</link>
-            <guid>https://www.mooreds.com/wordpress/archives/3376</guid>
-            <pubDate>Sun, 02 Aug 2020 15:59:53 GMT</pubDate>
-            <description><![CDATA[What I wish I had known when I was starting out as a developer]]></description>
         </item>
     </channel>
 </rss>
