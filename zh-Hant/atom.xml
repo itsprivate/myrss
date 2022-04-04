@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-04T14:39:50.517Z</updated>
+    <updated>2022-04-04T15:15:29.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[佩林抨擊Wordle使用如此長的單詞]]></title>
+        <id>https://www.newyorker.com/humor/borowitz-report/palin-blasts-wordle-for-using-such-long-words</id>
+        <link href="https://www.newyorker.com/humor/borowitz-report/palin-blasts-wordle-for-using-such-long-words"/>
+        <updated>2022-04-04T14:39:39.000Z</updated>
+        <summary type="html"><![CDATA[Palin Blasts Wordle for Using Such Long Words]]></summary>
+        <author>
+            <name>Andy Borowitz</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們真的應該更經常地出去玩]]></title>
         <id>https://www.theatlantic.com/family/archive/2022/04/third-places-meet-new-people-pandemic/629468/?utm_source=feed</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.mooreds.com/wordpress/archives/3398"/>
         <updated>2020-11-11T12:34:00.000Z</updated>
         <summary type="html"><![CDATA[Book Review: Algorithms to live by]]></summary>
-        <author>
-            <name>moore</name>
-            <uri>http://edit.mooreds.com/wordpress/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[書評。布穀鳥的蛋]]></title>
-        <id>https://www.mooreds.com/wordpress/archives/3405</id>
-        <link href="https://www.mooreds.com/wordpress/archives/3405"/>
-        <updated>2020-12-09T13:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Book Review: The Cuckoo’s Egg]]></summary>
         <author>
             <name>moore</name>
             <uri>http://edit.mooreds.com/wordpress/feed</uri>
