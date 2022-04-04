@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 04 Apr 2022 06:39:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 09:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[西方如何重建其世界]]></title>
+            <link>https://www.theatlantic.com/international/archive/2022/04/western-response-to-china-russia-invasion/629465/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/international/archive/2022/04/western-response-to-china-russia-invasion/629465/?utm_source=feed</guid>
+            <pubDate>Mon, 04 Apr 2022 09:00:56 GMT</pubDate>
+            <description><![CDATA[How the West Rebuilds Its World]]></description>
+        </item>
         <item>
             <title><![CDATA[针对俄罗斯的长期经济战争。一个计划]]></title>
             <link>https://noahpinion.substack.com/p/the-long-economic-war-against-russia</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/culture/the-new-yorker-documentary/shacarri-richardson-tackles-time-in-sub-eleven-seconds</guid>
             <pubDate>Wed, 16 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Sha’Carri Richardson Tackles Time in “Sub Eleven Seconds”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[WurlD的低调的全球声音]]></title>
-            <link>https://www.newyorker.com/culture/listening-booth/wurlds-understated-global-sound</link>
-            <guid>https://www.newyorker.com/culture/listening-booth/wurlds-understated-global-sound</guid>
-            <pubDate>Wed, 16 Mar 2022 18:58:07 GMT</pubDate>
-            <description><![CDATA[WurlD’s Understated Global Sound]]></description>
         </item>
     </channel>
 </rss>

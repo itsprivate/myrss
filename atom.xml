@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-04T06:39:23.234Z</updated>
+    <updated>2022-04-04T09:13:51.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[西方如何重建其世界]]></title>
+        <id>https://www.theatlantic.com/international/archive/2022/04/western-response-to-china-russia-invasion/629465/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/international/archive/2022/04/western-response-to-china-russia-invasion/629465/?utm_source=feed"/>
+        <updated>2022-04-04T09:00:56.000Z</updated>
+        <summary type="html"><![CDATA[How the West Rebuilds Its World]]></summary>
+        <author>
+            <name>Tom McTague</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[针对俄罗斯的长期经济战争。一个计划]]></title>
         <id>https://noahpinion.substack.com/p/the-long-economic-war-against-russia</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Sha’Carri Richardson Tackles Time in “Sub Eleven Seconds”]]></summary>
         <author>
             <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WurlD的低调的全球声音]]></title>
-        <id>https://www.newyorker.com/culture/listening-booth/wurlds-understated-global-sound</id>
-        <link href="https://www.newyorker.com/culture/listening-booth/wurlds-understated-global-sound"/>
-        <updated>2022-03-16T18:58:07.000Z</updated>
-        <summary type="html"><![CDATA[WurlD’s Understated Global Sound]]></summary>
-        <author>
-            <name>Sheldon Pearce</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
