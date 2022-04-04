@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 04 Apr 2022 18:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 18:42:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[发现MWAB的好处]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/discovering-the-benefits-of-mwab</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/discovering-the-benefits-of-mwab</guid>
+            <pubDate>Mon, 04 Apr 2022 18:00:00 GMT</pubDate>
+            <description><![CDATA[Discovering the Benefits of MWAB]]></description>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰的面孔]]></title>
+            <link>https://www.theatlantic.com/photo/2022/04/photos-faces-ukraine/629469/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/photo/2022/04/photos-faces-ukraine/629469/?utm_source=feed</guid>
+            <pubDate>Mon, 04 Apr 2022 18:21:01 GMT</pubDate>
+            <description><![CDATA[Faces of Ukraine]]></description>
+        </item>
         <item>
             <title><![CDATA[妇女真正应该得到什么？]]></title>
             <link>https://www.currentaffairs.org/2022/04/what-do-women-really-deserve/</link>
@@ -4199,20 +4213,6 @@
             <guid>https://astralcodexten.substack.com/p/the-onion-knight</guid>
             <pubDate>Thu, 17 Mar 2022 18:00:45 GMT</pubDate>
             <description><![CDATA[The Onion Knight]]></description>
-        </item>
-        <item>
-            <title><![CDATA[隐秘的公开主题215.5]]></title>
-            <link>https://astralcodexten.substack.com/p/hidden-open-thread-2155</link>
-            <guid>https://astralcodexten.substack.com/p/hidden-open-thread-2155</guid>
-            <pubDate>Fri, 18 Mar 2022 19:01:15 GMT</pubDate>
-            <description><![CDATA[Hidden Open Thread 215.5]]></description>
-        </item>
-        <item>
-            <title><![CDATA[关于静态网站生成器和WordPress的思考]]></title>
-            <link>https://www.mooreds.com/wordpress/archives/3369</link>
-            <guid>https://www.mooreds.com/wordpress/archives/3369</guid>
-            <pubDate>Fri, 17 Jul 2020 21:32:24 GMT</pubDate>
-            <description><![CDATA[Thoughts on static site generators and WordPress]]></description>
         </item>
     </channel>
 </rss>
