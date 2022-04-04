@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://noahpinion.substack.com/p/the-long-economic-war-against-russia",
+            "content_html": "",
+            "url": "https://noahpinion.substack.com/p/the-long-economic-war-against-russia",
+            "title": "针对俄罗斯的长期经济战争。一个计划",
+            "summary": "The long economic war against Russia: A plan",
+            "date_modified": "2022-04-04T06:37:28.000Z",
+            "author": {
+                "name": "Noah Smith",
+                "url": "https://noahpinion.substack.com/feed"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/culture/archive/2022/04/grammy-zelensky-ukraine-2022/629467/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/culture/archive/2022/04/grammy-zelensky-ukraine-2022/629467/?utm_source=feed",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-16T18:58:07.000Z",
             "author": {
                 "name": "Sheldon Pearce",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/cartoons/blitts-kvetchbook/law-and-order-svu",
-            "content_html": "",
-            "url": "https://www.newyorker.com/cartoons/blitts-kvetchbook/law-and-order-svu",
-            "title": "法律与秩序。S.V.U.",
-            "summary": "Law & Order: S.V.U.",
-            "date_modified": "2022-03-18T18:05:57.000Z",
-            "author": {
-                "name": "Barry Blitt",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

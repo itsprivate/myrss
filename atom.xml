@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-04T05:30:44.416Z</updated>
+    <updated>2022-04-04T06:39:23.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[针对俄罗斯的长期经济战争。一个计划]]></title>
+        <id>https://noahpinion.substack.com/p/the-long-economic-war-against-russia</id>
+        <link href="https://noahpinion.substack.com/p/the-long-economic-war-against-russia"/>
+        <updated>2022-04-04T06:37:28.000Z</updated>
+        <summary type="html"><![CDATA[The long economic war against Russia: A plan]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[泽伦斯基惊喜亮相格莱美的原因]]></title>
         <id>https://www.theatlantic.com/culture/archive/2022/04/grammy-zelensky-ukraine-2022/629467/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[WurlD’s Understated Global Sound]]></summary>
         <author>
             <name>Sheldon Pearce</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[法律与秩序。S.V.U.]]></title>
-        <id>https://www.newyorker.com/cartoons/blitts-kvetchbook/law-and-order-svu</id>
-        <link href="https://www.newyorker.com/cartoons/blitts-kvetchbook/law-and-order-svu"/>
-        <updated>2022-03-18T18:05:57.000Z</updated>
-        <summary type="html"><![CDATA[Law & Order: S.V.U.]]></summary>
-        <author>
-            <name>Barry Blitt</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

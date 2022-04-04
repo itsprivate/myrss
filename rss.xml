@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 04 Apr 2022 05:30:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 06:39:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[针对俄罗斯的长期经济战争。一个计划]]></title>
+            <link>https://noahpinion.substack.com/p/the-long-economic-war-against-russia</link>
+            <guid>https://noahpinion.substack.com/p/the-long-economic-war-against-russia</guid>
+            <pubDate>Mon, 04 Apr 2022 06:37:28 GMT</pubDate>
+            <description><![CDATA[The long economic war against Russia: A plan]]></description>
+        </item>
         <item>
             <title><![CDATA[泽伦斯基惊喜亮相格莱美的原因]]></title>
             <link>https://www.theatlantic.com/culture/archive/2022/04/grammy-zelensky-ukraine-2022/629467/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/culture/listening-booth/wurlds-understated-global-sound</guid>
             <pubDate>Wed, 16 Mar 2022 18:58:07 GMT</pubDate>
             <description><![CDATA[WurlD’s Understated Global Sound]]></description>
-        </item>
-        <item>
-            <title><![CDATA[法律与秩序。S.V.U.]]></title>
-            <link>https://www.newyorker.com/cartoons/blitts-kvetchbook/law-and-order-svu</link>
-            <guid>https://www.newyorker.com/cartoons/blitts-kvetchbook/law-and-order-svu</guid>
-            <pubDate>Fri, 18 Mar 2022 18:05:57 GMT</pubDate>
-            <description><![CDATA[Law & Order: S.V.U.]]></description>
         </item>
     </channel>
 </rss>
