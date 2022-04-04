@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-04T16:54:31.713Z</updated>
+    <updated>2022-04-04T17:53:45.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[格莱美奖回归，但却难以打出正确的音符]]></title>
+        <id>https://www.newyorker.com/culture/culture-desk/the-grammys-return-but-struggle-to-hit-the-right-notes</id>
+        <link href="https://www.newyorker.com/culture/culture-desk/the-grammys-return-but-struggle-to-hit-the-right-notes"/>
+        <updated>2022-04-04T17:34:43.000Z</updated>
+        <summary type="html"><![CDATA[The Grammys Return, but Struggle to Hit the Right Notes]]></summary>
+        <author>
+            <name>Amanda Petrusich</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[乔恩-巴蒂斯特如何打破格莱美奖的预期]]></title>
         <id>https://www.theatlantic.com/culture/archive/2022/04/grammys-2022-jon-batiste-olivia-rodrigo/629471/?utm_source=feed</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.mooreds.com/wordpress/archives/3376"/>
         <updated>2020-08-02T15:59:53.000Z</updated>
         <summary type="html"><![CDATA[What I wish I had known when I was starting out as a developer]]></summary>
-        <author>
-            <name>moore</name>
-            <uri>http://edit.mooreds.com/wordpress/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[书评。一段名为帝国的记忆]]></title>
-        <id>https://www.mooreds.com/wordpress/archives/3392</id>
-        <link href="https://www.mooreds.com/wordpress/archives/3392"/>
-        <updated>2020-09-22T02:54:22.000Z</updated>
-        <summary type="html"><![CDATA[Book Review: A Memory Called Empire]]></summary>
         <author>
             <name>moore</name>
             <uri>http://edit.mooreds.com/wordpress/feed</uri>

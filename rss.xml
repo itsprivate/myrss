@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 04 Apr 2022 16:54:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 17:53:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[格莱美奖回归，但却难以打出正确的音符]]></title>
+            <link>https://www.newyorker.com/culture/culture-desk/the-grammys-return-but-struggle-to-hit-the-right-notes</link>
+            <guid>https://www.newyorker.com/culture/culture-desk/the-grammys-return-but-struggle-to-hit-the-right-notes</guid>
+            <pubDate>Mon, 04 Apr 2022 17:34:43 GMT</pubDate>
+            <description><![CDATA[The Grammys Return, but Struggle to Hit the Right Notes]]></description>
+        </item>
         <item>
             <title><![CDATA[乔恩-巴蒂斯特如何打破格莱美奖的预期]]></title>
             <link>https://www.theatlantic.com/culture/archive/2022/04/grammys-2022-jon-batiste-olivia-rodrigo/629471/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.mooreds.com/wordpress/archives/3376</guid>
             <pubDate>Sun, 02 Aug 2020 15:59:53 GMT</pubDate>
             <description><![CDATA[What I wish I had known when I was starting out as a developer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[书评。一段名为帝国的记忆]]></title>
-            <link>https://www.mooreds.com/wordpress/archives/3392</link>
-            <guid>https://www.mooreds.com/wordpress/archives/3392</guid>
-            <pubDate>Tue, 22 Sep 2020 02:54:22 GMT</pubDate>
-            <description><![CDATA[Book Review: A Memory Called Empire]]></description>
         </item>
     </channel>
 </rss>
