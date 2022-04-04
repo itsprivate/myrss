@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 04 Apr 2022 19:29:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 19:37:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[基辅普通生命的毁灭]]></title>
+            <link>https://www.newyorker.com/culture/photo-booth/the-destruction-of-ordinary-lives-in-kyiv</link>
+            <guid>https://www.newyorker.com/culture/photo-booth/the-destruction-of-ordinary-lives-in-kyiv</guid>
+            <pubDate>Mon, 04 Apr 2022 19:14:30 GMT</pubDate>
+            <description><![CDATA[The Destruction of Ordinary Lives in Kyiv]]></description>
+        </item>
         <item>
             <title><![CDATA[机舱热的文献]]></title>
             <link>https://www.newyorker.com/magazine/2022/04/11/the-literature-of-cabin-fever</link>
@@ -4206,13 +4213,6 @@
             <guid>https://astralcodexten.substack.com/p/progesterone-megadoses-might-be-a</guid>
             <pubDate>Thu, 10 Mar 2022 21:13:58 GMT</pubDate>
             <description><![CDATA[Progesterone Megadoses Might Be A Cheap Zulresso Substitute]]></description>
-        </item>
-        <item>
-            <title><![CDATA[隐秘的公开主题214.5]]></title>
-            <link>https://astralcodexten.substack.com/p/hidden-open-thread-2145</link>
-            <guid>https://astralcodexten.substack.com/p/hidden-open-thread-2145</guid>
-            <pubDate>Fri, 11 Mar 2022 19:29:50 GMT</pubDate>
-            <description><![CDATA[Hidden Open Thread 214.5]]></description>
         </item>
     </channel>
 </rss>
