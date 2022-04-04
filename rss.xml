@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 04 Apr 2022 11:52:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 12:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[埃隆-马斯克购买了Twitter的大量股份。]]></title>
+            <link>https://www.nytimes.com/2022/04/04/technology/elon-musk-twitter.html</link>
+            <guid>https://www.nytimes.com/2022/04/04/technology/elon-musk-twitter.html</guid>
+            <pubDate>Mon, 04 Apr 2022 11:59:42 GMT</pubDate>
+            <description><![CDATA[Elon Musk buys a large stake in Twitter.]]></description>
+        </item>
         <item>
             <title><![CDATA[杰西卡-布鲁德通过《地下堕胎》报告了为后<em>罗伊<em>未来做准备的秘密网络。]]></title>
             <link>https://www.theatlantic.com/press-releases/archive/2022/04/atlantics-may-2022-issue-abortion-underground-jessica-bruder/629466/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.mooreds.com/wordpress/archives/3445</guid>
             <pubDate>Sat, 03 Apr 2021 17:09:02 GMT</pubDate>
             <description><![CDATA[Advice for finding a technical co-founder]]></description>
-        </item>
-        <item>
-            <title><![CDATA[婴儿的十二生肖图]]></title>
-            <link>https://www.newyorker.com/humor/daily-shouts/a-zodiac-chart-for-babies</link>
-            <guid>https://www.newyorker.com/humor/daily-shouts/a-zodiac-chart-for-babies</guid>
-            <pubDate>Fri, 18 Mar 2022 18:00:00 GMT</pubDate>
-            <description><![CDATA[A Zodiac Chart for Babies]]></description>
         </item>
     </channel>
 </rss>
