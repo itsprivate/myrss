@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-05T19:00:35.106Z</updated>
+    <updated>2022-04-05T19:28:13.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[計算機可以學習常識嗎？]]></title>
+        <id>https://www.newyorker.com/tech/annals-of-technology/can-computers-learn-common-sense</id>
+        <link href="https://www.newyorker.com/tech/annals-of-technology/can-computers-learn-common-sense"/>
+        <updated>2022-04-05T19:11:03.000Z</updated>
+        <summary type="html"><![CDATA[Can Computers Learn Common Sense?]]></summary>
+        <author>
+            <name>Matthew Hutson</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[埃隆-馬斯克當然希望使用Twitter]]></title>
+        <id>https://www.theatlantic.com/technology/archive/2022/04/elon-musk-twitter-free-speech/629479/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/technology/archive/2022/04/elon-musk-twitter-free-speech/629479/?utm_source=feed"/>
+        <updated>2022-04-05T19:06:05.000Z</updated>
+        <summary type="html"><![CDATA[Of Course Elon Musk Wanted Twitter]]></summary>
+        <author>
+            <name>Marina Koren</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[黑客假稱烏克蘭投降並沒有騙過任何人。那麼他們的目標是什麼？]]></title>
         <id>https://www.nytimes.com/2022/04/05/us/politics/ukraine-russia-hackers.html</id>
@@ -6588,28 +6610,6 @@
         <link href="http://cacm.acm.org/magazines/2022/4/259395-systems-abstractions"/>
         <updated>2022-04-01T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[Systems Abstractions]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球供應鏈的破壞和復原力]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259394-global-supply-chain-disruption-and-resilience</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259394-global-supply-chain-disruption-and-resilience"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Global Supply Chain Disruption and Resilience]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[歡迎]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259393-welcome</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259393-welcome"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://cacm.acm.org/magazine.rss</uri>

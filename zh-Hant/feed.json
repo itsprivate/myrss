@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/tech/annals-of-technology/can-computers-learn-common-sense",
+            "content_html": "",
+            "url": "https://www.newyorker.com/tech/annals-of-technology/can-computers-learn-common-sense",
+            "title": "計算機可以學習常識嗎？",
+            "summary": "Can Computers Learn Common Sense?",
+            "date_modified": "2022-04-05T19:11:03.000Z",
+            "author": {
+                "name": "Matthew Hutson",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/technology/archive/2022/04/elon-musk-twitter-free-speech/629479/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/technology/archive/2022/04/elon-musk-twitter-free-speech/629479/?utm_source=feed",
+            "title": "埃隆-馬斯克當然希望使用Twitter",
+            "summary": "Of Course Elon Musk Wanted Twitter",
+            "date_modified": "2022-04-05T19:06:05.000Z",
+            "author": {
+                "name": "Marina Koren",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/05/us/politics/ukraine-russia-hackers.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/05/us/politics/ukraine-russia-hackers.html",
@@ -7180,30 +7204,6 @@
             "url": "http://cacm.acm.org/magazines/2022/4/259395-systems-abstractions",
             "title": "系統抽象",
             "summary": "Systems Abstractions",
-            "date_modified": "2022-04-01T04:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://cacm.acm.org/magazine.rss"
-            }
-        },
-        {
-            "id": "http://cacm.acm.org/magazines/2022/4/259394-global-supply-chain-disruption-and-resilience",
-            "content_html": "",
-            "url": "http://cacm.acm.org/magazines/2022/4/259394-global-supply-chain-disruption-and-resilience",
-            "title": "全球供應鏈的破壞和復原力",
-            "summary": "Global Supply Chain Disruption and Resilience",
-            "date_modified": "2022-04-01T04:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://cacm.acm.org/magazine.rss"
-            }
-        },
-        {
-            "id": "http://cacm.acm.org/magazines/2022/4/259393-welcome",
-            "content_html": "",
-            "url": "http://cacm.acm.org/magazines/2022/4/259393-welcome",
-            "title": "歡迎",
-            "summary": "Welcome",
             "date_modified": "2022-04-01T04:00:00.000Z",
             "author": {
                 "name": "unknown",
