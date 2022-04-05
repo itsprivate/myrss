@@ -19,6 +19,30 @@
             "date_modified": "2022-04-05T16:40:25.000Z",
             "author": {
                 "name": "Amy Davidson Sorkin",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://dkb.io/post/the-next-google",
+            "content_html": "",
+            "url": "https://dkb.io/post/the-next-google",
+            "title": "下一个谷歌",
+            "summary": "The Next Google",
+            "date_modified": "2022-04-05T00:00:00.000Z",
+            "author": {
+                "name": "dkb@dkb.fyi (dkb)",
+                "url": "https://dkb.io/rss.xml"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/daily-comment/three-republicans-for-ketanji-brown-jackson",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/daily-comment/three-republicans-for-ketanji-brown-jackson",
+            "title": "凯坦吉-布朗-杰克逊的三名共和党人",
+            "summary": "Three Republicans for Ketanji Brown Jackson",
+            "date_modified": "2022-04-05T16:40:25.000Z",
+            "author": {
+                "name": "Amy Davidson Sorkin",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         },
@@ -7180,30 +7204,6 @@
             "url": "http://cacm.acm.org/magazines/2022/4/259390-technologys-impact-on-morality",
             "title": "技术对道德的影响",
             "summary": "Technology's Impact on Morality",
-            "date_modified": "2022-04-01T04:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://cacm.acm.org/magazine.rss"
-            }
-        },
-        {
-            "id": "http://cacm.acm.org/magazines/2022/4/259389-achieving-cs-for-all-could-take-decades",
-            "content_html": "",
-            "url": "http://cacm.acm.org/magazines/2022/4/259389-achieving-cs-for-all-could-take-decades",
-            "title": "实现全民CS可能需要数十年时间",
-            "summary": "Achieving CS for All Could Take Decades",
-            "date_modified": "2022-04-01T04:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://cacm.acm.org/magazine.rss"
-            }
-        },
-        {
-            "id": "http://cacm.acm.org/magazines/2022/4/259388-preserving-the-internet",
-            "content_html": "",
-            "url": "http://cacm.acm.org/magazines/2022/4/259388-preserving-the-internet",
-            "title": "保护互联网",
-            "summary": "Preserving the Internet",
             "date_modified": "2022-04-01T04:00:00.000Z",
             "author": {
                 "name": "unknown",
