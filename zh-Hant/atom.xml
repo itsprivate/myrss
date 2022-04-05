@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-05T18:40:32.892Z</updated>
+    <updated>2022-04-05T19:00:35.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[黑客假稱烏克蘭投降並沒有騙過任何人。那麼他們的目標是什麼？]]></title>
+        <id>https://www.nytimes.com/2022/04/05/us/politics/ukraine-russia-hackers.html</id>
+        <link href="https://www.nytimes.com/2022/04/05/us/politics/ukraine-russia-hackers.html"/>
+        <updated>2022-04-05T18:52:47.000Z</updated>
+        <summary type="html"><![CDATA[Hackers’ Fake Claims of Ukrainian Surrender Aren’t Fooling Anyone. So What’s Their Goal?]]></summary>
+        <author>
+            <name>Kate Conger</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[埃隆-馬斯克加入Twitter董事會]]></title>
         <id>https://www.nytimes.com/2022/04/04/business/twitter-elon-musk-directors.html</id>
@@ -6599,17 +6610,6 @@
         <link href="http://cacm.acm.org/magazines/2022/4/259393-welcome"/>
         <updated>2022-04-01T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[Welcome]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仍在等待自動駕駛汽車的出現]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259392-still-waiting-for-self-driving-cars</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259392-still-waiting-for-self-driving-cars"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Still Waiting for Self-Driving Cars]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://cacm.acm.org/magazine.rss</uri>

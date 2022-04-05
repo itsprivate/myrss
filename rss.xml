@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 05 Apr 2022 18:40:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 19:00:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[黑客假称乌克兰投降并没有骗过任何人。那么他们的目标是什么？]]></title>
+            <link>https://www.nytimes.com/2022/04/05/us/politics/ukraine-russia-hackers.html</link>
+            <guid>https://www.nytimes.com/2022/04/05/us/politics/ukraine-russia-hackers.html</guid>
+            <pubDate>Tue, 05 Apr 2022 18:52:47 GMT</pubDate>
+            <description><![CDATA[Hackers’ Fake Claims of Ukrainian Surrender Aren’t Fooling Anyone. So What’s Their Goal?]]></description>
+        </item>
         <item>
             <title><![CDATA[埃隆-马斯克加入Twitter董事会]]></title>
             <link>https://www.nytimes.com/2022/04/04/business/twitter-elon-musk-directors.html</link>
@@ -4206,13 +4213,6 @@
             <guid>http://cacm.acm.org/magazines/2022/4/259393-welcome</guid>
             <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
             <description><![CDATA[Welcome]]></description>
-        </item>
-        <item>
-            <title><![CDATA[仍在等待自动驾驶汽车的出现]]></title>
-            <link>http://cacm.acm.org/magazines/2022/4/259392-still-waiting-for-self-driving-cars</link>
-            <guid>http://cacm.acm.org/magazines/2022/4/259392-still-waiting-for-self-driving-cars</guid>
-            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
-            <description><![CDATA[Still Waiting for Self-Driving Cars]]></description>
         </item>
     </channel>
 </rss>
