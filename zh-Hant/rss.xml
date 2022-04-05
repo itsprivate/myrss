@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 05 Apr 2022 17:37:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 18:40:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[埃隆-馬斯克加入Twitter董事會]]></title>
+            <link>https://www.nytimes.com/2022/04/04/business/twitter-elon-musk-directors.html</link>
+            <guid>https://www.nytimes.com/2022/04/04/business/twitter-elon-musk-directors.html</guid>
+            <pubDate>Tue, 05 Apr 2022 15:32:18 GMT</pubDate>
+            <description><![CDATA[Elon Musk Joins Twitter Board]]></description>
+        </item>
         <item>
             <title><![CDATA[你的財務狀況是否比五年或十年前要好？我們想聽聽這個問題。]]></title>
             <link>https://www.nytimes.com/2022/04/05/technology/finance-stories-inflation-stocks.html</link>
@@ -4206,13 +4213,6 @@
             <guid>http://cacm.acm.org/magazines/2022/4/259392-still-waiting-for-self-driving-cars</guid>
             <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
             <description><![CDATA[Still Waiting for Self-Driving Cars]]></description>
-        </item>
-        <item>
-            <title><![CDATA[人工智能能否學會遺忘？]]></title>
-            <link>http://cacm.acm.org/magazines/2022/4/259391-can-ai-learn-to-forget</link>
-            <guid>http://cacm.acm.org/magazines/2022/4/259391-can-ai-learn-to-forget</guid>
-            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
-            <description><![CDATA[Can AI Learn to Forget?]]></description>
         </item>
     </channel>
 </rss>

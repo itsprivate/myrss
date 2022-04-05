@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/04/business/twitter-elon-musk-directors.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/04/business/twitter-elon-musk-directors.html",
+            "title": "埃隆-马斯克加入Twitter董事会",
+            "summary": "Elon Musk Joins Twitter Board",
+            "date_modified": "2022-04-05T15:32:18.000Z",
+            "author": {
+                "name": "Lauren Hirsch",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/05/technology/finance-stories-inflation-stocks.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/05/technology/finance-stories-inflation-stocks.html",
@@ -7192,18 +7204,6 @@
             "url": "http://cacm.acm.org/magazines/2022/4/259392-still-waiting-for-self-driving-cars",
             "title": "仍在等待自动驾驶汽车的出现",
             "summary": "Still Waiting for Self-Driving Cars",
-            "date_modified": "2022-04-01T04:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://cacm.acm.org/magazine.rss"
-            }
-        },
-        {
-            "id": "http://cacm.acm.org/magazines/2022/4/259391-can-ai-learn-to-forget",
-            "content_html": "",
-            "url": "http://cacm.acm.org/magazines/2022/4/259391-can-ai-learn-to-forget",
-            "title": "人工智能能否学会遗忘？",
-            "summary": "Can AI Learn to Forget?",
             "date_modified": "2022-04-01T04:00:00.000Z",
             "author": {
                 "name": "unknown",

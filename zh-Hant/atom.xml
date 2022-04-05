@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-05T17:37:26.841Z</updated>
+    <updated>2022-04-05T18:40:32.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[埃隆-馬斯克加入Twitter董事會]]></title>
+        <id>https://www.nytimes.com/2022/04/04/business/twitter-elon-musk-directors.html</id>
+        <link href="https://www.nytimes.com/2022/04/04/business/twitter-elon-musk-directors.html"/>
+        <updated>2022-04-05T15:32:18.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk Joins Twitter Board]]></summary>
+        <author>
+            <name>Lauren Hirsch</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的財務狀況是否比五年或十年前要好？我們想聽聽這個問題。]]></title>
         <id>https://www.nytimes.com/2022/04/05/technology/finance-stories-inflation-stocks.html</id>
@@ -6599,17 +6610,6 @@
         <link href="http://cacm.acm.org/magazines/2022/4/259392-still-waiting-for-self-driving-cars"/>
         <updated>2022-04-01T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[Still Waiting for Self-Driving Cars]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人工智能能否學會遺忘？]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259391-can-ai-learn-to-forget</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259391-can-ai-learn-to-forget"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Can AI Learn to Forget?]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://cacm.acm.org/magazine.rss</uri>
