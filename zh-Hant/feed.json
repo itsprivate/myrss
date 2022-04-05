@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/05/business/media/jason-kilar-warnermedia-discovery.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/05/business/media/jason-kilar-warnermedia-discovery.html",
+            "title": "華納媒體負責人Jason Kilar將在Discovery合併前離職",
+            "summary": "Jason Kilar, WarnerMedia Head, Is Leaving Ahead of Discovery Merger",
+            "date_modified": "2022-04-05T15:27:35.000Z",
+            "author": {
+                "name": "John Koblin",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/cartoons/daily-cartoon/tuesday-april-5th-everything-monster",
             "content_html": "",
             "url": "https://www.newyorker.com/cartoons/daily-cartoon/tuesday-april-5th-everything-monster",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-19T14:44:37.000Z",
             "author": {
                 "name": "Megan Buskey",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/newsletters/archive/2022/03/daylight-saving-time-bill-senate/627118/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/newsletters/archive/2022/03/daylight-saving-time-bill-senate/627118/?utm_source=feed",
-            "title": "<em>《大西洋日報》<em>。我們已經最後一次向前衝了嗎？",
-            "summary": "<em>The Atlantic </em>Daily: Have We Sprung Forward for the Last Time?",
-            "date_modified": "2022-03-19T14:19:51.000Z",
-            "author": {
-                "name": "Caroline Mimbs Nyce",
                 "url": "https://www.theatlantic.com/feed/all/"
             }
         }

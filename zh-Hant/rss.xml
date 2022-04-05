@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 05 Apr 2022 15:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 15:39:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[華納媒體負責人Jason Kilar將在Discovery合併前離職]]></title>
+            <link>https://www.nytimes.com/2022/04/05/business/media/jason-kilar-warnermedia-discovery.html</link>
+            <guid>https://www.nytimes.com/2022/04/05/business/media/jason-kilar-warnermedia-discovery.html</guid>
+            <pubDate>Tue, 05 Apr 2022 15:27:35 GMT</pubDate>
+            <description><![CDATA[Jason Kilar, WarnerMedia Head, Is Leaving Ahead of Discovery Merger]]></description>
+        </item>
         <item>
             <title><![CDATA[每日漫畫。4月5日，星期二]]></title>
             <link>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-april-5th-everything-monster</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/culture/archive/2022/03/ukraine-war-kyiv-urban-spaces/627098/?utm_source=feed</guid>
             <pubDate>Sat, 19 Mar 2022 14:44:37 GMT</pubDate>
             <description><![CDATA[Kyiv's Sublime Urban Spaces Are In Danger]]></description>
-        </item>
-        <item>
-            <title><![CDATA[<em>《大西洋日報》<em>。我們已經最後一次向前衝了嗎？]]></title>
-            <link>https://www.theatlantic.com/newsletters/archive/2022/03/daylight-saving-time-bill-senate/627118/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/newsletters/archive/2022/03/daylight-saving-time-bill-senate/627118/?utm_source=feed</guid>
-            <pubDate>Sat, 19 Mar 2022 14:19:51 GMT</pubDate>
-            <description><![CDATA[<em>The Atlantic </em>Daily: Have We Sprung Forward for the Last Time?]]></description>
         </item>
     </channel>
 </rss>
