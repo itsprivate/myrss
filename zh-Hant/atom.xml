@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-05T15:39:06.668Z</updated>
+    <updated>2022-04-05T16:53:33.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[凱坦吉-布朗-傑克遜的三名共和黨人]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/three-republicans-for-ketanji-brown-jackson</id>
+        <link href="https://www.newyorker.com/news/daily-comment/three-republicans-for-ketanji-brown-jackson"/>
+        <updated>2022-04-05T16:40:25.000Z</updated>
+        <summary type="html"><![CDATA[Three Republicans for Ketanji Brown Jackson]]></summary>
+        <author>
+            <name>Amy Davidson Sorkin</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[太空旅遊不僅僅是玩樂]]></title>
+        <id>https://www.nytimes.com/2022/04/05/technology/space-tourism.html</id>
+        <link href="https://www.nytimes.com/2022/04/05/technology/space-tourism.html"/>
+        <updated>2022-04-05T16:41:51.000Z</updated>
+        <summary type="html"><![CDATA[Space Tourism Isn’t Just Joyriding]]></summary>
+        <author>
+            <name>Shira Ovide</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[華納媒體負責人Jason Kilar將在Discovery合併前離職]]></title>
         <id>https://www.nytimes.com/2022/04/05/business/media/jason-kilar-warnermedia-discovery.html</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>unknown</name>
             <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼羅伯特-帕丁森扮演的嚴峻的蝙蝠俠讓人感到樂觀？]]></title>
-        <id>https://www.theatlantic.com/podcasts/archive/2022/03/why-robert-pattinsons-grim-batman-is-cause-for-optimism/627119/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/podcasts/archive/2022/03/why-robert-pattinsons-grim-batman-is-cause-for-optimism/627119/?utm_source=feed"/>
-        <updated>2022-03-19T16:16:15.000Z</updated>
-        <summary type="html"><![CDATA[Why Robert Pattinson’s Grim Batman Is Cause for Optimism]]></summary>
-        <author>
-            <name>Spencer Kornhaber</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基輔崇高的城市空間正處於危險之中]]></title>
-        <id>https://www.theatlantic.com/culture/archive/2022/03/ukraine-war-kyiv-urban-spaces/627098/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/culture/archive/2022/03/ukraine-war-kyiv-urban-spaces/627098/?utm_source=feed"/>
-        <updated>2022-03-19T14:44:37.000Z</updated>
-        <summary type="html"><![CDATA[Kyiv's Sublime Urban Spaces Are In Danger]]></summary>
-        <author>
-            <name>Megan Buskey</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
