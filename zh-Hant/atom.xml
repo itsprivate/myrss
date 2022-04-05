@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-05T09:12:52.562Z</updated>
+    <updated>2022-04-05T10:14:48.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[提醒大家，由於宇宙的決定論性質，我已經遲到了]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/just-a-heads-up-that-im-running-late-because-of-the-deterministic-nature-of-the-universe</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/just-a-heads-up-that-im-running-late-because-of-the-deterministic-nature-of-the-universe"/>
+        <updated>2022-04-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Just a Heads-Up That I’m Running Late Because of the Deterministic Nature of the Universe]]></summary>
+        <author>
+            <name>Chandler Dean</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[填字遊戲: 2022年4月5日，星期二]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/05</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/05"/>
+        <updated>2022-04-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Crossword: Tuesday, April 5, 2022]]></summary>
+        <author>
+            <name>Anna Shechtman</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[落名：2022年4月5日，星期二]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022-04-05</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022-04-05"/>
+        <updated>2022-04-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Name Drop: Tuesday, April 5, 2022]]></summary>
+        <author>
+            <name>Will Nediger</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[結束對母親的愧疚]]></title>
+        <id>https://www.theatlantic.com/magazine/archive/2022/05/working-mom-career-women-guilt/629364/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/magazine/archive/2022/05/working-mom-career-women-guilt/629364/?utm_source=feed"/>
+        <updated>2022-04-05T10:00:59.000Z</updated>
+        <summary type="html"><![CDATA[The End of Mom Guilt]]></summary>
+        <author>
+            <name>Lara Bazelon</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A.I.驅動的語音分析能否幫助識別精神障礙？]]></title>
         <id>https://www.nytimes.com/2022/04/05/technology/ai-voice-analysis-mental-health.html</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>Steve Coll</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生物錨。一個可能或不可能成功的技巧]]></title>
-        <id>https://astralcodexten.substack.com/p/biological-anchors-a-trick-that-might</id>
-        <link href="https://astralcodexten.substack.com/p/biological-anchors-a-trick-that-might"/>
-        <updated>2022-02-23T22:56:52.000Z</updated>
-        <summary type="html"><![CDATA[Biological Anchors: A Trick That Might Or Might Not Work]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隱秘的公開主題212.5]]></title>
-        <id>https://astralcodexten.substack.com/p/hidden-open-thread-2125</id>
-        <link href="https://astralcodexten.substack.com/p/hidden-open-thread-2125"/>
-        <updated>2022-02-25T02:12:24.000Z</updated>
-        <summary type="html"><![CDATA[Hidden Open Thread 212.5]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奧斯汀見面會的修正]]></title>
-        <id>https://astralcodexten.substack.com/p/austin-meetup-correction</id>
-        <link href="https://astralcodexten.substack.com/p/austin-meetup-correction"/>
-        <updated>2022-02-25T20:45:53.000Z</updated>
-        <summary type="html"><![CDATA[Austin Meetup Correction]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開放話題213]]></title>
-        <id>https://astralcodexten.substack.com/p/open-thread-213</id>
-        <link href="https://astralcodexten.substack.com/p/open-thread-213"/>
-        <updated>2022-02-28T08:04:41.000Z</updated>
-        <summary type="html"><![CDATA[Open Thread 213]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
         </author>
     </entry>
 </feed>
