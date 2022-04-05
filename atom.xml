@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-05T12:56:21.200Z</updated>
+    <updated>2022-04-05T14:40:35.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[America Is Staring Down Its First <em>So What? </em>Wave]]></title>
+        <id>https://www.theatlantic.com/health/archive/2022/04/ba2-omicron-variant-covid-surge/629474/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/health/archive/2022/04/ba2-omicron-variant-covid-surge/629474/?utm_source=feed"/>
+        <updated>2022-04-05T14:24:10.000Z</updated>
+        <summary type="html"><![CDATA[America Is Staring Down Its First <em>So What? </em>Wave]]></summary>
+        <author>
+            <name>Katherine J. Wu</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[强迫性的积极文化阻碍了工作场所的发展]]></title>
+        <id>https://www.theatlantic.com/family/archive/2022/04/work-culture-positivity-personal-power/629478/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/family/archive/2022/04/work-culture-positivity-personal-power/629478/?utm_source=feed"/>
+        <updated>2022-04-05T14:25:15.000Z</updated>
+        <summary type="html"><![CDATA[A Culture of Enforced Positivity Is Holding Back Workplaces]]></summary>
+        <author>
+            <name>Susan Cain</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么反工厂化农业运动需要直接行动？]]></title>
         <id>https://www.currentaffairs.org/2022/03/why-the-anti-factory-farming-movement-needs-direct-action/</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[A Slasher Film That Pays Tribute to the Classics]]></summary>
         <author>
             <name>David Sims</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国的能源安全正在崩溃]]></title>
-        <id>https://www.theatlantic.com/science/archive/2022/03/energy-independence-gas-prices/627117/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/science/archive/2022/03/energy-independence-gas-prices/627117/?utm_source=feed"/>
-        <updated>2022-03-19T12:00:57.000Z</updated>
-        <summary type="html"><![CDATA[America’s Energy Security Is Falling Apart]]></summary>
-        <author>
-            <name>Robinson Meyer</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[共和党人认为他们可以赢得COVID资金之争]]></title>
-        <id>https://www.theatlantic.com/politics/archive/2022/03/covid-relief-aid-congress-republicans/627109/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/politics/archive/2022/03/covid-relief-aid-congress-republicans/627109/?utm_source=feed"/>
-        <updated>2022-03-19T11:01:56.000Z</updated>
-        <summary type="html"><![CDATA[Republicans Think They Can Win the COVID Funding Fight]]></summary>
-        <author>
-            <name>Elaine Godfrey</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
