@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 05 Apr 2022 12:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 12:56:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么反工厂化农业运动需要直接行动？]]></title>
+            <link>https://www.currentaffairs.org/2022/03/why-the-anti-factory-farming-movement-needs-direct-action/</link>
+            <guid>https://www.currentaffairs.org/2022/03/why-the-anti-factory-farming-movement-needs-direct-action/</guid>
+            <pubDate>Mon, 14 Mar 2022 08:12:14 GMT</pubDate>
+            <description><![CDATA[Why the Anti-Factory Farming Movement Needs Direct Action]]></description>
+        </item>
         <item>
             <title><![CDATA[冰箱里的诗]]></title>
             <link>https://austinkleon.substack.com/p/fridge-poems</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/politics/archive/2022/03/covid-relief-aid-congress-republicans/627109/?utm_source=feed</guid>
             <pubDate>Sat, 19 Mar 2022 11:01:56 GMT</pubDate>
             <description><![CDATA[Republicans Think They Can Win the COVID Funding Fight]]></description>
-        </item>
-        <item>
-            <title><![CDATA[克拉夫马加地铁生存指南]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/28/the-krav-maga-subway-survival-guide</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/28/the-krav-maga-subway-survival-guide</guid>
-            <pubDate>Sat, 19 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Krav Maga Subway Survival Guide]]></description>
         </item>
     </channel>
 </rss>
