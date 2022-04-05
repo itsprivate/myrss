@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/daily-comment/will-mercenaries-and-foreign-fighters-change-the-course-of-ukraines-war",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/daily-comment/will-mercenaries-and-foreign-fighters-change-the-course-of-ukraines-war",
+            "title": "雇佣兵和外国战士会改变乌克兰的战争进程吗？",
+            "summary": "Will Mercenaries and Foreign Fighters Change the Course of Ukraine’s War?",
+            "date_modified": "2022-04-05T23:16:12.000Z",
+            "author": {
+                "name": "Robin Wright",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/science/archive/2022/04/naked-mole-rat-spleen-immunity/629484/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/science/archive/2022/04/naked-mole-rat-spleen-immunity/629484/?utm_source=feed",
+            "title": "裸鼹鼠有一个非常奇怪的地位象征",
+            "summary": "Naked Mole Rats Have a Very Strange Status Symbol",
+            "date_modified": "2022-04-05T23:00:56.000Z",
+            "author": {
+                "name": "Katherine J. Wu",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/culture/the-front-row/judd-apatows-the-bubble-reviewed-a-shapeless-comedy-with-a-molten-emotional-core",
             "content_html": "",
             "url": "https://www.newyorker.com/culture/the-front-row/judd-apatows-the-bubble-reviewed-a-shapeless-comedy-with-a-molten-emotional-core",
@@ -7180,30 +7204,6 @@
             "url": "http://cacm.acm.org/magazines/2022/4/259400-on-skin-computing",
             "title": "皮肤上的计算",
             "summary": "On-Skin Computing",
-            "date_modified": "2022-04-01T04:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://cacm.acm.org/magazine.rss"
-            }
-        },
-        {
-            "id": "http://cacm.acm.org/magazines/2022/4/259399-robotic-process-automation-platform-uipath",
-            "content_html": "",
-            "url": "http://cacm.acm.org/magazines/2022/4/259399-robotic-process-automation-platform-uipath",
-            "title": "机器人流程自动化平台UiPath",
-            "summary": "Robotic Process Automation Platform UiPath",
-            "date_modified": "2022-04-01T04:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://cacm.acm.org/magazine.rss"
-            }
-        },
-        {
-            "id": "http://cacm.acm.org/magazines/2022/4/259398-explainable-ai",
-            "content_html": "",
-            "url": "http://cacm.acm.org/magazines/2022/4/259398-explainable-ai",
-            "title": "可解释的人工智能",
-            "summary": "Explainable AI",
             "date_modified": "2022-04-01T04:00:00.000Z",
             "author": {
                 "name": "unknown",
