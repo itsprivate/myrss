@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 05 Apr 2022 20:51:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 21:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[贾德-阿帕图的《泡沫》，评论。一部没有形状的喜剧，有一个熔化的情感核心]]></title>
+            <link>https://www.newyorker.com/culture/the-front-row/judd-apatows-the-bubble-reviewed-a-shapeless-comedy-with-a-molten-emotional-core</link>
+            <guid>https://www.newyorker.com/culture/the-front-row/judd-apatows-the-bubble-reviewed-a-shapeless-comedy-with-a-molten-emotional-core</guid>
+            <pubDate>Tue, 05 Apr 2022 20:44:21 GMT</pubDate>
+            <description><![CDATA[Judd Apatow’s “The Bubble,” Reviewed: A Shapeless Comedy with a Molten Emotional Core]]></description>
+        </item>
         <item>
             <title><![CDATA[贾德-阿帕图的《泡沫》，评论。一部没有形状的喜剧，有一个熔化的情感核心]]></title>
             <link>https://www.newyorker.com/culture/the-front-row/judd-apatows-the-bubble-reviewed-a-shapeless-comedy-with-a-molten-emotional-core</link>
@@ -4206,13 +4213,6 @@
             <guid>http://cacm.acm.org/magazines/2022/4/259398-explainable-ai</guid>
             <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
             <description><![CDATA[Explainable AI]]></description>
-        </item>
-        <item>
-            <title><![CDATA[通讯社的数字倡议及其首次数字活动]]></title>
-            <link>http://cacm.acm.org/magazines/2022/4/259397-communications-digital-initiative-and-its-first-digital-event</link>
-            <guid>http://cacm.acm.org/magazines/2022/4/259397-communications-digital-initiative-and-its-first-digital-event</guid>
-            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
-            <description><![CDATA[Communications' Digital Initiative and Its First Digital Event]]></description>
         </item>
     </channel>
 </rss>
