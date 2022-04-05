@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-05T20:15:04.320Z</updated>
+    <updated>2022-04-05T20:51:57.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[贾德-阿帕图的《泡沫》，评论。一部没有形状的喜剧，有一个熔化的情感核心]]></title>
+        <id>https://www.newyorker.com/culture/the-front-row/judd-apatows-the-bubble-reviewed-a-shapeless-comedy-with-a-molten-emotional-core</id>
+        <link href="https://www.newyorker.com/culture/the-front-row/judd-apatows-the-bubble-reviewed-a-shapeless-comedy-with-a-molten-emotional-core"/>
+        <updated>2022-04-05T20:44:21.000Z</updated>
+        <summary type="html"><![CDATA[Judd Apatow’s “The Bubble,” Reviewed: A Shapeless Comedy with a Molten Emotional Core]]></summary>
+        <author>
+            <name>Richard Brody</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<em>The Atlantic</em> Daily: <em>Roe.v.Wade</em>可能不会再维持太久了]]></title>
         <id>https://www.theatlantic.com/newsletters/archive/2022/04/roe-wade-scotus-activists-abortion/629481/?utm_source=feed</id>
@@ -6599,17 +6610,6 @@
         <link href="http://cacm.acm.org/magazines/2022/4/259397-communications-digital-initiative-and-its-first-digital-event"/>
         <updated>2022-04-01T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[Communications' Digital Initiative and Its First Digital Event]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[走出疯狂的道路]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259396-getting-off-the-mad-path</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259396-getting-off-the-mad-path"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Getting Off the Mad Path]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://cacm.acm.org/magazine.rss</uri>
