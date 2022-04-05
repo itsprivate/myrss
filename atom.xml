@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-05T10:51:51.463Z</updated>
+    <updated>2022-04-05T12:18:13.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[冰箱里的诗]]></title>
+        <id>https://austinkleon.substack.com/p/fridge-poems</id>
+        <link href="https://austinkleon.substack.com/p/fridge-poems"/>
+        <updated>2022-04-05T12:00:39.000Z</updated>
+        <summary type="html"><![CDATA[Fridge poems]]></summary>
+        <author>
+            <name>Austin Kleon</name>
+            <uri>https://austinkleon.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[普京将乌克兰的中立性视为许可]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-neutrality-peace-agreement-finland/629473/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[The Krav Maga Subway Survival Guide]]></summary>
         <author>
             <name>Carrie Battan</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[其他为情侣发明的文字游戏]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/other-word-games-invented-for-couples</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/other-word-games-invented-for-couples"/>
-        <updated>2022-03-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Other Word Games Invented for Couples]]></summary>
-        <author>
-            <name>Ali Solomon</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
