@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-05T00:40:07.427Z</updated>
+    <updated>2022-04-05T09:12:52.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[A.I.驱动的语音分析能否帮助识别精神障碍？]]></title>
+        <id>https://www.nytimes.com/2022/04/05/technology/ai-voice-analysis-mental-health.html</id>
+        <link href="https://www.nytimes.com/2022/04/05/technology/ai-voice-analysis-mental-health.html"/>
+        <updated>2022-04-05T09:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Can A.I.-Driven Voice Analysis Help Identify Mental Disorders?]]></summary>
+        <author>
+            <name>Ingrid K. Williams</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不要再说乌克兰赢得了信息战争了]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/russian-propaganda-zelensky-information-war/629475/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/russian-propaganda-zelensky-information-war/629475/?utm_source=feed"/>
+        <updated>2022-04-05T09:01:56.000Z</updated>
+        <summary type="html"><![CDATA[Stop Saying Ukraine Is Winning the Information War]]></summary>
+        <author>
+            <name>Carl Miller</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[普京的战争给了美国一个认真对待难民的机会]]></title>
         <id>https://www.newyorker.com/news/daily-comment/putins-war-gives-america-a-chance-to-get-serious-about-refugees</id>
@@ -6588,28 +6610,6 @@
         <link href="https://astralcodexten.substack.com/p/open-thread-213"/>
         <updated>2022-02-28T08:04:41.000Z</updated>
         <summary type="html"><![CDATA[Open Thread 213]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰的战争预测]]></title>
-        <id>https://astralcodexten.substack.com/p/ukraine-warcasting</id>
-        <link href="https://astralcodexten.substack.com/p/ukraine-warcasting"/>
-        <updated>2022-03-01T07:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine Warcasting]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微型成瘾症]]></title>
-        <id>https://astralcodexten.substack.com/p/microaddictions</id>
-        <link href="https://astralcodexten.substack.com/p/microaddictions"/>
-        <updated>2022-03-02T06:32:38.000Z</updated>
-        <summary type="html"><![CDATA[Microaddictions]]></summary>
         <author>
             <name>Scott Alexander</name>
             <uri>https://astralcodexten.substack.com/feed</uri>

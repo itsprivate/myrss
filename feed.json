@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/05/technology/ai-voice-analysis-mental-health.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/05/technology/ai-voice-analysis-mental-health.html",
+            "title": "A.I.驱动的语音分析能否帮助识别精神障碍？",
+            "summary": "Can A.I.-Driven Voice Analysis Help Identify Mental Disorders?",
+            "date_modified": "2022-04-05T09:00:22.000Z",
+            "author": {
+                "name": "Ingrid K. Williams",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/04/russian-propaganda-zelensky-information-war/629475/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/04/russian-propaganda-zelensky-information-war/629475/?utm_source=feed",
+            "title": "不要再说乌克兰赢得了信息战争了",
+            "summary": "Stop Saying Ukraine Is Winning the Information War",
+            "date_modified": "2022-04-05T09:01:56.000Z",
+            "author": {
+                "name": "Carl Miller",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/daily-comment/putins-war-gives-america-a-chance-to-get-serious-about-refugees",
             "content_html": "",
             "url": "https://www.newyorker.com/news/daily-comment/putins-war-gives-america-a-chance-to-get-serious-about-refugees",
@@ -7181,30 +7205,6 @@
             "title": "开放话题213",
             "summary": "Open Thread 213",
             "date_modified": "2022-02-28T08:04:41.000Z",
-            "author": {
-                "name": "Scott Alexander",
-                "url": "https://astralcodexten.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://astralcodexten.substack.com/p/ukraine-warcasting",
-            "content_html": "",
-            "url": "https://astralcodexten.substack.com/p/ukraine-warcasting",
-            "title": "乌克兰的战争预测",
-            "summary": "Ukraine Warcasting",
-            "date_modified": "2022-03-01T07:51:00.000Z",
-            "author": {
-                "name": "Scott Alexander",
-                "url": "https://astralcodexten.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://astralcodexten.substack.com/p/microaddictions",
-            "content_html": "",
-            "url": "https://astralcodexten.substack.com/p/microaddictions",
-            "title": "微型成瘾症",
-            "summary": "Microaddictions",
-            "date_modified": "2022-03-02T06:32:38.000Z",
             "author": {
                 "name": "Scott Alexander",
                 "url": "https://astralcodexten.substack.com/feed"

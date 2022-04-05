@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 05 Apr 2022 00:40:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 09:12:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[A.I.驱动的语音分析能否帮助识别精神障碍？]]></title>
+            <link>https://www.nytimes.com/2022/04/05/technology/ai-voice-analysis-mental-health.html</link>
+            <guid>https://www.nytimes.com/2022/04/05/technology/ai-voice-analysis-mental-health.html</guid>
+            <pubDate>Tue, 05 Apr 2022 09:00:22 GMT</pubDate>
+            <description><![CDATA[Can A.I.-Driven Voice Analysis Help Identify Mental Disorders?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[不要再说乌克兰赢得了信息战争了]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/russian-propaganda-zelensky-information-war/629475/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/russian-propaganda-zelensky-information-war/629475/?utm_source=feed</guid>
+            <pubDate>Tue, 05 Apr 2022 09:01:56 GMT</pubDate>
+            <description><![CDATA[Stop Saying Ukraine Is Winning the Information War]]></description>
+        </item>
         <item>
             <title><![CDATA[普京的战争给了美国一个认真对待难民的机会]]></title>
             <link>https://www.newyorker.com/news/daily-comment/putins-war-gives-america-a-chance-to-get-serious-about-refugees</link>
@@ -4199,20 +4213,6 @@
             <guid>https://astralcodexten.substack.com/p/open-thread-213</guid>
             <pubDate>Mon, 28 Feb 2022 08:04:41 GMT</pubDate>
             <description><![CDATA[Open Thread 213]]></description>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰的战争预测]]></title>
-            <link>https://astralcodexten.substack.com/p/ukraine-warcasting</link>
-            <guid>https://astralcodexten.substack.com/p/ukraine-warcasting</guid>
-            <pubDate>Tue, 01 Mar 2022 07:51:00 GMT</pubDate>
-            <description><![CDATA[Ukraine Warcasting]]></description>
-        </item>
-        <item>
-            <title><![CDATA[微型成瘾症]]></title>
-            <link>https://astralcodexten.substack.com/p/microaddictions</link>
-            <guid>https://astralcodexten.substack.com/p/microaddictions</guid>
-            <pubDate>Wed, 02 Mar 2022 06:32:38 GMT</pubDate>
-            <description><![CDATA[Microaddictions]]></description>
         </item>
     </channel>
 </rss>
