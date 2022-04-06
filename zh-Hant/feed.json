@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/culture/archive/2022/04/servant-of-the-people-zelensky-netflix-show/629493/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/culture/archive/2022/04/servant-of-the-people-zelensky-netflix-show/629493/?utm_source=feed",
+            "title": "在2022年觀看<em>人民的僕人<em>。",
+            "summary": "Watching <em>Servant of the People </em>in 2022",
+            "date_modified": "2022-04-06T18:37:33.000Z",
+            "author": {
+                "name": "Courtney Sender",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/culture/archive/2022/04/sonic-the-hedgehog-2-movie-review/629492/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/culture/archive/2022/04/sonic-the-hedgehog-2-movie-review/629492/?utm_source=feed",
+            "title": "<em>刺蝟索尼克2</em>將視頻遊戲的傳說變成了好萊塢的歡樂。",
+            "summary": "<em>Sonic the Hedgehog 2</em> Turns Video-Game Lore Into Hollywood Joy",
+            "date_modified": "2022-04-06T18:41:32.000Z",
+            "author": {
+                "name": "David Sims",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/newsletters/archive/2022/04/jeffrey-goldberg-disinformation-democracy-threat/629487/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/newsletters/archive/2022/04/jeffrey-goldberg-disinformation-democracy-threat/629487/?utm_source=feed",
@@ -7183,30 +7207,6 @@
             "date_modified": "2022-03-21T10:00:00.000Z",
             "author": {
                 "name": "Toi Derricotte",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/culture-desk/giving-phife-dawg-the-sound-of-forever",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/culture-desk/giving-phife-dawg-the-sound-of-forever",
-            "title": "給予Phife Dawg \"永遠 \"的聲音",
-            "summary": "Giving Phife Dawg the Sound of “Forever”",
-            "date_modified": "2022-03-21T10:00:00.000Z",
-            "author": {
-                "name": "Charles Bethea",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/cover-story/cover-story-2022-03-28",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/cover-story/cover-story-2022-03-28",
-            "title": "菲斯-林戈爾德的 \"爵士故事\"。有人偷走了我破碎的心\"",
-            "summary": "Faith Ringgold’s “Jazz Stories: Somebody Stole My Broken Heart”",
-            "date_modified": "2022-03-21T10:00:00.000Z",
-            "author": {
-                "name": "Françoise Mouly",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

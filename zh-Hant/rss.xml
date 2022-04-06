@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 06 Apr 2022 18:39:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 18:57:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在2022年觀看<em>人民的僕人<em>。]]></title>
+            <link>https://www.theatlantic.com/culture/archive/2022/04/servant-of-the-people-zelensky-netflix-show/629493/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/culture/archive/2022/04/servant-of-the-people-zelensky-netflix-show/629493/?utm_source=feed</guid>
+            <pubDate>Wed, 06 Apr 2022 18:37:33 GMT</pubDate>
+            <description><![CDATA[Watching <em>Servant of the People </em>in 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[<em>刺蝟索尼克2</em>將視頻遊戲的傳說變成了好萊塢的歡樂。]]></title>
+            <link>https://www.theatlantic.com/culture/archive/2022/04/sonic-the-hedgehog-2-movie-review/629492/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/culture/archive/2022/04/sonic-the-hedgehog-2-movie-review/629492/?utm_source=feed</guid>
+            <pubDate>Wed, 06 Apr 2022 18:41:32 GMT</pubDate>
+            <description><![CDATA[<em>Sonic the Hedgehog 2</em> Turns Video-Game Lore Into Hollywood Joy]]></description>
+        </item>
         <item>
             <title><![CDATA[虛假信息是我們這個時代的故事]]></title>
             <link>https://www.theatlantic.com/newsletters/archive/2022/04/jeffrey-goldberg-disinformation-democracy-threat/629487/?utm_source=feed</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/magazine/2022/03/28/for-my-light-skin</guid>
             <pubDate>Mon, 21 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[“For My Light Skin,” by Toi Derricotte]]></description>
-        </item>
-        <item>
-            <title><![CDATA[給予Phife Dawg "永遠 "的聲音]]></title>
-            <link>https://www.newyorker.com/culture/culture-desk/giving-phife-dawg-the-sound-of-forever</link>
-            <guid>https://www.newyorker.com/culture/culture-desk/giving-phife-dawg-the-sound-of-forever</guid>
-            <pubDate>Mon, 21 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Giving Phife Dawg the Sound of “Forever”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[菲斯-林戈爾德的 "爵士故事"。有人偷走了我破碎的心"]]></title>
-            <link>https://www.newyorker.com/culture/cover-story/cover-story-2022-03-28</link>
-            <guid>https://www.newyorker.com/culture/cover-story/cover-story-2022-03-28</guid>
-            <pubDate>Mon, 21 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Faith Ringgold’s “Jazz Stories: Somebody Stole My Broken Heart”]]></description>
         </item>
     </channel>
 </rss>

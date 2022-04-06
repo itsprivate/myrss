@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-06T18:39:08.566Z</updated>
+    <updated>2022-04-06T18:57:02.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在2022年观看<em>人民的仆人<em>。]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/04/servant-of-the-people-zelensky-netflix-show/629493/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/04/servant-of-the-people-zelensky-netflix-show/629493/?utm_source=feed"/>
+        <updated>2022-04-06T18:37:33.000Z</updated>
+        <summary type="html"><![CDATA[Watching <em>Servant of the People </em>in 2022]]></summary>
+        <author>
+            <name>Courtney Sender</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<em>刺猬索尼克2</em>将视频游戏的传说变成了好莱坞的欢乐。]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/04/sonic-the-hedgehog-2-movie-review/629492/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/04/sonic-the-hedgehog-2-movie-review/629492/?utm_source=feed"/>
+        <updated>2022-04-06T18:41:32.000Z</updated>
+        <summary type="html"><![CDATA[<em>Sonic the Hedgehog 2</em> Turns Video-Game Lore Into Hollywood Joy]]></summary>
+        <author>
+            <name>David Sims</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[虚假信息是我们这个时代的故事]]></title>
         <id>https://www.theatlantic.com/newsletters/archive/2022/04/jeffrey-goldberg-disinformation-democracy-threat/629487/?utm_source=feed</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[“For My Light Skin,” by Toi Derricotte]]></summary>
         <author>
             <name>Toi Derricotte</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[给予Phife Dawg "永远 "的声音]]></title>
-        <id>https://www.newyorker.com/culture/culture-desk/giving-phife-dawg-the-sound-of-forever</id>
-        <link href="https://www.newyorker.com/culture/culture-desk/giving-phife-dawg-the-sound-of-forever"/>
-        <updated>2022-03-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Giving Phife Dawg the Sound of “Forever”]]></summary>
-        <author>
-            <name>Charles Bethea</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[菲斯-林戈尔德的 "爵士故事"。有人偷走了我破碎的心"]]></title>
-        <id>https://www.newyorker.com/culture/cover-story/cover-story-2022-03-28</id>
-        <link href="https://www.newyorker.com/culture/cover-story/cover-story-2022-03-28"/>
-        <updated>2022-03-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Faith Ringgold’s “Jazz Stories: Somebody Stole My Broken Heart”]]></summary>
-        <author>
-            <name>Françoise Mouly</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
