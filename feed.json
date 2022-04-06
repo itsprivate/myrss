@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/press-releases/archive/2022/04/atlantic-wins-general-excellence-2022-national-magazine-awards/629488/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/press-releases/archive/2022/04/atlantic-wins-general-excellence-2022-national-magazine-awards/629488/?utm_source=feed",
+            "title": "<em>《大西洋》</em>在2022年国家杂志奖中获得综合优秀奖",
+            "summary": "<em>The Atlantic</em> Wins General Excellence at 2022 National Magazine Awards",
+            "date_modified": "2022-04-06T14:15:36.000Z",
+            "author": {
+                "name": "The Atlantic",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/06/technology/openai-images-dall-e.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/06/technology/openai-images-dall-e.html",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Sarah Larson",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/books/archive/2022/03/poem-stephen-sandy-change/627116/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/books/archive/2022/03/poem-stephen-sandy-change/627116/?utm_source=feed",
-            "title": "变化",
-            "summary": "The Change",
-            "date_modified": "2022-03-20T12:00:57.000Z",
-            "author": {
-                "name": "Stephen Sandy",
-                "url": "https://www.theatlantic.com/feed/all/"
             }
         }
     ]

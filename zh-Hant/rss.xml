@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 06 Apr 2022 14:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 14:32:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[<em>《大西洋》</em>在2022年國家雜誌獎中獲得綜合優秀獎]]></title>
+            <link>https://www.theatlantic.com/press-releases/archive/2022/04/atlantic-wins-general-excellence-2022-national-magazine-awards/629488/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/press-releases/archive/2022/04/atlantic-wins-general-excellence-2022-national-magazine-awards/629488/?utm_source=feed</guid>
+            <pubDate>Wed, 06 Apr 2022 14:15:36 GMT</pubDate>
+            <description><![CDATA[<em>The Atlantic</em> Wins General Excellence at 2022 National Magazine Awards]]></description>
+        </item>
         <item>
             <title><![CDATA[遇見達利，這個人工智能可以在你的命令下繪製任何東西]]></title>
             <link>https://www.nytimes.com/2022/04/06/technology/openai-images-dall-e.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/culture/podcast-dept/the-trojan-horse-affair-works-best-when-studying-itself</guid>
             <pubDate>Sun, 20 Mar 2022 14:07:14 GMT</pubDate>
             <description><![CDATA[“The Trojan Horse Affair” Works Best When Studying Itself]]></description>
-        </item>
-        <item>
-            <title><![CDATA[變化]]></title>
-            <link>https://www.theatlantic.com/books/archive/2022/03/poem-stephen-sandy-change/627116/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/books/archive/2022/03/poem-stephen-sandy-change/627116/?utm_source=feed</guid>
-            <pubDate>Sun, 20 Mar 2022 12:00:57 GMT</pubDate>
-            <description><![CDATA[The Change]]></description>
         </item>
     </channel>
 </rss>
