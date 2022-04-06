@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-06T16:52:11.626Z</updated>
+    <updated>2022-04-06T17:07:23.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[老一辈的人在追赶Netflix]]></title>
+        <id>https://www.nytimes.com/2022/04/06/technology/netflix-commercials.html</id>
+        <link href="https://www.nytimes.com/2022/04/06/technology/netflix-commercials.html"/>
+        <updated>2022-04-06T16:42:46.000Z</updated>
+        <summary type="html"><![CDATA[The Old-Timers Are Chasing Netflix]]></summary>
+        <author>
+            <name>Shira Ovide</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<em>《大西洋日报》<em>。恐怖的场景]]></title>
         <id>https://www.theatlantic.com/newsletters/archive/2022/04/bucha-russia-allegation-horror/629490/?utm_source=feed</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Noah Smith</name>
             <uri>https://noahpinion.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多伦多的科技产业正在悄然兴起]]></title>
-        <id>https://www.nytimes.com/2022/03/21/technology/toronto-tech-boom.html</id>
-        <link href="https://www.nytimes.com/2022/03/21/technology/toronto-tech-boom.html"/>
-        <updated>2022-03-21T07:00:17.000Z</updated>
-        <summary type="html"><![CDATA[Toronto’s Tech Industry Is Quietly Booming]]></summary>
-        <author>
-            <name>Cade Metz</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>
