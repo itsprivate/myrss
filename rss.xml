@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 06 Apr 2022 13:50:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 14:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[遇见达利，这个人工智能可以在你的命令下绘制任何东西]]></title>
+            <link>https://www.nytimes.com/2022/04/06/technology/openai-images-dall-e.html</link>
+            <guid>https://www.nytimes.com/2022/04/06/technology/openai-images-dall-e.html</guid>
+            <pubDate>Wed, 06 Apr 2022 14:00:12 GMT</pubDate>
+            <description><![CDATA[Meet DALL-E, the A.I. That Draws Anything at Your Command]]></description>
+        </item>
         <item>
             <title><![CDATA[Pinterest禁止帖子和广告中出现气候错误信息]]></title>
             <link>https://www.nytimes.com/2022/04/06/technology/pinterest-climate-misinformation.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/books/archive/2022/03/poem-stephen-sandy-change/627116/?utm_source=feed</guid>
             <pubDate>Sun, 20 Mar 2022 12:00:57 GMT</pubDate>
             <description><![CDATA[The Change]]></description>
-        </item>
-        <item>
-            <title><![CDATA[凯坦吉-布朗-杰克逊知道的法院]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/court-ketanji-brown-jackson-knew/627096/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/court-ketanji-brown-jackson-knew/627096/?utm_source=feed</guid>
-            <pubDate>Sun, 20 Mar 2022 11:01:56 GMT</pubDate>
-            <description><![CDATA[The Court Ketanji Brown Jackson Knew]]></description>
         </item>
     </channel>
 </rss>
