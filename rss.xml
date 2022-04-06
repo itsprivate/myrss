@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 06 Apr 2022 21:32:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 21:54:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[梳妆打扮不是这样的意思]]></title>
+            <link>https://www.theatlantic.com/newsletters/archive/2022/04/thats-not-what-grooming-means/629501/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/newsletters/archive/2022/04/thats-not-what-grooming-means/629501/?utm_source=feed</guid>
+            <pubDate>Wed, 06 Apr 2022 21:32:50 GMT</pubDate>
+            <description><![CDATA[That’s Not What Grooming Means]]></description>
+        </item>
         <item>
             <title><![CDATA[美国文化为何如此令人不安]]></title>
             <link>https://www.currentaffairs.org/2022/04/why-american-culture-is-so-disturbing/</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/magazine/2022/03/28/letters-from-the-march-28-2022-issue</guid>
             <pubDate>Mon, 21 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[The Mail]]></description>
-        </item>
-        <item>
-            <title><![CDATA[杰伊-纽曼想成为华尔街的沃尔夫]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/28/jay-newman-wants-to-be-the-wolfe-of-wall-street</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/28/jay-newman-wants-to-be-the-wolfe-of-wall-street</guid>
-            <pubDate>Mon, 21 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Jay Newman Wants to Be the Wolfe of Wall Street]]></description>
         </item>
     </channel>
 </rss>

@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/newsletters/archive/2022/04/thats-not-what-grooming-means/629501/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/newsletters/archive/2022/04/thats-not-what-grooming-means/629501/?utm_source=feed",
+            "title": "梳妝打扮不是這樣的意思",
+            "summary": "That’s Not What Grooming Means",
+            "date_modified": "2022-04-06T21:32:50.000Z",
+            "author": {
+                "name": "Conor Friedersdorf",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.currentaffairs.org/2022/04/why-american-culture-is-so-disturbing/",
             "content_html": "",
             "url": "https://www.currentaffairs.org/2022/04/why-american-culture-is-so-disturbing/",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-21T10:00:00.000Z",
             "author": {
                 "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/03/28/jay-newman-wants-to-be-the-wolfe-of-wall-street",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/03/28/jay-newman-wants-to-be-the-wolfe-of-wall-street",
-            "title": "傑伊-紐曼想成為華爾街的沃爾夫",
-            "summary": "Jay Newman Wants to Be the Wolfe of Wall Street",
-            "date_modified": "2022-03-21T10:00:00.000Z",
-            "author": {
-                "name": "Sheelah Kolhatkar",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

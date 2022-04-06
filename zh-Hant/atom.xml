@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-06T21:32:42.692Z</updated>
+    <updated>2022-04-06T21:54:13.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[梳妝打扮不是這樣的意思]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/04/thats-not-what-grooming-means/629501/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/04/thats-not-what-grooming-means/629501/?utm_source=feed"/>
+        <updated>2022-04-06T21:32:50.000Z</updated>
+        <summary type="html"><![CDATA[That’s Not What Grooming Means]]></summary>
+        <author>
+            <name>Conor Friedersdorf</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國文化為何如此令人不安]]></title>
         <id>https://www.currentaffairs.org/2022/04/why-american-culture-is-so-disturbing/</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[The Mail]]></summary>
         <author>
             <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[傑伊-紐曼想成為華爾街的沃爾夫]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/28/jay-newman-wants-to-be-the-wolfe-of-wall-street</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/28/jay-newman-wants-to-be-the-wolfe-of-wall-street"/>
-        <updated>2022-03-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Jay Newman Wants to Be the Wolfe of Wall Street]]></summary>
-        <author>
-            <name>Sheelah Kolhatkar</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
