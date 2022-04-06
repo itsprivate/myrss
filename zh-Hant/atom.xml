@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-06T21:54:13.359Z</updated>
+    <updated>2022-04-06T22:13:15.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[布洛克稱現金應用漏洞影響了800萬用戶]]></title>
+        <id>https://www.nytimes.com/2022/04/06/business/block-cash-app-data-breach.html</id>
+        <link href="https://www.nytimes.com/2022/04/06/business/block-cash-app-data-breach.html"/>
+        <updated>2022-04-06T21:07:32.000Z</updated>
+        <summary type="html"><![CDATA[Block Says Cash App Breach Affected 8 Million Users]]></summary>
+        <author>
+            <name>Stacy Cowley</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[梳妝打扮不是這樣的意思]]></title>
         <id>https://www.theatlantic.com/newsletters/archive/2022/04/thats-not-what-grooming-means/629501/?utm_source=feed</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Caleb Madison</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[郵報]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/28/letters-from-the-march-28-2022-issue</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/28/letters-from-the-march-28-2022-issue"/>
-        <updated>2022-03-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Mail]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>

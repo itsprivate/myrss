@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/06/business/block-cash-app-data-breach.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/06/business/block-cash-app-data-breach.html",
+            "title": "布洛克称现金应用漏洞影响了800万用户",
+            "summary": "Block Says Cash App Breach Affected 8 Million Users",
+            "date_modified": "2022-04-06T21:07:32.000Z",
+            "author": {
+                "name": "Stacy Cowley",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/newsletters/archive/2022/04/thats-not-what-grooming-means/629501/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/newsletters/archive/2022/04/thats-not-what-grooming-means/629501/?utm_source=feed",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Caleb Madison",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/03/28/letters-from-the-march-28-2022-issue",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/03/28/letters-from-the-march-28-2022-issue",
-            "title": "邮报",
-            "summary": "The Mail",
-            "date_modified": "2022-03-21T10:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 06 Apr 2022 21:54:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 22:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[布洛克称现金应用漏洞影响了800万用户]]></title>
+            <link>https://www.nytimes.com/2022/04/06/business/block-cash-app-data-breach.html</link>
+            <guid>https://www.nytimes.com/2022/04/06/business/block-cash-app-data-breach.html</guid>
+            <pubDate>Wed, 06 Apr 2022 21:07:32 GMT</pubDate>
+            <description><![CDATA[Block Says Cash App Breach Affected 8 Million Users]]></description>
+        </item>
         <item>
             <title><![CDATA[梳妆打扮不是这样的意思]]></title>
             <link>https://www.theatlantic.com/newsletters/archive/2022/04/thats-not-what-grooming-means/629501/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/newsletters/archive/2022/03/the-two-most-dismissive-words-on-the-internet/627110/?utm_source=feed</guid>
             <pubDate>Mon, 21 Mar 2022 11:13:24 GMT</pubDate>
             <description><![CDATA[The Two Most Dismissive Words on the Internet]]></description>
-        </item>
-        <item>
-            <title><![CDATA[邮报]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/28/letters-from-the-march-28-2022-issue</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/28/letters-from-the-march-28-2022-issue</guid>
-            <pubDate>Mon, 21 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Mail]]></description>
         </item>
     </channel>
 </rss>
