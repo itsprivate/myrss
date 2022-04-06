@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-06T17:46:13.897Z</updated>
+    <updated>2022-04-06T17:52:48.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对Instagram上的知名女性来说，DMs可能是一个厌恶女性的大杂烩]]></title>
+        <id>https://www.nytimes.com/2022/04/06/technology/instagram-harassment-women.html</id>
+        <link href="https://www.nytimes.com/2022/04/06/technology/instagram-harassment-women.html"/>
+        <updated>2022-04-06T17:41:49.000Z</updated>
+        <summary type="html"><![CDATA[For Prominent Women on Instagram, DMs Can Be a Cesspool of Misogyny]]></summary>
+        <author>
+            <name>Daniel Victor</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[因COVID而成为孤儿的孩子们不会再回到 "正常 "状态]]></title>
         <id>https://www.theatlantic.com/health/archive/2022/04/covid-orphan-kids-lost-parent/629436/?utm_source=feed</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Deborah Treisman</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[泰莎-哈德利读《葬礼之后》有感]]></title>
-        <id>https://www.newyorker.com/podcast/the-writers-voice/tessa-hadley-reads-after-the-funeral</id>
-        <link href="https://www.newyorker.com/podcast/the-writers-voice/tessa-hadley-reads-after-the-funeral"/>
-        <updated>2022-03-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tessa Hadley Reads “After the Funeral”]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
 </feed>
