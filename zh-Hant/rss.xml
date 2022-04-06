@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 06 Apr 2022 22:52:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 23:12:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[美國稱在全球範圍內秘密刪除惡意軟件，預先防範俄羅斯網絡攻擊]]></title>
+            <link>https://www.nytimes.com/2022/04/06/us/politics/us-russia-malware-cyberattacks.html</link>
+            <guid>https://www.nytimes.com/2022/04/06/us/politics/us-russia-malware-cyberattacks.html</guid>
+            <pubDate>Wed, 06 Apr 2022 23:04:19 GMT</pubDate>
+            <description><![CDATA[U.S. Says It Secretly Removed Malware Worldwide, Pre-empting Russian Cyberattacks]]></description>
+        </item>
         <item>
             <title><![CDATA[獨裁者圖書俱樂部。習近平]]></title>
             <link>https://astralcodexten.substack.com/p/dictator-book-club-xi-jinping</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/magazine/2022/03/28/the-complexities-of-the-ukraine-dilemma</guid>
             <pubDate>Sat, 19 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[The Complexities of the Ukraine Dilemma]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼我們不能承認烏克蘭正在取得勝利？]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/ukraine-is-winning-war-russia/627121/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/ukraine-is-winning-war-russia/627121/?utm_source=feed</guid>
-            <pubDate>Mon, 21 Mar 2022 14:57:39 GMT</pubDate>
-            <description><![CDATA[Why Can’t We Admit That Ukraine Is Winning?]]></description>
         </item>
     </channel>
 </rss>

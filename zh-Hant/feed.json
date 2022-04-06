@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/06/us/politics/us-russia-malware-cyberattacks.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/06/us/politics/us-russia-malware-cyberattacks.html",
+            "title": "美國稱在全球範圍內秘密刪除惡意軟件，預先防範俄羅斯網絡攻擊",
+            "summary": "U.S. Says It Secretly Removed Malware Worldwide, Pre-empting Russian Cyberattacks",
+            "date_modified": "2022-04-06T23:04:19.000Z",
+            "author": {
+                "name": "Kate Conger and David E. Sanger",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://astralcodexten.substack.com/p/dictator-book-club-xi-jinping",
             "content_html": "",
             "url": "https://astralcodexten.substack.com/p/dictator-book-club-xi-jinping",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Steve Coll",
                 "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/03/ukraine-is-winning-war-russia/627121/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/03/ukraine-is-winning-war-russia/627121/?utm_source=feed",
-            "title": "為什麼我們不能承認烏克蘭正在取得勝利？",
-            "summary": "Why Can’t We Admit That Ukraine Is Winning?",
-            "date_modified": "2022-03-21T14:57:39.000Z",
-            "author": {
-                "name": "Eliot A. Cohen",
-                "url": "https://www.theatlantic.com/feed/all/"
             }
         }
     ]
