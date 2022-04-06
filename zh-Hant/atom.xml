@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-06T12:59:39.611Z</updated>
+    <updated>2022-04-06T13:50:06.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Pinterest禁止帖子和廣告中出現氣候錯誤信息]]></title>
+        <id>https://www.nytimes.com/2022/04/06/technology/pinterest-climate-misinformation.html</id>
+        <link href="https://www.nytimes.com/2022/04/06/technology/pinterest-climate-misinformation.html"/>
+        <updated>2022-04-06T13:30:07.000Z</updated>
+        <summary type="html"><![CDATA[Pinterest Bans Climate Misinformation From Posts and Ads]]></summary>
+        <author>
+            <name>Tiffany Hsu</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[零售業的復活]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/04/online-shopping-decline-pandemic/629482/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/04/online-shopping-decline-pandemic/629482/?utm_source=feed"/>
+        <updated>2022-04-06T13:26:17.000Z</updated>
+        <summary type="html"><![CDATA[The Resurrection of Retail]]></summary>
+        <author>
+            <name>Allie Volpe</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1.5度的目標幾乎夭折]]></title>
         <id>https://www.theatlantic.com/science/archive/2022/04/un-ipcc-1-5-degree-report-global-warming/629486/?utm_source=feed</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Linda Greenhouse</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公平地取消俄羅斯的三個規則]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/right-way-cancel-russia/627115/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/right-way-cancel-russia/627115/?utm_source=feed"/>
-        <updated>2022-03-20T10:30:56.000Z</updated>
-        <summary type="html"><![CDATA[The Three Rules for Canceling Russia Fairly]]></summary>
-        <author>
-            <name>Conor Friedersdorf</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每天冥想一小時的人可能會更快樂的原因]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/reasons-that-people-who-meditate-for-an-hour-a-day-might-be-happier</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/reasons-that-people-who-meditate-for-an-hour-a-day-might-be-happier"/>
-        <updated>2022-03-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Reasons That People Who Meditate for an Hour a Day Might Be Happier]]></summary>
-        <author>
-            <name>Eva Hill, Ginny Hogan</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
