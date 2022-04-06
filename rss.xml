@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 06 Apr 2022 11:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 12:59:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[1.5度的目标几乎夭折]]></title>
+            <link>https://www.theatlantic.com/science/archive/2022/04/un-ipcc-1-5-degree-report-global-warming/629486/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/science/archive/2022/04/un-ipcc-1-5-degree-report-global-warming/629486/?utm_source=feed</guid>
+            <pubDate>Wed, 06 Apr 2022 12:16:57 GMT</pubDate>
+            <description><![CDATA[The 1.5-Degree Goal Is All But Dead]]></description>
+        </item>
+        <item>
+            <title><![CDATA[隐私并没有死，但会让你付出代价]]></title>
+            <link>https://www.theatlantic.com/magazine/archive/2022/05/privacy-law-technology-california-gajda-seek-and-hide/629373/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/magazine/archive/2022/05/privacy-law-technology-california-gajda-seek-and-hide/629373/?utm_source=feed</guid>
+            <pubDate>Wed, 06 Apr 2022 12:00:56 GMT</pubDate>
+            <description><![CDATA[Privacy Isn’t Dead, but It’ll Cost You]]></description>
+        </item>
         <item>
             <title><![CDATA[21世纪的温斯洛-霍默]]></title>
             <link>https://www.theatlantic.com/magazine/archive/2022/05/winslow-homer-paintings-crosscurrents-american-passage/629375/?utm_source=feed</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/humor/daily-shouts/reasons-that-people-who-meditate-for-an-hour-a-day-might-be-happier</guid>
             <pubDate>Sun, 20 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Reasons That People Who Meditate for an Hour a Day Might Be Happier]]></description>
-        </item>
-        <item>
-            <title><![CDATA[密码字谜: 2022年3月20日，星期日]]></title>
-            <link>https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/03/20</link>
-            <guid>https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/03/20</guid>
-            <pubDate>Sun, 20 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Cryptic Crossword: Sunday, March 20, 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[逃离普京的战时镇压的俄罗斯人]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/28/the-russians-fleeing-putins-wartime-crackdown</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/28/the-russians-fleeing-putins-wartime-crackdown</guid>
-            <pubDate>Sun, 20 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Russians Fleeing Putin’s Wartime Crackdown]]></description>
         </item>
     </channel>
 </rss>
