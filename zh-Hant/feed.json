@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/04/bucha-ukraine-bodies-russian-military-crimes/629485/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/04/bucha-ukraine-bodies-russian-military-crimes/629485/?utm_source=feed",
+            "title": "俄羅斯軍隊已淪為非人道行為",
+            "summary": "The Russian Military Has Descended Into Inhumanity",
+            "date_modified": "2022-04-06T10:00:56.000Z",
+            "author": {
+                "name": "Andrew Exum",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/podcast/poetry/christian-wiman-reads-patrizia-cavalli",
             "content_html": "",
             "url": "https://www.newyorker.com/podcast/poetry/christian-wiman-reads-patrizia-cavalli",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-20T10:00:00.000Z",
             "author": {
                 "name": "Erin Overbey",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/the-new-yorker-interview/stanley-nelsons-lifetime-of-documenting-black-experience",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/the-new-yorker-interview/stanley-nelsons-lifetime-of-documenting-black-experience",
-            "title": "斯坦利-納爾遜一生都在記錄黑人的經歷",
-            "summary": "Stanley Nelson’s Lifetime of Documenting Black Experience",
-            "date_modified": "2022-03-20T10:00:00.000Z",
-            "author": {
-                "name": "Hua Hsu",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }
