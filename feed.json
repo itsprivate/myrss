@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://astralcodexten.substack.com/p/dictator-book-club-xi-jinping",
+            "content_html": "",
+            "url": "https://astralcodexten.substack.com/p/dictator-book-club-xi-jinping",
+            "title": "独裁者图书俱乐部。习近平",
+            "summary": "Dictator Book Club: Xi Jinping",
+            "date_modified": "2022-04-06T22:44:00.000Z",
+            "author": {
+                "name": "Scott Alexander",
+                "url": "https://astralcodexten.substack.com/feed"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/04/06/us/politics/biden-amazon-workers-labor-unions.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/06/us/politics/biden-amazon-workers-labor-unions.html",
+            "title": "拜登现身说法支持亚马逊工人投票成立工会",
+            "summary": "Biden Appears to Show Support for Amazon Workers Who Voted to Unionize",
+            "date_modified": "2022-04-06T22:40:21.000Z",
+            "author": {
+                "name": "Katie Rogers and Karen Weise",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/06/business/block-cash-app-data-breach.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/06/business/block-cash-app-data-breach.html",
@@ -7183,30 +7207,6 @@
             "date_modified": "2022-03-21T14:57:39.000Z",
             "author": {
                 "name": "Eliot A. Cohen",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/03/why-criminal-cases-against-trump-are-doomed/627113/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/03/why-criminal-cases-against-trump-are-doomed/627113/?utm_source=feed",
-            "title": "不要再等着特朗普被定罪了",
-            "summary": "Stop Waiting for Trump to Get Convicted",
-            "date_modified": "2022-03-21T14:36:42.000Z",
-            "author": {
-                "name": "Paul Rosenzweig",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/newsletters/archive/2022/03/the-two-most-dismissive-words-on-the-internet/627110/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/newsletters/archive/2022/03/the-two-most-dismissive-words-on-the-internet/627110/?utm_source=feed",
-            "title": "互联网上最轻蔑的两个词",
-            "summary": "The Two Most Dismissive Words on the Internet",
-            "date_modified": "2022-03-21T11:13:24.000Z",
-            "author": {
-                "name": "Caleb Madison",
                 "url": "https://www.theatlantic.com/feed/all/"
             }
         }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-06T22:13:15.597Z</updated>
+    <updated>2022-04-06T22:52:02.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[獨裁者圖書俱樂部。習近平]]></title>
+        <id>https://astralcodexten.substack.com/p/dictator-book-club-xi-jinping</id>
+        <link href="https://astralcodexten.substack.com/p/dictator-book-club-xi-jinping"/>
+        <updated>2022-04-06T22:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Dictator Book Club: Xi Jinping]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拜登現身說法支持亞馬遜工人投票成立工會]]></title>
+        <id>https://www.nytimes.com/2022/04/06/us/politics/biden-amazon-workers-labor-unions.html</id>
+        <link href="https://www.nytimes.com/2022/04/06/us/politics/biden-amazon-workers-labor-unions.html"/>
+        <updated>2022-04-06T22:40:21.000Z</updated>
+        <summary type="html"><![CDATA[Biden Appears to Show Support for Amazon Workers Who Voted to Unionize]]></summary>
+        <author>
+            <name>Katie Rogers and Karen Weise</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[布洛克稱現金應用漏洞影響了800萬用戶]]></title>
         <id>https://www.nytimes.com/2022/04/06/business/block-cash-app-data-breach.html</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[Why Can’t We Admit That Ukraine Is Winning?]]></summary>
         <author>
             <name>Eliot A. Cohen</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要再等著特朗普被定罪了]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/why-criminal-cases-against-trump-are-doomed/627113/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/why-criminal-cases-against-trump-are-doomed/627113/?utm_source=feed"/>
-        <updated>2022-03-21T14:36:42.000Z</updated>
-        <summary type="html"><![CDATA[Stop Waiting for Trump to Get Convicted]]></summary>
-        <author>
-            <name>Paul Rosenzweig</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[互聯網上最輕蔑的兩個詞]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2022/03/the-two-most-dismissive-words-on-the-internet/627110/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/the-two-most-dismissive-words-on-the-internet/627110/?utm_source=feed"/>
-        <updated>2022-03-21T11:13:24.000Z</updated>
-        <summary type="html"><![CDATA[The Two Most Dismissive Words on the Internet]]></summary>
-        <author>
-            <name>Caleb Madison</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
