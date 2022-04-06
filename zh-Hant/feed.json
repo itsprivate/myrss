@@ -11,6 +11,78 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/magazine/2022/04/11/the-compassionate-photographs-of-jamel-shabazz",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/04/11/the-compassionate-photographs-of-jamel-shabazz",
+            "title": "賈梅爾-沙巴茲富有同情心的攝影作品",
+            "summary": "The Compassionate Photographs of Jamel Shabazz",
+            "date_modified": "2022-04-01T10:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/magazine/2022/04/11/husbands-and-wives-in-plaza-suite",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/04/11/husbands-and-wives-in-plaza-suite",
+            "title": "\"廣場套房 \"中的丈夫和妻子",
+            "summary": "Husbands and Wives in “Plaza Suite”",
+            "date_modified": "2022-04-04T10:00:00.000Z",
+            "author": {
+                "name": "Vinson Cunningham",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/magazine/2022/04/11/the-glorious-lightness-of-wet-legs-rock",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/04/11/the-glorious-lightness-of-wet-legs-rock",
+            "title": "溼腿巖的榮耀之光",
+            "summary": "The Glorious Lightness of Wet Leg’s Rock",
+            "date_modified": "2022-04-04T10:00:00.000Z",
+            "author": {
+                "name": "Amanda Petrusich",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/magazine/2022/04/11/a-coherent-and-bold-whitney-biennial",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/04/11/a-coherent-and-bold-whitney-biennial",
+            "title": "一個連貫而大膽的惠特尼雙年展",
+            "summary": "A Coherent and Bold Whitney Biennial",
+            "date_modified": "2022-04-04T10:00:00.000Z",
+            "author": {
+                "name": "Peter Schjeldahl",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/magazine/2022/04/11/the-literature-of-cabin-fever",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/04/11/the-literature-of-cabin-fever",
+            "title": "機艙熱的文獻",
+            "summary": "The Literature of Cabin Fever",
+            "date_modified": "2022-04-04T10:00:00.000Z",
+            "author": {
+                "name": "Ian Frazier",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/magazine/2022/04/11/in-russian-doll-natasha-lyonne-barrels-into-the-past",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/04/11/in-russian-doll-natasha-lyonne-barrels-into-the-past",
+            "title": "在《俄羅斯娃娃》中，娜塔莎-里昂娜嚮往著過去。",
+            "summary": "In “Russian Doll,” Natasha Lyonne Barrels Into the Past",
+            "date_modified": "2022-04-04T10:00:00.000Z",
+            "author": {
+                "name": "Rachel Syme",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.currentaffairs.org/2022/03/why-doesnt-california-solve-its-housing-crisis-by-building-some-new-cities/",
             "content_html": "",
             "url": "https://www.currentaffairs.org/2022/03/why-doesnt-california-solve-its-housing-crisis-by-building-some-new-cities/",
@@ -7132,78 +7204,6 @@
             "url": "http://cacm.acm.org/magazines/2022/4/259408-partnership-on-ai-data-and-robotics",
             "title": "關於人工智能、數據和機器人的夥伴關係",
             "summary": "Partnership on AI, Data, and Robotics",
-            "date_modified": "2022-04-01T04:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://cacm.acm.org/magazine.rss"
-            }
-        },
-        {
-            "id": "http://cacm.acm.org/magazines/2022/4/259407-trends-in-computer-science-research-within-european-countries",
-            "content_html": "",
-            "url": "http://cacm.acm.org/magazines/2022/4/259407-trends-in-computer-science-research-within-european-countries",
-            "title": "歐洲國家內計算機科學研究的趨勢",
-            "summary": "Trends in Computer Science Research within European Countries",
-            "date_modified": "2022-04-01T04:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://cacm.acm.org/magazine.rss"
-            }
-        },
-        {
-            "id": "http://cacm.acm.org/magazines/2022/4/259406-on-6g-and-trustworthiness",
-            "content_html": "",
-            "url": "http://cacm.acm.org/magazines/2022/4/259406-on-6g-and-trustworthiness",
-            "title": "關於6G和可信度",
-            "summary": "On 6G and Trustworthiness",
-            "date_modified": "2022-04-01T04:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://cacm.acm.org/magazine.rss"
-            }
-        },
-        {
-            "id": "http://cacm.acm.org/magazines/2022/4/259405-mobile-phone-usage-data-for-disaster-response",
-            "content_html": "",
-            "url": "http://cacm.acm.org/magazines/2022/4/259405-mobile-phone-usage-data-for-disaster-response",
-            "title": "用於災難應對的移動電話使用數據",
-            "summary": "Mobile Phone Usage Data for Disaster Response",
-            "date_modified": "2022-04-01T04:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://cacm.acm.org/magazine.rss"
-            }
-        },
-        {
-            "id": "http://cacm.acm.org/magazines/2022/4/259404-privacy-preserving-ai-for-future-networks",
-            "content_html": "",
-            "url": "http://cacm.acm.org/magazines/2022/4/259404-privacy-preserving-ai-for-future-networks",
-            "title": "面向未來網絡的隱私保護型人工智能",
-            "summary": "Privacy-Preserving AI for Future Networks",
-            "date_modified": "2022-04-01T04:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://cacm.acm.org/magazine.rss"
-            }
-        },
-        {
-            "id": "http://cacm.acm.org/magazines/2022/4/259403-a-federated-infrastructure-for-european-data-spaces",
-            "content_html": "",
-            "url": "http://cacm.acm.org/magazines/2022/4/259403-a-federated-infrastructure-for-european-data-spaces",
-            "title": "歐洲數據空間的聯合基礎設施",
-            "summary": "A Federated Infrastructure for European Data Spaces",
-            "date_modified": "2022-04-01T04:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://cacm.acm.org/magazine.rss"
-            }
-        },
-        {
-            "id": "http://cacm.acm.org/magazines/2022/4/259402-toward-a-broad-ai",
-            "content_html": "",
-            "url": "http://cacm.acm.org/magazines/2022/4/259402-toward-a-broad-ai",
-            "title": "邁向廣泛的人工智能",
-            "summary": "Toward a Broad AI",
             "date_modified": "2022-04-01T04:00:00.000Z",
             "author": {
                 "name": "unknown",

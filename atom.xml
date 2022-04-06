@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-06T02:25:17.420Z</updated>
+    <updated>2022-04-06T04:43:00.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[贾梅尔-沙巴兹富有同情心的摄影作品]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/11/the-compassionate-photographs-of-jamel-shabazz</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/11/the-compassionate-photographs-of-jamel-shabazz"/>
+        <updated>2022-04-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Compassionate Photographs of Jamel Shabazz]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["广场套房 "中的丈夫和妻子]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/11/husbands-and-wives-in-plaza-suite</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/11/husbands-and-wives-in-plaza-suite"/>
+        <updated>2022-04-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Husbands and Wives in “Plaza Suite”]]></summary>
+        <author>
+            <name>Vinson Cunningham</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[湿腿岩的荣耀之光]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/11/the-glorious-lightness-of-wet-legs-rock</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/11/the-glorious-lightness-of-wet-legs-rock"/>
+        <updated>2022-04-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Glorious Lightness of Wet Leg’s Rock]]></summary>
+        <author>
+            <name>Amanda Petrusich</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个连贯而大胆的惠特尼双年展]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/11/a-coherent-and-bold-whitney-biennial</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/11/a-coherent-and-bold-whitney-biennial"/>
+        <updated>2022-04-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Coherent and Bold Whitney Biennial]]></summary>
+        <author>
+            <name>Peter Schjeldahl</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[机舱热的文献]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/11/the-literature-of-cabin-fever</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/11/the-literature-of-cabin-fever"/>
+        <updated>2022-04-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Literature of Cabin Fever]]></summary>
+        <author>
+            <name>Ian Frazier</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在《俄罗斯娃娃》中，娜塔莎-里昂娜向往着过去。]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/11/in-russian-doll-natasha-lyonne-barrels-into-the-past</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/11/in-russian-doll-natasha-lyonne-barrels-into-the-past"/>
+        <updated>2022-04-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In “Russian Doll,” Natasha Lyonne Barrels Into the Past]]></summary>
+        <author>
+            <name>Rachel Syme</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么加州不通过建设一些新城市来解决住房危机？]]></title>
         <id>https://www.currentaffairs.org/2022/03/why-doesnt-california-solve-its-housing-crisis-by-building-some-new-cities/</id>
@@ -6544,72 +6610,6 @@
         <link href="http://cacm.acm.org/magazines/2022/4/259408-partnership-on-ai-data-and-robotics"/>
         <updated>2022-04-01T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[Partnership on AI, Data, and Robotics]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧洲国家内计算机科学研究的趋势]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259407-trends-in-computer-science-research-within-european-countries</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259407-trends-in-computer-science-research-within-european-countries"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Trends in Computer Science Research within European Countries]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于6G和可信度]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259406-on-6g-and-trustworthiness</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259406-on-6g-and-trustworthiness"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[On 6G and Trustworthiness]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于灾难应对的移动电话使用数据]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259405-mobile-phone-usage-data-for-disaster-response</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259405-mobile-phone-usage-data-for-disaster-response"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mobile Phone Usage Data for Disaster Response]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面向未来网络的隐私保护型人工智能]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259404-privacy-preserving-ai-for-future-networks</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259404-privacy-preserving-ai-for-future-networks"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Privacy-Preserving AI for Future Networks]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧洲数据空间的联合基础设施]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259403-a-federated-infrastructure-for-european-data-spaces</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259403-a-federated-infrastructure-for-european-data-spaces"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A Federated Infrastructure for European Data Spaces]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[迈向广泛的人工智能]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259402-toward-a-broad-ai</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259402-toward-a-broad-ai"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Toward a Broad AI]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://cacm.acm.org/magazine.rss</uri>
