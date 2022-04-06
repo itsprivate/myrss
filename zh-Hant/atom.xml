@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-06T15:16:28.112Z</updated>
+    <updated>2022-04-06T15:38:07.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[垃圾郵件正在增加。以下是如何發現它以及如何處理的方法]]></title>
+        <id>https://www.nytimes.com/2022/04/06/technology/personaltech/text-scam-spam.html</id>
+        <link href="https://www.nytimes.com/2022/04/06/technology/personaltech/text-scam-spam.html"/>
+        <updated>2022-04-06T15:15:18.000Z</updated>
+        <summary type="html"><![CDATA[Text Spam Is on the Rise. Here’s How to Spot It and What to Do]]></summary>
+        <author>
+            <name>Brian X. Chen</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美國人一直在無情地壓制一種令人毛骨悚然的蟲子，這是否是白費力氣？]]></title>
+        <id>https://www.theatlantic.com/science/archive/2022/04/killing-lanternfly-effect-invasive-species/629489/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/science/archive/2022/04/killing-lanternfly-effect-invasive-species/629489/?utm_source=feed"/>
+        <updated>2022-04-06T15:22:41.000Z</updated>
+        <summary type="html"><![CDATA[Have Americans Been Mercilessly Squashing a Creepy Bug for Nothing?]]></summary>
+        <author>
+            <name>Abigail Gruskin</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日漫畫。4月6日，星期三]]></title>
         <id>https://www.newyorker.com/cartoons/daily-cartoon/wednesday-april-6th-movie-theatres</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>unknown</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公開主題216]]></title>
-        <id>https://astralcodexten.substack.com/p/open-thread-216</id>
-        <link href="https://astralcodexten.substack.com/p/open-thread-216"/>
-        <updated>2022-03-21T01:19:29.000Z</updated>
-        <summary type="html"><![CDATA[Open Thread 216]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巴西兩天後解除對Telegram的禁令]]></title>
-        <id>https://www.nytimes.com/2022/03/20/world/americas/brazil-telegram-bolsonaro.html</id>
-        <link href="https://www.nytimes.com/2022/03/20/world/americas/brazil-telegram-bolsonaro.html"/>
-        <updated>2022-03-20T22:11:32.000Z</updated>
-        <summary type="html"><![CDATA[Brazil Lifts Its Ban on Telegram After Two Days]]></summary>
-        <author>
-            <name>Jack Nicas and André Spigariol</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>

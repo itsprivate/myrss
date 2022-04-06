@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 06 Apr 2022 15:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 15:38:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[垃圾邮件正在增加。以下是如何发现它以及如何处理的方法]]></title>
+            <link>https://www.nytimes.com/2022/04/06/technology/personaltech/text-scam-spam.html</link>
+            <guid>https://www.nytimes.com/2022/04/06/technology/personaltech/text-scam-spam.html</guid>
+            <pubDate>Wed, 06 Apr 2022 15:15:18 GMT</pubDate>
+            <description><![CDATA[Text Spam Is on the Rise. Here’s How to Spot It and What to Do]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国人一直在无情地压制一种令人毛骨悚然的虫子，这是否是白费力气？]]></title>
+            <link>https://www.theatlantic.com/science/archive/2022/04/killing-lanternfly-effect-invasive-species/629489/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/science/archive/2022/04/killing-lanternfly-effect-invasive-species/629489/?utm_source=feed</guid>
+            <pubDate>Wed, 06 Apr 2022 15:22:41 GMT</pubDate>
+            <description><![CDATA[Have Americans Been Mercilessly Squashing a Creepy Bug for Nothing?]]></description>
+        </item>
         <item>
             <title><![CDATA[每日漫画。4月6日，星期三]]></title>
             <link>https://www.newyorker.com/cartoons/daily-cartoon/wednesday-april-6th-movie-theatres</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-03-28</guid>
             <pubDate>Mon, 21 Mar 2022 04:05:00 GMT</pubDate>
             <description><![CDATA[Cartoon Caption Contest]]></description>
-        </item>
-        <item>
-            <title><![CDATA[公开主题216]]></title>
-            <link>https://astralcodexten.substack.com/p/open-thread-216</link>
-            <guid>https://astralcodexten.substack.com/p/open-thread-216</guid>
-            <pubDate>Mon, 21 Mar 2022 01:19:29 GMT</pubDate>
-            <description><![CDATA[Open Thread 216]]></description>
-        </item>
-        <item>
-            <title><![CDATA[巴西两天后解除对Telegram的禁令]]></title>
-            <link>https://www.nytimes.com/2022/03/20/world/americas/brazil-telegram-bolsonaro.html</link>
-            <guid>https://www.nytimes.com/2022/03/20/world/americas/brazil-telegram-bolsonaro.html</guid>
-            <pubDate>Sun, 20 Mar 2022 22:11:32 GMT</pubDate>
-            <description><![CDATA[Brazil Lifts Its Ban on Telegram After Two Days]]></description>
         </item>
     </channel>
 </rss>
