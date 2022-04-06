@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.currentaffairs.org/2022/03/why-doesnt-california-solve-its-housing-crisis-by-building-some-new-cities/",
+            "content_html": "",
+            "url": "https://www.currentaffairs.org/2022/03/why-doesnt-california-solve-its-housing-crisis-by-building-some-new-cities/",
+            "title": "為什麼加州不通過建設一些新城市來解決住房危機？",
+            "summary": "Why Doesn’t California Solve Its Housing Crisis By Building Some New Cities?",
+            "date_modified": "2022-03-14T23:46:42.000Z",
+            "author": {
+                "name": "Nathan J. Robinson",
+                "url": "https://www.currentaffairs.org/feed"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/news-desk/the-new-yorker-wins-two-national-magazine-awards",
             "content_html": "",
             "url": "https://www.newyorker.com/news/news-desk/the-new-yorker-wins-two-national-magazine-awards",
@@ -7192,18 +7204,6 @@
             "url": "http://cacm.acm.org/magazines/2022/4/259402-toward-a-broad-ai",
             "title": "邁向廣泛的人工智能",
             "summary": "Toward a Broad AI",
-            "date_modified": "2022-04-01T04:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://cacm.acm.org/magazine.rss"
-            }
-        },
-        {
-            "id": "http://cacm.acm.org/magazines/2022/4/259401-internet-of-production",
-            "content_html": "",
-            "url": "http://cacm.acm.org/magazines/2022/4/259401-internet-of-production",
-            "title": "生產互聯網",
-            "summary": "Internet of Production",
             "date_modified": "2022-04-01T04:00:00.000Z",
             "author": {
                 "name": "unknown",

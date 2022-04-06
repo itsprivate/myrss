@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 06 Apr 2022 00:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 02:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么加州不通过建设一些新城市来解决住房危机？]]></title>
+            <link>https://www.currentaffairs.org/2022/03/why-doesnt-california-solve-its-housing-crisis-by-building-some-new-cities/</link>
+            <guid>https://www.currentaffairs.org/2022/03/why-doesnt-california-solve-its-housing-crisis-by-building-some-new-cities/</guid>
+            <pubDate>Mon, 14 Mar 2022 23:46:42 GMT</pubDate>
+            <description><![CDATA[Why Doesn’t California Solve Its Housing Crisis By Building Some New Cities?]]></description>
+        </item>
         <item>
             <title><![CDATA[纽约客》获得两项国家杂志奖]]></title>
             <link>https://www.newyorker.com/news/news-desk/the-new-yorker-wins-two-national-magazine-awards</link>
@@ -4206,13 +4213,6 @@
             <guid>http://cacm.acm.org/magazines/2022/4/259402-toward-a-broad-ai</guid>
             <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
             <description><![CDATA[Toward a Broad AI]]></description>
-        </item>
-        <item>
-            <title><![CDATA[生产互联网]]></title>
-            <link>http://cacm.acm.org/magazines/2022/4/259401-internet-of-production</link>
-            <guid>http://cacm.acm.org/magazines/2022/4/259401-internet-of-production</guid>
-            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
-            <description><![CDATA[Internet of Production]]></description>
         </item>
     </channel>
 </rss>
