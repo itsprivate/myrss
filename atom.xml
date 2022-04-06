@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-06T06:39:38.689Z</updated>
+    <updated>2022-04-06T07:12:53.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Meme股票和比特币不会重新分配财富]]></title>
+        <id>https://noahpinion.substack.com/p/meme-stocks-and-bitcoin-will-not</id>
+        <link href="https://noahpinion.substack.com/p/meme-stocks-and-bitcoin-will-not"/>
+        <updated>2022-04-06T07:01:59.000Z</updated>
+        <summary type="html"><![CDATA[Meme stocks and Bitcoin will not redistribute wealth]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于自决权的评论要点]]></title>
         <id>https://astralcodexten.substack.com/p/highlights-from-the-comments-on-self</id>
@@ -6599,17 +6610,6 @@
         <link href="http://cacm.acm.org/magazines/2022/4/259410-recommender-systems-under-european-ai-regulations"/>
         <updated>2022-04-01T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[Recommender Systems Under European AI Regulations]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[菲尼克斯]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259409-fenix</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259409-fenix"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Fenix]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://cacm.acm.org/magazine.rss</uri>
