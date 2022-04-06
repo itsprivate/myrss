@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 06 Apr 2022 17:07:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 17:46:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[因COVID而成為孤兒的孩子們不會再回到 "正常 "狀態]]></title>
+            <link>https://www.theatlantic.com/health/archive/2022/04/covid-orphan-kids-lost-parent/629436/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/health/archive/2022/04/covid-orphan-kids-lost-parent/629436/?utm_source=feed</guid>
+            <pubDate>Wed, 06 Apr 2022 17:27:08 GMT</pubDate>
+            <description><![CDATA[The Kids Orphaned by COVID Won’t Return to ‘Normal’]]></description>
+        </item>
         <item>
             <title><![CDATA[老一輩的人在追趕Netflix]]></title>
             <link>https://www.nytimes.com/2022/04/06/technology/netflix-commercials.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/podcast/the-writers-voice/tessa-hadley-reads-after-the-funeral</guid>
             <pubDate>Mon, 21 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Tessa Hadley Reads “After the Funeral”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[普京的戰爭和混沌攀登者]]></title>
-            <link>https://noahpinion.substack.com/p/putins-war-and-the-chaos-climbers</link>
-            <guid>https://noahpinion.substack.com/p/putins-war-and-the-chaos-climbers</guid>
-            <pubDate>Mon, 21 Mar 2022 08:50:26 GMT</pubDate>
-            <description><![CDATA[Putin's war and the Chaos Climbers]]></description>
         </item>
     </channel>
 </rss>

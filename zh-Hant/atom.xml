@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-06T17:07:23.976Z</updated>
+    <updated>2022-04-06T17:46:13.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[因COVID而成為孤兒的孩子們不會再回到 "正常 "狀態]]></title>
+        <id>https://www.theatlantic.com/health/archive/2022/04/covid-orphan-kids-lost-parent/629436/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/health/archive/2022/04/covid-orphan-kids-lost-parent/629436/?utm_source=feed"/>
+        <updated>2022-04-06T17:27:08.000Z</updated>
+        <summary type="html"><![CDATA[The Kids Orphaned by COVID Won’t Return to ‘Normal’]]></summary>
+        <author>
+            <name>Tim Requarth</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[老一輩的人在追趕Netflix]]></title>
         <id>https://www.nytimes.com/2022/04/06/technology/netflix-commercials.html</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>unknown</name>
             <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京的戰爭和混沌攀登者]]></title>
-        <id>https://noahpinion.substack.com/p/putins-war-and-the-chaos-climbers</id>
-        <link href="https://noahpinion.substack.com/p/putins-war-and-the-chaos-climbers"/>
-        <updated>2022-03-21T08:50:26.000Z</updated>
-        <summary type="html"><![CDATA[Putin's war and the Chaos Climbers]]></summary>
-        <author>
-            <name>Noah Smith</name>
-            <uri>https://noahpinion.substack.com/feed</uri>
         </author>
     </entry>
 </feed>
