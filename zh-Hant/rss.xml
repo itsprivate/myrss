@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 05 Apr 2022 23:33:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 00:41:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[紐約客》獲得兩項國家雜誌獎]]></title>
+            <link>https://www.newyorker.com/news/news-desk/the-new-yorker-wins-two-national-magazine-awards</link>
+            <guid>https://www.newyorker.com/news/news-desk/the-new-yorker-wins-two-national-magazine-awards</guid>
+            <pubDate>Wed, 06 Apr 2022 00:23:45 GMT</pubDate>
+            <description><![CDATA[The New Yorker Wins Two National Magazine Awards]]></description>
+        </item>
         <item>
             <title><![CDATA[僱傭兵和外國戰士會改變烏克蘭的戰爭進程嗎？]]></title>
             <link>https://www.newyorker.com/news/daily-comment/will-mercenaries-and-foreign-fighters-change-the-course-of-ukraines-war</link>
@@ -4206,13 +4213,6 @@
             <guid>http://cacm.acm.org/magazines/2022/4/259401-internet-of-production</guid>
             <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
             <description><![CDATA[Internet of Production]]></description>
-        </item>
-        <item>
-            <title><![CDATA[皮膚上的計算]]></title>
-            <link>http://cacm.acm.org/magazines/2022/4/259400-on-skin-computing</link>
-            <guid>http://cacm.acm.org/magazines/2022/4/259400-on-skin-computing</guid>
-            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
-            <description><![CDATA[On-Skin Computing]]></description>
         </item>
     </channel>
 </rss>

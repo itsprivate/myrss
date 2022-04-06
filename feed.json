@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/news-desk/the-new-yorker-wins-two-national-magazine-awards",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/news-desk/the-new-yorker-wins-two-national-magazine-awards",
+            "title": "纽约客》获得两项国家杂志奖",
+            "summary": "The New Yorker Wins Two National Magazine Awards",
+            "date_modified": "2022-04-06T00:23:45.000Z",
+            "author": {
+                "name": "The New Yorker",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/daily-comment/will-mercenaries-and-foreign-fighters-change-the-course-of-ukraines-war",
             "content_html": "",
             "url": "https://www.newyorker.com/news/daily-comment/will-mercenaries-and-foreign-fighters-change-the-course-of-ukraines-war",
@@ -7192,18 +7204,6 @@
             "url": "http://cacm.acm.org/magazines/2022/4/259401-internet-of-production",
             "title": "生产互联网",
             "summary": "Internet of Production",
-            "date_modified": "2022-04-01T04:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://cacm.acm.org/magazine.rss"
-            }
-        },
-        {
-            "id": "http://cacm.acm.org/magazines/2022/4/259400-on-skin-computing",
-            "content_html": "",
-            "url": "http://cacm.acm.org/magazines/2022/4/259400-on-skin-computing",
-            "title": "皮肤上的计算",
-            "summary": "On-Skin Computing",
             "date_modified": "2022-04-01T04:00:00.000Z",
             "author": {
                 "name": "unknown",

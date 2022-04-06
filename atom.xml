@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-05T23:33:32.281Z</updated>
+    <updated>2022-04-06T00:41:53.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[纽约客》获得两项国家杂志奖]]></title>
+        <id>https://www.newyorker.com/news/news-desk/the-new-yorker-wins-two-national-magazine-awards</id>
+        <link href="https://www.newyorker.com/news/news-desk/the-new-yorker-wins-two-national-magazine-awards"/>
+        <updated>2022-04-06T00:23:45.000Z</updated>
+        <summary type="html"><![CDATA[The New Yorker Wins Two National Magazine Awards]]></summary>
+        <author>
+            <name>The New Yorker</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[雇佣兵和外国战士会改变乌克兰的战争进程吗？]]></title>
         <id>https://www.newyorker.com/news/daily-comment/will-mercenaries-and-foreign-fighters-change-the-course-of-ukraines-war</id>
@@ -6599,17 +6610,6 @@
         <link href="http://cacm.acm.org/magazines/2022/4/259401-internet-of-production"/>
         <updated>2022-04-01T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[Internet of Production]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[皮肤上的计算]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259400-on-skin-computing</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259400-on-skin-computing"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[On-Skin Computing]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://cacm.acm.org/magazine.rss</uri>
