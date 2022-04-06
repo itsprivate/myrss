@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-06T17:52:48.437Z</updated>
+    <updated>2022-04-06T18:39:08.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[虚假信息是我们这个时代的故事]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/04/jeffrey-goldberg-disinformation-democracy-threat/629487/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/04/jeffrey-goldberg-disinformation-democracy-threat/629487/?utm_source=feed"/>
+        <updated>2022-04-06T18:24:04.000Z</updated>
+        <summary type="html"><![CDATA[Disinformation Is the Story of Our Age]]></summary>
+        <author>
+            <name>Jeffrey Goldberg</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对Instagram上的知名女性来说，DMs可能是一个厌恶女性的大杂烩]]></title>
         <id>https://www.nytimes.com/2022/04/06/technology/instagram-harassment-women.html</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Faith Ringgold’s “Jazz Stories: Somebody Stole My Broken Heart”]]></summary>
         <author>
             <name>Françoise Mouly</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[泰莎-哈德利谈从细节中构建一个故事]]></title>
-        <id>https://www.newyorker.com/books/this-week-in-fiction/tessa-hadley-03-28-22</id>
-        <link href="https://www.newyorker.com/books/this-week-in-fiction/tessa-hadley-03-28-22"/>
-        <updated>2022-03-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tessa Hadley on Building a Story from Details]]></summary>
-        <author>
-            <name>Deborah Treisman</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

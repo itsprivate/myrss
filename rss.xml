@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 06 Apr 2022 17:52:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 18:39:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[虚假信息是我们这个时代的故事]]></title>
+            <link>https://www.theatlantic.com/newsletters/archive/2022/04/jeffrey-goldberg-disinformation-democracy-threat/629487/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/newsletters/archive/2022/04/jeffrey-goldberg-disinformation-democracy-threat/629487/?utm_source=feed</guid>
+            <pubDate>Wed, 06 Apr 2022 18:24:04 GMT</pubDate>
+            <description><![CDATA[Disinformation Is the Story of Our Age]]></description>
+        </item>
         <item>
             <title><![CDATA[对Instagram上的知名女性来说，DMs可能是一个厌恶女性的大杂烩]]></title>
             <link>https://www.nytimes.com/2022/04/06/technology/instagram-harassment-women.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/culture/cover-story/cover-story-2022-03-28</guid>
             <pubDate>Mon, 21 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Faith Ringgold’s “Jazz Stories: Somebody Stole My Broken Heart”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[泰莎-哈德利谈从细节中构建一个故事]]></title>
-            <link>https://www.newyorker.com/books/this-week-in-fiction/tessa-hadley-03-28-22</link>
-            <guid>https://www.newyorker.com/books/this-week-in-fiction/tessa-hadley-03-28-22</guid>
-            <pubDate>Mon, 21 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Tessa Hadley on Building a Story from Details]]></description>
         </item>
     </channel>
 </rss>

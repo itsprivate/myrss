@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/newsletters/archive/2022/04/jeffrey-goldberg-disinformation-democracy-threat/629487/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/newsletters/archive/2022/04/jeffrey-goldberg-disinformation-democracy-threat/629487/?utm_source=feed",
+            "title": "虚假信息是我们这个时代的故事",
+            "summary": "Disinformation Is the Story of Our Age",
+            "date_modified": "2022-04-06T18:24:04.000Z",
+            "author": {
+                "name": "Jeffrey Goldberg",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/06/technology/instagram-harassment-women.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/06/technology/instagram-harassment-women.html",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-21T10:00:00.000Z",
             "author": {
                 "name": "Françoise Mouly",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/books/this-week-in-fiction/tessa-hadley-03-28-22",
-            "content_html": "",
-            "url": "https://www.newyorker.com/books/this-week-in-fiction/tessa-hadley-03-28-22",
-            "title": "泰莎-哈德利谈从细节中构建一个故事",
-            "summary": "Tessa Hadley on Building a Story from Details",
-            "date_modified": "2022-03-21T10:00:00.000Z",
-            "author": {
-                "name": "Deborah Treisman",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }
