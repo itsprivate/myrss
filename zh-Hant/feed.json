@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.currentaffairs.org/2022/04/why-american-culture-is-so-disturbing/",
+            "content_html": "",
+            "url": "https://www.currentaffairs.org/2022/04/why-american-culture-is-so-disturbing/",
+            "title": "美國文化為何如此令人不安",
+            "summary": "Why American Culture is So Disturbing",
+            "date_modified": "2022-04-06T17:27:21.000Z",
+            "author": {
+                "name": "Nathan J. Robinson",
+                "url": "https://www.currentaffairs.org/feed"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/dispatch/collecting-bodies-in-bucha",
             "content_html": "",
             "url": "https://www.newyorker.com/news/dispatch/collecting-bodies-in-bucha",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-21T10:00:00.000Z",
             "author": {
                 "name": "Sheelah Kolhatkar",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/03/28/the-pied-piper-of-psychedelic-toads",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/03/28/the-pied-piper-of-psychedelic-toads",
-            "title": "迷幻蟾蜍的魔笛手",
-            "summary": "The Pied Piper of Psychedelic Toads",
-            "date_modified": "2022-03-21T10:00:00.000Z",
-            "author": {
-                "name": "Kimon de Greef",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }
