@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-06T10:37:55.362Z</updated>
+    <updated>2022-04-06T11:12:40.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[21世紀的溫斯洛-霍默]]></title>
+        <id>https://www.theatlantic.com/magazine/archive/2022/05/winslow-homer-paintings-crosscurrents-american-passage/629375/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/magazine/archive/2022/05/winslow-homer-paintings-crosscurrents-american-passage/629375/?utm_source=feed"/>
+        <updated>2022-04-06T11:00:56.000Z</updated>
+        <summary type="html"><![CDATA[A Winslow Homer for the 21st Century]]></summary>
+        <author>
+            <name>Susan Tallman</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普沒有超越尼克松的地位]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/trump-phone-calls-nixon-watergate-gap/629472/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/trump-phone-calls-nixon-watergate-gap/629472/?utm_source=feed"/>
+        <updated>2022-04-06T11:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Trump Hasn’t Out-Nixoned Nixon]]></summary>
+        <author>
+            <name>Tim Naftali</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄羅斯軍隊已淪為非人道行為]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/04/bucha-ukraine-bodies-russian-military-crimes/629485/?utm_source=feed</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[The Russians Fleeing Putin’s Wartime Crackdown]]></summary>
         <author>
             <name>Masha Gessen</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[酒館裡的幽靈]]></title>
-        <id>https://www.newyorker.com/culture/personal-history/ghosts-at-the-liquor-store</id>
-        <link href="https://www.newyorker.com/culture/personal-history/ghosts-at-the-liquor-store"/>
-        <updated>2022-03-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ghosts at the Liquor Store]]></summary>
-        <author>
-            <name>Samantha Hunt</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[主日閱讀。戲劇的光輝人物]]></title>
-        <id>https://www.newyorker.com/books/double-take/sunday-reading-luminaries-of-the-theatre</id>
-        <link href="https://www.newyorker.com/books/double-take/sunday-reading-luminaries-of-the-theatre"/>
-        <updated>2022-03-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sunday Reading: Luminaries of the Theatre]]></summary>
-        <author>
-            <name>Erin Overbey</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
