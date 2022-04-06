@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-06T09:13:02.670Z</updated>
+    <updated>2022-04-06T10:16:51.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[克里斯蒂安-維曼閱讀帕特里夏-卡沃利的文章]]></title>
+        <id>https://www.newyorker.com/podcast/poetry/christian-wiman-reads-patrizia-cavalli</id>
+        <link href="https://www.newyorker.com/podcast/poetry/christian-wiman-reads-patrizia-cavalli"/>
+        <updated>2022-04-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Christian Wiman Reads Patrizia Cavalli]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[警告。以下影片含有你的父母可能見過的演員]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/warning-the-following-film-contains-actors-your-parents-may-have-seen-before</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/warning-the-following-film-contains-actors-your-parents-may-have-seen-before"/>
+        <updated>2022-04-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Warning: The Following Film Contains Actors Your Parents May Have Seen Before]]></summary>
+        <author>
+            <name>Carrie Pinkard</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[落名：2022年4月6日，星期三]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022-04-06</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022-04-06"/>
+        <updated>2022-04-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Name Drop: Wednesday, April 6, 2022]]></summary>
+        <author>
+            <name>Will Nediger</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[填字遊戲: 2022年4月6日，星期三]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/06</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/06"/>
+        <updated>2022-04-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Crossword: Wednesday, April 6, 2022]]></summary>
+        <author>
+            <name>Wyna Liu</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在紐約市偷獵野生動物]]></title>
+        <id>https://www.newyorker.com/video/watch/poaching-wildlife-in-new-york-city</id>
+        <link href="https://www.newyorker.com/video/watch/poaching-wildlife-in-new-york-city"/>
+        <updated>2022-04-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Poaching Wildlife In New York City]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[布魯斯-威利斯的極簡主義明星力量]]></title>
+        <id>https://www.newyorker.com/culture/cultural-comment/bruce-williss-minimalist-star-power</id>
+        <link href="https://www.newyorker.com/culture/cultural-comment/bruce-williss-minimalist-star-power"/>
+        <updated>2022-04-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bruce Willis’s Minimalist Star Power]]></summary>
+        <author>
+            <name>Adam Nayman</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[牙買加灣 "灰水 "中的許多秘密]]></title>
+        <id>https://www.newyorker.com/culture/the-new-yorker-documentary/the-many-secrets-of-jamaica-bay-in-greywater</id>
+        <link href="https://www.newyorker.com/culture/the-new-yorker-documentary/the-many-secrets-of-jamaica-bay-in-greywater"/>
+        <updated>2022-04-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Many Secrets of Jamaica Bay in “Greywater”]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是如何在互聯網上被追蹤的？]]></title>
         <id>https://www.nytimes.com/2022/04/06/technology/online-tracking-privacy.html</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>Hua Hsu</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聯合學習和隱私]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259417-federated-learning-and-privacy</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259417-federated-learning-and-privacy"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Federated Learning and Privacy]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[技術視角。探索 "野生 "的認知偏差]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259416-technical-perspective-exploring-cognitive-bias-in-the-wild</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259416-technical-perspective-exploring-cognitive-bias-in-the-wild"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Technical Perspective: Exploring Cognitive Bias 'In the Wild']]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[能源信息學]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259415-energy-informatics</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259415-energy-informatics"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Energy Informatics]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[信任、監管和 "人在迴路 "人工智能]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259414-trust-regulation-and-human-in-the-loop-ai</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259414-trust-regulation-and-human-in-the-loop-ai"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Trust, Regulation, and Human-in-the-Loop AI]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[當軟件工程遇到量子計算]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259413-when-software-engineering-meets-quantum-computing</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259413-when-software-engineering-meets-quantum-computing"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When Software Engineering Meets Quantum Computing]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[モバイル指南]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259412-mobiguide</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259412-mobiguide"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[MobiGuide]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[歐洲在流程管理方面的領導地位]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259411-european-leadership-in-process-management</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259411-european-leadership-in-process-management"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[European Leadership in Process Management]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
         </author>
     </entry>
 </feed>
