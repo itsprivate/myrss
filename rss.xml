@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 06 Apr 2022 18:57:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 20:35:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在布查收集尸体]]></title>
+            <link>https://www.newyorker.com/news/dispatch/collecting-bodies-in-bucha</link>
+            <guid>https://www.newyorker.com/news/dispatch/collecting-bodies-in-bucha</guid>
+            <pubDate>Wed, 06 Apr 2022 20:05:08 GMT</pubDate>
+            <description><![CDATA[Collecting Bodies in Bucha]]></description>
+        </item>
+        <item>
+            <title><![CDATA[组织起来反对高等教育中的掠夺行为]]></title>
+            <link>https://www.currentaffairs.org/2022/04/organizing-against-precarity-in-higher-education/</link>
+            <guid>https://www.currentaffairs.org/2022/04/organizing-against-precarity-in-higher-education/</guid>
+            <pubDate>Wed, 06 Apr 2022 16:28:35 GMT</pubDate>
+            <description><![CDATA[Organizing Against Precarity in Higher Education]]></description>
+        </item>
         <item>
             <title><![CDATA[在2022年观看<em>人民的仆人<em>。]]></title>
             <link>https://www.theatlantic.com/culture/archive/2022/04/servant-of-the-people-zelensky-netflix-show/629493/?utm_source=feed</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/magazine/2022/03/28/the-pied-piper-of-psychedelic-toads</guid>
             <pubDate>Mon, 21 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[The Pied Piper of Psychedelic Toads]]></description>
-        </item>
-        <item>
-            <title><![CDATA[梦幻岛》将在百老汇上演]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/28/neverland-comes-to-broadway</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/28/neverland-comes-to-broadway</guid>
-            <pubDate>Mon, 21 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Neverland Comes to Broadway]]></description>
-        </item>
-        <item>
-            <title><![CDATA["为了我的浅色皮肤"，作者：Toi Derricotte]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/28/for-my-light-skin</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/28/for-my-light-skin</guid>
-            <pubDate>Mon, 21 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[“For My Light Skin,” by Toi Derricotte]]></description>
         </item>
     </channel>
 </rss>

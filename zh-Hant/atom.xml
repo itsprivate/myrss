@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-06T18:57:02.312Z</updated>
+    <updated>2022-04-06T20:35:04.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在布查收集屍體]]></title>
+        <id>https://www.newyorker.com/news/dispatch/collecting-bodies-in-bucha</id>
+        <link href="https://www.newyorker.com/news/dispatch/collecting-bodies-in-bucha"/>
+        <updated>2022-04-06T20:05:08.000Z</updated>
+        <summary type="html"><![CDATA[Collecting Bodies in Bucha]]></summary>
+        <author>
+            <name>Luke Mogelson</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[組織起來反對高等教育中的掠奪行為]]></title>
+        <id>https://www.currentaffairs.org/2022/04/organizing-against-precarity-in-higher-education/</id>
+        <link href="https://www.currentaffairs.org/2022/04/organizing-against-precarity-in-higher-education/"/>
+        <updated>2022-04-06T16:28:35.000Z</updated>
+        <summary type="html"><![CDATA[Organizing Against Precarity in Higher Education]]></summary>
+        <author>
+            <name>Maggie Levantovskaya</name>
+            <uri>https://www.currentaffairs.org/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在2022年觀看<em>人民的僕人<em>。]]></title>
         <id>https://www.theatlantic.com/culture/archive/2022/04/servant-of-the-people-zelensky-netflix-show/629493/?utm_source=feed</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[The Pied Piper of Psychedelic Toads]]></summary>
         <author>
             <name>Kimon de Greef</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[夢幻島》將在百老匯上演]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/28/neverland-comes-to-broadway</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/28/neverland-comes-to-broadway"/>
-        <updated>2022-03-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Neverland Comes to Broadway]]></summary>
-        <author>
-            <name>Michael Schulman</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["為了我的淺色皮膚"，作者：Toi Derricotte]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/28/for-my-light-skin</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/28/for-my-light-skin"/>
-        <updated>2022-03-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“For My Light Skin,” by Toi Derricotte]]></summary>
-        <author>
-            <name>Toi Derricotte</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
