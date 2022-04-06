@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 06 Apr 2022 07:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 09:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你是如何在互聯網上被追蹤的？]]></title>
+            <link>https://www.nytimes.com/2022/04/06/technology/online-tracking-privacy.html</link>
+            <guid>https://www.nytimes.com/2022/04/06/technology/online-tracking-privacy.html</guid>
+            <pubDate>Wed, 06 Apr 2022 09:00:27 GMT</pubDate>
+            <description><![CDATA[How You’re Still Being Tracked on the Internet]]></description>
+        </item>
         <item>
             <title><![CDATA[Meme股票和比特幣不會重新分配財富]]></title>
             <link>https://noahpinion.substack.com/p/meme-stocks-and-bitcoin-will-not</link>
@@ -4206,13 +4213,6 @@
             <guid>http://cacm.acm.org/magazines/2022/4/259411-european-leadership-in-process-management</guid>
             <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
             <description><![CDATA[European Leadership in Process Management]]></description>
-        </item>
-        <item>
-            <title><![CDATA[歐洲人工智能法規下的推薦系統]]></title>
-            <link>http://cacm.acm.org/magazines/2022/4/259410-recommender-systems-under-european-ai-regulations</link>
-            <guid>http://cacm.acm.org/magazines/2022/4/259410-recommender-systems-under-european-ai-regulations</guid>
-            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
-            <description><![CDATA[Recommender Systems Under European AI Regulations]]></description>
         </item>
     </channel>
 </rss>

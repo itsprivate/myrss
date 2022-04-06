@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/06/technology/online-tracking-privacy.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/06/technology/online-tracking-privacy.html",
+            "title": "你是如何在互联网上被追踪的？",
+            "summary": "How You’re Still Being Tracked on the Internet",
+            "date_modified": "2022-04-06T09:00:27.000Z",
+            "author": {
+                "name": "Brian X. Chen and Daisuke Wakabayashi",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://noahpinion.substack.com/p/meme-stocks-and-bitcoin-will-not",
             "content_html": "",
             "url": "https://noahpinion.substack.com/p/meme-stocks-and-bitcoin-will-not",
@@ -7192,18 +7204,6 @@
             "url": "http://cacm.acm.org/magazines/2022/4/259411-european-leadership-in-process-management",
             "title": "欧洲在流程管理方面的领导地位",
             "summary": "European Leadership in Process Management",
-            "date_modified": "2022-04-01T04:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://cacm.acm.org/magazine.rss"
-            }
-        },
-        {
-            "id": "http://cacm.acm.org/magazines/2022/4/259410-recommender-systems-under-european-ai-regulations",
-            "content_html": "",
-            "url": "http://cacm.acm.org/magazines/2022/4/259410-recommender-systems-under-european-ai-regulations",
-            "title": "欧洲人工智能法规下的推荐系统",
-            "summary": "Recommender Systems Under European AI Regulations",
             "date_modified": "2022-04-01T04:00:00.000Z",
             "author": {
                 "name": "unknown",

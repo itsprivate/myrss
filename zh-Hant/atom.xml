@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-06T07:12:53.752Z</updated>
+    <updated>2022-04-06T09:13:02.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是如何在互聯網上被追蹤的？]]></title>
+        <id>https://www.nytimes.com/2022/04/06/technology/online-tracking-privacy.html</id>
+        <link href="https://www.nytimes.com/2022/04/06/technology/online-tracking-privacy.html"/>
+        <updated>2022-04-06T09:00:27.000Z</updated>
+        <summary type="html"><![CDATA[How You’re Still Being Tracked on the Internet]]></summary>
+        <author>
+            <name>Brian X. Chen and Daisuke Wakabayashi</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meme股票和比特幣不會重新分配財富]]></title>
         <id>https://noahpinion.substack.com/p/meme-stocks-and-bitcoin-will-not</id>
@@ -6599,17 +6610,6 @@
         <link href="http://cacm.acm.org/magazines/2022/4/259411-european-leadership-in-process-management"/>
         <updated>2022-04-01T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[European Leadership in Process Management]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[歐洲人工智能法規下的推薦系統]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259410-recommender-systems-under-european-ai-regulations</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259410-recommender-systems-under-european-ai-regulations"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Recommender Systems Under European AI Regulations]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://cacm.acm.org/magazine.rss</uri>
