@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 06 Apr 2022 04:43:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 06:39:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[關於自決權的評論要點]]></title>
+            <link>https://astralcodexten.substack.com/p/highlights-from-the-comments-on-self</link>
+            <guid>https://astralcodexten.substack.com/p/highlights-from-the-comments-on-self</guid>
+            <pubDate>Wed, 06 Apr 2022 06:21:54 GMT</pubDate>
+            <description><![CDATA[Highlights From The Comments On Self-Determination]]></description>
+        </item>
         <item>
             <title><![CDATA[賈梅爾-沙巴茲富有同情心的攝影作品]]></title>
             <link>https://www.newyorker.com/magazine/2022/04/11/the-compassionate-photographs-of-jamel-shabazz</link>
@@ -4206,13 +4213,6 @@
             <guid>http://cacm.acm.org/magazines/2022/4/259409-fenix</guid>
             <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
             <description><![CDATA[Fenix]]></description>
-        </item>
-        <item>
-            <title><![CDATA[關於人工智能、數據和機器人的夥伴關係]]></title>
-            <link>http://cacm.acm.org/magazines/2022/4/259408-partnership-on-ai-data-and-robotics</link>
-            <guid>http://cacm.acm.org/magazines/2022/4/259408-partnership-on-ai-data-and-robotics</guid>
-            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
-            <description><![CDATA[Partnership on AI, Data, and Robotics]]></description>
         </item>
     </channel>
 </rss>
