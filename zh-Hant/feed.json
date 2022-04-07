@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/04/russian-disinformation-social-media-propaganda/629497/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/04/russian-disinformation-social-media-propaganda/629497/?utm_source=feed",
+            "title": "安妮-阿普爾鮑姆：社交媒體使散佈虛假信息變得容易了",
+            "summary": "Anne Applebaum: Social Media Made Spreading Disinformation Easy",
+            "date_modified": "2022-04-07T22:48:56.000Z",
+            "author": {
+                "name": "Kate Cray",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/politics/archive/2022/04/biden-covid-test-pelosi-positive-outbreak/629513/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/politics/archive/2022/04/biden-covid-test-pelosi-positive-outbreak/629513/?utm_source=feed",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-22T10:00:00.000Z",
             "author": {
                 "name": "Dhruv Khullar",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/news-desk/the-new-yorker-app-is-now-available-on-android",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/news-desk/the-new-yorker-app-is-now-available-on-android",
-            "title": "紐約客》應用程序現已登陸安卓系統",
-            "summary": "The New Yorker App Is Now Available on Android",
-            "date_modified": "2022-03-22T10:00:00.000Z",
-            "author": {
-                "name": "The New Yorker",
                 "url": "https://www.newyorker.com/feed/news"
             }
         }

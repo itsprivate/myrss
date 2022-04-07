@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-07T22:13:38.737Z</updated>
+    <updated>2022-04-07T23:13:47.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[安妮-阿普尔鲍姆：社交媒体使散布虚假信息变得容易了]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/russian-disinformation-social-media-propaganda/629497/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/russian-disinformation-social-media-propaganda/629497/?utm_source=feed"/>
+        <updated>2022-04-07T22:48:56.000Z</updated>
+        <summary type="html"><![CDATA[Anne Applebaum: Social Media Made Spreading Disinformation Easy]]></summary>
+        <author>
+            <name>Kate Cray</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[总统被COVID-19包围了]]></title>
         <id>https://www.theatlantic.com/politics/archive/2022/04/biden-covid-test-pelosi-positive-outbreak/629513/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Are We About to Cure Sickle-Cell Disease?]]></summary>
         <author>
             <name>Dhruv Khullar</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纽约客》应用程序现已登陆安卓系统]]></title>
-        <id>https://www.newyorker.com/news/news-desk/the-new-yorker-app-is-now-available-on-android</id>
-        <link href="https://www.newyorker.com/news/news-desk/the-new-yorker-app-is-now-available-on-android"/>
-        <updated>2022-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The New Yorker App Is Now Available on Android]]></summary>
-        <author>
-            <name>The New Yorker</name>
             <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>

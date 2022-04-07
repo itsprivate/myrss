@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 07 Apr 2022 22:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 23:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[安妮-阿普爾鮑姆：社交媒體使散佈虛假信息變得容易了]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/russian-disinformation-social-media-propaganda/629497/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/russian-disinformation-social-media-propaganda/629497/?utm_source=feed</guid>
+            <pubDate>Thu, 07 Apr 2022 22:48:56 GMT</pubDate>
+            <description><![CDATA[Anne Applebaum: Social Media Made Spreading Disinformation Easy]]></description>
+        </item>
         <item>
             <title><![CDATA[總統被COVID-19包圍了]]></title>
             <link>https://www.theatlantic.com/politics/archive/2022/04/biden-covid-test-pelosi-positive-outbreak/629513/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/science/annals-of-medicine/are-we-about-to-cure-sickle-cell-disease</guid>
             <pubDate>Tue, 22 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Are We About to Cure Sickle-Cell Disease?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[紐約客》應用程序現已登陸安卓系統]]></title>
-            <link>https://www.newyorker.com/news/news-desk/the-new-yorker-app-is-now-available-on-android</link>
-            <guid>https://www.newyorker.com/news/news-desk/the-new-yorker-app-is-now-available-on-android</guid>
-            <pubDate>Tue, 22 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The New Yorker App Is Now Available on Android]]></description>
         </item>
     </channel>
 </rss>
