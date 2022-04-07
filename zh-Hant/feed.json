@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/podcast/politics-and-more/can-genocide-be-prevented",
+            "content_html": "",
+            "url": "https://www.newyorker.com/podcast/politics-and-more/can-genocide-be-prevented",
+            "title": "能否防止種族滅絕？",
+            "summary": "Can Genocide Be Prevented?",
+            "date_modified": "2022-04-07T21:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/humor/borowitz-report/ted-cruz-says-confirmation-of-qualified-nominee-sets-dangerous-precedent",
+            "content_html": "",
+            "url": "https://www.newyorker.com/humor/borowitz-report/ted-cruz-says-confirmation-of-qualified-nominee-sets-dangerous-precedent",
+            "title": "特德-克魯茲說，確認合格的被提名人樹立了危險的先例",
+            "summary": "Ted Cruz Says Confirmation of Qualified Nominee Sets Dangerous Precedent",
+            "date_modified": "2022-04-07T21:08:39.000Z",
+            "author": {
+                "name": "Andy Borowitz",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/culture/infinite-scroll/is-it-cake-and-old-enough-reviewed-two-paths-for-the-netflix-reality-show",
             "content_html": "",
             "url": "https://www.newyorker.com/culture/infinite-scroll/is-it-cake-and-old-enough-reviewed-two-paths-for-the-netflix-reality-show",
@@ -7183,30 +7207,6 @@
             "date_modified": "2022-03-22T10:00:00.000Z",
             "author": {
                 "name": "Dhruv Khullar",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/news-desk/the-new-yorker-app-is-now-available-on-android",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/news-desk/the-new-yorker-app-is-now-available-on-android",
-            "title": "紐約客》應用程序現已登陸安卓系統",
-            "summary": "The New Yorker App Is Now Available on Android",
-            "date_modified": "2022-03-22T10:00:00.000Z",
-            "author": {
-                "name": "The New Yorker",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/personal-history/love-and-magic-or-a-trip-to-the-circus",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/personal-history/love-and-magic-or-a-trip-to-the-circus",
-            "title": "愛與魔法；或，馬戲團之旅",
-            "summary": "Love and Magic; or, A Trip to the Circus",
-            "date_modified": "2022-03-22T10:00:00.000Z",
-            "author": {
-                "name": "Isaac Bashevis Singer",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

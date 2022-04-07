@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 07 Apr 2022 20:35:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 21:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[能否防止種族滅絕？]]></title>
+            <link>https://www.newyorker.com/podcast/politics-and-more/can-genocide-be-prevented</link>
+            <guid>https://www.newyorker.com/podcast/politics-and-more/can-genocide-be-prevented</guid>
+            <pubDate>Thu, 07 Apr 2022 21:00:00 GMT</pubDate>
+            <description><![CDATA[Can Genocide Be Prevented?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[特德-克魯茲說，確認合格的被提名人樹立了危險的先例]]></title>
+            <link>https://www.newyorker.com/humor/borowitz-report/ted-cruz-says-confirmation-of-qualified-nominee-sets-dangerous-precedent</link>
+            <guid>https://www.newyorker.com/humor/borowitz-report/ted-cruz-says-confirmation-of-qualified-nominee-sets-dangerous-precedent</guid>
+            <pubDate>Thu, 07 Apr 2022 21:08:39 GMT</pubDate>
+            <description><![CDATA[Ted Cruz Says Confirmation of Qualified Nominee Sets Dangerous Precedent]]></description>
+        </item>
         <item>
             <title><![CDATA["是蛋糕嗎？"和 "夠老！"，評論。Netflix真人秀的兩條道路]]></title>
             <link>https://www.newyorker.com/culture/infinite-scroll/is-it-cake-and-old-enough-reviewed-two-paths-for-the-netflix-reality-show</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/science/annals-of-medicine/are-we-about-to-cure-sickle-cell-disease</guid>
             <pubDate>Tue, 22 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Are We About to Cure Sickle-Cell Disease?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[紐約客》應用程序現已登陸安卓系統]]></title>
-            <link>https://www.newyorker.com/news/news-desk/the-new-yorker-app-is-now-available-on-android</link>
-            <guid>https://www.newyorker.com/news/news-desk/the-new-yorker-app-is-now-available-on-android</guid>
-            <pubDate>Tue, 22 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The New Yorker App Is Now Available on Android]]></description>
-        </item>
-        <item>
-            <title><![CDATA[愛與魔法；或，馬戲團之旅]]></title>
-            <link>https://www.newyorker.com/culture/personal-history/love-and-magic-or-a-trip-to-the-circus</link>
-            <guid>https://www.newyorker.com/culture/personal-history/love-and-magic-or-a-trip-to-the-circus</guid>
-            <pubDate>Tue, 22 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Love and Magic; or, A Trip to the Circus]]></description>
         </item>
     </channel>
 </rss>

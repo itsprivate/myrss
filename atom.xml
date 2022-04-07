@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-07T20:35:07.642Z</updated>
+    <updated>2022-04-07T21:13:15.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[能否防止种族灭绝？]]></title>
+        <id>https://www.newyorker.com/podcast/politics-and-more/can-genocide-be-prevented</id>
+        <link href="https://www.newyorker.com/podcast/politics-and-more/can-genocide-be-prevented"/>
+        <updated>2022-04-07T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Can Genocide Be Prevented?]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特德-克鲁兹说，确认合格的被提名人树立了危险的先例]]></title>
+        <id>https://www.newyorker.com/humor/borowitz-report/ted-cruz-says-confirmation-of-qualified-nominee-sets-dangerous-precedent</id>
+        <link href="https://www.newyorker.com/humor/borowitz-report/ted-cruz-says-confirmation-of-qualified-nominee-sets-dangerous-precedent"/>
+        <updated>2022-04-07T21:08:39.000Z</updated>
+        <summary type="html"><![CDATA[Ted Cruz Says Confirmation of Qualified Nominee Sets Dangerous Precedent]]></summary>
+        <author>
+            <name>Andy Borowitz</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["是蛋糕吗？"和 "够老！"，评论。Netflix真人秀的两条道路]]></title>
         <id>https://www.newyorker.com/culture/infinite-scroll/is-it-cake-and-old-enough-reviewed-two-paths-for-the-netflix-reality-show</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[Are We About to Cure Sickle-Cell Disease?]]></summary>
         <author>
             <name>Dhruv Khullar</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纽约客》应用程序现已登陆安卓系统]]></title>
-        <id>https://www.newyorker.com/news/news-desk/the-new-yorker-app-is-now-available-on-android</id>
-        <link href="https://www.newyorker.com/news/news-desk/the-new-yorker-app-is-now-available-on-android"/>
-        <updated>2022-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The New Yorker App Is Now Available on Android]]></summary>
-        <author>
-            <name>The New Yorker</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爱与魔法；或，马戏团之旅]]></title>
-        <id>https://www.newyorker.com/culture/personal-history/love-and-magic-or-a-trip-to-the-circus</id>
-        <link href="https://www.newyorker.com/culture/personal-history/love-and-magic-or-a-trip-to-the-circus"/>
-        <updated>2022-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Love and Magic; or, A Trip to the Circus]]></summary>
-        <author>
-            <name>Isaac Bashevis Singer</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
