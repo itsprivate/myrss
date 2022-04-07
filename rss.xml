@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 07 Apr 2022 08:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 08:54:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[美国应该增加还是减少国防开支？]]></title>
+            <link>https://noahpinion.substack.com/p/should-the-us-increase-or-decrease</link>
+            <guid>https://noahpinion.substack.com/p/should-the-us-increase-or-decrease</guid>
+            <pubDate>Thu, 07 Apr 2022 08:47:44 GMT</pubDate>
+            <description><![CDATA[Should the U.S. increase or decrease defense spending?]]></description>
+        </item>
         <item>
             <title><![CDATA[<em>实验</em>播音。谁属于切罗基民族？]]></title>
             <link>https://www.theatlantic.com/podcasts/archive/2022/04/cherokee-freedmen-controversy-slave-trade/629461/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.nytimes.com/2022/03/21/business/gm-cadillac-electric-lyriq.html</guid>
             <pubDate>Mon, 21 Mar 2022 17:27:13 GMT</pubDate>
             <description><![CDATA[Cadillac Lyriq Starts Production, Expanding G.M.’s Electric Lineup]]></description>
-        </item>
-        <item>
-            <title><![CDATA[企业离开俄罗斯的空前热潮带来的后果]]></title>
-            <link>https://www.newyorker.com/business/currency/the-consequences-of-the-unprecedented-rush-of-companies-leaving-russia</link>
-            <guid>https://www.newyorker.com/business/currency/the-consequences-of-the-unprecedented-rush-of-companies-leaving-russia</guid>
-            <pubDate>Mon, 21 Mar 2022 16:49:50 GMT</pubDate>
-            <description><![CDATA[The Consequences of the Unprecedented Rush of Companies Leaving Russia]]></description>
         </item>
     </channel>
 </rss>

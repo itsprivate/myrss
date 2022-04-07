@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-07T08:15:10.715Z</updated>
+    <updated>2022-04-07T08:54:50.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美國應該增加還是減少國防開支？]]></title>
+        <id>https://noahpinion.substack.com/p/should-the-us-increase-or-decrease</id>
+        <link href="https://noahpinion.substack.com/p/should-the-us-increase-or-decrease"/>
+        <updated>2022-04-07T08:47:44.000Z</updated>
+        <summary type="html"><![CDATA[Should the U.S. increase or decrease defense spending?]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<em>實驗</em>播音。誰屬於切羅基民族？]]></title>
         <id>https://www.theatlantic.com/podcasts/archive/2022/04/cherokee-freedmen-controversy-slave-trade/629461/?utm_source=feed</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Neal E. Boudette</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[企業離開俄羅斯的空前熱潮帶來的後果]]></title>
-        <id>https://www.newyorker.com/business/currency/the-consequences-of-the-unprecedented-rush-of-companies-leaving-russia</id>
-        <link href="https://www.newyorker.com/business/currency/the-consequences-of-the-unprecedented-rush-of-companies-leaving-russia"/>
-        <updated>2022-03-21T16:49:50.000Z</updated>
-        <summary type="html"><![CDATA[The Consequences of the Unprecedented Rush of Companies Leaving Russia]]></summary>
-        <author>
-            <name>Sheelah Kolhatkar</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
