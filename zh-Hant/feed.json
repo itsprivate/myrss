@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/04/bill-clinton-nato-expansion-ukraine/629499/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/04/bill-clinton-nato-expansion-ukraine/629499/?utm_source=feed",
+            "title": "我為什麼要擴大北約",
+            "summary": "Why I Expanded NATO",
+            "date_modified": "2022-04-07T14:12:54.000Z",
+            "author": {
+                "name": "Bill Clinton",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/politics/archive/2022/04/how-europe-and-us-seize-oligarchs-yachts/629491/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/politics/archive/2022/04/how-europe-and-us-seize-oligarchs-yachts/629491/?utm_source=feed",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-22T01:33:18.000Z",
             "author": {
                 "name": "Richard Brody",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/sports/sporting-scene/should-the-tennis-tour-ban-russians-from-competing",
-            "content_html": "",
-            "url": "https://www.newyorker.com/sports/sporting-scene/should-the-tennis-tour-ban-russians-from-competing",
-            "title": "網球巡迴賽應該禁止俄羅斯人參賽嗎？",
-            "summary": "Should the Tennis Tour Ban Russians from Competing?",
-            "date_modified": "2022-03-21T22:37:32.000Z",
-            "author": {
-                "name": "Gerald Marzorati",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

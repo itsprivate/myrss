@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-07T11:30:37.522Z</updated>
+    <updated>2022-04-07T14:36:54.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我为什么要扩大北约]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/bill-clinton-nato-expansion-ukraine/629499/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/bill-clinton-nato-expansion-ukraine/629499/?utm_source=feed"/>
+        <updated>2022-04-07T14:12:54.000Z</updated>
+        <summary type="html"><![CDATA[Why I Expanded NATO]]></summary>
+        <author>
+            <name>Bill Clinton</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[扣押游艇需要什么条件]]></title>
         <id>https://www.theatlantic.com/politics/archive/2022/04/how-europe-and-us-seize-oligarchs-yachts/629491/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[2022 Oscar Predictions: Who Will Win Versus Who Should]]></summary>
         <author>
             <name>Richard Brody</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网球巡回赛应该禁止俄罗斯人参赛吗？]]></title>
-        <id>https://www.newyorker.com/sports/sporting-scene/should-the-tennis-tour-ban-russians-from-competing</id>
-        <link href="https://www.newyorker.com/sports/sporting-scene/should-the-tennis-tour-ban-russians-from-competing"/>
-        <updated>2022-03-21T22:37:32.000Z</updated>
-        <summary type="html"><![CDATA[Should the Tennis Tour Ban Russians from Competing?]]></summary>
-        <author>
-            <name>Gerald Marzorati</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
