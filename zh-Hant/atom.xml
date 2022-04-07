@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-07T21:39:31.126Z</updated>
+    <updated>2022-04-07T21:52:19.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[信仰、科學和弗朗西斯-柯林斯]]></title>
+        <id>https://www.newyorker.com/news/persons-of-interest/faith-science-and-francis-collins</id>
+        <link href="https://www.newyorker.com/news/persons-of-interest/faith-science-and-francis-collins"/>
+        <updated>2022-04-07T21:31:24.000Z</updated>
+        <summary type="html"><![CDATA[Faith, Science, and Francis Collins]]></summary>
+        <author>
+            <name>Dhruv Khullar</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[信仰、科學和弗朗西斯-柯林斯]]></title>
         <id>https://www.newyorker.com/news/persons-of-interest/faith-science-and-francis-collins</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Yasmeen Serhan</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[落名：2022年3月22日，星期二]]></title>
-        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/22</id>
-        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/22"/>
-        <updated>2022-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Name Drop: Tuesday, March 22, 2022]]></summary>
-        <author>
-            <name>Matt Jackson</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
