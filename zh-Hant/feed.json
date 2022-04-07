@@ -11,6 +11,54 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/dispatch/how-to-unionize-at-amazon",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/dispatch/how-to-unionize-at-amazon",
+            "title": "如何在亞馬遜成立工會",
+            "summary": "How to Unionize at Amazon",
+            "date_modified": "2022-04-07T10:00:00.000Z",
+            "author": {
+                "name": "E. Tammy Kim",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/magazine/archive/2022/05/mississippi-civil-rights-murders/629367/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/magazine/archive/2022/05/mississippi-civil-rights-murders/629367/?utm_source=feed",
+            "title": "誰會記得密西西比州的謀殺案？",
+            "summary": "Who Will Remember the Mississippi Murders?",
+            "date_modified": "2022-04-07T10:00:56.000Z",
+            "author": {
+                "name": "Ko Bragg",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/family/archive/2022/04/arguing-with-someone-different-values/629495/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/family/archive/2022/04/arguing-with-someone-different-values/629495/?utm_source=feed",
+            "title": "你的價值觀應該是一種禮物，而不是一種武器",
+            "summary": "Your Values Should Be a Gift, Not a Weapon",
+            "date_modified": "2022-04-07T10:00:56.000Z",
+            "author": {
+                "name": "Arthur C. Brooks",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/04/pandemic-failed-economic-forecasting/629498/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/04/pandemic-failed-economic-forecasting/629498/?utm_source=feed",
+            "title": "為什麼這麼多COVID的預測都是錯誤的？",
+            "summary": "Why So Many COVID Predictions Were Wrong",
+            "date_modified": "2022-04-07T10:00:56.000Z",
+            "author": {
+                "name": "Jerusalem Demsas",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022-04-07",
             "content_html": "",
             "url": "https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022-04-07",
@@ -7159,54 +7207,6 @@
             "date_modified": "2022-03-21T17:05:58.000Z",
             "author": {
                 "name": "John Eligon",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/personal-history/andrey-kurkov-ukraine-russia-war-archeology-ukrainian-translation",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/personal-history/andrey-kurkov-ukraine-russia-war-archeology-ukrainian-translation",
-            "title": "許可證制度",
-            "summary": "Археологія війни",
-            "date_modified": "2022-03-21T21:00:00.000Z",
-            "author": {
-                "name": "Andrey Kurkov",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/personal-history/andrey-kurkov-ukraine-russia-archeology-war",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/personal-history/andrey-kurkov-ukraine-russia-archeology-war",
-            "title": "戰爭的考古學",
-            "summary": "The Archeology of War",
-            "date_modified": "2022-03-21T21:00:00.000Z",
-            "author": {
-                "name": "Andrey Kurkov",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/personal-history/andrey-kurkov-ukraine-russia-war-archeology-russian-translation",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/personal-history/andrey-kurkov-ukraine-russia-war-archeology-russian-translation",
-            "title": "許可證制度",
-            "summary": "Археология войны",
-            "date_modified": "2022-03-21T21:00:00.000Z",
-            "author": {
-                "name": "Andrey Kurkov",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/21/science/russia-spacex-oneweb.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/21/science/russia-spacex-oneweb.html",
-            "title": "俄羅斯損失的火箭發射業務成為SpaceX的收益",
-            "summary": "Russia’s Loss of Rocket Launch Business Becomes SpaceX’s Gain",
-            "date_modified": "2022-03-21T20:49:06.000Z",
-            "author": {
-                "name": "Joey Roulette",
                 "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }

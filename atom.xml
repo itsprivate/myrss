@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-07T10:14:49.592Z</updated>
+    <updated>2022-04-07T10:56:44.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何在亚马逊成立工会]]></title>
+        <id>https://www.newyorker.com/news/dispatch/how-to-unionize-at-amazon</id>
+        <link href="https://www.newyorker.com/news/dispatch/how-to-unionize-at-amazon"/>
+        <updated>2022-04-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How to Unionize at Amazon]]></summary>
+        <author>
+            <name>E. Tammy Kim</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谁会记得密西西比州的谋杀案？]]></title>
+        <id>https://www.theatlantic.com/magazine/archive/2022/05/mississippi-civil-rights-murders/629367/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/magazine/archive/2022/05/mississippi-civil-rights-murders/629367/?utm_source=feed"/>
+        <updated>2022-04-07T10:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Who Will Remember the Mississippi Murders?]]></summary>
+        <author>
+            <name>Ko Bragg</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你的价值观应该是一种礼物，而不是一种武器]]></title>
+        <id>https://www.theatlantic.com/family/archive/2022/04/arguing-with-someone-different-values/629495/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/family/archive/2022/04/arguing-with-someone-different-values/629495/?utm_source=feed"/>
+        <updated>2022-04-07T10:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Your Values Should Be a Gift, Not a Weapon]]></summary>
+        <author>
+            <name>Arthur C. Brooks</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么这么多COVID的预测都是错误的？]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/pandemic-failed-economic-forecasting/629498/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/pandemic-failed-economic-forecasting/629498/?utm_source=feed"/>
+        <updated>2022-04-07T10:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Why So Many COVID Predictions Were Wrong]]></summary>
+        <author>
+            <name>Jerusalem Demsas</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[落名：2022年4月7日，星期四]]></title>
         <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022-04-07</id>
@@ -6568,50 +6612,6 @@
         <summary type="html"><![CDATA[Plan for Amazon Headquarters in South Africa in Peril After Court Order]]></summary>
         <author>
             <name>John Eligon</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[许可证制度]]></title>
-        <id>https://www.newyorker.com/culture/personal-history/andrey-kurkov-ukraine-russia-war-archeology-ukrainian-translation</id>
-        <link href="https://www.newyorker.com/culture/personal-history/andrey-kurkov-ukraine-russia-war-archeology-ukrainian-translation"/>
-        <updated>2022-03-21T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Археологія війни]]></summary>
-        <author>
-            <name>Andrey Kurkov</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[战争的考古学]]></title>
-        <id>https://www.newyorker.com/culture/personal-history/andrey-kurkov-ukraine-russia-archeology-war</id>
-        <link href="https://www.newyorker.com/culture/personal-history/andrey-kurkov-ukraine-russia-archeology-war"/>
-        <updated>2022-03-21T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Archeology of War]]></summary>
-        <author>
-            <name>Andrey Kurkov</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[许可证制度]]></title>
-        <id>https://www.newyorker.com/culture/personal-history/andrey-kurkov-ukraine-russia-war-archeology-russian-translation</id>
-        <link href="https://www.newyorker.com/culture/personal-history/andrey-kurkov-ukraine-russia-war-archeology-russian-translation"/>
-        <updated>2022-03-21T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Археология войны]]></summary>
-        <author>
-            <name>Andrey Kurkov</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯损失的火箭发射业务成为SpaceX的收益]]></title>
-        <id>https://www.nytimes.com/2022/03/21/science/russia-spacex-oneweb.html</id>
-        <link href="https://www.nytimes.com/2022/03/21/science/russia-spacex-oneweb.html"/>
-        <updated>2022-03-21T20:49:06.000Z</updated>
-        <summary type="html"><![CDATA[Russia’s Loss of Rocket Launch Business Becomes SpaceX’s Gain]]></summary>
-        <author>
-            <name>Joey Roulette</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
