@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/04/barack-obama-interview-disinformation-ukraine/629496/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/04/barack-obama-interview-disinformation-ukraine/629496/?utm_source=feed",
+            "title": "奥巴马。我低估了虚假信息的威胁",
+            "summary": "Obama: I Underestimated the Threat of Disinformation",
+            "date_modified": "2022-04-07T21:15:09.000Z",
+            "author": {
+                "name": "Jacob Stern",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/podcast/politics-and-more/can-genocide-be-prevented",
             "content_html": "",
             "url": "https://www.newyorker.com/podcast/politics-and-more/can-genocide-be-prevented",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-22T10:00:00.000Z",
             "author": {
                 "name": "Kathryn Kvas",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/science/annals-of-medicine/are-we-about-to-cure-sickle-cell-disease",
-            "content_html": "",
-            "url": "https://www.newyorker.com/science/annals-of-medicine/are-we-about-to-cure-sickle-cell-disease",
-            "title": "我们即将治愈镰状细胞病吗？",
-            "summary": "Are We About to Cure Sickle-Cell Disease?",
-            "date_modified": "2022-03-22T10:00:00.000Z",
-            "author": {
-                "name": "Dhruv Khullar",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 07 Apr 2022 21:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 21:31:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[奥巴马。我低估了虚假信息的威胁]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/barack-obama-interview-disinformation-ukraine/629496/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/barack-obama-interview-disinformation-ukraine/629496/?utm_source=feed</guid>
+            <pubDate>Thu, 07 Apr 2022 21:15:09 GMT</pubDate>
+            <description><![CDATA[Obama: I Underestimated the Threat of Disinformation]]></description>
+        </item>
         <item>
             <title><![CDATA[能否防止种族灭绝？]]></title>
             <link>https://www.newyorker.com/podcast/politics-and-more/can-genocide-be-prevented</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/humor/daily-shouts/find-a-hair-removal-technique-thats-right-for-you</guid>
             <pubDate>Tue, 22 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Find a Hair-Removal Technique That’s Right for You]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们即将治愈镰状细胞病吗？]]></title>
-            <link>https://www.newyorker.com/science/annals-of-medicine/are-we-about-to-cure-sickle-cell-disease</link>
-            <guid>https://www.newyorker.com/science/annals-of-medicine/are-we-about-to-cure-sickle-cell-disease</guid>
-            <pubDate>Tue, 22 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Are We About to Cure Sickle-Cell Disease?]]></description>
         </item>
     </channel>
 </rss>
