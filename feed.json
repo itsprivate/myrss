@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://noahpinion.substack.com/p/dont-worry-about-de-dollarization",
+            "content_html": "",
+            "url": "https://noahpinion.substack.com/p/dont-worry-about-de-dollarization",
+            "title": "不要担心去美元化的问题",
+            "summary": "Don't worry about de-dollarization",
+            "date_modified": "2022-03-13T07:24:32.000Z",
+            "author": {
+                "name": "Noah Smith",
+                "url": "https://noahpinion.substack.com/feed"
+            }
+        },
+        {
             "id": "https://noahpinion.substack.com/p/china-russia-and-the-inflation-situation",
             "content_html": "",
             "url": "https://noahpinion.substack.com/p/china-russia-and-the-inflation-situation",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Andy Borowitz",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/03/28/retirement-the-margaritaville-way",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/03/28/retirement-the-margaritaville-way",
-            "title": "玛格丽特方式的退休生活",
-            "summary": "Retirement the Margaritaville Way",
-            "date_modified": "2022-03-21T10:00:00.000Z",
-            "author": {
-                "name": "Nick Paumgarten",
-                "url": "https://www.newyorker.com/feed/news"
             }
         }
     ]
