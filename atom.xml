@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-07T09:33:44.059Z</updated>
+    <updated>2022-04-07T10:14:49.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[落名：2022年4月7日，星期四]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022-04-07</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022-04-07"/>
+        <updated>2022-04-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Name Drop: Thursday, April 7, 2022]]></summary>
+        <author>
+            <name>Will Nediger</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[没有比1990年代更酷的了]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/theres-no-cool-like-1990s-cool</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/theres-no-cool-like-1990s-cool"/>
+        <updated>2022-04-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s No Cool Like 1990s Cool]]></summary>
+        <author>
+            <name>Alex Baia</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在亚马逊成立工会]]></title>
+        <id>https://www.newyorker.com/news/dispatch/how-to-unionize-at-amazon</id>
+        <link href="https://www.newyorker.com/news/dispatch/how-to-unionize-at-amazon"/>
+        <updated>2022-04-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How to Unionize at Amazon]]></summary>
+        <author>
+            <name>E. Tammy Kim</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[填字游戏: 2022年4月7日，星期四]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/07</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/07"/>
+        <updated>2022-04-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Crossword: Thursday, April 7, 2022]]></summary>
+        <author>
+            <name>Elizabeth C. Gorski</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对香港的最后一击]]></title>
         <id>https://www.theatlantic.com/international/archive/2022/04/hong-kong-uk-judges-resignation-democracy-risk/629494/?utm_source=feed</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>Joey Roulette</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌与从事工会工作的六名员工达成和解。]]></title>
-        <id>https://www.nytimes.com/2022/03/21/technology/google-workers-settlement.html</id>
-        <link href="https://www.nytimes.com/2022/03/21/technology/google-workers-settlement.html"/>
-        <updated>2022-03-21T20:30:26.000Z</updated>
-        <summary type="html"><![CDATA[Google settles with six employees who worked on unionization efforts.]]></summary>
-        <author>
-            <name>Daisuke Wakabayashi</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mantic 3/21/22星期一]]></title>
-        <id>https://astralcodexten.substack.com/p/mantic-monday-32122</id>
-        <link href="https://astralcodexten.substack.com/p/mantic-monday-32122"/>
-        <updated>2022-03-21T20:28:12.000Z</updated>
-        <summary type="html"><![CDATA[Mantic Monday 3/21/22]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯对平民的暴行实际上是独一无二的吗？]]></title>
-        <id>https://www.currentaffairs.org/2022/03/is-russian-brutality-toward-civilians-actually-unique/</id>
-        <link href="https://www.currentaffairs.org/2022/03/is-russian-brutality-toward-civilians-actually-unique/"/>
-        <updated>2022-03-21T14:42:31.000Z</updated>
-        <summary type="html"><![CDATA[Is Russian Brutality Toward Civilians Actually Unique?]]></summary>
-        <author>
-            <name>Nathan J. Robinson</name>
-            <uri>https://www.currentaffairs.org/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果以2000年为灵感的外观准确地反映了我的两千多人]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/if-y2k-inspired-looks-accurately-reflected-my-two-thousands</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/if-y2k-inspired-looks-accurately-reflected-my-two-thousands"/>
-        <updated>2022-03-21T18:19:46.000Z</updated>
-        <summary type="html"><![CDATA[If Y2K-Inspired Looks Accurately Reflected My Two-Thousands]]></summary>
-        <author>
-            <name>Kaitlin Chan, Brian Park</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>

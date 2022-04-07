@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 07 Apr 2022 09:33:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 10:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,34 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[落名：2022年4月7日，星期四]]></title>
+            <link>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022-04-07</link>
+            <guid>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022-04-07</guid>
+            <pubDate>Thu, 07 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Name Drop: Thursday, April 7, 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[没有比1990年代更酷的了]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/theres-no-cool-like-1990s-cool</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/theres-no-cool-like-1990s-cool</guid>
+            <pubDate>Thu, 07 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[There’s No Cool Like 1990s Cool]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何在亚马逊成立工会]]></title>
+            <link>https://www.newyorker.com/news/dispatch/how-to-unionize-at-amazon</link>
+            <guid>https://www.newyorker.com/news/dispatch/how-to-unionize-at-amazon</guid>
+            <pubDate>Thu, 07 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[How to Unionize at Amazon]]></description>
+        </item>
+        <item>
+            <title><![CDATA[填字游戏: 2022年4月7日，星期四]]></title>
+            <link>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/07</link>
+            <guid>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/07</guid>
+            <pubDate>Thu, 07 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Crossword: Thursday, April 7, 2022]]></description>
+        </item>
         <item>
             <title><![CDATA[对香港的最后一击]]></title>
             <link>https://www.theatlantic.com/international/archive/2022/04/hong-kong-uk-judges-resignation-democracy-risk/629494/?utm_source=feed</link>
@@ -4185,34 +4213,6 @@
             <guid>https://www.nytimes.com/2022/03/21/science/russia-spacex-oneweb.html</guid>
             <pubDate>Mon, 21 Mar 2022 20:49:06 GMT</pubDate>
             <description><![CDATA[Russia’s Loss of Rocket Launch Business Becomes SpaceX’s Gain]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谷歌与从事工会工作的六名员工达成和解。]]></title>
-            <link>https://www.nytimes.com/2022/03/21/technology/google-workers-settlement.html</link>
-            <guid>https://www.nytimes.com/2022/03/21/technology/google-workers-settlement.html</guid>
-            <pubDate>Mon, 21 Mar 2022 20:30:26 GMT</pubDate>
-            <description><![CDATA[Google settles with six employees who worked on unionization efforts.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Mantic 3/21/22星期一]]></title>
-            <link>https://astralcodexten.substack.com/p/mantic-monday-32122</link>
-            <guid>https://astralcodexten.substack.com/p/mantic-monday-32122</guid>
-            <pubDate>Mon, 21 Mar 2022 20:28:12 GMT</pubDate>
-            <description><![CDATA[Mantic Monday 3/21/22]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯对平民的暴行实际上是独一无二的吗？]]></title>
-            <link>https://www.currentaffairs.org/2022/03/is-russian-brutality-toward-civilians-actually-unique/</link>
-            <guid>https://www.currentaffairs.org/2022/03/is-russian-brutality-toward-civilians-actually-unique/</guid>
-            <pubDate>Mon, 21 Mar 2022 14:42:31 GMT</pubDate>
-            <description><![CDATA[Is Russian Brutality Toward Civilians Actually Unique?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如果以2000年为灵感的外观准确地反映了我的两千多人]]></title>
-            <link>https://www.newyorker.com/humor/daily-shouts/if-y2k-inspired-looks-accurately-reflected-my-two-thousands</link>
-            <guid>https://www.newyorker.com/humor/daily-shouts/if-y2k-inspired-looks-accurately-reflected-my-two-thousands</guid>
-            <pubDate>Mon, 21 Mar 2022 18:19:46 GMT</pubDate>
-            <description><![CDATA[If Y2K-Inspired Looks Accurately Reflected My Two-Thousands]]></description>
         </item>
     </channel>
 </rss>
