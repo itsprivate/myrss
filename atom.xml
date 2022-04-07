@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-07T18:17:26.300Z</updated>
+    <updated>2022-04-07T19:12:19.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[国际法的 "阴影"]]></title>
+        <id>https://www.newyorker.com/news/q-and-a/the-shadow-of-international-law</id>
+        <link href="https://www.newyorker.com/news/q-and-a/the-shadow-of-international-law"/>
+        <updated>2022-04-07T18:51:51.000Z</updated>
+        <summary type="html"><![CDATA[The “Shadow” of International Law]]></summary>
+        <author>
+            <name>Isaac Chotiner</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[五只职业生涯比你更辉煌的浣熊]]></title>
         <id>https://www.newyorker.com/humor/daily-shouts/five-raccoons-whose-careers-were-more-illustrious-than-yours</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>David Frum</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[帮助A.I.了解土著文化]]></title>
-        <id>https://www.nytimes.com/2022/03/22/technology/ai-data-indigenous-ivow.html</id>
-        <link href="https://www.nytimes.com/2022/03/22/technology/ai-data-indigenous-ivow.html"/>
-        <updated>2022-03-22T09:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Helping A.I. to Learn About Indigenous Cultures]]></summary>
-        <author>
-            <name>Alex V. Cipolle</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>

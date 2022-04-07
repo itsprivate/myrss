@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 07 Apr 2022 18:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 19:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[國際法的 "陰影"]]></title>
+            <link>https://www.newyorker.com/news/q-and-a/the-shadow-of-international-law</link>
+            <guid>https://www.newyorker.com/news/q-and-a/the-shadow-of-international-law</guid>
+            <pubDate>Thu, 07 Apr 2022 18:51:51 GMT</pubDate>
+            <description><![CDATA[The “Shadow” of International Law]]></description>
+        </item>
         <item>
             <title><![CDATA[五隻職業生涯比你更輝煌的浣熊]]></title>
             <link>https://www.newyorker.com/humor/daily-shouts/five-raccoons-whose-careers-were-more-illustrious-than-yours</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/ideas/archive/2022/03/ukraine-anti-semitism-russia/627150/?utm_source=feed</guid>
             <pubDate>Tue, 22 Mar 2022 10:00:57 GMT</pubDate>
             <description><![CDATA[A Nation Worth Fighting For]]></description>
-        </item>
-        <item>
-            <title><![CDATA[幫助A.I.瞭解土著文化]]></title>
-            <link>https://www.nytimes.com/2022/03/22/technology/ai-data-indigenous-ivow.html</link>
-            <guid>https://www.nytimes.com/2022/03/22/technology/ai-data-indigenous-ivow.html</guid>
-            <pubDate>Tue, 22 Mar 2022 09:00:10 GMT</pubDate>
-            <description><![CDATA[Helping A.I. to Learn About Indigenous Cultures]]></description>
         </item>
     </channel>
 </rss>
