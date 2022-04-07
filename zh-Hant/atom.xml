@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-07T04:59:21.283Z</updated>
+    <updated>2022-04-07T05:12:47.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[高油價會導致經濟衰退嗎？]]></title>
+        <id>https://noahpinion.substack.com/p/will-high-oil-prices-cause-a-recession</id>
+        <link href="https://noahpinion.substack.com/p/will-high-oil-prices-cause-a-recession"/>
+        <updated>2022-03-10T08:11:16.000Z</updated>
+        <summary type="html"><![CDATA[Will high oil prices cause a recession?]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是時候進行外交革命了]]></title>
         <id>https://noahpinion.substack.com/p/time-for-a-diplomatic-revolution</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[What We Can Learn From Our Political Adversaries]]></summary>
         <author>
             <name>Conor Friedersdorf</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼美國剛剛說緬甸進行了種族滅絕？]]></title>
-        <id>https://www.theatlantic.com/international/archive/2022/03/blinken-myanmar-genocide-rohingya-muslims/627124/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/international/archive/2022/03/blinken-myanmar-genocide-rohingya-muslims/627124/?utm_source=feed"/>
-        <updated>2022-03-21T15:29:55.000Z</updated>
-        <summary type="html"><![CDATA[Why America Just Said Myanmar Carried Out a Genocide]]></summary>
-        <author>
-            <name>Timothy McLaughlin</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>

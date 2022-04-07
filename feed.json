@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://noahpinion.substack.com/p/will-high-oil-prices-cause-a-recession",
+            "content_html": "",
+            "url": "https://noahpinion.substack.com/p/will-high-oil-prices-cause-a-recession",
+            "title": "高油价会导致经济衰退吗？",
+            "summary": "Will high oil prices cause a recession?",
+            "date_modified": "2022-03-10T08:11:16.000Z",
+            "author": {
+                "name": "Noah Smith",
+                "url": "https://noahpinion.substack.com/feed"
+            }
+        },
+        {
             "id": "https://noahpinion.substack.com/p/time-for-a-diplomatic-revolution",
             "content_html": "",
             "url": "https://noahpinion.substack.com/p/time-for-a-diplomatic-revolution",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-21T15:22:45.000Z",
             "author": {
                 "name": "Conor Friedersdorf",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/international/archive/2022/03/blinken-myanmar-genocide-rohingya-muslims/627124/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/international/archive/2022/03/blinken-myanmar-genocide-rohingya-muslims/627124/?utm_source=feed",
-            "title": "为什么美国刚刚说缅甸进行了种族灭绝？",
-            "summary": "Why America Just Said Myanmar Carried Out a Genocide",
-            "date_modified": "2022-03-21T15:29:55.000Z",
-            "author": {
-                "name": "Timothy McLaughlin",
                 "url": "https://www.theatlantic.com/feed/all/"
             }
         }
