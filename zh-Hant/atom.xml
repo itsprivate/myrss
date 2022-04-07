@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-07T21:52:19.671Z</updated>
+    <updated>2022-04-07T22:13:38.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[總統被COVID-19包圍了]]></title>
+        <id>https://www.theatlantic.com/politics/archive/2022/04/biden-covid-test-pelosi-positive-outbreak/629513/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/politics/archive/2022/04/biden-covid-test-pelosi-positive-outbreak/629513/?utm_source=feed"/>
+        <updated>2022-04-07T21:42:47.000Z</updated>
+        <summary type="html"><![CDATA[The President Is Surrounded By COVID-19]]></summary>
+        <author>
+            <name>Russell Berman</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[信仰、科學和弗朗西斯-柯林斯]]></title>
         <id>https://www.newyorker.com/news/persons-of-interest/faith-science-and-francis-collins</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>The New Yorker</name>
             <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西方新聞如何繞過普京的數字鐵幕]]></title>
-        <id>https://www.theatlantic.com/international/archive/2022/03/international-news-russia-kremlin-media-censorship/627120/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/international/archive/2022/03/international-news-russia-kremlin-media-censorship/627120/?utm_source=feed"/>
-        <updated>2022-03-22T10:27:08.000Z</updated>
-        <summary type="html"><![CDATA[How Western News Is Getting Around Putin's Digital Iron Curtain]]></summary>
-        <author>
-            <name>Yasmeen Serhan</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
