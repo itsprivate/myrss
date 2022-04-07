@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-07T15:35:25.526Z</updated>
+    <updated>2022-04-07T15:48:35.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一种疾病能对景观造成什么影响？]]></title>
+        <id>https://www.theatlantic.com/science/archive/2022/04/vicuna-mange-outbreak-san-guillermo/629506/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/science/archive/2022/04/vicuna-mange-outbreak-san-guillermo/629506/?utm_source=feed"/>
+        <updated>2022-04-07T15:29:12.000Z</updated>
+        <summary type="html"><![CDATA[What Can One Disease Do to a Landscape?]]></summary>
+        <author>
+            <name>Ed Yong</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[茱莉亚-柴尔德对中年雄心的认识]]></title>
         <id>https://www.theatlantic.com/culture/archive/2022/04/julia-child-sarah-lancashire-hbo-review/629477/?utm_source=feed</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Zolan Kanno-Youngs</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[凯坦吉-布朗-杰克逊法官确认听证会第一天的高历史和低政治因素]]></title>
-        <id>https://www.newyorker.com/news/our-columnists/high-history-and-low-politics-at-day-one-of-judge-ketanji-brown-jacksons-confirmation-hearing</id>
-        <link href="https://www.newyorker.com/news/our-columnists/high-history-and-low-politics-at-day-one-of-judge-ketanji-brown-jacksons-confirmation-hearing"/>
-        <updated>2022-03-22T02:00:33.000Z</updated>
-        <summary type="html"><![CDATA[High History and Low Politics on Day One of Judge Ketanji Brown Jackson’s Confirmation Hearing]]></summary>
-        <author>
-            <name>John Cassidy</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
