@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 07 Apr 2022 03:46:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 03:58:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[中国有一个决定性的选择要做]]></title>
+            <link>https://noahpinion.substack.com/p/china-has-a-fateful-choice-to-make</link>
+            <guid>https://noahpinion.substack.com/p/china-has-a-fateful-choice-to-make</guid>
+            <pubDate>Wed, 16 Mar 2022 09:08:44 GMT</pubDate>
+            <description><![CDATA[China has a fateful choice to make]]></description>
+        </item>
         <item>
             <title><![CDATA[隐秘的公开主题218.5]]></title>
             <link>https://astralcodexten.substack.com/p/hidden-open-thread-2185</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/magazine/2022/03/28/should-leopards-be-paid-for-their-spots</guid>
             <pubDate>Mon, 21 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Should Leopards Be Paid for Their Spots?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[迷幻蟾蜍的魔笛手]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/28/the-pied-piper-of-psychedelic-toads</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/28/the-pied-piper-of-psychedelic-toads</guid>
-            <pubDate>Mon, 21 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Pied Piper of Psychedelic Toads]]></description>
         </item>
     </channel>
 </rss>

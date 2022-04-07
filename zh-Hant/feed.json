@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://noahpinion.substack.com/p/china-has-a-fateful-choice-to-make",
+            "content_html": "",
+            "url": "https://noahpinion.substack.com/p/china-has-a-fateful-choice-to-make",
+            "title": "中國有一個決定性的選擇要做",
+            "summary": "China has a fateful choice to make",
+            "date_modified": "2022-03-16T09:08:44.000Z",
+            "author": {
+                "name": "Noah Smith",
+                "url": "https://noahpinion.substack.com/feed"
+            }
+        },
+        {
             "id": "https://astralcodexten.substack.com/p/hidden-open-thread-2185",
             "content_html": "",
             "url": "https://astralcodexten.substack.com/p/hidden-open-thread-2185",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-21T10:00:00.000Z",
             "author": {
                 "name": "Rebecca Mead",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/03/28/the-pied-piper-of-psychedelic-toads",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/03/28/the-pied-piper-of-psychedelic-toads",
-            "title": "迷幻蟾蜍的魔笛手",
-            "summary": "The Pied Piper of Psychedelic Toads",
-            "date_modified": "2022-03-21T10:00:00.000Z",
-            "author": {
-                "name": "Kimon de Greef",
                 "url": "https://www.newyorker.com/feed/news"
             }
         }
