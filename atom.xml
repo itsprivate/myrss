@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-07T16:52:25.676Z</updated>
+    <updated>2022-04-07T17:36:42.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们无法预测杂货店的未来]]></title>
+        <id>https://www.nytimes.com/2022/04/07/technology/online-grocery-shopping.html</id>
+        <link href="https://www.nytimes.com/2022/04/07/technology/online-grocery-shopping.html"/>
+        <updated>2022-04-07T17:16:35.000Z</updated>
+        <summary type="html"><![CDATA[We Can’t Predict the Grocery Future]]></summary>
+        <author>
+            <name>Shira Ovide</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日漫画。4月7日，星期四]]></title>
         <id>https://www.newyorker.com/cartoons/daily-cartoon/thursday-april-7th-mr-met</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Is Geometry a Language That Only Humans Know?]]></summary>
         <author>
             <name>unknown</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特币矿工希望将自己重新塑造成生态友好型矿工]]></title>
-        <id>https://www.nytimes.com/2022/03/22/technology/bitcoin-miners-environment-crypto.html</id>
-        <link href="https://www.nytimes.com/2022/03/22/technology/bitcoin-miners-environment-crypto.html"/>
-        <updated>2022-03-22T07:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin Miners Want to Recast Themselves as Eco-Friendly]]></summary>
-        <author>
-            <name>David Yaffe-Bellany</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>

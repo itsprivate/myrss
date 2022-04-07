@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 07 Apr 2022 16:52:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 17:36:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我們無法預測雜貨店的未來]]></title>
+            <link>https://www.nytimes.com/2022/04/07/technology/online-grocery-shopping.html</link>
+            <guid>https://www.nytimes.com/2022/04/07/technology/online-grocery-shopping.html</guid>
+            <pubDate>Thu, 07 Apr 2022 17:16:35 GMT</pubDate>
+            <description><![CDATA[We Can’t Predict the Grocery Future]]></description>
+        </item>
         <item>
             <title><![CDATA[每日漫畫。4月7日，星期四]]></title>
             <link>https://www.newyorker.com/cartoons/daily-cartoon/thursday-april-7th-mr-met</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.nytimes.com/2022/03/22/science/geometry-math-brain-primates.html</guid>
             <pubDate>Tue, 22 Mar 2022 07:00:15 GMT</pubDate>
             <description><![CDATA[Is Geometry a Language That Only Humans Know?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[比特幣礦工希望將自己重新塑造成生態友好型礦工]]></title>
-            <link>https://www.nytimes.com/2022/03/22/technology/bitcoin-miners-environment-crypto.html</link>
-            <guid>https://www.nytimes.com/2022/03/22/technology/bitcoin-miners-environment-crypto.html</guid>
-            <pubDate>Tue, 22 Mar 2022 07:00:15 GMT</pubDate>
-            <description><![CDATA[Bitcoin Miners Want to Recast Themselves as Eco-Friendly]]></description>
         </item>
     </channel>
 </rss>
