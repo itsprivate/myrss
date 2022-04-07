@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://noahpinion.substack.com/p/the-ukraine-war-and-the-price-of",
+            "content_html": "",
+            "url": "https://noahpinion.substack.com/p/the-ukraine-war-and-the-price-of",
+            "title": "烏克蘭戰爭和麵包的價格",
+            "summary": "The Ukraine War and the price of bread",
+            "date_modified": "2022-03-08T09:38:04.000Z",
+            "author": {
+                "name": "Noah Smith",
+                "url": "https://noahpinion.substack.com/feed"
+            }
+        },
+        {
             "id": "https://noahpinion.substack.com/p/will-high-oil-prices-cause-a-recession",
             "content_html": "",
             "url": "https://noahpinion.substack.com/p/will-high-oil-prices-cause-a-recession",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Shannon Wheeler",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/newsletters/archive/2022/03/what-we-can-learn-from-our-political-adversaries/627123/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/newsletters/archive/2022/03/what-we-can-learn-from-our-political-adversaries/627123/?utm_source=feed",
-            "title": "我們可以從我們的政治對手那裡學到什麼？",
-            "summary": "What We Can Learn From Our Political Adversaries",
-            "date_modified": "2022-03-21T15:22:45.000Z",
-            "author": {
-                "name": "Conor Friedersdorf",
-                "url": "https://www.theatlantic.com/feed/all/"
             }
         }
     ]
