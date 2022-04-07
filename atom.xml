@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-07T14:36:54.489Z</updated>
+    <updated>2022-04-07T15:35:25.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[茱莉亚-柴尔德对中年雄心的认识]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/04/julia-child-sarah-lancashire-hbo-review/629477/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/04/julia-child-sarah-lancashire-hbo-review/629477/?utm_source=feed"/>
+        <updated>2022-04-07T15:11:22.000Z</updated>
+        <summary type="html"><![CDATA[What Julia Child Knew About Midlife Ambition]]></summary>
+        <author>
+            <name>Sophie Gilbert</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我为什么要扩大北约]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/04/bill-clinton-nato-expansion-ukraine/629499/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[High History and Low Politics on Day One of Judge Ketanji Brown Jackson’s Confirmation Hearing]]></summary>
         <author>
             <name>John Cassidy</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年奥斯卡奖预测。谁会赢，谁应该赢]]></title>
-        <id>https://www.newyorker.com/culture/the-front-row/2022-oscar-predictions-who-will-win-versus-who-should</id>
-        <link href="https://www.newyorker.com/culture/the-front-row/2022-oscar-predictions-who-will-win-versus-who-should"/>
-        <updated>2022-03-22T01:33:18.000Z</updated>
-        <summary type="html"><![CDATA[2022 Oscar Predictions: Who Will Win Versus Who Should]]></summary>
-        <author>
-            <name>Richard Brody</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
