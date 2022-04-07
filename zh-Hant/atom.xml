@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-07T23:33:51.131Z</updated>
+    <updated>2022-04-07T23:43:20.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不道德變成邪惡的界限在哪裡？]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/maria-ressa-rappler-philippines-facebook/629510/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/maria-ressa-rappler-philippines-facebook/629510/?utm_source=feed"/>
+        <updated>2022-04-07T23:20:54.000Z</updated>
+        <summary type="html"><![CDATA[‘Where Is the Line Where Immoral Becomes Evil?’]]></summary>
+        <author>
+            <name>Ellen Cushing</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[同行評審要求。晦澀難懂的懷孕干預措施]]></title>
         <id>https://astralcodexten.substack.com/p/peer-review-request-obscure-pregnancy</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Renée DiResta</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在讀什麼？]]></title>
-        <id>https://austinkleon.substack.com/p/what-are-you-reading</id>
-        <link href="https://austinkleon.substack.com/p/what-are-you-reading"/>
-        <updated>2022-03-22T11:00:34.000Z</updated>
-        <summary type="html"><![CDATA[What are you reading?]]></summary>
-        <author>
-            <name>Austin Kleon</name>
-            <uri>https://austinkleon.substack.com/feed</uri>
         </author>
     </entry>
 </feed>
