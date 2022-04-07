@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 07 Apr 2022 03:58:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 04:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[中國、俄羅斯和通貨膨脹形勢]]></title>
+            <link>https://noahpinion.substack.com/p/china-russia-and-the-inflation-situation</link>
+            <guid>https://noahpinion.substack.com/p/china-russia-and-the-inflation-situation</guid>
+            <pubDate>Mon, 14 Mar 2022 06:08:35 GMT</pubDate>
+            <description><![CDATA[China, Russia, and the inflation situation]]></description>
+        </item>
         <item>
             <title><![CDATA[中國有一個決定性的選擇要做]]></title>
             <link>https://noahpinion.substack.com/p/china-has-a-fateful-choice-to-make</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/magazine/2022/03/28/retirement-the-margaritaville-way</guid>
             <pubDate>Mon, 21 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Retirement the Margaritaville Way]]></description>
-        </item>
-        <item>
-            <title><![CDATA[豹子應該為它們的位置支付報酬嗎？]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/28/should-leopards-be-paid-for-their-spots</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/28/should-leopards-be-paid-for-their-spots</guid>
-            <pubDate>Mon, 21 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Should Leopards Be Paid for Their Spots?]]></description>
         </item>
     </channel>
 </rss>

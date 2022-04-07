@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://noahpinion.substack.com/p/china-russia-and-the-inflation-situation",
+            "content_html": "",
+            "url": "https://noahpinion.substack.com/p/china-russia-and-the-inflation-situation",
+            "title": "中國、俄羅斯和通貨膨脹形勢",
+            "summary": "China, Russia, and the inflation situation",
+            "date_modified": "2022-03-14T06:08:35.000Z",
+            "author": {
+                "name": "Noah Smith",
+                "url": "https://noahpinion.substack.com/feed"
+            }
+        },
+        {
             "id": "https://noahpinion.substack.com/p/china-has-a-fateful-choice-to-make",
             "content_html": "",
             "url": "https://noahpinion.substack.com/p/china-has-a-fateful-choice-to-make",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-21T10:00:00.000Z",
             "author": {
                 "name": "Nick Paumgarten",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/03/28/should-leopards-be-paid-for-their-spots",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/03/28/should-leopards-be-paid-for-their-spots",
-            "title": "豹子應該為它們的位置支付報酬嗎？",
-            "summary": "Should Leopards Be Paid for Their Spots?",
-            "date_modified": "2022-03-21T10:00:00.000Z",
-            "author": {
-                "name": "Rebecca Mead",
                 "url": "https://www.newyorker.com/feed/news"
             }
         }
