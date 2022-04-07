@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 07 Apr 2022 23:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 23:33:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[同行评审要求。晦涩难懂的怀孕干预措施]]></title>
+            <link>https://astralcodexten.substack.com/p/peer-review-request-obscure-pregnancy</link>
+            <guid>https://astralcodexten.substack.com/p/peer-review-request-obscure-pregnancy</guid>
+            <pubDate>Thu, 07 Apr 2022 23:28:49 GMT</pubDate>
+            <description><![CDATA[Peer Review Request: Obscure Pregnancy Interventions]]></description>
+        </item>
+        <item>
+            <title><![CDATA[拆毁房屋]]></title>
+            <link>https://www.newyorker.com/news/afterword/tearing-down-the-house</link>
+            <guid>https://www.newyorker.com/news/afterword/tearing-down-the-house</guid>
+            <pubDate>Thu, 07 Apr 2022 23:16:40 GMT</pubDate>
+            <description><![CDATA[Tearing Down the House]]></description>
+        </item>
         <item>
             <title><![CDATA[安妮-阿普尔鲍姆：社交媒体使散布虚假信息变得容易了]]></title>
             <link>https://www.theatlantic.com/ideas/archive/2022/04/russian-disinformation-social-media-propaganda/629497/?utm_source=feed</link>
@@ -4199,20 +4213,6 @@
             <guid>https://austinkleon.substack.com/p/what-are-you-reading</guid>
             <pubDate>Tue, 22 Mar 2022 11:00:34 GMT</pubDate>
             <description><![CDATA[What are you reading?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[爱与魔法；或，马戏团之旅]]></title>
-            <link>https://www.newyorker.com/culture/personal-history/love-and-magic-or-a-trip-to-the-circus</link>
-            <guid>https://www.newyorker.com/culture/personal-history/love-and-magic-or-a-trip-to-the-circus</guid>
-            <pubDate>Tue, 22 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Love and Magic; or, A Trip to the Circus]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们即将治愈镰状细胞病吗？]]></title>
-            <link>https://www.newyorker.com/science/annals-of-medicine/are-we-about-to-cure-sickle-cell-disease</link>
-            <guid>https://www.newyorker.com/science/annals-of-medicine/are-we-about-to-cure-sickle-cell-disease</guid>
-            <pubDate>Tue, 22 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Are We About to Cure Sickle-Cell Disease?]]></description>
         </item>
     </channel>
 </rss>

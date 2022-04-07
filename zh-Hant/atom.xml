@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-07T23:13:47.874Z</updated>
+    <updated>2022-04-07T23:33:51.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[同行評審要求。晦澀難懂的懷孕干預措施]]></title>
+        <id>https://astralcodexten.substack.com/p/peer-review-request-obscure-pregnancy</id>
+        <link href="https://astralcodexten.substack.com/p/peer-review-request-obscure-pregnancy"/>
+        <updated>2022-04-07T23:28:49.000Z</updated>
+        <summary type="html"><![CDATA[Peer Review Request: Obscure Pregnancy Interventions]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拆毀房屋]]></title>
+        <id>https://www.newyorker.com/news/afterword/tearing-down-the-house</id>
+        <link href="https://www.newyorker.com/news/afterword/tearing-down-the-house"/>
+        <updated>2022-04-07T23:16:40.000Z</updated>
+        <summary type="html"><![CDATA[Tearing Down the House]]></summary>
+        <author>
+            <name>Susan Orlean</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安妮-阿普爾鮑姆：社交媒體使散佈虛假信息變得容易了]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/04/russian-disinformation-social-media-propaganda/629497/?utm_source=feed</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Austin Kleon</name>
             <uri>https://austinkleon.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[愛與魔法；或，馬戲團之旅]]></title>
-        <id>https://www.newyorker.com/culture/personal-history/love-and-magic-or-a-trip-to-the-circus</id>
-        <link href="https://www.newyorker.com/culture/personal-history/love-and-magic-or-a-trip-to-the-circus"/>
-        <updated>2022-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Love and Magic; or, A Trip to the Circus]]></summary>
-        <author>
-            <name>Isaac Bashevis Singer</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們即將治癒鐮狀細胞病嗎？]]></title>
-        <id>https://www.newyorker.com/science/annals-of-medicine/are-we-about-to-cure-sickle-cell-disease</id>
-        <link href="https://www.newyorker.com/science/annals-of-medicine/are-we-about-to-cure-sickle-cell-disease"/>
-        <updated>2022-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Are We About to Cure Sickle-Cell Disease?]]></summary>
-        <author>
-            <name>Dhruv Khullar</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
 </feed>
