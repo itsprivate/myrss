@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/politics/archive/2022/04/how-europe-and-us-seize-oligarchs-yachts/629491/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/politics/archive/2022/04/how-europe-and-us-seize-oligarchs-yachts/629491/?utm_source=feed",
+            "title": "扣押遊艇需要什麼條件",
+            "summary": "What It Takes to Seize a Yacht",
+            "date_modified": "2022-04-07T11:01:56.000Z",
+            "author": {
+                "name": "Olga Khazan",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/culture/archive/2022/04/daniels-directing-everything-everywhere-all-at-once/629503/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/culture/archive/2022/04/daniels-directing-everything-everywhere-all-at-once/629503/?utm_source=feed",
+            "title": "好萊塢最古怪的電影製作人如何一下子製造了<em>所有的東西</em>。",
+            "summary": "How Hollywood’s Weirdest Filmmakers Made <em>Everything Everywhere All at Once</em>",
+            "date_modified": "2022-04-07T11:01:56.000Z",
+            "author": {
+                "name": "Shirley Li",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/dispatch/how-to-unionize-at-amazon",
             "content_html": "",
             "url": "https://www.newyorker.com/news/dispatch/how-to-unionize-at-amazon",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "Gerald Marzorati",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/podcast/politics-and-more/radio-ukraine",
-            "content_html": "",
-            "url": "https://www.newyorker.com/podcast/politics-and-more/radio-ukraine",
-            "title": "烏克蘭廣播電臺",
-            "summary": "Radio Ukraine",
-            "date_modified": "2022-03-21T21:09:51.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/21/world/africa/amazon-south-africa.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/21/world/africa/amazon-south-africa.html",
-            "title": "亞馬遜在南非的總部計劃在法院下達命令後面臨危險",
-            "summary": "Plan for Amazon Headquarters in South Africa in Peril After Court Order",
-            "date_modified": "2022-03-21T17:05:58.000Z",
-            "author": {
-                "name": "John Eligon",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
     ]

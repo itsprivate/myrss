@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-07T10:56:44.630Z</updated>
+    <updated>2022-04-07T11:30:37.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[扣押遊艇需要什麼條件]]></title>
+        <id>https://www.theatlantic.com/politics/archive/2022/04/how-europe-and-us-seize-oligarchs-yachts/629491/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/politics/archive/2022/04/how-europe-and-us-seize-oligarchs-yachts/629491/?utm_source=feed"/>
+        <updated>2022-04-07T11:01:56.000Z</updated>
+        <summary type="html"><![CDATA[What It Takes to Seize a Yacht]]></summary>
+        <author>
+            <name>Olga Khazan</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[好萊塢最古怪的電影製作人如何一下子製造了<em>所有的東西</em>。]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/04/daniels-directing-everything-everywhere-all-at-once/629503/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/04/daniels-directing-everything-everywhere-all-at-once/629503/?utm_source=feed"/>
+        <updated>2022-04-07T11:01:56.000Z</updated>
+        <summary type="html"><![CDATA[How Hollywood’s Weirdest Filmmakers Made <em>Everything Everywhere All at Once</em>]]></summary>
+        <author>
+            <name>Shirley Li</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何在亞馬遜成立工會]]></title>
         <id>https://www.newyorker.com/news/dispatch/how-to-unionize-at-amazon</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Gerald Marzorati</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭廣播電臺]]></title>
-        <id>https://www.newyorker.com/podcast/politics-and-more/radio-ukraine</id>
-        <link href="https://www.newyorker.com/podcast/politics-and-more/radio-ukraine"/>
-        <updated>2022-03-21T21:09:51.000Z</updated>
-        <summary type="html"><![CDATA[Radio Ukraine]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亞馬遜在南非的總部計劃在法院下達命令後面臨危險]]></title>
-        <id>https://www.nytimes.com/2022/03/21/world/africa/amazon-south-africa.html</id>
-        <link href="https://www.nytimes.com/2022/03/21/world/africa/amazon-south-africa.html"/>
-        <updated>2022-03-21T17:05:58.000Z</updated>
-        <summary type="html"><![CDATA[Plan for Amazon Headquarters in South Africa in Peril After Court Order]]></summary>
-        <author>
-            <name>John Eligon</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>

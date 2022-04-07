@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 07 Apr 2022 10:56:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 11:30:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[扣押游艇需要什么条件]]></title>
+            <link>https://www.theatlantic.com/politics/archive/2022/04/how-europe-and-us-seize-oligarchs-yachts/629491/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/politics/archive/2022/04/how-europe-and-us-seize-oligarchs-yachts/629491/?utm_source=feed</guid>
+            <pubDate>Thu, 07 Apr 2022 11:01:56 GMT</pubDate>
+            <description><![CDATA[What It Takes to Seize a Yacht]]></description>
+        </item>
+        <item>
+            <title><![CDATA[好莱坞最古怪的电影制作人如何一下子制造了<em>所有的东西</em>。]]></title>
+            <link>https://www.theatlantic.com/culture/archive/2022/04/daniels-directing-everything-everywhere-all-at-once/629503/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/culture/archive/2022/04/daniels-directing-everything-everywhere-all-at-once/629503/?utm_source=feed</guid>
+            <pubDate>Thu, 07 Apr 2022 11:01:56 GMT</pubDate>
+            <description><![CDATA[How Hollywood’s Weirdest Filmmakers Made <em>Everything Everywhere All at Once</em>]]></description>
+        </item>
         <item>
             <title><![CDATA[如何在亚马逊成立工会]]></title>
             <link>https://www.newyorker.com/news/dispatch/how-to-unionize-at-amazon</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/sports/sporting-scene/should-the-tennis-tour-ban-russians-from-competing</guid>
             <pubDate>Mon, 21 Mar 2022 22:37:32 GMT</pubDate>
             <description><![CDATA[Should the Tennis Tour Ban Russians from Competing?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰广播电台]]></title>
-            <link>https://www.newyorker.com/podcast/politics-and-more/radio-ukraine</link>
-            <guid>https://www.newyorker.com/podcast/politics-and-more/radio-ukraine</guid>
-            <pubDate>Mon, 21 Mar 2022 21:09:51 GMT</pubDate>
-            <description><![CDATA[Radio Ukraine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[亚马逊在南非的总部计划在法院下达命令后面临危险]]></title>
-            <link>https://www.nytimes.com/2022/03/21/world/africa/amazon-south-africa.html</link>
-            <guid>https://www.nytimes.com/2022/03/21/world/africa/amazon-south-africa.html</guid>
-            <pubDate>Mon, 21 Mar 2022 17:05:58 GMT</pubDate>
-            <description><![CDATA[Plan for Amazon Headquarters in South Africa in Peril After Court Order]]></description>
         </item>
     </channel>
 </rss>
