@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-07T09:13:43.272Z</updated>
+    <updated>2022-04-07T09:33:44.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对香港的最后一击]]></title>
+        <id>https://www.theatlantic.com/international/archive/2022/04/hong-kong-uk-judges-resignation-democracy-risk/629494/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/international/archive/2022/04/hong-kong-uk-judges-resignation-democracy-risk/629494/?utm_source=feed"/>
+        <updated>2022-04-07T09:00:56.000Z</updated>
+        <summary type="html"><![CDATA[The Final Blow to Hong Kong]]></summary>
+        <author>
+            <name>Timothy McLaughlin</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[面部识别如何在乌克兰战争中被使用]]></title>
         <id>https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.html</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Kaitlin Chan, Brian Park</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一本关于美国历史的书如何预示中国的未来]]></title>
-        <id>https://www.newyorker.com/books/second-read/how-a-book-about-americas-history-foretold-chinas-future</id>
-        <link href="https://www.newyorker.com/books/second-read/how-a-book-about-americas-history-foretold-chinas-future"/>
-        <updated>2022-03-21T17:38:30.000Z</updated>
-        <summary type="html"><![CDATA[How a Book About America’s History Foretold China’s Future]]></summary>
-        <author>
-            <name>Chang Che</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
 </feed>

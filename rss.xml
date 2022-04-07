@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 07 Apr 2022 09:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 09:33:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[对香港的最后一击]]></title>
+            <link>https://www.theatlantic.com/international/archive/2022/04/hong-kong-uk-judges-resignation-democracy-risk/629494/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/international/archive/2022/04/hong-kong-uk-judges-resignation-democracy-risk/629494/?utm_source=feed</guid>
+            <pubDate>Thu, 07 Apr 2022 09:00:56 GMT</pubDate>
+            <description><![CDATA[The Final Blow to Hong Kong]]></description>
+        </item>
         <item>
             <title><![CDATA[面部识别如何在乌克兰战争中被使用]]></title>
             <link>https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/humor/daily-shouts/if-y2k-inspired-looks-accurately-reflected-my-two-thousands</guid>
             <pubDate>Mon, 21 Mar 2022 18:19:46 GMT</pubDate>
             <description><![CDATA[If Y2K-Inspired Looks Accurately Reflected My Two-Thousands]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一本关于美国历史的书如何预示中国的未来]]></title>
-            <link>https://www.newyorker.com/books/second-read/how-a-book-about-americas-history-foretold-chinas-future</link>
-            <guid>https://www.newyorker.com/books/second-read/how-a-book-about-americas-history-foretold-chinas-future</guid>
-            <pubDate>Mon, 21 Mar 2022 17:38:30 GMT</pubDate>
-            <description><![CDATA[How a Book About America’s History Foretold China’s Future]]></description>
         </item>
     </channel>
 </rss>
