@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://noahpinion.substack.com/p/time-for-a-diplomatic-revolution",
+            "content_html": "",
+            "url": "https://noahpinion.substack.com/p/time-for-a-diplomatic-revolution",
+            "title": "是時候進行外交革命了",
+            "summary": "Time for a Diplomatic Revolution",
+            "date_modified": "2022-03-11T11:15:09.000Z",
+            "author": {
+                "name": "Noah Smith",
+                "url": "https://noahpinion.substack.com/feed"
+            }
+        },
+        {
             "id": "https://noahpinion.substack.com/p/dont-worry-about-de-dollarization",
             "content_html": "",
             "url": "https://noahpinion.substack.com/p/dont-worry-about-de-dollarization",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Timothy McLaughlin",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/humor/borowitz-report/republicans-accuse-supreme-court-nominee-of-being-chosen-by-biden",
-            "content_html": "",
-            "url": "https://www.newyorker.com/humor/borowitz-report/republicans-accuse-supreme-court-nominee-of-being-chosen-by-biden",
-            "title": "共和黨人指責最高法院被提名人是拜登選定的",
-            "summary": "Republicans Accuse Supreme Court Nominee of Being Chosen by Biden",
-            "date_modified": "2022-03-21T14:55:55.000Z",
-            "author": {
-                "name": "Andy Borowitz",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]
