@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-07T19:12:19.301Z</updated>
+    <updated>2022-04-07T20:35:07.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["是蛋糕吗？"和 "够老！"，评论。Netflix真人秀的两条道路]]></title>
+        <id>https://www.newyorker.com/culture/infinite-scroll/is-it-cake-and-old-enough-reviewed-two-paths-for-the-netflix-reality-show</id>
+        <link href="https://www.newyorker.com/culture/infinite-scroll/is-it-cake-and-old-enough-reviewed-two-paths-for-the-netflix-reality-show"/>
+        <updated>2022-04-07T20:12:41.000Z</updated>
+        <summary type="html"><![CDATA[“Is It Cake?” and “Old Enough!,” Reviewed: Two Paths for the Netflix Reality Show]]></summary>
+        <author>
+            <name>Kyle Chayka</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[国际法的 "阴影"]]></title>
         <id>https://www.newyorker.com/news/q-and-a/the-shadow-of-international-law</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Isaac Bashevis Singer</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个值得为之奋斗的国家]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/ukraine-anti-semitism-russia/627150/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/ukraine-anti-semitism-russia/627150/?utm_source=feed"/>
-        <updated>2022-03-22T10:00:57.000Z</updated>
-        <summary type="html"><![CDATA[A Nation Worth Fighting For]]></summary>
-        <author>
-            <name>David Frum</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
