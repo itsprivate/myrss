@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/07/business/economy/amazon-union-labor.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/07/business/economy/amazon-union-labor.html",
+            "title": "亚马逊工会的成功可能指向一个新的劳工手册",
+            "summary": "Amazon Union Success May Point to a New Labor Playbook",
+            "date_modified": "2022-04-07T07:00:07.000Z",
+            "author": {
+                "name": "Noam Scheiber",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://noahpinion.substack.com/p/the-ukraine-war-and-the-price-of",
             "content_html": "",
             "url": "https://noahpinion.substack.com/p/the-ukraine-war-and-the-price-of",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Robin George Andrews",
                 "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/cartoons/daily-cartoon/monday-march-21st-risk-board-game",
-            "content_html": "",
-            "url": "https://www.newyorker.com/cartoons/daily-cartoon/monday-march-21st-risk-board-game",
-            "title": "每日漫画。3月21日，星期一",
-            "summary": "Daily Cartoon: Monday, March 21st",
-            "date_modified": "2022-03-21T15:29:23.000Z",
-            "author": {
-                "name": "Shannon Wheeler",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]
