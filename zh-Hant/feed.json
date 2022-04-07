@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/persons-of-interest/faith-science-and-francis-collins",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/persons-of-interest/faith-science-and-francis-collins",
+            "title": "信仰、科學和弗朗西斯-柯林斯",
+            "summary": "Faith, Science, and Francis Collins",
+            "date_modified": "2022-04-07T21:31:24.000Z",
+            "author": {
+                "name": "Dhruv Khullar",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/ideas/archive/2022/04/barack-obama-interview-disinformation-ukraine/629496/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/ideas/archive/2022/04/barack-obama-interview-disinformation-ukraine/629496/?utm_source=feed",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-22T10:00:00.000Z",
             "author": {
                 "name": "Matt Jackson",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/humor/daily-shouts/find-a-hair-removal-technique-thats-right-for-you",
-            "content_html": "",
-            "url": "https://www.newyorker.com/humor/daily-shouts/find-a-hair-removal-technique-thats-right-for-you",
-            "title": "找到適合你的脫毛技術",
-            "summary": "Find a Hair-Removal Technique That’s Right for You",
-            "date_modified": "2022-03-22T10:00:00.000Z",
-            "author": {
-                "name": "Kathryn Kvas",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

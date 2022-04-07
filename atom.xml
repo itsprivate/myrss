@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-07T21:31:31.576Z</updated>
+    <updated>2022-04-07T21:39:31.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[信仰、科学和弗朗西斯-柯林斯]]></title>
+        <id>https://www.newyorker.com/news/persons-of-interest/faith-science-and-francis-collins</id>
+        <link href="https://www.newyorker.com/news/persons-of-interest/faith-science-and-francis-collins"/>
+        <updated>2022-04-07T21:31:24.000Z</updated>
+        <summary type="html"><![CDATA[Faith, Science, and Francis Collins]]></summary>
+        <author>
+            <name>Dhruv Khullar</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[奥巴马。我低估了虚假信息的威胁]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/04/barack-obama-interview-disinformation-ukraine/629496/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Name Drop: Tuesday, March 22, 2022]]></summary>
         <author>
             <name>Matt Jackson</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[找到适合你的脱毛技术]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/find-a-hair-removal-technique-thats-right-for-you</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/find-a-hair-removal-technique-thats-right-for-you"/>
-        <updated>2022-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Find a Hair-Removal Technique That’s Right for You]]></summary>
-        <author>
-            <name>Kathryn Kvas</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

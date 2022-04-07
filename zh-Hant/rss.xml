@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 07 Apr 2022 21:31:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 21:39:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[信仰、科學和弗朗西斯-柯林斯]]></title>
+            <link>https://www.newyorker.com/news/persons-of-interest/faith-science-and-francis-collins</link>
+            <guid>https://www.newyorker.com/news/persons-of-interest/faith-science-and-francis-collins</guid>
+            <pubDate>Thu, 07 Apr 2022 21:31:24 GMT</pubDate>
+            <description><![CDATA[Faith, Science, and Francis Collins]]></description>
+        </item>
         <item>
             <title><![CDATA[奧巴馬。我低估了虛假信息的威脅]]></title>
             <link>https://www.theatlantic.com/ideas/archive/2022/04/barack-obama-interview-disinformation-ukraine/629496/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/22</guid>
             <pubDate>Tue, 22 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Name Drop: Tuesday, March 22, 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[找到適合你的脫毛技術]]></title>
-            <link>https://www.newyorker.com/humor/daily-shouts/find-a-hair-removal-technique-thats-right-for-you</link>
-            <guid>https://www.newyorker.com/humor/daily-shouts/find-a-hair-removal-technique-thats-right-for-you</guid>
-            <pubDate>Tue, 22 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Find a Hair-Removal Technique That’s Right for You]]></description>
         </item>
     </channel>
 </rss>
