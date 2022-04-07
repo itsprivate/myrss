@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/04/maria-ressa-disinformation-manipulation/629483/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/04/maria-ressa-disinformation-manipulation/629483/?utm_source=feed",
+            "title": "我們都在以同樣的方式被操縱",
+            "summary": "We’re All Being Manipulated the Same Way",
+            "date_modified": "2022-04-07T01:07:01.000Z",
+            "author": {
+                "name": "Maria Ressa",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/06/us/politics/us-russia-malware-cyberattacks.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/06/us/politics/us-russia-malware-cyberattacks.html",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-20T10:00:00.000Z",
             "author": {
                 "name": "Masha Gessen",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/03/28/the-complexities-of-the-ukraine-dilemma",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/03/28/the-complexities-of-the-ukraine-dilemma",
-            "title": "烏克蘭困境的複雜性",
-            "summary": "The Complexities of the Ukraine Dilemma",
-            "date_modified": "2022-03-19T10:00:00.000Z",
-            "author": {
-                "name": "Steve Coll",
                 "url": "https://www.newyorker.com/feed/news"
             }
         }

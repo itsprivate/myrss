@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-06T23:12:59.542Z</updated>
+    <updated>2022-04-07T02:21:20.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们都在以同样的方式被操纵]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/maria-ressa-disinformation-manipulation/629483/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/maria-ressa-disinformation-manipulation/629483/?utm_source=feed"/>
+        <updated>2022-04-07T01:07:01.000Z</updated>
+        <summary type="html"><![CDATA[We’re All Being Manipulated the Same Way]]></summary>
+        <author>
+            <name>Maria Ressa</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国称在全球范围内秘密删除恶意软件，预先防范俄罗斯网络攻击]]></title>
         <id>https://www.nytimes.com/2022/04/06/us/politics/us-russia-malware-cyberattacks.html</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[The Russians Fleeing Putin’s Wartime Crackdown]]></summary>
         <author>
             <name>Masha Gessen</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰困境的复杂性]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/28/the-complexities-of-the-ukraine-dilemma</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/28/the-complexities-of-the-ukraine-dilemma"/>
-        <updated>2022-03-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Complexities of the Ukraine Dilemma]]></summary>
-        <author>
-            <name>Steve Coll</name>
             <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
