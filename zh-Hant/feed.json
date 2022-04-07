@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://astralcodexten.substack.com/p/hidden-open-thread-2185",
+            "content_html": "",
+            "url": "https://astralcodexten.substack.com/p/hidden-open-thread-2185",
+            "title": "隱秘的公開主題218.5",
+            "summary": "Hidden Open Thread 218.5",
+            "date_modified": "2022-04-07T03:05:51.000Z",
+            "author": {
+                "name": "Scott Alexander",
+                "url": "https://astralcodexten.substack.com/feed"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/ideas/archive/2022/04/maria-ressa-disinformation-manipulation/629483/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/ideas/archive/2022/04/maria-ressa-disinformation-manipulation/629483/?utm_source=feed",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-21T10:00:00.000Z",
             "author": {
                 "name": "Kimon de Greef",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/03/28/the-russians-fleeing-putins-wartime-crackdown",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/03/28/the-russians-fleeing-putins-wartime-crackdown",
-            "title": "逃離普京的戰時鎮壓的俄羅斯人",
-            "summary": "The Russians Fleeing Putin’s Wartime Crackdown",
-            "date_modified": "2022-03-20T10:00:00.000Z",
-            "author": {
-                "name": "Masha Gessen",
                 "url": "https://www.newyorker.com/feed/news"
             }
         }

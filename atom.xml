@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-07T02:21:20.138Z</updated>
+    <updated>2022-04-07T03:46:03.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[隐秘的公开主题218.5]]></title>
+        <id>https://astralcodexten.substack.com/p/hidden-open-thread-2185</id>
+        <link href="https://astralcodexten.substack.com/p/hidden-open-thread-2185"/>
+        <updated>2022-04-07T03:05:51.000Z</updated>
+        <summary type="html"><![CDATA[Hidden Open Thread 218.5]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们都在以同样的方式被操纵]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/04/maria-ressa-disinformation-manipulation/629483/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[The Pied Piper of Psychedelic Toads]]></summary>
         <author>
             <name>Kimon de Greef</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[逃离普京的战时镇压的俄罗斯人]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/28/the-russians-fleeing-putins-wartime-crackdown</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/28/the-russians-fleeing-putins-wartime-crackdown"/>
-        <updated>2022-03-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Russians Fleeing Putin’s Wartime Crackdown]]></summary>
-        <author>
-            <name>Masha Gessen</name>
             <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
