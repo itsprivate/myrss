@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 07 Apr 2022 08:54:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 09:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[面部識別如何在烏克蘭戰爭中被使用]]></title>
+            <link>https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.html</link>
+            <guid>https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.html</guid>
+            <pubDate>Thu, 07 Apr 2022 09:00:09 GMT</pubDate>
+            <description><![CDATA[How Facial Recognition Is Being Used in the Ukraine War]]></description>
+        </item>
         <item>
             <title><![CDATA[美國應該增加還是減少國防開支？]]></title>
             <link>https://noahpinion.substack.com/p/should-the-us-increase-or-decrease</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/books/second-read/how-a-book-about-americas-history-foretold-chinas-future</guid>
             <pubDate>Mon, 21 Mar 2022 17:38:30 GMT</pubDate>
             <description><![CDATA[How a Book About America’s History Foretold China’s Future]]></description>
-        </item>
-        <item>
-            <title><![CDATA[凱迪拉克Lyriq開始生產，擴大了G.M.的電動車陣容]]></title>
-            <link>https://www.nytimes.com/2022/03/21/business/gm-cadillac-electric-lyriq.html</link>
-            <guid>https://www.nytimes.com/2022/03/21/business/gm-cadillac-electric-lyriq.html</guid>
-            <pubDate>Mon, 21 Mar 2022 17:27:13 GMT</pubDate>
-            <description><![CDATA[Cadillac Lyriq Starts Production, Expanding G.M.’s Electric Lineup]]></description>
         </item>
     </channel>
 </rss>

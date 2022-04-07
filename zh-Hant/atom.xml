@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-07T08:54:50.171Z</updated>
+    <updated>2022-04-07T09:13:43.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[面部識別如何在烏克蘭戰爭中被使用]]></title>
+        <id>https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.html</id>
+        <link href="https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.html"/>
+        <updated>2022-04-07T09:00:09.000Z</updated>
+        <summary type="html"><![CDATA[How Facial Recognition Is Being Used in the Ukraine War]]></summary>
+        <author>
+            <name>Kashmir Hill</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國應該增加還是減少國防開支？]]></title>
         <id>https://noahpinion.substack.com/p/should-the-us-increase-or-decrease</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Chang Che</name>
             <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[凱迪拉克Lyriq開始生產，擴大了G.M.的電動車陣容]]></title>
-        <id>https://www.nytimes.com/2022/03/21/business/gm-cadillac-electric-lyriq.html</id>
-        <link href="https://www.nytimes.com/2022/03/21/business/gm-cadillac-electric-lyriq.html"/>
-        <updated>2022-03-21T17:27:13.000Z</updated>
-        <summary type="html"><![CDATA[Cadillac Lyriq Starts Production, Expanding G.M.’s Electric Lineup]]></summary>
-        <author>
-            <name>Neal E. Boudette</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>

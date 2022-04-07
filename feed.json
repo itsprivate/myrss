@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.html",
+            "title": "面部识别如何在乌克兰战争中被使用",
+            "summary": "How Facial Recognition Is Being Used in the Ukraine War",
+            "date_modified": "2022-04-07T09:00:09.000Z",
+            "author": {
+                "name": "Kashmir Hill",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://noahpinion.substack.com/p/should-the-us-increase-or-decrease",
             "content_html": "",
             "url": "https://noahpinion.substack.com/p/should-the-us-increase-or-decrease",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Chang Che",
                 "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/21/business/gm-cadillac-electric-lyriq.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/21/business/gm-cadillac-electric-lyriq.html",
-            "title": "凯迪拉克Lyriq开始生产，扩大了G.M.的电动车阵容",
-            "summary": "Cadillac Lyriq Starts Production, Expanding G.M.’s Electric Lineup",
-            "date_modified": "2022-03-21T17:27:13.000Z",
-            "author": {
-                "name": "Neal E. Boudette",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
     ]
