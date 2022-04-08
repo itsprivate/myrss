@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-08T16:20:58.256Z</updated>
+    <updated>2022-04-08T16:52:33.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美國各州的能力實際上是相當高的]]></title>
+        <id>https://noahpinion.substack.com/p/us-state-capacity-is-actually-pretty</id>
+        <link href="https://noahpinion.substack.com/p/us-state-capacity-is-actually-pretty"/>
+        <updated>2022-03-17T09:00:08.000Z</updated>
+        <summary type="html"><![CDATA[U.S. state capacity is actually pretty high]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五旬節基督教是如何佔領世界的]]></title>
+        <id>https://www.currentaffairs.org/2022/04/how-pentecostal-christianity-is-taking-over-the-world/</id>
+        <link href="https://www.currentaffairs.org/2022/04/how-pentecostal-christianity-is-taking-over-the-world/"/>
+        <updated>2022-04-08T12:43:32.000Z</updated>
+        <summary type="html"><![CDATA[How Pentecostal Christianity is Taking Over the World]]></summary>
+        <author>
+            <name>Current Affairs</name>
+            <uri>https://www.currentaffairs.org/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[被誤解的尼科之聲]]></title>
         <id>https://www.newyorker.com/books/under-review/the-misunderstood-voice-of-nico</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Sue Halpern</name>
             <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯網絡攻擊的威脅迫在眉睫]]></title>
-        <id>https://www.newyorker.com/news/daily-comment/the-threat-of-russian-cyberattacks-looms-large</id>
-        <link href="https://www.newyorker.com/news/daily-comment/the-threat-of-russian-cyberattacks-looms-large"/>
-        <updated>2022-03-22T23:15:56.000Z</updated>
-        <summary type="html"><![CDATA[The Threat of Russian Cyberattacks Looms Large]]></summary>
-        <author>
-            <name>Sue Halpern</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哈爾科夫的毀壞]]></title>
-        <id>https://www.newyorker.com/culture/photo-booth/the-devastation-of-kharkiv</id>
-        <link href="https://www.newyorker.com/culture/photo-booth/the-devastation-of-kharkiv"/>
-        <updated>2022-03-22T22:50:56.000Z</updated>
-        <summary type="html"><![CDATA[The Devastation of Kharkiv]]></summary>
-        <author>
-            <name>Masha Gessen</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
