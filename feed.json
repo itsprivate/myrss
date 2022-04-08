@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/podcasts/archive/2022/04/is-pop-music-obsessed-with-nostalgia/629502/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/podcasts/archive/2022/04/is-pop-music-obsessed-with-nostalgia/629502/?utm_source=feed",
+            "title": "流行音乐对怀旧的迷恋",
+            "summary": "Pop Music’s Nostalgia Obsession",
+            "date_modified": "2022-04-08T21:32:34.000Z",
+            "author": {
+                "name": "Hannah Giorgis",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/humor/borowitz-report/jackson-refuses-kavanaughs-invitation-to-beer-pong-initiation-ritual",
             "content_html": "",
             "url": "https://www.newyorker.com/humor/borowitz-report/jackson-refuses-kavanaughs-invitation-to-beer-pong-initiation-ritual",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-23T10:00:00.000Z",
             "author": {
                 "name": "Rachel Syme",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/culture-desk/what-drive-my-car-reveals-on-a-second-viewing",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/culture-desk/what-drive-my-car-reveals-on-a-second-viewing",
-            "title": "驾驶我的车 \"在第二次观看时揭示了什么",
-            "summary": "What “Drive My Car” Reveals on a Second Viewing",
-            "date_modified": "2022-03-23T10:00:00.000Z",
-            "author": {
-                "name": "Kevin Dettmar",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }
