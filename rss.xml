@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 08 Apr 2022 12:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 13:57:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[图书简报》。关于儿童阅读的斗争]]></title>
+            <link>https://www.theatlantic.com/books/archive/2022/04/banned-books-critical-race-theory-1619-project/620394/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/books/archive/2022/04/banned-books-critical-race-theory-1619-project/620394/?utm_source=feed</guid>
+            <pubDate>Fri, 08 Apr 2022 13:37:31 GMT</pubDate>
+            <description><![CDATA[The Books Briefing: The Fight Over What Kids Can Read]]></description>
+        </item>
         <item>
             <title><![CDATA[一! 一百! 千人!]]></title>
             <link>https://austinkleon.substack.com/p/one-hundred-thousand</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.nytimes.com/2022/03/22/technology/metaverse-faces-steve-perlman.html</guid>
             <pubDate>Tue, 22 Mar 2022 16:19:24 GMT</pubDate>
             <description><![CDATA[Metaverse Lessons From Hollywood]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Contra Hoel关于贵族辅导的问题]]></title>
-            <link>https://astralcodexten.substack.com/p/contra-hoel-on-aristocratic-tutoring</link>
-            <guid>https://astralcodexten.substack.com/p/contra-hoel-on-aristocratic-tutoring</guid>
-            <pubDate>Tue, 22 Mar 2022 18:53:57 GMT</pubDate>
-            <description><![CDATA[Contra Hoel On Aristocratic Tutoring]]></description>
         </item>
     </channel>
 </rss>

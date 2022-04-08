@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-08T12:19:52.544Z</updated>
+    <updated>2022-04-08T13:57:44.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[圖書簡報》。關於兒童閱讀的鬥爭]]></title>
+        <id>https://www.theatlantic.com/books/archive/2022/04/banned-books-critical-race-theory-1619-project/620394/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/books/archive/2022/04/banned-books-critical-race-theory-1619-project/620394/?utm_source=feed"/>
+        <updated>2022-04-08T13:37:31.000Z</updated>
+        <summary type="html"><![CDATA[The Books Briefing: The Fight Over What Kids Can Read]]></summary>
+        <author>
+            <name>Kate Cray</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一! 一百! 千人!]]></title>
         <id>https://austinkleon.substack.com/p/one-hundred-thousand</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Shira Ovide</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Contra Hoel關於貴族輔導的問題]]></title>
-        <id>https://astralcodexten.substack.com/p/contra-hoel-on-aristocratic-tutoring</id>
-        <link href="https://astralcodexten.substack.com/p/contra-hoel-on-aristocratic-tutoring"/>
-        <updated>2022-03-22T18:53:57.000Z</updated>
-        <summary type="html"><![CDATA[Contra Hoel On Aristocratic Tutoring]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
         </author>
     </entry>
 </feed>

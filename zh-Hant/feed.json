@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/books/archive/2022/04/banned-books-critical-race-theory-1619-project/620394/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/books/archive/2022/04/banned-books-critical-race-theory-1619-project/620394/?utm_source=feed",
+            "title": "圖書簡報》。關於兒童閱讀的鬥爭",
+            "summary": "The Books Briefing: The Fight Over What Kids Can Read",
+            "date_modified": "2022-04-08T13:37:31.000Z",
+            "author": {
+                "name": "Kate Cray",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://austinkleon.substack.com/p/one-hundred-thousand",
             "content_html": "",
             "url": "https://austinkleon.substack.com/p/one-hundred-thousand",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Shira Ovide",
                 "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://astralcodexten.substack.com/p/contra-hoel-on-aristocratic-tutoring",
-            "content_html": "",
-            "url": "https://astralcodexten.substack.com/p/contra-hoel-on-aristocratic-tutoring",
-            "title": "Contra Hoel關於貴族輔導的問題",
-            "summary": "Contra Hoel On Aristocratic Tutoring",
-            "date_modified": "2022-03-22T18:53:57.000Z",
-            "author": {
-                "name": "Scott Alexander",
-                "url": "https://astralcodexten.substack.com/feed"
             }
         }
     ]
