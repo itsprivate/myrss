@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-08T14:14:24.058Z</updated>
+    <updated>2022-04-08T14:57:56.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每日漫画。4月8日，星期五]]></title>
+        <id>https://www.newyorker.com/cartoons/daily-cartoon/friday-april-8th-warm-spring</id>
+        <link href="https://www.newyorker.com/cartoons/daily-cartoon/friday-april-8th-warm-spring"/>
+        <updated>2022-04-08T14:35:48.000Z</updated>
+        <summary type="html"><![CDATA[Daily Cartoon: Friday, April 8th]]></summary>
+        <author>
+            <name>Emily Bernstein</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<em>The Atlantic</em> Daily: 特朗普的七小时记录差距]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/04/trumps-7-hour-records-gap/629517/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/04/trumps-7-hour-records-gap/629517/?utm_source=feed"/>
+        <updated>2022-04-08T14:34:42.000Z</updated>
+        <summary type="html"><![CDATA[<em>The Atlantic</em> Daily: Trump’s Seven-Hour Records Gap]]></summary>
+        <author>
+            <name>Caroline Mimbs Nyce</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[也是朋友的友谊研究者]]></title>
         <id>https://www.theatlantic.com/family/archive/2022/04/how-friendship-researchers-stay-friends/629508/?utm_source=feed</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>unknown</name>
             <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<em>The Atlantic</em> Daily: 乌克兰正在取得胜利的证据]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2022/03/ukraine-war-cultural-physical-destruction/627154/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/ukraine-war-cultural-physical-destruction/627154/?utm_source=feed"/>
-        <updated>2022-03-22T20:27:50.000Z</updated>
-        <summary type="html"><![CDATA[<em>The Atlantic</em> Daily: The Evidence That Ukraine Is Winning]]></summary>
-        <author>
-            <name>Isabel Fattal</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个意外的爱情故事的快乐]]></title>
-        <id>https://www.theatlantic.com/books/archive/2022/03/unexpected-romance-novels-greer-chakrabarti/627153/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/books/archive/2022/03/unexpected-romance-novels-greer-chakrabarti/627153/?utm_source=feed"/>
-        <updated>2022-03-22T19:57:06.000Z</updated>
-        <summary type="html"><![CDATA[The Delight of an Unexpected Love Story]]></summary>
-        <author>
-            <name>Carole V. Bell</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
