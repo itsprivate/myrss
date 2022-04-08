@@ -19,6 +19,30 @@
             "date_modified": "2022-04-08T18:29:46.000Z",
             "author": {
                 "name": "John Cassidy",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/dispatch/the-prisoners-in-a-cellar-in-the-ukrainian-village-of-novyi-bykiv",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/dispatch/the-prisoners-in-a-cellar-in-the-ukrainian-village-of-novyi-bykiv",
+            "title": "烏克蘭新比基夫村地窖裡的囚犯們",
+            "summary": "The Prisoners in a Cellar in the Ukrainian Village of Novyi Bykiv",
+            "date_modified": "2022-04-08T18:41:00.000Z",
+            "author": {
+                "name": "Joshua Yaffa",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/our-columnists/is-larry-summers-really-right-about-inflation-and-biden",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/our-columnists/is-larry-summers-really-right-about-inflation-and-biden",
+            "title": "拉里-薩默斯對通貨膨脹和拜登的看法真的正確嗎？",
+            "summary": "Is Larry Summers Really Right About Inflation and Biden?",
+            "date_modified": "2022-04-08T18:29:46.000Z",
+            "author": {
+                "name": "John Cassidy",
                 "url": "https://www.newyorker.com/feed/news"
             }
         },
@@ -7183,30 +7207,6 @@
             "date_modified": "2022-03-23T09:00:19.000Z",
             "author": {
                 "name": "John Markoff",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/23/technology/russia-american-far-right-ukraine.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/23/technology/russia-american-far-right-ukraine.html",
-            "title": "俄羅斯和美國極右翼人士通過烏克蘭戰爭找到共同點",
-            "summary": "Russia and Far-Right Americans Find Common Ground With Ukraine War",
-            "date_modified": "2022-03-23T09:00:23.000Z",
-            "author": {
-                "name": "Sheera Frenkel and Stuart A. Thompson",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/22/climate/climate-change-ok-doomer.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/22/climate/climate-change-ok-doomer.html",
-            "title": "OK Doomer \"和說現在還不算太晚的氣候倡導者們",
-            "summary": "‘OK Doomer’ and the Climate Advocates Who Say It’s Not Too Late",
-            "date_modified": "2022-03-22T20:05:24.000Z",
-            "author": {
-                "name": "Cara Buckley",
                 "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }

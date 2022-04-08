@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 08 Apr 2022 18:41:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 18:58:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[拉里-薩默斯對通貨膨脹和拜登的看法真的正確嗎？]]></title>
+            <link>https://www.newyorker.com/news/our-columnists/is-larry-summers-really-right-about-inflation-and-biden</link>
+            <guid>https://www.newyorker.com/news/our-columnists/is-larry-summers-really-right-about-inflation-and-biden</guid>
+            <pubDate>Fri, 08 Apr 2022 18:29:46 GMT</pubDate>
+            <description><![CDATA[Is Larry Summers Really Right About Inflation and Biden?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[烏克蘭新比基夫村地窖裡的囚犯們]]></title>
+            <link>https://www.newyorker.com/news/dispatch/the-prisoners-in-a-cellar-in-the-ukrainian-village-of-novyi-bykiv</link>
+            <guid>https://www.newyorker.com/news/dispatch/the-prisoners-in-a-cellar-in-the-ukrainian-village-of-novyi-bykiv</guid>
+            <pubDate>Fri, 08 Apr 2022 18:41:00 GMT</pubDate>
+            <description><![CDATA[The Prisoners in a Cellar in the Ukrainian Village of Novyi Bykiv]]></description>
+        </item>
         <item>
             <title><![CDATA[拉里-薩默斯對通貨膨脹和拜登的看法真的正確嗎？]]></title>
             <link>https://www.newyorker.com/news/our-columnists/is-larry-summers-really-right-about-inflation-and-biden</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.nytimes.com/2022/03/23/technology/stewart-brand-tech.html</guid>
             <pubDate>Wed, 23 Mar 2022 09:00:19 GMT</pubDate>
             <description><![CDATA[Stewart Brand, Who Coined the Term ‘Personal Computer,’ Says He’s Still an Optimist]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄羅斯和美國極右翼人士通過烏克蘭戰爭找到共同點]]></title>
-            <link>https://www.nytimes.com/2022/03/23/technology/russia-american-far-right-ukraine.html</link>
-            <guid>https://www.nytimes.com/2022/03/23/technology/russia-american-far-right-ukraine.html</guid>
-            <pubDate>Wed, 23 Mar 2022 09:00:23 GMT</pubDate>
-            <description><![CDATA[Russia and Far-Right Americans Find Common Ground With Ukraine War]]></description>
-        </item>
-        <item>
-            <title><![CDATA[OK Doomer "和說現在還不算太晚的氣候倡導者們]]></title>
-            <link>https://www.nytimes.com/2022/03/22/climate/climate-change-ok-doomer.html</link>
-            <guid>https://www.nytimes.com/2022/03/22/climate/climate-change-ok-doomer.html</guid>
-            <pubDate>Tue, 22 Mar 2022 20:05:24 GMT</pubDate>
-            <description><![CDATA[‘OK Doomer’ and the Climate Advocates Who Say It’s Not Too Late]]></description>
         </item>
     </channel>
 </rss>

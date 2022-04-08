@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-08T18:41:19.375Z</updated>
+    <updated>2022-04-08T18:58:02.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[拉里-薩默斯對通貨膨脹和拜登的看法真的正確嗎？]]></title>
+        <id>https://www.newyorker.com/news/our-columnists/is-larry-summers-really-right-about-inflation-and-biden</id>
+        <link href="https://www.newyorker.com/news/our-columnists/is-larry-summers-really-right-about-inflation-and-biden"/>
+        <updated>2022-04-08T18:29:46.000Z</updated>
+        <summary type="html"><![CDATA[Is Larry Summers Really Right About Inflation and Biden?]]></summary>
+        <author>
+            <name>John Cassidy</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭新比基夫村地窖裡的囚犯們]]></title>
+        <id>https://www.newyorker.com/news/dispatch/the-prisoners-in-a-cellar-in-the-ukrainian-village-of-novyi-bykiv</id>
+        <link href="https://www.newyorker.com/news/dispatch/the-prisoners-in-a-cellar-in-the-ukrainian-village-of-novyi-bykiv"/>
+        <updated>2022-04-08T18:41:00.000Z</updated>
+        <summary type="html"><![CDATA[The Prisoners in a Cellar in the Ukrainian Village of Novyi Bykiv]]></summary>
+        <author>
+            <name>Joshua Yaffa</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拉里-薩默斯對通貨膨脹和拜登的看法真的正確嗎？]]></title>
         <id>https://www.newyorker.com/news/our-columnists/is-larry-summers-really-right-about-inflation-and-biden</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[Stewart Brand, Who Coined the Term ‘Personal Computer,’ Says He’s Still an Optimist]]></summary>
         <author>
             <name>John Markoff</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯和美國極右翼人士通過烏克蘭戰爭找到共同點]]></title>
-        <id>https://www.nytimes.com/2022/03/23/technology/russia-american-far-right-ukraine.html</id>
-        <link href="https://www.nytimes.com/2022/03/23/technology/russia-american-far-right-ukraine.html"/>
-        <updated>2022-03-23T09:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Russia and Far-Right Americans Find Common Ground With Ukraine War]]></summary>
-        <author>
-            <name>Sheera Frenkel and Stuart A. Thompson</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OK Doomer "和說現在還不算太晚的氣候倡導者們]]></title>
-        <id>https://www.nytimes.com/2022/03/22/climate/climate-change-ok-doomer.html</id>
-        <link href="https://www.nytimes.com/2022/03/22/climate/climate-change-ok-doomer.html"/>
-        <updated>2022-03-22T20:05:24.000Z</updated>
-        <summary type="html"><![CDATA[‘OK Doomer’ and the Climate Advocates Who Say It’s Not Too Late]]></summary>
-        <author>
-            <name>Cara Buckley</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
