@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 08 Apr 2022 14:57:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 15:38:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[是时候重新开始掩饰了吗？]]></title>
+            <link>https://www.theatlantic.com/health/archive/2022/04/omicron-ba2-surge-indoor-masking/629512/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/health/archive/2022/04/omicron-ba2-surge-indoor-masking/629512/?utm_source=feed</guid>
+            <pubDate>Fri, 08 Apr 2022 15:27:24 GMT</pubDate>
+            <description><![CDATA[Is It Time to Start Masking Again?]]></description>
+        </item>
         <item>
             <title><![CDATA[每日漫画。4月8日，星期五]]></title>
             <link>https://www.newyorker.com/cartoons/daily-cartoon/friday-april-8th-warm-spring</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.nytimes.com/2022/03/22/technology/theranos-trial-balwani.html</guid>
             <pubDate>Tue, 22 Mar 2022 21:46:05 GMT</pubDate>
             <description><![CDATA[Theranos Trial Starts for Ramesh Balwani, Elizabeth Holmes’s Ex-Partner]]></description>
-        </item>
-        <item>
-            <title><![CDATA[表情符号时代的市场细分]]></title>
-            <link>http://cacm.acm.org/magazines/2022/4/259418-market-segmentation-in-the-emoji-era</link>
-            <guid>http://cacm.acm.org/magazines/2022/4/259418-market-segmentation-in-the-emoji-era</guid>
-            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
-            <description><![CDATA[Market Segmentation in the Emoji Era]]></description>
         </item>
     </channel>
 </rss>

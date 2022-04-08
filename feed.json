@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/health/archive/2022/04/omicron-ba2-surge-indoor-masking/629512/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/health/archive/2022/04/omicron-ba2-surge-indoor-masking/629512/?utm_source=feed",
+            "title": "是时候重新开始掩饰了吗？",
+            "summary": "Is It Time to Start Masking Again?",
+            "date_modified": "2022-04-08T15:27:24.000Z",
+            "author": {
+                "name": "Yasmin Tayag",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/cartoons/daily-cartoon/friday-april-8th-warm-spring",
             "content_html": "",
             "url": "https://www.newyorker.com/cartoons/daily-cartoon/friday-april-8th-warm-spring",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Erin Woo and Erin Griffith",
                 "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "http://cacm.acm.org/magazines/2022/4/259418-market-segmentation-in-the-emoji-era",
-            "content_html": "",
-            "url": "http://cacm.acm.org/magazines/2022/4/259418-market-segmentation-in-the-emoji-era",
-            "title": "表情符号时代的市场细分",
-            "summary": "Market Segmentation in the Emoji Era",
-            "date_modified": "2022-04-01T04:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://cacm.acm.org/magazine.rss"
             }
         }
     ]

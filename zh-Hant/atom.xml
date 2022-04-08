@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-08T14:57:57.111Z</updated>
+    <updated>2022-04-08T15:38:55.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是時候重新開始掩飾了嗎？]]></title>
+        <id>https://www.theatlantic.com/health/archive/2022/04/omicron-ba2-surge-indoor-masking/629512/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/health/archive/2022/04/omicron-ba2-surge-indoor-masking/629512/?utm_source=feed"/>
+        <updated>2022-04-08T15:27:24.000Z</updated>
+        <summary type="html"><![CDATA[Is It Time to Start Masking Again?]]></summary>
+        <author>
+            <name>Yasmin Tayag</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日漫畫。4月8日，星期五]]></title>
         <id>https://www.newyorker.com/cartoons/daily-cartoon/friday-april-8th-warm-spring</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Erin Woo and Erin Griffith</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[表情符號時代的市場細分]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259418-market-segmentation-in-the-emoji-era</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259418-market-segmentation-in-the-emoji-era"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Market Segmentation in the Emoji Era]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
         </author>
     </entry>
 </feed>
