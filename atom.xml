@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-08T09:33:00.131Z</updated>
+    <updated>2022-04-08T10:15:05.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[当一万两千名游戏开发者聚集在一起时，会发生什么？]]></title>
+        <id>https://www.newyorker.com/news/letter-from-silicon-valley/what-happens-when-twelve-thousand-game-developers-converge</id>
+        <link href="https://www.newyorker.com/news/letter-from-silicon-valley/what-happens-when-twelve-thousand-game-developers-converge"/>
+        <updated>2022-04-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What Happens When Twelve Thousand Game Developers Converge?]]></summary>
+        <author>
+            <name>Anna Wiener</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你的睡眠瘫痪恶魔正在与你分手的蛛丝马迹]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/telltale-signs-that-your-sleep-paralysis-demon-is-breaking-up-with-you</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/telltale-signs-that-your-sleep-paralysis-demon-is-breaking-up-with-you"/>
+        <updated>2022-04-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Telltale Signs That Your Sleep-Paralysis Demon Is Breaking Up with You]]></summary>
+        <author>
+            <name>Ronald Metellus, Kyle Harris</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[让世界认识阿诺德-施瓦辛格的电影]]></title>
+        <id>https://www.newyorker.com/culture/photo-booth/the-pictures-that-introduced-the-world-to-arnold-schwarzenegger</id>
+        <link href="https://www.newyorker.com/culture/photo-booth/the-pictures-that-introduced-the-world-to-arnold-schwarzenegger"/>
+        <updated>2022-04-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Pictures That Introduced the World to Arnold Schwarzenegger]]></summary>
+        <author>
+            <name>Crispin Long</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面包店的国际合作，在 "避难所 "里]]></title>
+        <id>https://www.newyorker.com/culture/screening-room/international-cooperation-in-a-bakery-in-refuge</id>
+        <link href="https://www.newyorker.com/culture/screening-room/international-cooperation-in-a-bakery-in-refuge"/>
+        <updated>2022-04-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[International Coöperation in a Bakery, in “Refuge”]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么欧洲需要乌克兰]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/04/why-europe-needs-ukraine/629476/?utm_source=feed</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>Patrick Radden Keefe</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好莱坞的元老级教训]]></title>
-        <id>https://www.nytimes.com/2022/03/22/technology/metaverse-lessons-from-hollywood.html</id>
-        <link href="https://www.nytimes.com/2022/03/22/technology/metaverse-lessons-from-hollywood.html"/>
-        <updated>2022-03-22T16:19:24.000Z</updated>
-        <summary type="html"><![CDATA[Metaverse Lessons From Hollywood]]></summary>
-        <author>
-            <name>Shira Ovide</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日漫画。3月22日，星期二]]></title>
-        <id>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-22nd-yes-we-have-no-hot-dogs</id>
-        <link href="https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-22nd-yes-we-have-no-hot-dogs"/>
-        <updated>2022-03-22T15:56:58.000Z</updated>
-        <summary type="html"><![CDATA[Daily Cartoon: Tuesday, March 22nd]]></summary>
-        <author>
-            <name>Lars Kenseth</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京收缩的内部圈子里的大清洗]]></title>
-        <id>https://www.newyorker.com/news/q-and-a/the-purges-in-putins-shrinking-inner-circle</id>
-        <link href="https://www.newyorker.com/news/q-and-a/the-purges-in-putins-shrinking-inner-circle"/>
-        <updated>2022-03-22T15:05:54.000Z</updated>
-        <summary type="html"><![CDATA[The Purges in Putin’s Shrinking Inner Circle]]></summary>
-        <author>
-            <name>Isaac Chotiner</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京收缩的内部圈子里的大清洗]]></title>
-        <id>https://www.newyorker.com/news/q-and-a/the-purges-in-putins-shrinking-inner-circle</id>
-        <link href="https://www.newyorker.com/news/q-and-a/the-purges-in-putins-shrinking-inner-circle"/>
-        <updated>2022-03-22T15:05:54.000Z</updated>
-        <summary type="html"><![CDATA[The Purges in Putin’s Shrinking Inner Circle]]></summary>
-        <author>
-            <name>Isaac Chotiner</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
 </feed>

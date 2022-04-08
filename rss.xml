@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 08 Apr 2022 09:33:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 10:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,34 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[当一万两千名游戏开发者聚集在一起时，会发生什么？]]></title>
+            <link>https://www.newyorker.com/news/letter-from-silicon-valley/what-happens-when-twelve-thousand-game-developers-converge</link>
+            <guid>https://www.newyorker.com/news/letter-from-silicon-valley/what-happens-when-twelve-thousand-game-developers-converge</guid>
+            <pubDate>Fri, 08 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[What Happens When Twelve Thousand Game Developers Converge?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你的睡眠瘫痪恶魔正在与你分手的蛛丝马迹]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/telltale-signs-that-your-sleep-paralysis-demon-is-breaking-up-with-you</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/telltale-signs-that-your-sleep-paralysis-demon-is-breaking-up-with-you</guid>
+            <pubDate>Fri, 08 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Telltale Signs That Your Sleep-Paralysis Demon Is Breaking Up with You]]></description>
+        </item>
+        <item>
+            <title><![CDATA[让世界认识阿诺德-施瓦辛格的电影]]></title>
+            <link>https://www.newyorker.com/culture/photo-booth/the-pictures-that-introduced-the-world-to-arnold-schwarzenegger</link>
+            <guid>https://www.newyorker.com/culture/photo-booth/the-pictures-that-introduced-the-world-to-arnold-schwarzenegger</guid>
+            <pubDate>Fri, 08 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Pictures That Introduced the World to Arnold Schwarzenegger]]></description>
+        </item>
+        <item>
+            <title><![CDATA[面包店的国际合作，在 "避难所 "里]]></title>
+            <link>https://www.newyorker.com/culture/screening-room/international-cooperation-in-a-bakery-in-refuge</link>
+            <guid>https://www.newyorker.com/culture/screening-room/international-cooperation-in-a-bakery-in-refuge</guid>
+            <pubDate>Fri, 08 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[International Coöperation in a Bakery, in “Refuge”]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么欧洲需要乌克兰]]></title>
             <link>https://www.theatlantic.com/ideas/archive/2022/04/why-europe-needs-ukraine/629476/?utm_source=feed</link>
@@ -4185,34 +4213,6 @@
             <guid>https://www.newyorker.com/magazine/2022/03/28/how-putins-oligarchs-bought-london</guid>
             <pubDate>Thu, 17 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[How Putin’s Oligarchs Bought London]]></description>
-        </item>
-        <item>
-            <title><![CDATA[好莱坞的元老级教训]]></title>
-            <link>https://www.nytimes.com/2022/03/22/technology/metaverse-lessons-from-hollywood.html</link>
-            <guid>https://www.nytimes.com/2022/03/22/technology/metaverse-lessons-from-hollywood.html</guid>
-            <pubDate>Tue, 22 Mar 2022 16:19:24 GMT</pubDate>
-            <description><![CDATA[Metaverse Lessons From Hollywood]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日漫画。3月22日，星期二]]></title>
-            <link>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-22nd-yes-we-have-no-hot-dogs</link>
-            <guid>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-22nd-yes-we-have-no-hot-dogs</guid>
-            <pubDate>Tue, 22 Mar 2022 15:56:58 GMT</pubDate>
-            <description><![CDATA[Daily Cartoon: Tuesday, March 22nd]]></description>
-        </item>
-        <item>
-            <title><![CDATA[普京收缩的内部圈子里的大清洗]]></title>
-            <link>https://www.newyorker.com/news/q-and-a/the-purges-in-putins-shrinking-inner-circle</link>
-            <guid>https://www.newyorker.com/news/q-and-a/the-purges-in-putins-shrinking-inner-circle</guid>
-            <pubDate>Tue, 22 Mar 2022 15:05:54 GMT</pubDate>
-            <description><![CDATA[The Purges in Putin’s Shrinking Inner Circle]]></description>
-        </item>
-        <item>
-            <title><![CDATA[普京收缩的内部圈子里的大清洗]]></title>
-            <link>https://www.newyorker.com/news/q-and-a/the-purges-in-putins-shrinking-inner-circle</link>
-            <guid>https://www.newyorker.com/news/q-and-a/the-purges-in-putins-shrinking-inner-circle</guid>
-            <pubDate>Tue, 22 Mar 2022 15:05:54 GMT</pubDate>
-            <description><![CDATA[The Purges in Putin’s Shrinking Inner Circle]]></description>
         </item>
     </channel>
 </rss>
