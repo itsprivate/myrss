@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/culture/photo-booth/the-pictures-that-introduced-the-world-to-arnold-schwarzenegger",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/photo-booth/the-pictures-that-introduced-the-world-to-arnold-schwarzenegger",
+            "title": "让世界认识阿诺德-施瓦辛格的电影",
+            "summary": "The Pictures That Introduced the World to Arnold Schwarzenegger",
+            "date_modified": "2022-04-08T10:00:00.000Z",
+            "author": {
+                "name": "Crispin Long",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/letter-from-silicon-valley/what-happens-when-twelve-thousand-game-developers-converge",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/letter-from-silicon-valley/what-happens-when-twelve-thousand-game-developers-converge",
+            "title": "当一万两千名游戏开发者聚集在一起时，会发生什么？",
+            "summary": "What Happens When Twelve Thousand Game Developers Converge?",
+            "date_modified": "2022-04-08T10:00:00.000Z",
+            "author": {
+                "name": "Anna Wiener",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/culture/screening-room/international-cooperation-in-a-bakery-in-refuge",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/screening-room/international-cooperation-in-a-bakery-in-refuge",
+            "title": "面包店的国际合作，在 \"避难所 \"里",
+            "summary": "International Coöperation in a Bakery, in “Refuge”",
+            "date_modified": "2022-04-08T10:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/letter-from-silicon-valley/what-happens-when-twelve-thousand-game-developers-converge",
             "content_html": "",
             "url": "https://www.newyorker.com/news/letter-from-silicon-valley/what-happens-when-twelve-thousand-game-developers-converge",
@@ -7171,42 +7207,6 @@
             "date_modified": "2022-03-18T10:00:00.000Z",
             "author": {
                 "name": "Anthony Lane",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/03/28/koffees-debut-album-blends-old-reggae-and-new",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/03/28/koffees-debut-album-blends-old-reggae-and-new",
-            "title": "科菲的首张专辑融合了古老的雷鬼音乐和新事物",
-            "summary": "Koffee’s Début Album Blends Old Reggae and New",
-            "date_modified": "2022-03-21T10:00:00.000Z",
-            "author": {
-                "name": "Carrie Battan",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/03/28/the-shaming-industrial-complex-cathy-oneil-the-shame-machine-owen-flanagan-how-to-do-things-with-emotions",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/03/28/the-shaming-industrial-complex-cathy-oneil-the-shame-machine-owen-flanagan-how-to-do-things-with-emotions",
-            "title": "沙明-工业综合体",
-            "summary": "The Shaming-Industrial Complex",
-            "date_modified": "2022-03-21T10:00:00.000Z",
-            "author": {
-                "name": "Becca Rothfeld",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/03/28/how-putins-oligarchs-bought-london",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/03/28/how-putins-oligarchs-bought-london",
-            "title": "普京的寡头们如何买下伦敦",
-            "summary": "How Putin’s Oligarchs Bought London",
-            "date_modified": "2022-03-17T10:00:00.000Z",
-            "author": {
-                "name": "Patrick Radden Keefe",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

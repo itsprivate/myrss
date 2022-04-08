@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-08T10:15:05.515Z</updated>
+    <updated>2022-04-08T10:37:42.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[讓世界認識阿諾德-施瓦辛格的電影]]></title>
+        <id>https://www.newyorker.com/culture/photo-booth/the-pictures-that-introduced-the-world-to-arnold-schwarzenegger</id>
+        <link href="https://www.newyorker.com/culture/photo-booth/the-pictures-that-introduced-the-world-to-arnold-schwarzenegger"/>
+        <updated>2022-04-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Pictures That Introduced the World to Arnold Schwarzenegger]]></summary>
+        <author>
+            <name>Crispin Long</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[當一萬兩千名遊戲開發者聚集在一起時，會發生什麼？]]></title>
+        <id>https://www.newyorker.com/news/letter-from-silicon-valley/what-happens-when-twelve-thousand-game-developers-converge</id>
+        <link href="https://www.newyorker.com/news/letter-from-silicon-valley/what-happens-when-twelve-thousand-game-developers-converge"/>
+        <updated>2022-04-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What Happens When Twelve Thousand Game Developers Converge?]]></summary>
+        <author>
+            <name>Anna Wiener</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[麵包店的國際合作，在 "避難所 "裡]]></title>
+        <id>https://www.newyorker.com/culture/screening-room/international-cooperation-in-a-bakery-in-refuge</id>
+        <link href="https://www.newyorker.com/culture/screening-room/international-cooperation-in-a-bakery-in-refuge"/>
+        <updated>2022-04-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[International Coöperation in a Bakery, in “Refuge”]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[當一萬兩千名遊戲開發者聚集在一起時，會發生什麼？]]></title>
         <id>https://www.newyorker.com/news/letter-from-silicon-valley/what-happens-when-twelve-thousand-game-developers-converge</id>
@@ -6579,39 +6612,6 @@
         <summary type="html"><![CDATA[“The Outfit” Is Made to Measure for Mark Rylance]]></summary>
         <author>
             <name>Anthony Lane</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科菲的首張專輯融合了古老的雷鬼音樂和新事物]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/28/koffees-debut-album-blends-old-reggae-and-new</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/28/koffees-debut-album-blends-old-reggae-and-new"/>
-        <updated>2022-03-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Koffee’s Début Album Blends Old Reggae and New]]></summary>
-        <author>
-            <name>Carrie Battan</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沙明-工業綜合體]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/28/the-shaming-industrial-complex-cathy-oneil-the-shame-machine-owen-flanagan-how-to-do-things-with-emotions</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/28/the-shaming-industrial-complex-cathy-oneil-the-shame-machine-owen-flanagan-how-to-do-things-with-emotions"/>
-        <updated>2022-03-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Shaming-Industrial Complex]]></summary>
-        <author>
-            <name>Becca Rothfeld</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京的寡頭們如何買下倫敦]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/28/how-putins-oligarchs-bought-london</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/28/how-putins-oligarchs-bought-london"/>
-        <updated>2022-03-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How Putin’s Oligarchs Bought London]]></summary>
-        <author>
-            <name>Patrick Radden Keefe</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

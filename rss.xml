@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 08 Apr 2022 10:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 10:37:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[让世界认识阿诺德-施瓦辛格的电影]]></title>
+            <link>https://www.newyorker.com/culture/photo-booth/the-pictures-that-introduced-the-world-to-arnold-schwarzenegger</link>
+            <guid>https://www.newyorker.com/culture/photo-booth/the-pictures-that-introduced-the-world-to-arnold-schwarzenegger</guid>
+            <pubDate>Fri, 08 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Pictures That Introduced the World to Arnold Schwarzenegger]]></description>
+        </item>
+        <item>
+            <title><![CDATA[当一万两千名游戏开发者聚集在一起时，会发生什么？]]></title>
+            <link>https://www.newyorker.com/news/letter-from-silicon-valley/what-happens-when-twelve-thousand-game-developers-converge</link>
+            <guid>https://www.newyorker.com/news/letter-from-silicon-valley/what-happens-when-twelve-thousand-game-developers-converge</guid>
+            <pubDate>Fri, 08 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[What Happens When Twelve Thousand Game Developers Converge?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[面包店的国际合作，在 "避难所 "里]]></title>
+            <link>https://www.newyorker.com/culture/screening-room/international-cooperation-in-a-bakery-in-refuge</link>
+            <guid>https://www.newyorker.com/culture/screening-room/international-cooperation-in-a-bakery-in-refuge</guid>
+            <pubDate>Fri, 08 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[International Coöperation in a Bakery, in “Refuge”]]></description>
+        </item>
         <item>
             <title><![CDATA[当一万两千名游戏开发者聚集在一起时，会发生什么？]]></title>
             <link>https://www.newyorker.com/news/letter-from-silicon-valley/what-happens-when-twelve-thousand-game-developers-converge</link>
@@ -4192,27 +4213,6 @@
             <guid>https://www.newyorker.com/magazine/2022/03/28/the-outfit-is-made-to-measure-for-mark-rylance</guid>
             <pubDate>Fri, 18 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[“The Outfit” Is Made to Measure for Mark Rylance]]></description>
-        </item>
-        <item>
-            <title><![CDATA[科菲的首张专辑融合了古老的雷鬼音乐和新事物]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/28/koffees-debut-album-blends-old-reggae-and-new</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/28/koffees-debut-album-blends-old-reggae-and-new</guid>
-            <pubDate>Mon, 21 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Koffee’s Début Album Blends Old Reggae and New]]></description>
-        </item>
-        <item>
-            <title><![CDATA[沙明-工业综合体]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/28/the-shaming-industrial-complex-cathy-oneil-the-shame-machine-owen-flanagan-how-to-do-things-with-emotions</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/28/the-shaming-industrial-complex-cathy-oneil-the-shame-machine-owen-flanagan-how-to-do-things-with-emotions</guid>
-            <pubDate>Mon, 21 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Shaming-Industrial Complex]]></description>
-        </item>
-        <item>
-            <title><![CDATA[普京的寡头们如何买下伦敦]]></title>
-            <link>https://www.newyorker.com/magazine/2022/03/28/how-putins-oligarchs-bought-london</link>
-            <guid>https://www.newyorker.com/magazine/2022/03/28/how-putins-oligarchs-bought-london</guid>
-            <pubDate>Thu, 17 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[How Putin’s Oligarchs Bought London]]></description>
         </item>
     </channel>
 </rss>
