@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-08T15:38:55.744Z</updated>
+    <updated>2022-04-08T16:20:58.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[被誤解的尼科之聲]]></title>
+        <id>https://www.newyorker.com/books/under-review/the-misunderstood-voice-of-nico</id>
+        <link href="https://www.newyorker.com/books/under-review/the-misunderstood-voice-of-nico"/>
+        <updated>2022-04-08T16:10:00.000Z</updated>
+        <summary type="html"><![CDATA[The Misunderstood Voice of Nico]]></summary>
+        <author>
+            <name>Brian Dillon</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是時候重新開始掩飾了嗎？]]></title>
         <id>https://www.theatlantic.com/health/archive/2022/04/omicron-ba2-surge-indoor-masking/629512/?utm_source=feed</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Masha Gessen</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對伊麗莎白-霍姆斯的前合夥人拉梅什-巴爾瓦尼的審判開始了]]></title>
-        <id>https://www.nytimes.com/2022/03/22/technology/theranos-trial-balwani.html</id>
-        <link href="https://www.nytimes.com/2022/03/22/technology/theranos-trial-balwani.html"/>
-        <updated>2022-03-22T21:46:05.000Z</updated>
-        <summary type="html"><![CDATA[Theranos Trial Starts for Ramesh Balwani, Elizabeth Holmes’s Ex-Partner]]></summary>
-        <author>
-            <name>Erin Woo and Erin Griffith</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>

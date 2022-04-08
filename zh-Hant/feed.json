@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/books/under-review/the-misunderstood-voice-of-nico",
+            "content_html": "",
+            "url": "https://www.newyorker.com/books/under-review/the-misunderstood-voice-of-nico",
+            "title": "被誤解的尼科之聲",
+            "summary": "The Misunderstood Voice of Nico",
+            "date_modified": "2022-04-08T16:10:00.000Z",
+            "author": {
+                "name": "Brian Dillon",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/health/archive/2022/04/omicron-ba2-surge-indoor-masking/629512/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/health/archive/2022/04/omicron-ba2-surge-indoor-masking/629512/?utm_source=feed",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Masha Gessen",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/22/technology/theranos-trial-balwani.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/22/technology/theranos-trial-balwani.html",
-            "title": "對伊麗莎白-霍姆斯的前合夥人拉梅什-巴爾瓦尼的審判開始了",
-            "summary": "Theranos Trial Starts for Ramesh Balwani, Elizabeth Holmes’s Ex-Partner",
-            "date_modified": "2022-03-22T21:46:05.000Z",
-            "author": {
-                "name": "Erin Woo and Erin Griffith",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
     ]
