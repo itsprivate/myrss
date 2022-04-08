@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-08T08:15:01.932Z</updated>
+    <updated>2022-04-08T09:13:43.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[隨著油價上漲，網絡上對電動汽車的搜索也在增加]]></title>
+        <id>https://www.nytimes.com/2022/04/08/climate/gas-prices-electric-vehicles.html</id>
+        <link href="https://www.nytimes.com/2022/04/08/climate/gas-prices-electric-vehicles.html"/>
+        <updated>2022-04-08T09:00:11.000Z</updated>
+        <summary type="html"><![CDATA[As Gas Prices Went Up, So Did Web Searches for Electric Vehicles]]></summary>
+        <author>
+            <name>Maggie Astor</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英特爾如何在全球短缺的情況下製造半導體]]></title>
+        <id>https://www.nytimes.com/2022/04/08/technology/intel-chip-shortage.html</id>
+        <link href="https://www.nytimes.com/2022/04/08/technology/intel-chip-shortage.html"/>
+        <updated>2022-04-08T09:00:33.000Z</updated>
+        <summary type="html"><![CDATA[How Intel Makes Semiconductors in a Global Shortage]]></summary>
+        <author>
+            <name>Philip Cheung and Don Clark</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[視頻採訪。大衛-羅伯茨談氣候變化]]></title>
         <id>https://noahpinion.substack.com/p/video-interview-david-roberts-on</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Katie Robertson</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瑪麗蓮-曼森告訴我們他是什麼人]]></title>
-        <id>https://www.theatlantic.com/culture/archive/2022/03/phoenix-rising-hbo-evan-rachel-wood/627152/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/culture/archive/2022/03/phoenix-rising-hbo-evan-rachel-wood/627152/?utm_source=feed"/>
-        <updated>2022-03-22T14:03:34.000Z</updated>
-        <summary type="html"><![CDATA[Marilyn Manson Told Us What He Was]]></summary>
-        <author>
-            <name>Sophie Gilbert</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭的勝利是唯一可以接受的結局]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/how-democracy-can-win-ukraine/627125/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/how-democracy-can-win-ukraine/627125/?utm_source=feed"/>
-        <updated>2022-03-22T13:00:51.000Z</updated>
-        <summary type="html"><![CDATA[A Ukrainian Victory Is the Only Acceptable Endgame]]></summary>
-        <author>
-            <name>Anne Applebaum</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>

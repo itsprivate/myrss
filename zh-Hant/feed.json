@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/08/climate/gas-prices-electric-vehicles.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/08/climate/gas-prices-electric-vehicles.html",
+            "title": "隨著油價上漲，網絡上對電動汽車的搜索也在增加",
+            "summary": "As Gas Prices Went Up, So Did Web Searches for Electric Vehicles",
+            "date_modified": "2022-04-08T09:00:11.000Z",
+            "author": {
+                "name": "Maggie Astor",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/04/08/technology/intel-chip-shortage.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/08/technology/intel-chip-shortage.html",
+            "title": "英特爾如何在全球短缺的情況下製造半導體",
+            "summary": "How Intel Makes Semiconductors in a Global Shortage",
+            "date_modified": "2022-04-08T09:00:33.000Z",
+            "author": {
+                "name": "Philip Cheung and Don Clark",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://noahpinion.substack.com/p/video-interview-david-roberts-on",
             "content_html": "",
             "url": "https://noahpinion.substack.com/p/video-interview-david-roberts-on",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "Katie Robertson",
                 "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/culture/archive/2022/03/phoenix-rising-hbo-evan-rachel-wood/627152/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/culture/archive/2022/03/phoenix-rising-hbo-evan-rachel-wood/627152/?utm_source=feed",
-            "title": "瑪麗蓮-曼森告訴我們他是什麼人",
-            "summary": "Marilyn Manson Told Us What He Was",
-            "date_modified": "2022-03-22T14:03:34.000Z",
-            "author": {
-                "name": "Sophie Gilbert",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/03/how-democracy-can-win-ukraine/627125/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/03/how-democracy-can-win-ukraine/627125/?utm_source=feed",
-            "title": "烏克蘭的勝利是唯一可以接受的結局",
-            "summary": "A Ukrainian Victory Is the Only Acceptable Endgame",
-            "date_modified": "2022-03-22T13:00:51.000Z",
-            "author": {
-                "name": "Anne Applebaum",
-                "url": "https://www.theatlantic.com/feed/all/"
             }
         }
     ]

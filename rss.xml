@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 08 Apr 2022 08:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 09:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[随着油价上涨，网络上对电动汽车的搜索也在增加]]></title>
+            <link>https://www.nytimes.com/2022/04/08/climate/gas-prices-electric-vehicles.html</link>
+            <guid>https://www.nytimes.com/2022/04/08/climate/gas-prices-electric-vehicles.html</guid>
+            <pubDate>Fri, 08 Apr 2022 09:00:11 GMT</pubDate>
+            <description><![CDATA[As Gas Prices Went Up, So Did Web Searches for Electric Vehicles]]></description>
+        </item>
+        <item>
+            <title><![CDATA[英特尔如何在全球短缺的情况下制造半导体]]></title>
+            <link>https://www.nytimes.com/2022/04/08/technology/intel-chip-shortage.html</link>
+            <guid>https://www.nytimes.com/2022/04/08/technology/intel-chip-shortage.html</guid>
+            <pubDate>Fri, 08 Apr 2022 09:00:33 GMT</pubDate>
+            <description><![CDATA[How Intel Makes Semiconductors in a Global Shortage]]></description>
+        </item>
         <item>
             <title><![CDATA[视频采访。大卫-罗伯茨谈气候变化]]></title>
             <link>https://noahpinion.substack.com/p/video-interview-david-roberts-on</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.nytimes.com/2022/03/22/business/media/buzzfeed-news-editors-newsroom-cuts.html</guid>
             <pubDate>Tue, 22 Mar 2022 14:14:19 GMT</pubDate>
             <description><![CDATA[BuzzFeed News Top Editor Mark Schoofs to Leave Ahead of Newsroom Cuts]]></description>
-        </item>
-        <item>
-            <title><![CDATA[玛丽莲-曼森告诉我们他是什么人]]></title>
-            <link>https://www.theatlantic.com/culture/archive/2022/03/phoenix-rising-hbo-evan-rachel-wood/627152/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/culture/archive/2022/03/phoenix-rising-hbo-evan-rachel-wood/627152/?utm_source=feed</guid>
-            <pubDate>Tue, 22 Mar 2022 14:03:34 GMT</pubDate>
-            <description><![CDATA[Marilyn Manson Told Us What He Was]]></description>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰的胜利是唯一可以接受的结局]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/how-democracy-can-win-ukraine/627125/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/how-democracy-can-win-ukraine/627125/?utm_source=feed</guid>
-            <pubDate>Tue, 22 Mar 2022 13:00:51 GMT</pubDate>
-            <description><![CDATA[A Ukrainian Victory Is the Only Acceptable Endgame]]></description>
         </item>
     </channel>
 </rss>
