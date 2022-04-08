@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-08T11:12:41.020Z</updated>
+    <updated>2022-04-08T11:30:55.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼面對核武器帶來的威脅如此困難？]]></title>
+        <id>https://www.currentaffairs.org/2022/03/why-its-so-hard-to-face-the-threat-posed-by-nuclear-weapons/</id>
+        <link href="https://www.currentaffairs.org/2022/03/why-its-so-hard-to-face-the-threat-posed-by-nuclear-weapons/"/>
+        <updated>2022-03-16T15:58:17.000Z</updated>
+        <summary type="html"><![CDATA[Why It&#8217;s So Hard to Face the Threat Posed by Nuclear Weapons]]></summary>
+        <author>
+            <name>Phil Torres</name>
+            <uri>https://www.currentaffairs.org/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對酒店客房的頌歌]]></title>
         <id>https://www.theatlantic.com/magazine/archive/2022/05/an-ode-to-hotel-rooms/629376/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[The Workplace Comedies Reconsidering the Girlboss]]></summary>
         <author>
             <name>Shirley Li</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[工作的未來仍然是工作]]></title>
-        <id>https://www.theatlantic.com/culture/archive/2022/03/silicon-valley-work-culture-spirituality/627151/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/culture/archive/2022/03/silicon-valley-work-culture-spirituality/627151/?utm_source=feed"/>
-        <updated>2022-03-22T18:29:37.000Z</updated>
-        <summary type="html"><![CDATA[The Future of Work Is Still Work]]></summary>
-        <author>
-            <name>Carolyn Chen</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
