@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-08T05:12:39.175Z</updated>
+    <updated>2022-04-08T08:15:01.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[視頻採訪。大衛-羅伯茨談氣候變化]]></title>
+        <id>https://noahpinion.substack.com/p/video-interview-david-roberts-on</id>
+        <link href="https://noahpinion.substack.com/p/video-interview-david-roberts-on"/>
+        <updated>2022-04-08T07:54:26.000Z</updated>
+        <summary type="html"><![CDATA[Video interview: David Roberts on climate change]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[沙卡里-理查森在跑步和生活中處理時間問題]]></title>
         <id>https://www.newyorker.com/video/watch/the-new-yorker-documentary-sub-eleven-seconds</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Anne Applebaum</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隨心所欲地閱讀!]]></title>
-        <id>https://austinkleon.substack.com/p/read-at-whim</id>
-        <link href="https://austinkleon.substack.com/p/read-at-whim"/>
-        <updated>2022-03-22T12:00:35.000Z</updated>
-        <summary type="html"><![CDATA[Read at Whim!]]></summary>
-        <author>
-            <name>Austin Kleon</name>
-            <uri>https://austinkleon.substack.com/feed</uri>
         </author>
     </entry>
 </feed>

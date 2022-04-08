@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 08 Apr 2022 05:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 08:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[视频采访。大卫-罗伯茨谈气候变化]]></title>
+            <link>https://noahpinion.substack.com/p/video-interview-david-roberts-on</link>
+            <guid>https://noahpinion.substack.com/p/video-interview-david-roberts-on</guid>
+            <pubDate>Fri, 08 Apr 2022 07:54:26 GMT</pubDate>
+            <description><![CDATA[Video interview: David Roberts on climate change]]></description>
+        </item>
         <item>
             <title><![CDATA[沙卡里-理查森在跑步和生活中处理时间问题]]></title>
             <link>https://www.newyorker.com/video/watch/the-new-yorker-documentary-sub-eleven-seconds</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/ideas/archive/2022/03/how-democracy-can-win-ukraine/627125/?utm_source=feed</guid>
             <pubDate>Tue, 22 Mar 2022 13:00:51 GMT</pubDate>
             <description><![CDATA[A Ukrainian Victory Is the Only Acceptable Endgame]]></description>
-        </item>
-        <item>
-            <title><![CDATA[随心所欲地阅读!]]></title>
-            <link>https://austinkleon.substack.com/p/read-at-whim</link>
-            <guid>https://austinkleon.substack.com/p/read-at-whim</guid>
-            <pubDate>Tue, 22 Mar 2022 12:00:35 GMT</pubDate>
-            <description><![CDATA[Read at Whim!]]></description>
         </item>
     </channel>
 </rss>
