@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-08T21:40:04.875Z</updated>
+    <updated>2022-04-08T22:33:57.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亚马逊、劳工组织者对阿拉巴马州的工会投票提出反对意见]]></title>
+        <id>https://www.nytimes.com/2022/04/08/business/amazon-alabama-union-vote-objections.html</id>
+        <link href="https://www.nytimes.com/2022/04/08/business/amazon-alabama-union-vote-objections.html"/>
+        <updated>2022-04-08T18:44:45.000Z</updated>
+        <summary type="html"><![CDATA[Amazon, Labor Organizers File Objections to Alabama Union Vote]]></summary>
+        <author>
+            <name>Karen Weise</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[流行音乐对怀旧的迷恋]]></title>
         <id>https://www.theatlantic.com/podcasts/archive/2022/04/is-pop-music-obsessed-with-nostalgia/629502/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Searching for Treasure and Purpose in the Rockies]]></summary>
         <author>
             <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[帕梅拉-阿德隆如何在 "更好的事情 "中制作罗宋汤]]></title>
-        <id>https://www.newyorker.com/culture/kitchen-notes/how-pamela-adlon-makes-borscht-on-better-things</id>
-        <link href="https://www.newyorker.com/culture/kitchen-notes/how-pamela-adlon-makes-borscht-on-better-things"/>
-        <updated>2022-03-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How Pamela Adlon Makes Borscht on “Better Things”]]></summary>
-        <author>
-            <name>Rachel Syme</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/08/business/amazon-alabama-union-vote-objections.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/08/business/amazon-alabama-union-vote-objections.html",
+            "title": "亚马逊、劳工组织者对阿拉巴马州的工会投票提出反对意见",
+            "summary": "Amazon, Labor Organizers File Objections to Alabama Union Vote",
+            "date_modified": "2022-04-08T18:44:45.000Z",
+            "author": {
+                "name": "Karen Weise",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/podcasts/archive/2022/04/is-pop-music-obsessed-with-nostalgia/629502/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/podcasts/archive/2022/04/is-pop-music-obsessed-with-nostalgia/629502/?utm_source=feed",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-23T10:00:00.000Z",
             "author": {
                 "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/kitchen-notes/how-pamela-adlon-makes-borscht-on-better-things",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/kitchen-notes/how-pamela-adlon-makes-borscht-on-better-things",
-            "title": "帕梅拉-阿德隆如何在 \"更好的事情 \"中制作罗宋汤",
-            "summary": "How Pamela Adlon Makes Borscht on “Better Things”",
-            "date_modified": "2022-03-23T10:00:00.000Z",
-            "author": {
-                "name": "Rachel Syme",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }
