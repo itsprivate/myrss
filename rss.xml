@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 08 Apr 2022 19:54:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 20:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[卡片问题，加上安妮塔-希尔对凯坦吉-布朗-杰克逊的看法]]></title>
+            <link>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/the-card-problem-plus-anita-hill-on-ketanji-brown-jackson</link>
+            <guid>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/the-card-problem-plus-anita-hill-on-ketanji-brown-jackson</guid>
+            <pubDate>Fri, 08 Apr 2022 20:00:00 GMT</pubDate>
+            <description><![CDATA[The Card Problem, Plus Anita Hill on Ketanji Brown Jackson]]></description>
+        </item>
+        <item>
+            <title><![CDATA[安妮塔-希尔在凯坦吉-布朗-杰克逊的最高法院听证会上看到历史重演]]></title>
+            <link>https://www.newyorker.com/news/q-and-a/anita-hill-ketanji-brown-jackson-supreme-court</link>
+            <guid>https://www.newyorker.com/news/q-and-a/anita-hill-ketanji-brown-jackson-supreme-court</guid>
+            <pubDate>Fri, 08 Apr 2022 20:00:00 GMT</pubDate>
+            <description><![CDATA[Anita Hill Saw History Repeat Itself at Ketanji Brown Jackson’s Supreme Court Hearings]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么一部关于奶牛的纪录片揭示了一种艺术形式的局限性？]]></title>
             <link>https://www.newyorker.com/culture/the-front-row/why-a-documentary-about-a-cow-reveals-the-limits-of-an-art-form</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.theatlantic.com/ideas/archive/2022/03/covid-survey-results-public-opinion/627582/?utm_source=feed</guid>
             <pubDate>Wed, 23 Mar 2022 10:00:57 GMT</pubDate>
             <description><![CDATA[What Americans Really Think About the Pandemic]]></description>
-        </item>
-        <item>
-            <title><![CDATA[杰克逊法官的确认听证会与杰克逊法官关系不大]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/ketanji-brown-jackson-confirmation-hearing/627586/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/ketanji-brown-jackson-confirmation-hearing/627586/?utm_source=feed</guid>
-            <pubDate>Wed, 23 Mar 2022 10:00:58 GMT</pubDate>
-            <description><![CDATA[Judge Jackson’s Confirmation Hearing Has Had Little to Do With Judge Jackson]]></description>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰的经济前景]]></title>
-            <link>https://noahpinion.substack.com/p/ukraines-economic-future</link>
-            <guid>https://noahpinion.substack.com/p/ukraines-economic-future</guid>
-            <pubDate>Wed, 23 Mar 2022 09:19:58 GMT</pubDate>
-            <description><![CDATA[Ukraine's economic future]]></description>
         </item>
     </channel>
 </rss>

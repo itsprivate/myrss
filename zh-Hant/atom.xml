@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-08T19:54:13.337Z</updated>
+    <updated>2022-04-08T20:14:53.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[卡片問題，加上安妮塔-希爾對凱坦吉-布朗-傑克遜的看法]]></title>
+        <id>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/the-card-problem-plus-anita-hill-on-ketanji-brown-jackson</id>
+        <link href="https://www.newyorker.com/podcast/the-new-yorker-radio-hour/the-card-problem-plus-anita-hill-on-ketanji-brown-jackson"/>
+        <updated>2022-04-08T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Card Problem, Plus Anita Hill on Ketanji Brown Jackson]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安妮塔-希爾在凱坦吉-布朗-傑克遜的最高法院聽證會上看到歷史重演]]></title>
+        <id>https://www.newyorker.com/news/q-and-a/anita-hill-ketanji-brown-jackson-supreme-court</id>
+        <link href="https://www.newyorker.com/news/q-and-a/anita-hill-ketanji-brown-jackson-supreme-court"/>
+        <updated>2022-04-08T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Anita Hill Saw History Repeat Itself at Ketanji Brown Jackson’s Supreme Court Hearings]]></summary>
+        <author>
+            <name>David Remnick</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼一部關於奶牛的紀錄片揭示了一種藝術形式的侷限性？]]></title>
         <id>https://www.newyorker.com/culture/the-front-row/why-a-documentary-about-a-cow-reveals-the-limits-of-an-art-form</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Natalie Jackson</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[傑克遜法官的確認聽證會與傑克遜法官關係不大]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/ketanji-brown-jackson-confirmation-hearing/627586/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/ketanji-brown-jackson-confirmation-hearing/627586/?utm_source=feed"/>
-        <updated>2022-03-23T10:00:58.000Z</updated>
-        <summary type="html"><![CDATA[Judge Jackson’s Confirmation Hearing Has Had Little to Do With Judge Jackson]]></summary>
-        <author>
-            <name>David A. Graham</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭的經濟前景]]></title>
-        <id>https://noahpinion.substack.com/p/ukraines-economic-future</id>
-        <link href="https://noahpinion.substack.com/p/ukraines-economic-future"/>
-        <updated>2022-03-23T09:19:58.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine's economic future]]></summary>
-        <author>
-            <name>Noah Smith</name>
-            <uri>https://noahpinion.substack.com/feed</uri>
         </author>
     </entry>
 </feed>

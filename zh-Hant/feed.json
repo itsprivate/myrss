@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour/the-card-problem-plus-anita-hill-on-ketanji-brown-jackson",
+            "content_html": "",
+            "url": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour/the-card-problem-plus-anita-hill-on-ketanji-brown-jackson",
+            "title": "卡片問題，加上安妮塔-希爾對凱坦吉-布朗-傑克遜的看法",
+            "summary": "The Card Problem, Plus Anita Hill on Ketanji Brown Jackson",
+            "date_modified": "2022-04-08T20:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/q-and-a/anita-hill-ketanji-brown-jackson-supreme-court",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/q-and-a/anita-hill-ketanji-brown-jackson-supreme-court",
+            "title": "安妮塔-希爾在凱坦吉-布朗-傑克遜的最高法院聽證會上看到歷史重演",
+            "summary": "Anita Hill Saw History Repeat Itself at Ketanji Brown Jackson’s Supreme Court Hearings",
+            "date_modified": "2022-04-08T20:00:00.000Z",
+            "author": {
+                "name": "David Remnick",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/culture/the-front-row/why-a-documentary-about-a-cow-reveals-the-limits-of-an-art-form",
             "content_html": "",
             "url": "https://www.newyorker.com/culture/the-front-row/why-a-documentary-about-a-cow-reveals-the-limits-of-an-art-form",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "Natalie Jackson",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/03/ketanji-brown-jackson-confirmation-hearing/627586/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/03/ketanji-brown-jackson-confirmation-hearing/627586/?utm_source=feed",
-            "title": "傑克遜法官的確認聽證會與傑克遜法官關係不大",
-            "summary": "Judge Jackson’s Confirmation Hearing Has Had Little to Do With Judge Jackson",
-            "date_modified": "2022-03-23T10:00:58.000Z",
-            "author": {
-                "name": "David A. Graham",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://noahpinion.substack.com/p/ukraines-economic-future",
-            "content_html": "",
-            "url": "https://noahpinion.substack.com/p/ukraines-economic-future",
-            "title": "烏克蘭的經濟前景",
-            "summary": "Ukraine's economic future",
-            "date_modified": "2022-03-23T09:19:58.000Z",
-            "author": {
-                "name": "Noah Smith",
-                "url": "https://noahpinion.substack.com/feed"
             }
         }
     ]
