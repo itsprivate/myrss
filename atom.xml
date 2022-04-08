@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-08T11:52:37.628Z</updated>
+    <updated>2022-04-08T12:19:52.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一! 一百! 千人!]]></title>
+        <id>https://austinkleon.substack.com/p/one-hundred-thousand</id>
+        <link href="https://austinkleon.substack.com/p/one-hundred-thousand"/>
+        <updated>2022-04-08T12:00:54.000Z</updated>
+        <summary type="html"><![CDATA[One! Hundred! Thousand!]]></summary>
+        <author>
+            <name>Austin Kleon</name>
+            <uri>https://austinkleon.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么乌克兰会赢]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-military-strategy-russian-failure-kyiv/629514/?utm_source=feed</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Scott Alexander</name>
             <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们已经发现了5000颗系外行星，但不是我们要找的那颗]]></title>
-        <id>https://www.theatlantic.com/science/archive/2022/03/nasa-exoplanets-habitable-zone/627155/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/science/archive/2022/03/nasa-exoplanets-habitable-zone/627155/?utm_source=feed"/>
-        <updated>2022-03-22T18:49:30.000Z</updated>
-        <summary type="html"><![CDATA[We’ve Found 5,000 Exoplanets, But Not the One We’re Looking For]]></summary>
-        <author>
-            <name>Marina Koren</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
