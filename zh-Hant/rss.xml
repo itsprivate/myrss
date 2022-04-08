@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 07 Apr 2022 23:43:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 04:58:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[本週的照片。敲擊瓷磚、掃墓、海灘地雷]]></title>
+            <link>https://www.theatlantic.com/photo/2022/04/photos-of-the-week-tile-tapping-tomb-sweeping-beach-mines/629515/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/photo/2022/04/photos-of-the-week-tile-tapping-tomb-sweeping-beach-mines/629515/?utm_source=feed</guid>
+            <pubDate>Fri, 08 Apr 2022 04:31:56 GMT</pubDate>
+            <description><![CDATA[Photos of the Week: Tile Tapping, Tomb Sweeping, Beach Mines]]></description>
+        </item>
         <item>
             <title><![CDATA[不道德變成邪惡的界限在哪裡？]]></title>
             <link>https://www.theatlantic.com/ideas/archive/2022/04/maria-ressa-rappler-philippines-facebook/629510/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/ideas/archive/2022/03/climate-change-deforestation-carbon/627114/?utm_source=feed</guid>
             <pubDate>Tue, 22 Mar 2022 11:01:56 GMT</pubDate>
             <description><![CDATA[To Save the Planet, Save the Biggest Forests]]></description>
-        </item>
-        <item>
-            <title><![CDATA[需要一場真正的戰爭來壓制文化戰爭]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/russia-ukraine-war-stopped-internet-culture-war/627122/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/russia-ukraine-war-stopped-internet-culture-war/627122/?utm_source=feed</guid>
-            <pubDate>Tue, 22 Mar 2022 11:01:56 GMT</pubDate>
-            <description><![CDATA[It Took a Real War to Silence the Culture War]]></description>
         </item>
     </channel>
 </rss>

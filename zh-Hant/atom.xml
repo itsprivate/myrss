@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-07T23:43:20.425Z</updated>
+    <updated>2022-04-08T04:58:33.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[本週的照片。敲擊瓷磚、掃墓、海灘地雷]]></title>
+        <id>https://www.theatlantic.com/photo/2022/04/photos-of-the-week-tile-tapping-tomb-sweeping-beach-mines/629515/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/photo/2022/04/photos-of-the-week-tile-tapping-tomb-sweeping-beach-mines/629515/?utm_source=feed"/>
+        <updated>2022-04-08T04:31:56.000Z</updated>
+        <summary type="html"><![CDATA[Photos of the Week: Tile Tapping, Tomb Sweeping, Beach Mines]]></summary>
+        <author>
+            <name>Alan Taylor</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不道德變成邪惡的界限在哪裡？]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/04/maria-ressa-rappler-philippines-facebook/629510/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[To Save the Planet, Save the Biggest Forests]]></summary>
         <author>
             <name>Thomas E. Lovejoy</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[需要一場真正的戰爭來壓制文化戰爭]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/russia-ukraine-war-stopped-internet-culture-war/627122/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/russia-ukraine-war-stopped-internet-culture-war/627122/?utm_source=feed"/>
-        <updated>2022-03-22T11:01:56.000Z</updated>
-        <summary type="html"><![CDATA[It Took a Real War to Silence the Culture War]]></summary>
-        <author>
-            <name>Renée DiResta</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
