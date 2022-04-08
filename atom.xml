@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-08T20:14:53.300Z</updated>
+    <updated>2022-04-08T20:34:43.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SpaceX和Axiom向空间站发射私人宇航员队伍]]></title>
+        <id>https://www.nytimes.com/2022/04/08/science/axiom-launch-nasa-spacex.html</id>
+        <link href="https://www.nytimes.com/2022/04/08/science/axiom-launch-nasa-spacex.html"/>
+        <updated>2022-04-08T20:23:47.000Z</updated>
+        <summary type="html"><![CDATA[SpaceX and Axiom Launch Private Astronaut Crew to Space Station]]></summary>
+        <author>
+            <name>Kenneth Chang</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[卡片问题，加上安妮塔-希尔对凯坦吉-布朗-杰克逊的看法]]></title>
         <id>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/the-card-problem-plus-anita-hill-on-ketanji-brown-jackson</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[This Isn't History's Most Dangerous Moment. Yet.]]></summary>
         <author>
             <name>Uri Friedman</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国人对大流行病的真实想法]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/covid-survey-results-public-opinion/627582/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/covid-survey-results-public-opinion/627582/?utm_source=feed"/>
-        <updated>2022-03-23T10:00:57.000Z</updated>
-        <summary type="html"><![CDATA[What Americans Really Think About the Pandemic]]></summary>
-        <author>
-            <name>Natalie Jackson</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
