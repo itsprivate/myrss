@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-08T16:52:33.653Z</updated>
+    <updated>2022-04-08T18:15:48.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何烹饪紧张的罗非鱼]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/how-to-cook-tense-tilapia</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/how-to-cook-tense-tilapia"/>
+        <updated>2022-04-08T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How to Cook Tense Tilapia]]></summary>
+        <author>
+            <name>Julie Benbassat</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国各州的能力实际上是相当高的]]></title>
         <id>https://noahpinion.substack.com/p/us-state-capacity-is-actually-pretty</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Jonathan Moens</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯网络攻击的威胁迫在眉睫]]></title>
-        <id>https://www.newyorker.com/news/daily-comment/the-threat-of-russian-cyberattacks-looms-large</id>
-        <link href="https://www.newyorker.com/news/daily-comment/the-threat-of-russian-cyberattacks-looms-large"/>
-        <updated>2022-03-22T23:15:56.000Z</updated>
-        <summary type="html"><![CDATA[The Threat of Russian Cyberattacks Looms Large]]></summary>
-        <author>
-            <name>Sue Halpern</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
 </feed>
