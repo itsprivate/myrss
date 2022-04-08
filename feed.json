@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/family/archive/2022/04/how-friendship-researchers-stay-friends/629508/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/family/archive/2022/04/how-friendship-researchers-stay-friends/629508/?utm_source=feed",
+            "title": "也是朋友的友谊研究者",
+            "summary": "The Friendship Researchers Who Are Also Friends",
+            "date_modified": "2022-04-08T14:00:55.000Z",
+            "author": {
+                "name": "Julie Beck",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/books/archive/2022/04/banned-books-critical-race-theory-1619-project/620394/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/books/archive/2022/04/banned-books-critical-race-theory-1619-project/620394/?utm_source=feed",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Carole V. Bell",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/22/technology/metaverse-faces-steve-perlman.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/22/technology/metaverse-faces-steve-perlman.html",
-            "title": "好莱坞的元老级教训",
-            "summary": "Metaverse Lessons From Hollywood",
-            "date_modified": "2022-03-22T16:19:24.000Z",
-            "author": {
-                "name": "Shira Ovide",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
     ]

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-08T13:57:44.052Z</updated>
+    <updated>2022-04-08T14:14:24.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[也是朋友的友谊研究者]]></title>
+        <id>https://www.theatlantic.com/family/archive/2022/04/how-friendship-researchers-stay-friends/629508/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/family/archive/2022/04/how-friendship-researchers-stay-friends/629508/?utm_source=feed"/>
+        <updated>2022-04-08T14:00:55.000Z</updated>
+        <summary type="html"><![CDATA[The Friendship Researchers Who Are Also Friends]]></summary>
+        <author>
+            <name>Julie Beck</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[图书简报》。关于儿童阅读的斗争]]></title>
         <id>https://www.theatlantic.com/books/archive/2022/04/banned-books-critical-race-theory-1619-project/620394/?utm_source=feed</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Carole V. Bell</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好莱坞的元老级教训]]></title>
-        <id>https://www.nytimes.com/2022/03/22/technology/metaverse-faces-steve-perlman.html</id>
-        <link href="https://www.nytimes.com/2022/03/22/technology/metaverse-faces-steve-perlman.html"/>
-        <updated>2022-03-22T16:19:24.000Z</updated>
-        <summary type="html"><![CDATA[Metaverse Lessons From Hollywood]]></summary>
-        <author>
-            <name>Shira Ovide</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>
