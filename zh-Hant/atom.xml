@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-08T10:37:42.480Z</updated>
+    <updated>2022-04-08T11:12:41.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[對酒店客房的頌歌]]></title>
+        <id>https://www.theatlantic.com/magazine/archive/2022/05/an-ode-to-hotel-rooms/629376/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/magazine/archive/2022/05/an-ode-to-hotel-rooms/629376/?utm_source=feed"/>
+        <updated>2022-04-08T11:00:59.000Z</updated>
+        <summary type="html"><![CDATA[An Ode to Hotel Rooms]]></summary>
+        <author>
+            <name>James Parker</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美國還沒有想好如何處理來去匆匆的大流行病]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/covid-omicron-ba2-surge-precautions/629500/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/covid-omicron-ba2-surge-precautions/629500/?utm_source=feed"/>
+        <updated>2022-04-08T11:00:59.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Hasn’t Figured Out How to Handle a Pandemic That Comes and Goes]]></summary>
+        <author>
+            <name>Juliette Kayyem</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每場戰爭都會導致非人化]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/04/sergei-loznitsa-donbass-interview-russia/629509/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/04/sergei-loznitsa-donbass-interview-russia/629509/?utm_source=feed"/>
+        <updated>2022-04-08T11:00:58.000Z</updated>
+        <summary type="html"><![CDATA[‘Every War Leads to Dehumanization’]]></summary>
+        <author>
+            <name>David Sims</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[讓世界認識阿諾德-施瓦辛格的電影]]></title>
         <id>https://www.newyorker.com/culture/photo-booth/the-pictures-that-introduced-the-world-to-arnold-schwarzenegger</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>Carolyn Chen</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在阿爾巴達維，麵包就是生命]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/28/at-al-badawi-bread-is-life</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/28/at-al-badawi-bread-is-life"/>
-        <updated>2022-03-18T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[At al Badawi, Bread Is Life]]></summary>
-        <author>
-            <name>Hannah Goldfield</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拉里-貝爾的幾何玻璃雕塑作品]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/28/the-geometric-glass-sculptures-of-larry-bell</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/28/the-geometric-glass-sculptures-of-larry-bell"/>
-        <updated>2022-03-18T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Geometric Glass Sculptures of Larry Bell]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為馬克-裡朗斯量身定做的 "服裝"]]></title>
-        <id>https://www.newyorker.com/magazine/2022/03/28/the-outfit-is-made-to-measure-for-mark-rylance</id>
-        <link href="https://www.newyorker.com/magazine/2022/03/28/the-outfit-is-made-to-measure-for-mark-rylance"/>
-        <updated>2022-03-18T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“The Outfit” Is Made to Measure for Mark Rylance]]></summary>
-        <author>
-            <name>Anthony Lane</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
