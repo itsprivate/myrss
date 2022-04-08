@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 08 Apr 2022 04:58:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 05:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[沙卡里-理查森在跑步和生活中处理时间问题]]></title>
+            <link>https://www.newyorker.com/video/watch/the-new-yorker-documentary-sub-eleven-seconds</link>
+            <guid>https://www.newyorker.com/video/watch/the-new-yorker-documentary-sub-eleven-seconds</guid>
+            <pubDate>Wed, 16 Mar 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Sha’Carri Richardson Tackles Time in Running and in Life]]></description>
+        </item>
         <item>
             <title><![CDATA[本周的照片。敲击瓷砖、扫墓、海滩地雷]]></title>
             <link>https://www.theatlantic.com/photo/2022/04/photos-of-the-week-tile-tapping-tomb-sweeping-beach-mines/629515/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://austinkleon.substack.com/p/read-at-whim</guid>
             <pubDate>Tue, 22 Mar 2022 12:00:35 GMT</pubDate>
             <description><![CDATA[Read at Whim!]]></description>
-        </item>
-        <item>
-            <title><![CDATA[拯救地球，拯救最大的森林]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/climate-change-deforestation-carbon/627114/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/climate-change-deforestation-carbon/627114/?utm_source=feed</guid>
-            <pubDate>Tue, 22 Mar 2022 11:01:56 GMT</pubDate>
-            <description><![CDATA[To Save the Planet, Save the Biggest Forests]]></description>
         </item>
     </channel>
 </rss>
