@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/humor/borowitz-report/jackson-refuses-kavanaughs-invitation-to-beer-pong-initiation-ritual",
+            "content_html": "",
+            "url": "https://www.newyorker.com/humor/borowitz-report/jackson-refuses-kavanaughs-invitation-to-beer-pong-initiation-ritual",
+            "title": "傑克遜拒絕卡瓦諾的邀請參加啤酒杯啟動儀式",
+            "summary": "Jackson Refuses Kavanaugh’s Invitation to Beer-Pong Initiation Ritual",
+            "date_modified": "2022-04-08T20:32:16.000Z",
+            "author": {
+                "name": "Andy Borowitz",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/08/science/axiom-launch-nasa-spacex.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/08/science/axiom-launch-nasa-spacex.html",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Kevin Dettmar",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/03/ukraine-russia-nuclear-weapons-cold-war/627587/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/03/ukraine-russia-nuclear-weapons-cold-war/627587/?utm_source=feed",
-            "title": "這還不是歷史上最危險的時刻。然而。",
-            "summary": "This Isn't History's Most Dangerous Moment. Yet.",
-            "date_modified": "2022-03-23T09:42:59.000Z",
-            "author": {
-                "name": "Uri Friedman",
-                "url": "https://www.theatlantic.com/feed/all/"
             }
         }
     ]

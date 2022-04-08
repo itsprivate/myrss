@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-08T20:34:43.715Z</updated>
+    <updated>2022-04-08T20:51:44.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[杰克逊拒绝卡瓦诺的邀请参加啤酒杯启动仪式]]></title>
+        <id>https://www.newyorker.com/humor/borowitz-report/jackson-refuses-kavanaughs-invitation-to-beer-pong-initiation-ritual</id>
+        <link href="https://www.newyorker.com/humor/borowitz-report/jackson-refuses-kavanaughs-invitation-to-beer-pong-initiation-ritual"/>
+        <updated>2022-04-08T20:32:16.000Z</updated>
+        <summary type="html"><![CDATA[Jackson Refuses Kavanaugh’s Invitation to Beer-Pong Initiation Ritual]]></summary>
+        <author>
+            <name>Andy Borowitz</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SpaceX和Axiom向空间站发射私人宇航员队伍]]></title>
         <id>https://www.nytimes.com/2022/04/08/science/axiom-launch-nasa-spacex.html</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Kevin Dettmar</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这还不是历史上最危险的时刻。然而。]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/ukraine-russia-nuclear-weapons-cold-war/627587/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/ukraine-russia-nuclear-weapons-cold-war/627587/?utm_source=feed"/>
-        <updated>2022-03-23T09:42:59.000Z</updated>
-        <summary type="html"><![CDATA[This Isn't History's Most Dangerous Moment. Yet.]]></summary>
-        <author>
-            <name>Uri Friedman</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
