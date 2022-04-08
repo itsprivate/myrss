@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/our-columnists/is-larry-summers-really-right-about-inflation-and-biden",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/our-columnists/is-larry-summers-really-right-about-inflation-and-biden",
+            "title": "拉里-薩默斯對通貨膨脹和拜登的看法真的正確嗎？",
+            "summary": "Is Larry Summers Really Right About Inflation and Biden?",
+            "date_modified": "2022-04-08T18:29:46.000Z",
+            "author": {
+                "name": "John Cassidy",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/humor/daily-shouts/how-to-cook-tense-tilapia",
             "content_html": "",
             "url": "https://www.newyorker.com/humor/daily-shouts/how-to-cook-tense-tilapia",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-22T20:05:24.000Z",
             "author": {
                 "name": "Cara Buckley",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/22/science/brain-computer-als-communication.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/22/science/brain-computer-als-communication.html",
-            "title": "大腦植入物使完全癱瘓的病人能夠進行交流",
-            "summary": "Brain Implant Allows Fully Paralyzed Patient to Communicate",
-            "date_modified": "2022-03-23T00:17:11.000Z",
-            "author": {
-                "name": "Jonathan Moens",
                 "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }

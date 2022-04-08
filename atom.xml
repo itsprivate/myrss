@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-08T18:15:48.707Z</updated>
+    <updated>2022-04-08T18:41:19.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[拉里-萨默斯对通货膨胀和拜登的看法真的正确吗？]]></title>
+        <id>https://www.newyorker.com/news/our-columnists/is-larry-summers-really-right-about-inflation-and-biden</id>
+        <link href="https://www.newyorker.com/news/our-columnists/is-larry-summers-really-right-about-inflation-and-biden"/>
+        <updated>2022-04-08T18:29:46.000Z</updated>
+        <summary type="html"><![CDATA[Is Larry Summers Really Right About Inflation and Biden?]]></summary>
+        <author>
+            <name>John Cassidy</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何烹饪紧张的罗非鱼]]></title>
         <id>https://www.newyorker.com/humor/daily-shouts/how-to-cook-tense-tilapia</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[‘OK Doomer’ and the Climate Advocates Who Say It’s Not Too Late]]></summary>
         <author>
             <name>Cara Buckley</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大脑植入物使完全瘫痪的病人能够进行交流]]></title>
-        <id>https://www.nytimes.com/2022/03/22/science/brain-computer-als-communication.html</id>
-        <link href="https://www.nytimes.com/2022/03/22/science/brain-computer-als-communication.html"/>
-        <updated>2022-03-23T00:17:11.000Z</updated>
-        <summary type="html"><![CDATA[Brain Implant Allows Fully Paralyzed Patient to Communicate]]></summary>
-        <author>
-            <name>Jonathan Moens</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
