@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/culture/the-front-row/why-a-documentary-about-a-cow-reveals-the-limits-of-an-art-form",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/the-front-row/why-a-documentary-about-a-cow-reveals-the-limits-of-an-art-form",
+            "title": "为什么一部关于奶牛的纪录片揭示了一种艺术形式的局限性？",
+            "summary": "Why a Documentary About a Cow Reveals the Limits of an Art Form",
+            "date_modified": "2022-04-08T19:39:07.000Z",
+            "author": {
+                "name": "Richard Brody",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/our-columnists/is-larry-summers-really-right-about-inflation-and-biden",
             "content_html": "",
             "url": "https://www.newyorker.com/news/our-columnists/is-larry-summers-really-right-about-inflation-and-biden",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Noah Smith",
                 "url": "https://noahpinion.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/23/technology/stewart-brand-tech.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/23/technology/stewart-brand-tech.html",
-            "title": "创造了 \"个人电脑 \"一词的斯图尔特-布兰德说他仍然是个乐观主义者",
-            "summary": "Stewart Brand, Who Coined the Term ‘Personal Computer,’ Says He’s Still an Optimist",
-            "date_modified": "2022-03-23T09:00:19.000Z",
-            "author": {
-                "name": "John Markoff",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
     ]

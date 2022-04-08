@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-08T18:58:02.535Z</updated>
+    <updated>2022-04-08T19:54:13.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么一部关于奶牛的纪录片揭示了一种艺术形式的局限性？]]></title>
+        <id>https://www.newyorker.com/culture/the-front-row/why-a-documentary-about-a-cow-reveals-the-limits-of-an-art-form</id>
+        <link href="https://www.newyorker.com/culture/the-front-row/why-a-documentary-about-a-cow-reveals-the-limits-of-an-art-form"/>
+        <updated>2022-04-08T19:39:07.000Z</updated>
+        <summary type="html"><![CDATA[Why a Documentary About a Cow Reveals the Limits of an Art Form]]></summary>
+        <author>
+            <name>Richard Brody</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拉里-萨默斯对通货膨胀和拜登的看法真的正确吗？]]></title>
         <id>https://www.newyorker.com/news/our-columnists/is-larry-summers-really-right-about-inflation-and-biden</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Noah Smith</name>
             <uri>https://noahpinion.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[创造了 "个人电脑 "一词的斯图尔特-布兰德说他仍然是个乐观主义者]]></title>
-        <id>https://www.nytimes.com/2022/03/23/technology/stewart-brand-tech.html</id>
-        <link href="https://www.nytimes.com/2022/03/23/technology/stewart-brand-tech.html"/>
-        <updated>2022-03-23T09:00:19.000Z</updated>
-        <summary type="html"><![CDATA[Stewart Brand, Who Coined the Term ‘Personal Computer,’ Says He’s Still an Optimist]]></summary>
-        <author>
-            <name>John Markoff</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>

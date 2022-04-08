@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 08 Apr 2022 18:58:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 19:54:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼一部關於奶牛的紀錄片揭示了一種藝術形式的侷限性？]]></title>
+            <link>https://www.newyorker.com/culture/the-front-row/why-a-documentary-about-a-cow-reveals-the-limits-of-an-art-form</link>
+            <guid>https://www.newyorker.com/culture/the-front-row/why-a-documentary-about-a-cow-reveals-the-limits-of-an-art-form</guid>
+            <pubDate>Fri, 08 Apr 2022 19:39:07 GMT</pubDate>
+            <description><![CDATA[Why a Documentary About a Cow Reveals the Limits of an Art Form]]></description>
+        </item>
         <item>
             <title><![CDATA[拉里-薩默斯對通貨膨脹和拜登的看法真的正確嗎？]]></title>
             <link>https://www.newyorker.com/news/our-columnists/is-larry-summers-really-right-about-inflation-and-biden</link>
@@ -4206,13 +4213,6 @@
             <guid>https://noahpinion.substack.com/p/ukraines-economic-future</guid>
             <pubDate>Wed, 23 Mar 2022 09:19:58 GMT</pubDate>
             <description><![CDATA[Ukraine's economic future]]></description>
-        </item>
-        <item>
-            <title><![CDATA[創造了 "個人電腦 "一詞的斯圖爾特-布蘭德說他仍然是個樂觀主義者]]></title>
-            <link>https://www.nytimes.com/2022/03/23/technology/stewart-brand-tech.html</link>
-            <guid>https://www.nytimes.com/2022/03/23/technology/stewart-brand-tech.html</guid>
-            <pubDate>Wed, 23 Mar 2022 09:00:19 GMT</pubDate>
-            <description><![CDATA[Stewart Brand, Who Coined the Term ‘Personal Computer,’ Says He’s Still an Optimist]]></description>
         </item>
     </channel>
 </rss>
