@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-09T03:27:46.414Z</updated>
+    <updated>2022-04-09T10:13:46.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[奥维尔-佩克的《孤独的国家》杂志]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/18/orville-pecks-lonesome-country</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/18/orville-pecks-lonesome-country"/>
+        <updated>2022-04-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Orville Peck’s Lonesome Country]]></summary>
+        <author>
+            <name>Amanda Petrusich</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[史密森尼稀世珍品集》呈现。"你成年后交的新朋友"]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/the-smithsonian-rarities-collection-presents-the-new-friend-you-made-as-an-adult</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/the-smithsonian-rarities-collection-presents-the-new-friend-you-made-as-an-adult"/>
+        <updated>2022-04-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Smithsonian Rarities Collection Presents: “The New Friend You Made as an Adult”]]></summary>
+        <author>
+            <name>Zoe Pearl</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为俄罗斯的进攻准备敖德萨的地下墓穴]]></title>
+        <id>https://www.newyorker.com/news/dispatch/preparing-odesas-catacombs-for-a-russian-assault</id>
+        <link href="https://www.newyorker.com/news/dispatch/preparing-odesas-catacombs-for-a-russian-assault"/>
+        <updated>2022-04-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Preparing Odesa’s Catacombs for a Russian Assault]]></summary>
+        <author>
+            <name>Will Hunt</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[茱莉亚-柴尔德被切成片状，进入电视新时代]]></title>
+        <id>https://www.newyorker.com/culture/annals-of-gastronomy/julia-child-gets-sliced-and-diced-for-a-new-era-of-television</id>
+        <link href="https://www.newyorker.com/culture/annals-of-gastronomy/julia-child-gets-sliced-and-diced-for-a-new-era-of-television"/>
+        <updated>2022-04-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Julia Child Gets Sliced and Diced for a New Era of Television]]></summary>
+        <author>
+            <name>Helen Rosner</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[栽培部]]></title>
         <id>https://www.newyorker.com/magazine/dept-of-cultivation</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>unknown</name>
             <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[驾驶我的车 "在第二次观看时揭示了什么]]></title>
-        <id>https://www.newyorker.com/culture/culture-desk/what-drive-my-car-reveals-on-a-second-viewing</id>
-        <link href="https://www.newyorker.com/culture/culture-desk/what-drive-my-car-reveals-on-a-second-viewing"/>
-        <updated>2022-03-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What “Drive My Car” Reveals on a Second Viewing]]></summary>
-        <author>
-            <name>Kevin Dettmar</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苍月淬炼指南]]></title>
-        <id>https://blackgnu.net/palemoon-hardening.html</id>
-        <link href="https://blackgnu.net/palemoon-hardening.html"/>
-        <updated>2022-03-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Pale Moon Hardening Guide]]></summary>
-        <author>
-            <name>Werwolf</name>
-            <uri>https://blackgnu.net/atom.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[丈夫和妻子的餐厅为世界带来了提拉米苏]]></title>
-        <id>https://www.newyorker.com/news/afterword/the-husband-and-wife-whose-restaurant-gave-the-world-tiramisu</id>
-        <link href="https://www.newyorker.com/news/afterword/the-husband-and-wife-whose-restaurant-gave-the-world-tiramisu"/>
-        <updated>2022-03-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Husband and Wife Whose Restaurant Gave the World Tiramisu]]></summary>
-        <author>
-            <name>Susan Orlean</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[启示录中的工作邮件]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/work-e-mails-during-an-apocalypse</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/work-e-mails-during-an-apocalypse"/>
-        <updated>2022-03-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Work E-mails During an Apocalypse]]></summary>
-        <author>
-            <name>Carlos Greaves</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>

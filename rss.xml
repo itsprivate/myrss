@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 09 Apr 2022 03:27:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 10:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,34 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[奥维尔-佩克的《孤独的国家》杂志]]></title>
+            <link>https://www.newyorker.com/magazine/2022/04/18/orville-pecks-lonesome-country</link>
+            <guid>https://www.newyorker.com/magazine/2022/04/18/orville-pecks-lonesome-country</guid>
+            <pubDate>Sat, 09 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Orville Peck’s Lonesome Country]]></description>
+        </item>
+        <item>
+            <title><![CDATA[史密森尼稀世珍品集》呈现。"你成年后交的新朋友"]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/the-smithsonian-rarities-collection-presents-the-new-friend-you-made-as-an-adult</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/the-smithsonian-rarities-collection-presents-the-new-friend-you-made-as-an-adult</guid>
+            <pubDate>Sat, 09 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Smithsonian Rarities Collection Presents: “The New Friend You Made as an Adult”]]></description>
+        </item>
+        <item>
+            <title><![CDATA[为俄罗斯的进攻准备敖德萨的地下墓穴]]></title>
+            <link>https://www.newyorker.com/news/dispatch/preparing-odesas-catacombs-for-a-russian-assault</link>
+            <guid>https://www.newyorker.com/news/dispatch/preparing-odesas-catacombs-for-a-russian-assault</guid>
+            <pubDate>Sat, 09 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Preparing Odesa’s Catacombs for a Russian Assault]]></description>
+        </item>
+        <item>
+            <title><![CDATA[茱莉亚-柴尔德被切成片状，进入电视新时代]]></title>
+            <link>https://www.newyorker.com/culture/annals-of-gastronomy/julia-child-gets-sliced-and-diced-for-a-new-era-of-television</link>
+            <guid>https://www.newyorker.com/culture/annals-of-gastronomy/julia-child-gets-sliced-and-diced-for-a-new-era-of-television</guid>
+            <pubDate>Sat, 09 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Julia Child Gets Sliced and Diced for a New Era of Television]]></description>
+        </item>
         <item>
             <title><![CDATA[栽培部]]></title>
             <link>https://www.newyorker.com/magazine/dept-of-cultivation</link>
@@ -4185,34 +4213,6 @@
             <guid>https://www.newyorker.com/culture/the-new-yorker-documentary/searching-for-treasure-and-purpose-in-the-rockies</guid>
             <pubDate>Wed, 23 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Searching for Treasure and Purpose in the Rockies]]></description>
-        </item>
-        <item>
-            <title><![CDATA[驾驶我的车 "在第二次观看时揭示了什么]]></title>
-            <link>https://www.newyorker.com/culture/culture-desk/what-drive-my-car-reveals-on-a-second-viewing</link>
-            <guid>https://www.newyorker.com/culture/culture-desk/what-drive-my-car-reveals-on-a-second-viewing</guid>
-            <pubDate>Wed, 23 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[What “Drive My Car” Reveals on a Second Viewing]]></description>
-        </item>
-        <item>
-            <title><![CDATA[苍月淬炼指南]]></title>
-            <link>https://blackgnu.net/palemoon-hardening.html</link>
-            <guid>https://blackgnu.net/palemoon-hardening.html</guid>
-            <pubDate>Tue, 08 Mar 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Pale Moon Hardening Guide]]></description>
-        </item>
-        <item>
-            <title><![CDATA[丈夫和妻子的餐厅为世界带来了提拉米苏]]></title>
-            <link>https://www.newyorker.com/news/afterword/the-husband-and-wife-whose-restaurant-gave-the-world-tiramisu</link>
-            <guid>https://www.newyorker.com/news/afterword/the-husband-and-wife-whose-restaurant-gave-the-world-tiramisu</guid>
-            <pubDate>Wed, 23 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Husband and Wife Whose Restaurant Gave the World Tiramisu]]></description>
-        </item>
-        <item>
-            <title><![CDATA[启示录中的工作邮件]]></title>
-            <link>https://www.newyorker.com/humor/daily-shouts/work-e-mails-during-an-apocalypse</link>
-            <guid>https://www.newyorker.com/humor/daily-shouts/work-e-mails-during-an-apocalypse</guid>
-            <pubDate>Wed, 23 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Work E-mails During an Apocalypse]]></description>
         </item>
     </channel>
 </rss>
