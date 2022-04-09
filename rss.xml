@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 09 Apr 2022 11:28:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 12:52:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[<em>我们的旗帜意味着死亡</em>是同性恋的反义词]]></title>
+            <link>https://www.theatlantic.com/culture/archive/2022/04/our-flag-means-death-queerbait-romance/629523/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/culture/archive/2022/04/our-flag-means-death-queerbait-romance/629523/?utm_source=feed</guid>
+            <pubDate>Sat, 09 Apr 2022 12:00:56 GMT</pubDate>
+            <description><![CDATA[<em>Our Flag Means Death</em> Is the Opposite of Queerbait]]></description>
+        </item>
         <item>
             <title><![CDATA[<em>救护车</em>是迈克尔-贝的经典混乱之作]]></title>
             <link>https://www.theatlantic.com/culture/archive/2022/04/ambulance-movie-review-jake-gyllenhaal/629525/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://blackgnu.net/android-privacy-guide.html</guid>
             <pubDate>Wed, 28 Jul 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Android Privacy Guide: Zero Trust]]></description>
-        </item>
-        <item>
-            <title><![CDATA[关于区块链和Web3]]></title>
-            <link>https://blackgnu.net/on-blockchain.html</link>
-            <guid>https://blackgnu.net/on-blockchain.html</guid>
-            <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[On blockchain and Web3]]></description>
         </item>
     </channel>
 </rss>
