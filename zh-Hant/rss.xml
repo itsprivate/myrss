@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 09 Apr 2022 12:52:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 14:30:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[凱坦吉-布朗-傑克遜的聽證會可能只是個開始]]></title>
+            <link>https://www.newyorker.com/magazine/2022/04/18/the-ketanji-brown-jackson-hearings-may-be-only-the-beginning</link>
+            <guid>https://www.newyorker.com/magazine/2022/04/18/the-ketanji-brown-jackson-hearings-may-be-only-the-beginning</guid>
+            <pubDate>Sat, 09 Apr 2022 14:00:00 GMT</pubDate>
+            <description><![CDATA[The Ketanji Brown Jackson Hearings May Be Only the Beginning]]></description>
+        </item>
         <item>
             <title><![CDATA[<em>我們的旗幟意味著死亡</em>是同性戀的反義詞]]></title>
             <link>https://www.theatlantic.com/culture/archive/2022/04/our-flag-means-death-queerbait-romance/629523/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://blackgnu.net/brave-is-shit.html</guid>
             <pubDate>Tue, 08 Jun 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Brave, the false sensation of privacy]]></description>
-        </item>
-        <item>
-            <title><![CDATA[安卓隱私指南。零信任]]></title>
-            <link>https://blackgnu.net/android-privacy-guide.html</link>
-            <guid>https://blackgnu.net/android-privacy-guide.html</guid>
-            <pubDate>Wed, 28 Jul 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Android Privacy Guide: Zero Trust]]></description>
         </item>
     </channel>
 </rss>

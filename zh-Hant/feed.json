@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/magazine/2022/04/18/the-ketanji-brown-jackson-hearings-may-be-only-the-beginning",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/04/18/the-ketanji-brown-jackson-hearings-may-be-only-the-beginning",
+            "title": "凱坦吉-布朗-傑克遜的聽證會可能只是個開始",
+            "summary": "The Ketanji Brown Jackson Hearings May Be Only the Beginning",
+            "date_modified": "2022-04-09T14:00:00.000Z",
+            "author": {
+                "name": "Amy Davidson Sorkin",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/culture/archive/2022/04/our-flag-means-death-queerbait-romance/629523/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/culture/archive/2022/04/our-flag-means-death-queerbait-romance/629523/?utm_source=feed",
@@ -7193,18 +7205,6 @@
             "title": "勇敢的，虛假的隱私感覺",
             "summary": "Brave, the false sensation of privacy",
             "date_modified": "2021-06-08T00:00:00.000Z",
-            "author": {
-                "name": "Werwolf",
-                "url": "https://blackgnu.net/atom.xml"
-            }
-        },
-        {
-            "id": "https://blackgnu.net/android-privacy-guide.html",
-            "content_html": "",
-            "url": "https://blackgnu.net/android-privacy-guide.html",
-            "title": "安卓隱私指南。零信任",
-            "summary": "Android Privacy Guide: Zero Trust",
-            "date_modified": "2021-07-28T00:00:00.000Z",
             "author": {
                 "name": "Werwolf",
                 "url": "https://blackgnu.net/atom.xml"
