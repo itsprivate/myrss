@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-09T10:13:46.991Z</updated>
+    <updated>2022-04-09T10:35:28.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什麼主義總是一件壞事嗎？]]></title>
+        <id>https://www.currentaffairs.org/2022/03/is-whataboutism-always-a-bad-thing/</id>
+        <link href="https://www.currentaffairs.org/2022/03/is-whataboutism-always-a-bad-thing/"/>
+        <updated>2022-03-18T20:35:23.000Z</updated>
+        <summary type="html"><![CDATA[Is &#8220;Whataboutism&#8221; Always a Bad Thing?]]></summary>
+        <author>
+            <name>Ben Burgis</name>
+            <uri>https://www.currentaffairs.org/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美國正在遺棄的民主黨人]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/cambodian-autocracy-democracy-russian-war/629505/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/cambodian-autocracy-democracy-russian-war/629505/?utm_source=feed"/>
+        <updated>2022-04-09T10:01:56.000Z</updated>
+        <summary type="html"><![CDATA[The Democrats America Is Leaving Behind]]></summary>
+        <author>
+            <name>Laura Thornton</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[奧維爾-佩克的《孤獨的國家》雜誌]]></title>
         <id>https://www.newyorker.com/magazine/2022/04/18/orville-pecks-lonesome-country</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Werwolf</name>
             <uri>https://blackgnu.net/atom.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[丈夫和妻子的餐廳為世界帶來了提拉米蘇]]></title>
-        <id>https://www.newyorker.com/news/afterword/the-husband-and-wife-whose-restaurant-gave-the-world-tiramisu</id>
-        <link href="https://www.newyorker.com/news/afterword/the-husband-and-wife-whose-restaurant-gave-the-world-tiramisu"/>
-        <updated>2022-03-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Husband and Wife Whose Restaurant Gave the World Tiramisu]]></summary>
-        <author>
-            <name>Susan Orlean</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在落基山脈尋找寶藏和目標]]></title>
-        <id>https://www.newyorker.com/culture/the-new-yorker-documentary/searching-for-treasure-and-purpose-in-the-rockies</id>
-        <link href="https://www.newyorker.com/culture/the-new-yorker-documentary/searching-for-treasure-and-purpose-in-the-rockies"/>
-        <updated>2022-03-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Searching for Treasure and Purpose in the Rockies]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
 </feed>

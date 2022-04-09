@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.currentaffairs.org/2022/03/is-whataboutism-always-a-bad-thing/",
+            "content_html": "",
+            "url": "https://www.currentaffairs.org/2022/03/is-whataboutism-always-a-bad-thing/",
+            "title": "什麼主義總是一件壞事嗎？",
+            "summary": "Is &#8220;Whataboutism&#8221; Always a Bad Thing?",
+            "date_modified": "2022-03-18T20:35:23.000Z",
+            "author": {
+                "name": "Ben Burgis",
+                "url": "https://www.currentaffairs.org/feed"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/04/cambodian-autocracy-democracy-russian-war/629505/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/04/cambodian-autocracy-democracy-russian-war/629505/?utm_source=feed",
+            "title": "美國正在遺棄的民主黨人",
+            "summary": "The Democrats America Is Leaving Behind",
+            "date_modified": "2022-04-09T10:01:56.000Z",
+            "author": {
+                "name": "Laura Thornton",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/magazine/2022/04/18/orville-pecks-lonesome-country",
             "content_html": "",
             "url": "https://www.newyorker.com/magazine/2022/04/18/orville-pecks-lonesome-country",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "Werwolf",
                 "url": "https://blackgnu.net/atom.xml"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/afterword/the-husband-and-wife-whose-restaurant-gave-the-world-tiramisu",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/afterword/the-husband-and-wife-whose-restaurant-gave-the-world-tiramisu",
-            "title": "丈夫和妻子的餐廳為世界帶來了提拉米蘇",
-            "summary": "The Husband and Wife Whose Restaurant Gave the World Tiramisu",
-            "date_modified": "2022-03-23T10:00:00.000Z",
-            "author": {
-                "name": "Susan Orlean",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/the-new-yorker-documentary/searching-for-treasure-and-purpose-in-the-rockies",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/the-new-yorker-documentary/searching-for-treasure-and-purpose-in-the-rockies",
-            "title": "在落基山脈尋找寶藏和目標",
-            "summary": "Searching for Treasure and Purpose in the Rockies",
-            "date_modified": "2022-03-23T10:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/news"
             }
         }
     ]
