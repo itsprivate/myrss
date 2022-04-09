@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 08 Apr 2022 22:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 03:03:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[來自基輔的信]]></title>
+            <link>https://www.newyorker.com/magazine/letter-from-kyiv</link>
+            <guid>https://www.newyorker.com/magazine/letter-from-kyiv</guid>
+            <pubDate>Sat, 09 Apr 2022 02:47:11 GMT</pubDate>
+            <description><![CDATA[Letter from Kyiv]]></description>
+        </item>
         <item>
             <title><![CDATA[亞馬遜、勞工組織者對阿拉巴馬州的工會投票提出反對意見]]></title>
             <link>https://www.nytimes.com/2022/04/08/business/amazon-alabama-union-vote-objections.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/video/watch/the-new-yorker-documentary-finding-fenns-gold</guid>
             <pubDate>Wed, 23 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[The Search for an Eccentric Millionaire’s Hidden Treasure Chest]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在落基山脈尋找寶藏和目標]]></title>
-            <link>https://www.newyorker.com/culture/the-new-yorker-documentary/searching-for-treasure-and-purpose-in-the-rockies</link>
-            <guid>https://www.newyorker.com/culture/the-new-yorker-documentary/searching-for-treasure-and-purpose-in-the-rockies</guid>
-            <pubDate>Wed, 23 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Searching for Treasure and Purpose in the Rockies]]></description>
         </item>
     </channel>
 </rss>
