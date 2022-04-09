@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-09T03:03:51.014Z</updated>
+    <updated>2022-04-09T03:27:46.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[栽培部]]></title>
+        <id>https://www.newyorker.com/magazine/dept-of-cultivation</id>
+        <link href="https://www.newyorker.com/magazine/dept-of-cultivation"/>
+        <updated>2022-04-09T03:20:53.000Z</updated>
+        <summary type="html"><![CDATA[Dept. of Cultivation]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[命名部]]></title>
+        <id>https://www.newyorker.com/magazine/dept-of-monikers</id>
+        <link href="https://www.newyorker.com/magazine/dept-of-monikers"/>
+        <updated>2022-04-09T03:20:53.000Z</updated>
+        <summary type="html"><![CDATA[Dept. of Monikers]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[儀容部]]></title>
+        <id>https://www.newyorker.com/magazine/grooming-dept</id>
+        <link href="https://www.newyorker.com/magazine/grooming-dept"/>
+        <updated>2022-04-09T03:20:53.000Z</updated>
+        <summary type="html"><![CDATA[Grooming Dept.]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[來自基輔的信]]></title>
         <id>https://www.newyorker.com/magazine/letter-from-kyiv</id>
@@ -6579,39 +6612,6 @@
         <summary type="html"><![CDATA[Work E-mails During an Apocalypse]]></summary>
         <author>
             <name>Carlos Greaves</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[落名：2022年3月23日，星期三]]></title>
-        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/23</id>
-        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/23"/>
-        <updated>2022-03-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Name Drop: Wednesday, March 23, 2022]]></summary>
-        <author>
-            <name>Matt Jackson</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[填字遊戲: 2022年3月23日，星期三]]></title>
-        <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/23</id>
-        <link href="https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/23"/>
-        <updated>2022-03-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Crossword: Wednesday, March 23, 2022]]></summary>
-        <author>
-            <name>Aimee Lucido</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尋找一個古怪的百萬富翁的隱藏寶庫]]></title>
-        <id>https://www.newyorker.com/video/watch/the-new-yorker-documentary-finding-fenns-gold</id>
-        <link href="https://www.newyorker.com/video/watch/the-new-yorker-documentary-finding-fenns-gold"/>
-        <updated>2022-03-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Search for an Eccentric Millionaire’s Hidden Treasure Chest]]></summary>
-        <author>
-            <name>unknown</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

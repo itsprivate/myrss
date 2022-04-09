@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 09 Apr 2022 03:03:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 03:27:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[栽培部]]></title>
+            <link>https://www.newyorker.com/magazine/dept-of-cultivation</link>
+            <guid>https://www.newyorker.com/magazine/dept-of-cultivation</guid>
+            <pubDate>Sat, 09 Apr 2022 03:20:53 GMT</pubDate>
+            <description><![CDATA[Dept. of Cultivation]]></description>
+        </item>
+        <item>
+            <title><![CDATA[命名部]]></title>
+            <link>https://www.newyorker.com/magazine/dept-of-monikers</link>
+            <guid>https://www.newyorker.com/magazine/dept-of-monikers</guid>
+            <pubDate>Sat, 09 Apr 2022 03:20:53 GMT</pubDate>
+            <description><![CDATA[Dept. of Monikers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[儀容部]]></title>
+            <link>https://www.newyorker.com/magazine/grooming-dept</link>
+            <guid>https://www.newyorker.com/magazine/grooming-dept</guid>
+            <pubDate>Sat, 09 Apr 2022 03:20:53 GMT</pubDate>
+            <description><![CDATA[Grooming Dept.]]></description>
+        </item>
         <item>
             <title><![CDATA[來自基輔的信]]></title>
             <link>https://www.newyorker.com/magazine/letter-from-kyiv</link>
@@ -4192,27 +4213,6 @@
             <guid>https://www.newyorker.com/humor/daily-shouts/work-e-mails-during-an-apocalypse</guid>
             <pubDate>Wed, 23 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Work E-mails During an Apocalypse]]></description>
-        </item>
-        <item>
-            <title><![CDATA[落名：2022年3月23日，星期三]]></title>
-            <link>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/23</link>
-            <guid>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/23</guid>
-            <pubDate>Wed, 23 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Name Drop: Wednesday, March 23, 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[填字遊戲: 2022年3月23日，星期三]]></title>
-            <link>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/23</link>
-            <guid>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/23</guid>
-            <pubDate>Wed, 23 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Crossword: Wednesday, March 23, 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[尋找一個古怪的百萬富翁的隱藏寶庫]]></title>
-            <link>https://www.newyorker.com/video/watch/the-new-yorker-documentary-finding-fenns-gold</link>
-            <guid>https://www.newyorker.com/video/watch/the-new-yorker-documentary-finding-fenns-gold</guid>
-            <pubDate>Wed, 23 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Search for an Eccentric Millionaire’s Hidden Treasure Chest]]></description>
         </item>
     </channel>
 </rss>
