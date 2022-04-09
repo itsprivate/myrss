@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-09T10:35:28.471Z</updated>
+    <updated>2022-04-09T11:28:41.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[<em>救护车</em>是迈克尔-贝的经典混乱之作]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/04/ambulance-movie-review-jake-gyllenhaal/629525/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/04/ambulance-movie-review-jake-gyllenhaal/629525/?utm_source=feed"/>
+        <updated>2022-04-09T11:00:56.000Z</updated>
+        <summary type="html"><![CDATA[<em>Ambulance</em> Is Classic Michael Bay Mayhem]]></summary>
+        <author>
+            <name>David Sims</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什么主义总是一件坏事吗？]]></title>
         <id>https://www.currentaffairs.org/2022/03/is-whataboutism-always-a-bad-thing/</id>
@@ -6599,17 +6610,6 @@
         <link href="https://blackgnu.net/on-blockchain.html"/>
         <updated>2022-01-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[On blockchain and Web3]]></summary>
-        <author>
-            <name>Werwolf</name>
-            <uri>https://blackgnu.net/atom.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[博客更新]]></title>
-        <id>https://blackgnu.net/blog-update.html</id>
-        <link href="https://blackgnu.net/blog-update.html"/>
-        <updated>2022-02-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Blog update]]></summary>
         <author>
             <name>Werwolf</name>
             <uri>https://blackgnu.net/atom.xml</uri>
