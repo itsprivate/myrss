@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/10/business/media/warner-bros-discovery.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/10/business/media/warner-bros-discovery.html",
+            "title": "華納兄弟開啟新時代，迴歸娛樂本源",
+            "summary": "New Era Begins at Warner Bros., Back Toward Its Entertainment Roots",
+            "date_modified": "2022-04-10T22:01:07.000Z",
+            "author": {
+                "name": "Brooks Barnes",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/10/us/politics/crypto-industry-states-legislation.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/10/us/politics/crypto-industry-states-legislation.html",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Jeffrey Selingo",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.currentaffairs.org/2022/02/trillions-and-trillions-the-selective-blindness-on-endless-economic-growth/",
-            "content_html": "",
-            "url": "https://www.currentaffairs.org/2022/02/trillions-and-trillions-the-selective-blindness-on-endless-economic-growth/",
-            "title": "萬億和萬億。對無盡經濟增長的選擇性失明",
-            "summary": "Trillions and Trillions: The Selective Blindness on Endless Economic Growth",
-            "date_modified": "2022-02-21T12:47:43.000Z",
-            "author": {
-                "name": "Rob Larson",
-                "url": "https://www.currentaffairs.org/feed"
             }
         }
     ]
