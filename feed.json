@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/10/us/politics/crypto-industry-states-legislation.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/10/us/politics/crypto-industry-states-legislation.html",
+            "title": "加密货币行业帮助撰写并通过其在州议会的议程",
+            "summary": "Crypto Industry Helps Write, and Pass, Its Own Agenda in State Capitols",
+            "date_modified": "2022-04-10T21:35:27.000Z",
+            "author": {
+                "name": "Eric Lipton and David Yaffe-Bellany",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/10/us/politics/crypto-industry-helps-write-and-pass-its-own-agenda-in-state-capitols.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/10/us/politics/crypto-industry-helps-write-and-pass-its-own-agenda-in-state-capitols.html",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-02-21T12:47:43.000Z",
             "author": {
                 "name": "Rob Larson",
-                "url": "https://www.currentaffairs.org/feed"
-            }
-        },
-        {
-            "id": "https://www.currentaffairs.org/2022/02/the-afterlives-of-che/",
-            "content_html": "",
-            "url": "https://www.currentaffairs.org/2022/02/the-afterlives-of-che/",
-            "title": "切的后遗症》（The Afterlives of Che",
-            "summary": "The Afterlives of Che",
-            "date_modified": "2022-02-23T16:53:56.000Z",
-            "author": {
-                "name": "Peter Taylor",
                 "url": "https://www.currentaffairs.org/feed"
             }
         }
