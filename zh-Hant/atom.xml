@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-10T17:21:48.772Z</updated>
+    <updated>2022-04-10T21:13:01.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[加密貨幣行業幫助撰寫並通過其在州議會的議程]]></title>
+        <id>https://www.nytimes.com/2022/04/10/us/politics/crypto-industry-helps-write-and-pass-its-own-agenda-in-state-capitols.html</id>
+        <link href="https://www.nytimes.com/2022/04/10/us/politics/crypto-industry-helps-write-and-pass-its-own-agenda-in-state-capitols.html"/>
+        <updated>2022-04-10T20:48:47.000Z</updated>
+        <summary type="html"><![CDATA[Crypto Industry Helps Write, and Pass, Its Own Agenda in State Capitols]]></summary>
+        <author>
+            <name>Eric Lipton and David Yaffe-Bellany</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<em>SNL</em>對凱坦吉-布朗-傑克遜的悽美慶祝偷走了演出的機會]]></title>
         <id>https://www.theatlantic.com/culture/archive/2022/04/saturday-night-live-ketanji-brown-jackson-jake-gyllenhaal/629528/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[The Afterlives of Che]]></summary>
         <author>
             <name>Peter Taylor</name>
-            <uri>https://www.currentaffairs.org/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼獲得律師服務的權利如此重要]]></title>
-        <id>https://www.currentaffairs.org/2022/02/why-the-right-to-counsel-is-so-important/</id>
-        <link href="https://www.currentaffairs.org/2022/02/why-the-right-to-counsel-is-so-important/"/>
-        <updated>2022-02-25T00:41:18.000Z</updated>
-        <summary type="html"><![CDATA[Why the Right to Counsel Is So Important]]></summary>
-        <author>
-            <name>Current Affairs</name>
             <uri>https://www.currentaffairs.org/feed</uri>
         </author>
     </entry>
