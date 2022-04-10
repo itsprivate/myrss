@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-10T07:38:22.880Z</updated>
+    <updated>2022-04-10T10:13:39.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个被遗忘的基础设施如何成为公民自豪的象征]]></title>
+        <id>https://www.newyorker.com/news/us-journal/how-a-forgotten-bit-of-infrastructure-became-a-symbol-of-civic-pride</id>
+        <link href="https://www.newyorker.com/news/us-journal/how-a-forgotten-bit-of-infrastructure-became-a-symbol-of-civic-pride"/>
+        <updated>2022-04-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How a Forgotten Bit of Infrastructure Became a Symbol of Civic Pride]]></summary>
+        <author>
+            <name>Casey Cep</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[密码字谜：2022年4月10日，星期日]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/04/10</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/04/10"/>
+        <updated>2022-04-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Cryptic Crossword: Sunday, April 10, 2022]]></summary>
+        <author>
+            <name>Emily Cox, Henry Rathvon</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一些对话的杀手锏]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/some-conversation-killers</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/some-conversation-killers"/>
+        <updated>2022-04-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Some Conversation Killers]]></summary>
+        <author>
+            <name>Marissa Maciel, Fiona Taylor</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[海洋之光仍在学习]]></title>
+        <id>https://www.newyorker.com/culture/the-new-yorker-interview/ocean-vuong-is-still-learning</id>
+        <link href="https://www.newyorker.com/culture/the-new-yorker-interview/ocean-vuong-is-still-learning"/>
+        <updated>2022-04-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ocean Vuong Is Still Learning]]></summary>
+        <author>
+            <name>Hua Hsu</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[星期日阅读。城市里的春天]]></title>
+        <id>https://www.newyorker.com/books/double-take/sunday-reading-springtime-in-the-city</id>
+        <link href="https://www.newyorker.com/books/double-take/sunday-reading-springtime-in-the-city"/>
+        <updated>2022-04-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sunday Reading: Springtime in the City]]></summary>
+        <author>
+            <name>The New Yorker</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国生产力放缓的五个原因]]></title>
         <id>https://noahpinion.substack.com/p/five-reasons-chinas-productivity</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>Nathan J. Robinson</name>
             <uri>https://www.currentaffairs.org/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卡特琳娜-范登赫维尔谈俄罗斯、乌克兰和核化世界中的外交需要]]></title>
-        <id>https://www.currentaffairs.org/2022/03/katrina-vanden-heuvel-on-russia-ukraine-and-the-need-for-diplomacy-in-a-nuclearized-world/</id>
-        <link href="https://www.currentaffairs.org/2022/03/katrina-vanden-heuvel-on-russia-ukraine-and-the-need-for-diplomacy-in-a-nuclearized-world/"/>
-        <updated>2022-03-08T21:20:35.000Z</updated>
-        <summary type="html"><![CDATA[Katrina vanden Heuvel on Russia, Ukraine, and the Need for Diplomacy in a Nuclearized World]]></summary>
-        <author>
-            <name>Current Affairs</name>
-            <uri>https://www.currentaffairs.org/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鼠药。杀死老鼠]]></title>
-        <id>https://blackgnu.net/ratpoison.html</id>
-        <link href="https://blackgnu.net/ratpoison.html"/>
-        <updated>2021-04-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ratpoison: Kill the rat]]></summary>
-        <author>
-            <name>Werwolf</name>
-            <uri>https://blackgnu.net/atom.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你不需要一台新电脑]]></title>
-        <id>https://blackgnu.net/you-dont-need-a-new-computer.html</id>
-        <link href="https://blackgnu.net/you-dont-need-a-new-computer.html"/>
-        <updated>2021-04-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[You don't need a new computer]]></summary>
-        <author>
-            <name>Werwolf</name>
-            <uri>https://blackgnu.net/atom.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Systemd，一个你应该避免的烂东西]]></title>
-        <id>https://blackgnu.net/systemd-sucks.html</id>
-        <link href="https://blackgnu.net/systemd-sucks.html"/>
-        <updated>2021-05-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Systemd, a piece of shit you should avoid]]></summary>
-        <author>
-            <name>Werwolf</name>
-            <uri>https://blackgnu.net/atom.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[火狐浏览器加固指南]]></title>
-        <id>https://blackgnu.net/firefox-hardening-guide.html</id>
-        <link href="https://blackgnu.net/firefox-hardening-guide.html"/>
-        <updated>2021-05-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Firefox Hardening Guide]]></summary>
-        <author>
-            <name>Werwolf</name>
-            <uri>https://blackgnu.net/atom.xml</uri>
         </author>
     </entry>
 </feed>
