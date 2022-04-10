@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://astralcodexten.substack.com/p/spring-meetups-in-seventy-cities",
+            "content_html": "",
+            "url": "https://astralcodexten.substack.com/p/spring-meetups-in-seventy-cities",
+            "title": "七十个城市的春季聚会",
+            "summary": "Spring Meetups In Seventy Cities",
+            "date_modified": "2022-04-10T23:35:55.000Z",
+            "author": {
+                "name": "mingyuan",
+                "url": "https://astralcodexten.substack.com/feed"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/10/business/media/warner-bros-discovery.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/10/business/media/warner-bros-discovery.html",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Mickey Butts",
                 "url": "https://www.currentaffairs.org/feed"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/03/change-college-acceptance-application-process/627581/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/03/change-college-acceptance-application-process/627581/?utm_source=feed",
-            "title": "高校可以修复他们创造的破碎的录取过程",
-            "summary": "Colleges Can Fix the Broken Admissions Process They Created",
-            "date_modified": "2022-03-23T11:31:56.000Z",
-            "author": {
-                "name": "Jeffrey Selingo",
-                "url": "https://www.theatlantic.com/feed/all/"
             }
         }
     ]

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-10T22:13:50.807Z</updated>
+    <updated>2022-04-10T23:51:33.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[七十个城市的春季聚会]]></title>
+        <id>https://astralcodexten.substack.com/p/spring-meetups-in-seventy-cities</id>
+        <link href="https://astralcodexten.substack.com/p/spring-meetups-in-seventy-cities"/>
+        <updated>2022-04-10T23:35:55.000Z</updated>
+        <summary type="html"><![CDATA[Spring Meetups In Seventy Cities]]></summary>
+        <author>
+            <name>mingyuan</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[华纳兄弟开启新时代，回归娱乐本源]]></title>
         <id>https://www.nytimes.com/2022/04/10/business/media/warner-bros-discovery.html</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Mickey Butts</name>
             <uri>https://www.currentaffairs.org/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高校可以修复他们创造的破碎的录取过程]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/change-college-acceptance-application-process/627581/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/change-college-acceptance-application-process/627581/?utm_source=feed"/>
-        <updated>2022-03-23T11:31:56.000Z</updated>
-        <summary type="html"><![CDATA[Colleges Can Fix the Broken Admissions Process They Created]]></summary>
-        <author>
-            <name>Jeffrey Selingo</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
