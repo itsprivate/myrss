@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sun, 10 Apr 2022 10:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 10:34:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[美国需要一项拉美政策]]></title>
+            <link>https://noahpinion.substack.com/p/the-us-needs-a-latin-america-policy</link>
+            <guid>https://noahpinion.substack.com/p/the-us-needs-a-latin-america-policy</guid>
+            <pubDate>Fri, 18 Mar 2022 07:42:01 GMT</pubDate>
+            <description><![CDATA[The U.S. needs a Latin America policy]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我们如何能配得上乌克兰]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-america-democracy-russification/629521/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-america-democracy-russification/629521/?utm_source=feed</guid>
+            <pubDate>Sun, 10 Apr 2022 10:00:56 GMT</pubDate>
+            <description><![CDATA[How We Can Be Worthy of Ukraine]]></description>
+        </item>
         <item>
             <title><![CDATA[一个被遗忘的基础设施如何成为公民自豪的象征]]></title>
             <link>https://www.newyorker.com/news/us-journal/how-a-forgotten-bit-of-infrastructure-became-a-symbol-of-civic-pride</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.currentaffairs.org/2022/03/randall-kennedy-on-why-critical-race-theory-is-important/</guid>
             <pubDate>Wed, 02 Mar 2022 20:38:36 GMT</pubDate>
             <description><![CDATA[Randall Kennedy on Why Critical Race Theory is Important]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们能否就俄罗斯问题进行一次明智的成人对话？]]></title>
-            <link>https://www.currentaffairs.org/2022/03/can-we-have-an-intelligent-adult-conversation-about-russia/</link>
-            <guid>https://www.currentaffairs.org/2022/03/can-we-have-an-intelligent-adult-conversation-about-russia/</guid>
-            <pubDate>Fri, 04 Mar 2022 23:43:25 GMT</pubDate>
-            <description><![CDATA[Can We Have an Intelligent Adult Conversation About Russia?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[认真对待第三次世界大战]]></title>
-            <link>https://www.currentaffairs.org/2022/03/taking-world-war-iii-seriously/</link>
-            <guid>https://www.currentaffairs.org/2022/03/taking-world-war-iii-seriously/</guid>
-            <pubDate>Mon, 07 Mar 2022 13:48:24 GMT</pubDate>
-            <description><![CDATA[Taking World War III Seriously]]></description>
         </item>
     </channel>
 </rss>
