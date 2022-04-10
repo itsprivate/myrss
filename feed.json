@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://noahpinion.substack.com/p/five-reasons-chinas-productivity",
+            "content_html": "",
+            "url": "https://noahpinion.substack.com/p/five-reasons-chinas-productivity",
+            "title": "中国生产力放缓的五个原因",
+            "summary": "Five reasons China's productivity slowed down",
+            "date_modified": "2022-04-10T07:33:11.000Z",
+            "author": {
+                "name": "Noah Smith",
+                "url": "https://noahpinion.substack.com/feed"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/magazine/2022/04/18/the-ketanji-brown-jackson-hearings-may-be-only-the-beginning",
             "content_html": "",
             "url": "https://www.newyorker.com/magazine/2022/04/18/the-ketanji-brown-jackson-hearings-may-be-only-the-beginning",
@@ -7193,18 +7205,6 @@
             "title": "火狐浏览器加固指南",
             "summary": "Firefox Hardening Guide",
             "date_modified": "2021-05-25T00:00:00.000Z",
-            "author": {
-                "name": "Werwolf",
-                "url": "https://blackgnu.net/atom.xml"
-            }
-        },
-        {
-            "id": "https://blackgnu.net/brave-is-shit.html",
-            "content_html": "",
-            "url": "https://blackgnu.net/brave-is-shit.html",
-            "title": "勇敢的，虚假的隐私感觉",
-            "summary": "Brave, the false sensation of privacy",
-            "date_modified": "2021-06-08T00:00:00.000Z",
             "author": {
                 "name": "Werwolf",
                 "url": "https://blackgnu.net/atom.xml"
