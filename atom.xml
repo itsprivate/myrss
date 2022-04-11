@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-11T14:53:04.242Z</updated>
+    <updated>2022-04-11T16:18:54.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每日漫画。4月11日，星期一]]></title>
+        <id>https://www.newyorker.com/cartoons/daily-cartoon/monday-april-11th-procrastination-taxes</id>
+        <link href="https://www.newyorker.com/cartoons/daily-cartoon/monday-april-11th-procrastination-taxes"/>
+        <updated>2022-04-11T15:57:08.000Z</updated>
+        <summary type="html"><![CDATA[Daily Cartoon: Monday, April 11th]]></summary>
+        <author>
+            <name>Brooke Bourgeois</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[房屋所有权如何改变你]]></title>
         <id>https://www.theatlantic.com/family/archive/2022/04/homeownership-first-house-happiness-psychology/629529/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[<em>The Atlantic</em> Daily: When a Confirmation Hearing Is a Chance to Settle Scores]]></summary>
         <author>
             <name>Caroline Mimbs Nyce</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[他们的首要任务只是逃离和生存]]></title>
-        <id>https://www.theatlantic.com/health/archive/2022/03/ukraine-crisis-pandemic-outbreak/629379/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/health/archive/2022/03/ukraine-crisis-pandemic-outbreak/629379/?utm_source=feed"/>
-        <updated>2022-03-25T17:06:56.000Z</updated>
-        <summary type="html"><![CDATA[‘Their Priority Is Just to Flee and Survive’]]></summary>
-        <author>
-            <name>Jacob Stern</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
