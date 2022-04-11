@@ -11,6 +11,78 @@
     },
     "items": [
         {
+            "id": "https://www.davidhaney.io/lets-talk-about-rock-stars-egos/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/lets-talk-about-rock-stars-egos/",
+            "title": "让我们来谈谈摇滚明星和自负的问题",
+            "summary": "Let's Talk About Rock Stars & Egos",
+            "date_modified": "2016-06-17T17:02:13.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/our-industry-needs-compassion/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/our-industry-needs-compassion/",
+            "title": "我们的行业需要同情心",
+            "summary": "Our Industry Needs Compassion",
+            "date_modified": "2017-01-03T12:37:39.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/custom-asp-net-mvc-action-result-cache-attribute/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/custom-asp-net-mvc-action-result-cache-attribute/",
+            "title": "自定义ASP.NET MVC动作结果缓存属性",
+            "summary": "Custom ASP.NET MVC Action Result Cache Attribute",
+            "date_modified": "2017-01-10T09:07:15.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/dev-team-interactions-accountability-blame/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/dev-team-interactions-accountability-blame/",
+            "title": "开发团队的互动。责任与指责",
+            "summary": "Dev Team Interactions: Accountability & Blame",
+            "date_modified": "2017-01-20T13:20:59.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/dev-team-interactions-conducting-good-code-reviews/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/dev-team-interactions-conducting-good-code-reviews/",
+            "title": "开发团队的互动。进行良好的代码审查",
+            "summary": "Dev Team Interactions: Conducting Good Code Reviews",
+            "date_modified": "2017-01-27T10:03:20.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/gitlab-data-loss-a-discussion/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/gitlab-data-loss-a-discussion/",
+            "title": "GitLab数据丢失：一个讨论",
+            "summary": "GitLab Data Loss: A Discussion",
+            "date_modified": "2017-02-02T11:33:02.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/magazine/2022/04/18/the-people-who-decide-what-becomes-history-richard-cohen-making-history",
             "content_html": "",
             "url": "https://www.newyorker.com/magazine/2022/04/18/the-people-who-decide-what-becomes-history-richard-cohen-making-history",
@@ -7135,78 +7207,6 @@
             "date_modified": "2022-03-24T16:43:38.000Z",
             "author": {
                 "name": "Elliot Ackerman",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/24/business/uber-new-york-taxis.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/24/business/uber-new-york-taxis.html",
-            "title": "Uber与纽约市的黄色出租车公司合作",
-            "summary": "Uber Partners With Yellow Taxi Companies in N.Y.C.",
-            "date_modified": "2022-03-24T15:20:16.000Z",
-            "author": {
-                "name": "Winnie Hu and Brian Rosenthal",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/24/business/amazon-meetings-union-elections.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/24/business/amazon-meetings-union-elections.html",
-            "title": "亚马逊是如何在即将到来的两次选举中抵制工会的？",
-            "summary": "How Amazon Is Resisting Unions in Two Upcoming Elections",
-            "date_modified": "2022-03-24T09:00:32.000Z",
-            "author": {
-                "name": "Noam Scheiber",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/cartoons/daily-cartoon/thursday-march-24th-what-is-an-outfit",
-            "content_html": "",
-            "url": "https://www.newyorker.com/cartoons/daily-cartoon/thursday-march-24th-what-is-an-outfit",
-            "title": "每日漫画。3月24日，星期四",
-            "summary": "Daily Cartoon: Thursday, March 24th",
-            "date_modified": "2022-03-24T14:17:12.000Z",
-            "author": {
-                "name": "Zoe Si",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/family/archive/2022/03/russia-destruction-kyiv-ukraine-freedom/627603/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/family/archive/2022/03/russia-destruction-kyiv-ukraine-freedom/627603/?utm_source=feed",
-            "title": "我为什么要呆在基辅",
-            "summary": "Why I’m Staying in Kyiv",
-            "date_modified": "2022-03-24T14:22:15.000Z",
-            "author": {
-                "name": "Veronika Melkozerova",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/24/science/symmetry-biology-evolution.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/24/science/symmetry-biology-evolution.html",
-            "title": "生命对对称性的偏爱就像 \"新的自然法则",
-            "summary": "Life’s Preference for Symmetry Is Like ‘A New Law of Nature’",
-            "date_modified": "2022-03-24T14:22:43.000Z",
-            "author": {
-                "name": "Kate Golembiewski",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/newsletters/archive/2022/03/america-cdc-covid-strategy-next-variant/627602/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/newsletters/archive/2022/03/america-cdc-covid-strategy-next-variant/627602/?utm_source=feed",
-            "title": "<em>《大西洋》</em>日报。美国守株待兔的COVID战略正在接受首次测试",
-            "summary": "<em>The Atlantic</em> Daily: America’s Watch-and-Wait COVID Strategy Is Getting Its First Test",
-            "date_modified": "2022-03-24T14:12:24.000Z",
-            "author": {
-                "name": "Caroline Mimbs Nyce",
                 "url": "https://www.theatlantic.com/feed/all/"
             }
         }

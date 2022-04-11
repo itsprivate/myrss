@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 11 Apr 2022 11:31:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 11:40:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,48 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[讓我們來談談搖滾明星和自負的問題]]></title>
+            <link>https://www.davidhaney.io/lets-talk-about-rock-stars-egos/</link>
+            <guid>https://www.davidhaney.io/lets-talk-about-rock-stars-egos/</guid>
+            <pubDate>Fri, 17 Jun 2016 17:02:13 GMT</pubDate>
+            <description><![CDATA[Let's Talk About Rock Stars & Egos]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我們的行業需要同情心]]></title>
+            <link>https://www.davidhaney.io/our-industry-needs-compassion/</link>
+            <guid>https://www.davidhaney.io/our-industry-needs-compassion/</guid>
+            <pubDate>Tue, 03 Jan 2017 12:37:39 GMT</pubDate>
+            <description><![CDATA[Our Industry Needs Compassion]]></description>
+        </item>
+        <item>
+            <title><![CDATA[自定義ASP.NET MVC動作結果緩存屬性]]></title>
+            <link>https://www.davidhaney.io/custom-asp-net-mvc-action-result-cache-attribute/</link>
+            <guid>https://www.davidhaney.io/custom-asp-net-mvc-action-result-cache-attribute/</guid>
+            <pubDate>Tue, 10 Jan 2017 09:07:15 GMT</pubDate>
+            <description><![CDATA[Custom ASP.NET MVC Action Result Cache Attribute]]></description>
+        </item>
+        <item>
+            <title><![CDATA[開發團隊的互動。責任與指責]]></title>
+            <link>https://www.davidhaney.io/dev-team-interactions-accountability-blame/</link>
+            <guid>https://www.davidhaney.io/dev-team-interactions-accountability-blame/</guid>
+            <pubDate>Fri, 20 Jan 2017 13:20:59 GMT</pubDate>
+            <description><![CDATA[Dev Team Interactions: Accountability & Blame]]></description>
+        </item>
+        <item>
+            <title><![CDATA[開發團隊的互動。進行良好的代碼審查]]></title>
+            <link>https://www.davidhaney.io/dev-team-interactions-conducting-good-code-reviews/</link>
+            <guid>https://www.davidhaney.io/dev-team-interactions-conducting-good-code-reviews/</guid>
+            <pubDate>Fri, 27 Jan 2017 10:03:20 GMT</pubDate>
+            <description><![CDATA[Dev Team Interactions: Conducting Good Code Reviews]]></description>
+        </item>
+        <item>
+            <title><![CDATA[GitLab數據丟失：一個討論]]></title>
+            <link>https://www.davidhaney.io/gitlab-data-loss-a-discussion/</link>
+            <guid>https://www.davidhaney.io/gitlab-data-loss-a-discussion/</guid>
+            <pubDate>Thu, 02 Feb 2017 11:33:02 GMT</pubDate>
+            <description><![CDATA[GitLab Data Loss: A Discussion]]></description>
+        </item>
         <item>
             <title><![CDATA[決定什麼成為歷史的人]]></title>
             <link>https://www.newyorker.com/magazine/2022/04/18/the-people-who-decide-what-becomes-history-richard-cohen-making-history</link>
@@ -4171,48 +4213,6 @@
             <guid>https://www.theatlantic.com/ideas/archive/2022/03/american-volunteer-foreign-fighters-ukraine-russia-war/627604/?utm_source=feed</guid>
             <pubDate>Thu, 24 Mar 2022 16:43:38 GMT</pubDate>
             <description><![CDATA[Ukraine’s Three-to-One Advantage]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Uber與紐約市的黃色出租車公司合作]]></title>
-            <link>https://www.nytimes.com/2022/03/24/business/uber-new-york-taxis.html</link>
-            <guid>https://www.nytimes.com/2022/03/24/business/uber-new-york-taxis.html</guid>
-            <pubDate>Thu, 24 Mar 2022 15:20:16 GMT</pubDate>
-            <description><![CDATA[Uber Partners With Yellow Taxi Companies in N.Y.C.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[亞馬遜是如何在即將到來的兩次選舉中抵制工會的？]]></title>
-            <link>https://www.nytimes.com/2022/03/24/business/amazon-meetings-union-elections.html</link>
-            <guid>https://www.nytimes.com/2022/03/24/business/amazon-meetings-union-elections.html</guid>
-            <pubDate>Thu, 24 Mar 2022 09:00:32 GMT</pubDate>
-            <description><![CDATA[How Amazon Is Resisting Unions in Two Upcoming Elections]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日漫畫。3月24日，星期四]]></title>
-            <link>https://www.newyorker.com/cartoons/daily-cartoon/thursday-march-24th-what-is-an-outfit</link>
-            <guid>https://www.newyorker.com/cartoons/daily-cartoon/thursday-march-24th-what-is-an-outfit</guid>
-            <pubDate>Thu, 24 Mar 2022 14:17:12 GMT</pubDate>
-            <description><![CDATA[Daily Cartoon: Thursday, March 24th]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我為什麼要呆在基輔]]></title>
-            <link>https://www.theatlantic.com/family/archive/2022/03/russia-destruction-kyiv-ukraine-freedom/627603/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/family/archive/2022/03/russia-destruction-kyiv-ukraine-freedom/627603/?utm_source=feed</guid>
-            <pubDate>Thu, 24 Mar 2022 14:22:15 GMT</pubDate>
-            <description><![CDATA[Why I’m Staying in Kyiv]]></description>
-        </item>
-        <item>
-            <title><![CDATA[生命對對稱性的偏愛就像 "新的自然法則]]></title>
-            <link>https://www.nytimes.com/2022/03/24/science/symmetry-biology-evolution.html</link>
-            <guid>https://www.nytimes.com/2022/03/24/science/symmetry-biology-evolution.html</guid>
-            <pubDate>Thu, 24 Mar 2022 14:22:43 GMT</pubDate>
-            <description><![CDATA[Life’s Preference for Symmetry Is Like ‘A New Law of Nature’]]></description>
-        </item>
-        <item>
-            <title><![CDATA[<em>《大西洋》</em>日報。美國守株待兔的COVID戰略正在接受首次測試]]></title>
-            <link>https://www.theatlantic.com/newsletters/archive/2022/03/america-cdc-covid-strategy-next-variant/627602/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/newsletters/archive/2022/03/america-cdc-covid-strategy-next-variant/627602/?utm_source=feed</guid>
-            <pubDate>Thu, 24 Mar 2022 14:12:24 GMT</pubDate>
-            <description><![CDATA[<em>The Atlantic</em> Daily: America’s Watch-and-Wait COVID Strategy Is Getting Its First Test]]></description>
         </item>
     </channel>
 </rss>

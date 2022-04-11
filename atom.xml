@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-11T11:31:23.139Z</updated>
+    <updated>2022-04-11T11:40:24.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[让我们来谈谈摇滚明星和自负的问题]]></title>
+        <id>https://www.davidhaney.io/lets-talk-about-rock-stars-egos/</id>
+        <link href="https://www.davidhaney.io/lets-talk-about-rock-stars-egos/"/>
+        <updated>2016-06-17T17:02:13.000Z</updated>
+        <summary type="html"><![CDATA[Let's Talk About Rock Stars & Egos]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们的行业需要同情心]]></title>
+        <id>https://www.davidhaney.io/our-industry-needs-compassion/</id>
+        <link href="https://www.davidhaney.io/our-industry-needs-compassion/"/>
+        <updated>2017-01-03T12:37:39.000Z</updated>
+        <summary type="html"><![CDATA[Our Industry Needs Compassion]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自定义ASP.NET MVC动作结果缓存属性]]></title>
+        <id>https://www.davidhaney.io/custom-asp-net-mvc-action-result-cache-attribute/</id>
+        <link href="https://www.davidhaney.io/custom-asp-net-mvc-action-result-cache-attribute/"/>
+        <updated>2017-01-10T09:07:15.000Z</updated>
+        <summary type="html"><![CDATA[Custom ASP.NET MVC Action Result Cache Attribute]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开发团队的互动。责任与指责]]></title>
+        <id>https://www.davidhaney.io/dev-team-interactions-accountability-blame/</id>
+        <link href="https://www.davidhaney.io/dev-team-interactions-accountability-blame/"/>
+        <updated>2017-01-20T13:20:59.000Z</updated>
+        <summary type="html"><![CDATA[Dev Team Interactions: Accountability & Blame]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开发团队的互动。进行良好的代码审查]]></title>
+        <id>https://www.davidhaney.io/dev-team-interactions-conducting-good-code-reviews/</id>
+        <link href="https://www.davidhaney.io/dev-team-interactions-conducting-good-code-reviews/"/>
+        <updated>2017-01-27T10:03:20.000Z</updated>
+        <summary type="html"><![CDATA[Dev Team Interactions: Conducting Good Code Reviews]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitLab数据丢失：一个讨论]]></title>
+        <id>https://www.davidhaney.io/gitlab-data-loss-a-discussion/</id>
+        <link href="https://www.davidhaney.io/gitlab-data-loss-a-discussion/"/>
+        <updated>2017-02-02T11:33:02.000Z</updated>
+        <summary type="html"><![CDATA[GitLab Data Loss: A Discussion]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[决定什么成为历史的人]]></title>
         <id>https://www.newyorker.com/magazine/2022/04/18/the-people-who-decide-what-becomes-history-richard-cohen-making-history</id>
@@ -6546,72 +6612,6 @@
         <summary type="html"><![CDATA[Ukraine’s Three-to-One Advantage]]></summary>
         <author>
             <name>Elliot Ackerman</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uber与纽约市的黄色出租车公司合作]]></title>
-        <id>https://www.nytimes.com/2022/03/24/business/uber-new-york-taxis.html</id>
-        <link href="https://www.nytimes.com/2022/03/24/business/uber-new-york-taxis.html"/>
-        <updated>2022-03-24T15:20:16.000Z</updated>
-        <summary type="html"><![CDATA[Uber Partners With Yellow Taxi Companies in N.Y.C.]]></summary>
-        <author>
-            <name>Winnie Hu and Brian Rosenthal</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊是如何在即将到来的两次选举中抵制工会的？]]></title>
-        <id>https://www.nytimes.com/2022/03/24/business/amazon-meetings-union-elections.html</id>
-        <link href="https://www.nytimes.com/2022/03/24/business/amazon-meetings-union-elections.html"/>
-        <updated>2022-03-24T09:00:32.000Z</updated>
-        <summary type="html"><![CDATA[How Amazon Is Resisting Unions in Two Upcoming Elections]]></summary>
-        <author>
-            <name>Noam Scheiber</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日漫画。3月24日，星期四]]></title>
-        <id>https://www.newyorker.com/cartoons/daily-cartoon/thursday-march-24th-what-is-an-outfit</id>
-        <link href="https://www.newyorker.com/cartoons/daily-cartoon/thursday-march-24th-what-is-an-outfit"/>
-        <updated>2022-03-24T14:17:12.000Z</updated>
-        <summary type="html"><![CDATA[Daily Cartoon: Thursday, March 24th]]></summary>
-        <author>
-            <name>Zoe Si</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我为什么要呆在基辅]]></title>
-        <id>https://www.theatlantic.com/family/archive/2022/03/russia-destruction-kyiv-ukraine-freedom/627603/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/family/archive/2022/03/russia-destruction-kyiv-ukraine-freedom/627603/?utm_source=feed"/>
-        <updated>2022-03-24T14:22:15.000Z</updated>
-        <summary type="html"><![CDATA[Why I’m Staying in Kyiv]]></summary>
-        <author>
-            <name>Veronika Melkozerova</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生命对对称性的偏爱就像 "新的自然法则]]></title>
-        <id>https://www.nytimes.com/2022/03/24/science/symmetry-biology-evolution.html</id>
-        <link href="https://www.nytimes.com/2022/03/24/science/symmetry-biology-evolution.html"/>
-        <updated>2022-03-24T14:22:43.000Z</updated>
-        <summary type="html"><![CDATA[Life’s Preference for Symmetry Is Like ‘A New Law of Nature’]]></summary>
-        <author>
-            <name>Kate Golembiewski</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<em>《大西洋》</em>日报。美国守株待兔的COVID战略正在接受首次测试]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2022/03/america-cdc-covid-strategy-next-variant/627602/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/america-cdc-covid-strategy-next-variant/627602/?utm_source=feed"/>
-        <updated>2022-03-24T14:12:24.000Z</updated>
-        <summary type="html"><![CDATA[<em>The Atlantic</em> Daily: America’s Watch-and-Wait COVID Strategy Is Getting Its First Test]]></summary>
-        <author>
-            <name>Caroline Mimbs Nyce</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
