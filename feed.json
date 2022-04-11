@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/11/technology/china-russia-propaganda.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/11/technology/china-russia-propaganda.html",
+            "title": "中国对俄罗斯的另类现实的回声在全球范围内愈演愈烈",
+            "summary": "China’s Echoes of Russia’s Alternate Reality Intensify Around the World",
+            "date_modified": "2022-04-11T09:00:24.000Z",
+            "author": {
+                "name": "Paul Mozur, Steven Lee Myers and John Liu",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://noahpinion.substack.com/p/the-two-paper-rule",
             "content_html": "",
             "url": "https://noahpinion.substack.com/p/the-two-paper-rule",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Brian X. Chen",
                 "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/science/archive/2022/03/sec-climate-rule-greenwashing/627588/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/science/archive/2022/03/sec-climate-rule-greenwashing/627588/?utm_source=feed",
-            "title": "美国公司不能再掩饰其碳污染了",
-            "summary": "American Companies Can’t Sugarcoat Their Carbon Pollution Anymore",
-            "date_modified": "2022-03-23T13:01:37.000Z",
-            "author": {
-                "name": "Robinson Meyer",
-                "url": "https://www.theatlantic.com/feed/all/"
             }
         }
     ]

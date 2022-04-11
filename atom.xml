@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-11T06:18:49.299Z</updated>
+    <updated>2022-04-11T09:13:12.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[中国对俄罗斯的另类现实的回声在全球范围内愈演愈烈]]></title>
+        <id>https://www.nytimes.com/2022/04/11/technology/china-russia-propaganda.html</id>
+        <link href="https://www.nytimes.com/2022/04/11/technology/china-russia-propaganda.html"/>
+        <updated>2022-04-11T09:00:24.000Z</updated>
+        <summary type="html"><![CDATA[China’s Echoes of Russia’s Alternate Reality Intensify Around the World]]></summary>
+        <author>
+            <name>Paul Mozur, Steven Lee Myers and John Liu</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[两张纸规则]]></title>
         <id>https://noahpinion.substack.com/p/the-two-paper-rule</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Brian X. Chen</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国公司不能再掩饰其碳污染了]]></title>
-        <id>https://www.theatlantic.com/science/archive/2022/03/sec-climate-rule-greenwashing/627588/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/science/archive/2022/03/sec-climate-rule-greenwashing/627588/?utm_source=feed"/>
-        <updated>2022-03-23T13:01:37.000Z</updated>
-        <summary type="html"><![CDATA[American Companies Can’t Sugarcoat Their Carbon Pollution Anymore]]></summary>
-        <author>
-            <name>Robinson Meyer</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>

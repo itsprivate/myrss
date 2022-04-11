@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 11 Apr 2022 06:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 09:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[中國對俄羅斯的另類現實的回聲在全球範圍內愈演愈烈]]></title>
+            <link>https://www.nytimes.com/2022/04/11/technology/china-russia-propaganda.html</link>
+            <guid>https://www.nytimes.com/2022/04/11/technology/china-russia-propaganda.html</guid>
+            <pubDate>Mon, 11 Apr 2022 09:00:24 GMT</pubDate>
+            <description><![CDATA[China’s Echoes of Russia’s Alternate Reality Intensify Around the World]]></description>
+        </item>
         <item>
             <title><![CDATA[兩張紙規則]]></title>
             <link>https://noahpinion.substack.com/p/the-two-paper-rule</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.nytimes.com/2022/03/23/technology/personaltech/tech-survive-obsolescence.html</guid>
             <pubDate>Wed, 23 Mar 2022 13:00:12 GMT</pubDate>
             <description><![CDATA[Yes, You Can Make Your Tech Survive Obsolescence]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美國公司不能再掩飾其碳汙染了]]></title>
-            <link>https://www.theatlantic.com/science/archive/2022/03/sec-climate-rule-greenwashing/627588/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/science/archive/2022/03/sec-climate-rule-greenwashing/627588/?utm_source=feed</guid>
-            <pubDate>Wed, 23 Mar 2022 13:01:37 GMT</pubDate>
-            <description><![CDATA[American Companies Can’t Sugarcoat Their Carbon Pollution Anymore]]></description>
         </item>
     </channel>
 </rss>
