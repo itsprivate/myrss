@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-11T11:13:34.341Z</updated>
+    <updated>2022-04-11T11:31:23.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[決定什麼成為歷史的人]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/18/the-people-who-decide-what-becomes-history-richard-cohen-making-history</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/18/the-people-who-decide-what-becomes-history-richard-cohen-making-history"/>
+        <updated>2022-04-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The People Who Decide What Becomes History]]></summary>
+        <author>
+            <name>Louis Menand</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於招聘。開發人員就像股票一樣]]></title>
+        <id>https://www.davidhaney.io/on-hiring-developers-are-like-stocks/</id>
+        <link href="https://www.davidhaney.io/on-hiring-developers-are-like-stocks/"/>
+        <updated>2017-02-10T11:11:30.000Z</updated>
+        <summary type="html"><![CDATA[On Hiring: Developers Are Like Stocks]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新博客與招聘需求]]></title>
+        <id>https://www.davidhaney.io/new-blog-and-hiring-needs/</id>
+        <link href="https://www.davidhaney.io/new-blog-and-hiring-needs/"/>
+        <updated>2018-06-09T17:56:24.000Z</updated>
+        <summary type="html"><![CDATA[New Blog & Hiring Needs]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[撰寫一份優秀的初級技術員履歷表]]></title>
+        <id>https://www.davidhaney.io/writing-a-great-junior-tech-resume/</id>
+        <link href="https://www.davidhaney.io/writing-a-great-junior-tech-resume/"/>
+        <updated>2018-07-24T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Writing a Great Junior Tech Résumé]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新的博客名稱和域名]]></title>
+        <id>https://www.davidhaney.io/new-blog-name-and-domain/</id>
+        <link href="https://www.davidhaney.io/new-blog-name-and-domain/"/>
+        <updated>2018-08-03T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New Blog Name and Domain]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET核心Azure函數教程]]></title>
+        <id>https://www.davidhaney.io/net-core-azure-functions-tutorial/</id>
+        <link href="https://www.davidhaney.io/net-core-azure-functions-tutorial/"/>
+        <updated>2018-11-19T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[.NET Core Azure Functions Tutorial]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安息日開始了]]></title>
         <id>https://www.davidhaney.io/sabbatical-begins/</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>Caroline Mimbs Nyce</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京沒有意識到戰爭已經發生了多大變化]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/putin-doesnt-realize-how-much-warfare-has-changed/627600/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/putin-doesnt-realize-how-much-warfare-has-changed/627600/?utm_source=feed"/>
-        <updated>2022-03-24T10:30:56.000Z</updated>
-        <summary type="html"><![CDATA[Putin Doesn’t Realize How Much Warfare Has Changed]]></summary>
-        <author>
-            <name>Antony Beevor</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[選擇享受而不是快樂]]></title>
-        <id>https://www.theatlantic.com/family/archive/2022/03/enjoyment-not-pleasure-creates-happiness/627583/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/family/archive/2022/03/enjoyment-not-pleasure-creates-happiness/627583/?utm_source=feed"/>
-        <updated>2022-03-24T10:00:58.000Z</updated>
-        <summary type="html"><![CDATA[Choose Enjoyment Over Pleasure]]></summary>
-        <author>
-            <name>Arthur C. Brooks</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有誰能解除馬喬裡-泰勒-格林的席位嗎？]]></title>
-        <id>https://www.newyorker.com/news/campaign-chronicles/can-anyone-unseat-marjorie-taylor-greene</id>
-        <link href="https://www.newyorker.com/news/campaign-chronicles/can-anyone-unseat-marjorie-taylor-greene"/>
-        <updated>2022-03-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Can Anyone Unseat Marjorie Taylor Greene?]]></summary>
-        <author>
-            <name>Charles Bethea</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如此輕鬆的駕駛]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/its-such-an-easy-drive</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/its-such-an-easy-drive"/>
-        <updated>2022-03-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s Such an Easy Drive]]></summary>
-        <author>
-            <name>Eddie Small</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個萊克斯島醫生的幻滅之路]]></title>
-        <id>https://www.newyorker.com/news/essay/the-disillusionment-of-a-rikers-island-doctor</id>
-        <link href="https://www.newyorker.com/news/essay/the-disillusionment-of-a-rikers-island-doctor"/>
-        <updated>2022-03-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Disillusionment of a Rikers Island Doctor]]></summary>
-        <author>
-            <name>Rachael Bedard</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[落名：2022年3月24日，星期四]]></title>
-        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/24</id>
-        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/24"/>
-        <updated>2022-03-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Name Drop: Thursday, March 24, 2022]]></summary>
-        <author>
-            <name>Matt Jackson</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>

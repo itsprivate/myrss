@@ -11,6 +11,78 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/magazine/2022/04/18/the-people-who-decide-what-becomes-history-richard-cohen-making-history",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/04/18/the-people-who-decide-what-becomes-history-richard-cohen-making-history",
+            "title": "決定什麼成為歷史的人",
+            "summary": "The People Who Decide What Becomes History",
+            "date_modified": "2022-04-11T10:00:00.000Z",
+            "author": {
+                "name": "Louis Menand",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/on-hiring-developers-are-like-stocks/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/on-hiring-developers-are-like-stocks/",
+            "title": "關於招聘。開發人員就像股票一樣",
+            "summary": "On Hiring: Developers Are Like Stocks",
+            "date_modified": "2017-02-10T11:11:30.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/new-blog-and-hiring-needs/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/new-blog-and-hiring-needs/",
+            "title": "新博客與招聘需求",
+            "summary": "New Blog & Hiring Needs",
+            "date_modified": "2018-06-09T17:56:24.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/writing-a-great-junior-tech-resume/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/writing-a-great-junior-tech-resume/",
+            "title": "撰寫一份優秀的初級技術員履歷表",
+            "summary": "Writing a Great Junior Tech Résumé",
+            "date_modified": "2018-07-24T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/new-blog-name-and-domain/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/new-blog-name-and-domain/",
+            "title": "新的博客名稱和域名",
+            "summary": "New Blog Name and Domain",
+            "date_modified": "2018-08-03T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/net-core-azure-functions-tutorial/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/net-core-azure-functions-tutorial/",
+            "title": ".NET核心Azure函數教程",
+            "summary": ".NET Core Azure Functions Tutorial",
+            "date_modified": "2018-11-19T05:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
             "id": "https://www.davidhaney.io/sabbatical-begins/",
             "content_html": "",
             "url": "https://www.davidhaney.io/sabbatical-begins/",
@@ -7136,78 +7208,6 @@
             "author": {
                 "name": "Caroline Mimbs Nyce",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/03/putin-doesnt-realize-how-much-warfare-has-changed/627600/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/03/putin-doesnt-realize-how-much-warfare-has-changed/627600/?utm_source=feed",
-            "title": "普京沒有意識到戰爭已經發生了多大變化",
-            "summary": "Putin Doesn’t Realize How Much Warfare Has Changed",
-            "date_modified": "2022-03-24T10:30:56.000Z",
-            "author": {
-                "name": "Antony Beevor",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/family/archive/2022/03/enjoyment-not-pleasure-creates-happiness/627583/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/family/archive/2022/03/enjoyment-not-pleasure-creates-happiness/627583/?utm_source=feed",
-            "title": "選擇享受而不是快樂",
-            "summary": "Choose Enjoyment Over Pleasure",
-            "date_modified": "2022-03-24T10:00:58.000Z",
-            "author": {
-                "name": "Arthur C. Brooks",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/campaign-chronicles/can-anyone-unseat-marjorie-taylor-greene",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/campaign-chronicles/can-anyone-unseat-marjorie-taylor-greene",
-            "title": "有誰能解除馬喬裡-泰勒-格林的席位嗎？",
-            "summary": "Can Anyone Unseat Marjorie Taylor Greene?",
-            "date_modified": "2022-03-24T10:00:00.000Z",
-            "author": {
-                "name": "Charles Bethea",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/humor/daily-shouts/its-such-an-easy-drive",
-            "content_html": "",
-            "url": "https://www.newyorker.com/humor/daily-shouts/its-such-an-easy-drive",
-            "title": "如此輕鬆的駕駛",
-            "summary": "It’s Such an Easy Drive",
-            "date_modified": "2022-03-24T10:00:00.000Z",
-            "author": {
-                "name": "Eddie Small",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/essay/the-disillusionment-of-a-rikers-island-doctor",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/essay/the-disillusionment-of-a-rikers-island-doctor",
-            "title": "一個萊克斯島醫生的幻滅之路",
-            "summary": "The Disillusionment of a Rikers Island Doctor",
-            "date_modified": "2022-03-24T10:00:00.000Z",
-            "author": {
-                "name": "Rachael Bedard",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/24",
-            "content_html": "",
-            "url": "https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/24",
-            "title": "落名：2022年3月24日，星期四",
-            "summary": "Name Drop: Thursday, March 24, 2022",
-            "date_modified": "2022-03-24T10:00:00.000Z",
-            "author": {
-                "name": "Matt Jackson",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]

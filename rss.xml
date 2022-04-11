@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 11 Apr 2022 11:13:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 11:31:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,48 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[决定什么成为历史的人]]></title>
+            <link>https://www.newyorker.com/magazine/2022/04/18/the-people-who-decide-what-becomes-history-richard-cohen-making-history</link>
+            <guid>https://www.newyorker.com/magazine/2022/04/18/the-people-who-decide-what-becomes-history-richard-cohen-making-history</guid>
+            <pubDate>Mon, 11 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The People Who Decide What Becomes History]]></description>
+        </item>
+        <item>
+            <title><![CDATA[关于招聘。开发人员就像股票一样]]></title>
+            <link>https://www.davidhaney.io/on-hiring-developers-are-like-stocks/</link>
+            <guid>https://www.davidhaney.io/on-hiring-developers-are-like-stocks/</guid>
+            <pubDate>Fri, 10 Feb 2017 11:11:30 GMT</pubDate>
+            <description><![CDATA[On Hiring: Developers Are Like Stocks]]></description>
+        </item>
+        <item>
+            <title><![CDATA[新博客与招聘需求]]></title>
+            <link>https://www.davidhaney.io/new-blog-and-hiring-needs/</link>
+            <guid>https://www.davidhaney.io/new-blog-and-hiring-needs/</guid>
+            <pubDate>Sat, 09 Jun 2018 17:56:24 GMT</pubDate>
+            <description><![CDATA[New Blog & Hiring Needs]]></description>
+        </item>
+        <item>
+            <title><![CDATA[撰写一份优秀的初级技术员履历表]]></title>
+            <link>https://www.davidhaney.io/writing-a-great-junior-tech-resume/</link>
+            <guid>https://www.davidhaney.io/writing-a-great-junior-tech-resume/</guid>
+            <pubDate>Tue, 24 Jul 2018 04:00:00 GMT</pubDate>
+            <description><![CDATA[Writing a Great Junior Tech Résumé]]></description>
+        </item>
+        <item>
+            <title><![CDATA[新的博客名称和域名]]></title>
+            <link>https://www.davidhaney.io/new-blog-name-and-domain/</link>
+            <guid>https://www.davidhaney.io/new-blog-name-and-domain/</guid>
+            <pubDate>Fri, 03 Aug 2018 04:00:00 GMT</pubDate>
+            <description><![CDATA[New Blog Name and Domain]]></description>
+        </item>
+        <item>
+            <title><![CDATA[.NET核心Azure函数教程]]></title>
+            <link>https://www.davidhaney.io/net-core-azure-functions-tutorial/</link>
+            <guid>https://www.davidhaney.io/net-core-azure-functions-tutorial/</guid>
+            <pubDate>Mon, 19 Nov 2018 05:00:00 GMT</pubDate>
+            <description><![CDATA[.NET Core Azure Functions Tutorial]]></description>
+        </item>
         <item>
             <title><![CDATA[安息日开始了]]></title>
             <link>https://www.davidhaney.io/sabbatical-begins/</link>
@@ -4171,48 +4213,6 @@
             <guid>https://www.theatlantic.com/newsletters/archive/2022/03/america-cdc-covid-strategy-next-variant/627602/?utm_source=feed</guid>
             <pubDate>Thu, 24 Mar 2022 14:12:24 GMT</pubDate>
             <description><![CDATA[<em>The Atlantic</em> Daily: America’s Watch-and-Wait COVID Strategy Is Getting Its First Test]]></description>
-        </item>
-        <item>
-            <title><![CDATA[普京没有意识到战争已经发生了多大变化]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/putin-doesnt-realize-how-much-warfare-has-changed/627600/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/putin-doesnt-realize-how-much-warfare-has-changed/627600/?utm_source=feed</guid>
-            <pubDate>Thu, 24 Mar 2022 10:30:56 GMT</pubDate>
-            <description><![CDATA[Putin Doesn’t Realize How Much Warfare Has Changed]]></description>
-        </item>
-        <item>
-            <title><![CDATA[选择享受而不是快乐]]></title>
-            <link>https://www.theatlantic.com/family/archive/2022/03/enjoyment-not-pleasure-creates-happiness/627583/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/family/archive/2022/03/enjoyment-not-pleasure-creates-happiness/627583/?utm_source=feed</guid>
-            <pubDate>Thu, 24 Mar 2022 10:00:58 GMT</pubDate>
-            <description><![CDATA[Choose Enjoyment Over Pleasure]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有谁能解除马乔里-泰勒-格林的席位吗？]]></title>
-            <link>https://www.newyorker.com/news/campaign-chronicles/can-anyone-unseat-marjorie-taylor-greene</link>
-            <guid>https://www.newyorker.com/news/campaign-chronicles/can-anyone-unseat-marjorie-taylor-greene</guid>
-            <pubDate>Thu, 24 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Can Anyone Unseat Marjorie Taylor Greene?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如此轻松的驾驶]]></title>
-            <link>https://www.newyorker.com/humor/daily-shouts/its-such-an-easy-drive</link>
-            <guid>https://www.newyorker.com/humor/daily-shouts/its-such-an-easy-drive</guid>
-            <pubDate>Thu, 24 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[It’s Such an Easy Drive]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个莱克斯岛医生的幻灭之路]]></title>
-            <link>https://www.newyorker.com/news/essay/the-disillusionment-of-a-rikers-island-doctor</link>
-            <guid>https://www.newyorker.com/news/essay/the-disillusionment-of-a-rikers-island-doctor</guid>
-            <pubDate>Thu, 24 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Disillusionment of a Rikers Island Doctor]]></description>
-        </item>
-        <item>
-            <title><![CDATA[落名：2022年3月24日，星期四]]></title>
-            <link>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/24</link>
-            <guid>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/24</guid>
-            <pubDate>Thu, 24 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Name Drop: Thursday, March 24, 2022]]></description>
         </item>
     </channel>
 </rss>
