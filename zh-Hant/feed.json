@@ -11,6 +11,138 @@
     },
     "items": [
         {
+            "id": "https://austinkleon.substack.com/p/how-i-prepare-for-an-interview",
+            "content_html": "",
+            "url": "https://austinkleon.substack.com/p/how-i-prepare-for-an-interview",
+            "title": "我是如何準備面試的",
+            "summary": "How I prepare for an interview",
+            "date_modified": "2022-03-01T13:00:44.000Z",
+            "author": {
+                "name": "Austin Kleon",
+                "url": "https://austinkleon.substack.com/feed"
+            }
+        },
+        {
+            "id": "https://austinkleon.substack.com/p/only-the-questions",
+            "content_html": "",
+            "url": "https://austinkleon.substack.com/p/only-the-questions",
+            "title": "只有問題",
+            "summary": "Only the questions",
+            "date_modified": "2022-03-04T13:00:37.000Z",
+            "author": {
+                "name": "Austin Kleon",
+                "url": "https://austinkleon.substack.com/feed"
+            }
+        },
+        {
+            "id": "https://austinkleon.substack.com/p/adventures-on-two-wheels",
+            "content_html": "",
+            "url": "https://austinkleon.substack.com/p/adventures-on-two-wheels",
+            "title": "兩個輪子上的冒險",
+            "summary": "Adventures on two wheels",
+            "date_modified": "2022-03-08T13:00:37.000Z",
+            "author": {
+                "name": "Austin Kleon",
+                "url": "https://austinkleon.substack.com/feed"
+            }
+        },
+        {
+            "id": "https://austinkleon.substack.com/p/say-yes-and-never-do-it",
+            "content_html": "",
+            "url": "https://austinkleon.substack.com/p/say-yes-and-never-do-it",
+            "title": "說 \"是 \"而不去做",
+            "summary": "Say yes and never do it",
+            "date_modified": "2022-03-11T13:00:40.000Z",
+            "author": {
+                "name": "Austin Kleon",
+                "url": "https://austinkleon.substack.com/feed"
+            }
+        },
+        {
+            "id": "https://austinkleon.substack.com/p/the-book-that-changed-my-life",
+            "content_html": "",
+            "url": "https://austinkleon.substack.com/p/the-book-that-changed-my-life",
+            "title": "改變我生活的書",
+            "summary": "The book that changed my life",
+            "date_modified": "2022-03-15T12:00:38.000Z",
+            "author": {
+                "name": "Austin Kleon",
+                "url": "https://austinkleon.substack.com/feed"
+            }
+        },
+        {
+            "id": "https://austinkleon.substack.com/p/why-am-i-talking",
+            "content_html": "",
+            "url": "https://austinkleon.substack.com/p/why-am-i-talking",
+            "title": "為什麼我在說話？",
+            "summary": "Why Am I Talking?",
+            "date_modified": "2022-03-18T12:00:34.000Z",
+            "author": {
+                "name": "Austin Kleon",
+                "url": "https://austinkleon.substack.com/feed"
+            }
+        },
+        {
+            "id": "https://www.currentaffairs.org/2022/03/can-music-theory-education-overcome-its-whiteness-problem/",
+            "content_html": "",
+            "url": "https://www.currentaffairs.org/2022/03/can-music-theory-education-overcome-its-whiteness-problem/",
+            "title": "音樂理論教育能否克服其白化問題？",
+            "summary": "Can Music Theory Education Overcome its Whiteness Problem?",
+            "date_modified": "2022-03-18T20:43:58.000Z",
+            "author": {
+                "name": "Jeff Williams",
+                "url": "https://www.currentaffairs.org/feed"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/?utm_source=feed",
+            "title": "巴別之後",
+            "summary": "After Babel",
+            "date_modified": "2022-04-11T10:01:57.000Z",
+            "author": {
+                "name": "Jonathan Haidt",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/04/ukraine-infrastructure-damage-repair-cost/629519/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/04/ukraine-infrastructure-damage-repair-cost/629519/?utm_source=feed",
+            "title": "烏克蘭現在需要什麼",
+            "summary": "What Ukraine Needs Now",
+            "date_modified": "2022-04-11T10:01:56.000Z",
+            "author": {
+                "name": "David Frum",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/newsletters/archive/2022/04/american-teens-sadness-depression-anxiety/629524/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/newsletters/archive/2022/04/american-teens-sadness-depression-anxiety/629524/?utm_source=feed",
+            "title": "美國青少年為何如此悲傷",
+            "summary": "Why American Teens Are So Sad",
+            "date_modified": "2022-04-11T10:01:56.000Z",
+            "author": {
+                "name": "Derek Thompson",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/international/archive/2022/04/democracy-eu-hungary-viktor-orban-russia/629504/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/international/archive/2022/04/democracy-eu-hungary-viktor-orban-russia/629504/?utm_source=feed",
+            "title": "歐洲最大的威脅並不來自俄羅斯",
+            "summary": "Europe’s Greatest Threat Doesn’t Come From Russia",
+            "date_modified": "2022-04-11T10:03:00.000Z",
+            "author": {
+                "name": "Yasmeen Serhan",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/magazine/2022/04/18/can-the-bbc-survive-the-british-government",
             "content_html": "",
             "url": "https://www.newyorker.com/magazine/2022/04/18/can-the-bbc-survive-the-british-government",
@@ -7076,138 +7208,6 @@
             "author": {
                 "name": "Conor Friedersdorf",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/23/us/politics/biden-russia-cyberattacks.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/23/us/politics/biden-russia-cyberattacks.html",
-            "title": "拜登政府著眼於俄羅斯，要求企業報告網絡攻擊行為",
-            "summary": "With Eye to Russia, Biden Administration Asks Companies to Report Cyberattacks",
-            "date_modified": "2022-03-23T20:44:03.000Z",
-            "author": {
-                "name": "Kate Conger",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/23/technology/personaltech/john-roach-dead.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/23/technology/personaltech/john-roach-dead.html",
-            "title": "個人電腦的先驅約翰-羅奇去世，享年83歲",
-            "summary": "John Roach, Pioneer of the Personal Computer, Is Dead at 83",
-            "date_modified": "2022-03-23T20:44:32.000Z",
-            "author": {
-                "name": "Sam Roberts",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/culture/archive/2022/03/underscores-music/627592/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/culture/archive/2022/03/underscores-music/627592/?utm_source=feed",
-            "title": "一個讓我對音樂的未來感到興奮的藝術家",
-            "summary": "An Artist Who Makes Me Excited About the Future of Music",
-            "date_modified": "2022-03-23T20:33:56.000Z",
-            "author": {
-                "name": "Spencer Kornhaber",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/books/under-review/the-harsh-realm-of-gentle-parenting",
-            "content_html": "",
-            "url": "https://www.newyorker.com/books/under-review/the-harsh-realm-of-gentle-parenting",
-            "title": "\"溫柔教養 \"的嚴酷境界",
-            "summary": "The Harsh Realm of “Gentle Parenting”",
-            "date_modified": "2022-03-23T19:41:28.000Z",
-            "author": {
-                "name": "Jessica Winter",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/health/archive/2022/03/next-covid-variant-surge-strategy/627597/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/health/archive/2022/03/next-covid-variant-surge-strategy/627597/?utm_source=feed",
-            "title": "美國守株待兔的COVID戰略正在接受首次測試",
-            "summary": "America’s Watch-and-Wait COVID Strategy Is Getting Its First Test",
-            "date_modified": "2022-03-23T19:58:01.000Z",
-            "author": {
-                "name": "Katherine J. Wu",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/family/archive/2022/03/ketanji-brown-jackson-hearing-working-mom-guilt/627595/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/family/archive/2022/03/ketanji-brown-jackson-hearing-working-mom-guilt/627595/?utm_source=feed",
-            "title": "職業母親在傑克遜法官的話語中聽到的內容",
-            "summary": "What Working Mothers Heard in Judge Jackson’s Words",
-            "date_modified": "2022-03-23T19:30:57.000Z",
-            "author": {
-                "name": "Molly Jong-Fast",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://astralcodexten.substack.com/p/men-will-literally-have-completely",
-            "content_html": "",
-            "url": "https://astralcodexten.substack.com/p/men-will-literally-have-completely",
-            "title": "男人不接受治療，簡直會有完全不同的心理過程",
-            "summary": "Men Will Literally Have Completely Different Mental Processes Instead Of Going To Therapy",
-            "date_modified": "2022-03-23T19:35:09.000Z",
-            "author": {
-                "name": "Scott Alexander",
-                "url": "https://astralcodexten.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://www.currentaffairs.org/2022/03/i-tried-to-lead-an-ethical-star-nation/",
-            "content_html": "",
-            "url": "https://www.currentaffairs.org/2022/03/i-tried-to-lead-an-ethical-star-nation/",
-            "title": "我曾試圖領導一個有道德的明星國家",
-            "summary": "I Tried to Lead an Ethical Star Nation",
-            "date_modified": "2022-03-23T15:02:34.000Z",
-            "author": {
-                "name": "Michael Thomas Carter",
-                "url": "https://www.currentaffairs.org/feed"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/photo/2022/03/photos-ukraine-war/627590/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/photo/2022/03/photos-ukraine-war/627590/?utm_source=feed",
-            "title": "一個月的戰爭改變了烏克蘭",
-            "summary": "A Month of War Has Transformed Ukraine",
-            "date_modified": "2022-03-23T17:56:19.000Z",
-            "author": {
-                "name": "Alan Taylor",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/daily-comment/a-novel-and-the-fight-for-transgender-rights-in-argentina",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/daily-comment/a-novel-and-the-fight-for-transgender-rights-in-argentina",
-            "title": "小說與阿根廷的變性人權利之爭",
-            "summary": "A Novel and the Fight for Transgender Rights in Argentina",
-            "date_modified": "2022-03-23T17:02:54.000Z",
-            "author": {
-                "name": "Graciela Mochkofsky",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/humor/borowitz-report/failure-to-rattle-jackson-sends-cruz-fleeing-to-cancun",
-            "content_html": "",
-            "url": "https://www.newyorker.com/humor/borowitz-report/failure-to-rattle-jackson-sends-cruz-fleeing-to-cancun",
-            "title": "未能撼動傑克遜讓克魯茲逃往坎昆",
-            "summary": "Failure to Rattle Jackson Sends Cruz Fleeing to Cancun",
-            "date_modified": "2022-03-23T15:10:07.000Z",
-            "author": {
-                "name": "Andy Borowitz",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]
