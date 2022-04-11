@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-11T00:42:34.107Z</updated>
+    <updated>2022-04-11T03:58:43.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[公司称埃隆-马斯克不会加入Twitter的董事会]]></title>
+        <id>https://www.nytimes.com/2022/04/10/technology/elon-musk-twitter-board.html</id>
+        <link href="https://www.nytimes.com/2022/04/10/technology/elon-musk-twitter-board.html"/>
+        <updated>2022-04-11T03:52:25.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk Will Not Join Twitter’s Board, Company Says]]></summary>
+        <author>
+            <name>Mike Isaac</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[公开主题219]]></title>
         <id>https://astralcodexten.substack.com/p/open-thread-219</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[The American Nightmare Mall]]></summary>
         <author>
             <name>Dan Barrecchia</name>
-            <uri>https://www.currentaffairs.org/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[女权主义如何塑造 "收容国"？]]></title>
-        <id>https://www.currentaffairs.org/2022/02/how-feminism-shaped-the-carceral-state/</id>
-        <link href="https://www.currentaffairs.org/2022/02/how-feminism-shaped-the-carceral-state/"/>
-        <updated>2022-02-14T19:40:09.000Z</updated>
-        <summary type="html"><![CDATA[How Feminism Shaped the Carceral State]]></summary>
-        <author>
-            <name>Current Affairs</name>
             <uri>https://www.currentaffairs.org/feed</uri>
         </author>
     </entry>
