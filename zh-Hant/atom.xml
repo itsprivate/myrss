@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-11T13:29:59.087Z</updated>
+    <updated>2022-04-11T13:52:48.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,94 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[編譯器技巧--推斷類型]]></title>
+        <id>https://www.davidhaney.io/compiler-tricks-inferred-types/</id>
+        <link href="https://www.davidhaney.io/compiler-tricks-inferred-types/"/>
+        <updated>2012-07-16T00:33:54.000Z</updated>
+        <summary type="html"><![CDATA[Compiler Tricks - Inferred Types]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TPL和錯誤處理]]></title>
+        <id>https://www.davidhaney.io/tpl-and-error-handling/</id>
+        <link href="https://www.davidhaney.io/tpl-and-error-handling/"/>
+        <updated>2012-08-05T13:39:38.000Z</updated>
+        <summary type="html"><![CDATA[TPL and Error Handling]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TPL和錯誤處理及延續任務]]></title>
+        <id>https://www.davidhaney.io/tpl-and-error-handling-continuations/</id>
+        <link href="https://www.davidhaney.io/tpl-and-error-handling-continuations/"/>
+        <updated>2012-08-12T23:21:30.000Z</updated>
+        <summary type="html"><![CDATA[TPL and Error Handling & Continuation Tasks]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[由MDSN英國博客發佈]]></title>
+        <id>https://www.davidhaney.io/published-by-mdsn-uk-blog/</id>
+        <link href="https://www.davidhaney.io/published-by-mdsn-uk-blog/"/>
+        <updated>2012-08-26T23:49:41.000Z</updated>
+        <summary type="html"><![CDATA[Published by MDSN UK Blog]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[喬爾測試真的很有意義]]></title>
+        <id>https://www.davidhaney.io/the-joel-test-really-is-meaningful/</id>
+        <link href="https://www.davidhaney.io/the-joel-test-really-is-meaningful/"/>
+        <updated>2012-10-14T22:10:54.000Z</updated>
+        <summary type="html"><![CDATA[The Joel Test Really is Meaningful]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[靜態 vs 實例 string.Equals]]></title>
+        <id>https://www.davidhaney.io/stats-vs-reference-string-equals/</id>
+        <link href="https://www.davidhaney.io/stats-vs-reference-string-equals/"/>
+        <updated>2012-10-22T14:57:14.000Z</updated>
+        <summary type="html"><![CDATA[Static vs Instance string.Equals]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[靜態 vs 實例 string.Equals Benchmark]]></title>
+        <id>https://www.davidhaney.io/static-vs-instance-string-equals-benchmark/</id>
+        <link href="https://www.davidhaney.io/static-vs-instance-string-equals-benchmark/"/>
+        <updated>2012-10-24T16:57:14.000Z</updated>
+        <summary type="html"><![CDATA[Static vs Instance string.Equals Benchmark]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual Studio 2012 Intellisense不工作 - 已解決]]></title>
+        <id>https://www.davidhaney.io/visual-studio-2012-intellisense-not-working-solved/</id>
+        <link href="https://www.davidhaney.io/visual-studio-2012-intellisense-not-working-solved/"/>
+        <updated>2012-11-20T21:12:41.000Z</updated>
+        <summary type="html"><![CDATA[Visual Studio 2012 Intellisense Not Working - SOLVED]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[但它並沒有發生在開發或QA中!]]></title>
         <id>https://www.davidhaney.io/but-it-didnt-happen-in-dev-or-qa/</id>
@@ -6524,94 +6612,6 @@
         <summary type="html"><![CDATA[Ginni Thomas Accuses Critics of Ignoring Her Thirty Years of Service as Supreme Court Justice]]></summary>
         <author>
             <name>Andy Borowitz</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日漫畫。3月25日，星期五]]></title>
-        <id>https://www.newyorker.com/cartoons/daily-cartoon/friday-march-25th-bang-whimper-push</id>
-        <link href="https://www.newyorker.com/cartoons/daily-cartoon/friday-march-25th-bang-whimper-push"/>
-        <updated>2022-03-25T14:11:37.000Z</updated>
-        <summary type="html"><![CDATA[Daily Cartoon: Friday, March 25th]]></summary>
-        <author>
-            <name>David Ostow</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Instacart以 "動盪 "為由，將其估值降低了38%。]]></title>
-        <id>https://www.nytimes.com/2022/03/25/business/instacart-valuation.html</id>
-        <link href="https://www.nytimes.com/2022/03/25/business/instacart-valuation.html"/>
-        <updated>2022-03-25T11:56:59.000Z</updated>
-        <summary type="html"><![CDATA[Instacart Cuts Its Valuation by 38 Percent, Citing ‘Turbulence’]]></summary>
-        <author>
-            <name>Kellen Browning</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國和歐洲領導人就跨大西洋數據隱私達成協議]]></title>
-        <id>https://www.nytimes.com/2022/03/25/business/us-europe-data-privacy.html</id>
-        <link href="https://www.nytimes.com/2022/03/25/business/us-europe-data-privacy.html"/>
-        <updated>2022-03-25T12:37:21.000Z</updated>
-        <summary type="html"><![CDATA[U.S. and European Leaders Reach Deal on Trans-Atlantic Data Privacy]]></summary>
-        <author>
-            <name>David McCabe and Matina Stevis-Gridneff</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寫作反派的棘手任務]]></title>
-        <id>https://www.theatlantic.com/books/archive/2022/03/books-briefing-kate-elizabeth-russell-jessamine-chan/627594/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/books/archive/2022/03/books-briefing-kate-elizabeth-russell-jessamine-chan/627594/?utm_source=feed"/>
-        <updated>2022-03-25T14:00:57.000Z</updated>
-        <summary type="html"><![CDATA[The Tricky Task of Writing a Villain]]></summary>
-        <author>
-            <name>Maya Chung</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由包辦婚姻激發的友誼實驗]]></title>
-        <id>https://www.theatlantic.com/family/archive/2022/03/arranged-marriage-inspired-friendship/627608/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/family/archive/2022/03/arranged-marriage-inspired-friendship/627608/?utm_source=feed"/>
-        <updated>2022-03-25T14:00:57.000Z</updated>
-        <summary type="html"><![CDATA[A Friendship Experiment Inspired by Arranged Marriage]]></summary>
-        <author>
-            <name>Julie Beck</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[這個冬天我讀的10本好書]]></title>
-        <id>https://austinkleon.substack.com/p/10-good-books-i-read-this-winter</id>
-        <link href="https://austinkleon.substack.com/p/10-good-books-i-read-this-winter"/>
-        <updated>2022-03-25T12:00:35.000Z</updated>
-        <summary type="html"><![CDATA[10 good books I read this winter]]></summary>
-        <author>
-            <name>Austin Kleon</name>
-            <uri>https://austinkleon.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<em>所有的東西都在同一時間</em>是一個令人費解的多元宇宙的幻想]]></title>
-        <id>https://www.theatlantic.com/culture/archive/2022/03/everything-everywhere-all-at-once-movie-review/629357/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/culture/archive/2022/03/everything-everywhere-all-at-once-movie-review/629357/?utm_source=feed"/>
-        <updated>2022-03-25T11:01:56.000Z</updated>
-        <summary type="html"><![CDATA[<em>Everything Everywhere All at Once</em> Is a Mind-Bending Multiverse Fantasy]]></summary>
-        <author>
-            <name>David Sims</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[填字遊戲。2022年3月25日，星期五]]></title>
-        <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/25</id>
-        <link href="https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/25"/>
-        <updated>2022-03-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Crossword: Friday, March 25, 2022]]></summary>
-        <author>
-            <name>Robyn Weintraub</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

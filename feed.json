@@ -11,6 +11,102 @@
     },
     "items": [
         {
+            "id": "https://www.davidhaney.io/compiler-tricks-inferred-types/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/compiler-tricks-inferred-types/",
+            "title": "编译器技巧--推断类型",
+            "summary": "Compiler Tricks - Inferred Types",
+            "date_modified": "2012-07-16T00:33:54.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/tpl-and-error-handling/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/tpl-and-error-handling/",
+            "title": "TPL和错误处理",
+            "summary": "TPL and Error Handling",
+            "date_modified": "2012-08-05T13:39:38.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/tpl-and-error-handling-continuations/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/tpl-and-error-handling-continuations/",
+            "title": "TPL和错误处理及延续任务",
+            "summary": "TPL and Error Handling & Continuation Tasks",
+            "date_modified": "2012-08-12T23:21:30.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/published-by-mdsn-uk-blog/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/published-by-mdsn-uk-blog/",
+            "title": "由MDSN英国博客发布",
+            "summary": "Published by MDSN UK Blog",
+            "date_modified": "2012-08-26T23:49:41.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/the-joel-test-really-is-meaningful/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/the-joel-test-really-is-meaningful/",
+            "title": "乔尔测试真的很有意义",
+            "summary": "The Joel Test Really is Meaningful",
+            "date_modified": "2012-10-14T22:10:54.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/stats-vs-reference-string-equals/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/stats-vs-reference-string-equals/",
+            "title": "静态 vs 实例 string.Equals",
+            "summary": "Static vs Instance string.Equals",
+            "date_modified": "2012-10-22T14:57:14.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/static-vs-instance-string-equals-benchmark/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/static-vs-instance-string-equals-benchmark/",
+            "title": "静态 vs 实例 string.Equals Benchmark",
+            "summary": "Static vs Instance string.Equals Benchmark",
+            "date_modified": "2012-10-24T16:57:14.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/visual-studio-2012-intellisense-not-working-solved/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/visual-studio-2012-intellisense-not-working-solved/",
+            "title": "Visual Studio 2012 Intellisense不工作 - 已解决",
+            "summary": "Visual Studio 2012 Intellisense Not Working - SOLVED",
+            "date_modified": "2012-11-20T21:12:41.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
             "id": "https://www.davidhaney.io/but-it-didnt-happen-in-dev-or-qa/",
             "content_html": "",
             "url": "https://www.davidhaney.io/but-it-didnt-happen-in-dev-or-qa/",
@@ -7111,102 +7207,6 @@
             "date_modified": "2022-03-25T15:07:46.000Z",
             "author": {
                 "name": "Andy Borowitz",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/cartoons/daily-cartoon/friday-march-25th-bang-whimper-push",
-            "content_html": "",
-            "url": "https://www.newyorker.com/cartoons/daily-cartoon/friday-march-25th-bang-whimper-push",
-            "title": "每日漫画。3月25日，星期五",
-            "summary": "Daily Cartoon: Friday, March 25th",
-            "date_modified": "2022-03-25T14:11:37.000Z",
-            "author": {
-                "name": "David Ostow",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/25/business/instacart-valuation.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/25/business/instacart-valuation.html",
-            "title": "Instacart以 \"动荡 \"为由，将其估值降低了38%。",
-            "summary": "Instacart Cuts Its Valuation by 38 Percent, Citing ‘Turbulence’",
-            "date_modified": "2022-03-25T11:56:59.000Z",
-            "author": {
-                "name": "Kellen Browning",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/25/business/us-europe-data-privacy.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/25/business/us-europe-data-privacy.html",
-            "title": "美国和欧洲领导人就跨大西洋数据隐私达成协议",
-            "summary": "U.S. and European Leaders Reach Deal on Trans-Atlantic Data Privacy",
-            "date_modified": "2022-03-25T12:37:21.000Z",
-            "author": {
-                "name": "David McCabe and Matina Stevis-Gridneff",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/books/archive/2022/03/books-briefing-kate-elizabeth-russell-jessamine-chan/627594/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/books/archive/2022/03/books-briefing-kate-elizabeth-russell-jessamine-chan/627594/?utm_source=feed",
-            "title": "写作反派的棘手任务",
-            "summary": "The Tricky Task of Writing a Villain",
-            "date_modified": "2022-03-25T14:00:57.000Z",
-            "author": {
-                "name": "Maya Chung",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/family/archive/2022/03/arranged-marriage-inspired-friendship/627608/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/family/archive/2022/03/arranged-marriage-inspired-friendship/627608/?utm_source=feed",
-            "title": "由包办婚姻激发的友谊实验",
-            "summary": "A Friendship Experiment Inspired by Arranged Marriage",
-            "date_modified": "2022-03-25T14:00:57.000Z",
-            "author": {
-                "name": "Julie Beck",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://austinkleon.substack.com/p/10-good-books-i-read-this-winter",
-            "content_html": "",
-            "url": "https://austinkleon.substack.com/p/10-good-books-i-read-this-winter",
-            "title": "这个冬天我读的10本好书",
-            "summary": "10 good books I read this winter",
-            "date_modified": "2022-03-25T12:00:35.000Z",
-            "author": {
-                "name": "Austin Kleon",
-                "url": "https://austinkleon.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/culture/archive/2022/03/everything-everywhere-all-at-once-movie-review/629357/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/culture/archive/2022/03/everything-everywhere-all-at-once-movie-review/629357/?utm_source=feed",
-            "title": "<em>所有的东西都在同一时间</em>是一个令人费解的多元宇宙的幻想",
-            "summary": "<em>Everything Everywhere All at Once</em> Is a Mind-Bending Multiverse Fantasy",
-            "date_modified": "2022-03-25T11:01:56.000Z",
-            "author": {
-                "name": "David Sims",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/25",
-            "content_html": "",
-            "url": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/25",
-            "title": "填字游戏。2022年3月25日，星期五",
-            "summary": "The Crossword: Friday, March 25, 2022",
-            "date_modified": "2022-03-25T10:00:00.000Z",
-            "author": {
-                "name": "Robyn Weintraub",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }
