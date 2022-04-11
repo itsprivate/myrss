@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-11T20:15:35.423Z</updated>
+    <updated>2022-04-11T20:34:59.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[安妮塔-希爾和簡-梅爾談凱坦吉-布朗-傑克遜和最高法院的狀況]]></title>
+        <id>https://www.newyorker.com/podcast/politics-and-more/anita-hill-and-jane-mayer-on-ketanji-brown-jackson-and-the-state-of-the-supreme-court</id>
+        <link href="https://www.newyorker.com/podcast/politics-and-more/anita-hill-and-jane-mayer-on-ketanji-brown-jackson-and-the-state-of-the-supreme-court"/>
+        <updated>2022-04-11T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Anita Hill and Jane Mayer on Ketanji Brown Jackson and the State of the Supreme Court]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安妮塔-希爾和簡-梅爾談凱坦吉-布朗-傑克遜和最高法院的狀況]]></title>
         <id>https://www.newyorker.com/podcast/politics-and-more/anita-hill-and-jane-mayer-on-ketanji-brown-jackson-and-the-state-of-the-supreme-court</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>unknown</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[百歲博客達格妮-卡爾松逝世，享年109歲]]></title>
-        <id>https://www.nytimes.com/2022/03/25/world/europe/dagny-carlsson-dead.html</id>
-        <link href="https://www.nytimes.com/2022/03/25/world/europe/dagny-carlsson-dead.html"/>
-        <updated>2022-03-25T22:13:16.000Z</updated>
-        <summary type="html"><![CDATA[Dagny Carlsson, Centenarian Blogger, Dies at 109]]></summary>
-        <author>
-            <name>Annabelle Williams</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>
