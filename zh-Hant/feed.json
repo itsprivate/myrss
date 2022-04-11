@@ -19,6 +19,18 @@
             "date_modified": "2022-04-11T23:31:44.000Z",
             "author": {
                 "name": "Adam Gopnik",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/daily-comment/france-is-still-standing-after-the-first-round-of-presidential-elections",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/daily-comment/france-is-still-standing-after-the-first-round-of-presidential-elections",
+            "title": "法國在第一輪總統選舉後仍然屹立不倒",
+            "summary": "France Is Still Standing After the First Round of Presidential Elections",
+            "date_modified": "2022-04-11T23:31:44.000Z",
+            "author": {
+                "name": "Adam Gopnik",
                 "url": "https://www.newyorker.com/feed/news"
             }
         },
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-26T09:00:11.000Z",
             "author": {
                 "name": "Brooks Barnes and Nicole Sperling",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/26/style/jay-penske.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/26/style/jay-penske.html",
-            "title": "你對Jay Penske瞭解不多。他對此無所謂。",
-            "summary": "You Don’t Know Much About Jay Penske. And He’s Fine With That.",
-            "date_modified": "2022-03-26T09:00:14.000Z",
-            "author": {
-                "name": "Katherine Rosman",
                 "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }

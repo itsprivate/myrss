@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-11T23:45:24.132Z</updated>
+    <updated>2022-04-11T23:51:46.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[法国在第一轮总统选举后仍然屹立不倒]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/france-is-still-standing-after-the-first-round-of-presidential-elections</id>
+        <link href="https://www.newyorker.com/news/daily-comment/france-is-still-standing-after-the-first-round-of-presidential-elections"/>
+        <updated>2022-04-11T23:31:44.000Z</updated>
+        <summary type="html"><![CDATA[France Is Still Standing After the First Round of Presidential Elections]]></summary>
+        <author>
+            <name>Adam Gopnik</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[法国在第一轮总统选举后仍然屹立不倒]]></title>
         <id>https://www.newyorker.com/news/daily-comment/france-is-still-standing-after-the-first-round-of-presidential-elections</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Streaming Has Won the Hollywood Debate. Is Best Picture Next?]]></summary>
         <author>
             <name>Brooks Barnes and Nicole Sperling</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你对Jay Penske了解不多。他对此无所谓。]]></title>
-        <id>https://www.nytimes.com/2022/03/26/style/jay-penske.html</id>
-        <link href="https://www.nytimes.com/2022/03/26/style/jay-penske.html"/>
-        <updated>2022-03-26T09:00:14.000Z</updated>
-        <summary type="html"><![CDATA[You Don’t Know Much About Jay Penske. And He’s Fine With That.]]></summary>
-        <author>
-            <name>Katherine Rosman</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
