@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 11 Apr 2022 16:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 16:55:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,41 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[有了父子作家，谁能讲述家庭故事？]]></title>
+            <link>https://www.newyorker.com/magazine/2022/04/18/with-father-and-son-writers-who-gets-to-tell-the-family-story</link>
+            <guid>https://www.newyorker.com/magazine/2022/04/18/with-father-and-son-writers-who-gets-to-tell-the-family-story</guid>
+            <pubDate>Mon, 11 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[With Father-and-Son Writers, Who Gets to Tell the Family Story?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[英国广播公司能否在英国政府中生存？]]></title>
+            <link>https://www.newyorker.com/magazine/2022/04/18/can-the-bbc-survive-the-british-government</link>
+            <guid>https://www.newyorker.com/magazine/2022/04/18/can-the-bbc-survive-the-british-government</guid>
+            <pubDate>Mon, 11 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Can the BBC Survive the British Government?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[佛罗里达州的一个湖泊为保护自己而起诉]]></title>
+            <link>https://www.newyorker.com/magazine/2022/04/18/a-lake-in-florida-suing-to-protect-itself</link>
+            <guid>https://www.newyorker.com/magazine/2022/04/18/a-lake-in-florida-suing-to-protect-itself</guid>
+            <pubDate>Mon, 11 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[A Lake in Florida Suing to Protect Itself]]></description>
+        </item>
+        <item>
+            <title><![CDATA[大屠杀纪念馆因另一场战争而解体]]></title>
+            <link>https://www.newyorker.com/magazine/2022/04/18/the-holocaust-memorial-undone-by-another-war</link>
+            <guid>https://www.newyorker.com/magazine/2022/04/18/the-holocaust-memorial-undone-by-another-war</guid>
+            <pubDate>Mon, 11 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Holocaust Memorial Undone by Another War]]></description>
+        </item>
+        <item>
+            <title><![CDATA[凯坦吉-布朗-杰克逊的听证会可能只是个开始]]></title>
+            <link>https://www.newyorker.com/magazine/2022/04/18/the-ketanji-brown-jackson-hearings-may-be-only-the-beginning</link>
+            <guid>https://www.newyorker.com/magazine/2022/04/18/the-ketanji-brown-jackson-hearings-may-be-only-the-beginning</guid>
+            <pubDate>Sat, 09 Apr 2022 14:00:00 GMT</pubDate>
+            <description><![CDATA[The Ketanji Brown Jackson Hearings May Be Only the Beginning]]></description>
+        </item>
         <item>
             <title><![CDATA[每日漫画。4月11日，星期一]]></title>
             <link>https://www.newyorker.com/cartoons/daily-cartoon/monday-april-11th-procrastination-taxes</link>
@@ -4178,41 +4213,6 @@
             <guid>https://www.newyorker.com/news/as-told-to/how-covid-exploded-in-hong-kong</guid>
             <pubDate>Fri, 25 Mar 2022 19:24:16 GMT</pubDate>
             <description><![CDATA[How COVID Exploded in Hong Kong]]></description>
-        </item>
-        <item>
-            <title><![CDATA[戳穿普京 "防制裁 "经济的拜登官员]]></title>
-            <link>https://www.newyorker.com/news/annals-of-inquiry/the-biden-official-who-pierced-putins-sanction-proof-economy</link>
-            <guid>https://www.newyorker.com/news/annals-of-inquiry/the-biden-official-who-pierced-putins-sanction-proof-economy</guid>
-            <pubDate>Fri, 25 Mar 2022 18:30:10 GMT</pubDate>
-            <description><![CDATA[The Biden Official Who Pierced Putin’s “Sanction-Proof” Economy]]></description>
-        </item>
-        <item>
-            <title><![CDATA[<em>变红</em>是令人讨厌的。这就是问题所在。]]></title>
-            <link>https://www.theatlantic.com/culture/archive/2022/03/turning-red-movie-inappropriate-controversy/629385/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/culture/archive/2022/03/turning-red-movie-inappropriate-controversy/629385/?utm_source=feed</guid>
-            <pubDate>Fri, 25 Mar 2022 18:45:01 GMT</pubDate>
-            <description><![CDATA[<em>Turning Red</em> Is Cringe. That’s the Point.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[戳穿普京 "防制裁 "经济的拜登官员]]></title>
-            <link>https://www.newyorker.com/news/annals-of-inquiry/the-biden-official-who-pierced-putins-sanction-proof-economy</link>
-            <guid>https://www.newyorker.com/news/annals-of-inquiry/the-biden-official-who-pierced-putins-sanction-proof-economy</guid>
-            <pubDate>Fri, 25 Mar 2022 18:30:10 GMT</pubDate>
-            <description><![CDATA[The Biden Official Who Pierced Putin’s “Sanction-Proof” Economy]]></description>
-        </item>
-        <item>
-            <title><![CDATA[红地毯类型的分类法]]></title>
-            <link>https://www.newyorker.com/humor/daily-shouts/a-taxonomy-of-red-carpet-types</link>
-            <guid>https://www.newyorker.com/humor/daily-shouts/a-taxonomy-of-red-carpet-types</guid>
-            <pubDate>Fri, 25 Mar 2022 18:00:00 GMT</pubDate>
-            <description><![CDATA[A Taxonomy of Red-Carpet Types]]></description>
-        </item>
-        <item>
-            <title><![CDATA[<em>The Atlantic</em> Daily: 当确认听证会是一个算账的机会时]]></title>
-            <link>https://www.theatlantic.com/newsletters/archive/2022/03/what-working-mothers-heard-in-judge-jacksons-words/629361/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/newsletters/archive/2022/03/what-working-mothers-heard-in-judge-jacksons-words/629361/?utm_source=feed</guid>
-            <pubDate>Fri, 25 Mar 2022 17:09:08 GMT</pubDate>
-            <description><![CDATA[<em>The Atlantic</em> Daily: When a Confirmation Hearing Is a Chance to Settle Scores]]></description>
         </item>
     </channel>
 </rss>

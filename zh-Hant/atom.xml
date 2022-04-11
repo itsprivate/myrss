@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-11T16:18:55.003Z</updated>
+    <updated>2022-04-11T16:55:10.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有了父子作家，誰能講述家庭故事？]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/18/with-father-and-son-writers-who-gets-to-tell-the-family-story</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/18/with-father-and-son-writers-who-gets-to-tell-the-family-story"/>
+        <updated>2022-04-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With Father-and-Son Writers, Who Gets to Tell the Family Story?]]></summary>
+        <author>
+            <name>Tad Friend</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英國廣播公司能否在英國政府中生存？]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/18/can-the-bbc-survive-the-british-government</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/18/can-the-bbc-survive-the-british-government"/>
+        <updated>2022-04-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Can the BBC Survive the British Government?]]></summary>
+        <author>
+            <name>Sam Knight</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[佛羅里達州的一個湖泊為保護自己而起訴]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/18/a-lake-in-florida-suing-to-protect-itself</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/18/a-lake-in-florida-suing-to-protect-itself"/>
+        <updated>2022-04-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Lake in Florida Suing to Protect Itself]]></summary>
+        <author>
+            <name>Elizabeth Kolbert</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大屠殺紀念館因另一場戰爭而解體]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/18/the-holocaust-memorial-undone-by-another-war</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/18/the-holocaust-memorial-undone-by-another-war"/>
+        <updated>2022-04-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Holocaust Memorial Undone by Another War]]></summary>
+        <author>
+            <name>Masha Gessen</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[凱坦吉-布朗-傑克遜的聽證會可能只是個開始]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/18/the-ketanji-brown-jackson-hearings-may-be-only-the-beginning</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/18/the-ketanji-brown-jackson-hearings-may-be-only-the-beginning"/>
+        <updated>2022-04-09T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Ketanji Brown Jackson Hearings May Be Only the Beginning]]></summary>
+        <author>
+            <name>Amy Davidson Sorkin</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日漫畫。4月11日，星期一]]></title>
         <id>https://www.newyorker.com/cartoons/daily-cartoon/monday-april-11th-procrastination-taxes</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>Dhruv Khullar</name>
             <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[戳穿普京 "防制裁 "經濟的拜登官員]]></title>
-        <id>https://www.newyorker.com/news/annals-of-inquiry/the-biden-official-who-pierced-putins-sanction-proof-economy</id>
-        <link href="https://www.newyorker.com/news/annals-of-inquiry/the-biden-official-who-pierced-putins-sanction-proof-economy"/>
-        <updated>2022-03-25T18:30:10.000Z</updated>
-        <summary type="html"><![CDATA[The Biden Official Who Pierced Putin’s “Sanction-Proof” Economy]]></summary>
-        <author>
-            <name>Benjamin Wallace-Wells</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<em>變紅</em>是令人討厭的。這就是問題所在。]]></title>
-        <id>https://www.theatlantic.com/culture/archive/2022/03/turning-red-movie-inappropriate-controversy/629385/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/culture/archive/2022/03/turning-red-movie-inappropriate-controversy/629385/?utm_source=feed"/>
-        <updated>2022-03-25T18:45:01.000Z</updated>
-        <summary type="html"><![CDATA[<em>Turning Red</em> Is Cringe. That’s the Point.]]></summary>
-        <author>
-            <name>Shirley Li</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[戳穿普京 "防制裁 "經濟的拜登官員]]></title>
-        <id>https://www.newyorker.com/news/annals-of-inquiry/the-biden-official-who-pierced-putins-sanction-proof-economy</id>
-        <link href="https://www.newyorker.com/news/annals-of-inquiry/the-biden-official-who-pierced-putins-sanction-proof-economy"/>
-        <updated>2022-03-25T18:30:10.000Z</updated>
-        <summary type="html"><![CDATA[The Biden Official Who Pierced Putin’s “Sanction-Proof” Economy]]></summary>
-        <author>
-            <name>Benjamin Wallace-Wells</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[紅地毯類型的分類法]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/a-taxonomy-of-red-carpet-types</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/a-taxonomy-of-red-carpet-types"/>
-        <updated>2022-03-25T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A Taxonomy of Red-Carpet Types]]></summary>
-        <author>
-            <name>Rachel Merrill</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<em>The Atlantic</em> Daily: 當確認聽證會是一個算賬的機會時]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2022/03/what-working-mothers-heard-in-judge-jacksons-words/629361/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/what-working-mothers-heard-in-judge-jacksons-words/629361/?utm_source=feed"/>
-        <updated>2022-03-25T17:09:08.000Z</updated>
-        <summary type="html"><![CDATA[<em>The Atlantic</em> Daily: When a Confirmation Hearing Is a Chance to Settle Scores]]></summary>
-        <author>
-            <name>Caroline Mimbs Nyce</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
