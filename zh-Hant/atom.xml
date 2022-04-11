@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-11T09:13:12.844Z</updated>
+    <updated>2022-04-11T10:17:11.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,105 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[英國廣播公司能否在英國政府中生存？]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/18/can-the-bbc-survive-the-british-government</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/18/can-the-bbc-survive-the-british-government"/>
+        <updated>2022-04-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Can the BBC Survive the British Government?]]></summary>
+        <author>
+            <name>Sam Knight</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[作為一個母親，我不再有餘地的事情]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/18/things-i-no-longer-have-room-for-as-a-mother</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/18/things-i-no-longer-have-room-for-as-a-mother"/>
+        <updated>2022-04-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Things I No Longer Have Room for as a Mother]]></summary>
+        <author>
+            <name>Jessi Klein</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[建造紐約的四百歲水果]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/18/the-four-hundred-year-old-fruit-that-built-new-york</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/18/the-four-hundred-year-old-fruit-that-built-new-york"/>
+        <updated>2022-04-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Four-Hundred-Year-Old Fruit That Built New York]]></summary>
+        <author>
+            <name>Zach Helfand</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[希拉-赫迪朗讀 "只是有點發燒"]]></title>
+        <id>https://www.newyorker.com/podcast/the-writers-voice/sheila-heti-reads-just-a-little-fever</id>
+        <link href="https://www.newyorker.com/podcast/the-writers-voice/sheila-heti-reads-just-a-little-fever"/>
+        <updated>2022-04-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sheila Heti Reads “Just a Little Fever”]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[幻燈片展示。紐約客》漫畫2022年4月18日刊]]></title>
+        <id>https://www.newyorker.com/gallery/cartoons-from-the-april-18-2022-issue</id>
+        <link href="https://www.newyorker.com/gallery/cartoons-from-the-april-18-2022-issue"/>
+        <updated>2022-04-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Slide Show: New Yorker Cartoons April 18, 2022, Issue]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["只要她喜歡"，作者：Ellen Bass]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/18/as-long-as-she-likes</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/18/as-long-as-she-likes"/>
+        <updated>2022-04-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“As Long as She Likes,” by Ellen Bass]]></summary>
+        <author>
+            <name>Ellen Bass</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[落名：2022年4月11日，星期一]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/11</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/11"/>
+        <updated>2022-04-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Name Drop: Monday, April 11, 2022]]></summary>
+        <author>
+            <name>Will Nediger</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尼科爾-裡夫金的 "在角落裡"]]></title>
+        <id>https://www.newyorker.com/culture/cover-story/cover-story-2022-04-18</id>
+        <link href="https://www.newyorker.com/culture/cover-story/cover-story-2022-04-18"/>
+        <updated>2022-04-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nicole Rifkin’s “On the Corner”]]></summary>
+        <author>
+            <name>Françoise Mouly</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[希拉-赫迪談匆忙和對青春的恐懼]]></title>
+        <id>https://www.newyorker.com/books/this-week-in-fiction/sheila-heti-04-18-22</id>
+        <link href="https://www.newyorker.com/books/this-week-in-fiction/sheila-heti-04-18-22"/>
+        <updated>2022-04-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sheila Heti on the Rush and the Fear of Youth]]></summary>
+        <author>
+            <name>Cressida Leyshon</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中國對俄羅斯的另類現實的回聲在全球範圍內愈演愈烈]]></title>
         <id>https://www.nytimes.com/2022/04/11/technology/china-russia-propaganda.html</id>
@@ -6514,105 +6613,6 @@
         <author>
             <name>Andy Borowitz</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以色列阻止向烏克蘭和愛沙尼亞出售飛馬間諜軟件]]></title>
-        <id>https://www.nytimes.com/2022/03/23/us/politics/pegasus-israel-ukraine-russia.html</id>
-        <link href="https://www.nytimes.com/2022/03/23/us/politics/pegasus-israel-ukraine-russia.html"/>
-        <updated>2022-03-23T16:58:42.000Z</updated>
-        <summary type="html"><![CDATA[Israel Blocked Sale of Pegasus Spyware to Ukraine and Estonia]]></summary>
-        <author>
-            <name>Ronen Bergman and Mark Mazzetti</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沒有全球性的購物中心]]></title>
-        <id>https://www.nytimes.com/2022/03/23/technology/global-shopping-big-tech.html</id>
-        <link href="https://www.nytimes.com/2022/03/23/technology/global-shopping-big-tech.html"/>
-        <updated>2022-03-23T16:44:13.000Z</updated>
-        <summary type="html"><![CDATA[There’s No Global Shopping Mall]]></summary>
-        <author>
-            <name>Shira Ovide</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[準備好迎接一波被遺漏的傳染病]]></title>
-        <id>https://www.theatlantic.com/health/archive/2022/03/ba2-variant-rapid-testing/627591/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/health/archive/2022/03/ba2-variant-rapid-testing/627591/?utm_source=feed"/>
-        <updated>2022-03-23T15:40:26.000Z</updated>
-        <summary type="html"><![CDATA[Get Ready for a Wave of Missed Infections]]></summary>
-        <author>
-            <name>Benjamin Mazer</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[當今美國性生活的難題]]></title>
-        <id>https://www.theatlantic.com/books/archive/2022/03/corinne-hoex-gentlemen-callers-review/627203/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/books/archive/2022/03/corinne-hoex-gentlemen-callers-review/627203/?utm_source=feed"/>
-        <updated>2022-03-23T16:37:12.000Z</updated>
-        <summary type="html"><![CDATA[The Conundrum of Sexual Life in Today’s America]]></summary>
-        <author>
-            <name>Zoë Hu</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[節省或不節省日光？]]></title>
-        <id>https://www.theatlantic.com/family/archive/2022/03/daylight-saving-time-compromise-bill/627589/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/family/archive/2022/03/daylight-saving-time-compromise-bill/627589/?utm_source=feed"/>
-        <updated>2022-03-23T14:03:18.000Z</updated>
-        <summary type="html"><![CDATA[To Save or Not to Save Daylight?]]></summary>
-        <author>
-            <name>Joe Pinsker</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日漫畫。3月23日，星期三]]></title>
-        <id>https://www.newyorker.com/cartoons/daily-cartoon/wednesday-march-23rd-hope-dread</id>
-        <link href="https://www.newyorker.com/cartoons/daily-cartoon/wednesday-march-23rd-hope-dread"/>
-        <updated>2022-03-23T14:01:18.000Z</updated>
-        <summary type="html"><![CDATA[Daily Cartoon: Wednesday, March 23rd]]></summary>
-        <author>
-            <name>Ali Solomon</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼這位硅谷預言家說他仍然是個樂觀主義者？]]></title>
-        <id>https://www.nytimes.com/2022/03/23/technology/stewart-brand-tech-personal-computer.html</id>
-        <link href="https://www.nytimes.com/2022/03/23/technology/stewart-brand-tech-personal-computer.html"/>
-        <updated>2022-03-23T09:00:19.000Z</updated>
-        <summary type="html"><![CDATA[Why This Silicon Valley Prophet Says He’s Still an Optimist]]></summary>
-        <author>
-            <name>John Markoff</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是的，你可以讓你的技術在淘汰中倖存下來]]></title>
-        <id>https://www.nytimes.com/2022/03/23/technology/personaltech/tech-obsolescence.html</id>
-        <link href="https://www.nytimes.com/2022/03/23/technology/personaltech/tech-obsolescence.html"/>
-        <updated>2022-03-23T13:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Yes, You Can Make Your Tech Survive Obsolescence]]></summary>
-        <author>
-            <name>Brian X. Chen</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是的，你可以讓你的技術在淘汰中倖存下來]]></title>
-        <id>https://www.nytimes.com/2022/03/23/technology/personaltech/tech-survive-obsolescence.html</id>
-        <link href="https://www.nytimes.com/2022/03/23/technology/personaltech/tech-survive-obsolescence.html"/>
-        <updated>2022-03-23T13:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Yes, You Can Make Your Tech Survive Obsolescence]]></summary>
-        <author>
-            <name>Brian X. Chen</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>

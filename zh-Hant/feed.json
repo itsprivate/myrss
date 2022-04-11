@@ -11,6 +11,114 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/magazine/2022/04/18/can-the-bbc-survive-the-british-government",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/04/18/can-the-bbc-survive-the-british-government",
+            "title": "英國廣播公司能否在英國政府中生存？",
+            "summary": "Can the BBC Survive the British Government?",
+            "date_modified": "2022-04-11T10:00:00.000Z",
+            "author": {
+                "name": "Sam Knight",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/magazine/2022/04/18/things-i-no-longer-have-room-for-as-a-mother",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/04/18/things-i-no-longer-have-room-for-as-a-mother",
+            "title": "作為一個母親，我不再有餘地的事情",
+            "summary": "Things I No Longer Have Room for as a Mother",
+            "date_modified": "2022-04-11T10:00:00.000Z",
+            "author": {
+                "name": "Jessi Klein",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/magazine/2022/04/18/the-four-hundred-year-old-fruit-that-built-new-york",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/04/18/the-four-hundred-year-old-fruit-that-built-new-york",
+            "title": "建造紐約的四百歲水果",
+            "summary": "The Four-Hundred-Year-Old Fruit That Built New York",
+            "date_modified": "2022-04-11T10:00:00.000Z",
+            "author": {
+                "name": "Zach Helfand",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/podcast/the-writers-voice/sheila-heti-reads-just-a-little-fever",
+            "content_html": "",
+            "url": "https://www.newyorker.com/podcast/the-writers-voice/sheila-heti-reads-just-a-little-fever",
+            "title": "希拉-赫迪朗讀 \"只是有點發燒\"",
+            "summary": "Sheila Heti Reads “Just a Little Fever”",
+            "date_modified": "2022-04-11T10:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/gallery/cartoons-from-the-april-18-2022-issue",
+            "content_html": "",
+            "url": "https://www.newyorker.com/gallery/cartoons-from-the-april-18-2022-issue",
+            "title": "幻燈片展示。紐約客》漫畫2022年4月18日刊",
+            "summary": "Slide Show: New Yorker Cartoons April 18, 2022, Issue",
+            "date_modified": "2022-04-11T10:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/magazine/2022/04/18/as-long-as-she-likes",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/04/18/as-long-as-she-likes",
+            "title": "\"只要她喜歡\"，作者：Ellen Bass",
+            "summary": "“As Long as She Likes,” by Ellen Bass",
+            "date_modified": "2022-04-11T10:00:00.000Z",
+            "author": {
+                "name": "Ellen Bass",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/11",
+            "content_html": "",
+            "url": "https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/11",
+            "title": "落名：2022年4月11日，星期一",
+            "summary": "Name Drop: Monday, April 11, 2022",
+            "date_modified": "2022-04-11T10:00:00.000Z",
+            "author": {
+                "name": "Will Nediger",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/culture/cover-story/cover-story-2022-04-18",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/cover-story/cover-story-2022-04-18",
+            "title": "尼科爾-裡夫金的 \"在角落裡\"",
+            "summary": "Nicole Rifkin’s “On the Corner”",
+            "date_modified": "2022-04-11T10:00:00.000Z",
+            "author": {
+                "name": "Françoise Mouly",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/books/this-week-in-fiction/sheila-heti-04-18-22",
+            "content_html": "",
+            "url": "https://www.newyorker.com/books/this-week-in-fiction/sheila-heti-04-18-22",
+            "title": "希拉-赫迪談匆忙和對青春的恐懼",
+            "summary": "Sheila Heti on the Rush and the Fear of Youth",
+            "date_modified": "2022-04-11T10:00:00.000Z",
+            "author": {
+                "name": "Cressida Leyshon",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/11/technology/china-russia-propaganda.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/11/technology/china-russia-propaganda.html",
@@ -7100,114 +7208,6 @@
             "author": {
                 "name": "Andy Borowitz",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/23/us/politics/pegasus-israel-ukraine-russia.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/23/us/politics/pegasus-israel-ukraine-russia.html",
-            "title": "以色列阻止向烏克蘭和愛沙尼亞出售飛馬間諜軟件",
-            "summary": "Israel Blocked Sale of Pegasus Spyware to Ukraine and Estonia",
-            "date_modified": "2022-03-23T16:58:42.000Z",
-            "author": {
-                "name": "Ronen Bergman and Mark Mazzetti",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/23/technology/global-shopping-big-tech.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/23/technology/global-shopping-big-tech.html",
-            "title": "沒有全球性的購物中心",
-            "summary": "There’s No Global Shopping Mall",
-            "date_modified": "2022-03-23T16:44:13.000Z",
-            "author": {
-                "name": "Shira Ovide",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/health/archive/2022/03/ba2-variant-rapid-testing/627591/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/health/archive/2022/03/ba2-variant-rapid-testing/627591/?utm_source=feed",
-            "title": "準備好迎接一波被遺漏的傳染病",
-            "summary": "Get Ready for a Wave of Missed Infections",
-            "date_modified": "2022-03-23T15:40:26.000Z",
-            "author": {
-                "name": "Benjamin Mazer",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/books/archive/2022/03/corinne-hoex-gentlemen-callers-review/627203/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/books/archive/2022/03/corinne-hoex-gentlemen-callers-review/627203/?utm_source=feed",
-            "title": "當今美國性生活的難題",
-            "summary": "The Conundrum of Sexual Life in Today’s America",
-            "date_modified": "2022-03-23T16:37:12.000Z",
-            "author": {
-                "name": "Zoë Hu",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/family/archive/2022/03/daylight-saving-time-compromise-bill/627589/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/family/archive/2022/03/daylight-saving-time-compromise-bill/627589/?utm_source=feed",
-            "title": "節省或不節省日光？",
-            "summary": "To Save or Not to Save Daylight?",
-            "date_modified": "2022-03-23T14:03:18.000Z",
-            "author": {
-                "name": "Joe Pinsker",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/cartoons/daily-cartoon/wednesday-march-23rd-hope-dread",
-            "content_html": "",
-            "url": "https://www.newyorker.com/cartoons/daily-cartoon/wednesday-march-23rd-hope-dread",
-            "title": "每日漫畫。3月23日，星期三",
-            "summary": "Daily Cartoon: Wednesday, March 23rd",
-            "date_modified": "2022-03-23T14:01:18.000Z",
-            "author": {
-                "name": "Ali Solomon",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/23/technology/stewart-brand-tech-personal-computer.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/23/technology/stewart-brand-tech-personal-computer.html",
-            "title": "為什麼這位硅谷預言家說他仍然是個樂觀主義者？",
-            "summary": "Why This Silicon Valley Prophet Says He’s Still an Optimist",
-            "date_modified": "2022-03-23T09:00:19.000Z",
-            "author": {
-                "name": "John Markoff",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/23/technology/personaltech/tech-obsolescence.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/23/technology/personaltech/tech-obsolescence.html",
-            "title": "是的，你可以讓你的技術在淘汰中倖存下來",
-            "summary": "Yes, You Can Make Your Tech Survive Obsolescence",
-            "date_modified": "2022-03-23T13:00:13.000Z",
-            "author": {
-                "name": "Brian X. Chen",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/23/technology/personaltech/tech-survive-obsolescence.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/23/technology/personaltech/tech-survive-obsolescence.html",
-            "title": "是的，你可以讓你的技術在淘汰中倖存下來",
-            "summary": "Yes, You Can Make Your Tech Survive Obsolescence",
-            "date_modified": "2022-03-23T13:00:12.000Z",
-            "author": {
-                "name": "Brian X. Chen",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
     ]
