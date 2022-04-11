@@ -11,6 +11,78 @@
     },
     "items": [
         {
+            "id": "https://www.davidhaney.io/on-secretly-terrible-engineers-a-rebuttal/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/on-secretly-terrible-engineers-a-rebuttal/",
+            "title": "關於秘密的可怕的工程師--反駁",
+            "summary": "On Secretly Terrible Engineers - A Rebuttal",
+            "date_modified": "2015-03-09T18:32:37.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/developers-shouldnt-measure-twice-cut-once/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/developers-shouldnt-measure-twice-cut-once/",
+            "title": "開發人員不應測量兩次，切割一次",
+            "summary": "Developers Shouldn't Measure Twice, Cut Once",
+            "date_modified": "2015-04-15T16:25:02.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/developer-turned-manager/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/developer-turned-manager/",
+            "title": "開發人員轉為經理",
+            "summary": "Developer Turned Manager",
+            "date_modified": "2015-08-03T14:18:02.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/diversity-is-really-freaking-hard/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/diversity-is-really-freaking-hard/",
+            "title": "多樣性真的很難得",
+            "summary": "Diversity Is Really Freaking Hard",
+            "date_modified": "2015-09-24T11:23:38.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/developer-compensation-stack-overflow-doesnt-stack-rank/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/developer-compensation-stack-overflow-doesnt-stack-rank/",
+            "title": "開發商補償。堆棧溢出並沒有堆棧排名",
+            "summary": "Developer Compensation: Stack Overflow Doesn't Stack Rank",
+            "date_modified": "2016-02-26T14:05:41.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/",
+            "title": "故宮博物院和左手掌。我們是否忘記了如何編程？",
+            "summary": "NPM & left-pad: Have We Forgotten How To Program?",
+            "date_modified": "2016-03-23T18:01:52.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
             "id": "https://www.davidhaney.io/lets-talk-about-rock-stars-egos/",
             "content_html": "",
             "url": "https://www.davidhaney.io/lets-talk-about-rock-stars-egos/",
@@ -7136,78 +7208,6 @@
             "author": {
                 "name": "Amy Davidson Sorkin",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/daily-comment/how-to-flood-putins-information-desert",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/daily-comment/how-to-flood-putins-information-desert",
-            "title": "如何淹沒普京的 \"信息沙漠\"",
-            "summary": "How to Flood Putin’s “Information Desert”",
-            "date_modified": "2022-03-24T18:32:11.000Z",
-            "author": {
-                "name": "Evan Osnos",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/humor/daily-shouts/awards-that-i-think-i-deserve-more-than-dolly-parton-thinks-she-deserves-a-spot-in-the-rock-and-roll-hall-of-fame",
-            "content_html": "",
-            "url": "https://www.newyorker.com/humor/daily-shouts/awards-that-i-think-i-deserve-more-than-dolly-parton-thinks-she-deserves-a-spot-in-the-rock-and-roll-hall-of-fame",
-            "title": "我認為我應該得到的獎項比多莉-帕頓認為她應該得到搖滾名人堂的席位更多",
-            "summary": "Awards That I Think I Deserve More Than Dolly Parton Thinks She Deserves a Spot in the Rock and Roll Hall of Fame",
-            "date_modified": "2022-03-24T18:00:00.000Z",
-            "author": {
-                "name": "Zoe Si",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/24/technology/stephen-wilhite-dead.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/24/technology/stephen-wilhite-dead.html",
-            "title": "GIF動畫的創造者斯蒂芬-威爾海特去世，享年74歲",
-            "summary": "Stephen Wilhite, Creator of the Animated GIF, Dies at 74",
-            "date_modified": "2022-03-24T17:40:20.000Z",
-            "author": {
-                "name": "Amanda Holpuch and Neil Vigdor",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/24/technology/delivery-robots-sidewalks.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/24/technology/delivery-robots-sidewalks.html",
-            "title": "爭奪街道和人行道",
-            "summary": "Competing for Streets and Sidewalks",
-            "date_modified": "2022-03-24T16:49:08.000Z",
-            "author": {
-                "name": "Shira Ovide",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/24/technology/eu-regulation-apple-meta-google.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/24/technology/eu-regulation-apple-meta-google.html",
-            "title": "歐盟通過具有里程碑意義的數字法案瞄準大型科技公司的權力",
-            "summary": "E.U. Takes Aim at Big Tech’s Power With Landmark Digital Act",
-            "date_modified": "2022-03-24T16:28:11.000Z",
-            "author": {
-                "name": "Adam Satariano",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/03/american-volunteer-foreign-fighters-ukraine-russia-war/627604/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/03/american-volunteer-foreign-fighters-ukraine-russia-war/627604/?utm_source=feed",
-            "title": "烏克蘭的 \"三比一 \"優勢",
-            "summary": "Ukraine’s Three-to-One Advantage",
-            "date_modified": "2022-03-24T16:43:38.000Z",
-            "author": {
-                "name": "Elliot Ackerman",
-                "url": "https://www.theatlantic.com/feed/all/"
             }
         }
     ]
