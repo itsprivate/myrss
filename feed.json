@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://noahpinion.substack.com/p/the-two-paper-rule",
+            "content_html": "",
+            "url": "https://noahpinion.substack.com/p/the-two-paper-rule",
+            "title": "两张纸规则",
+            "summary": "The Two Paper Rule",
+            "date_modified": "2022-04-11T06:10:10.000Z",
+            "author": {
+                "name": "Noah Smith",
+                "url": "https://noahpinion.substack.com/feed"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-04-18",
             "content_html": "",
             "url": "https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-04-18",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Robinson Meyer",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.currentaffairs.org/2022/02/on-experiencing-joe-rogan/",
-            "content_html": "",
-            "url": "https://www.currentaffairs.org/2022/02/on-experiencing-joe-rogan/",
-            "title": "关于体验乔-罗根",
-            "summary": "On Experiencing Joe Rogan",
-            "date_modified": "2022-02-12T11:04:16.000Z",
-            "author": {
-                "name": "Nathan J. Robinson",
-                "url": "https://www.currentaffairs.org/feed"
             }
         }
     ]
