@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 11 Apr 2022 19:29:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 19:52:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[欺騙性對齊的梅薩-優化器。如果我必須解釋，那就不好玩了]]></title>
+            <link>https://astralcodexten.substack.com/p/deceptively-aligned-mesa-optimizers</link>
+            <guid>https://astralcodexten.substack.com/p/deceptively-aligned-mesa-optimizers</guid>
+            <pubDate>Mon, 11 Apr 2022 19:46:52 GMT</pubDate>
+            <description><![CDATA[Deceptively Aligned Mesa-Optimizers: It's Not Funny If I Have To Explain It]]></description>
+        </item>
         <item>
             <title><![CDATA[追求紅色豐盈]]></title>
             <link>https://www.currentaffairs.org/2022/04/the-quest-for-red-plenty/</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.currentaffairs.org/2022/03/chris-hedges-on-the-inhumanity-of-wars-and-prisons/</guid>
             <pubDate>Fri, 25 Mar 2022 17:50:29 GMT</pubDate>
             <description><![CDATA[Chris Hedges on the Inhumanity of Wars and Prisons]]></description>
-        </item>
-        <item>
-            <title><![CDATA[債務所帶來的不可估量的危害]]></title>
-            <link>https://www.currentaffairs.org/2022/03/the-incalculable-harms-imposed-by-debt/</link>
-            <guid>https://www.currentaffairs.org/2022/03/the-incalculable-harms-imposed-by-debt/</guid>
-            <pubDate>Fri, 25 Mar 2022 17:24:21 GMT</pubDate>
-            <description><![CDATA[The Incalculable Harms Imposed by Debt]]></description>
         </item>
     </channel>
 </rss>
