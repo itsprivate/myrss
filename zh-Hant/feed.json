@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/daily-comment/france-is-still-standing-after-the-first-round-of-presidential-elections",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/daily-comment/france-is-still-standing-after-the-first-round-of-presidential-elections",
+            "title": "法國在第一輪總統選舉後仍然屹立不倒",
+            "summary": "France Is Still Standing After the First Round of Presidential Elections",
+            "date_modified": "2022-04-11T23:31:44.000Z",
+            "author": {
+                "name": "Adam Gopnik",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/11/technology/twitter-elon-musk-problem.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/11/technology/twitter-elon-musk-problem.html",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Katherine Rosman",
                 "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/letter-from-idaho",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/letter-from-idaho",
-            "title": "來自愛達荷州的信",
-            "summary": "Letter from Idaho",
-            "date_modified": "2022-03-26T02:00:16.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]

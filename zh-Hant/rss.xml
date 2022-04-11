@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 11 Apr 2022 21:41:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 23:45:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[法國在第一輪總統選舉後仍然屹立不倒]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/france-is-still-standing-after-the-first-round-of-presidential-elections</link>
+            <guid>https://www.newyorker.com/news/daily-comment/france-is-still-standing-after-the-first-round-of-presidential-elections</guid>
+            <pubDate>Mon, 11 Apr 2022 23:31:44 GMT</pubDate>
+            <description><![CDATA[France Is Still Standing After the First Round of Presidential Elections]]></description>
+        </item>
         <item>
             <title><![CDATA[推特應對埃隆-馬斯克的問題]]></title>
             <link>https://www.nytimes.com/2022/04/11/technology/twitter-elon-musk-problem.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.nytimes.com/2022/03/26/style/jay-penske.html</guid>
             <pubDate>Sat, 26 Mar 2022 09:00:14 GMT</pubDate>
             <description><![CDATA[You Don’t Know Much About Jay Penske. And He’s Fine With That.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[來自愛達荷州的信]]></title>
-            <link>https://www.newyorker.com/magazine/letter-from-idaho</link>
-            <guid>https://www.newyorker.com/magazine/letter-from-idaho</guid>
-            <pubDate>Sat, 26 Mar 2022 02:00:16 GMT</pubDate>
-            <description><![CDATA[Letter from Idaho]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-11T21:41:42.513Z</updated>
+    <updated>2022-04-11T23:45:24.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[法国在第一轮总统选举后仍然屹立不倒]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/france-is-still-standing-after-the-first-round-of-presidential-elections</id>
+        <link href="https://www.newyorker.com/news/daily-comment/france-is-still-standing-after-the-first-round-of-presidential-elections"/>
+        <updated>2022-04-11T23:31:44.000Z</updated>
+        <summary type="html"><![CDATA[France Is Still Standing After the First Round of Presidential Elections]]></summary>
+        <author>
+            <name>Adam Gopnik</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[推特应对埃隆-马斯克的问题]]></title>
         <id>https://www.nytimes.com/2022/04/11/technology/twitter-elon-musk-problem.html</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Katherine Rosman</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[来自爱达荷州的信]]></title>
-        <id>https://www.newyorker.com/magazine/letter-from-idaho</id>
-        <link href="https://www.newyorker.com/magazine/letter-from-idaho"/>
-        <updated>2022-03-26T02:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Letter from Idaho]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
