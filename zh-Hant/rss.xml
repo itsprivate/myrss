@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 11 Apr 2022 14:31:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 14:40:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[假釋程序的非人化戲劇]]></title>
+            <link>https://www.newyorker.com/video/watch/the-dehumanizing-theater-of-the-parole-process</link>
+            <guid>https://www.newyorker.com/video/watch/the-dehumanizing-theater-of-the-parole-process</guid>
+            <pubDate>Wed, 17 Nov 2021 11:00:00 GMT</pubDate>
+            <description><![CDATA[The Dehumanizing Theatre of the Parole Process]]></description>
+        </item>
         <item>
             <title><![CDATA[一位烏克蘭法官加入國家的兇猛抵抗行動]]></title>
             <link>https://www.newyorker.com/news/dispatch/a-ukrainian-judge-joins-the-nations-ferocious-resistance</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/news/news-desk/legal-scholars-are-shocked-by-ginni-thomass-stop-the-steal-texts</guid>
             <pubDate>Fri, 25 Mar 2022 15:53:59 GMT</pubDate>
             <description><![CDATA[Legal Scholars Are Shocked By Ginni Thomas’s “Stop the Steal” Texts]]></description>
-        </item>
-        <item>
-            <title><![CDATA[通往最高法院道路上的一個障礙]]></title>
-            <link>https://www.newyorker.com/cartoons/blitts-kvetchbook/an-obstacle-on-the-path-to-the-supreme-court</link>
-            <guid>https://www.newyorker.com/cartoons/blitts-kvetchbook/an-obstacle-on-the-path-to-the-supreme-court</guid>
-            <pubDate>Fri, 25 Mar 2022 15:54:47 GMT</pubDate>
-            <description><![CDATA[An Obstacle on the Path to the Supreme Court]]></description>
         </item>
     </channel>
 </rss>
