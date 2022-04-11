@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-11T10:55:39.249Z</updated>
+    <updated>2022-04-11T11:13:34.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[安息日开始了]]></title>
+        <id>https://www.davidhaney.io/sabbatical-begins/</id>
+        <link href="https://www.davidhaney.io/sabbatical-begins/"/>
+        <updated>2019-08-31T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sabbatical Begins]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安息日第一周]]></title>
+        <id>https://www.davidhaney.io/sabbatical-week-one/</id>
+        <link href="https://www.davidhaney.io/sabbatical-week-one/"/>
+        <updated>2019-09-08T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sabbatical Week One]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET Core MVC - 如何访问appsettings.json]]></title>
+        <id>https://www.davidhaney.io/net-core-mvc-access-appsettings-json/</id>
+        <link href="https://www.davidhaney.io/net-core-mvc-access-appsettings-json/"/>
+        <updated>2020-11-09T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[.NET Core MVC - How to Access appsettings.json]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[爱荷华州是否已经举行了最后一次党团会议？]]></title>
+        <id>https://www.theatlantic.com/politics/archive/2022/04/iowa-caucus-dnc-proposal-2024-election/629511/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/politics/archive/2022/04/iowa-caucus-dnc-proposal-2024-election/629511/?utm_source=feed"/>
+        <updated>2022-04-11T11:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Has Iowa Had Its Last First Caucus?]]></summary>
+        <author>
+            <name>Elaine Godfrey</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[您是否正确地使用了<em>Gaslight</em>？]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/04/are-you-using-gaslight-correctly/629522/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/04/are-you-using-gaslight-correctly/629522/?utm_source=feed"/>
+        <updated>2022-04-11T11:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Are You Using <em>Gaslight</em> Correctly?]]></summary>
+        <author>
+            <name>Caleb Madison</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[页面上的思考]]></title>
         <id>https://austinkleon.substack.com/p/thinking-on-the-page</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>Matt Jackson</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无论如何写吧]]></title>
-        <id>https://dkb.io/post/write-it-anyway</id>
-        <link href="https://dkb.io/post/write-it-anyway"/>
-        <updated>2017-07-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Write It Anyway]]></summary>
-        <author>
-            <name>dkb@dkb.fyi (dkb)</name>
-            <uri>https://dkb.io/rss.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[组织世界上的信息]]></title>
-        <id>https://dkb.io/post/organize-the-world-information</id>
-        <link href="https://dkb.io/post/organize-the-world-information"/>
-        <updated>2021-02-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[To Organize The World's Information]]></summary>
-        <author>
-            <name>dkb@dkb.fyi (dkb)</name>
-            <uri>https://dkb.io/rss.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何阅读一本书]]></title>
-        <id>https://dkb.io/post/how-to-read-a-book</id>
-        <link href="https://dkb.io/post/how-to-read-a-book"/>
-        <updated>2022-02-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How To Read A Book]]></summary>
-        <author>
-            <name>dkb@dkb.fyi (dkb)</name>
-            <uri>https://dkb.io/rss.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌搜索正在消亡]]></title>
-        <id>https://dkb.io/post/google-search-is-dying</id>
-        <link href="https://dkb.io/post/google-search-is-dying"/>
-        <updated>2022-02-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Google Search Is Dying]]></summary>
-        <author>
-            <name>dkb@dkb.fyi (dkb)</name>
-            <uri>https://dkb.io/rss.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西方的团结是暂时的]]></title>
-        <id>https://www.theatlantic.com/international/archive/2022/03/biden-nato-summit-russia-invasion-ukraine/627598/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/international/archive/2022/03/biden-nato-summit-russia-invasion-ukraine/627598/?utm_source=feed"/>
-        <updated>2022-03-24T07:00:57.000Z</updated>
-        <summary type="html"><![CDATA[The West’s Unity Is Temporary]]></summary>
-        <author>
-            <name>Tom McTague</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>

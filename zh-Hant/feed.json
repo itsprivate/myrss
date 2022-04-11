@@ -11,6 +11,66 @@
     },
     "items": [
         {
+            "id": "https://www.davidhaney.io/sabbatical-begins/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/sabbatical-begins/",
+            "title": "安息日開始了",
+            "summary": "Sabbatical Begins",
+            "date_modified": "2019-08-31T05:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/sabbatical-week-one/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/sabbatical-week-one/",
+            "title": "安息日第一週",
+            "summary": "Sabbatical Week One",
+            "date_modified": "2019-09-08T05:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/net-core-mvc-access-appsettings-json/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/net-core-mvc-access-appsettings-json/",
+            "title": ".NET Core MVC - 如何訪問appsettings.json",
+            "summary": ".NET Core MVC - How to Access appsettings.json",
+            "date_modified": "2020-11-09T05:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/politics/archive/2022/04/iowa-caucus-dnc-proposal-2024-election/629511/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/politics/archive/2022/04/iowa-caucus-dnc-proposal-2024-election/629511/?utm_source=feed",
+            "title": "愛荷華州是否已經舉行了最後一次黨團會議？",
+            "summary": "Has Iowa Had Its Last First Caucus?",
+            "date_modified": "2022-04-11T11:00:56.000Z",
+            "author": {
+                "name": "Elaine Godfrey",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/newsletters/archive/2022/04/are-you-using-gaslight-correctly/629522/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/newsletters/archive/2022/04/are-you-using-gaslight-correctly/629522/?utm_source=feed",
+            "title": "您是否正確地使用了<em>Gaslight</em>？",
+            "summary": "Are You Using <em>Gaslight</em> Correctly?",
+            "date_modified": "2022-04-11T11:00:57.000Z",
+            "author": {
+                "name": "Caleb Madison",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://austinkleon.substack.com/p/thinking-on-the-page",
             "content_html": "",
             "url": "https://austinkleon.substack.com/p/thinking-on-the-page",
@@ -7148,66 +7208,6 @@
             "author": {
                 "name": "Matt Jackson",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://dkb.io/post/write-it-anyway",
-            "content_html": "",
-            "url": "https://dkb.io/post/write-it-anyway",
-            "title": "無論如何寫吧",
-            "summary": "Write It Anyway",
-            "date_modified": "2017-07-29T00:00:00.000Z",
-            "author": {
-                "name": "dkb@dkb.fyi (dkb)",
-                "url": "https://dkb.io/rss.xml"
-            }
-        },
-        {
-            "id": "https://dkb.io/post/organize-the-world-information",
-            "content_html": "",
-            "url": "https://dkb.io/post/organize-the-world-information",
-            "title": "組織世界上的信息",
-            "summary": "To Organize The World's Information",
-            "date_modified": "2021-02-28T00:00:00.000Z",
-            "author": {
-                "name": "dkb@dkb.fyi (dkb)",
-                "url": "https://dkb.io/rss.xml"
-            }
-        },
-        {
-            "id": "https://dkb.io/post/how-to-read-a-book",
-            "content_html": "",
-            "url": "https://dkb.io/post/how-to-read-a-book",
-            "title": "如何閱讀一本書",
-            "summary": "How To Read A Book",
-            "date_modified": "2022-02-06T00:00:00.000Z",
-            "author": {
-                "name": "dkb@dkb.fyi (dkb)",
-                "url": "https://dkb.io/rss.xml"
-            }
-        },
-        {
-            "id": "https://dkb.io/post/google-search-is-dying",
-            "content_html": "",
-            "url": "https://dkb.io/post/google-search-is-dying",
-            "title": "谷歌搜索正在消亡",
-            "summary": "Google Search Is Dying",
-            "date_modified": "2022-02-15T00:00:00.000Z",
-            "author": {
-                "name": "dkb@dkb.fyi (dkb)",
-                "url": "https://dkb.io/rss.xml"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/international/archive/2022/03/biden-nato-summit-russia-invasion-ukraine/627598/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/international/archive/2022/03/biden-nato-summit-russia-invasion-ukraine/627598/?utm_source=feed",
-            "title": "西方的團結是暫時的",
-            "summary": "The West’s Unity Is Temporary",
-            "date_modified": "2022-03-24T07:00:57.000Z",
-            "author": {
-                "name": "Tom McTague",
-                "url": "https://www.theatlantic.com/feed/all/"
             }
         }
     ]
