@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 11 Apr 2022 11:54:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 12:21:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,48 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何保證開發團隊的失敗]]></title>
+            <link>https://www.davidhaney.io/how-to-guarantee-dev-team-failure/</link>
+            <guid>https://www.davidhaney.io/how-to-guarantee-dev-team-failure/</guid>
+            <pubDate>Wed, 07 May 2014 13:27:35 GMT</pubDate>
+            <description><![CDATA[How To Guarantee Dev Team Failure]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我是如何在Stack Exchange得到一份工作的]]></title>
+            <link>https://www.davidhaney.io/how-i-got-a-job-at-stack-exchange/</link>
+            <guid>https://www.davidhaney.io/how-i-got-a-job-at-stack-exchange/</guid>
+            <pubDate>Fri, 20 Jun 2014 16:59:10 GMT</pubDate>
+            <description><![CDATA[How I Got A Job At Stack Exchange]]></description>
+        </item>
+        <item>
+            <title><![CDATA[iPhone 6。風格大於實質]]></title>
+            <link>https://www.davidhaney.io/iphone-6-style-over-substance/</link>
+            <guid>https://www.davidhaney.io/iphone-6-style-over-substance/</guid>
+            <pubDate>Tue, 09 Sep 2014 19:22:53 GMT</pubDate>
+            <description><![CDATA[iPhone 6: Style Over Substance]]></description>
+        </item>
+        <item>
+            <title><![CDATA[工作頭銜的問題]]></title>
+            <link>https://www.davidhaney.io/the-trouble-with-job-titles/</link>
+            <guid>https://www.davidhaney.io/the-trouble-with-job-titles/</guid>
+            <pubDate>Fri, 17 Oct 2014 18:41:14 GMT</pubDate>
+            <description><![CDATA[The Trouble With Job Titles]]></description>
+        </item>
+        <item>
+            <title><![CDATA[論軟件開發中的資歷主義]]></title>
+            <link>https://www.davidhaney.io/on-credentialism-in-software-development/</link>
+            <guid>https://www.davidhaney.io/on-credentialism-in-software-development/</guid>
+            <pubDate>Mon, 29 Dec 2014 16:00:27 GMT</pubDate>
+            <description><![CDATA[On Credentialism In Software Development]]></description>
+        </item>
+        <item>
+            <title><![CDATA[招聘的競爭優勢]]></title>
+            <link>https://www.davidhaney.io/the-recruiting-competitive-advantage/</link>
+            <guid>https://www.davidhaney.io/the-recruiting-competitive-advantage/</guid>
+            <pubDate>Fri, 23 Jan 2015 12:04:37 GMT</pubDate>
+            <description><![CDATA[The Recruiting Competitive Advantage]]></description>
+        </item>
         <item>
             <title><![CDATA[關於秘密的可怕的工程師--反駁]]></title>
             <link>https://www.davidhaney.io/on-secretly-terrible-engineers-a-rebuttal/</link>
@@ -4171,48 +4213,6 @@
             <guid>https://www.newyorker.com/news/postscript/madeleine-albright-was-the-first-most-powerful-woman-in-us-history</guid>
             <pubDate>Thu, 24 Mar 2022 19:21:44 GMT</pubDate>
             <description><![CDATA[Madeleine Albright Was the First “Most Powerful Woman” in U.S. History]]></description>
-        </item>
-        <item>
-            <title><![CDATA[馬德琳-奧爾布賴特是美國曆史上第一個 "最有權力的女人"。]]></title>
-            <link>https://www.newyorker.com/news/postscript/madeleine-albright-was-the-first-most-powerful-woman-in-us-history</link>
-            <guid>https://www.newyorker.com/news/postscript/madeleine-albright-was-the-first-most-powerful-woman-in-us-history</guid>
-            <pubDate>Thu, 24 Mar 2022 19:21:44 GMT</pubDate>
-            <description><![CDATA[Madeleine Albright Was the First “Most Powerful Woman” in U.S. History]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在普京的陰影下聽俄羅斯音樂]]></title>
-            <link>https://www.newyorker.com/culture/cultural-comment/listening-to-russian-music-in-putins-shadow</link>
-            <guid>https://www.newyorker.com/culture/cultural-comment/listening-to-russian-music-in-putins-shadow</guid>
-            <pubDate>Thu, 24 Mar 2022 18:45:28 GMT</pubDate>
-            <description><![CDATA[Listening to Russian Music in Putin’s Shadow]]></description>
-        </item>
-        <item>
-            <title><![CDATA[關於 "正義的蠕動 "的評論中的亮點]]></title>
-            <link>https://astralcodexten.substack.com/p/highlights-from-the-comments-on-justice</link>
-            <guid>https://astralcodexten.substack.com/p/highlights-from-the-comments-on-justice</guid>
-            <pubDate>Thu, 24 Mar 2022 18:12:57 GMT</pubDate>
-            <description><![CDATA[Highlights From The Comments On Justice Creep]]></description>
-        </item>
-        <item>
-            <title><![CDATA[隱秘的開放性主題216.5]]></title>
-            <link>https://astralcodexten.substack.com/p/hidden-open-thread-2165</link>
-            <guid>https://astralcodexten.substack.com/p/hidden-open-thread-2165</guid>
-            <pubDate>Thu, 24 Mar 2022 18:29:36 GMT</pubDate>
-            <description><![CDATA[Hidden Open Thread 216.5]]></description>
-        </item>
-        <item>
-            <title><![CDATA[爆發戰爭的軟實力政治]]></title>
-            <link>https://www.newyorker.com/news/q-and-a/the-soft-power-politics-that-exploded-into-war</link>
-            <guid>https://www.newyorker.com/news/q-and-a/the-soft-power-politics-that-exploded-into-war</guid>
-            <pubDate>Thu, 24 Mar 2022 18:13:19 GMT</pubDate>
-            <description><![CDATA[The Soft-Power Politics That Exploded Into War]]></description>
-        </item>
-        <item>
-            <title><![CDATA[共和黨人在凱坦吉-布朗-傑克遜的確認聽證會上的瘋狂攻擊]]></title>
-            <link>https://www.newyorker.com/news/daily-comment/the-republicans-wild-attacks-at-ketanji-brown-jacksons-confirmation-hearing</link>
-            <guid>https://www.newyorker.com/news/daily-comment/the-republicans-wild-attacks-at-ketanji-brown-jacksons-confirmation-hearing</guid>
-            <pubDate>Thu, 24 Mar 2022 18:30:00 GMT</pubDate>
-            <description><![CDATA[The Republicans’ Wild Attacks at Ketanji Brown Jackson’s Confirmation Hearing]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-11T11:54:02.124Z</updated>
+    <updated>2022-04-11T12:21:19.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何保证开发团队的失败]]></title>
+        <id>https://www.davidhaney.io/how-to-guarantee-dev-team-failure/</id>
+        <link href="https://www.davidhaney.io/how-to-guarantee-dev-team-failure/"/>
+        <updated>2014-05-07T13:27:35.000Z</updated>
+        <summary type="html"><![CDATA[How To Guarantee Dev Team Failure]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我是如何在Stack Exchange得到一份工作的]]></title>
+        <id>https://www.davidhaney.io/how-i-got-a-job-at-stack-exchange/</id>
+        <link href="https://www.davidhaney.io/how-i-got-a-job-at-stack-exchange/"/>
+        <updated>2014-06-20T16:59:10.000Z</updated>
+        <summary type="html"><![CDATA[How I Got A Job At Stack Exchange]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 6。风格大于实质]]></title>
+        <id>https://www.davidhaney.io/iphone-6-style-over-substance/</id>
+        <link href="https://www.davidhaney.io/iphone-6-style-over-substance/"/>
+        <updated>2014-09-09T19:22:53.000Z</updated>
+        <summary type="html"><![CDATA[iPhone 6: Style Over Substance]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[工作头衔的问题]]></title>
+        <id>https://www.davidhaney.io/the-trouble-with-job-titles/</id>
+        <link href="https://www.davidhaney.io/the-trouble-with-job-titles/"/>
+        <updated>2014-10-17T18:41:14.000Z</updated>
+        <summary type="html"><![CDATA[The Trouble With Job Titles]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[论软件开发中的资历主义]]></title>
+        <id>https://www.davidhaney.io/on-credentialism-in-software-development/</id>
+        <link href="https://www.davidhaney.io/on-credentialism-in-software-development/"/>
+        <updated>2014-12-29T16:00:27.000Z</updated>
+        <summary type="html"><![CDATA[On Credentialism In Software Development]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招聘的竞争优势]]></title>
+        <id>https://www.davidhaney.io/the-recruiting-competitive-advantage/</id>
+        <link href="https://www.davidhaney.io/the-recruiting-competitive-advantage/"/>
+        <updated>2015-01-23T12:04:37.000Z</updated>
+        <summary type="html"><![CDATA[The Recruiting Competitive Advantage]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于秘密的可怕的工程师--反驳]]></title>
         <id>https://www.davidhaney.io/on-secretly-terrible-engineers-a-rebuttal/</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>Robin Wright</name>
             <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马德琳-奥尔布赖特是美国历史上第一个 "最有权力的女人"。]]></title>
-        <id>https://www.newyorker.com/news/postscript/madeleine-albright-was-the-first-most-powerful-woman-in-us-history</id>
-        <link href="https://www.newyorker.com/news/postscript/madeleine-albright-was-the-first-most-powerful-woman-in-us-history"/>
-        <updated>2022-03-24T19:21:44.000Z</updated>
-        <summary type="html"><![CDATA[Madeleine Albright Was the First “Most Powerful Woman” in U.S. History]]></summary>
-        <author>
-            <name>Robin Wright</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在普京的阴影下听俄罗斯音乐]]></title>
-        <id>https://www.newyorker.com/culture/cultural-comment/listening-to-russian-music-in-putins-shadow</id>
-        <link href="https://www.newyorker.com/culture/cultural-comment/listening-to-russian-music-in-putins-shadow"/>
-        <updated>2022-03-24T18:45:28.000Z</updated>
-        <summary type="html"><![CDATA[Listening to Russian Music in Putin’s Shadow]]></summary>
-        <author>
-            <name>Alex Ross</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于 "正义的蠕动 "的评论中的亮点]]></title>
-        <id>https://astralcodexten.substack.com/p/highlights-from-the-comments-on-justice</id>
-        <link href="https://astralcodexten.substack.com/p/highlights-from-the-comments-on-justice"/>
-        <updated>2022-03-24T18:12:57.000Z</updated>
-        <summary type="html"><![CDATA[Highlights From The Comments On Justice Creep]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隐秘的开放性主题216.5]]></title>
-        <id>https://astralcodexten.substack.com/p/hidden-open-thread-2165</id>
-        <link href="https://astralcodexten.substack.com/p/hidden-open-thread-2165"/>
-        <updated>2022-03-24T18:29:36.000Z</updated>
-        <summary type="html"><![CDATA[Hidden Open Thread 216.5]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爆发战争的软实力政治]]></title>
-        <id>https://www.newyorker.com/news/q-and-a/the-soft-power-politics-that-exploded-into-war</id>
-        <link href="https://www.newyorker.com/news/q-and-a/the-soft-power-politics-that-exploded-into-war"/>
-        <updated>2022-03-24T18:13:19.000Z</updated>
-        <summary type="html"><![CDATA[The Soft-Power Politics That Exploded Into War]]></summary>
-        <author>
-            <name>Isaac Chotiner</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[共和党人在凯坦吉-布朗-杰克逊的确认听证会上的疯狂攻击]]></title>
-        <id>https://www.newyorker.com/news/daily-comment/the-republicans-wild-attacks-at-ketanji-brown-jacksons-confirmation-hearing</id>
-        <link href="https://www.newyorker.com/news/daily-comment/the-republicans-wild-attacks-at-ketanji-brown-jacksons-confirmation-hearing"/>
-        <updated>2022-03-24T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The Republicans’ Wild Attacks at Ketanji Brown Jackson’s Confirmation Hearing]]></summary>
-        <author>
-            <name>Amy Davidson Sorkin</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>

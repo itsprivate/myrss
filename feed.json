@@ -11,6 +11,78 @@
     },
     "items": [
         {
+            "id": "https://www.davidhaney.io/how-to-guarantee-dev-team-failure/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/how-to-guarantee-dev-team-failure/",
+            "title": "如何保证开发团队的失败",
+            "summary": "How To Guarantee Dev Team Failure",
+            "date_modified": "2014-05-07T13:27:35.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/how-i-got-a-job-at-stack-exchange/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/how-i-got-a-job-at-stack-exchange/",
+            "title": "我是如何在Stack Exchange得到一份工作的",
+            "summary": "How I Got A Job At Stack Exchange",
+            "date_modified": "2014-06-20T16:59:10.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/iphone-6-style-over-substance/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/iphone-6-style-over-substance/",
+            "title": "iPhone 6。风格大于实质",
+            "summary": "iPhone 6: Style Over Substance",
+            "date_modified": "2014-09-09T19:22:53.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/the-trouble-with-job-titles/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/the-trouble-with-job-titles/",
+            "title": "工作头衔的问题",
+            "summary": "The Trouble With Job Titles",
+            "date_modified": "2014-10-17T18:41:14.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/on-credentialism-in-software-development/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/on-credentialism-in-software-development/",
+            "title": "论软件开发中的资历主义",
+            "summary": "On Credentialism In Software Development",
+            "date_modified": "2014-12-29T16:00:27.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/the-recruiting-competitive-advantage/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/the-recruiting-competitive-advantage/",
+            "title": "招聘的竞争优势",
+            "summary": "The Recruiting Competitive Advantage",
+            "date_modified": "2015-01-23T12:04:37.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
             "id": "https://www.davidhaney.io/on-secretly-terrible-engineers-a-rebuttal/",
             "content_html": "",
             "url": "https://www.davidhaney.io/on-secretly-terrible-engineers-a-rebuttal/",
@@ -7136,78 +7208,6 @@
             "author": {
                 "name": "Robin Wright",
                 "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/postscript/madeleine-albright-was-the-first-most-powerful-woman-in-us-history",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/postscript/madeleine-albright-was-the-first-most-powerful-woman-in-us-history",
-            "title": "马德琳-奥尔布赖特是美国历史上第一个 \"最有权力的女人\"。",
-            "summary": "Madeleine Albright Was the First “Most Powerful Woman” in U.S. History",
-            "date_modified": "2022-03-24T19:21:44.000Z",
-            "author": {
-                "name": "Robin Wright",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/cultural-comment/listening-to-russian-music-in-putins-shadow",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/cultural-comment/listening-to-russian-music-in-putins-shadow",
-            "title": "在普京的阴影下听俄罗斯音乐",
-            "summary": "Listening to Russian Music in Putin’s Shadow",
-            "date_modified": "2022-03-24T18:45:28.000Z",
-            "author": {
-                "name": "Alex Ross",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://astralcodexten.substack.com/p/highlights-from-the-comments-on-justice",
-            "content_html": "",
-            "url": "https://astralcodexten.substack.com/p/highlights-from-the-comments-on-justice",
-            "title": "关于 \"正义的蠕动 \"的评论中的亮点",
-            "summary": "Highlights From The Comments On Justice Creep",
-            "date_modified": "2022-03-24T18:12:57.000Z",
-            "author": {
-                "name": "Scott Alexander",
-                "url": "https://astralcodexten.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://astralcodexten.substack.com/p/hidden-open-thread-2165",
-            "content_html": "",
-            "url": "https://astralcodexten.substack.com/p/hidden-open-thread-2165",
-            "title": "隐秘的开放性主题216.5",
-            "summary": "Hidden Open Thread 216.5",
-            "date_modified": "2022-03-24T18:29:36.000Z",
-            "author": {
-                "name": "Scott Alexander",
-                "url": "https://astralcodexten.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/q-and-a/the-soft-power-politics-that-exploded-into-war",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/q-and-a/the-soft-power-politics-that-exploded-into-war",
-            "title": "爆发战争的软实力政治",
-            "summary": "The Soft-Power Politics That Exploded Into War",
-            "date_modified": "2022-03-24T18:13:19.000Z",
-            "author": {
-                "name": "Isaac Chotiner",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/daily-comment/the-republicans-wild-attacks-at-ketanji-brown-jacksons-confirmation-hearing",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/daily-comment/the-republicans-wild-attacks-at-ketanji-brown-jacksons-confirmation-hearing",
-            "title": "共和党人在凯坦吉-布朗-杰克逊的确认听证会上的疯狂攻击",
-            "summary": "The Republicans’ Wild Attacks at Ketanji Brown Jackson’s Confirmation Hearing",
-            "date_modified": "2022-03-24T18:30:00.000Z",
-            "author": {
-                "name": "Amy Davidson Sorkin",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]
