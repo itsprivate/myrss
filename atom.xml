@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-11T13:00:53.676Z</updated>
+    <updated>2022-04-11T13:29:58.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,94 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[但它并没有发生在开发或QA中!]]></title>
+        <id>https://www.davidhaney.io/but-it-didnt-happen-in-dev-or-qa/</id>
+        <link href="https://www.davidhaney.io/but-it-didnt-happen-in-dev-or-qa/"/>
+        <updated>2012-12-02T17:22:20.000Z</updated>
+        <summary type="html"><![CDATA[But it Didn't Happen in DEV or QA!]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[由红门出版]]></title>
+        <id>https://www.davidhaney.io/published-by-red-gate/</id>
+        <link href="https://www.davidhaney.io/published-by-red-gate/"/>
+        <updated>2013-01-18T15:10:04.000Z</updated>
+        <summary type="html"><![CDATA[Published by Red Gate]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[根据文件名确定MIME类型]]></title>
+        <id>https://www.davidhaney.io/determine-mime-type-from-file-name/</id>
+        <link href="https://www.davidhaney.io/determine-mime-type-from-file-name/"/>
+        <updated>2013-02-11T15:15:46.000Z</updated>
+        <summary type="html"><![CDATA[Determine MIME Type from File Name]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个更好的MIME映射窃取器!]]></title>
+        <id>https://www.davidhaney.io/a-better-mime-mapping-stealer/</id>
+        <link href="https://www.davidhaney.io/a-better-mime-mapping-stealer/"/>
+        <updated>2013-02-12T12:07:12.000Z</updated>
+        <summary type="html"><![CDATA[A Better MIME Mapping Stealer!]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[让多读、少写的清单更有效率]]></title>
+        <id>https://www.davidhaney.io/make-mostly-read-seldom-written-lists-much-more-efficient/</id>
+        <link href="https://www.davidhaney.io/make-mostly-read-seldom-written-lists-much-more-efficient/"/>
+        <updated>2013-03-15T17:11:42.000Z</updated>
+        <summary type="html"><![CDATA[Make Mostly Read, Seldom-Written Lists Much More Efficient]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于列表二进制搜索的另一件事]]></title>
+        <id>https://www.davidhaney.io/one-more-thing-about-list-binary-search/</id>
+        <link href="https://www.davidhaney.io/one-more-thing-about-list-binary-search/"/>
+        <updated>2013-03-30T15:36:24.000Z</updated>
+        <summary type="html"><![CDATA[One More Thing About List Binary Search]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仿制药比较器]]></title>
+        <id>https://www.davidhaney.io/generic-comparer/</id>
+        <link href="https://www.davidhaney.io/generic-comparer/"/>
+        <updated>2013-04-22T14:53:17.000Z</updated>
+        <summary type="html"><![CDATA[Generic Comparer]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网络API映射查询字符串/表单输入]]></title>
+        <id>https://www.davidhaney.io/web-api-mapping-querystringform-input/</id>
+        <link href="https://www.davidhaney.io/web-api-mapping-querystringform-input/"/>
+        <updated>2013-07-24T17:55:12.000Z</updated>
+        <summary type="html"><![CDATA[Web API Mapping QueryString/Form Input]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用T4从数据库中自动生成POCOs]]></title>
         <id>https://www.davidhaney.io/automatically-generate-pocos-from-db-with-t4/</id>
@@ -6524,94 +6612,6 @@
         <summary type="html"><![CDATA[The Crossword: Friday, March 25, 2022]]></summary>
         <author>
             <name>Robyn Weintraub</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通往今年奥斯卡奖的坎坷之路]]></title>
-        <id>https://www.newyorker.com/culture/culture-desk/the-rocky-road-to-this-years-oscars</id>
-        <link href="https://www.newyorker.com/culture/culture-desk/the-rocky-road-to-this-years-oscars"/>
-        <updated>2022-03-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Rocky Road to This Year’s Oscars]]></summary>
-        <author>
-            <name>Michael Schulman</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚裔美国妇女的反击]]></title>
-        <id>https://www.newyorker.com/culture/photo-booth/asian-american-women-fight-back</id>
-        <link href="https://www.newyorker.com/culture/photo-booth/asian-american-women-fight-back"/>
-        <updated>2022-03-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Asian American Women Fight Back]]></summary>
-        <author>
-            <name>Jiayang Fan</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[南达科他州的一个新的堕胎战场]]></title>
-        <id>https://www.newyorker.com/news/dispatch/a-new-abortion-battleground-in-south-dakota</id>
-        <link href="https://www.newyorker.com/news/dispatch/a-new-abortion-battleground-in-south-dakota"/>
-        <updated>2022-03-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A New Abortion Battleground, in South Dakota]]></summary>
-        <author>
-            <name>Peter Slevin</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大多数美国人憎恨他们的工作的神话]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2022/03/american-great-resignation-hate-work/627761/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/american-great-resignation-hate-work/627761/?utm_source=feed"/>
-        <updated>2022-03-25T10:01:56.000Z</updated>
-        <summary type="html"><![CDATA[The Myth That Most Americans Hate Their Job]]></summary>
-        <author>
-            <name>Derek Thompson</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[处于紧张状态的<em>CODA</em>的核心部分]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/coda-deaf-actors-supporting-roles/627609/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/coda-deaf-actors-supporting-roles/627609/?utm_source=feed"/>
-        <updated>2022-03-25T09:00:58.000Z</updated>
-        <summary type="html"><![CDATA[The Tension at the Heart of <em>CODA</em>]]></summary>
-        <author>
-            <name>John Hendrickson</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[汽车将再次取得胜利]]></title>
-        <id>https://noahpinion.substack.com/p/the-car-will-triumph-again</id>
-        <link href="https://noahpinion.substack.com/p/the-car-will-triumph-again"/>
-        <updated>2022-03-25T06:28:54.000Z</updated>
-        <summary type="html"><![CDATA[The car will triumph, again]]></summary>
-        <author>
-            <name>Noah Smith</name>
-            <uri>https://noahpinion.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周的照片。燃烧的老虎、鱼头、猫假发]]></title>
-        <id>https://www.theatlantic.com/photo/2022/03/photos-of-the-week-burning-tiger-fish-heads-cat-wig/629360/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/photo/2022/03/photos-of-the-week-burning-tiger-fish-heads-cat-wig/629360/?utm_source=feed"/>
-        <updated>2022-03-25T04:31:56.000Z</updated>
-        <summary type="html"><![CDATA[Photos of the Week: Burning Tiger, Fish Heads, Cat Wig]]></summary>
-        <author>
-            <name>Alan Taylor</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["所有的东西都在同一时间，"评论说。不存在那里，那里也不存在]]></title>
-        <id>https://www.newyorker.com/culture/the-front-row/everything-everywhere-all-at-once-reviewed-theres-no-there-there</id>
-        <link href="https://www.newyorker.com/culture/the-front-row/everything-everywhere-all-at-once-reviewed-theres-no-there-there"/>
-        <updated>2022-03-24T22:23:57.000Z</updated>
-        <summary type="html"><![CDATA[“Everything Everywhere All at Once,” Reviewed: There’s No There There]]></summary>
-        <author>
-            <name>Richard Brody</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

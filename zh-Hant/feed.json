@@ -11,6 +11,102 @@
     },
     "items": [
         {
+            "id": "https://www.davidhaney.io/but-it-didnt-happen-in-dev-or-qa/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/but-it-didnt-happen-in-dev-or-qa/",
+            "title": "但它並沒有發生在開發或QA中!",
+            "summary": "But it Didn't Happen in DEV or QA!",
+            "date_modified": "2012-12-02T17:22:20.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/published-by-red-gate/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/published-by-red-gate/",
+            "title": "由紅門出版",
+            "summary": "Published by Red Gate",
+            "date_modified": "2013-01-18T15:10:04.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/determine-mime-type-from-file-name/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/determine-mime-type-from-file-name/",
+            "title": "根據文件名確定MIME類型",
+            "summary": "Determine MIME Type from File Name",
+            "date_modified": "2013-02-11T15:15:46.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/a-better-mime-mapping-stealer/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/a-better-mime-mapping-stealer/",
+            "title": "一個更好的MIME映射竊取器!",
+            "summary": "A Better MIME Mapping Stealer!",
+            "date_modified": "2013-02-12T12:07:12.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/make-mostly-read-seldom-written-lists-much-more-efficient/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/make-mostly-read-seldom-written-lists-much-more-efficient/",
+            "title": "讓多讀、少寫的清單更有效率",
+            "summary": "Make Mostly Read, Seldom-Written Lists Much More Efficient",
+            "date_modified": "2013-03-15T17:11:42.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/one-more-thing-about-list-binary-search/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/one-more-thing-about-list-binary-search/",
+            "title": "關於列表二進制搜索的另一件事",
+            "summary": "One More Thing About List Binary Search",
+            "date_modified": "2013-03-30T15:36:24.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/generic-comparer/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/generic-comparer/",
+            "title": "仿製藥比較器",
+            "summary": "Generic Comparer",
+            "date_modified": "2013-04-22T14:53:17.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/web-api-mapping-querystringform-input/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/web-api-mapping-querystringform-input/",
+            "title": "網絡API映射查詢字符串/表單輸入",
+            "summary": "Web API Mapping QueryString/Form Input",
+            "date_modified": "2013-07-24T17:55:12.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
             "id": "https://www.davidhaney.io/automatically-generate-pocos-from-db-with-t4/",
             "content_html": "",
             "url": "https://www.davidhaney.io/automatically-generate-pocos-from-db-with-t4/",
@@ -7111,102 +7207,6 @@
             "date_modified": "2022-03-25T10:00:00.000Z",
             "author": {
                 "name": "Robyn Weintraub",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/culture-desk/the-rocky-road-to-this-years-oscars",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/culture-desk/the-rocky-road-to-this-years-oscars",
-            "title": "通往今年奧斯卡獎的坎坷之路",
-            "summary": "The Rocky Road to This Year’s Oscars",
-            "date_modified": "2022-03-25T10:00:00.000Z",
-            "author": {
-                "name": "Michael Schulman",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/photo-booth/asian-american-women-fight-back",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/photo-booth/asian-american-women-fight-back",
-            "title": "亞裔美國婦女的反擊",
-            "summary": "Asian American Women Fight Back",
-            "date_modified": "2022-03-25T10:00:00.000Z",
-            "author": {
-                "name": "Jiayang Fan",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/dispatch/a-new-abortion-battleground-in-south-dakota",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/dispatch/a-new-abortion-battleground-in-south-dakota",
-            "title": "南達科他州的一個新的墮胎戰場",
-            "summary": "A New Abortion Battleground, in South Dakota",
-            "date_modified": "2022-03-25T10:00:00.000Z",
-            "author": {
-                "name": "Peter Slevin",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/newsletters/archive/2022/03/american-great-resignation-hate-work/627761/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/newsletters/archive/2022/03/american-great-resignation-hate-work/627761/?utm_source=feed",
-            "title": "大多數美國人憎恨他們的工作的神話",
-            "summary": "The Myth That Most Americans Hate Their Job",
-            "date_modified": "2022-03-25T10:01:56.000Z",
-            "author": {
-                "name": "Derek Thompson",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/03/coda-deaf-actors-supporting-roles/627609/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/03/coda-deaf-actors-supporting-roles/627609/?utm_source=feed",
-            "title": "處於緊張狀態的<em>CODA</em>的核心部分",
-            "summary": "The Tension at the Heart of <em>CODA</em>",
-            "date_modified": "2022-03-25T09:00:58.000Z",
-            "author": {
-                "name": "John Hendrickson",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://noahpinion.substack.com/p/the-car-will-triumph-again",
-            "content_html": "",
-            "url": "https://noahpinion.substack.com/p/the-car-will-triumph-again",
-            "title": "汽車將再次取得勝利",
-            "summary": "The car will triumph, again",
-            "date_modified": "2022-03-25T06:28:54.000Z",
-            "author": {
-                "name": "Noah Smith",
-                "url": "https://noahpinion.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/photo/2022/03/photos-of-the-week-burning-tiger-fish-heads-cat-wig/629360/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/photo/2022/03/photos-of-the-week-burning-tiger-fish-heads-cat-wig/629360/?utm_source=feed",
-            "title": "本週的照片。燃燒的老虎、魚頭、貓假髮",
-            "summary": "Photos of the Week: Burning Tiger, Fish Heads, Cat Wig",
-            "date_modified": "2022-03-25T04:31:56.000Z",
-            "author": {
-                "name": "Alan Taylor",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/the-front-row/everything-everywhere-all-at-once-reviewed-theres-no-there-there",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/the-front-row/everything-everywhere-all-at-once-reviewed-theres-no-there-there",
-            "title": "\"所有的東西都在同一時間，\"評論說。不存在那裡，那裡也不存在",
-            "summary": "“Everything Everywhere All at Once,” Reviewed: There’s No There There",
-            "date_modified": "2022-03-24T22:23:57.000Z",
-            "author": {
-                "name": "Richard Brody",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

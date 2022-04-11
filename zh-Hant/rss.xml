@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 11 Apr 2022 13:00:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 13:29:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,62 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[但它並沒有發生在開發或QA中!]]></title>
+            <link>https://www.davidhaney.io/but-it-didnt-happen-in-dev-or-qa/</link>
+            <guid>https://www.davidhaney.io/but-it-didnt-happen-in-dev-or-qa/</guid>
+            <pubDate>Sun, 02 Dec 2012 17:22:20 GMT</pubDate>
+            <description><![CDATA[But it Didn't Happen in DEV or QA!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[由紅門出版]]></title>
+            <link>https://www.davidhaney.io/published-by-red-gate/</link>
+            <guid>https://www.davidhaney.io/published-by-red-gate/</guid>
+            <pubDate>Fri, 18 Jan 2013 15:10:04 GMT</pubDate>
+            <description><![CDATA[Published by Red Gate]]></description>
+        </item>
+        <item>
+            <title><![CDATA[根據文件名確定MIME類型]]></title>
+            <link>https://www.davidhaney.io/determine-mime-type-from-file-name/</link>
+            <guid>https://www.davidhaney.io/determine-mime-type-from-file-name/</guid>
+            <pubDate>Mon, 11 Feb 2013 15:15:46 GMT</pubDate>
+            <description><![CDATA[Determine MIME Type from File Name]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一個更好的MIME映射竊取器!]]></title>
+            <link>https://www.davidhaney.io/a-better-mime-mapping-stealer/</link>
+            <guid>https://www.davidhaney.io/a-better-mime-mapping-stealer/</guid>
+            <pubDate>Tue, 12 Feb 2013 12:07:12 GMT</pubDate>
+            <description><![CDATA[A Better MIME Mapping Stealer!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[讓多讀、少寫的清單更有效率]]></title>
+            <link>https://www.davidhaney.io/make-mostly-read-seldom-written-lists-much-more-efficient/</link>
+            <guid>https://www.davidhaney.io/make-mostly-read-seldom-written-lists-much-more-efficient/</guid>
+            <pubDate>Fri, 15 Mar 2013 17:11:42 GMT</pubDate>
+            <description><![CDATA[Make Mostly Read, Seldom-Written Lists Much More Efficient]]></description>
+        </item>
+        <item>
+            <title><![CDATA[關於列表二進制搜索的另一件事]]></title>
+            <link>https://www.davidhaney.io/one-more-thing-about-list-binary-search/</link>
+            <guid>https://www.davidhaney.io/one-more-thing-about-list-binary-search/</guid>
+            <pubDate>Sat, 30 Mar 2013 15:36:24 GMT</pubDate>
+            <description><![CDATA[One More Thing About List Binary Search]]></description>
+        </item>
+        <item>
+            <title><![CDATA[仿製藥比較器]]></title>
+            <link>https://www.davidhaney.io/generic-comparer/</link>
+            <guid>https://www.davidhaney.io/generic-comparer/</guid>
+            <pubDate>Mon, 22 Apr 2013 14:53:17 GMT</pubDate>
+            <description><![CDATA[Generic Comparer]]></description>
+        </item>
+        <item>
+            <title><![CDATA[網絡API映射查詢字符串/表單輸入]]></title>
+            <link>https://www.davidhaney.io/web-api-mapping-querystringform-input/</link>
+            <guid>https://www.davidhaney.io/web-api-mapping-querystringform-input/</guid>
+            <pubDate>Wed, 24 Jul 2013 17:55:12 GMT</pubDate>
+            <description><![CDATA[Web API Mapping QueryString/Form Input]]></description>
+        </item>
         <item>
             <title><![CDATA[用T4從數據庫中自動生成POCOs]]></title>
             <link>https://www.davidhaney.io/automatically-generate-pocos-from-db-with-t4/</link>
@@ -4157,62 +4213,6 @@
             <guid>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/25</guid>
             <pubDate>Fri, 25 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[The Crossword: Friday, March 25, 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[通往今年奧斯卡獎的坎坷之路]]></title>
-            <link>https://www.newyorker.com/culture/culture-desk/the-rocky-road-to-this-years-oscars</link>
-            <guid>https://www.newyorker.com/culture/culture-desk/the-rocky-road-to-this-years-oscars</guid>
-            <pubDate>Fri, 25 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Rocky Road to This Year’s Oscars]]></description>
-        </item>
-        <item>
-            <title><![CDATA[亞裔美國婦女的反擊]]></title>
-            <link>https://www.newyorker.com/culture/photo-booth/asian-american-women-fight-back</link>
-            <guid>https://www.newyorker.com/culture/photo-booth/asian-american-women-fight-back</guid>
-            <pubDate>Fri, 25 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Asian American Women Fight Back]]></description>
-        </item>
-        <item>
-            <title><![CDATA[南達科他州的一個新的墮胎戰場]]></title>
-            <link>https://www.newyorker.com/news/dispatch/a-new-abortion-battleground-in-south-dakota</link>
-            <guid>https://www.newyorker.com/news/dispatch/a-new-abortion-battleground-in-south-dakota</guid>
-            <pubDate>Fri, 25 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[A New Abortion Battleground, in South Dakota]]></description>
-        </item>
-        <item>
-            <title><![CDATA[大多數美國人憎恨他們的工作的神話]]></title>
-            <link>https://www.theatlantic.com/newsletters/archive/2022/03/american-great-resignation-hate-work/627761/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/newsletters/archive/2022/03/american-great-resignation-hate-work/627761/?utm_source=feed</guid>
-            <pubDate>Fri, 25 Mar 2022 10:01:56 GMT</pubDate>
-            <description><![CDATA[The Myth That Most Americans Hate Their Job]]></description>
-        </item>
-        <item>
-            <title><![CDATA[處於緊張狀態的<em>CODA</em>的核心部分]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/coda-deaf-actors-supporting-roles/627609/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/coda-deaf-actors-supporting-roles/627609/?utm_source=feed</guid>
-            <pubDate>Fri, 25 Mar 2022 09:00:58 GMT</pubDate>
-            <description><![CDATA[The Tension at the Heart of <em>CODA</em>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[汽車將再次取得勝利]]></title>
-            <link>https://noahpinion.substack.com/p/the-car-will-triumph-again</link>
-            <guid>https://noahpinion.substack.com/p/the-car-will-triumph-again</guid>
-            <pubDate>Fri, 25 Mar 2022 06:28:54 GMT</pubDate>
-            <description><![CDATA[The car will triumph, again]]></description>
-        </item>
-        <item>
-            <title><![CDATA[本週的照片。燃燒的老虎、魚頭、貓假髮]]></title>
-            <link>https://www.theatlantic.com/photo/2022/03/photos-of-the-week-burning-tiger-fish-heads-cat-wig/629360/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/photo/2022/03/photos-of-the-week-burning-tiger-fish-heads-cat-wig/629360/?utm_source=feed</guid>
-            <pubDate>Fri, 25 Mar 2022 04:31:56 GMT</pubDate>
-            <description><![CDATA[Photos of the Week: Burning Tiger, Fish Heads, Cat Wig]]></description>
-        </item>
-        <item>
-            <title><![CDATA["所有的東西都在同一時間，"評論說。不存在那裡，那裡也不存在]]></title>
-            <link>https://www.newyorker.com/culture/the-front-row/everything-everywhere-all-at-once-reviewed-theres-no-there-there</link>
-            <guid>https://www.newyorker.com/culture/the-front-row/everything-everywhere-all-at-once-reviewed-theres-no-there-there</guid>
-            <pubDate>Thu, 24 Mar 2022 22:23:57 GMT</pubDate>
-            <description><![CDATA[“Everything Everywhere All at Once,” Reviewed: There’s No There There]]></description>
         </item>
     </channel>
 </rss>
