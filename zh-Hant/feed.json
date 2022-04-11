@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/11/technology/twitter-elon-musk-problem.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/11/technology/twitter-elon-musk-problem.html",
+            "title": "推特應對埃隆-馬斯克的問題",
+            "summary": "Twitter Grapples With an Elon Musk Problem",
+            "date_modified": "2022-04-11T21:29:45.000Z",
+            "author": {
+                "name": "Mike Isaac and Kate Conger",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/podcast/politics-and-more/anita-hill-and-jane-mayer-on-ketanji-brown-jackson-and-the-state-of-the-supreme-court",
             "content_html": "",
             "url": "https://www.newyorker.com/podcast/politics-and-more/anita-hill-and-jane-mayer-on-ketanji-brown-jackson-and-the-state-of-the-supreme-court",
@@ -7192,18 +7204,6 @@
             "url": "https://www.newyorker.com/magazine/letter-from-idaho",
             "title": "來自愛達荷州的信",
             "summary": "Letter from Idaho",
-            "date_modified": "2022-03-26T02:00:16.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/bio-pic-dept",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/bio-pic-dept",
-            "title": "生物圖片部。",
-            "summary": "Bio-Pic Dept.",
             "date_modified": "2022-03-26T02:00:16.000Z",
             "author": {
                 "name": "unknown",

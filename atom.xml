@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-11T20:34:59.821Z</updated>
+    <updated>2022-04-11T21:41:42.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[推特应对埃隆-马斯克的问题]]></title>
+        <id>https://www.nytimes.com/2022/04/11/technology/twitter-elon-musk-problem.html</id>
+        <link href="https://www.nytimes.com/2022/04/11/technology/twitter-elon-musk-problem.html"/>
+        <updated>2022-04-11T21:29:45.000Z</updated>
+        <summary type="html"><![CDATA[Twitter Grapples With an Elon Musk Problem]]></summary>
+        <author>
+            <name>Mike Isaac and Kate Conger</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安妮塔-希尔和简-梅尔谈凯坦吉-布朗-杰克逊和最高法院的状况]]></title>
         <id>https://www.newyorker.com/podcast/politics-and-more/anita-hill-and-jane-mayer-on-ketanji-brown-jackson-and-the-state-of-the-supreme-court</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.newyorker.com/magazine/letter-from-idaho"/>
         <updated>2022-03-26T02:00:16.000Z</updated>
         <summary type="html"><![CDATA[Letter from Idaho]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生物图片部。]]></title>
-        <id>https://www.newyorker.com/magazine/bio-pic-dept</id>
-        <link href="https://www.newyorker.com/magazine/bio-pic-dept"/>
-        <updated>2022-03-26T02:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Bio-Pic Dept.]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
