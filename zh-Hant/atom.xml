@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-11T18:16:17.138Z</updated>
+    <updated>2022-04-11T19:29:19.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[追求紅色豐盈]]></title>
+        <id>https://www.currentaffairs.org/2022/04/the-quest-for-red-plenty/</id>
+        <link href="https://www.currentaffairs.org/2022/04/the-quest-for-red-plenty/"/>
+        <updated>2022-04-11T15:16:48.000Z</updated>
+        <summary type="html"><![CDATA[The Quest for Red Plenty]]></summary>
+        <author>
+            <name>Ben Burgis</name>
+            <uri>https://www.currentaffairs.org/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[向完美的寬腿褲問好]]></title>
         <id>https://www.newyorker.com/humor/daily-shouts/say-hello-to-the-perfect-wide-legged-pant</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Lily Sánchez</name>
             <uri>https://www.currentaffairs.org/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[康納-拉特利夫的 "死眼 "和吉爾-萊波爾談文化戰爭]]></title>
-        <id>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/connor-ratliffs-dead-eyes-and-jill-lepore-on-the-culture-war</id>
-        <link href="https://www.newyorker.com/podcast/the-new-yorker-radio-hour/connor-ratliffs-dead-eyes-and-jill-lepore-on-the-culture-war"/>
-        <updated>2022-03-25T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Connor Ratliff’s “Dead Eyes,” and Jill Lepore on the Culture War]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
