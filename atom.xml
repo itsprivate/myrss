@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-11T14:40:41.859Z</updated>
+    <updated>2022-04-11T14:53:04.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[房屋所有权如何改变你]]></title>
+        <id>https://www.theatlantic.com/family/archive/2022/04/homeownership-first-house-happiness-psychology/629529/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/family/archive/2022/04/homeownership-first-house-happiness-psychology/629529/?utm_source=feed"/>
+        <updated>2022-04-11T14:33:03.000Z</updated>
+        <summary type="html"><![CDATA[How Homeownership Changes You]]></summary>
+        <author>
+            <name>Joe Pinsker</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[清算尚未到来]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/europe-russia-ukraine-art-zelensky-putin/629530/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/europe-russia-ukraine-art-zelensky-putin/629530/?utm_source=feed"/>
+        <updated>2022-04-11T14:41:39.000Z</updated>
+        <summary type="html"><![CDATA[The Reckoning Is Yet to Come]]></summary>
+        <author>
+            <name>Marc Weitzmann</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[假释程序的非人化戏剧]]></title>
         <id>https://www.newyorker.com/video/watch/the-dehumanizing-theater-of-the-parole-process</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Jacob Stern</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[博物馆正从NFT中获利]]></title>
-        <id>https://www.nytimes.com/2022/03/25/arts/design/museums-nfts.html</id>
-        <link href="https://www.nytimes.com/2022/03/25/arts/design/museums-nfts.html"/>
-        <updated>2022-03-25T15:31:34.000Z</updated>
-        <summary type="html"><![CDATA[Museums Are Cashing In on NFTs]]></summary>
-        <author>
-            <name>Scott Reyburn</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[法律学者对金妮-托马斯的 "停止偷窃 "文本感到震惊]]></title>
-        <id>https://www.newyorker.com/news/news-desk/legal-scholars-are-shocked-by-ginni-thomass-stop-the-steal-texts</id>
-        <link href="https://www.newyorker.com/news/news-desk/legal-scholars-are-shocked-by-ginni-thomass-stop-the-steal-texts"/>
-        <updated>2022-03-25T15:53:59.000Z</updated>
-        <summary type="html"><![CDATA[Legal Scholars Are Shocked By Ginni Thomas’s “Stop the Steal” Texts]]></summary>
-        <author>
-            <name>Jane Mayer</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
