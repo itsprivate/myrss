@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-11T16:55:10.676Z</updated>
+    <updated>2022-04-11T17:20:34.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[14 讀者對課堂上的性行為和性別問題的看法]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/04/14-reader-views-on-sexuality-and-gender-in-the-classroom/629534/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/04/14-reader-views-on-sexuality-and-gender-in-the-classroom/629534/?utm_source=feed"/>
+        <updated>2022-04-11T16:51:18.000Z</updated>
+        <summary type="html"><![CDATA[14 Reader Views on Sexuality and Gender in the Classroom]]></summary>
+        <author>
+            <name>Conor Friedersdorf</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有了父子作家，誰能講述家庭故事？]]></title>
         <id>https://www.newyorker.com/magazine/2022/04/18/with-father-and-son-writers-who-gets-to-tell-the-family-story</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Gal Beckerman</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COVID是如何在香港爆發的]]></title>
-        <id>https://www.newyorker.com/news/as-told-to/how-covid-exploded-in-hong-kong</id>
-        <link href="https://www.newyorker.com/news/as-told-to/how-covid-exploded-in-hong-kong"/>
-        <updated>2022-03-25T19:24:16.000Z</updated>
-        <summary type="html"><![CDATA[How COVID Exploded in Hong Kong]]></summary>
-        <author>
-            <name>Dhruv Khullar</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
 </feed>

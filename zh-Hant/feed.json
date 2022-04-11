@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/newsletters/archive/2022/04/14-reader-views-on-sexuality-and-gender-in-the-classroom/629534/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/newsletters/archive/2022/04/14-reader-views-on-sexuality-and-gender-in-the-classroom/629534/?utm_source=feed",
+            "title": "14 讀者對課堂上的性行為和性別問題的看法",
+            "summary": "14 Reader Views on Sexuality and Gender in the Classroom",
+            "date_modified": "2022-04-11T16:51:18.000Z",
+            "author": {
+                "name": "Conor Friedersdorf",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/magazine/2022/04/18/with-father-and-son-writers-who-gets-to-tell-the-family-story",
             "content_html": "",
             "url": "https://www.newyorker.com/magazine/2022/04/18/with-father-and-son-writers-who-gets-to-tell-the-family-story",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Gal Beckerman",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/as-told-to/how-covid-exploded-in-hong-kong",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/as-told-to/how-covid-exploded-in-hong-kong",
-            "title": "COVID是如何在香港爆發的",
-            "summary": "How COVID Exploded in Hong Kong",
-            "date_modified": "2022-03-25T19:24:16.000Z",
-            "author": {
-                "name": "Dhruv Khullar",
-                "url": "https://www.newyorker.com/feed/news"
             }
         }
     ]
