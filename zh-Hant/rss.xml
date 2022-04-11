@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 11 Apr 2022 19:52:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 20:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[安妮塔-希爾和簡-梅爾談凱坦吉-布朗-傑克遜和最高法院的狀況]]></title>
+            <link>https://www.newyorker.com/podcast/politics-and-more/anita-hill-and-jane-mayer-on-ketanji-brown-jackson-and-the-state-of-the-supreme-court</link>
+            <guid>https://www.newyorker.com/podcast/politics-and-more/anita-hill-and-jane-mayer-on-ketanji-brown-jackson-and-the-state-of-the-supreme-court</guid>
+            <pubDate>Mon, 11 Apr 2022 20:00:00 GMT</pubDate>
+            <description><![CDATA[Anita Hill and Jane Mayer on Ketanji Brown Jackson and the State of the Supreme Court]]></description>
+        </item>
         <item>
             <title><![CDATA[欺騙性對齊的梅薩-優化器。如果我必須解釋，那就不好玩了]]></title>
             <link>https://astralcodexten.substack.com/p/deceptively-aligned-mesa-optimizers</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.nytimes.com/2022/03/25/world/europe/dagny-carlsson-dead.html</guid>
             <pubDate>Fri, 25 Mar 2022 22:13:16 GMT</pubDate>
             <description><![CDATA[Dagny Carlsson, Centenarian Blogger, Dies at 109]]></description>
-        </item>
-        <item>
-            <title><![CDATA[克里斯-赫奇斯談戰爭和監獄的非人道性]]></title>
-            <link>https://www.currentaffairs.org/2022/03/chris-hedges-on-the-inhumanity-of-wars-and-prisons/</link>
-            <guid>https://www.currentaffairs.org/2022/03/chris-hedges-on-the-inhumanity-of-wars-and-prisons/</guid>
-            <pubDate>Fri, 25 Mar 2022 17:50:29 GMT</pubDate>
-            <description><![CDATA[Chris Hedges on the Inhumanity of Wars and Prisons]]></description>
         </item>
     </channel>
 </rss>

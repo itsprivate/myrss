@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/podcast/politics-and-more/anita-hill-and-jane-mayer-on-ketanji-brown-jackson-and-the-state-of-the-supreme-court",
+            "content_html": "",
+            "url": "https://www.newyorker.com/podcast/politics-and-more/anita-hill-and-jane-mayer-on-ketanji-brown-jackson-and-the-state-of-the-supreme-court",
+            "title": "安妮塔-希尔和简-梅尔谈凯坦吉-布朗-杰克逊和最高法院的状况",
+            "summary": "Anita Hill and Jane Mayer on Ketanji Brown Jackson and the State of the Supreme Court",
+            "date_modified": "2022-04-11T20:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
             "id": "https://astralcodexten.substack.com/p/deceptively-aligned-mesa-optimizers",
             "content_html": "",
             "url": "https://astralcodexten.substack.com/p/deceptively-aligned-mesa-optimizers",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Annabelle Williams",
                 "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.currentaffairs.org/2022/03/chris-hedges-on-the-inhumanity-of-wars-and-prisons/",
-            "content_html": "",
-            "url": "https://www.currentaffairs.org/2022/03/chris-hedges-on-the-inhumanity-of-wars-and-prisons/",
-            "title": "克里斯-赫奇斯谈战争和监狱的非人道性",
-            "summary": "Chris Hedges on the Inhumanity of Wars and Prisons",
-            "date_modified": "2022-03-25T17:50:29.000Z",
-            "author": {
-                "name": "Current Affairs",
-                "url": "https://www.currentaffairs.org/feed"
             }
         }
     ]
