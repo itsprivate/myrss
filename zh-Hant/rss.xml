@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 11 Apr 2022 10:40:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 10:55:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,48 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[頁面上的思考]]></title>
+            <link>https://austinkleon.substack.com/p/thinking-on-the-page</link>
+            <guid>https://austinkleon.substack.com/p/thinking-on-the-page</guid>
+            <pubDate>Tue, 08 Feb 2022 13:00:46 GMT</pubDate>
+            <description><![CDATA[Thinking on the page]]></description>
+        </item>
+        <item>
+            <title><![CDATA[不要大喊大叫!]]></title>
+            <link>https://austinkleon.substack.com/p/no-yelling</link>
+            <guid>https://austinkleon.substack.com/p/no-yelling</guid>
+            <pubDate>Fri, 11 Feb 2022 13:00:42 GMT</pubDate>
+            <description><![CDATA[No yelling!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[假期日記]]></title>
+            <link>https://austinkleon.substack.com/p/a-vacation-diary</link>
+            <guid>https://austinkleon.substack.com/p/a-vacation-diary</guid>
+            <pubDate>Tue, 15 Feb 2022 13:00:48 GMT</pubDate>
+            <description><![CDATA[A vacation diary]]></description>
+        </item>
+        <item>
+            <title><![CDATA[公路旅行問答]]></title>
+            <link>https://austinkleon.substack.com/p/a-road-trip-q-and-a</link>
+            <guid>https://austinkleon.substack.com/p/a-road-trip-q-and-a</guid>
+            <pubDate>Fri, 18 Feb 2022 13:00:52 GMT</pubDate>
+            <description><![CDATA[A road trip Q&A]]></description>
+        </item>
+        <item>
+            <title><![CDATA[模擬Ctrl-Z]]></title>
+            <link>https://austinkleon.substack.com/p/analog-ctrl-z</link>
+            <guid>https://austinkleon.substack.com/p/analog-ctrl-z</guid>
+            <pubDate>Tue, 22 Feb 2022 13:00:36 GMT</pubDate>
+            <description><![CDATA[Analog Ctrl-Z]]></description>
+        </item>
+        <item>
+            <title><![CDATA[故意螺旋式上升]]></title>
+            <link>https://austinkleon.substack.com/p/intentionally-spiraling-out</link>
+            <guid>https://austinkleon.substack.com/p/intentionally-spiraling-out</guid>
+            <pubDate>Fri, 25 Feb 2022 13:00:39 GMT</pubDate>
+            <description><![CDATA[Intentionally spiraling out]]></description>
+        </item>
         <item>
             <title><![CDATA[我是如何準備面試的]]></title>
             <link>https://austinkleon.substack.com/p/how-i-prepare-for-an-interview</link>
@@ -4171,48 +4213,6 @@
             <guid>https://www.theatlantic.com/international/archive/2022/03/biden-nato-summit-russia-invasion-ukraine/627598/?utm_source=feed</guid>
             <pubDate>Thu, 24 Mar 2022 07:00:57 GMT</pubDate>
             <description><![CDATA[The West’s Unity Is Temporary]]></description>
-        </item>
-        <item>
-            <title><![CDATA[QAnon為共和黨人對傑克遜的攻擊歡呼。民主黨人看到了一個信號。]]></title>
-            <link>https://www.nytimes.com/2022/03/24/us/qanon-supreme-court-ketanji-brown-jackson.html</link>
-            <guid>https://www.nytimes.com/2022/03/24/us/qanon-supreme-court-ketanji-brown-jackson.html</guid>
-            <pubDate>Thu, 24 Mar 2022 07:00:11 GMT</pubDate>
-            <description><![CDATA[QAnon Cheers Republican Attacks on Jackson. Democrats See a Signal.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[採訪。我!]]></title>
-            <link>https://noahpinion.substack.com/p/interview-me</link>
-            <guid>https://noahpinion.substack.com/p/interview-me</guid>
-            <pubDate>Thu, 24 Mar 2022 02:35:25 GMT</pubDate>
-            <description><![CDATA[Interview: Me!]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美國宇航局計劃在月球上給SpaceX一些陪伴]]></title>
-            <link>https://www.nytimes.com/2022/03/23/science/nasa-moon-landing.html</link>
-            <guid>https://www.nytimes.com/2022/03/23/science/nasa-moon-landing.html</guid>
-            <pubDate>Wed, 23 Mar 2022 22:49:53 GMT</pubDate>
-            <description><![CDATA[NASA Plans to Give SpaceX Some Company on the Moon]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我們能從一個星系中瞭解到什麼？]]></title>
-            <link>https://www.newyorker.com/science/elements/what-can-we-learn-about-the-universe-from-just-one-galaxy</link>
-            <guid>https://www.newyorker.com/science/elements/what-can-we-learn-about-the-universe-from-just-one-galaxy</guid>
-            <pubDate>Wed, 23 Mar 2022 22:38:26 GMT</pubDate>
-            <description><![CDATA[What Can We Learn About the Universe from Just One Galaxy?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谷歌將允許一些應用程序，從Spotify開始，提供替代的計費方式]]></title>
-            <link>https://www.nytimes.com/2022/03/23/technology/google-play-store-billing.html</link>
-            <guid>https://www.nytimes.com/2022/03/23/technology/google-play-store-billing.html</guid>
-            <pubDate>Wed, 23 Mar 2022 22:11:21 GMT</pubDate>
-            <description><![CDATA[Google Will Allow Some Apps, Starting With Spotify, to Offer Alternate Billing Methods]]></description>
-        </item>
-        <item>
-            <title><![CDATA[除 "取消文化 "外，對言論自由的威脅]]></title>
-            <link>https://www.theatlantic.com/newsletters/archive/2022/03/the-threat-to-free-speech-beyond-cancel-culture/627599/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/newsletters/archive/2022/03/the-threat-to-free-speech-beyond-cancel-culture/627599/?utm_source=feed</guid>
-            <pubDate>Wed, 23 Mar 2022 21:45:53 GMT</pubDate>
-            <description><![CDATA[The Threat to Free Speech, Beyond ‘Cancel Culture’]]></description>
         </item>
     </channel>
 </rss>

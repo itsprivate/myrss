@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-11T10:40:22.136Z</updated>
+    <updated>2022-04-11T10:55:39.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[頁面上的思考]]></title>
+        <id>https://austinkleon.substack.com/p/thinking-on-the-page</id>
+        <link href="https://austinkleon.substack.com/p/thinking-on-the-page"/>
+        <updated>2022-02-08T13:00:46.000Z</updated>
+        <summary type="html"><![CDATA[Thinking on the page]]></summary>
+        <author>
+            <name>Austin Kleon</name>
+            <uri>https://austinkleon.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不要大喊大叫!]]></title>
+        <id>https://austinkleon.substack.com/p/no-yelling</id>
+        <link href="https://austinkleon.substack.com/p/no-yelling"/>
+        <updated>2022-02-11T13:00:42.000Z</updated>
+        <summary type="html"><![CDATA[No yelling!]]></summary>
+        <author>
+            <name>Austin Kleon</name>
+            <uri>https://austinkleon.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[假期日記]]></title>
+        <id>https://austinkleon.substack.com/p/a-vacation-diary</id>
+        <link href="https://austinkleon.substack.com/p/a-vacation-diary"/>
+        <updated>2022-02-15T13:00:48.000Z</updated>
+        <summary type="html"><![CDATA[A vacation diary]]></summary>
+        <author>
+            <name>Austin Kleon</name>
+            <uri>https://austinkleon.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[公路旅行問答]]></title>
+        <id>https://austinkleon.substack.com/p/a-road-trip-q-and-a</id>
+        <link href="https://austinkleon.substack.com/p/a-road-trip-q-and-a"/>
+        <updated>2022-02-18T13:00:52.000Z</updated>
+        <summary type="html"><![CDATA[A road trip Q&A]]></summary>
+        <author>
+            <name>Austin Kleon</name>
+            <uri>https://austinkleon.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[模擬Ctrl-Z]]></title>
+        <id>https://austinkleon.substack.com/p/analog-ctrl-z</id>
+        <link href="https://austinkleon.substack.com/p/analog-ctrl-z"/>
+        <updated>2022-02-22T13:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Analog Ctrl-Z]]></summary>
+        <author>
+            <name>Austin Kleon</name>
+            <uri>https://austinkleon.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[故意螺旋式上升]]></title>
+        <id>https://austinkleon.substack.com/p/intentionally-spiraling-out</id>
+        <link href="https://austinkleon.substack.com/p/intentionally-spiraling-out"/>
+        <updated>2022-02-25T13:00:39.000Z</updated>
+        <summary type="html"><![CDATA[Intentionally spiraling out]]></summary>
+        <author>
+            <name>Austin Kleon</name>
+            <uri>https://austinkleon.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我是如何準備面試的]]></title>
         <id>https://austinkleon.substack.com/p/how-i-prepare-for-an-interview</id>
@@ -6546,72 +6612,6 @@
         <summary type="html"><![CDATA[The West’s Unity Is Temporary]]></summary>
         <author>
             <name>Tom McTague</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QAnon為共和黨人對傑克遜的攻擊歡呼。民主黨人看到了一個信號。]]></title>
-        <id>https://www.nytimes.com/2022/03/24/us/qanon-supreme-court-ketanji-brown-jackson.html</id>
-        <link href="https://www.nytimes.com/2022/03/24/us/qanon-supreme-court-ketanji-brown-jackson.html"/>
-        <updated>2022-03-24T07:00:11.000Z</updated>
-        <summary type="html"><![CDATA[QAnon Cheers Republican Attacks on Jackson. Democrats See a Signal.]]></summary>
-        <author>
-            <name>David D. Kirkpatrick and Stuart A. Thompson</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[採訪。我!]]></title>
-        <id>https://noahpinion.substack.com/p/interview-me</id>
-        <link href="https://noahpinion.substack.com/p/interview-me"/>
-        <updated>2022-03-24T02:35:25.000Z</updated>
-        <summary type="html"><![CDATA[Interview: Me!]]></summary>
-        <author>
-            <name>Noah Smith</name>
-            <uri>https://noahpinion.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國宇航局計劃在月球上給SpaceX一些陪伴]]></title>
-        <id>https://www.nytimes.com/2022/03/23/science/nasa-moon-landing.html</id>
-        <link href="https://www.nytimes.com/2022/03/23/science/nasa-moon-landing.html"/>
-        <updated>2022-03-23T22:49:53.000Z</updated>
-        <summary type="html"><![CDATA[NASA Plans to Give SpaceX Some Company on the Moon]]></summary>
-        <author>
-            <name>Kenneth Chang</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們能從一個星系中瞭解到什麼？]]></title>
-        <id>https://www.newyorker.com/science/elements/what-can-we-learn-about-the-universe-from-just-one-galaxy</id>
-        <link href="https://www.newyorker.com/science/elements/what-can-we-learn-about-the-universe-from-just-one-galaxy"/>
-        <updated>2022-03-23T22:38:26.000Z</updated>
-        <summary type="html"><![CDATA[What Can We Learn About the Universe from Just One Galaxy?]]></summary>
-        <author>
-            <name>Rivka Galchen</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌將允許一些應用程序，從Spotify開始，提供替代的計費方式]]></title>
-        <id>https://www.nytimes.com/2022/03/23/technology/google-play-store-billing.html</id>
-        <link href="https://www.nytimes.com/2022/03/23/technology/google-play-store-billing.html"/>
-        <updated>2022-03-23T22:11:21.000Z</updated>
-        <summary type="html"><![CDATA[Google Will Allow Some Apps, Starting With Spotify, to Offer Alternate Billing Methods]]></summary>
-        <author>
-            <name>Daisuke Wakabayashi</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[除 "取消文化 "外，對言論自由的威脅]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2022/03/the-threat-to-free-speech-beyond-cancel-culture/627599/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/the-threat-to-free-speech-beyond-cancel-culture/627599/?utm_source=feed"/>
-        <updated>2022-03-23T21:45:53.000Z</updated>
-        <summary type="html"><![CDATA[The Threat to Free Speech, Beyond ‘Cancel Culture’]]></summary>
-        <author>
-            <name>Conor Friedersdorf</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
