@@ -11,6 +11,102 @@
     },
     "items": [
         {
+            "id": "https://www.davidhaney.io/automatically-generate-pocos-from-db-with-t4/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/automatically-generate-pocos-from-db-with-t4/",
+            "title": "用T4從數據庫中自動生成POCOs",
+            "summary": "Automatically Generate POCOs From DB With T4",
+            "date_modified": "2013-10-16T21:35:51.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/mvc4-conditional-html-attributes/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/mvc4-conditional-html-attributes/",
+            "title": "MVC4的條件性HTML屬性",
+            "summary": "MVC4 Conditional HTML Attributes",
+            "date_modified": "2013-11-27T00:34:25.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/interview-with-infoq-on-simplsockets/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/interview-with-infoq-on-simplsockets/",
+            "title": "關於SimplSockets的InfoQ採訪",
+            "summary": "Interview with InfoQ on SimplSockets",
+            "date_modified": "2013-12-11T10:54:43.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/trigger-ivalidatableobject-validate-when-modelstate-isvalid-is-false/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/trigger-ivalidatableobject-validate-when-modelstate-isvalid-is-false/",
+            "title": "當ModelState.IsValid為假時觸發IValidatableObject.Validate",
+            "summary": "Trigger IValidatableObject.Validate When ModelState.IsValid is false",
+            "date_modified": "2014-02-05T15:55:40.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/c-probably-getting-new-safe-navigation-operator/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/c-probably-getting-new-safe-navigation-operator/",
+            "title": "C#可能會得到新的 \"安全導航 \"操作符\"？\"。",
+            "summary": "C# Probably Getting New \"Safe Navigation\" Operator \"?.\"",
+            "date_modified": "2014-02-28T11:47:08.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.davidhaney.io/to-node-js-or-not-to-node-js/",
+            "content_html": "",
+            "url": "https://www.davidhaney.io/to-node-js-or-not-to-node-js/",
+            "title": "是否加入Node.js？",
+            "summary": "To Node.js Or Not To Node.js",
+            "date_modified": "2014-03-24T16:41:25.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.davidhaney.io/index.xml"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/04/republican-dont-say-gay-bill-florida/629516/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/04/republican-dont-say-gay-bill-florida/629516/?utm_source=feed",
+            "title": "右派的言論準則時刻",
+            "summary": "The Right’s Speech-Code Moment",
+            "date_modified": "2022-04-11T12:15:34.000Z",
+            "author": {
+                "name": "David French",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/family/archive/2022/04/marriage-problems-fight-dishes/629526/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/family/archive/2022/04/marriage-problems-fight-dishes/629526/?utm_source=feed",
+            "title": "為什麼水槽邊的髒盤子會成為婚姻的大問題？",
+            "summary": "Why a Dirty Dish by the Sink Can Be a Big Problem for a Marriage",
+            "date_modified": "2022-04-11T12:01:56.000Z",
+            "author": {
+                "name": "Matthew Fray",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.davidhaney.io/how-to-guarantee-dev-team-failure/",
             "content_html": "",
             "url": "https://www.davidhaney.io/how-to-guarantee-dev-team-failure/",
@@ -7112,102 +7208,6 @@
             "author": {
                 "name": "Richard Brody",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/the-front-row/everything-everywhere-all-at-once-reviewed-theres-no-there-there",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/the-front-row/everything-everywhere-all-at-once-reviewed-theres-no-there-there",
-            "title": "\"所有的東西都在同一時間，\"評論說。不存在那裡，那裡也不存在",
-            "summary": "“Everything Everywhere All at Once,” Reviewed: There’s No There There",
-            "date_modified": "2022-03-24T22:23:57.000Z",
-            "author": {
-                "name": "Richard Brody",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/science/archive/2022/03/how-boa-constrictor-snakes-eat-prey/627607/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/science/archive/2022/03/how-boa-constrictor-snakes-eat-prey/627607/?utm_source=feed",
-            "title": "你試著把你的獵物和呼吸同時束縛起來",
-            "summary": "You Try Constricting Your Prey and Breathing at the Same Time",
-            "date_modified": "2022-03-24T22:01:01.000Z",
-            "author": {
-                "name": "Katherine J. Wu",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/technology/archive/2022/03/supreme-court-jackson-josh-hawley/629359/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/technology/archive/2022/03/supreme-court-jackson-josh-hawley/629359/?utm_source=feed",
-            "title": "上合組織確認聽證會上的 \"QAnon \"狗哨聲",
-            "summary": "The QAnon Dog Whistle at the SCOTUS Confirmation Hearings",
-            "date_modified": "2022-03-24T21:55:03.000Z",
-            "author": {
-                "name": "Kaitlyn Tiffany",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/03/deshaun-watson-football-browns-sexual-misconduct/627605/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/03/deshaun-watson-football-browns-sexual-misconduct/627605/?utm_source=feed",
-            "title": "NFL球隊如何說服自己選擇德肖恩-沃特森這樣的球員",
-            "summary": "How NFL Teams Talk Themselves Into Players Like Deshaun Watson",
-            "date_modified": "2022-03-24T21:31:42.000Z",
-            "author": {
-                "name": "Jemele Hill",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/politics/archive/2022/03/cory-booker-speech-ketanji-brown-jackson/629358/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/politics/archive/2022/03/cory-booker-speech-ketanji-brown-jackson/629358/?utm_source=feed",
-            "title": "科裡-布克談凱坦吉-布朗-傑克遜：\"你會感到那種熟悉的傷害",
-            "summary": "Cory Booker on Ketanji Brown Jackson: ‘You Feel That Familiar Hurt’",
-            "date_modified": "2022-03-24T21:43:52.000Z",
-            "author": {
-                "name": "Russell Berman",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/listening-booth/a-dizzy-record-of-newfound-fame",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/listening-booth/a-dizzy-record-of-newfound-fame",
-            "title": "新發現的名聲的令人眩暈的記錄",
-            "summary": "A Dizzy Record of Newfound Fame",
-            "date_modified": "2022-03-24T21:15:38.000Z",
-            "author": {
-                "name": "Sheldon Pearce",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/podcast/politics-and-more/the-good-news-about-renewable-energy",
-            "content_html": "",
-            "url": "https://www.newyorker.com/podcast/politics-and-more/the-good-news-about-renewable-energy",
-            "title": "關於可再生能源的好消息",
-            "summary": "The Good News About Renewable Energy",
-            "date_modified": "2022-03-24T20:14:07.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/postscript/madeleine-albright-was-the-first-most-powerful-woman-in-us-history",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/postscript/madeleine-albright-was-the-first-most-powerful-woman-in-us-history",
-            "title": "馬德琳-奧爾布賴特是美國曆史上第一個 \"最有權力的女人\"。",
-            "summary": "Madeleine Albright Was the First “Most Powerful Woman” in U.S. History",
-            "date_modified": "2022-03-24T19:21:44.000Z",
-            "author": {
-                "name": "Robin Wright",
-                "url": "https://www.newyorker.com/feed/news"
             }
         }
     ]

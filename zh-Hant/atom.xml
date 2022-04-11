@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-11T12:21:19.643Z</updated>
+    <updated>2022-04-11T13:00:53.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,94 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用T4從數據庫中自動生成POCOs]]></title>
+        <id>https://www.davidhaney.io/automatically-generate-pocos-from-db-with-t4/</id>
+        <link href="https://www.davidhaney.io/automatically-generate-pocos-from-db-with-t4/"/>
+        <updated>2013-10-16T21:35:51.000Z</updated>
+        <summary type="html"><![CDATA[Automatically Generate POCOs From DB With T4]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MVC4的條件性HTML屬性]]></title>
+        <id>https://www.davidhaney.io/mvc4-conditional-html-attributes/</id>
+        <link href="https://www.davidhaney.io/mvc4-conditional-html-attributes/"/>
+        <updated>2013-11-27T00:34:25.000Z</updated>
+        <summary type="html"><![CDATA[MVC4 Conditional HTML Attributes]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於SimplSockets的InfoQ採訪]]></title>
+        <id>https://www.davidhaney.io/interview-with-infoq-on-simplsockets/</id>
+        <link href="https://www.davidhaney.io/interview-with-infoq-on-simplsockets/"/>
+        <updated>2013-12-11T10:54:43.000Z</updated>
+        <summary type="html"><![CDATA[Interview with InfoQ on SimplSockets]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[當ModelState.IsValid為假時觸發IValidatableObject.Validate]]></title>
+        <id>https://www.davidhaney.io/trigger-ivalidatableobject-validate-when-modelstate-isvalid-is-false/</id>
+        <link href="https://www.davidhaney.io/trigger-ivalidatableobject-validate-when-modelstate-isvalid-is-false/"/>
+        <updated>2014-02-05T15:55:40.000Z</updated>
+        <summary type="html"><![CDATA[Trigger IValidatableObject.Validate When ModelState.IsValid is false]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C#可能會得到新的 "安全導航 "操作符"？"。]]></title>
+        <id>https://www.davidhaney.io/c-probably-getting-new-safe-navigation-operator/</id>
+        <link href="https://www.davidhaney.io/c-probably-getting-new-safe-navigation-operator/"/>
+        <updated>2014-02-28T11:47:08.000Z</updated>
+        <summary type="html"><![CDATA[C# Probably Getting New "Safe Navigation" Operator "?."]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是否加入Node.js？]]></title>
+        <id>https://www.davidhaney.io/to-node-js-or-not-to-node-js/</id>
+        <link href="https://www.davidhaney.io/to-node-js-or-not-to-node-js/"/>
+        <updated>2014-03-24T16:41:25.000Z</updated>
+        <summary type="html"><![CDATA[To Node.js Or Not To Node.js]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.davidhaney.io/index.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[右派的言論準則時刻]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/republican-dont-say-gay-bill-florida/629516/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/republican-dont-say-gay-bill-florida/629516/?utm_source=feed"/>
+        <updated>2022-04-11T12:15:34.000Z</updated>
+        <summary type="html"><![CDATA[The Right’s Speech-Code Moment]]></summary>
+        <author>
+            <name>David French</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼水槽邊的髒盤子會成為婚姻的大問題？]]></title>
+        <id>https://www.theatlantic.com/family/archive/2022/04/marriage-problems-fight-dishes/629526/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/family/archive/2022/04/marriage-problems-fight-dishes/629526/?utm_source=feed"/>
+        <updated>2022-04-11T12:01:56.000Z</updated>
+        <summary type="html"><![CDATA[Why a Dirty Dish by the Sink Can Be a Big Problem for a Marriage]]></summary>
+        <author>
+            <name>Matthew Fray</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何保證開發團隊的失敗]]></title>
         <id>https://www.davidhaney.io/how-to-guarantee-dev-team-failure/</id>
@@ -6525,94 +6613,6 @@
         <author>
             <name>Richard Brody</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["所有的東西都在同一時間，"評論說。不存在那裡，那裡也不存在]]></title>
-        <id>https://www.newyorker.com/culture/the-front-row/everything-everywhere-all-at-once-reviewed-theres-no-there-there</id>
-        <link href="https://www.newyorker.com/culture/the-front-row/everything-everywhere-all-at-once-reviewed-theres-no-there-there"/>
-        <updated>2022-03-24T22:23:57.000Z</updated>
-        <summary type="html"><![CDATA[“Everything Everywhere All at Once,” Reviewed: There’s No There There]]></summary>
-        <author>
-            <name>Richard Brody</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你試著把你的獵物和呼吸同時束縛起來]]></title>
-        <id>https://www.theatlantic.com/science/archive/2022/03/how-boa-constrictor-snakes-eat-prey/627607/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/science/archive/2022/03/how-boa-constrictor-snakes-eat-prey/627607/?utm_source=feed"/>
-        <updated>2022-03-24T22:01:01.000Z</updated>
-        <summary type="html"><![CDATA[You Try Constricting Your Prey and Breathing at the Same Time]]></summary>
-        <author>
-            <name>Katherine J. Wu</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上合組織確認聽證會上的 "QAnon "狗哨聲]]></title>
-        <id>https://www.theatlantic.com/technology/archive/2022/03/supreme-court-jackson-josh-hawley/629359/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/technology/archive/2022/03/supreme-court-jackson-josh-hawley/629359/?utm_source=feed"/>
-        <updated>2022-03-24T21:55:03.000Z</updated>
-        <summary type="html"><![CDATA[The QAnon Dog Whistle at the SCOTUS Confirmation Hearings]]></summary>
-        <author>
-            <name>Kaitlyn Tiffany</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFL球隊如何說服自己選擇德肖恩-沃特森這樣的球員]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/deshaun-watson-football-browns-sexual-misconduct/627605/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/deshaun-watson-football-browns-sexual-misconduct/627605/?utm_source=feed"/>
-        <updated>2022-03-24T21:31:42.000Z</updated>
-        <summary type="html"><![CDATA[How NFL Teams Talk Themselves Into Players Like Deshaun Watson]]></summary>
-        <author>
-            <name>Jemele Hill</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科裡-布克談凱坦吉-布朗-傑克遜："你會感到那種熟悉的傷害]]></title>
-        <id>https://www.theatlantic.com/politics/archive/2022/03/cory-booker-speech-ketanji-brown-jackson/629358/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/politics/archive/2022/03/cory-booker-speech-ketanji-brown-jackson/629358/?utm_source=feed"/>
-        <updated>2022-03-24T21:43:52.000Z</updated>
-        <summary type="html"><![CDATA[Cory Booker on Ketanji Brown Jackson: ‘You Feel That Familiar Hurt’]]></summary>
-        <author>
-            <name>Russell Berman</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新發現的名聲的令人眩暈的記錄]]></title>
-        <id>https://www.newyorker.com/culture/listening-booth/a-dizzy-record-of-newfound-fame</id>
-        <link href="https://www.newyorker.com/culture/listening-booth/a-dizzy-record-of-newfound-fame"/>
-        <updated>2022-03-24T21:15:38.000Z</updated>
-        <summary type="html"><![CDATA[A Dizzy Record of Newfound Fame]]></summary>
-        <author>
-            <name>Sheldon Pearce</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於可再生能源的好消息]]></title>
-        <id>https://www.newyorker.com/podcast/politics-and-more/the-good-news-about-renewable-energy</id>
-        <link href="https://www.newyorker.com/podcast/politics-and-more/the-good-news-about-renewable-energy"/>
-        <updated>2022-03-24T20:14:07.000Z</updated>
-        <summary type="html"><![CDATA[The Good News About Renewable Energy]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[馬德琳-奧爾布賴特是美國曆史上第一個 "最有權力的女人"。]]></title>
-        <id>https://www.newyorker.com/news/postscript/madeleine-albright-was-the-first-most-powerful-woman-in-us-history</id>
-        <link href="https://www.newyorker.com/news/postscript/madeleine-albright-was-the-first-most-powerful-woman-in-us-history"/>
-        <updated>2022-03-24T19:21:44.000Z</updated>
-        <summary type="html"><![CDATA[Madeleine Albright Was the First “Most Powerful Woman” in U.S. History]]></summary>
-        <author>
-            <name>Robin Wright</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
 </feed>

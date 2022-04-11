@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 11 Apr 2022 12:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 13:00:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,62 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用T4从数据库中自动生成POCOs]]></title>
+            <link>https://www.davidhaney.io/automatically-generate-pocos-from-db-with-t4/</link>
+            <guid>https://www.davidhaney.io/automatically-generate-pocos-from-db-with-t4/</guid>
+            <pubDate>Wed, 16 Oct 2013 21:35:51 GMT</pubDate>
+            <description><![CDATA[Automatically Generate POCOs From DB With T4]]></description>
+        </item>
+        <item>
+            <title><![CDATA[MVC4的条件性HTML属性]]></title>
+            <link>https://www.davidhaney.io/mvc4-conditional-html-attributes/</link>
+            <guid>https://www.davidhaney.io/mvc4-conditional-html-attributes/</guid>
+            <pubDate>Wed, 27 Nov 2013 00:34:25 GMT</pubDate>
+            <description><![CDATA[MVC4 Conditional HTML Attributes]]></description>
+        </item>
+        <item>
+            <title><![CDATA[关于SimplSockets的InfoQ采访]]></title>
+            <link>https://www.davidhaney.io/interview-with-infoq-on-simplsockets/</link>
+            <guid>https://www.davidhaney.io/interview-with-infoq-on-simplsockets/</guid>
+            <pubDate>Wed, 11 Dec 2013 10:54:43 GMT</pubDate>
+            <description><![CDATA[Interview with InfoQ on SimplSockets]]></description>
+        </item>
+        <item>
+            <title><![CDATA[当ModelState.IsValid为假时触发IValidatableObject.Validate]]></title>
+            <link>https://www.davidhaney.io/trigger-ivalidatableobject-validate-when-modelstate-isvalid-is-false/</link>
+            <guid>https://www.davidhaney.io/trigger-ivalidatableobject-validate-when-modelstate-isvalid-is-false/</guid>
+            <pubDate>Wed, 05 Feb 2014 15:55:40 GMT</pubDate>
+            <description><![CDATA[Trigger IValidatableObject.Validate When ModelState.IsValid is false]]></description>
+        </item>
+        <item>
+            <title><![CDATA[C#可能会得到新的 "安全导航 "操作符"？"。]]></title>
+            <link>https://www.davidhaney.io/c-probably-getting-new-safe-navigation-operator/</link>
+            <guid>https://www.davidhaney.io/c-probably-getting-new-safe-navigation-operator/</guid>
+            <pubDate>Fri, 28 Feb 2014 11:47:08 GMT</pubDate>
+            <description><![CDATA[C# Probably Getting New "Safe Navigation" Operator "?."]]></description>
+        </item>
+        <item>
+            <title><![CDATA[是否加入Node.js？]]></title>
+            <link>https://www.davidhaney.io/to-node-js-or-not-to-node-js/</link>
+            <guid>https://www.davidhaney.io/to-node-js-or-not-to-node-js/</guid>
+            <pubDate>Mon, 24 Mar 2014 16:41:25 GMT</pubDate>
+            <description><![CDATA[To Node.js Or Not To Node.js]]></description>
+        </item>
+        <item>
+            <title><![CDATA[右派的言论准则时刻]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/republican-dont-say-gay-bill-florida/629516/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/republican-dont-say-gay-bill-florida/629516/?utm_source=feed</guid>
+            <pubDate>Mon, 11 Apr 2022 12:15:34 GMT</pubDate>
+            <description><![CDATA[The Right’s Speech-Code Moment]]></description>
+        </item>
+        <item>
+            <title><![CDATA[为什么水槽边的脏盘子会成为婚姻的大问题？]]></title>
+            <link>https://www.theatlantic.com/family/archive/2022/04/marriage-problems-fight-dishes/629526/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/family/archive/2022/04/marriage-problems-fight-dishes/629526/?utm_source=feed</guid>
+            <pubDate>Mon, 11 Apr 2022 12:01:56 GMT</pubDate>
+            <description><![CDATA[Why a Dirty Dish by the Sink Can Be a Big Problem for a Marriage]]></description>
+        </item>
         <item>
             <title><![CDATA[如何保证开发团队的失败]]></title>
             <link>https://www.davidhaney.io/how-to-guarantee-dev-team-failure/</link>
@@ -4157,62 +4213,6 @@
             <guid>https://www.newyorker.com/culture/the-front-row/everything-everywhere-all-at-once-reviewed-theres-no-there-there</guid>
             <pubDate>Thu, 24 Mar 2022 22:23:57 GMT</pubDate>
             <description><![CDATA[“Everything Everywhere All at Once,” Reviewed: There’s No There There]]></description>
-        </item>
-        <item>
-            <title><![CDATA["所有的东西都在同一时间，"评论说。不存在那里，那里也不存在]]></title>
-            <link>https://www.newyorker.com/culture/the-front-row/everything-everywhere-all-at-once-reviewed-theres-no-there-there</link>
-            <guid>https://www.newyorker.com/culture/the-front-row/everything-everywhere-all-at-once-reviewed-theres-no-there-there</guid>
-            <pubDate>Thu, 24 Mar 2022 22:23:57 GMT</pubDate>
-            <description><![CDATA[“Everything Everywhere All at Once,” Reviewed: There’s No There There]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你试着把你的猎物和呼吸同时束缚起来]]></title>
-            <link>https://www.theatlantic.com/science/archive/2022/03/how-boa-constrictor-snakes-eat-prey/627607/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/science/archive/2022/03/how-boa-constrictor-snakes-eat-prey/627607/?utm_source=feed</guid>
-            <pubDate>Thu, 24 Mar 2022 22:01:01 GMT</pubDate>
-            <description><![CDATA[You Try Constricting Your Prey and Breathing at the Same Time]]></description>
-        </item>
-        <item>
-            <title><![CDATA[上合组织确认听证会上的 "QAnon "狗哨声]]></title>
-            <link>https://www.theatlantic.com/technology/archive/2022/03/supreme-court-jackson-josh-hawley/629359/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/technology/archive/2022/03/supreme-court-jackson-josh-hawley/629359/?utm_source=feed</guid>
-            <pubDate>Thu, 24 Mar 2022 21:55:03 GMT</pubDate>
-            <description><![CDATA[The QAnon Dog Whistle at the SCOTUS Confirmation Hearings]]></description>
-        </item>
-        <item>
-            <title><![CDATA[NFL球队如何说服自己选择德肖恩-沃特森这样的球员]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/deshaun-watson-football-browns-sexual-misconduct/627605/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/deshaun-watson-football-browns-sexual-misconduct/627605/?utm_source=feed</guid>
-            <pubDate>Thu, 24 Mar 2022 21:31:42 GMT</pubDate>
-            <description><![CDATA[How NFL Teams Talk Themselves Into Players Like Deshaun Watson]]></description>
-        </item>
-        <item>
-            <title><![CDATA[科里-布克谈凯坦吉-布朗-杰克逊："你会感到那种熟悉的伤害]]></title>
-            <link>https://www.theatlantic.com/politics/archive/2022/03/cory-booker-speech-ketanji-brown-jackson/629358/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/politics/archive/2022/03/cory-booker-speech-ketanji-brown-jackson/629358/?utm_source=feed</guid>
-            <pubDate>Thu, 24 Mar 2022 21:43:52 GMT</pubDate>
-            <description><![CDATA[Cory Booker on Ketanji Brown Jackson: ‘You Feel That Familiar Hurt’]]></description>
-        </item>
-        <item>
-            <title><![CDATA[新发现的名声的令人眩晕的记录]]></title>
-            <link>https://www.newyorker.com/culture/listening-booth/a-dizzy-record-of-newfound-fame</link>
-            <guid>https://www.newyorker.com/culture/listening-booth/a-dizzy-record-of-newfound-fame</guid>
-            <pubDate>Thu, 24 Mar 2022 21:15:38 GMT</pubDate>
-            <description><![CDATA[A Dizzy Record of Newfound Fame]]></description>
-        </item>
-        <item>
-            <title><![CDATA[关于可再生能源的好消息]]></title>
-            <link>https://www.newyorker.com/podcast/politics-and-more/the-good-news-about-renewable-energy</link>
-            <guid>https://www.newyorker.com/podcast/politics-and-more/the-good-news-about-renewable-energy</guid>
-            <pubDate>Thu, 24 Mar 2022 20:14:07 GMT</pubDate>
-            <description><![CDATA[The Good News About Renewable Energy]]></description>
-        </item>
-        <item>
-            <title><![CDATA[马德琳-奥尔布赖特是美国历史上第一个 "最有权力的女人"。]]></title>
-            <link>https://www.newyorker.com/news/postscript/madeleine-albright-was-the-first-most-powerful-woman-in-us-history</link>
-            <guid>https://www.newyorker.com/news/postscript/madeleine-albright-was-the-first-most-powerful-woman-in-us-history</guid>
-            <pubDate>Thu, 24 Mar 2022 19:21:44 GMT</pubDate>
-            <description><![CDATA[Madeleine Albright Was the First “Most Powerful Woman” in U.S. History]]></description>
         </item>
     </channel>
 </rss>
