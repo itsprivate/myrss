@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 11 Apr 2022 13:52:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 14:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[LINQ和延遲執行]]></title>
+            <link>https://www.davidhaney.io/linq-and-deferred-execution/</link>
+            <guid>https://www.davidhaney.io/linq-and-deferred-execution/</guid>
+            <pubDate>Mon, 11 Jun 2012 00:57:15 GMT</pubDate>
+            <description><![CDATA[LINQ and Deferred Execution]]></description>
+        </item>
+        <item>
+            <title><![CDATA[使用MVC3和.NET 4.0的自定義輸出緩存--做得很好]]></title>
+            <link>https://www.davidhaney.io/custom-output-caching-with-mvc3-and-net-4-0-done-right/</link>
+            <guid>https://www.davidhaney.io/custom-output-caching-with-mvc3-and-net-4-0-done-right/</guid>
+            <pubDate>Wed, 20 Jun 2012 00:47:52 GMT</pubDate>
+            <description><![CDATA[Custom Output Caching with MVC3 and .NET 4.0 - Done Properly!]]></description>
+        </item>
         <item>
             <title><![CDATA[編譯器技巧--推斷類型]]></title>
             <link>https://www.davidhaney.io/compiler-tricks-inferred-types/</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.theatlantic.com/ideas/archive/2022/03/italy-soccer-azzurri-loss-world-cup/629377/?utm_source=feed</guid>
             <pubDate>Fri, 25 Mar 2022 15:59:26 GMT</pubDate>
             <description><![CDATA[The Fall of the Azzurri]]></description>
-        </item>
-        <item>
-            <title><![CDATA[博物館正從NFT中獲利]]></title>
-            <link>https://www.nytimes.com/2022/03/25/arts/design/museums-are-cashing-in-on-nfts.html</link>
-            <guid>https://www.nytimes.com/2022/03/25/arts/design/museums-are-cashing-in-on-nfts.html</guid>
-            <pubDate>Fri, 25 Mar 2022 15:31:33 GMT</pubDate>
-            <description><![CDATA[Museums Are Cashing In on NFTs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[金妮-托馬斯指責批評者無視她作為最高法院法官的三十年服務經歷]]></title>
-            <link>https://www.newyorker.com/humor/borowitz-report/ginni-thomas-accuses-critics-of-ignoring-her-thirty-years-of-service-as-supreme-court-justice</link>
-            <guid>https://www.newyorker.com/humor/borowitz-report/ginni-thomas-accuses-critics-of-ignoring-her-thirty-years-of-service-as-supreme-court-justice</guid>
-            <pubDate>Fri, 25 Mar 2022 15:07:46 GMT</pubDate>
-            <description><![CDATA[Ginni Thomas Accuses Critics of Ignoring Her Thirty Years of Service as Supreme Court Justice]]></description>
         </item>
     </channel>
 </rss>
