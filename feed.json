@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-04-18",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-04-18",
+            "title": "卡通字幕大赛",
+            "summary": "Cartoon Caption Contest",
+            "date_modified": "2022-04-11T04:05:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/10/technology/elon-musk-twitter-board.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/10/technology/elon-musk-twitter-board.html",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-02-12T11:04:16.000Z",
             "author": {
                 "name": "Nathan J. Robinson",
-                "url": "https://www.currentaffairs.org/feed"
-            }
-        },
-        {
-            "id": "https://www.currentaffairs.org/2022/02/the-american-nightmare-mall/",
-            "content_html": "",
-            "url": "https://www.currentaffairs.org/2022/02/the-american-nightmare-mall/",
-            "title": "美国恶梦购物中心",
-            "summary": "The American Nightmare Mall",
-            "date_modified": "2022-02-15T14:38:46.000Z",
-            "author": {
-                "name": "Dan Barrecchia",
                 "url": "https://www.currentaffairs.org/feed"
             }
         }

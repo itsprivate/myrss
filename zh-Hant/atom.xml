@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-11T03:58:43.294Z</updated>
+    <updated>2022-04-11T04:43:38.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[卡通字幕大賽]]></title>
+        <id>https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-04-18</id>
+        <link href="https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-04-18"/>
+        <updated>2022-04-11T04:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Cartoon Caption Contest]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[公司稱埃隆-馬斯克不會加入Twitter的董事會]]></title>
         <id>https://www.nytimes.com/2022/04/10/technology/elon-musk-twitter-board.html</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[On Experiencing Joe Rogan]]></summary>
         <author>
             <name>Nathan J. Robinson</name>
-            <uri>https://www.currentaffairs.org/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國惡夢購物中心]]></title>
-        <id>https://www.currentaffairs.org/2022/02/the-american-nightmare-mall/</id>
-        <link href="https://www.currentaffairs.org/2022/02/the-american-nightmare-mall/"/>
-        <updated>2022-02-15T14:38:46.000Z</updated>
-        <summary type="html"><![CDATA[The American Nightmare Mall]]></summary>
-        <author>
-            <name>Dan Barrecchia</name>
             <uri>https://www.currentaffairs.org/feed</uri>
         </author>
     </entry>
