@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-10T23:51:33.036Z</updated>
+    <updated>2022-04-11T00:42:34.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[公开主题219]]></title>
+        <id>https://astralcodexten.substack.com/p/open-thread-219</id>
+        <link href="https://astralcodexten.substack.com/p/open-thread-219"/>
+        <updated>2022-04-10T23:49:37.000Z</updated>
+        <summary type="html"><![CDATA[Open Thread 219]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[七十个城市的春季聚会]]></title>
         <id>https://astralcodexten.substack.com/p/spring-meetups-in-seventy-cities</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[How Feminism Shaped the Carceral State]]></summary>
         <author>
             <name>Current Affairs</name>
-            <uri>https://www.currentaffairs.org/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[否认，直到我们死去]]></title>
-        <id>https://www.currentaffairs.org/2022/02/deny-until-we-die/</id>
-        <link href="https://www.currentaffairs.org/2022/02/deny-until-we-die/"/>
-        <updated>2022-02-17T13:51:11.000Z</updated>
-        <summary type="html"><![CDATA[Deny Until We Die]]></summary>
-        <author>
-            <name>Mickey Butts</name>
             <uri>https://www.currentaffairs.org/feed</uri>
         </author>
     </entry>
