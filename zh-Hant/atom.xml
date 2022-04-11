@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-11T17:20:34.608Z</updated>
+    <updated>2022-04-11T18:16:17.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[向完美的寬腿褲問好]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/say-hello-to-the-perfect-wide-legged-pant</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/say-hello-to-the-perfect-wide-legged-pant"/>
+        <updated>2022-04-11T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Say Hello to the Perfect Wide-Legged Pant]]></summary>
+        <author>
+            <name>Olivia de Recat</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在上海進行為期兩週的COVID-19封鎖行動]]></title>
+        <id>https://www.theatlantic.com/photo/2022/04/shanghai-covid-lockdown/629532/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/photo/2022/04/shanghai-covid-lockdown/629532/?utm_source=feed"/>
+        <updated>2022-04-11T17:42:38.000Z</updated>
+        <summary type="html"><![CDATA[Two Weeks of COVID-19 Lockdown in Shanghai]]></summary>
+        <author>
+            <name>Alan Taylor</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[14 讀者對課堂上的性行為和性別問題的看法]]></title>
         <id>https://www.theatlantic.com/newsletters/archive/2022/04/14-reader-views-on-sexuality-and-gender-in-the-classroom/629534/?utm_source=feed</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>unknown</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COVID是如何在香港爆發的]]></title>
-        <id>https://www.newyorker.com/news/as-told-to/how-covid-exploded-in-hong-kong</id>
-        <link href="https://www.newyorker.com/news/as-told-to/how-covid-exploded-in-hong-kong"/>
-        <updated>2022-03-25T19:24:16.000Z</updated>
-        <summary type="html"><![CDATA[How COVID Exploded in Hong Kong]]></summary>
-        <author>
-            <name>Dhruv Khullar</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[她的世界開始崩潰，所以她開始寫日記]]></title>
-        <id>https://www.theatlantic.com/books/archive/2022/03/yevgenia-belorusets-writer-ukraine-war/629380/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/books/archive/2022/03/yevgenia-belorusets-writer-ukraine-war/629380/?utm_source=feed"/>
-        <updated>2022-03-25T19:40:51.000Z</updated>
-        <summary type="html"><![CDATA[Her World Began to Collapse, So She Started Keeping a Diary]]></summary>
-        <author>
-            <name>Gal Beckerman</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>

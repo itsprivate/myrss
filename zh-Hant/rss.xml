@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 11 Apr 2022 17:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 18:16:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[向完美的寬腿褲問好]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/say-hello-to-the-perfect-wide-legged-pant</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/say-hello-to-the-perfect-wide-legged-pant</guid>
+            <pubDate>Mon, 11 Apr 2022 18:00:00 GMT</pubDate>
+            <description><![CDATA[Say Hello to the Perfect Wide-Legged Pant]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在上海進行為期兩週的COVID-19封鎖行動]]></title>
+            <link>https://www.theatlantic.com/photo/2022/04/shanghai-covid-lockdown/629532/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/photo/2022/04/shanghai-covid-lockdown/629532/?utm_source=feed</guid>
+            <pubDate>Mon, 11 Apr 2022 17:42:38 GMT</pubDate>
+            <description><![CDATA[Two Weeks of COVID-19 Lockdown in Shanghai]]></description>
+        </item>
         <item>
             <title><![CDATA[14 讀者對課堂上的性行為和性別問題的看法]]></title>
             <link>https://www.theatlantic.com/newsletters/archive/2022/04/14-reader-views-on-sexuality-and-gender-in-the-classroom/629534/?utm_source=feed</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/connor-ratliffs-dead-eyes-and-jill-lepore-on-the-culture-war</guid>
             <pubDate>Fri, 25 Mar 2022 20:00:00 GMT</pubDate>
             <description><![CDATA[Connor Ratliff’s “Dead Eyes,” and Jill Lepore on the Culture War]]></description>
-        </item>
-        <item>
-            <title><![CDATA[COVID是如何在香港爆發的]]></title>
-            <link>https://www.newyorker.com/news/as-told-to/how-covid-exploded-in-hong-kong</link>
-            <guid>https://www.newyorker.com/news/as-told-to/how-covid-exploded-in-hong-kong</guid>
-            <pubDate>Fri, 25 Mar 2022 19:24:16 GMT</pubDate>
-            <description><![CDATA[How COVID Exploded in Hong Kong]]></description>
-        </item>
-        <item>
-            <title><![CDATA[她的世界開始崩潰，所以她開始寫日記]]></title>
-            <link>https://www.theatlantic.com/books/archive/2022/03/yevgenia-belorusets-writer-ukraine-war/629380/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/books/archive/2022/03/yevgenia-belorusets-writer-ukraine-war/629380/?utm_source=feed</guid>
-            <pubDate>Fri, 25 Mar 2022 19:40:51 GMT</pubDate>
-            <description><![CDATA[Her World Began to Collapse, So She Started Keeping a Diary]]></description>
         </item>
     </channel>
 </rss>
