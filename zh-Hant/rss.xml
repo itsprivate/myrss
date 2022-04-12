@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 11 Apr 2022 23:51:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 00:39:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA["救護車"，評論。邁克爾-貝扮演他自己]]></title>
+            <link>https://www.newyorker.com/culture/the-front-row/ambulance-reviewed-michael-bay-plays-himself</link>
+            <guid>https://www.newyorker.com/culture/the-front-row/ambulance-reviewed-michael-bay-plays-himself</guid>
+            <pubDate>Tue, 12 Apr 2022 00:05:57 GMT</pubDate>
+            <description><![CDATA[“Ambulance,” Reviewed: Michael Bay Plays Himself]]></description>
+        </item>
         <item>
             <title><![CDATA[法國在第一輪總統選舉後仍然屹立不倒]]></title>
             <link>https://www.newyorker.com/news/daily-comment/france-is-still-standing-after-the-first-round-of-presidential-elections</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/culture/personal-history/a-freelancers-forty-three-years-in-the-american-health-care-system</guid>
             <pubDate>Sat, 26 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[A Freelancer’s Forty-Three Years in the American Health-Care System]]></description>
-        </item>
-        <item>
-            <title><![CDATA[流媒體在好萊塢的辯論中獲勝。最佳影片是下一個嗎？]]></title>
-            <link>https://www.nytimes.com/2022/03/26/business/media/academy-awards-streaming-services.html</link>
-            <guid>https://www.nytimes.com/2022/03/26/business/media/academy-awards-streaming-services.html</guid>
-            <pubDate>Sat, 26 Mar 2022 09:00:11 GMT</pubDate>
-            <description><![CDATA[Streaming Has Won the Hollywood Debate. Is Best Picture Next?]]></description>
         </item>
     </channel>
 </rss>

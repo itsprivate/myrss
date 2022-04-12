@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/culture/the-front-row/ambulance-reviewed-michael-bay-plays-himself",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/the-front-row/ambulance-reviewed-michael-bay-plays-himself",
+            "title": "\"救護車\"，評論。邁克爾-貝扮演他自己",
+            "summary": "“Ambulance,” Reviewed: Michael Bay Plays Himself",
+            "date_modified": "2022-04-12T00:05:57.000Z",
+            "author": {
+                "name": "Richard Brody",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/daily-comment/france-is-still-standing-after-the-first-round-of-presidential-elections",
             "content_html": "",
             "url": "https://www.newyorker.com/news/daily-comment/france-is-still-standing-after-the-first-round-of-presidential-elections",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "David Owen",
                 "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/26/business/media/academy-awards-streaming-services.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/26/business/media/academy-awards-streaming-services.html",
-            "title": "流媒體在好萊塢的辯論中獲勝。最佳影片是下一個嗎？",
-            "summary": "Streaming Has Won the Hollywood Debate. Is Best Picture Next?",
-            "date_modified": "2022-03-26T09:00:11.000Z",
-            "author": {
-                "name": "Brooks Barnes and Nicole Sperling",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
     ]

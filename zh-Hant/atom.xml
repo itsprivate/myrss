@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-11T23:51:46.441Z</updated>
+    <updated>2022-04-12T00:39:03.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["救護車"，評論。邁克爾-貝扮演他自己]]></title>
+        <id>https://www.newyorker.com/culture/the-front-row/ambulance-reviewed-michael-bay-plays-himself</id>
+        <link href="https://www.newyorker.com/culture/the-front-row/ambulance-reviewed-michael-bay-plays-himself"/>
+        <updated>2022-04-12T00:05:57.000Z</updated>
+        <summary type="html"><![CDATA[“Ambulance,” Reviewed: Michael Bay Plays Himself]]></summary>
+        <author>
+            <name>Richard Brody</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[法國在第一輪總統選舉後仍然屹立不倒]]></title>
         <id>https://www.newyorker.com/news/daily-comment/france-is-still-standing-after-the-first-round-of-presidential-elections</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>David Owen</name>
             <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[流媒體在好萊塢的辯論中獲勝。最佳影片是下一個嗎？]]></title>
-        <id>https://www.nytimes.com/2022/03/26/business/media/academy-awards-streaming-services.html</id>
-        <link href="https://www.nytimes.com/2022/03/26/business/media/academy-awards-streaming-services.html"/>
-        <updated>2022-03-26T09:00:11.000Z</updated>
-        <summary type="html"><![CDATA[Streaming Has Won the Hollywood Debate. Is Best Picture Next?]]></summary>
-        <author>
-            <name>Brooks Barnes and Nicole Sperling</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>
