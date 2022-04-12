@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-12T10:15:31.861Z</updated>
+    <updated>2022-04-12T10:39:23.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[書評。布穀鳥的蛋]]></title>
+        <id>https://www.mooreds.com/wordpress/archives/3405</id>
+        <link href="https://www.mooreds.com/wordpress/archives/3405"/>
+        <updated>2020-12-09T13:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Book Review: The Cuckoo’s Egg]]></summary>
+        <author>
+            <name>moore</name>
+            <uri>http://edit.mooreds.com/wordpress/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最不被重視的AWS服務]]></title>
+        <id>https://www.mooreds.com/wordpress/archives/3409</id>
+        <link href="https://www.mooreds.com/wordpress/archives/3409"/>
+        <updated>2021-01-20T16:35:00.000Z</updated>
+        <summary type="html"><![CDATA[The most underappreciated AWS service]]></summary>
+        <author>
+            <name>moore</name>
+            <uri>http://edit.mooreds.com/wordpress/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slack無法打開，出現NS_ERROR_DOM_ABORT_ERR錯誤]]></title>
+        <id>https://www.mooreds.com/wordpress/archives/3429</id>
+        <link href="https://www.mooreds.com/wordpress/archives/3429"/>
+        <updated>2021-02-01T15:35:28.000Z</updated>
+        <summary type="html"><![CDATA[Slack failing to open with NS_ERROR_DOM_ABORT_ERR error]]></summary>
+        <author>
+            <name>moore</name>
+            <uri>http://edit.mooreds.com/wordpress/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[公共雲時代的開源軟件商業模式問題]]></title>
+        <id>https://www.mooreds.com/wordpress/archives/3438</id>
+        <link href="https://www.mooreds.com/wordpress/archives/3438"/>
+        <updated>2021-03-13T17:31:44.000Z</updated>
+        <summary type="html"><![CDATA[Open source software business model concerns in the age of the public cloud]]></summary>
+        <author>
+            <name>moore</name>
+            <uri>http://edit.mooreds.com/wordpress/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於尋找技術聯合創始人的建議]]></title>
+        <id>https://www.mooreds.com/wordpress/archives/3445</id>
+        <link href="https://www.mooreds.com/wordpress/archives/3445"/>
+        <updated>2021-04-03T17:09:02.000Z</updated>
+        <summary type="html"><![CDATA[Advice for finding a technical co-founder]]></summary>
+        <author>
+            <name>moore</name>
+            <uri>http://edit.mooreds.com/wordpress/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[逾越節在2022年意味著什麼？]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/passover-2022-america-anti-semitism/629535/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/passover-2022-america-anti-semitism/629535/?utm_source=feed"/>
+        <updated>2022-04-12T10:00:56.000Z</updated>
+        <summary type="html"><![CDATA[What Does Passover Mean in 2022?]]></summary>
+        <author>
+            <name>Abigail Pogrebin</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[填字遊戲: 2022年4月12日，星期二]]></title>
         <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/12</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>Rebecca Mead</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亞利桑那州提供iPhone上的駕照。其他國家也想成為下一個。]]></title>
-        <id>https://www.nytimes.com/2022/03/26/us/arizona-digital-drivers-license.html</id>
-        <link href="https://www.nytimes.com/2022/03/26/us/arizona-digital-drivers-license.html"/>
-        <updated>2022-03-26T13:12:41.000Z</updated>
-        <summary type="html"><![CDATA[Arizona Offers Driver’s Licenses on iPhones. Other States Want to Be Next.]]></summary>
-        <author>
-            <name>Neil Vigdor</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[應對通貨膨脹的錯誤方法]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/gavin-newsom-gas-prices-plan/629378/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/gavin-newsom-gas-prices-plan/629378/?utm_source=feed"/>
-        <updated>2022-03-26T13:00:57.000Z</updated>
-        <summary type="html"><![CDATA[The Wrong Way to Tackle Inflation]]></summary>
-        <author>
-            <name>Annie Lowrey</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[種族問題是<em>亞特蘭大</em>的一個搞笑、恐怖的表現]]></title>
-        <id>https://www.theatlantic.com/culture/archive/2022/03/atlanta-season-3-review/629394/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/culture/archive/2022/03/atlanta-season-3-review/629394/?utm_source=feed"/>
-        <updated>2022-03-26T12:00:57.000Z</updated>
-        <summary type="html"><![CDATA[Race Is a Hilarious, Horrifying Performance in <em>Atlanta</em>]]></summary>
-        <author>
-            <name>Nicole Acheampong</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[孩子們現在正從電子遊戲中學習歷史]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/history-video-games-europa-universalis/622892/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/history-video-games-europa-universalis/622892/?utm_source=feed"/>
-        <updated>2022-03-26T11:01:56.000Z</updated>
-        <summary type="html"><![CDATA[Kids Are Learning History From Video Games Now]]></summary>
-        <author>
-            <name>Luka Ivan Jukić</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[預測普京戰爭計劃的俄羅斯烏托邦小說]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/putin-kremlin-foreign-policy-strategy/629388/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/putin-kremlin-foreign-policy-strategy/629388/?utm_source=feed"/>
-        <updated>2022-03-26T11:01:56.000Z</updated>
-        <summary type="html"><![CDATA[The Utopian Russian Novel That Predicted Putin’s War Plan]]></summary>
-        <author>
-            <name>Dina Khapaeva</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[查寧-塔圖姆在《迷失之城》中達到巔峰的Himbo</em>。]]></title>
-        <id>https://www.theatlantic.com/culture/archive/2022/03/lost-city-movie-review-channing-tatum/629393/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/culture/archive/2022/03/lost-city-movie-review-channing-tatum/629393/?utm_source=feed"/>
-        <updated>2022-03-26T11:01:57.000Z</updated>
-        <summary type="html"><![CDATA[Channing Tatum Reaches Peak Himbo in <em>The Lost City</em>]]></summary>
-        <author>
-            <name>David Sims</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
