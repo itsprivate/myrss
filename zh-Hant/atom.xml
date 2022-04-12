@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-12T10:55:09.199Z</updated>
+    <updated>2022-04-12T11:30:57.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美國需要哀悼100萬的COVID損失]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/us-covid-grief-one-million-deaths/629533/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/us-covid-grief-one-million-deaths/629533/?utm_source=feed"/>
+        <updated>2022-04-12T11:01:56.000Z</updated>
+        <summary type="html"><![CDATA[America Needs to Grieve 1 Million COVID Losses]]></summary>
+        <author>
+            <name>Marisa Renee Lee</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於靜態網站生成器和WordPress的思考]]></title>
         <id>https://www.mooreds.com/wordpress/archives/3369</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Chris Wallace Says Life at Fox News Became ‘Unsustainable’]]></summary>
         <author>
             <name>Michael M. Grynbaum</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[慈善家推動警方搜查DNA數據庫]]></title>
-        <id>https://www.nytimes.com/2022/03/27/technology/dna-tests-crime-solving.html</id>
-        <link href="https://www.nytimes.com/2022/03/27/technology/dna-tests-crime-solving.html"/>
-        <updated>2022-03-27T07:00:17.000Z</updated>
-        <summary type="html"><![CDATA[Philanthropists Push Police Searches of DNA Databases]]></summary>
-        <author>
-            <name>Kashmir Hill</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 12 Apr 2022 10:55:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 11:30:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[美国需要哀悼100万的COVID损失]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/us-covid-grief-one-million-deaths/629533/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/us-covid-grief-one-million-deaths/629533/?utm_source=feed</guid>
+            <pubDate>Tue, 12 Apr 2022 11:01:56 GMT</pubDate>
+            <description><![CDATA[America Needs to Grieve 1 Million COVID Losses]]></description>
+        </item>
         <item>
             <title><![CDATA[关于静态网站生成器和WordPress的思考]]></title>
             <link>https://www.mooreds.com/wordpress/archives/3369</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.nytimes.com/2022/03/27/business/media/chris-wallace-cnn-fox-news.html</guid>
             <pubDate>Sun, 27 Mar 2022 09:00:08 GMT</pubDate>
             <description><![CDATA[Chris Wallace Says Life at Fox News Became ‘Unsustainable’]]></description>
-        </item>
-        <item>
-            <title><![CDATA[慈善家推动警方搜查DNA数据库]]></title>
-            <link>https://www.nytimes.com/2022/03/27/technology/dna-tests-crime-solving.html</link>
-            <guid>https://www.nytimes.com/2022/03/27/technology/dna-tests-crime-solving.html</guid>
-            <pubDate>Sun, 27 Mar 2022 07:00:17 GMT</pubDate>
-            <description><![CDATA[Philanthropists Push Police Searches of DNA Databases]]></description>
         </item>
     </channel>
 </rss>

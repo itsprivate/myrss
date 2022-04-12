@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/04/us-covid-grief-one-million-deaths/629533/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/04/us-covid-grief-one-million-deaths/629533/?utm_source=feed",
+            "title": "美国需要哀悼100万的COVID损失",
+            "summary": "America Needs to Grieve 1 Million COVID Losses",
+            "date_modified": "2022-04-12T11:01:56.000Z",
+            "author": {
+                "name": "Marisa Renee Lee",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.mooreds.com/wordpress/archives/3369",
             "content_html": "",
             "url": "https://www.mooreds.com/wordpress/archives/3369",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-27T09:00:08.000Z",
             "author": {
                 "name": "Michael M. Grynbaum",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/27/technology/dna-tests-crime-solving.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/27/technology/dna-tests-crime-solving.html",
-            "title": "慈善家推动警方搜查DNA数据库",
-            "summary": "Philanthropists Push Police Searches of DNA Databases",
-            "date_modified": "2022-03-27T07:00:17.000Z",
-            "author": {
-                "name": "Kashmir Hill",
                 "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
