@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-12T17:41:37.827Z</updated>
+    <updated>2022-04-12T17:55:58.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[這些可怕的日子]]></title>
+        <id>https://www.theatlantic.com/family/archive/2022/04/covid-ukraine-anxiety/629540/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/family/archive/2022/04/covid-ukraine-anxiety/629540/?utm_source=feed"/>
+        <updated>2022-04-12T17:33:40.000Z</updated>
+        <summary type="html"><![CDATA[These Dreadful Days]]></summary>
+        <author>
+            <name>Molly Jong-Fast</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一本書如何獲得第二人生]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/04/novels-english-translation-ditlevsen-mahfouz/629538/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/04/novels-english-translation-ditlevsen-mahfouz/629538/?utm_source=feed"/>
+        <updated>2022-04-12T17:37:56.000Z</updated>
+        <summary type="html"><![CDATA[How a Book Gets to Live a Second Life]]></summary>
+        <author>
+            <name>Farah Abdessamad</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[這就是戰爭的決定性時刻]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-russia-war-consequences/629541/?utm_source=feed</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>The New Yorker</name>
             <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[逃之夭夭的披頭士]]></title>
-        <id>https://www.newyorker.com/culture/essay/the-beatle-who-got-away</id>
-        <link href="https://www.newyorker.com/culture/essay/the-beatle-who-got-away"/>
-        <updated>2022-03-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Beatle Who Got Away]]></summary>
-        <author>
-            <name>Ted Widmer</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一些現實的肯定]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/some-realistic-affirmations</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/some-realistic-affirmations"/>
-        <updated>2022-03-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Some Realistic Affirmations]]></summary>
-        <author>
-            <name>Olivia de Recat</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>

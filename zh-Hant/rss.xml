@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 12 Apr 2022 17:41:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 17:55:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[這些可怕的日子]]></title>
+            <link>https://www.theatlantic.com/family/archive/2022/04/covid-ukraine-anxiety/629540/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/family/archive/2022/04/covid-ukraine-anxiety/629540/?utm_source=feed</guid>
+            <pubDate>Tue, 12 Apr 2022 17:33:40 GMT</pubDate>
+            <description><![CDATA[These Dreadful Days]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一本書如何獲得第二人生]]></title>
+            <link>https://www.theatlantic.com/culture/archive/2022/04/novels-english-translation-ditlevsen-mahfouz/629538/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/culture/archive/2022/04/novels-english-translation-ditlevsen-mahfouz/629538/?utm_source=feed</guid>
+            <pubDate>Tue, 12 Apr 2022 17:37:56 GMT</pubDate>
+            <description><![CDATA[How a Book Gets to Live a Second Life]]></description>
+        </item>
         <item>
             <title><![CDATA[這就是戰爭的決定性時刻]]></title>
             <link>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-russia-war-consequences/629541/?utm_source=feed</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/books/double-take/sunday-reading-the-2022-academy-awards</guid>
             <pubDate>Sun, 27 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Sunday Reading: The 2022 Academy Awards]]></description>
-        </item>
-        <item>
-            <title><![CDATA[逃之夭夭的披頭士]]></title>
-            <link>https://www.newyorker.com/culture/essay/the-beatle-who-got-away</link>
-            <guid>https://www.newyorker.com/culture/essay/the-beatle-who-got-away</guid>
-            <pubDate>Sun, 27 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Beatle Who Got Away]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一些現實的肯定]]></title>
-            <link>https://www.newyorker.com/humor/daily-shouts/some-realistic-affirmations</link>
-            <guid>https://www.newyorker.com/humor/daily-shouts/some-realistic-affirmations</guid>
-            <pubDate>Sun, 27 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Some Realistic Affirmations]]></description>
         </item>
     </channel>
 </rss>
