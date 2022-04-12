@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "http://cacm.acm.org/magazines/2022/4/259389-achieving-cs-for-all-could-take-decades",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/4/259389-achieving-cs-for-all-could-take-decades",
+            "title": "实现全民CS可能需要数十年时间",
+            "summary": "Achieving CS for All Could Take Decades",
+            "date_modified": "2022-04-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
             "id": "http://cacm.acm.org/magazines/2022/4/259388-preserving-the-internet",
             "content_html": "",
             "url": "http://cacm.acm.org/magazines/2022/4/259388-preserving-the-internet",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-28T09:00:14.000Z",
             "author": {
                 "name": "Tanya Mohn",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/28/science/adolescents-social-media.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/28/science/adolescents-social-media.html",
-            "title": "社交媒体让青少年不快乐吗？这可能取决于他们的年龄。",
-            "summary": "Does Social Media Make Teens Unhappy? It May Depend on Their Age.",
-            "date_modified": "2022-03-28T09:00:16.000Z",
-            "author": {
-                "name": "Virginia Hughes",
                 "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }

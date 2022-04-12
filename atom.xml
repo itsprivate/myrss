@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-12T20:51:41.605Z</updated>
+    <updated>2022-04-12T21:12:56.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[实现全民CS可能需要数十年时间]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259389-achieving-cs-for-all-could-take-decades</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259389-achieving-cs-for-all-could-take-decades"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Achieving CS for All Could Take Decades]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[保护互联网]]></title>
         <id>http://cacm.acm.org/magazines/2022/4/259388-preserving-the-internet</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Geofencing Improves Safety in Sweden]]></summary>
         <author>
             <name>Tanya Mohn</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社交媒体让青少年不快乐吗？这可能取决于他们的年龄。]]></title>
-        <id>https://www.nytimes.com/2022/03/28/science/adolescents-social-media.html</id>
-        <link href="https://www.nytimes.com/2022/03/28/science/adolescents-social-media.html"/>
-        <updated>2022-03-28T09:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Does Social Media Make Teens Unhappy? It May Depend on Their Age.]]></summary>
-        <author>
-            <name>Virginia Hughes</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
