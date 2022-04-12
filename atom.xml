@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-12T12:19:52.126Z</updated>
+    <updated>2022-04-12T14:32:23.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每日漫画。4月12日，星期二]]></title>
+        <id>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-april-12th-squirrel-house</id>
+        <link href="https://www.newyorker.com/cartoons/daily-cartoon/tuesday-april-12th-squirrel-house"/>
+        <updated>2022-04-12T14:20:28.000Z</updated>
+        <summary type="html"><![CDATA[Daily Cartoon: Tuesday, April 12th]]></summary>
+        <author>
+            <name>Theora Kvitka</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[冬季日记演练]]></title>
         <id>https://austinkleon.substack.com/p/winter-diary-walkthrough</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Susan Morrison</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宣传如何变成了娱乐]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/zelensky-speech-russia-propaganda-history/629381/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/zelensky-speech-russia-propaganda-history/629381/?utm_source=feed"/>
-        <updated>2022-03-27T10:01:56.000Z</updated>
-        <summary type="html"><![CDATA[How Propaganda Became Entertaining]]></summary>
-        <author>
-            <name>Kathryn Cramer Brownell</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
