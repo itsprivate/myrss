@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 12 Apr 2022 18:40:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 19:12:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[谷歌首次在法庭上起訴小狗欺詐行為]]></title>
+            <link>https://www.nytimes.com/2022/04/12/business/google-lawsuit-puppy-fraud-scheme.html</link>
+            <guid>https://www.nytimes.com/2022/04/12/business/google-lawsuit-puppy-fraud-scheme.html</guid>
+            <pubDate>Tue, 12 Apr 2022 18:59:57 GMT</pubDate>
+            <description><![CDATA[In a First, Google Goes After Puppy Fraud in Court]]></description>
+        </item>
         <item>
             <title><![CDATA[NFTs證明了稅收季節總是可以變得更糟糕]]></title>
             <link>https://www.theatlantic.com/technology/archive/2022/04/file-taxes-nft-irs-guidelines/629542/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.nytimes.com/2022/03/28/technology/nokia-russia-surveillance-system-sorm.html</guid>
             <pubDate>Mon, 28 Mar 2022 07:00:13 GMT</pubDate>
             <description><![CDATA[When Nokia Pulled Out of Russia, a Vast Surveillance System Remained]]></description>
-        </item>
-        <item>
-            <title><![CDATA[奧斯卡頒獎典禮上威爾-史密斯的一記耳光，以及隨之而來的欣喜若狂的模糊感]]></title>
-            <link>https://www.newyorker.com/culture/cultural-comment/will-smiths-slap-and-the-ecstatic-blur-that-followed-at-the-oscars</link>
-            <guid>https://www.newyorker.com/culture/cultural-comment/will-smiths-slap-and-the-ecstatic-blur-that-followed-at-the-oscars</guid>
-            <pubDate>Mon, 28 Mar 2022 06:41:28 GMT</pubDate>
-            <description><![CDATA[Will Smith’s Slap, and the Ecstatic Blur That Followed, at the Oscars]]></description>
         </item>
     </channel>
 </rss>

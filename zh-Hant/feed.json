@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/12/business/google-lawsuit-puppy-fraud-scheme.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/12/business/google-lawsuit-puppy-fraud-scheme.html",
+            "title": "谷歌首次在法庭上起訴小狗欺詐行為",
+            "summary": "In a First, Google Goes After Puppy Fraud in Court",
+            "date_modified": "2022-04-12T18:59:57.000Z",
+            "author": {
+                "name": "Livia Albeck-Ripka",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/technology/archive/2022/04/file-taxes-nft-irs-guidelines/629542/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/technology/archive/2022/04/file-taxes-nft-irs-guidelines/629542/?utm_source=feed",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Adam Satariano, Paul Mozur and Aaron Krolik",
                 "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/cultural-comment/will-smiths-slap-and-the-ecstatic-blur-that-followed-at-the-oscars",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/cultural-comment/will-smiths-slap-and-the-ecstatic-blur-that-followed-at-the-oscars",
-            "title": "奧斯卡頒獎典禮上威爾-史密斯的一記耳光，以及隨之而來的欣喜若狂的模糊感",
-            "summary": "Will Smith’s Slap, and the Ecstatic Blur That Followed, at the Oscars",
-            "date_modified": "2022-03-28T06:41:28.000Z",
-            "author": {
-                "name": "Vinson Cunningham",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]
