@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-12T14:32:23.039Z</updated>
+    <updated>2022-04-12T15:15:03.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国创造了自己的助推器问题]]></title>
+        <id>https://www.theatlantic.com/health/archive/2022/04/cdc-covid-vaccine-booster-campaign/629536/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/health/archive/2022/04/cdc-covid-vaccine-booster-campaign/629536/?utm_source=feed"/>
+        <updated>2022-04-12T15:00:29.000Z</updated>
+        <summary type="html"><![CDATA[America Created Its Own Booster Problems]]></summary>
+        <author>
+            <name>Katherine J. Wu</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日漫画。4月12日，星期二]]></title>
         <id>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-april-12th-squirrel-house</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[The Beatle Who Got Away]]></summary>
         <author>
             <name>Ted Widmer</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[贾德-阿帕图仍然是个乐观主义者]]></title>
-        <id>https://www.newyorker.com/culture/the-new-yorker-interview/judd-apatow-is-still-an-optimist</id>
-        <link href="https://www.newyorker.com/culture/the-new-yorker-interview/judd-apatow-is-still-an-optimist"/>
-        <updated>2022-03-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Judd Apatow Is Still an Optimist]]></summary>
-        <author>
-            <name>Susan Morrison</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

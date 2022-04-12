@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 12 Apr 2022 14:32:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 15:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[美國創造了自己的助推器問題]]></title>
+            <link>https://www.theatlantic.com/health/archive/2022/04/cdc-covid-vaccine-booster-campaign/629536/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/health/archive/2022/04/cdc-covid-vaccine-booster-campaign/629536/?utm_source=feed</guid>
+            <pubDate>Tue, 12 Apr 2022 15:00:29 GMT</pubDate>
+            <description><![CDATA[America Created Its Own Booster Problems]]></description>
+        </item>
         <item>
             <title><![CDATA[每日漫畫。4月12日，星期二]]></title>
             <link>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-april-12th-squirrel-house</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/culture/essay/the-beatle-who-got-away</guid>
             <pubDate>Sun, 27 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[The Beatle Who Got Away]]></description>
-        </item>
-        <item>
-            <title><![CDATA[賈德-阿帕圖仍然是個樂觀主義者]]></title>
-            <link>https://www.newyorker.com/culture/the-new-yorker-interview/judd-apatow-is-still-an-optimist</link>
-            <guid>https://www.newyorker.com/culture/the-new-yorker-interview/judd-apatow-is-still-an-optimist</guid>
-            <pubDate>Sun, 27 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Judd Apatow Is Still an Optimist]]></description>
         </item>
     </channel>
 </rss>

@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/health/archive/2022/04/cdc-covid-vaccine-booster-campaign/629536/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/health/archive/2022/04/cdc-covid-vaccine-booster-campaign/629536/?utm_source=feed",
+            "title": "美国创造了自己的助推器问题",
+            "summary": "America Created Its Own Booster Problems",
+            "date_modified": "2022-04-12T15:00:29.000Z",
+            "author": {
+                "name": "Katherine J. Wu",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/cartoons/daily-cartoon/tuesday-april-12th-squirrel-house",
             "content_html": "",
             "url": "https://www.newyorker.com/cartoons/daily-cartoon/tuesday-april-12th-squirrel-house",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-27T10:00:00.000Z",
             "author": {
                 "name": "Ted Widmer",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/the-new-yorker-interview/judd-apatow-is-still-an-optimist",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/the-new-yorker-interview/judd-apatow-is-still-an-optimist",
-            "title": "贾德-阿帕图仍然是个乐观主义者",
-            "summary": "Judd Apatow Is Still an Optimist",
-            "date_modified": "2022-03-27T10:00:00.000Z",
-            "author": {
-                "name": "Susan Morrison",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }
