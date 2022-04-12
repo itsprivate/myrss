@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 12 Apr 2022 04:02:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 10:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,41 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[填字遊戲: 2022年4月12日，星期二]]></title>
+            <link>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/12</link>
+            <guid>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/12</guid>
+            <pubDate>Tue, 12 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Crossword: Tuesday, April 12, 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[落名：2022年4月12日，星期二]]></title>
+            <link>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/12</link>
+            <guid>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/12</guid>
+            <pubDate>Tue, 12 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Name Drop: Tuesday, April 12, 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在與德克薩斯共和國的對峙中生存下來]]></title>
+            <link>https://www.newyorker.com/news/letter-from-the-southwest/surviving-the-standoff-with-the-republic-of-texas</link>
+            <guid>https://www.newyorker.com/news/letter-from-the-southwest/surviving-the-standoff-with-the-republic-of-texas</guid>
+            <pubDate>Tue, 12 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Surviving the Standoff with the Republic of Texas]]></description>
+        </item>
+        <item>
+            <title><![CDATA[歡迎來到 "焦土森林"--千禧一代的退休社區]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/welcome-to-scorched-forest-a-retirement-community-for-millennials</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/welcome-to-scorched-forest-a-retirement-community-for-millennials</guid>
+            <pubDate>Tue, 12 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to Scorched Forest, a Retirement Community for Millennials]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在委內瑞拉的失敗國家中，老齡化和被遺棄的人]]></title>
+            <link>https://www.newyorker.com/culture/photo-booth/aging-and-abandoned-in-venezuelas-failing-state</link>
+            <guid>https://www.newyorker.com/culture/photo-booth/aging-and-abandoned-in-venezuelas-failing-state</guid>
+            <pubDate>Tue, 12 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Aging and Abandoned in Venezuela’s Failing State]]></description>
+        </item>
         <item>
             <title><![CDATA[民主黨人需要在戰爭中競選]]></title>
             <link>https://noahpinion.substack.com/p/democrats-need-to-run-on-the-war</link>
@@ -4178,41 +4213,6 @@
             <guid>https://www.theatlantic.com/culture/archive/2022/03/lost-city-movie-review-channing-tatum/629393/?utm_source=feed</guid>
             <pubDate>Sat, 26 Mar 2022 11:01:57 GMT</pubDate>
             <description><![CDATA[Channing Tatum Reaches Peak Himbo in <em>The Lost City</em>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為紐約市立大學提供更多資金的理由]]></title>
-            <link>https://www.newyorker.com/news/our-local-correspondents/the-case-for-more-cuny-funding</link>
-            <guid>https://www.newyorker.com/news/our-local-correspondents/the-case-for-more-cuny-funding</guid>
-            <pubDate>Sat, 26 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Case for More CUNY Funding]]></description>
-        </item>
-        <item>
-            <title><![CDATA[國會起義失而復得]]></title>
-            <link>https://www.newyorker.com/humor/daily-shouts/capitol-insurrection-lost-and-found</link>
-            <guid>https://www.newyorker.com/humor/daily-shouts/capitol-insurrection-lost-and-found</guid>
-            <pubDate>Sat, 26 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Capitol Insurrection Lost and Found]]></description>
-        </item>
-        <item>
-            <title><![CDATA[羅絲-馬塔菲奧正在重構愛情喜劇]]></title>
-            <link>https://www.newyorker.com/culture/persons-of-interest/rose-matafeo-is-reconstructing-the-rom-com</link>
-            <guid>https://www.newyorker.com/culture/persons-of-interest/rose-matafeo-is-reconstructing-the-rom-com</guid>
-            <pubDate>Sat, 26 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Rose Matafeo Is Reconstructing the Rom-Com]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一個自由職業者在美國衛生保健系統中的四十三年經歷]]></title>
-            <link>https://www.newyorker.com/culture/personal-history/a-freelancers-forty-three-years-in-the-american-health-care-system</link>
-            <guid>https://www.newyorker.com/culture/personal-history/a-freelancers-forty-three-years-in-the-american-health-care-system</guid>
-            <pubDate>Sat, 26 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[A Freelancer’s Forty-Three Years in the American Health-Care System]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為紐約市立大學提供更多資金的理由]]></title>
-            <link>https://www.newyorker.com/news/our-local-correspondents/the-case-for-more-cuny-funding</link>
-            <guid>https://www.newyorker.com/news/our-local-correspondents/the-case-for-more-cuny-funding</guid>
-            <pubDate>Sat, 26 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Case for More CUNY Funding]]></description>
         </item>
     </channel>
 </rss>

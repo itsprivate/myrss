@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-12T04:02:33.322Z</updated>
+    <updated>2022-04-12T10:15:31.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[填字遊戲: 2022年4月12日，星期二]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/12</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/12"/>
+        <updated>2022-04-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Crossword: Tuesday, April 12, 2022]]></summary>
+        <author>
+            <name>Erik Agard</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[落名：2022年4月12日，星期二]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/12</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/12"/>
+        <updated>2022-04-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Name Drop: Tuesday, April 12, 2022]]></summary>
+        <author>
+            <name>Will Nediger</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在與德克薩斯共和國的對峙中生存下來]]></title>
+        <id>https://www.newyorker.com/news/letter-from-the-southwest/surviving-the-standoff-with-the-republic-of-texas</id>
+        <link href="https://www.newyorker.com/news/letter-from-the-southwest/surviving-the-standoff-with-the-republic-of-texas"/>
+        <updated>2022-04-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Surviving the Standoff with the Republic of Texas]]></summary>
+        <author>
+            <name>Rachel Monroe</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[歡迎來到 "焦土森林"--千禧一代的退休社區]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/welcome-to-scorched-forest-a-retirement-community-for-millennials</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/welcome-to-scorched-forest-a-retirement-community-for-millennials"/>
+        <updated>2022-04-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Scorched Forest, a Retirement Community for Millennials]]></summary>
+        <author>
+            <name>Cara Michelle Smith</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在委內瑞拉的失敗國家中，老齡化和被遺棄的人]]></title>
+        <id>https://www.newyorker.com/culture/photo-booth/aging-and-abandoned-in-venezuelas-failing-state</id>
+        <link href="https://www.newyorker.com/culture/photo-booth/aging-and-abandoned-in-venezuelas-failing-state"/>
+        <updated>2022-04-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Aging and Abandoned in Venezuela’s Failing State]]></summary>
+        <author>
+            <name>Stephania Taladrid</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[民主黨人需要在戰爭中競選]]></title>
         <id>https://noahpinion.substack.com/p/democrats-need-to-run-on-the-war</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>David Sims</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為紐約市立大學提供更多資金的理由]]></title>
-        <id>https://www.newyorker.com/news/our-local-correspondents/the-case-for-more-cuny-funding</id>
-        <link href="https://www.newyorker.com/news/our-local-correspondents/the-case-for-more-cuny-funding"/>
-        <updated>2022-03-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Case for More CUNY Funding]]></summary>
-        <author>
-            <name>Eric Lach</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[國會起義失而復得]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/capitol-insurrection-lost-and-found</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/capitol-insurrection-lost-and-found"/>
-        <updated>2022-03-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Capitol Insurrection Lost and Found]]></summary>
-        <author>
-            <name>Bill Scheft</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[羅絲-馬塔菲奧正在重構愛情喜劇]]></title>
-        <id>https://www.newyorker.com/culture/persons-of-interest/rose-matafeo-is-reconstructing-the-rom-com</id>
-        <link href="https://www.newyorker.com/culture/persons-of-interest/rose-matafeo-is-reconstructing-the-rom-com"/>
-        <updated>2022-03-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Rose Matafeo Is Reconstructing the Rom-Com]]></summary>
-        <author>
-            <name>Coralie Kraft</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個自由職業者在美國衛生保健系統中的四十三年經歷]]></title>
-        <id>https://www.newyorker.com/culture/personal-history/a-freelancers-forty-three-years-in-the-american-health-care-system</id>
-        <link href="https://www.newyorker.com/culture/personal-history/a-freelancers-forty-three-years-in-the-american-health-care-system"/>
-        <updated>2022-03-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A Freelancer’s Forty-Three Years in the American Health-Care System]]></summary>
-        <author>
-            <name>David Owen</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為紐約市立大學提供更多資金的理由]]></title>
-        <id>https://www.newyorker.com/news/our-local-correspondents/the-case-for-more-cuny-funding</id>
-        <link href="https://www.newyorker.com/news/our-local-correspondents/the-case-for-more-cuny-funding"/>
-        <updated>2022-03-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Case for More CUNY Funding]]></summary>
-        <author>
-            <name>Eric Lach</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
 </feed>
