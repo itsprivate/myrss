@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://noahpinion.substack.com/p/democrats-need-to-run-on-the-war",
+            "content_html": "",
+            "url": "https://noahpinion.substack.com/p/democrats-need-to-run-on-the-war",
+            "title": "民主党人需要在战争中竞选",
+            "summary": "Democrats need to run on the war",
+            "date_modified": "2022-04-12T03:49:09.000Z",
+            "author": {
+                "name": "Noah Smith",
+                "url": "https://noahpinion.substack.com/feed"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/culture/the-front-row/ambulance-reviewed-michael-bay-plays-himself",
             "content_html": "",
             "url": "https://www.newyorker.com/culture/the-front-row/ambulance-reviewed-michael-bay-plays-himself",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-26T10:00:00.000Z",
             "author": {
                 "name": "Eric Lach",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/personal-history/a-freelancers-forty-three-years-in-the-american-health-care-system",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/personal-history/a-freelancers-forty-three-years-in-the-american-health-care-system",
-            "title": "一个自由职业者在美国卫生保健系统中的四十三年经历",
-            "summary": "A Freelancer’s Forty-Three Years in the American Health-Care System",
-            "date_modified": "2022-03-26T10:00:00.000Z",
-            "author": {
-                "name": "David Owen",
                 "url": "https://www.newyorker.com/feed/news"
             }
         }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-12T00:39:03.402Z</updated>
+    <updated>2022-04-12T04:02:33.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[民主党人需要在战争中竞选]]></title>
+        <id>https://noahpinion.substack.com/p/democrats-need-to-run-on-the-war</id>
+        <link href="https://noahpinion.substack.com/p/democrats-need-to-run-on-the-war"/>
+        <updated>2022-04-12T03:49:09.000Z</updated>
+        <summary type="html"><![CDATA[Democrats need to run on the war]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["救护车"，评论。迈克尔-贝扮演他自己]]></title>
         <id>https://www.newyorker.com/culture/the-front-row/ambulance-reviewed-michael-bay-plays-himself</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[The Case for More CUNY Funding]]></summary>
         <author>
             <name>Eric Lach</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个自由职业者在美国卫生保健系统中的四十三年经历]]></title>
-        <id>https://www.newyorker.com/culture/personal-history/a-freelancers-forty-three-years-in-the-american-health-care-system</id>
-        <link href="https://www.newyorker.com/culture/personal-history/a-freelancers-forty-three-years-in-the-american-health-care-system"/>
-        <updated>2022-03-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A Freelancer’s Forty-Three Years in the American Health-Care System]]></summary>
-        <author>
-            <name>David Owen</name>
             <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>

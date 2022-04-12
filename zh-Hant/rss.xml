@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 12 Apr 2022 00:39:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 04:02:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[民主黨人需要在戰爭中競選]]></title>
+            <link>https://noahpinion.substack.com/p/democrats-need-to-run-on-the-war</link>
+            <guid>https://noahpinion.substack.com/p/democrats-need-to-run-on-the-war</guid>
+            <pubDate>Tue, 12 Apr 2022 03:49:09 GMT</pubDate>
+            <description><![CDATA[Democrats need to run on the war]]></description>
+        </item>
         <item>
             <title><![CDATA["救護車"，評論。邁克爾-貝扮演他自己]]></title>
             <link>https://www.newyorker.com/culture/the-front-row/ambulance-reviewed-michael-bay-plays-himself</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/news/our-local-correspondents/the-case-for-more-cuny-funding</guid>
             <pubDate>Sat, 26 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[The Case for More CUNY Funding]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一個自由職業者在美國衛生保健系統中的四十三年經歷]]></title>
-            <link>https://www.newyorker.com/culture/personal-history/a-freelancers-forty-three-years-in-the-american-health-care-system</link>
-            <guid>https://www.newyorker.com/culture/personal-history/a-freelancers-forty-three-years-in-the-american-health-care-system</guid>
-            <pubDate>Sat, 26 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[A Freelancer’s Forty-Three Years in the American Health-Care System]]></description>
         </item>
     </channel>
 </rss>
