@@ -11,6 +11,66 @@
     },
     "items": [
         {
+            "id": "http://cacm.acm.org/magazines/2022/4/259413-when-software-engineering-meets-quantum-computing",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/4/259413-when-software-engineering-meets-quantum-computing",
+            "title": "當軟件工程遇到量子計算",
+            "summary": "When Software Engineering Meets Quantum Computing",
+            "date_modified": "2022-04-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/4/259412-mobiguide",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/4/259412-mobiguide",
+            "title": "摩拜單車",
+            "summary": "MobiGuide",
+            "date_modified": "2022-04-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/4/259411-european-leadership-in-process-management",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/4/259411-european-leadership-in-process-management",
+            "title": "歐洲在流程管理方面的領導地位",
+            "summary": "European Leadership in Process Management",
+            "date_modified": "2022-04-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/4/259410-recommender-systems-under-european-ai-regulations",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/4/259410-recommender-systems-under-european-ai-regulations",
+            "title": "歐洲人工智能法規下的推薦系統",
+            "summary": "Recommender Systems Under European AI Regulations",
+            "date_modified": "2022-04-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/4/259409-fenix",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/4/259409-fenix",
+            "title": "菲尼克斯",
+            "summary": "Fenix",
+            "date_modified": "2022-04-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
             "id": "http://cacm.acm.org/magazines/2022/4/259408-partnership-on-ai-data-and-robotics",
             "content_html": "",
             "url": "http://cacm.acm.org/magazines/2022/4/259408-partnership-on-ai-data-and-robotics",
@@ -7148,66 +7208,6 @@
             "author": {
                 "name": "Rachel Aviv",
                 "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/04/04/robert-eggerss-historical-visions-go-mainstream",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/04/04/robert-eggerss-historical-visions-go-mainstream",
-            "title": "羅伯特-埃格斯的歷史觀進入主流社會",
-            "summary": "Robert Eggers’s Historical Visions Go Mainstream",
-            "date_modified": "2022-03-28T10:00:00.000Z",
-            "author": {
-                "name": "Sam Knight",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/04/04/killing-wolves-to-own-the-libs-idaho",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/04/04/killing-wolves-to-own-the-libs-idaho",
-            "title": "殺死狼來擁有自由黨？",
-            "summary": "Killing Wolves to Own the Libs?",
-            "date_modified": "2022-03-28T10:00:00.000Z",
-            "author": {
-                "name": "Paige Williams",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/03/ginni-thomas-texts-january-6-trump/629386/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/03/ginni-thomas-texts-january-6-trump/629386/?utm_source=feed",
-            "title": "問題比金尼-托馬斯更嚴重",
-            "summary": "The Problem Is Bigger Than Ginni Thomas",
-            "date_modified": "2022-03-28T15:10:20.000Z",
-            "author": {
-                "name": "David Frum",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/science/archive/2022/03/saturn-losing-rings-nasa-moons/629391/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/science/archive/2022/03/saturn-losing-rings-nasa-moons/629391/?utm_source=feed",
-            "title": "想象一下沒有星環的土星",
-            "summary": "Imagine Saturn Without Its Rings",
-            "date_modified": "2022-03-28T14:35:26.000Z",
-            "author": {
-                "name": "Marina Koren",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/family/archive/2022/03/social-media-activism-ukraine-solidarity/629402/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/family/archive/2022/03/social-media-activism-ukraine-solidarity/629402/?utm_source=feed",
-            "title": "悲劇發生時的沉默美德",
-            "summary": "The Virtues of Silence in a Time of Tragedy",
-            "date_modified": "2022-03-28T14:17:36.000Z",
-            "author": {
-                "name": "Cole Arthur Riley",
-                "url": "https://www.theatlantic.com/feed/all/"
             }
         }
     ]

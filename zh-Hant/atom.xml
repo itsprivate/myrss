@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-12T22:13:48.952Z</updated>
+    <updated>2022-04-12T22:34:11.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[當軟件工程遇到量子計算]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259413-when-software-engineering-meets-quantum-computing</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259413-when-software-engineering-meets-quantum-computing"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When Software Engineering Meets Quantum Computing]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[摩拜單車]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259412-mobiguide</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259412-mobiguide"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MobiGuide]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[歐洲在流程管理方面的領導地位]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259411-european-leadership-in-process-management</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259411-european-leadership-in-process-management"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[European Leadership in Process Management]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[歐洲人工智能法規下的推薦系統]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259410-recommender-systems-under-european-ai-regulations</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259410-recommender-systems-under-european-ai-regulations"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Recommender Systems Under European AI Regulations]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[菲尼克斯]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259409-fenix</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259409-fenix"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Fenix]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於人工智能、數據和機器人的夥伴關係]]></title>
         <id>http://cacm.acm.org/magazines/2022/4/259408-partnership-on-ai-data-and-robotics</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>Rachel Aviv</name>
             <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[羅伯特-埃格斯的歷史觀進入主流社會]]></title>
-        <id>https://www.newyorker.com/magazine/2022/04/04/robert-eggerss-historical-visions-go-mainstream</id>
-        <link href="https://www.newyorker.com/magazine/2022/04/04/robert-eggerss-historical-visions-go-mainstream"/>
-        <updated>2022-03-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Robert Eggers’s Historical Visions Go Mainstream]]></summary>
-        <author>
-            <name>Sam Knight</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[殺死狼來擁有自由黨？]]></title>
-        <id>https://www.newyorker.com/magazine/2022/04/04/killing-wolves-to-own-the-libs-idaho</id>
-        <link href="https://www.newyorker.com/magazine/2022/04/04/killing-wolves-to-own-the-libs-idaho"/>
-        <updated>2022-03-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Killing Wolves to Own the Libs?]]></summary>
-        <author>
-            <name>Paige Williams</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[問題比金尼-托馬斯更嚴重]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/ginni-thomas-texts-january-6-trump/629386/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/ginni-thomas-texts-january-6-trump/629386/?utm_source=feed"/>
-        <updated>2022-03-28T15:10:20.000Z</updated>
-        <summary type="html"><![CDATA[The Problem Is Bigger Than Ginni Thomas]]></summary>
-        <author>
-            <name>David Frum</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[想象一下沒有星環的土星]]></title>
-        <id>https://www.theatlantic.com/science/archive/2022/03/saturn-losing-rings-nasa-moons/629391/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/science/archive/2022/03/saturn-losing-rings-nasa-moons/629391/?utm_source=feed"/>
-        <updated>2022-03-28T14:35:26.000Z</updated>
-        <summary type="html"><![CDATA[Imagine Saturn Without Its Rings]]></summary>
-        <author>
-            <name>Marina Koren</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[悲劇發生時的沉默美德]]></title>
-        <id>https://www.theatlantic.com/family/archive/2022/03/social-media-activism-ukraine-solidarity/629402/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/family/archive/2022/03/social-media-activism-ukraine-solidarity/629402/?utm_source=feed"/>
-        <updated>2022-03-28T14:17:36.000Z</updated>
-        <summary type="html"><![CDATA[The Virtues of Silence in a Time of Tragedy]]></summary>
-        <author>
-            <name>Cole Arthur Riley</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>

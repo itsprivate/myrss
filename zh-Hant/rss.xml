@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 12 Apr 2022 22:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 22:34:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,41 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[當軟件工程遇到量子計算]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259413-when-software-engineering-meets-quantum-computing</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259413-when-software-engineering-meets-quantum-computing</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[When Software Engineering Meets Quantum Computing]]></description>
+        </item>
+        <item>
+            <title><![CDATA[摩拜單車]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259412-mobiguide</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259412-mobiguide</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[MobiGuide]]></description>
+        </item>
+        <item>
+            <title><![CDATA[歐洲在流程管理方面的領導地位]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259411-european-leadership-in-process-management</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259411-european-leadership-in-process-management</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[European Leadership in Process Management]]></description>
+        </item>
+        <item>
+            <title><![CDATA[歐洲人工智能法規下的推薦系統]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259410-recommender-systems-under-european-ai-regulations</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259410-recommender-systems-under-european-ai-regulations</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Recommender Systems Under European AI Regulations]]></description>
+        </item>
+        <item>
+            <title><![CDATA[菲尼克斯]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259409-fenix</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259409-fenix</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Fenix]]></description>
+        </item>
         <item>
             <title><![CDATA[關於人工智能、數據和機器人的夥伴關係]]></title>
             <link>http://cacm.acm.org/magazines/2022/4/259408-partnership-on-ai-data-and-robotics</link>
@@ -4178,41 +4213,6 @@
             <guid>https://www.newyorker.com/magazine/2022/04/04/mackenzie-fierceton-rhodes-scholarship-university-of-pennsylvania</guid>
             <pubDate>Mon, 28 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[How an Ivy League School Turned Against a Student]]></description>
-        </item>
-        <item>
-            <title><![CDATA[羅伯特-埃格斯的歷史觀進入主流社會]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/04/robert-eggerss-historical-visions-go-mainstream</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/04/robert-eggerss-historical-visions-go-mainstream</guid>
-            <pubDate>Mon, 28 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Robert Eggers’s Historical Visions Go Mainstream]]></description>
-        </item>
-        <item>
-            <title><![CDATA[殺死狼來擁有自由黨？]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/04/killing-wolves-to-own-the-libs-idaho</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/04/killing-wolves-to-own-the-libs-idaho</guid>
-            <pubDate>Mon, 28 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Killing Wolves to Own the Libs?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[問題比金尼-托馬斯更嚴重]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/ginni-thomas-texts-january-6-trump/629386/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/ginni-thomas-texts-january-6-trump/629386/?utm_source=feed</guid>
-            <pubDate>Mon, 28 Mar 2022 15:10:20 GMT</pubDate>
-            <description><![CDATA[The Problem Is Bigger Than Ginni Thomas]]></description>
-        </item>
-        <item>
-            <title><![CDATA[想象一下沒有星環的土星]]></title>
-            <link>https://www.theatlantic.com/science/archive/2022/03/saturn-losing-rings-nasa-moons/629391/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/science/archive/2022/03/saturn-losing-rings-nasa-moons/629391/?utm_source=feed</guid>
-            <pubDate>Mon, 28 Mar 2022 14:35:26 GMT</pubDate>
-            <description><![CDATA[Imagine Saturn Without Its Rings]]></description>
-        </item>
-        <item>
-            <title><![CDATA[悲劇發生時的沉默美德]]></title>
-            <link>https://www.theatlantic.com/family/archive/2022/03/social-media-activism-ukraine-solidarity/629402/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/family/archive/2022/03/social-media-activism-ukraine-solidarity/629402/?utm_source=feed</guid>
-            <pubDate>Mon, 28 Mar 2022 14:17:36 GMT</pubDate>
-            <description><![CDATA[The Virtues of Silence in a Time of Tragedy]]></description>
         </item>
     </channel>
 </rss>
