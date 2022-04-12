@@ -11,6 +11,54 @@
     },
     "items": [
         {
+            "id": "http://cacm.acm.org/magazines/2022/4/259417-federated-learning-and-privacy",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/4/259417-federated-learning-and-privacy",
+            "title": "聯合學習和隱私",
+            "summary": "Federated Learning and Privacy",
+            "date_modified": "2022-04-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/4/259416-technical-perspective-exploring-cognitive-bias-in-the-wild",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/4/259416-technical-perspective-exploring-cognitive-bias-in-the-wild",
+            "title": "技術視角。探索 \"野生 \"的認知偏差",
+            "summary": "Technical Perspective: Exploring Cognitive Bias 'In the Wild'",
+            "date_modified": "2022-04-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/4/259415-energy-informatics",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/4/259415-energy-informatics",
+            "title": "能源信息學",
+            "summary": "Energy Informatics",
+            "date_modified": "2022-04-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/4/259414-trust-regulation-and-human-in-the-loop-ai",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/4/259414-trust-regulation-and-human-in-the-loop-ai",
+            "title": "信任、監管和 \"人在迴路 \"人工智能",
+            "summary": "Trust, Regulation, and Human-in-the-Loop AI",
+            "date_modified": "2022-04-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
             "id": "http://cacm.acm.org/magazines/2022/4/259413-when-software-engineering-meets-quantum-computing",
             "content_html": "",
             "url": "http://cacm.acm.org/magazines/2022/4/259413-when-software-engineering-meets-quantum-computing",
@@ -7160,54 +7208,6 @@
             "author": {
                 "name": "Michael Schulman",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/cartoons/daily-cartoon/monday-march-28th-oscars-will-smith-slap",
-            "content_html": "",
-            "url": "https://www.newyorker.com/cartoons/daily-cartoon/monday-march-28th-oscars-will-smith-slap",
-            "title": "每日漫畫。3月28日，星期一",
-            "summary": "Daily Cartoon: Monday, March 28th",
-            "date_modified": "2022-03-28T16:48:23.000Z",
-            "author": {
-                "name": "Zoe Si",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/culture/archive/2022/03/will-smith-slap-chris-rock-oscars/629405/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/culture/archive/2022/03/will-smith-slap-chris-rock-oscars/629405/?utm_source=feed",
-            "title": "當暴力感覺像一個位子時",
-            "summary": "When Violence Feels Like a Bit",
-            "date_modified": "2022-03-28T16:46:25.000Z",
-            "author": {
-                "name": "Sophie Gilbert",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/04/04/lucky-go-happy",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/04/04/lucky-go-happy",
-            "title": "幸運-快樂",
-            "summary": "Lucky-Go-Happy",
-            "date_modified": "2022-03-28T10:00:00.000Z",
-            "author": {
-                "name": "David Sedaris",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/04/04/mackenzie-fierceton-rhodes-scholarship-university-of-pennsylvania",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/04/04/mackenzie-fierceton-rhodes-scholarship-university-of-pennsylvania",
-            "title": "常春藤盟校如何與學生反目成仇",
-            "summary": "How an Ivy League School Turned Against a Student",
-            "date_modified": "2022-03-28T10:00:00.000Z",
-            "author": {
-                "name": "Rachel Aviv",
-                "url": "https://www.newyorker.com/feed/news"
             }
         }
     ]

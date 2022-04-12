@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 12 Apr 2022 22:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 22:44:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,34 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[联合学习和隐私]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259417-federated-learning-and-privacy</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259417-federated-learning-and-privacy</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Federated Learning and Privacy]]></description>
+        </item>
+        <item>
+            <title><![CDATA[技术视角。探索 "野生 "的认知偏差]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259416-technical-perspective-exploring-cognitive-bias-in-the-wild</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259416-technical-perspective-exploring-cognitive-bias-in-the-wild</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Technical Perspective: Exploring Cognitive Bias 'In the Wild']]></description>
+        </item>
+        <item>
+            <title><![CDATA[能源信息学]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259415-energy-informatics</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259415-energy-informatics</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Energy Informatics]]></description>
+        </item>
+        <item>
+            <title><![CDATA[信任、监管和 "人在回路 "人工智能]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259414-trust-regulation-and-human-in-the-loop-ai</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259414-trust-regulation-and-human-in-the-loop-ai</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Trust, Regulation, and Human-in-the-Loop AI]]></description>
+        </item>
         <item>
             <title><![CDATA[当软件工程遇到量子计算]]></title>
             <link>http://cacm.acm.org/magazines/2022/4/259413-when-software-engineering-meets-quantum-computing</link>
@@ -4185,34 +4213,6 @@
             <guid>https://www.newyorker.com/culture/culture-desk/what-it-felt-like-in-the-room-when-will-smith-slapped-chris-rock-at-the-oscars</guid>
             <pubDate>Mon, 28 Mar 2022 17:20:52 GMT</pubDate>
             <description><![CDATA[What It Felt Like in the Room When Will Smith Slapped Chris Rock at the Oscars]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日漫画。3月28日，星期一]]></title>
-            <link>https://www.newyorker.com/cartoons/daily-cartoon/monday-march-28th-oscars-will-smith-slap</link>
-            <guid>https://www.newyorker.com/cartoons/daily-cartoon/monday-march-28th-oscars-will-smith-slap</guid>
-            <pubDate>Mon, 28 Mar 2022 16:48:23 GMT</pubDate>
-            <description><![CDATA[Daily Cartoon: Monday, March 28th]]></description>
-        </item>
-        <item>
-            <title><![CDATA[当暴力感觉像一个位子时]]></title>
-            <link>https://www.theatlantic.com/culture/archive/2022/03/will-smith-slap-chris-rock-oscars/629405/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/culture/archive/2022/03/will-smith-slap-chris-rock-oscars/629405/?utm_source=feed</guid>
-            <pubDate>Mon, 28 Mar 2022 16:46:25 GMT</pubDate>
-            <description><![CDATA[When Violence Feels Like a Bit]]></description>
-        </item>
-        <item>
-            <title><![CDATA[幸运-快乐]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/04/lucky-go-happy</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/04/lucky-go-happy</guid>
-            <pubDate>Mon, 28 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Lucky-Go-Happy]]></description>
-        </item>
-        <item>
-            <title><![CDATA[常春藤盟校如何与学生反目成仇]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/04/mackenzie-fierceton-rhodes-scholarship-university-of-pennsylvania</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/04/mackenzie-fierceton-rhodes-scholarship-university-of-pennsylvania</guid>
-            <pubDate>Mon, 28 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[How an Ivy League School Turned Against a Student]]></description>
         </item>
     </channel>
 </rss>

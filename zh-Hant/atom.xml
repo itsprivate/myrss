@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-12T22:34:11.079Z</updated>
+    <updated>2022-04-12T22:44:33.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[聯合學習和隱私]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259417-federated-learning-and-privacy</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259417-federated-learning-and-privacy"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Federated Learning and Privacy]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技術視角。探索 "野生 "的認知偏差]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259416-technical-perspective-exploring-cognitive-bias-in-the-wild</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259416-technical-perspective-exploring-cognitive-bias-in-the-wild"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Technical Perspective: Exploring Cognitive Bias 'In the Wild']]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[能源信息學]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259415-energy-informatics</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259415-energy-informatics"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Energy Informatics]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[信任、監管和 "人在迴路 "人工智能]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259414-trust-regulation-and-human-in-the-loop-ai</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259414-trust-regulation-and-human-in-the-loop-ai"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Trust, Regulation, and Human-in-the-Loop AI]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[當軟件工程遇到量子計算]]></title>
         <id>http://cacm.acm.org/magazines/2022/4/259413-when-software-engineering-meets-quantum-computing</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>Michael Schulman</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日漫畫。3月28日，星期一]]></title>
-        <id>https://www.newyorker.com/cartoons/daily-cartoon/monday-march-28th-oscars-will-smith-slap</id>
-        <link href="https://www.newyorker.com/cartoons/daily-cartoon/monday-march-28th-oscars-will-smith-slap"/>
-        <updated>2022-03-28T16:48:23.000Z</updated>
-        <summary type="html"><![CDATA[Daily Cartoon: Monday, March 28th]]></summary>
-        <author>
-            <name>Zoe Si</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[當暴力感覺像一個位子時]]></title>
-        <id>https://www.theatlantic.com/culture/archive/2022/03/will-smith-slap-chris-rock-oscars/629405/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/culture/archive/2022/03/will-smith-slap-chris-rock-oscars/629405/?utm_source=feed"/>
-        <updated>2022-03-28T16:46:25.000Z</updated>
-        <summary type="html"><![CDATA[When Violence Feels Like a Bit]]></summary>
-        <author>
-            <name>Sophie Gilbert</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[幸運-快樂]]></title>
-        <id>https://www.newyorker.com/magazine/2022/04/04/lucky-go-happy</id>
-        <link href="https://www.newyorker.com/magazine/2022/04/04/lucky-go-happy"/>
-        <updated>2022-03-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lucky-Go-Happy]]></summary>
-        <author>
-            <name>David Sedaris</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[常春藤盟校如何與學生反目成仇]]></title>
-        <id>https://www.newyorker.com/magazine/2022/04/04/mackenzie-fierceton-rhodes-scholarship-university-of-pennsylvania</id>
-        <link href="https://www.newyorker.com/magazine/2022/04/04/mackenzie-fierceton-rhodes-scholarship-university-of-pennsylvania"/>
-        <updated>2022-03-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How an Ivy League School Turned Against a Student]]></summary>
-        <author>
-            <name>Rachel Aviv</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
 </feed>
