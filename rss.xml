@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 12 Apr 2022 16:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 17:41:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[这就是战争的决定性时刻]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-russia-war-consequences/629541/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-russia-war-consequences/629541/?utm_source=feed</guid>
+            <pubDate>Tue, 12 Apr 2022 17:05:23 GMT</pubDate>
+            <description><![CDATA[This Is the War’s Decisive Moment]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在欧洲的前罗伊尔人中]]></title>
+            <link>https://www.theatlantic.com/magazine/archive/2022/05/leka-ii-crown-prince-albania-europe-monarchy/629368/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/magazine/archive/2022/05/leka-ii-crown-prince-albania-europe-monarchy/629368/?utm_source=feed</guid>
+            <pubDate>Tue, 12 Apr 2022 17:05:42 GMT</pubDate>
+            <description><![CDATA[Among Europe’s Ex-Royals]]></description>
+        </item>
         <item>
             <title><![CDATA[欢迎回到办公室。这不是很有趣吗？]]></title>
             <link>https://www.nytimes.com/2022/04/12/technology/rto-return-office-technology.html</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/humor/daily-shouts/some-realistic-affirmations</guid>
             <pubDate>Sun, 27 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Some Realistic Affirmations]]></description>
-        </item>
-        <item>
-            <title><![CDATA[密码字谜：2022年3月27日，星期日]]></title>
-            <link>https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/03/27</link>
-            <guid>https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/03/27</guid>
-            <pubDate>Sun, 27 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Cryptic Crossword: Sunday, March 27, 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[普京在想什么？]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/04/what-is-putin-thinking-russia-ukraine</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/04/what-is-putin-thinking-russia-ukraine</guid>
-            <pubDate>Sun, 27 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[What Is Putin Thinking?]]></description>
         </item>
     </channel>
 </rss>

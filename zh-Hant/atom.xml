@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-12T16:16:05.640Z</updated>
+    <updated>2022-04-12T17:41:37.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[這就是戰爭的決定性時刻]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-russia-war-consequences/629541/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/ukraine-russia-war-consequences/629541/?utm_source=feed"/>
+        <updated>2022-04-12T17:05:23.000Z</updated>
+        <summary type="html"><![CDATA[This Is the War’s Decisive Moment]]></summary>
+        <author>
+            <name>Eliot A. Cohen</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在歐洲的前羅伊爾人中]]></title>
+        <id>https://www.theatlantic.com/magazine/archive/2022/05/leka-ii-crown-prince-albania-europe-monarchy/629368/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/magazine/archive/2022/05/leka-ii-crown-prince-albania-europe-monarchy/629368/?utm_source=feed"/>
+        <updated>2022-04-12T17:05:42.000Z</updated>
+        <summary type="html"><![CDATA[Among Europe’s Ex-Royals]]></summary>
+        <author>
+            <name>Helen Lewis</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[歡迎回到辦公室。這不是很有趣嗎？]]></title>
         <id>https://www.nytimes.com/2022/04/12/technology/rto-return-office-technology.html</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[Some Realistic Affirmations]]></summary>
         <author>
             <name>Olivia de Recat</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[密碼字謎：2022年3月27日，星期日]]></title>
-        <id>https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/03/27</id>
-        <link href="https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/03/27"/>
-        <updated>2022-03-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Cryptic Crossword: Sunday, March 27, 2022]]></summary>
-        <author>
-            <name>Joshua Kosman, Henri Picciotto</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京在想什麼？]]></title>
-        <id>https://www.newyorker.com/magazine/2022/04/04/what-is-putin-thinking-russia-ukraine</id>
-        <link href="https://www.newyorker.com/magazine/2022/04/04/what-is-putin-thinking-russia-ukraine"/>
-        <updated>2022-03-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What Is Putin Thinking?]]></summary>
-        <author>
-            <name>David Remnick</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
