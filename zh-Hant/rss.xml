@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 12 Apr 2022 21:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 21:33:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,34 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[紐約市地鐵裡的恐怖之晨]]></title>
+            <link>https://www.newyorker.com/news/our-local-correspondents/a-morning-of-horror-in-new-york-citys-subway</link>
+            <guid>https://www.newyorker.com/news/our-local-correspondents/a-morning-of-horror-in-new-york-citys-subway</guid>
+            <pubDate>Tue, 12 Apr 2022 21:08:27 GMT</pubDate>
+            <description><![CDATA[A Morning of Horror in New York City’s Subway]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Twitch上最受歡迎的國際象棋流媒體人]]></title>
+            <link>https://www.newyorker.com/culture/rabbit-holes/the-most-popular-chess-streamer-on-twitch</link>
+            <guid>https://www.newyorker.com/culture/rabbit-holes/the-most-popular-chess-streamer-on-twitch</guid>
+            <pubDate>Tue, 12 Apr 2022 21:04:21 GMT</pubDate>
+            <description><![CDATA[The Most Popular Chess Streamer on Twitch]]></description>
+        </item>
+        <item>
+            <title><![CDATA[烏克蘭稱挫敗了俄羅斯對其電網的複雜的網絡攻擊]]></title>
+            <link>https://www.nytimes.com/2022/04/12/us/politics/ukraine-russian-cyberattack.html</link>
+            <guid>https://www.nytimes.com/2022/04/12/us/politics/ukraine-russian-cyberattack.html</guid>
+            <pubDate>Tue, 12 Apr 2022 21:24:21 GMT</pubDate>
+            <description><![CDATA[Ukraine Says It Thwarted a Sophisticated Russian Cyberattack on Its Power Grid]]></description>
+        </item>
+        <item>
+            <title><![CDATA[技術對道德的影響]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259390-technologys-impact-on-morality</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259390-technologys-impact-on-morality</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Technology's Impact on Morality]]></description>
+        </item>
         <item>
             <title><![CDATA[實現全民CS可能需要數十年時間]]></title>
             <link>http://cacm.acm.org/magazines/2022/4/259389-achieving-cs-for-all-could-take-decades</link>
@@ -4185,34 +4213,6 @@
             <guid>https://www.theatlantic.com/international/archive/2022/03/ukraine-war-china-covid-lockdowns/629401/?utm_source=feed</guid>
             <pubDate>Mon, 28 Mar 2022 09:34:39 GMT</pubDate>
             <description><![CDATA[The World Is Splitting in Two]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一名士兵在烏克蘭失蹤，他的父親能否找到他？]]></title>
-            <link>https://www.newyorker.com/video/watch/i-never-had-dreams-of-my-son</link>
-            <guid>https://www.newyorker.com/video/watch/i-never-had-dreams-of-my-son</guid>
-            <pubDate>Wed, 09 Mar 2022 11:00:00 GMT</pubDate>
-            <description><![CDATA[A Soldier Goes Missing in Ukraine—Can His Father Find Him?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[右派的視頻網站Rumble有更大的野心]]></title>
-            <link>https://www.nytimes.com/2022/03/28/business/media/rumble-social-media-conservatives-videos.html</link>
-            <guid>https://www.nytimes.com/2022/03/28/business/media/rumble-social-media-conservatives-videos.html</guid>
-            <pubDate>Mon, 28 Mar 2022 07:00:10 GMT</pubDate>
-            <description><![CDATA[Rumble, the Right’s Go-To Video Site, Has Much Bigger Ambitions]]></description>
-        </item>
-        <item>
-            <title><![CDATA[社交媒體讓青少年不快樂嗎？這可能取決於他們的年齡。]]></title>
-            <link>https://www.nytimes.com/2022/03/28/science/social-media-teens-mental-health.html</link>
-            <guid>https://www.nytimes.com/2022/03/28/science/social-media-teens-mental-health.html</guid>
-            <pubDate>Mon, 28 Mar 2022 09:00:17 GMT</pubDate>
-            <description><![CDATA[Does Social Media Make Teens Unhappy? It May Depend on Their Age.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[地理圍欄改善了瑞典的安全狀況]]></title>
-            <link>https://www.nytimes.com/2022/03/28/world/europe/geofencing-sweden.html</link>
-            <guid>https://www.nytimes.com/2022/03/28/world/europe/geofencing-sweden.html</guid>
-            <pubDate>Mon, 28 Mar 2022 09:00:14 GMT</pubDate>
-            <description><![CDATA[Geofencing Improves Safety in Sweden]]></description>
         </item>
     </channel>
 </rss>

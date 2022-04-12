@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-12T21:12:56.444Z</updated>
+    <updated>2022-04-12T21:33:44.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[纽约市地铁里的恐怖之晨]]></title>
+        <id>https://www.newyorker.com/news/our-local-correspondents/a-morning-of-horror-in-new-york-citys-subway</id>
+        <link href="https://www.newyorker.com/news/our-local-correspondents/a-morning-of-horror-in-new-york-citys-subway"/>
+        <updated>2022-04-12T21:08:27.000Z</updated>
+        <summary type="html"><![CDATA[A Morning of Horror in New York City’s Subway]]></summary>
+        <author>
+            <name>Eric Lach</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitch上最受欢迎的国际象棋流媒体人]]></title>
+        <id>https://www.newyorker.com/culture/rabbit-holes/the-most-popular-chess-streamer-on-twitch</id>
+        <link href="https://www.newyorker.com/culture/rabbit-holes/the-most-popular-chess-streamer-on-twitch"/>
+        <updated>2022-04-12T21:04:21.000Z</updated>
+        <summary type="html"><![CDATA[The Most Popular Chess Streamer on Twitch]]></summary>
+        <author>
+            <name>Jacob Sweet</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰称挫败了俄罗斯对其电网的复杂的网络攻击]]></title>
+        <id>https://www.nytimes.com/2022/04/12/us/politics/ukraine-russian-cyberattack.html</id>
+        <link href="https://www.nytimes.com/2022/04/12/us/politics/ukraine-russian-cyberattack.html"/>
+        <updated>2022-04-12T21:24:21.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine Says It Thwarted a Sophisticated Russian Cyberattack on Its Power Grid]]></summary>
+        <author>
+            <name>Kate Conger</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技术对道德的影响]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259390-technologys-impact-on-morality</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259390-technologys-impact-on-morality"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Technology's Impact on Morality]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[实现全民CS可能需要数十年时间]]></title>
         <id>http://cacm.acm.org/magazines/2022/4/259389-achieving-cs-for-all-could-take-decades</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>Michael Schuman</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一名士兵在乌克兰失踪，他的父亲能否找到他？]]></title>
-        <id>https://www.newyorker.com/video/watch/i-never-had-dreams-of-my-son</id>
-        <link href="https://www.newyorker.com/video/watch/i-never-had-dreams-of-my-son"/>
-        <updated>2022-03-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A Soldier Goes Missing in Ukraine—Can His Father Find Him?]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[右派的视频网站Rumble有更大的野心]]></title>
-        <id>https://www.nytimes.com/2022/03/28/business/media/rumble-social-media-conservatives-videos.html</id>
-        <link href="https://www.nytimes.com/2022/03/28/business/media/rumble-social-media-conservatives-videos.html"/>
-        <updated>2022-03-28T07:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Rumble, the Right’s Go-To Video Site, Has Much Bigger Ambitions]]></summary>
-        <author>
-            <name>Jeremy W. Peters</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社交媒体让青少年不快乐吗？这可能取决于他们的年龄。]]></title>
-        <id>https://www.nytimes.com/2022/03/28/science/social-media-teens-mental-health.html</id>
-        <link href="https://www.nytimes.com/2022/03/28/science/social-media-teens-mental-health.html"/>
-        <updated>2022-03-28T09:00:17.000Z</updated>
-        <summary type="html"><![CDATA[Does Social Media Make Teens Unhappy? It May Depend on Their Age.]]></summary>
-        <author>
-            <name>Virginia Hughes</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[地理围栏改善了瑞典的安全状况]]></title>
-        <id>https://www.nytimes.com/2022/03/28/world/europe/geofencing-sweden.html</id>
-        <link href="https://www.nytimes.com/2022/03/28/world/europe/geofencing-sweden.html"/>
-        <updated>2022-03-28T09:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Geofencing Improves Safety in Sweden]]></summary>
-        <author>
-            <name>Tanya Mohn</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>

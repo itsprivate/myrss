@@ -11,6 +11,54 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/our-local-correspondents/a-morning-of-horror-in-new-york-citys-subway",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/our-local-correspondents/a-morning-of-horror-in-new-york-citys-subway",
+            "title": "紐約市地鐵裡的恐怖之晨",
+            "summary": "A Morning of Horror in New York City’s Subway",
+            "date_modified": "2022-04-12T21:08:27.000Z",
+            "author": {
+                "name": "Eric Lach",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/culture/rabbit-holes/the-most-popular-chess-streamer-on-twitch",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/rabbit-holes/the-most-popular-chess-streamer-on-twitch",
+            "title": "Twitch上最受歡迎的國際象棋流媒體人",
+            "summary": "The Most Popular Chess Streamer on Twitch",
+            "date_modified": "2022-04-12T21:04:21.000Z",
+            "author": {
+                "name": "Jacob Sweet",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/04/12/us/politics/ukraine-russian-cyberattack.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/12/us/politics/ukraine-russian-cyberattack.html",
+            "title": "烏克蘭稱挫敗了俄羅斯對其電網的複雜的網絡攻擊",
+            "summary": "Ukraine Says It Thwarted a Sophisticated Russian Cyberattack on Its Power Grid",
+            "date_modified": "2022-04-12T21:24:21.000Z",
+            "author": {
+                "name": "Kate Conger",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/4/259390-technologys-impact-on-morality",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/4/259390-technologys-impact-on-morality",
+            "title": "技術對道德的影響",
+            "summary": "Technology's Impact on Morality",
+            "date_modified": "2022-04-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
             "id": "http://cacm.acm.org/magazines/2022/4/259389-achieving-cs-for-all-could-take-decades",
             "content_html": "",
             "url": "http://cacm.acm.org/magazines/2022/4/259389-achieving-cs-for-all-could-take-decades",
@@ -7160,54 +7208,6 @@
             "author": {
                 "name": "Michael Schuman",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/video/watch/i-never-had-dreams-of-my-son",
-            "content_html": "",
-            "url": "https://www.newyorker.com/video/watch/i-never-had-dreams-of-my-son",
-            "title": "一名士兵在烏克蘭失蹤，他的父親能否找到他？",
-            "summary": "A Soldier Goes Missing in Ukraine—Can His Father Find Him?",
-            "date_modified": "2022-03-09T11:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/28/business/media/rumble-social-media-conservatives-videos.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/28/business/media/rumble-social-media-conservatives-videos.html",
-            "title": "右派的視頻網站Rumble有更大的野心",
-            "summary": "Rumble, the Right’s Go-To Video Site, Has Much Bigger Ambitions",
-            "date_modified": "2022-03-28T07:00:10.000Z",
-            "author": {
-                "name": "Jeremy W. Peters",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/28/science/social-media-teens-mental-health.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/28/science/social-media-teens-mental-health.html",
-            "title": "社交媒體讓青少年不快樂嗎？這可能取決於他們的年齡。",
-            "summary": "Does Social Media Make Teens Unhappy? It May Depend on Their Age.",
-            "date_modified": "2022-03-28T09:00:17.000Z",
-            "author": {
-                "name": "Virginia Hughes",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/28/world/europe/geofencing-sweden.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/28/world/europe/geofencing-sweden.html",
-            "title": "地理圍欄改善了瑞典的安全狀況",
-            "summary": "Geofencing Improves Safety in Sweden",
-            "date_modified": "2022-03-28T09:00:14.000Z",
-            "author": {
-                "name": "Tanya Mohn",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
     ]
