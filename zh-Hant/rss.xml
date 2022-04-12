@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 12 Apr 2022 21:33:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 21:45:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,48 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[走出瘋狂的道路]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259396-getting-off-the-mad-path</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259396-getting-off-the-mad-path</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Getting Off the Mad Path]]></description>
+        </item>
+        <item>
+            <title><![CDATA[系統抽象]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259395-systems-abstractions</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259395-systems-abstractions</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Systems Abstractions]]></description>
+        </item>
+        <item>
+            <title><![CDATA[全球供應鏈的破壞和復原力]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259394-global-supply-chain-disruption-and-resilience</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259394-global-supply-chain-disruption-and-resilience</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Global Supply Chain Disruption and Resilience]]></description>
+        </item>
+        <item>
+            <title><![CDATA[歡迎]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259393-welcome</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259393-welcome</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome]]></description>
+        </item>
+        <item>
+            <title><![CDATA[仍在等待自動駕駛汽車的出現]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259392-still-waiting-for-self-driving-cars</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259392-still-waiting-for-self-driving-cars</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Still Waiting for Self-Driving Cars]]></description>
+        </item>
+        <item>
+            <title><![CDATA[人工智能能否學會遺忘？]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259391-can-ai-learn-to-forget</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259391-can-ai-learn-to-forget</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Can AI Learn to Forget?]]></description>
+        </item>
         <item>
             <title><![CDATA[紐約市地鐵裡的恐怖之晨]]></title>
             <link>https://www.newyorker.com/news/our-local-correspondents/a-morning-of-horror-in-new-york-citys-subway</link>
@@ -4171,48 +4213,6 @@
             <guid>https://www.newyorker.com/books/this-week-in-fiction/artem-chapeye-04-04-22</guid>
             <pubDate>Mon, 28 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Artem Chapeye on Defending Ukraine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一位敘利亞攝影師給難民兒童的禮物]]></title>
-            <link>https://www.newyorker.com/culture/photo-booth/a-syrian-photographers-gift-to-refugee-children</link>
-            <guid>https://www.newyorker.com/culture/photo-booth/a-syrian-photographers-gift-to-refugee-children</guid>
-            <pubDate>Mon, 28 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[A Syrian Photographer’s Gift to Refugee Children]]></description>
-        </item>
-        <item>
-            <title><![CDATA[馬克-烏里克森的 "恆星之夜"]]></title>
-            <link>https://www.newyorker.com/culture/cover-story/cover-story-2022-04-04</link>
-            <guid>https://www.newyorker.com/culture/cover-story/cover-story-2022-04-04</guid>
-            <pubDate>Mon, 28 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Mark Ulriksen’s “Stellar Night”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼美國的人口增長剛剛墜落到歷史最低點？]]></title>
-            <link>https://www.theatlantic.com/newsletters/archive/2022/03/american-population-growth-rate-slow/629392/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/newsletters/archive/2022/03/american-population-growth-rate-slow/629392/?utm_source=feed</guid>
-            <pubDate>Mon, 28 Mar 2022 10:00:59 GMT</pubDate>
-            <description><![CDATA[Why U.S. Population Growth Just Crashed to an All-Time Low]]></description>
-        </item>
-        <item>
-            <title><![CDATA[長槍短炮]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/will-hurd-2024-book/629398/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/will-hurd-2024-book/629398/?utm_source=feed</guid>
-            <pubDate>Mon, 28 Mar 2022 10:00:59 GMT</pubDate>
-            <description><![CDATA[The Long Shot]]></description>
-        </item>
-        <item>
-            <title><![CDATA[確實有我們的一席之地]]></title>
-            <link>https://www.theatlantic.com/culture/archive/2022/03/oscars-2022-ariana-debose-troy-kotsur/629399/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/culture/archive/2022/03/oscars-2022-ariana-debose-troy-kotsur/629399/?utm_source=feed</guid>
-            <pubDate>Mon, 28 Mar 2022 10:01:00 GMT</pubDate>
-            <description><![CDATA[‘There Is, Indeed, a Place for Us’]]></description>
-        </item>
-        <item>
-            <title><![CDATA[世界正在一分為二]]></title>
-            <link>https://www.theatlantic.com/international/archive/2022/03/ukraine-war-china-covid-lockdowns/629401/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/international/archive/2022/03/ukraine-war-china-covid-lockdowns/629401/?utm_source=feed</guid>
-            <pubDate>Mon, 28 Mar 2022 09:34:39 GMT</pubDate>
-            <description><![CDATA[The World Is Splitting in Two]]></description>
         </item>
     </channel>
 </rss>
