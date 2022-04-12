@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 12 Apr 2022 11:30:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 12:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[冬季日记演练]]></title>
+            <link>https://austinkleon.substack.com/p/winter-diary-walkthrough</link>
+            <guid>https://austinkleon.substack.com/p/winter-diary-walkthrough</guid>
+            <pubDate>Tue, 12 Apr 2022 12:00:38 GMT</pubDate>
+            <description><![CDATA[Winter diary walkthrough]]></description>
+        </item>
         <item>
             <title><![CDATA[美国需要哀悼100万的COVID损失]]></title>
             <link>https://www.theatlantic.com/ideas/archive/2022/04/us-covid-grief-one-million-deaths/629533/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/ideas/archive/2022/03/zelensky-speech-russia-propaganda-history/629381/?utm_source=feed</guid>
             <pubDate>Sun, 27 Mar 2022 10:01:56 GMT</pubDate>
             <description><![CDATA[How Propaganda Became Entertaining]]></description>
-        </item>
-        <item>
-            <title><![CDATA[克里斯-华莱士说福克斯新闻的生活变得 "不可持续 "了]]></title>
-            <link>https://www.nytimes.com/2022/03/27/business/media/chris-wallace-cnn-fox-news.html</link>
-            <guid>https://www.nytimes.com/2022/03/27/business/media/chris-wallace-cnn-fox-news.html</guid>
-            <pubDate>Sun, 27 Mar 2022 09:00:08 GMT</pubDate>
-            <description><![CDATA[Chris Wallace Says Life at Fox News Became ‘Unsustainable’]]></description>
         </item>
     </channel>
 </rss>

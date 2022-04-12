@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-12T11:30:57.505Z</updated>
+    <updated>2022-04-12T12:19:52.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[冬季日记演练]]></title>
+        <id>https://austinkleon.substack.com/p/winter-diary-walkthrough</id>
+        <link href="https://austinkleon.substack.com/p/winter-diary-walkthrough"/>
+        <updated>2022-04-12T12:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Winter diary walkthrough]]></summary>
+        <author>
+            <name>Austin Kleon</name>
+            <uri>https://austinkleon.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国需要哀悼100万的COVID损失]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/04/us-covid-grief-one-million-deaths/629533/?utm_source=feed</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Kathryn Cramer Brownell</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[克里斯-华莱士说福克斯新闻的生活变得 "不可持续 "了]]></title>
-        <id>https://www.nytimes.com/2022/03/27/business/media/chris-wallace-cnn-fox-news.html</id>
-        <link href="https://www.nytimes.com/2022/03/27/business/media/chris-wallace-cnn-fox-news.html"/>
-        <updated>2022-03-27T09:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Chris Wallace Says Life at Fox News Became ‘Unsustainable’]]></summary>
-        <author>
-            <name>Michael M. Grynbaum</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>
