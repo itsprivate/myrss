@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 12 Apr 2022 20:44:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 20:51:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[保护互联网]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259388-preserving-the-internet</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259388-preserving-the-internet</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Preserving the Internet]]></description>
+        </item>
         <item>
             <title><![CDATA[棒球剪贴簿，第一部分]]></title>
             <link>https://www.newyorker.com/cartoons/blitts-kvetchbook/baseball-scrapbook-part-1</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.nytimes.com/2022/03/28/science/adolescents-social-media.html</guid>
             <pubDate>Mon, 28 Mar 2022 09:00:16 GMT</pubDate>
             <description><![CDATA[Does Social Media Make Teens Unhappy? It May Depend on Their Age.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在釜山，一个基于数据的智能城市正在形成。]]></title>
-            <link>https://www.nytimes.com/2022/03/28/technology/eco-delta-smart-village-busan-south-korea.html</link>
-            <guid>https://www.nytimes.com/2022/03/28/technology/eco-delta-smart-village-busan-south-korea.html</guid>
-            <pubDate>Mon, 28 Mar 2022 09:00:18 GMT</pubDate>
-            <description><![CDATA[In Busan, A Smart City Built on Data Takes Shape]]></description>
         </item>
     </channel>
 </rss>
