@@ -11,6 +11,78 @@
     },
     "items": [
         {
+            "id": "http://cacm.acm.org/magazines/2022/4/259402-toward-a-broad-ai",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/4/259402-toward-a-broad-ai",
+            "title": "邁向廣泛的人工智能",
+            "summary": "Toward a Broad AI",
+            "date_modified": "2022-04-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/4/259401-internet-of-production",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/4/259401-internet-of-production",
+            "title": "生產互聯網",
+            "summary": "Internet of Production",
+            "date_modified": "2022-04-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/4/259400-on-skin-computing",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/4/259400-on-skin-computing",
+            "title": "皮膚上的計算",
+            "summary": "On-Skin Computing",
+            "date_modified": "2022-04-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/4/259399-robotic-process-automation-platform-uipath",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/4/259399-robotic-process-automation-platform-uipath",
+            "title": "機器人流程自動化平臺UiPath",
+            "summary": "Robotic Process Automation Platform UiPath",
+            "date_modified": "2022-04-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/4/259398-explainable-ai",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/4/259398-explainable-ai",
+            "title": "可解釋的人工智能",
+            "summary": "Explainable AI",
+            "date_modified": "2022-04-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/4/259397-communications-digital-initiative-and-its-first-digital-event",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/4/259397-communications-digital-initiative-and-its-first-digital-event",
+            "title": "通訊社的數字倡議及其首次數字活動",
+            "summary": "Communications' Digital Initiative and Its First Digital Event",
+            "date_modified": "2022-04-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
             "id": "http://cacm.acm.org/magazines/2022/4/259396-getting-off-the-mad-path",
             "content_html": "",
             "url": "http://cacm.acm.org/magazines/2022/4/259396-getting-off-the-mad-path",
@@ -7136,78 +7208,6 @@
             "author": {
                 "name": "Caleb Madison",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/04/04/the-british-empire-was-much-worse-than-you-realize-caroline-elkinss-legacy-of-violence",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/04/04/the-british-empire-was-much-worse-than-you-realize-caroline-elkinss-legacy-of-violence",
-            "title": "大英帝國比你意識到的要糟糕得多",
-            "summary": "The British Empire Was Much Worse Than You Realize",
-            "date_modified": "2022-03-28T10:00:00.000Z",
-            "author": {
-                "name": "Sunil Khilnani",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/04/04/alex-edelman-gets-political-in-just-for-us",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/04/04/alex-edelman-gets-political-in-just-for-us",
-            "title": "亞歷克斯-埃德爾曼在 \"只為我們 \"中獲得了政治地位",
-            "summary": "Alex Edelman Gets Political in “Just for Us”",
-            "date_modified": "2022-03-28T10:00:00.000Z",
-            "author": {
-                "name": "Alexandra Schwartz",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/books/this-week-in-fiction/artem-chapeye-04-04-22",
-            "content_html": "",
-            "url": "https://www.newyorker.com/books/this-week-in-fiction/artem-chapeye-04-04-22",
-            "title": "Artem Chapeye談保衛烏克蘭",
-            "summary": "Artem Chapeye on Defending Ukraine",
-            "date_modified": "2022-03-28T10:00:00.000Z",
-            "author": {
-                "name": "Deborah Treisman",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/photo-booth/a-syrian-photographers-gift-to-refugee-children",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/photo-booth/a-syrian-photographers-gift-to-refugee-children",
-            "title": "一位敘利亞攝影師給難民兒童的禮物",
-            "summary": "A Syrian Photographer’s Gift to Refugee Children",
-            "date_modified": "2022-03-28T10:00:00.000Z",
-            "author": {
-                "name": "Eren Orbey",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/cover-story/cover-story-2022-04-04",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/cover-story/cover-story-2022-04-04",
-            "title": "馬克-烏里克森的 \"恆星之夜\"",
-            "summary": "Mark Ulriksen’s “Stellar Night”",
-            "date_modified": "2022-03-28T10:00:00.000Z",
-            "author": {
-                "name": "Françoise Mouly",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/books/this-week-in-fiction/artem-chapeye-04-04-22",
-            "content_html": "",
-            "url": "https://www.newyorker.com/books/this-week-in-fiction/artem-chapeye-04-04-22",
-            "title": "Artem Chapeye談保衛烏克蘭",
-            "summary": "Artem Chapeye on Defending Ukraine",
-            "date_modified": "2022-03-28T10:00:00.000Z",
-            "author": {
-                "name": "Deborah Treisman",
-                "url": "https://www.newyorker.com/feed/news"
             }
         }
     ]

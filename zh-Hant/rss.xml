@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 12 Apr 2022 21:45:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 21:53:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,48 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[邁向廣泛的人工智能]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259402-toward-a-broad-ai</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259402-toward-a-broad-ai</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Toward a Broad AI]]></description>
+        </item>
+        <item>
+            <title><![CDATA[生產互聯網]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259401-internet-of-production</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259401-internet-of-production</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Internet of Production]]></description>
+        </item>
+        <item>
+            <title><![CDATA[皮膚上的計算]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259400-on-skin-computing</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259400-on-skin-computing</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[On-Skin Computing]]></description>
+        </item>
+        <item>
+            <title><![CDATA[機器人流程自動化平臺UiPath]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259399-robotic-process-automation-platform-uipath</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259399-robotic-process-automation-platform-uipath</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Robotic Process Automation Platform UiPath]]></description>
+        </item>
+        <item>
+            <title><![CDATA[可解釋的人工智能]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259398-explainable-ai</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259398-explainable-ai</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Explainable AI]]></description>
+        </item>
+        <item>
+            <title><![CDATA[通訊社的數字倡議及其首次數字活動]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259397-communications-digital-initiative-and-its-first-digital-event</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259397-communications-digital-initiative-and-its-first-digital-event</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Communications' Digital Initiative and Its First Digital Event]]></description>
+        </item>
         <item>
             <title><![CDATA[走出瘋狂的道路]]></title>
             <link>http://cacm.acm.org/magazines/2022/4/259396-getting-off-the-mad-path</link>
@@ -4171,48 +4213,6 @@
             <guid>https://www.theatlantic.com/newsletters/archive/2022/03/happy-word-etymology/629382/?utm_source=feed</guid>
             <pubDate>Mon, 28 Mar 2022 11:00:56 GMT</pubDate>
             <description><![CDATA[The True Meaning of Happiness]]></description>
-        </item>
-        <item>
-            <title><![CDATA[大英帝國比你意識到的要糟糕得多]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/04/the-british-empire-was-much-worse-than-you-realize-caroline-elkinss-legacy-of-violence</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/04/the-british-empire-was-much-worse-than-you-realize-caroline-elkinss-legacy-of-violence</guid>
-            <pubDate>Mon, 28 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The British Empire Was Much Worse Than You Realize]]></description>
-        </item>
-        <item>
-            <title><![CDATA[亞歷克斯-埃德爾曼在 "只為我們 "中獲得了政治地位]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/04/alex-edelman-gets-political-in-just-for-us</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/04/alex-edelman-gets-political-in-just-for-us</guid>
-            <pubDate>Mon, 28 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Alex Edelman Gets Political in “Just for Us”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Artem Chapeye談保衛烏克蘭]]></title>
-            <link>https://www.newyorker.com/books/this-week-in-fiction/artem-chapeye-04-04-22</link>
-            <guid>https://www.newyorker.com/books/this-week-in-fiction/artem-chapeye-04-04-22</guid>
-            <pubDate>Mon, 28 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Artem Chapeye on Defending Ukraine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一位敘利亞攝影師給難民兒童的禮物]]></title>
-            <link>https://www.newyorker.com/culture/photo-booth/a-syrian-photographers-gift-to-refugee-children</link>
-            <guid>https://www.newyorker.com/culture/photo-booth/a-syrian-photographers-gift-to-refugee-children</guid>
-            <pubDate>Mon, 28 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[A Syrian Photographer’s Gift to Refugee Children]]></description>
-        </item>
-        <item>
-            <title><![CDATA[馬克-烏里克森的 "恆星之夜"]]></title>
-            <link>https://www.newyorker.com/culture/cover-story/cover-story-2022-04-04</link>
-            <guid>https://www.newyorker.com/culture/cover-story/cover-story-2022-04-04</guid>
-            <pubDate>Mon, 28 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Mark Ulriksen’s “Stellar Night”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Artem Chapeye談保衛烏克蘭]]></title>
-            <link>https://www.newyorker.com/books/this-week-in-fiction/artem-chapeye-04-04-22</link>
-            <guid>https://www.newyorker.com/books/this-week-in-fiction/artem-chapeye-04-04-22</guid>
-            <pubDate>Mon, 28 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Artem Chapeye on Defending Ukraine]]></description>
         </item>
     </channel>
 </rss>
