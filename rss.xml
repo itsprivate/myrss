@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 12 Apr 2022 18:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 18:40:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[NFTs证明了税收季节总是可以变得更糟糕]]></title>
+            <link>https://www.theatlantic.com/technology/archive/2022/04/file-taxes-nft-irs-guidelines/629542/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/technology/archive/2022/04/file-taxes-nft-irs-guidelines/629542/?utm_source=feed</guid>
+            <pubDate>Tue, 12 Apr 2022 18:19:22 GMT</pubDate>
+            <description><![CDATA[NFTs Are Proof That Tax Season Can Always Get Worse]]></description>
+        </item>
         <item>
             <title><![CDATA[我作为成年人会喜欢的对儿童的惩罚措施]]></title>
             <link>https://www.newyorker.com/humor/daily-shouts/punishments-for-children-that-id-love-as-an-adult</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/culture/cultural-comment/will-smiths-slap-and-the-ecstatic-blur-that-followed-at-the-oscars</guid>
             <pubDate>Mon, 28 Mar 2022 06:41:28 GMT</pubDate>
             <description><![CDATA[Will Smith’s Slap, and the Ecstatic Blur That Followed, at the Oscars]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2022年奥斯卡时尚：年轻的和不穿衬衫的人]]></title>
-            <link>https://www.newyorker.com/culture/on-and-off-the-avenue/oscars-fashion-2022-the-young-and-the-shirtless</link>
-            <guid>https://www.newyorker.com/culture/on-and-off-the-avenue/oscars-fashion-2022-the-young-and-the-shirtless</guid>
-            <pubDate>Mon, 28 Mar 2022 06:13:54 GMT</pubDate>
-            <description><![CDATA[Oscars Fashion 2022: The Young and the Shirtless]]></description>
         </item>
     </channel>
 </rss>

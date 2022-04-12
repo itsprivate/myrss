@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-12T18:16:40.704Z</updated>
+    <updated>2022-04-12T18:40:23.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[NFTs證明了稅收季節總是可以變得更糟糕]]></title>
+        <id>https://www.theatlantic.com/technology/archive/2022/04/file-taxes-nft-irs-guidelines/629542/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/technology/archive/2022/04/file-taxes-nft-irs-guidelines/629542/?utm_source=feed"/>
+        <updated>2022-04-12T18:19:22.000Z</updated>
+        <summary type="html"><![CDATA[NFTs Are Proof That Tax Season Can Always Get Worse]]></summary>
+        <author>
+            <name>Kelli María Korducki</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我作為成年人會喜歡的對兒童的懲罰措施]]></title>
         <id>https://www.newyorker.com/humor/daily-shouts/punishments-for-children-that-id-love-as-an-adult</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Will Smith’s Slap, and the Ecstatic Blur That Followed, at the Oscars]]></summary>
         <author>
             <name>Vinson Cunningham</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年奧斯卡時尚：年輕的和不穿襯衫的人]]></title>
-        <id>https://www.newyorker.com/culture/on-and-off-the-avenue/oscars-fashion-2022-the-young-and-the-shirtless</id>
-        <link href="https://www.newyorker.com/culture/on-and-off-the-avenue/oscars-fashion-2022-the-young-and-the-shirtless"/>
-        <updated>2022-03-28T06:13:54.000Z</updated>
-        <summary type="html"><![CDATA[Oscars Fashion 2022: The Young and the Shirtless]]></summary>
-        <author>
-            <name>Rachel Syme</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
