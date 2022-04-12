@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-12T17:55:58.201Z</updated>
+    <updated>2022-04-12T18:16:40.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我作為成年人會喜歡的對兒童的懲罰措施]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/punishments-for-children-that-id-love-as-an-adult</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/punishments-for-children-that-id-love-as-an-adult"/>
+        <updated>2022-04-12T17:59:41.000Z</updated>
+        <summary type="html"><![CDATA[Punishments for Children That I’d Love as an Adult]]></summary>
+        <author>
+            <name>Ginny Hogan, Eric Kofman</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[商業旅館的早期美國美學]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/18/early-american-aesthetics-at-the-commerce-inn</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/18/early-american-aesthetics-at-the-commerce-inn"/>
+        <updated>2022-04-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Early American Aesthetics at the Commerce Inn]]></summary>
+        <author>
+            <name>Hannah Goldfield</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["我們的牙齒的皮膚"，重新詮釋]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/18/the-skin-of-our-teeth-reinterpreted</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/18/the-skin-of-our-teeth-reinterpreted"/>
+        <updated>2022-04-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“The Skin of Our Teeth,” Reinterpreted]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巴黎十三區 "的不羈青年]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/18/the-restless-youth-of-paris-13th-district</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/18/the-restless-youth-of-paris-13th-district"/>
+        <updated>2022-04-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Restless Youth of “Paris, 13th District”]]></summary>
+        <author>
+            <name>Anthony Lane</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[選舉權運動的 "漢密爾頓"]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/18/a-hamilton-for-the-suffrage-movement</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/18/a-hamilton-for-the-suffrage-movement"/>
+        <updated>2022-04-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A “Hamilton” for the Suffrage Movement]]></summary>
+        <author>
+            <name>Alexandra Schwartz</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[種族、戰爭和溫斯洛-霍默]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/18/war-race-and-winslow-homer-william-r-cross-american-passage-metropolitan-museum-exhibition</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/18/war-race-and-winslow-homer-william-r-cross-american-passage-metropolitan-museum-exhibition"/>
+        <updated>2022-04-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Race, War, and Winslow Homer]]></summary>
+        <author>
+            <name>Claudia Roth Pierpont</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有了父子作家，誰能講述家庭故事？]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/18/with-father-and-son-writers-who-gets-to-tell-the-family-story</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/18/with-father-and-son-writers-who-gets-to-tell-the-family-story"/>
+        <updated>2022-04-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With Father-and-Son Writers, Who Gets to Tell the Family Story?]]></summary>
+        <author>
+            <name>Tad Friend</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[這些可怕的日子]]></title>
         <id>https://www.theatlantic.com/family/archive/2022/04/covid-ukraine-anxiety/629540/?utm_source=feed</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>Rachel Syme</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[給我們所有的難民，該死的！]]></title>
-        <id>https://noahpinion.substack.com/p/give-us-all-the-refugees-dammit</id>
-        <link href="https://noahpinion.substack.com/p/give-us-all-the-refugees-dammit"/>
-        <updated>2022-03-28T05:16:10.000Z</updated>
-        <summary type="html"><![CDATA[Give us all the refugees, dammit!]]></summary>
-        <author>
-            <name>Noah Smith</name>
-            <uri>https://noahpinion.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卡通字幕大賽]]></title>
-        <id>https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-04-04</id>
-        <link href="https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-04-04"/>
-        <updated>2022-03-28T04:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Cartoon Caption Contest]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奧斯卡歷史上最令人震驚的時刻]]></title>
-        <id>https://www.theatlantic.com/culture/archive/2022/03/will-smith-chris-rock-oscars/629400/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/culture/archive/2022/03/will-smith-chris-rock-oscars/629400/?utm_source=feed"/>
-        <updated>2022-03-28T04:19:50.000Z</updated>
-        <summary type="html"><![CDATA[The Most Shocking Moment in Oscars History]]></summary>
-        <author>
-            <name>David Sims</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公開主題217]]></title>
-        <id>https://astralcodexten.substack.com/p/open-thread-217</id>
-        <link href="https://astralcodexten.substack.com/p/open-thread-217"/>
-        <updated>2022-03-27T21:14:08.000Z</updated>
-        <summary type="html"><![CDATA[Open Thread 217]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[給情人的妻子的再見信]]></title>
-        <id>https://www.theatlantic.com/books/archive/2022/03/poem-kemi-alabi-goodbye-letter-my-lovers-wife/624177/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/books/archive/2022/03/poem-kemi-alabi-goodbye-letter-my-lovers-wife/624177/?utm_source=feed"/>
-        <updated>2022-03-27T13:54:35.000Z</updated>
-        <summary type="html"><![CDATA[Goodbye Letter to My Lover’s Wife]]></summary>
-        <author>
-            <name>Kemi Alabi</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[查理-貝克和一黨專政的崛起]]></title>
-        <id>https://www.theatlantic.com/politics/archive/2022/03/charlie-baker-massachusetts-governor-election/627157/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/politics/archive/2022/03/charlie-baker-massachusetts-governor-election/627157/?utm_source=feed"/>
-        <updated>2022-03-27T11:00:59.000Z</updated>
-        <summary type="html"><![CDATA[Charlie Baker and the Rise of One-Party Rule]]></summary>
-        <author>
-            <name>Kara Voght</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[星期日閱讀。2022年的奧斯卡獎]]></title>
-        <id>https://www.newyorker.com/books/double-take/sunday-reading-the-2022-academy-awards</id>
-        <link href="https://www.newyorker.com/books/double-take/sunday-reading-the-2022-academy-awards"/>
-        <updated>2022-03-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sunday Reading: The 2022 Academy Awards]]></summary>
-        <author>
-            <name>The New Yorker</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
 </feed>
