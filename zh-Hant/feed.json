@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/culture/on-television/rothaniel-reviewed-jerrod-carmichaels-vital-coming-out",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/on-television/rothaniel-reviewed-jerrod-carmichaels-vital-coming-out",
+            "title": "\"Rothaniel\"，評論。傑羅德-卡邁克爾的重要出櫃之作",
+            "summary": "“Rothaniel,” Reviewed: Jerrod Carmichael’s Vital Coming Out",
+            "date_modified": "2022-04-12T19:41:13.000Z",
+            "author": {
+                "name": "Bryan Washington",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/q-and-a/what-a-polish-dissident-sees-in-russias-invasion-of-ukraine",
             "content_html": "",
             "url": "https://www.newyorker.com/news/q-and-a/what-a-polish-dissident-sees-in-russias-invasion-of-ukraine",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Richard Brody",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/28/business/media/rumble-conservatives.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/28/business/media/rumble-conservatives.html",
-            "title": "右派的視頻網站Rumble有更大的野心",
-            "summary": "Rumble, the Right’s Go-To Video Site, Has Much Bigger Ambitions",
-            "date_modified": "2022-03-28T07:00:09.000Z",
-            "author": {
-                "name": "Jeremy W. Peters",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
     ]
