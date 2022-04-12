@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 12 Apr 2022 10:39:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 10:55:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,41 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[關於靜態網站生成器和WordPress的思考]]></title>
+            <link>https://www.mooreds.com/wordpress/archives/3369</link>
+            <guid>https://www.mooreds.com/wordpress/archives/3369</guid>
+            <pubDate>Fri, 17 Jul 2020 21:32:24 GMT</pubDate>
+            <description><![CDATA[Thoughts on static site generators and WordPress]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我希望我在剛開始做開發時就知道的事]]></title>
+            <link>https://www.mooreds.com/wordpress/archives/3376</link>
+            <guid>https://www.mooreds.com/wordpress/archives/3376</guid>
+            <pubDate>Sun, 02 Aug 2020 15:59:53 GMT</pubDate>
+            <description><![CDATA[What I wish I had known when I was starting out as a developer]]></description>
+        </item>
+        <item>
+            <title><![CDATA[書評。一段名為帝國的記憶]]></title>
+            <link>https://www.mooreds.com/wordpress/archives/3392</link>
+            <guid>https://www.mooreds.com/wordpress/archives/3392</guid>
+            <pubDate>Tue, 22 Sep 2020 02:54:22 GMT</pubDate>
+            <description><![CDATA[Book Review: A Memory Called Empire]]></description>
+        </item>
+        <item>
+            <title><![CDATA[快速瀏覽xkit]]></title>
+            <link>https://www.mooreds.com/wordpress/archives/3395</link>
+            <guid>https://www.mooreds.com/wordpress/archives/3395</guid>
+            <pubDate>Sat, 17 Oct 2020 12:34:24 GMT</pubDate>
+            <description><![CDATA[A quick look at xkit]]></description>
+        </item>
+        <item>
+            <title><![CDATA[書評。生活中的算法]]></title>
+            <link>https://www.mooreds.com/wordpress/archives/3398</link>
+            <guid>https://www.mooreds.com/wordpress/archives/3398</guid>
+            <pubDate>Wed, 11 Nov 2020 12:34:00 GMT</pubDate>
+            <description><![CDATA[Book Review: Algorithms to live by]]></description>
+        </item>
         <item>
             <title><![CDATA[書評。布穀鳥的蛋]]></title>
             <link>https://www.mooreds.com/wordpress/archives/3405</link>
@@ -4178,41 +4213,6 @@
             <guid>https://www.nytimes.com/2022/03/27/technology/dna-tests-crime-solving.html</guid>
             <pubDate>Sun, 27 Mar 2022 07:00:17 GMT</pubDate>
             <description><![CDATA[Philanthropists Push Police Searches of DNA Databases]]></description>
-        </item>
-        <item>
-            <title><![CDATA[拜登對普京的評論是一個沒有理由的錯誤]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/biden-putin-regime-change-russia/629397/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/biden-putin-regime-change-russia/629397/?utm_source=feed</guid>
-            <pubDate>Sun, 27 Mar 2022 00:16:52 GMT</pubDate>
-            <description><![CDATA[Biden’s Comments About Putin Were an Unforced Error]]></description>
-        </item>
-        <item>
-            <title><![CDATA[<em>The Atlantic</em> Daily: 今年我們不愛的六部電影]]></title>
-            <link>https://www.theatlantic.com/newsletters/archive/2022/03/six-bad-movies-2022-oscars/629395/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/newsletters/archive/2022/03/six-bad-movies-2022-oscars/629395/?utm_source=feed</guid>
-            <pubDate>Sat, 26 Mar 2022 18:18:59 GMT</pubDate>
-            <description><![CDATA[<em>The Atlantic</em> Daily: Six Movies We Didn’t Love This Year]]></description>
-        </item>
-        <item>
-            <title><![CDATA[對不起，我對假新聞撒謊了]]></title>
-            <link>https://www.theatlantic.com/technology/archive/2022/03/fake-news-misinformation-mit-study/629396/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/technology/archive/2022/03/fake-news-misinformation-mit-study/629396/?utm_source=feed</guid>
-            <pubDate>Sat, 26 Mar 2022 15:23:21 GMT</pubDate>
-            <description><![CDATA[Sorry, I Lied About Fake News]]></description>
-        </item>
-        <item>
-            <title><![CDATA[人類的紐約人和他們的二重奏狗]]></title>
-            <link>https://www.newyorker.com/humor/sketchbook/human-new-yorkers-and-their-doppelganger-dogs</link>
-            <guid>https://www.newyorker.com/humor/sketchbook/human-new-yorkers-and-their-doppelganger-dogs</guid>
-            <pubDate>Sat, 26 Mar 2022 14:14:26 GMT</pubDate>
-            <description><![CDATA[Human New Yorkers and Their Doppelgänger Dogs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[羅伯特-摩西和簡-雅各布斯去倫敦]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/04/robert-moses-jane-jacobs-straight-line-crazy-ralph-fiennes</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/04/robert-moses-jane-jacobs-straight-line-crazy-ralph-fiennes</guid>
-            <pubDate>Sat, 26 Mar 2022 14:00:00 GMT</pubDate>
-            <description><![CDATA[Robert Moses and Jane Jacobs Go to London]]></description>
         </item>
     </channel>
 </rss>
