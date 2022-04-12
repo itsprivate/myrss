@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 12 Apr 2022 21:53:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 22:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,41 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[关于人工智能、数据和机器人的伙伴关系]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259408-partnership-on-ai-data-and-robotics</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259408-partnership-on-ai-data-and-robotics</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Partnership on AI, Data, and Robotics]]></description>
+        </item>
+        <item>
+            <title><![CDATA[关于6G和可信度]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259406-on-6g-and-trustworthiness</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259406-on-6g-and-trustworthiness</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[On 6G and Trustworthiness]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用于灾难应对的移动电话使用数据]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259405-mobile-phone-usage-data-for-disaster-response</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259405-mobile-phone-usage-data-for-disaster-response</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Mobile Phone Usage Data for Disaster Response]]></description>
+        </item>
+        <item>
+            <title><![CDATA[面向未来网络的隐私保护型人工智能]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259404-privacy-preserving-ai-for-future-networks</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259404-privacy-preserving-ai-for-future-networks</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Privacy-Preserving AI for Future Networks]]></description>
+        </item>
+        <item>
+            <title><![CDATA[欧洲数据空间的联合基础设施]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259403-a-federated-infrastructure-for-european-data-spaces</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259403-a-federated-infrastructure-for-european-data-spaces</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[A Federated Infrastructure for European Data Spaces]]></description>
+        </item>
         <item>
             <title><![CDATA[迈向广泛的人工智能]]></title>
             <link>http://cacm.acm.org/magazines/2022/4/259402-toward-a-broad-ai</link>
@@ -4178,41 +4213,6 @@
             <guid>https://www.theatlantic.com/family/archive/2022/03/social-media-activism-ukraine-solidarity/629402/?utm_source=feed</guid>
             <pubDate>Mon, 28 Mar 2022 14:17:36 GMT</pubDate>
             <description><![CDATA[The Virtues of Silence in a Time of Tragedy]]></description>
-        </item>
-        <item>
-            <title><![CDATA[外国记者感到被迫离开莫斯科的那一天]]></title>
-            <link>https://www.newyorker.com/news/annals-of-communications/the-day-foreign-journalists-felt-forced-to-leave-moscow</link>
-            <guid>https://www.newyorker.com/news/annals-of-communications/the-day-foreign-journalists-felt-forced-to-leave-moscow</guid>
-            <pubDate>Mon, 28 Mar 2022 13:28:36 GMT</pubDate>
-            <description><![CDATA[The Day Foreign Journalists Felt Forced to Leave Moscow]]></description>
-        </item>
-        <item>
-            <title><![CDATA[RT美国，你是非常奇怪和糟糕的。]]></title>
-            <link>https://www.theatlantic.com/technology/archive/2022/03/russia-today-propaganda-shut-down/627606/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/technology/archive/2022/03/russia-today-propaganda-shut-down/627606/?utm_source=feed</guid>
-            <pubDate>Mon, 28 Mar 2022 11:00:56 GMT</pubDate>
-            <description><![CDATA[RT America, You Were Very Weird and Bad]]></description>
-        </item>
-        <item>
-            <title><![CDATA[核战争不应该由任何一个人说了算]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/trump-biden-nuclear-weapon-russia-presidential-authority/627610/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/trump-biden-nuclear-weapon-russia-presidential-authority/627610/?utm_source=feed</guid>
-            <pubDate>Mon, 28 Mar 2022 11:00:56 GMT</pubDate>
-            <description><![CDATA[Nuclear War Shouldn’t Be Up to Any One Person]]></description>
-        </item>
-        <item>
-            <title><![CDATA[亲爱的治疗师。我的妻子和姐妹们就是不能和睦相处]]></title>
-            <link>https://www.theatlantic.com/family/archive/2022/03/in-laws-fighting-advice/627611/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/family/archive/2022/03/in-laws-fighting-advice/627611/?utm_source=feed</guid>
-            <pubDate>Mon, 28 Mar 2022 11:00:57 GMT</pubDate>
-            <description><![CDATA[Dear Therapist: My Wife and Sisters Just Cannot Get Along]]></description>
-        </item>
-        <item>
-            <title><![CDATA[幸福的真正含义]]></title>
-            <link>https://www.theatlantic.com/newsletters/archive/2022/03/happy-word-etymology/629382/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/newsletters/archive/2022/03/happy-word-etymology/629382/?utm_source=feed</guid>
-            <pubDate>Mon, 28 Mar 2022 11:00:56 GMT</pubDate>
-            <description><![CDATA[The True Meaning of Happiness]]></description>
         </item>
     </channel>
 </rss>

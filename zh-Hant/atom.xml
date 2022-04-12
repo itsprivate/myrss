@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-12T21:53:35.987Z</updated>
+    <updated>2022-04-12T22:13:48.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[關於人工智能、數據和機器人的夥伴關係]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259408-partnership-on-ai-data-and-robotics</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259408-partnership-on-ai-data-and-robotics"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Partnership on AI, Data, and Robotics]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於6G和可信度]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259406-on-6g-and-trustworthiness</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259406-on-6g-and-trustworthiness"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On 6G and Trustworthiness]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用於災難應對的移動電話使用數據]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259405-mobile-phone-usage-data-for-disaster-response</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259405-mobile-phone-usage-data-for-disaster-response"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mobile Phone Usage Data for Disaster Response]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面向未來網絡的隱私保護型人工智能]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259404-privacy-preserving-ai-for-future-networks</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259404-privacy-preserving-ai-for-future-networks"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Privacy-Preserving AI for Future Networks]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[歐洲數據空間的聯合基礎設施]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259403-a-federated-infrastructure-for-european-data-spaces</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259403-a-federated-infrastructure-for-european-data-spaces"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Federated Infrastructure for European Data Spaces]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[邁向廣泛的人工智能]]></title>
         <id>http://cacm.acm.org/magazines/2022/4/259402-toward-a-broad-ai</id>
@@ -6557,61 +6612,6 @@
         <summary type="html"><![CDATA[The Virtues of Silence in a Time of Tragedy]]></summary>
         <author>
             <name>Cole Arthur Riley</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[外國記者感到被迫離開莫斯科的那一天]]></title>
-        <id>https://www.newyorker.com/news/annals-of-communications/the-day-foreign-journalists-felt-forced-to-leave-moscow</id>
-        <link href="https://www.newyorker.com/news/annals-of-communications/the-day-foreign-journalists-felt-forced-to-leave-moscow"/>
-        <updated>2022-03-28T13:28:36.000Z</updated>
-        <summary type="html"><![CDATA[The Day Foreign Journalists Felt Forced to Leave Moscow]]></summary>
-        <author>
-            <name>Clare Malone</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT美國，你是非常奇怪和糟糕的。]]></title>
-        <id>https://www.theatlantic.com/technology/archive/2022/03/russia-today-propaganda-shut-down/627606/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/technology/archive/2022/03/russia-today-propaganda-shut-down/627606/?utm_source=feed"/>
-        <updated>2022-03-28T11:00:56.000Z</updated>
-        <summary type="html"><![CDATA[RT America, You Were Very Weird and Bad]]></summary>
-        <author>
-            <name>Kaitlyn Tiffany</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[核戰爭不應該由任何一個人說了算]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/trump-biden-nuclear-weapon-russia-presidential-authority/627610/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/trump-biden-nuclear-weapon-russia-presidential-authority/627610/?utm_source=feed"/>
-        <updated>2022-03-28T11:00:56.000Z</updated>
-        <summary type="html"><![CDATA[Nuclear War Shouldn’t Be Up to Any One Person]]></summary>
-        <author>
-            <name>Jon B. Wolfsthal</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[親愛的治療師。我的妻子和姐妹們就是不能和睦相處]]></title>
-        <id>https://www.theatlantic.com/family/archive/2022/03/in-laws-fighting-advice/627611/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/family/archive/2022/03/in-laws-fighting-advice/627611/?utm_source=feed"/>
-        <updated>2022-03-28T11:00:57.000Z</updated>
-        <summary type="html"><![CDATA[Dear Therapist: My Wife and Sisters Just Cannot Get Along]]></summary>
-        <author>
-            <name>Lori Gottlieb</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[幸福的真正含義]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2022/03/happy-word-etymology/629382/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/happy-word-etymology/629382/?utm_source=feed"/>
-        <updated>2022-03-28T11:00:56.000Z</updated>
-        <summary type="html"><![CDATA[The True Meaning of Happiness]]></summary>
-        <author>
-            <name>Caleb Madison</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
