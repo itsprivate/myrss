@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-12T19:12:15.025Z</updated>
+    <updated>2022-04-12T19:52:34.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個波蘭持不同政見者從俄羅斯入侵烏克蘭中看到的東西]]></title>
+        <id>https://www.newyorker.com/news/q-and-a/what-a-polish-dissident-sees-in-russias-invasion-of-ukraine</id>
+        <link href="https://www.newyorker.com/news/q-and-a/what-a-polish-dissident-sees-in-russias-invasion-of-ukraine"/>
+        <updated>2022-04-12T19:27:43.000Z</updated>
+        <summary type="html"><![CDATA[What a Polish Dissident Sees in Russia’s Invasion of Ukraine]]></summary>
+        <author>
+            <name>Isaac Chotiner</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌首次在法庭上起訴小狗欺詐行為]]></title>
         <id>https://www.nytimes.com/2022/04/12/business/google-lawsuit-puppy-fraud-scheme.html</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Rumble, the Right’s Go-To Video Site, Has Much Bigger Ambitions]]></summary>
         <author>
             <name>Jeremy W. Peters</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[當諾基亞撤出俄羅斯時，一個龐大的監控系統仍然存在]]></title>
-        <id>https://www.nytimes.com/2022/03/28/technology/nokia-russia-surveillance-system-sorm.html</id>
-        <link href="https://www.nytimes.com/2022/03/28/technology/nokia-russia-surveillance-system-sorm.html"/>
-        <updated>2022-03-28T07:00:13.000Z</updated>
-        <summary type="html"><![CDATA[When Nokia Pulled Out of Russia, a Vast Surveillance System Remained]]></summary>
-        <author>
-            <name>Adam Satariano, Paul Mozur and Aaron Krolik</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>

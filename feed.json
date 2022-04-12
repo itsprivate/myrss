@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/q-and-a/what-a-polish-dissident-sees-in-russias-invasion-of-ukraine",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/q-and-a/what-a-polish-dissident-sees-in-russias-invasion-of-ukraine",
+            "title": "一个波兰持不同政见者从俄罗斯入侵乌克兰中看到的东西",
+            "summary": "What a Polish Dissident Sees in Russia’s Invasion of Ukraine",
+            "date_modified": "2022-04-12T19:27:43.000Z",
+            "author": {
+                "name": "Isaac Chotiner",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/12/business/google-lawsuit-puppy-fraud-scheme.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/12/business/google-lawsuit-puppy-fraud-scheme.html",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-28T07:00:09.000Z",
             "author": {
                 "name": "Jeremy W. Peters",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/28/technology/nokia-russia-surveillance-system-sorm.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/28/technology/nokia-russia-surveillance-system-sorm.html",
-            "title": "当诺基亚撤出俄罗斯时，一个庞大的监控系统仍然存在",
-            "summary": "When Nokia Pulled Out of Russia, a Vast Surveillance System Remained",
-            "date_modified": "2022-03-28T07:00:13.000Z",
-            "author": {
-                "name": "Adam Satariano, Paul Mozur and Aaron Krolik",
                 "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
