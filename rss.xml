@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 12 Apr 2022 22:44:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 03:30:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[马克-扎克伯格结束选举补助金]]></title>
+            <link>https://www.nytimes.com/2022/04/12/us/politics/mark-zuckerberg-midterms-elections-grant.html</link>
+            <guid>https://www.nytimes.com/2022/04/12/us/politics/mark-zuckerberg-midterms-elections-grant.html</guid>
+            <pubDate>Tue, 12 Apr 2022 22:19:42 GMT</pubDate>
+            <description><![CDATA[Mark Zuckerberg Ends Election Grants]]></description>
+        </item>
         <item>
             <title><![CDATA[联合学习和隐私]]></title>
             <link>http://cacm.acm.org/magazines/2022/4/259417-federated-learning-and-privacy</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/news/news-desk/introducing-the-new-yorkers-new-daily-newsletter</guid>
             <pubDate>Mon, 28 Mar 2022 17:25:03 GMT</pubDate>
             <description><![CDATA[Introducing The New Yorker’s New Daily Newsletter]]></description>
-        </item>
-        <item>
-            <title><![CDATA[当威尔-史密斯在奥斯卡颁奖典礼上掌掴克里斯-洛克时，房间里的感觉是什么？]]></title>
-            <link>https://www.newyorker.com/culture/culture-desk/what-it-felt-like-in-the-room-when-will-smith-slapped-chris-rock-at-the-oscars</link>
-            <guid>https://www.newyorker.com/culture/culture-desk/what-it-felt-like-in-the-room-when-will-smith-slapped-chris-rock-at-the-oscars</guid>
-            <pubDate>Mon, 28 Mar 2022 17:20:52 GMT</pubDate>
-            <description><![CDATA[What It Felt Like in the Room When Will Smith Slapped Chris Rock at the Oscars]]></description>
         </item>
     </channel>
 </rss>

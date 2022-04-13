@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-12T22:44:33.307Z</updated>
+    <updated>2022-04-13T03:30:31.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[馬克-扎克伯格結束選舉補助金]]></title>
+        <id>https://www.nytimes.com/2022/04/12/us/politics/mark-zuckerberg-midterms-elections-grant.html</id>
+        <link href="https://www.nytimes.com/2022/04/12/us/politics/mark-zuckerberg-midterms-elections-grant.html"/>
+        <updated>2022-04-12T22:19:42.000Z</updated>
+        <summary type="html"><![CDATA[Mark Zuckerberg Ends Election Grants]]></summary>
+        <author>
+            <name>Neil Vigdor</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[聯合學習和隱私]]></title>
         <id>http://cacm.acm.org/magazines/2022/4/259417-federated-learning-and-privacy</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Introducing The New Yorker’s New Daily Newsletter]]></summary>
         <author>
             <name>Jessie Li, Ian Crouch</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[當威爾-史密斯在奧斯卡頒獎典禮上掌摑克里斯-洛克時，房間裡的感覺是什麼？]]></title>
-        <id>https://www.newyorker.com/culture/culture-desk/what-it-felt-like-in-the-room-when-will-smith-slapped-chris-rock-at-the-oscars</id>
-        <link href="https://www.newyorker.com/culture/culture-desk/what-it-felt-like-in-the-room-when-will-smith-slapped-chris-rock-at-the-oscars"/>
-        <updated>2022-03-28T17:20:52.000Z</updated>
-        <summary type="html"><![CDATA[What It Felt Like in the Room When Will Smith Slapped Chris Rock at the Oscars]]></summary>
-        <author>
-            <name>Michael Schulman</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

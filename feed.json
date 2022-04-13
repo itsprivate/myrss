@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/12/us/politics/mark-zuckerberg-midterms-elections-grant.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/12/us/politics/mark-zuckerberg-midterms-elections-grant.html",
+            "title": "马克-扎克伯格结束选举补助金",
+            "summary": "Mark Zuckerberg Ends Election Grants",
+            "date_modified": "2022-04-12T22:19:42.000Z",
+            "author": {
+                "name": "Neil Vigdor",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "http://cacm.acm.org/magazines/2022/4/259417-federated-learning-and-privacy",
             "content_html": "",
             "url": "http://cacm.acm.org/magazines/2022/4/259417-federated-learning-and-privacy",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-28T17:25:03.000Z",
             "author": {
                 "name": "Jessie Li, Ian Crouch",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/culture-desk/what-it-felt-like-in-the-room-when-will-smith-slapped-chris-rock-at-the-oscars",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/culture-desk/what-it-felt-like-in-the-room-when-will-smith-slapped-chris-rock-at-the-oscars",
-            "title": "当威尔-史密斯在奥斯卡颁奖典礼上掌掴克里斯-洛克时，房间里的感觉是什么？",
-            "summary": "What It Felt Like in the Room When Will Smith Slapped Chris Rock at the Oscars",
-            "date_modified": "2022-03-28T17:20:52.000Z",
-            "author": {
-                "name": "Michael Schulman",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }
