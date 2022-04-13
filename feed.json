@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/culture/archive/2022/04/gilbert-gottfried/629547/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/culture/archive/2022/04/gilbert-gottfried/629547/?utm_source=feed",
+            "title": "吉尔伯特-戈特弗里德不仅仅是一个有趣的声音",
+            "summary": "Gilbert Gottfried Was More Than Just a Funny Voice",
+            "date_modified": "2022-04-13T16:34:09.000Z",
+            "author": {
+                "name": "Eric Farwell",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/news-desk/an-uncertain-future-for-a-chinese-scientist-accused-of-espionage",
             "content_html": "",
             "url": "https://www.newyorker.com/news/news-desk/an-uncertain-future-for-a-chinese-scientist-accused-of-espionage",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Alina Tugend",
                 "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://noahpinion.substack.com/p/nuclear-game-theory-and-its-limitations",
-            "content_html": "",
-            "url": "https://noahpinion.substack.com/p/nuclear-game-theory-and-its-limitations",
-            "title": "核博弈理论及其局限性",
-            "summary": "Nuclear game theory and its limitations",
-            "date_modified": "2022-03-29T08:30:46.000Z",
-            "author": {
-                "name": "Noah Smith",
-                "url": "https://noahpinion.substack.com/feed"
             }
         }
     ]
