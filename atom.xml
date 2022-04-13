@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-13T18:57:44.224Z</updated>
+    <updated>2022-04-13T19:28:57.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[第44任美国总统杰森-谢的传记]]></title>
+        <id>https://astralcodexten.substack.com/p/biography-of-jason-shea-44th-us-president</id>
+        <link href="https://astralcodexten.substack.com/p/biography-of-jason-shea-44th-us-president"/>
+        <updated>2022-04-13T19:18:13.000Z</updated>
+        <summary type="html"><![CDATA[Biography of Jason Shea, 44th US President]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何选择一个心理健康的应用程序]]></title>
+        <id>https://www.nytimes.com/2022/04/13/well/mind/mental-health-apps-therapy.html</id>
+        <link href="https://www.nytimes.com/2022/04/13/well/mind/mental-health-apps-therapy.html"/>
+        <updated>2022-04-13T19:14:21.000Z</updated>
+        <summary type="html"><![CDATA[How to Choose a Mental Health App]]></summary>
+        <author>
+            <name>Christina Caron</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[抵御特朗普对民主的攻击的第一道防线]]></title>
         <id>https://www.newyorker.com/culture/persons-of-interest/the-first-defense-against-trumps-assault-on-democracy</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[Dissertations Written by Someone Who Has Friends with Kids]]></summary>
         <author>
             <name>Erica Lies, Kerry Elson</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[填字游戏: 2022年3月29日，星期二]]></title>
-        <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/29</id>
-        <link href="https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/29"/>
-        <updated>2022-03-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Crossword: Tuesday, March 29, 2022]]></summary>
-        <author>
-            <name>Paolo Pasco</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[落名：2022年3月29日，星期二]]></title>
-        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/29</id>
-        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/29"/>
-        <updated>2022-03-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Name Drop: Tuesday, March 29, 2022]]></summary>
-        <author>
-            <name>Liz Maynes-Aminzade</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
