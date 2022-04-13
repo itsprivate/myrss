@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 13 Apr 2022 13:48:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 14:19:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[大科技公司为除碳投入近10亿美元]]></title>
+            <link>https://www.theatlantic.com/science/archive/2022/04/big-tech-investment-carbon-removal/629545/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/science/archive/2022/04/big-tech-investment-carbon-removal/629545/?utm_source=feed</guid>
+            <pubDate>Wed, 13 Apr 2022 13:58:34 GMT</pubDate>
+            <description><![CDATA[Big Tech Is Pouring Nearly a Billion Dollars into Carbon Removal]]></description>
+        </item>
         <item>
             <title><![CDATA[普京的战争和混沌攀登者]]></title>
             <link>https://noahpinion.substack.com/p/putins-war-and-the-chaos-climbers</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/news/our-columnists/how-should-democrats-respond-to-rising-inflation-and-high-gas-prices</guid>
             <pubDate>Tue, 29 Mar 2022 00:01:11 GMT</pubDate>
             <description><![CDATA[How Should Democrats Respond to Rising Inflation and High Gas Prices?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Uber接近与旧金山出租车公司达成合作协议]]></title>
-            <link>https://www.nytimes.com/2022/03/28/technology/uber-taxis-san-francisco-deal.html</link>
-            <guid>https://www.nytimes.com/2022/03/28/technology/uber-taxis-san-francisco-deal.html</guid>
-            <pubDate>Tue, 29 Mar 2022 00:34:07 GMT</pubDate>
-            <description><![CDATA[Uber Close to Deal for Partnership With San Francisco Taxi Outfit]]></description>
         </item>
     </channel>
 </rss>

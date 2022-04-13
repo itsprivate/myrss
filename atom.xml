@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-13T13:48:50.188Z</updated>
+    <updated>2022-04-13T14:19:42.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[大科技公司为除碳投入近10亿美元]]></title>
+        <id>https://www.theatlantic.com/science/archive/2022/04/big-tech-investment-carbon-removal/629545/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/science/archive/2022/04/big-tech-investment-carbon-removal/629545/?utm_source=feed"/>
+        <updated>2022-04-13T13:58:34.000Z</updated>
+        <summary type="html"><![CDATA[Big Tech Is Pouring Nearly a Billion Dollars into Carbon Removal]]></summary>
+        <author>
+            <name>Robinson Meyer</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[普京的战争和混沌攀登者]]></title>
         <id>https://noahpinion.substack.com/p/putins-war-and-the-chaos-climbers</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>John Cassidy</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uber接近与旧金山出租车公司达成合作协议]]></title>
-        <id>https://www.nytimes.com/2022/03/28/technology/uber-taxis-san-francisco-deal.html</id>
-        <link href="https://www.nytimes.com/2022/03/28/technology/uber-taxis-san-francisco-deal.html"/>
-        <updated>2022-03-29T00:34:07.000Z</updated>
-        <summary type="html"><![CDATA[Uber Close to Deal for Partnership With San Francisco Taxi Outfit]]></summary>
-        <author>
-            <name>Kellen Browning</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>
