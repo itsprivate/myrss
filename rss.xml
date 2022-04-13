@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 13 Apr 2022 19:52:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 20:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[最新的通胀数据对经济意味着什么]]></title>
+            <link>https://www.newyorker.com/newsletter/the-daily/what-the-latest-inflation-figures-mean-for-the-economy</link>
+            <guid>https://www.newyorker.com/newsletter/the-daily/what-the-latest-inflation-figures-mean-for-the-economy</guid>
+            <pubDate>Wed, 13 Apr 2022 19:49:42 GMT</pubDate>
+            <description><![CDATA[What the Latest Inflation Figures Mean for the Economy]]></description>
+        </item>
+        <item>
+            <title><![CDATA[21世纪的通缉海报]]></title>
+            <link>https://www.theatlantic.com/politics/archive/2022/04/brooklyn-subway-shooting-suspect-manhunt-push-alert/629549/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/politics/archive/2022/04/brooklyn-subway-shooting-suspect-manhunt-push-alert/629549/?utm_source=feed</guid>
+            <pubDate>Wed, 13 Apr 2022 19:47:38 GMT</pubDate>
+            <description><![CDATA[A 21st-Century Wanted Poster]]></description>
+        </item>
         <item>
             <title><![CDATA["我一生中最漫长的30秒"。布鲁克林地铁爆炸案幸存者的叙述]]></title>
             <link>https://www.newyorker.com/news/as-told-to/the-longest-thirty-seconds-of-my-absolute-life-a-survivors-account-of-the-brooklyn-subway-shooting</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.theatlantic.com/science/archive/2022/03/climate-change-heavy-rain-landslides-flood/629404/?utm_source=feed</guid>
             <pubDate>Tue, 29 Mar 2022 12:14:41 GMT</pubDate>
             <description><![CDATA[Extreme Rain Makes the Earth Shift]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用旧方法做新事情]]></title>
-            <link>https://austinkleon.substack.com/p/old-ways-to-do-new-things</link>
-            <guid>https://austinkleon.substack.com/p/old-ways-to-do-new-things</guid>
-            <pubDate>Tue, 29 Mar 2022 12:00:52 GMT</pubDate>
-            <description><![CDATA[Old ways to do new things]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你在看什么？]]></title>
-            <link>https://austinkleon.substack.com/p/what-are-you-watching</link>
-            <guid>https://austinkleon.substack.com/p/what-are-you-watching</guid>
-            <pubDate>Tue, 29 Mar 2022 11:00:31 GMT</pubDate>
-            <description><![CDATA[What are you watching?]]></description>
         </item>
     </channel>
 </rss>

@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/newsletter/the-daily/what-the-latest-inflation-figures-mean-for-the-economy",
+            "content_html": "",
+            "url": "https://www.newyorker.com/newsletter/the-daily/what-the-latest-inflation-figures-mean-for-the-economy",
+            "title": "最新的通脹數據對經濟意味著什麼",
+            "summary": "What the Latest Inflation Figures Mean for the Economy",
+            "date_modified": "2022-04-13T19:49:42.000Z",
+            "author": {
+                "name": "The New Yorker",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/politics/archive/2022/04/brooklyn-subway-shooting-suspect-manhunt-push-alert/629549/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/politics/archive/2022/04/brooklyn-subway-shooting-suspect-manhunt-push-alert/629549/?utm_source=feed",
+            "title": "21世紀的通緝海報",
+            "summary": "A 21st-Century Wanted Poster",
+            "date_modified": "2022-04-13T19:47:38.000Z",
+            "author": {
+                "name": "John Hendrickson",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/as-told-to/the-longest-thirty-seconds-of-my-absolute-life-a-survivors-account-of-the-brooklyn-subway-shooting",
             "content_html": "",
             "url": "https://www.newyorker.com/news/as-told-to/the-longest-thirty-seconds-of-my-absolute-life-a-survivors-account-of-the-brooklyn-subway-shooting",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "Kendra Pierre-Louis",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://austinkleon.substack.com/p/old-ways-to-do-new-things",
-            "content_html": "",
-            "url": "https://austinkleon.substack.com/p/old-ways-to-do-new-things",
-            "title": "用舊方法做新事情",
-            "summary": "Old ways to do new things",
-            "date_modified": "2022-03-29T12:00:52.000Z",
-            "author": {
-                "name": "Austin Kleon",
-                "url": "https://austinkleon.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://austinkleon.substack.com/p/what-are-you-watching",
-            "content_html": "",
-            "url": "https://austinkleon.substack.com/p/what-are-you-watching",
-            "title": "你在看什麼？",
-            "summary": "What are you watching?",
-            "date_modified": "2022-03-29T11:00:31.000Z",
-            "author": {
-                "name": "Austin Kleon",
-                "url": "https://austinkleon.substack.com/feed"
             }
         }
     ]

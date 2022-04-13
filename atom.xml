@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-13T19:52:34.097Z</updated>
+    <updated>2022-04-13T20:15:44.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最新的通胀数据对经济意味着什么]]></title>
+        <id>https://www.newyorker.com/newsletter/the-daily/what-the-latest-inflation-figures-mean-for-the-economy</id>
+        <link href="https://www.newyorker.com/newsletter/the-daily/what-the-latest-inflation-figures-mean-for-the-economy"/>
+        <updated>2022-04-13T19:49:42.000Z</updated>
+        <summary type="html"><![CDATA[What the Latest Inflation Figures Mean for the Economy]]></summary>
+        <author>
+            <name>The New Yorker</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21世纪的通缉海报]]></title>
+        <id>https://www.theatlantic.com/politics/archive/2022/04/brooklyn-subway-shooting-suspect-manhunt-push-alert/629549/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/politics/archive/2022/04/brooklyn-subway-shooting-suspect-manhunt-push-alert/629549/?utm_source=feed"/>
+        <updated>2022-04-13T19:47:38.000Z</updated>
+        <summary type="html"><![CDATA[A 21st-Century Wanted Poster]]></summary>
+        <author>
+            <name>John Hendrickson</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["我一生中最漫长的30秒"。布鲁克林地铁爆炸案幸存者的叙述]]></title>
         <id>https://www.newyorker.com/news/as-told-to/the-longest-thirty-seconds-of-my-absolute-life-a-survivors-account-of-the-brooklyn-subway-shooting</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Kendra Pierre-Louis</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用旧方法做新事情]]></title>
-        <id>https://austinkleon.substack.com/p/old-ways-to-do-new-things</id>
-        <link href="https://austinkleon.substack.com/p/old-ways-to-do-new-things"/>
-        <updated>2022-03-29T12:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Old ways to do new things]]></summary>
-        <author>
-            <name>Austin Kleon</name>
-            <uri>https://austinkleon.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在看什么？]]></title>
-        <id>https://austinkleon.substack.com/p/what-are-you-watching</id>
-        <link href="https://austinkleon.substack.com/p/what-are-you-watching"/>
-        <updated>2022-03-29T11:00:31.000Z</updated>
-        <summary type="html"><![CDATA[What are you watching?]]></summary>
-        <author>
-            <name>Austin Kleon</name>
-            <uri>https://austinkleon.substack.com/feed</uri>
         </author>
     </entry>
 </feed>
