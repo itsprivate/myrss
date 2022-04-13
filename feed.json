@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/13/technology/etsy-strike.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/13/technology/etsy-strike.html",
+            "title": "Etsy和网络斗争的单一性",
+            "summary": "Etsy and the Sameness of Internet Fights",
+            "date_modified": "2022-04-13T17:16:15.000Z",
+            "author": {
+                "name": "Shira Ovide",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/04/13/business/media/substack-growth-newsletters.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/13/business/media/substack-growth-newsletters.html",
+            "title": "Substack是否会超越新闻简报？一家公司权衡其未来。",
+            "summary": "Will Substack Go Beyond Newsletters? A Company Weighs Its Future.",
+            "date_modified": "2022-04-13T16:14:26.000Z",
+            "author": {
+                "name": "Tiffany Hsu",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/newsletters/archive/2022/04/this-is-the-wars-decisive-moment/629546/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/newsletters/archive/2022/04/this-is-the-wars-decisive-moment/629546/?utm_source=feed",
+            "title": "大西洋日报》。乌克兰战争的决定性时刻",
+            "summary": "The Atlantic Daily: The Decisive Moment for the War in Ukraine",
+            "date_modified": "2022-04-13T17:06:57.000Z",
+            "author": {
+                "name": "Caroline Mimbs Nyce",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/culture/archive/2022/04/gilbert-gottfried/629547/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/culture/archive/2022/04/gilbert-gottfried/629547/?utm_source=feed",
@@ -7172,42 +7208,6 @@
             "author": {
                 "name": "Jennifer Wilson",
                 "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/news-desk/why-do-so-many-russians-say-they-support-the-war-in-ukraine",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/news-desk/why-do-so-many-russians-say-they-support-the-war-in-ukraine",
-            "title": "为什么这么多俄罗斯人说他们支持乌克兰的战争？",
-            "summary": "Why Do So Many Russians Say They Support the War in Ukraine?",
-            "date_modified": "2022-03-29T10:00:00.000Z",
-            "author": {
-                "name": "Joshua Yaffa",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/03/ukraine-oleh-sentsov-film-war/629408/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/03/ukraine-oleh-sentsov-film-war/629408/?utm_source=feed",
-            "title": "基辅的犀牛",
-            "summary": "The Rhino of Kyiv",
-            "date_modified": "2022-03-29T10:00:57.000Z",
-            "author": {
-                "name": "Elliot Ackerman",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/29/technology/ai-robots-students-disabilities.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/29/technology/ai-robots-students-disabilities.html",
-            "title": "机器人如何帮助残疾学生",
-            "summary": "How Robots Can Assist Students With Disabilities",
-            "date_modified": "2022-03-29T09:00:23.000Z",
-            "author": {
-                "name": "Alina Tugend",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
     ]

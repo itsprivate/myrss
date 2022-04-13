@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 13 Apr 2022 16:52:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 17:40:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Etsy和网络斗争的单一性]]></title>
+            <link>https://www.nytimes.com/2022/04/13/technology/etsy-strike.html</link>
+            <guid>https://www.nytimes.com/2022/04/13/technology/etsy-strike.html</guid>
+            <pubDate>Wed, 13 Apr 2022 17:16:15 GMT</pubDate>
+            <description><![CDATA[Etsy and the Sameness of Internet Fights]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Substack是否会超越新闻简报？一家公司权衡其未来。]]></title>
+            <link>https://www.nytimes.com/2022/04/13/business/media/substack-growth-newsletters.html</link>
+            <guid>https://www.nytimes.com/2022/04/13/business/media/substack-growth-newsletters.html</guid>
+            <pubDate>Wed, 13 Apr 2022 16:14:26 GMT</pubDate>
+            <description><![CDATA[Will Substack Go Beyond Newsletters? A Company Weighs Its Future.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[大西洋日报》。乌克兰战争的决定性时刻]]></title>
+            <link>https://www.theatlantic.com/newsletters/archive/2022/04/this-is-the-wars-decisive-moment/629546/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/newsletters/archive/2022/04/this-is-the-wars-decisive-moment/629546/?utm_source=feed</guid>
+            <pubDate>Wed, 13 Apr 2022 17:06:57 GMT</pubDate>
+            <description><![CDATA[The Atlantic Daily: The Decisive Moment for the War in Ukraine]]></description>
+        </item>
         <item>
             <title><![CDATA[吉尔伯特-戈特弗里德不仅仅是一个有趣的声音]]></title>
             <link>https://www.theatlantic.com/culture/archive/2022/04/gilbert-gottfried/629547/?utm_source=feed</link>
@@ -4192,27 +4213,6 @@
             <guid>https://www.newyorker.com/culture/persons-of-interest/the-editor-who-moves-theory-into-the-mainstream</guid>
             <pubDate>Tue, 29 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[The Editor Who Moves Theory Into the Mainstream]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么这么多俄罗斯人说他们支持乌克兰的战争？]]></title>
-            <link>https://www.newyorker.com/news/news-desk/why-do-so-many-russians-say-they-support-the-war-in-ukraine</link>
-            <guid>https://www.newyorker.com/news/news-desk/why-do-so-many-russians-say-they-support-the-war-in-ukraine</guid>
-            <pubDate>Tue, 29 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Why Do So Many Russians Say They Support the War in Ukraine?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[基辅的犀牛]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/ukraine-oleh-sentsov-film-war/629408/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/ukraine-oleh-sentsov-film-war/629408/?utm_source=feed</guid>
-            <pubDate>Tue, 29 Mar 2022 10:00:57 GMT</pubDate>
-            <description><![CDATA[The Rhino of Kyiv]]></description>
-        </item>
-        <item>
-            <title><![CDATA[机器人如何帮助残疾学生]]></title>
-            <link>https://www.nytimes.com/2022/03/29/technology/ai-robots-students-disabilities.html</link>
-            <guid>https://www.nytimes.com/2022/03/29/technology/ai-robots-students-disabilities.html</guid>
-            <pubDate>Tue, 29 Mar 2022 09:00:23 GMT</pubDate>
-            <description><![CDATA[How Robots Can Assist Students With Disabilities]]></description>
         </item>
     </channel>
 </rss>
