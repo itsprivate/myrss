@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-13T09:13:39.183Z</updated>
+    <updated>2022-04-13T10:15:05.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[填字游戏: 2022年4月13日，星期三]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/13</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/13"/>
+        <updated>2022-04-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Crossword: Wednesday, April 13, 2022]]></summary>
+        <author>
+            <name>Patrick Berry</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在中国的再教育中失去的少年时代]]></title>
+        <id>https://www.newyorker.com/video/watch/a-boyhood-lost-to-chinese-reeducation</id>
+        <link href="https://www.newyorker.com/video/watch/a-boyhood-lost-to-chinese-reeducation"/>
+        <updated>2022-04-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Boyhood Lost to Chinese Reëducation]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们使 "卡戴珊姐妹 "成为与 "与卡戴珊姐妹同行 "完全不同的节目的一些方法]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/some-ways-weve-made-the-kardashians-a-totally-different-show-from-keeping-up-with-the-kardashians</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/some-ways-weve-made-the-kardashians-a-totally-different-show-from-keeping-up-with-the-kardashians"/>
+        <updated>2022-04-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Some Ways We’ve Made “The Kardashians” a Totally Different Show from “Keeping Up with the Kardashians”]]></summary>
+        <author>
+            <name>Tom Smyth, Leah Roth</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[落名：2022年4月13日，星期三]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/13</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/13"/>
+        <updated>2022-04-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Name Drop: Wednesday, April 13, 2022]]></summary>
+        <author>
+            <name>Will Nediger</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[姬志浩的再教育》中记忆的复杂性]]></title>
+        <id>https://www.newyorker.com/culture/the-new-yorker-documentary/the-complexities-of-memory-in-the-reeducation-of-ji-zhihao</id>
+        <link href="https://www.newyorker.com/culture/the-new-yorker-documentary/the-complexities-of-memory-in-the-reeducation-of-ji-zhihao"/>
+        <updated>2022-04-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Complexities of Memory in “The Reëducation of Ji Zhihao”]]></summary>
+        <author>
+            <name>Tian Macleod Ji</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰生存的奇迹]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-war-zelensky-passover/629544/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/ukraine-war-zelensky-passover/629544/?utm_source=feed"/>
+        <updated>2022-04-13T10:00:56.000Z</updated>
+        <summary type="html"><![CDATA[The Miracle of Ukrainian Survival]]></summary>
+        <author>
+            <name>Franklin Foer</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯科技行业面临 "人才流失"，工人外逃]]></title>
         <id>https://www.nytimes.com/2022/04/13/technology/russia-tech-workers.html</id>
@@ -6546,72 +6612,6 @@
         <summary type="html"><![CDATA[Don't Let Up Now]]></summary>
         <author>
             <name>Eliot A. Cohen</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们不能陷入 "恐俄症"。]]></title>
-        <id>https://www.currentaffairs.org/2022/03/we-cant-lapse-into-russophobia/</id>
-        <link href="https://www.currentaffairs.org/2022/03/we-cant-lapse-into-russophobia/"/>
-        <updated>2022-03-16T12:33:03.000Z</updated>
-        <summary type="html"><![CDATA[We Can&#8217;t Lapse Into Russophobia]]></summary>
-        <author>
-            <name>Nathan J. Robinson</name>
-            <uri>https://www.currentaffairs.org/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[信息市场、决策市场、注意力市场、行动市场]]></title>
-        <id>https://astralcodexten.substack.com/p/information-markets-decision-markets</id>
-        <link href="https://astralcodexten.substack.com/p/information-markets-decision-markets"/>
-        <updated>2022-03-28T20:01:30.000Z</updated>
-        <summary type="html"><![CDATA[Information Markets, Decision Markets, Attention Markets, Action Markets]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吉尔-莱波尔谈父母的权利和文化战争]]></title>
-        <id>https://www.newyorker.com/podcast/politics-and-more/tnypoliticalscene-032822</id>
-        <link href="https://www.newyorker.com/podcast/politics-and-more/tnypoliticalscene-032822"/>
-        <updated>2022-03-28T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Jill Lepore on Parents’ Rights and the Culture War]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[警惕不假思索的希特勒比较]]></title>
-        <id>https://www.currentaffairs.org/2022/03/beware-thoughtless-hitler-comparisons/</id>
-        <link href="https://www.currentaffairs.org/2022/03/beware-thoughtless-hitler-comparisons/"/>
-        <updated>2022-03-28T16:10:01.000Z</updated>
-        <summary type="html"><![CDATA[Beware Thoughtless Hitler Comparisons]]></summary>
-        <author>
-            <name>Nathan J. Robinson</name>
-            <uri>https://www.currentaffairs.org/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[威尔-史密斯让奥斯卡颁奖典礼令人难忘]]></title>
-        <id>https://www.newyorker.com/culture/culture-desk/will-smith-made-the-oscars-memorable</id>
-        <link href="https://www.newyorker.com/culture/culture-desk/will-smith-made-the-oscars-memorable"/>
-        <updated>2022-03-28T19:23:55.000Z</updated>
-        <summary type="html"><![CDATA[Will Smith Made the Oscars Memorable]]></summary>
-        <author>
-            <name>Anthony Lane</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[樱花丛中]]></title>
-        <id>https://www.theatlantic.com/photo/2022/03/photos-cherry-blossoms/629406/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/photo/2022/03/photos-cherry-blossoms/629406/?utm_source=feed"/>
-        <updated>2022-03-28T18:06:20.000Z</updated>
-        <summary type="html"><![CDATA[Among the Cherry Blossoms]]></summary>
-        <author>
-            <name>Alan Taylor</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
