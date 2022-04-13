@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 13 Apr 2022 18:40:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 18:57:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[抵御特朗普对民主的攻击的第一道防线]]></title>
+            <link>https://www.newyorker.com/culture/persons-of-interest/the-first-defense-against-trumps-assault-on-democracy</link>
+            <guid>https://www.newyorker.com/culture/persons-of-interest/the-first-defense-against-trumps-assault-on-democracy</guid>
+            <pubDate>Wed, 13 Apr 2022 18:40:00 GMT</pubDate>
+            <description><![CDATA[The First Defense Against Trump’s Assault on Democracy]]></description>
+        </item>
         <item>
             <title><![CDATA[亚马逊为卖家增加燃料和通货膨胀附加费]]></title>
             <link>https://www.nytimes.com/2022/04/13/technology/amazon-fuel-surcharge.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/29</guid>
             <pubDate>Tue, 29 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Name Drop: Tuesday, March 29, 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么这么多俄罗斯人说他们支持乌克兰的战争？]]></title>
-            <link>https://www.newyorker.com/news/news-desk/why-do-so-many-russians-say-they-support-the-war-in-ukraine</link>
-            <guid>https://www.newyorker.com/news/news-desk/why-do-so-many-russians-say-they-support-the-war-in-ukraine</guid>
-            <pubDate>Tue, 29 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Why Do So Many Russians Say They Support the War in Ukraine?]]></description>
         </item>
     </channel>
 </rss>

@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/culture/persons-of-interest/the-first-defense-against-trumps-assault-on-democracy",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/persons-of-interest/the-first-defense-against-trumps-assault-on-democracy",
+            "title": "抵御特朗普对民主的攻击的第一道防线",
+            "summary": "The First Defense Against Trump’s Assault on Democracy",
+            "date_modified": "2022-04-13T18:40:00.000Z",
+            "author": {
+                "name": "Sue Halpern",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/13/technology/amazon-fuel-surcharge.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/13/technology/amazon-fuel-surcharge.html",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-29T10:00:00.000Z",
             "author": {
                 "name": "Liz Maynes-Aminzade",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/news-desk/why-do-so-many-russians-say-they-support-the-war-in-ukraine",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/news-desk/why-do-so-many-russians-say-they-support-the-war-in-ukraine",
-            "title": "为什么这么多俄罗斯人说他们支持乌克兰的战争？",
-            "summary": "Why Do So Many Russians Say They Support the War in Ukraine?",
-            "date_modified": "2022-03-29T10:00:00.000Z",
-            "author": {
-                "name": "Joshua Yaffa",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

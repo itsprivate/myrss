@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-13T18:40:31.581Z</updated>
+    <updated>2022-04-13T18:57:44.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[抵禦特朗普對民主的攻擊的第一道防線]]></title>
+        <id>https://www.newyorker.com/culture/persons-of-interest/the-first-defense-against-trumps-assault-on-democracy</id>
+        <link href="https://www.newyorker.com/culture/persons-of-interest/the-first-defense-against-trumps-assault-on-democracy"/>
+        <updated>2022-04-13T18:40:00.000Z</updated>
+        <summary type="html"><![CDATA[The First Defense Against Trump’s Assault on Democracy]]></summary>
+        <author>
+            <name>Sue Halpern</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亞馬遜為賣家增加燃料和通貨膨脹附加費]]></title>
         <id>https://www.nytimes.com/2022/04/13/technology/amazon-fuel-surcharge.html</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Name Drop: Tuesday, March 29, 2022]]></summary>
         <author>
             <name>Liz Maynes-Aminzade</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼這麼多俄羅斯人說他們支持烏克蘭的戰爭？]]></title>
-        <id>https://www.newyorker.com/news/news-desk/why-do-so-many-russians-say-they-support-the-war-in-ukraine</id>
-        <link href="https://www.newyorker.com/news/news-desk/why-do-so-many-russians-say-they-support-the-war-in-ukraine"/>
-        <updated>2022-03-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Why Do So Many Russians Say They Support the War in Ukraine?]]></summary>
-        <author>
-            <name>Joshua Yaffa</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
