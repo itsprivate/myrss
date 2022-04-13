@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-13T06:16:42.220Z</updated>
+    <updated>2022-04-13T09:13:39.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯科技行業面臨 "人才流失"，工人外逃]]></title>
+        <id>https://www.nytimes.com/2022/04/13/technology/russia-tech-workers.html</id>
+        <link href="https://www.nytimes.com/2022/04/13/technology/russia-tech-workers.html"/>
+        <updated>2022-04-13T09:00:24.000Z</updated>
+        <summary type="html"><![CDATA[Russian Tech Industry Faces ‘Brain Drain’ as Workers Flee]]></summary>
+        <author>
+            <name>Cade Metz and Adam Satariano</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[隱蔽的懷孕干預措施。比你想知道的要多得多]]></title>
         <id>https://astralcodexten.substack.com/p/obscure-pregnancy-interventions-much</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Alan Taylor</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[親愛的佩珀。甜蜜的小謊言]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/dear-pepper-sweet-little-lies</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/dear-pepper-sweet-little-lies"/>
-        <updated>2022-03-28T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dear Pepper: Sweet Little Lies]]></summary>
-        <author>
-            <name>Liana Finck</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
