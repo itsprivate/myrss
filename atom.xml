@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-13T20:15:44.875Z</updated>
+    <updated>2022-04-13T21:32:12.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[中国的封锁对西方很重要]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/04/chinas-lockdowns-matter-to-the-west/629553/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/04/chinas-lockdowns-matter-to-the-west/629553/?utm_source=feed"/>
+        <updated>2022-04-13T21:10:52.000Z</updated>
+        <summary type="html"><![CDATA[China’s Lockdowns Matter to the West]]></summary>
+        <author>
+            <name>Conor Friedersdorf</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最新的通胀数据对经济意味着什么]]></title>
         <id>https://www.newyorker.com/newsletter/the-daily/what-the-latest-inflation-figures-mean-for-the-economy</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Keith Gessen</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[极端雨水使地球发生变化]]></title>
-        <id>https://www.theatlantic.com/science/archive/2022/03/climate-change-heavy-rain-landslides-flood/629404/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/science/archive/2022/03/climate-change-heavy-rain-landslides-flood/629404/?utm_source=feed"/>
-        <updated>2022-03-29T12:14:41.000Z</updated>
-        <summary type="html"><![CDATA[Extreme Rain Makes the Earth Shift]]></summary>
-        <author>
-            <name>Kendra Pierre-Louis</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>

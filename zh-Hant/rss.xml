@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 13 Apr 2022 20:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 21:32:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[中國的封鎖對西方很重要]]></title>
+            <link>https://www.theatlantic.com/newsletters/archive/2022/04/chinas-lockdowns-matter-to-the-west/629553/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/newsletters/archive/2022/04/chinas-lockdowns-matter-to-the-west/629553/?utm_source=feed</guid>
+            <pubDate>Wed, 13 Apr 2022 21:10:52 GMT</pubDate>
+            <description><![CDATA[China’s Lockdowns Matter to the West]]></description>
+        </item>
         <item>
             <title><![CDATA[最新的通脹數據對經濟意味著什麼]]></title>
             <link>https://www.newyorker.com/newsletter/the-daily/what-the-latest-inflation-figures-mean-for-the-economy</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/news/dispatch/the-one-place-in-lviv-where-the-war-is-never-far-away</guid>
             <pubDate>Tue, 29 Mar 2022 12:30:31 GMT</pubDate>
             <description><![CDATA[The One Place in Lviv Where the War Is Never Far Away]]></description>
-        </item>
-        <item>
-            <title><![CDATA[極端雨水使地球發生變化]]></title>
-            <link>https://www.theatlantic.com/science/archive/2022/03/climate-change-heavy-rain-landslides-flood/629404/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/science/archive/2022/03/climate-change-heavy-rain-landslides-flood/629404/?utm_source=feed</guid>
-            <pubDate>Tue, 29 Mar 2022 12:14:41 GMT</pubDate>
-            <description><![CDATA[Extreme Rain Makes the Earth Shift]]></description>
         </item>
     </channel>
 </rss>
