@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 13 Apr 2022 19:28:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 19:52:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA["我一生中最漫長的30秒"。布魯克林地鐵爆炸案倖存者的敘述]]></title>
+            <link>https://www.newyorker.com/news/as-told-to/the-longest-thirty-seconds-of-my-absolute-life-a-survivors-account-of-the-brooklyn-subway-shooting</link>
+            <guid>https://www.newyorker.com/news/as-told-to/the-longest-thirty-seconds-of-my-absolute-life-a-survivors-account-of-the-brooklyn-subway-shooting</guid>
+            <pubDate>Wed, 13 Apr 2022 19:30:04 GMT</pubDate>
+            <description><![CDATA[“The Longest Thirty Seconds of My Absolute Life”: A Survivor’s Account of the Brooklyn Subway Shooting]]></description>
+        </item>
+        <item>
+            <title><![CDATA[棒球剪貼簿，第二部分]]></title>
+            <link>https://www.newyorker.com/cartoons/blitts-kvetchbook/baseball-scrapbook-part-2</link>
+            <guid>https://www.newyorker.com/cartoons/blitts-kvetchbook/baseball-scrapbook-part-2</guid>
+            <pubDate>Wed, 13 Apr 2022 19:45:05 GMT</pubDate>
+            <description><![CDATA[Baseball Scrapbook, Part 2]]></description>
+        </item>
         <item>
             <title><![CDATA[第44任美國總統傑森-謝的傳記]]></title>
             <link>https://astralcodexten.substack.com/p/biography-of-jason-shea-44th-us-president</link>
@@ -4199,20 +4213,6 @@
             <guid>https://austinkleon.substack.com/p/what-are-you-watching</guid>
             <pubDate>Tue, 29 Mar 2022 11:00:31 GMT</pubDate>
             <description><![CDATA[What are you watching?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[文學作品中最令人難忘的12種食物描述]]></title>
-            <link>https://www.theatlantic.com/books/archive/2022/03/unforgettable-food-scenes-books-haruki-murakami/627601/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/books/archive/2022/03/unforgettable-food-scenes-books-haruki-murakami/627601/?utm_source=feed</guid>
-            <pubDate>Tue, 29 Mar 2022 11:01:02 GMT</pubDate>
-            <description><![CDATA[The 12 Most Unforgettable Descriptions of Food in Literature]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有孩子朋友的人寫的論文]]></title>
-            <link>https://www.newyorker.com/humor/daily-shouts/dissertations-written-by-someone-who-has-friends-with-kids</link>
-            <guid>https://www.newyorker.com/humor/daily-shouts/dissertations-written-by-someone-who-has-friends-with-kids</guid>
-            <pubDate>Tue, 29 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Dissertations Written by Someone Who Has Friends with Kids]]></description>
         </item>
     </channel>
 </rss>

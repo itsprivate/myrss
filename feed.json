@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/as-told-to/the-longest-thirty-seconds-of-my-absolute-life-a-survivors-account-of-the-brooklyn-subway-shooting",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/as-told-to/the-longest-thirty-seconds-of-my-absolute-life-a-survivors-account-of-the-brooklyn-subway-shooting",
+            "title": "\"我一生中最漫长的30秒\"。布鲁克林地铁爆炸案幸存者的叙述",
+            "summary": "“The Longest Thirty Seconds of My Absolute Life”: A Survivor’s Account of the Brooklyn Subway Shooting",
+            "date_modified": "2022-04-13T19:30:04.000Z",
+            "author": {
+                "name": "Stephania Taladrid",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/cartoons/blitts-kvetchbook/baseball-scrapbook-part-2",
+            "content_html": "",
+            "url": "https://www.newyorker.com/cartoons/blitts-kvetchbook/baseball-scrapbook-part-2",
+            "title": "棒球剪贴簿，第二部分",
+            "summary": "Baseball Scrapbook, Part 2",
+            "date_modified": "2022-04-13T19:45:05.000Z",
+            "author": {
+                "name": "Barry Blitt",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://astralcodexten.substack.com/p/biography-of-jason-shea-44th-us-president",
             "content_html": "",
             "url": "https://astralcodexten.substack.com/p/biography-of-jason-shea-44th-us-president",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "Austin Kleon",
                 "url": "https://austinkleon.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/books/archive/2022/03/unforgettable-food-scenes-books-haruki-murakami/627601/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/books/archive/2022/03/unforgettable-food-scenes-books-haruki-murakami/627601/?utm_source=feed",
-            "title": "文学作品中最令人难忘的12种食物描述",
-            "summary": "The 12 Most Unforgettable Descriptions of Food in Literature",
-            "date_modified": "2022-03-29T11:01:02.000Z",
-            "author": {
-                "name": "Adrienne LaFrance",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/humor/daily-shouts/dissertations-written-by-someone-who-has-friends-with-kids",
-            "content_html": "",
-            "url": "https://www.newyorker.com/humor/daily-shouts/dissertations-written-by-someone-who-has-friends-with-kids",
-            "title": "有孩子朋友的人写的论文",
-            "summary": "Dissertations Written by Someone Who Has Friends with Kids",
-            "date_modified": "2022-03-29T10:00:00.000Z",
-            "author": {
-                "name": "Erica Lies, Kerry Elson",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]

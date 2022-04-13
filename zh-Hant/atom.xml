@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-13T19:28:57.898Z</updated>
+    <updated>2022-04-13T19:52:34.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["我一生中最漫長的30秒"。布魯克林地鐵爆炸案倖存者的敘述]]></title>
+        <id>https://www.newyorker.com/news/as-told-to/the-longest-thirty-seconds-of-my-absolute-life-a-survivors-account-of-the-brooklyn-subway-shooting</id>
+        <link href="https://www.newyorker.com/news/as-told-to/the-longest-thirty-seconds-of-my-absolute-life-a-survivors-account-of-the-brooklyn-subway-shooting"/>
+        <updated>2022-04-13T19:30:04.000Z</updated>
+        <summary type="html"><![CDATA[“The Longest Thirty Seconds of My Absolute Life”: A Survivor’s Account of the Brooklyn Subway Shooting]]></summary>
+        <author>
+            <name>Stephania Taladrid</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[棒球剪貼簿，第二部分]]></title>
+        <id>https://www.newyorker.com/cartoons/blitts-kvetchbook/baseball-scrapbook-part-2</id>
+        <link href="https://www.newyorker.com/cartoons/blitts-kvetchbook/baseball-scrapbook-part-2"/>
+        <updated>2022-04-13T19:45:05.000Z</updated>
+        <summary type="html"><![CDATA[Baseball Scrapbook, Part 2]]></summary>
+        <author>
+            <name>Barry Blitt</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第44任美國總統傑森-謝的傳記]]></title>
         <id>https://astralcodexten.substack.com/p/biography-of-jason-shea-44th-us-president</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Austin Kleon</name>
             <uri>https://austinkleon.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文學作品中最令人難忘的12種食物描述]]></title>
-        <id>https://www.theatlantic.com/books/archive/2022/03/unforgettable-food-scenes-books-haruki-murakami/627601/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/books/archive/2022/03/unforgettable-food-scenes-books-haruki-murakami/627601/?utm_source=feed"/>
-        <updated>2022-03-29T11:01:02.000Z</updated>
-        <summary type="html"><![CDATA[The 12 Most Unforgettable Descriptions of Food in Literature]]></summary>
-        <author>
-            <name>Adrienne LaFrance</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有孩子朋友的人寫的論文]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/dissertations-written-by-someone-who-has-friends-with-kids</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/dissertations-written-by-someone-who-has-friends-with-kids"/>
-        <updated>2022-03-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dissertations Written by Someone Who Has Friends with Kids]]></summary>
-        <author>
-            <name>Erica Lies, Kerry Elson</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
