@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-13T03:30:31.100Z</updated>
+    <updated>2022-04-13T06:16:42.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[隱蔽的懷孕干預措施。比你想知道的要多得多]]></title>
+        <id>https://astralcodexten.substack.com/p/obscure-pregnancy-interventions-much</id>
+        <link href="https://astralcodexten.substack.com/p/obscure-pregnancy-interventions-much"/>
+        <updated>2022-04-13T06:03:04.000Z</updated>
+        <summary type="html"><![CDATA[Obscure Pregnancy Interventions: Much More Than You Wanted To Know]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[馬克-扎克伯格結束選舉補助金]]></title>
         <id>https://www.nytimes.com/2022/04/12/us/politics/mark-zuckerberg-midterms-elections-grant.html</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Dear Pepper: Sweet Little Lies]]></summary>
         <author>
             <name>Liana Finck</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[介紹《紐約客》的新每日通訊]]></title>
-        <id>https://www.newyorker.com/news/news-desk/introducing-the-new-yorkers-new-daily-newsletter</id>
-        <link href="https://www.newyorker.com/news/news-desk/introducing-the-new-yorkers-new-daily-newsletter"/>
-        <updated>2022-03-28T17:25:03.000Z</updated>
-        <summary type="html"><![CDATA[Introducing The New Yorker’s New Daily Newsletter]]></summary>
-        <author>
-            <name>Jessie Li, Ian Crouch</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

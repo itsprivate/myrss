@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://astralcodexten.substack.com/p/obscure-pregnancy-interventions-much",
+            "content_html": "",
+            "url": "https://astralcodexten.substack.com/p/obscure-pregnancy-interventions-much",
+            "title": "隱蔽的懷孕干預措施。比你想知道的要多得多",
+            "summary": "Obscure Pregnancy Interventions: Much More Than You Wanted To Know",
+            "date_modified": "2022-04-13T06:03:04.000Z",
+            "author": {
+                "name": "Scott Alexander",
+                "url": "https://astralcodexten.substack.com/feed"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/12/us/politics/mark-zuckerberg-midterms-elections-grant.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/12/us/politics/mark-zuckerberg-midterms-elections-grant.html",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-28T18:00:00.000Z",
             "author": {
                 "name": "Liana Finck",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/news-desk/introducing-the-new-yorkers-new-daily-newsletter",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/news-desk/introducing-the-new-yorkers-new-daily-newsletter",
-            "title": "介紹《紐約客》的新每日通訊",
-            "summary": "Introducing The New Yorker’s New Daily Newsletter",
-            "date_modified": "2022-03-28T17:25:03.000Z",
-            "author": {
-                "name": "Jessie Li, Ian Crouch",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }
