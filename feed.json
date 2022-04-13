@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/13/technology/us-tech-companies-are-stepping-up-office-perks-hoping-to-make-employees-feel-happier-about-returning.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/13/technology/us-tech-companies-are-stepping-up-office-perks-hoping-to-make-employees-feel-happier-about-returning.html",
+            "title": "美国的科技公司正在加强办公室的福利，希望能让员工在返回时感到更快乐。",
+            "summary": "U.S. tech companies are stepping up office perks, hoping to make employees feel happier about returning.",
+            "date_modified": "2022-04-13T10:35:38.000Z",
+            "author": {
+                "name": "Daisuke Wakabayashi, Erin Griffith and Kate Conger",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/04/13/technology/personaltech/elden-ring-pandemic.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/13/technology/personaltech/elden-ring-pandemic.html",
+            "title": "在埃尔登环，斗争的感觉是真实的",
+            "summary": "In Elden Ring, the Struggle Feels Real",
+            "date_modified": "2022-04-13T13:00:08.000Z",
+            "author": {
+                "name": "Brian X. Chen",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/health/archive/2022/04/us-1-million-covid-death-rate-grief/629537/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/health/archive/2022/04/us-1-million-covid-death-rate-grief/629537/?utm_source=feed",
+            "title": "大流行病使数百万人陷入无尽的悲痛之中",
+            "summary": "The Pandemic Has Trapped Millions in Unending Grief",
+            "date_modified": "2022-04-13T13:06:07.000Z",
+            "author": {
+                "name": "Ed Yong",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/magazine/archive/2022/05/elisa-gabbert-oral-history/629374/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/magazine/archive/2022/05/elisa-gabbert-oral-history/629374/?utm_source=feed",
@@ -7171,42 +7207,6 @@
             "date_modified": "2022-03-29T00:36:36.000Z",
             "author": {
                 "name": "Shirley Li",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/03/two-americas-debating-will-smith-chris-rock-oscars-slap/629407/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/03/two-americas-debating-will-smith-chris-rock-oscars-slap/629407/?utm_source=feed",
-            "title": "辩论威尔-史密斯和克里斯-洛克的两个美洲人",
-            "summary": "The Two Americas Debating Will Smith and Chris Rock",
-            "date_modified": "2022-03-29T00:31:50.000Z",
-            "author": {
-                "name": "Jemele Hill",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/03/federal-judge-tells-truth-about-trumps-insurrection/629411/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/03/federal-judge-tells-truth-about-trumps-insurrection/629411/?utm_source=feed",
-            "title": "一位联邦法官刚刚说出了关于特朗普叛乱的真相",
-            "summary": "A Federal Judge Just Told the Truth About Trump's Insurrection",
-            "date_modified": "2022-03-28T22:51:29.000Z",
-            "author": {
-                "name": "David A. Graham",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/newsletters/archive/2022/03/20-reader-views-on-transgender-people-in-competitive-sports/629410/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/newsletters/archive/2022/03/20-reader-views-on-transgender-people-in-competitive-sports/629410/?utm_source=feed",
-            "title": "20位读者对竞技体育中的变性人的看法",
-            "summary": "20 Reader Views on Transgender People in Competitive Sports",
-            "date_modified": "2022-03-28T21:49:05.000Z",
-            "author": {
-                "name": "Conor Friedersdorf",
                 "url": "https://www.theatlantic.com/feed/all/"
             }
         }

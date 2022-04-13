@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-13T11:31:05.358Z</updated>
+    <updated>2022-04-13T13:27:38.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美國的科技公司正在加強辦公室的福利，希望能讓員工在返回時感到更快樂。]]></title>
+        <id>https://www.nytimes.com/2022/04/13/technology/us-tech-companies-are-stepping-up-office-perks-hoping-to-make-employees-feel-happier-about-returning.html</id>
+        <link href="https://www.nytimes.com/2022/04/13/technology/us-tech-companies-are-stepping-up-office-perks-hoping-to-make-employees-feel-happier-about-returning.html"/>
+        <updated>2022-04-13T10:35:38.000Z</updated>
+        <summary type="html"><![CDATA[U.S. tech companies are stepping up office perks, hoping to make employees feel happier about returning.]]></summary>
+        <author>
+            <name>Daisuke Wakabayashi, Erin Griffith and Kate Conger</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在埃爾登環，鬥爭的感覺是真實的]]></title>
+        <id>https://www.nytimes.com/2022/04/13/technology/personaltech/elden-ring-pandemic.html</id>
+        <link href="https://www.nytimes.com/2022/04/13/technology/personaltech/elden-ring-pandemic.html"/>
+        <updated>2022-04-13T13:00:08.000Z</updated>
+        <summary type="html"><![CDATA[In Elden Ring, the Struggle Feels Real]]></summary>
+        <author>
+            <name>Brian X. Chen</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大流行病使數百萬人陷入無盡的悲痛之中]]></title>
+        <id>https://www.theatlantic.com/health/archive/2022/04/us-1-million-covid-death-rate-grief/629537/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/health/archive/2022/04/us-1-million-covid-death-rate-grief/629537/?utm_source=feed"/>
+        <updated>2022-04-13T13:06:07.000Z</updated>
+        <summary type="html"><![CDATA[The Pandemic Has Trapped Millions in Unending Grief]]></summary>
+        <author>
+            <name>Ed Yong</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[口述歷史]]></title>
         <id>https://www.theatlantic.com/magazine/archive/2022/05/elisa-gabbert-oral-history/629374/?utm_source=feed</id>
@@ -6579,39 +6612,6 @@
         <summary type="html"><![CDATA[The Night the Oscars Lost Control]]></summary>
         <author>
             <name>Shirley Li</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[辯論威爾-史密斯和克里斯-洛克的兩個美洲人]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/two-americas-debating-will-smith-chris-rock-oscars-slap/629407/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/two-americas-debating-will-smith-chris-rock-oscars-slap/629407/?utm_source=feed"/>
-        <updated>2022-03-29T00:31:50.000Z</updated>
-        <summary type="html"><![CDATA[The Two Americas Debating Will Smith and Chris Rock]]></summary>
-        <author>
-            <name>Jemele Hill</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一位聯邦法官剛剛說出了關於特朗普叛亂的真相]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/federal-judge-tells-truth-about-trumps-insurrection/629411/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/federal-judge-tells-truth-about-trumps-insurrection/629411/?utm_source=feed"/>
-        <updated>2022-03-28T22:51:29.000Z</updated>
-        <summary type="html"><![CDATA[A Federal Judge Just Told the Truth About Trump's Insurrection]]></summary>
-        <author>
-            <name>David A. Graham</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20位讀者對競技體育中的變性人的看法]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2022/03/20-reader-views-on-transgender-people-in-competitive-sports/629410/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/20-reader-views-on-transgender-people-in-competitive-sports/629410/?utm_source=feed"/>
-        <updated>2022-03-28T21:49:05.000Z</updated>
-        <summary type="html"><![CDATA[20 Reader Views on Transgender People in Competitive Sports]]></summary>
-        <author>
-            <name>Conor Friedersdorf</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
