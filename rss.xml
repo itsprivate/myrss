@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 13 Apr 2022 14:52:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 15:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一位被指控从事间谍活动的中国科学家的不确定的未来]]></title>
+            <link>https://www.newyorker.com/news/news-desk/an-uncertain-future-for-a-chinese-scientist-accused-of-espionage</link>
+            <guid>https://www.newyorker.com/news/news-desk/an-uncertain-future-for-a-chinese-scientist-accused-of-espionage</guid>
+            <pubDate>Wed, 13 Apr 2022 14:54:36 GMT</pubDate>
+            <description><![CDATA[An Uncertain Future for a Chinese Scientist Accused of Espionage]]></description>
+        </item>
         <item>
             <title><![CDATA[每日漫画。4月13日，星期三]]></title>
             <link>https://www.newyorker.com/cartoons/daily-cartoon/wednesday-april-13th-early-spring</link>
@@ -4206,13 +4213,6 @@
             <guid>https://noahpinion.substack.com/p/nuclear-game-theory-and-its-limitations</guid>
             <pubDate>Tue, 29 Mar 2022 08:30:46 GMT</pubDate>
             <description><![CDATA[Nuclear game theory and its limitations]]></description>
-        </item>
-        <item>
-            <title><![CDATA[拜登的命运现在与普京的乌克兰战争有着不可分割的联系]]></title>
-            <link>https://www.newyorker.com/news/daily-comment/bidens-fate-is-now-inextricably-linked-to-putins-war-in-ukraine</link>
-            <guid>https://www.newyorker.com/news/daily-comment/bidens-fate-is-now-inextricably-linked-to-putins-war-in-ukraine</guid>
-            <pubDate>Mon, 28 Mar 2022 23:58:20 GMT</pubDate>
-            <description><![CDATA[Biden’s Fate Is Now Inextricably Linked to Putin’s War in Ukraine]]></description>
         </item>
     </channel>
 </rss>
