@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-13T17:40:23.647Z</updated>
+    <updated>2022-04-13T18:16:33.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在大流行期間提供服務]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/delivering-during-the-pandemic</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/delivering-during-the-pandemic"/>
+        <updated>2022-04-13T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Delivering During the Pandemic]]></summary>
+        <author>
+            <name>Trinidad Escobar</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[諾姆-喬姆斯基談如何防止第三次世界大戰]]></title>
+        <id>https://www.currentaffairs.org/2022/04/noam-chomsky-on-how-to-prevent-world-war-iii/</id>
+        <link href="https://www.currentaffairs.org/2022/04/noam-chomsky-on-how-to-prevent-world-war-iii/"/>
+        <updated>2022-04-13T14:02:57.000Z</updated>
+        <summary type="html"><![CDATA[Noam Chomsky on How To Prevent World War III]]></summary>
+        <author>
+            <name>Current Affairs</name>
+            <uri>https://www.currentaffairs.org/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Etsy和網絡鬥爭的單一性]]></title>
         <id>https://www.nytimes.com/2022/04/13/technology/etsy-strike.html</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Jennifer Wilson</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[當我意識到是阿爾茨海默病時]]></title>
-        <id>https://www.newyorker.com/culture/culture-desk/when-i-realized-it-was-alzheimers</id>
-        <link href="https://www.newyorker.com/culture/culture-desk/when-i-realized-it-was-alzheimers"/>
-        <updated>2022-03-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When I Realized It Was Alzheimer’s]]></summary>
-        <author>
-            <name>Amy Bloom, Jason Adam Katzenstein</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[將理論推向主流的編輯]]></title>
-        <id>https://www.newyorker.com/culture/persons-of-interest/the-editor-who-moves-theory-into-the-mainstream</id>
-        <link href="https://www.newyorker.com/culture/persons-of-interest/the-editor-who-moves-theory-into-the-mainstream"/>
-        <updated>2022-03-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Editor Who Moves Theory Into the Mainstream]]></summary>
-        <author>
-            <name>Jennifer Wilson</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
 </feed>

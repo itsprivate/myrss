@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 13 Apr 2022 17:40:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 18:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在大流行期间提供服务]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/delivering-during-the-pandemic</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/delivering-during-the-pandemic</guid>
+            <pubDate>Wed, 13 Apr 2022 18:00:00 GMT</pubDate>
+            <description><![CDATA[Delivering During the Pandemic]]></description>
+        </item>
+        <item>
+            <title><![CDATA[诺姆-乔姆斯基谈如何防止第三次世界大战]]></title>
+            <link>https://www.currentaffairs.org/2022/04/noam-chomsky-on-how-to-prevent-world-war-iii/</link>
+            <guid>https://www.currentaffairs.org/2022/04/noam-chomsky-on-how-to-prevent-world-war-iii/</guid>
+            <pubDate>Wed, 13 Apr 2022 14:02:57 GMT</pubDate>
+            <description><![CDATA[Noam Chomsky on How To Prevent World War III]]></description>
+        </item>
         <item>
             <title><![CDATA[Etsy和网络斗争的单一性]]></title>
             <link>https://www.nytimes.com/2022/04/13/technology/etsy-strike.html</link>
@@ -4188,20 +4202,6 @@
         </item>
         <item>
             <title><![CDATA[当我意识到这是老年痴呆症时]]></title>
-            <link>https://www.newyorker.com/culture/culture-desk/when-i-realized-it-was-alzheimers</link>
-            <guid>https://www.newyorker.com/culture/culture-desk/when-i-realized-it-was-alzheimers</guid>
-            <pubDate>Tue, 29 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[When I Realized It Was Alzheimer’s]]></description>
-        </item>
-        <item>
-            <title><![CDATA[将理论推向主流的编辑]]></title>
-            <link>https://www.newyorker.com/culture/persons-of-interest/the-editor-who-moves-theory-into-the-mainstream</link>
-            <guid>https://www.newyorker.com/culture/persons-of-interest/the-editor-who-moves-theory-into-the-mainstream</guid>
-            <pubDate>Tue, 29 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Editor Who Moves Theory Into the Mainstream]]></description>
-        </item>
-        <item>
-            <title><![CDATA[当我意识到是阿尔茨海默病时]]></title>
             <link>https://www.newyorker.com/culture/culture-desk/when-i-realized-it-was-alzheimers</link>
             <guid>https://www.newyorker.com/culture/culture-desk/when-i-realized-it-was-alzheimers</guid>
             <pubDate>Tue, 29 Mar 2022 10:00:00 GMT</pubDate>

@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/humor/daily-shouts/delivering-during-the-pandemic",
+            "content_html": "",
+            "url": "https://www.newyorker.com/humor/daily-shouts/delivering-during-the-pandemic",
+            "title": "在大流行期間提供服務",
+            "summary": "Delivering During the Pandemic",
+            "date_modified": "2022-04-13T18:00:00.000Z",
+            "author": {
+                "name": "Trinidad Escobar",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.currentaffairs.org/2022/04/noam-chomsky-on-how-to-prevent-world-war-iii/",
+            "content_html": "",
+            "url": "https://www.currentaffairs.org/2022/04/noam-chomsky-on-how-to-prevent-world-war-iii/",
+            "title": "諾姆-喬姆斯基談如何防止第三次世界大戰",
+            "summary": "Noam Chomsky on How To Prevent World War III",
+            "date_modified": "2022-04-13T14:02:57.000Z",
+            "author": {
+                "name": "Current Affairs",
+                "url": "https://www.currentaffairs.org/feed"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/13/technology/etsy-strike.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/13/technology/etsy-strike.html",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "Jennifer Wilson",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/culture-desk/when-i-realized-it-was-alzheimers",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/culture-desk/when-i-realized-it-was-alzheimers",
-            "title": "當我意識到是阿爾茨海默病時",
-            "summary": "When I Realized It Was Alzheimer’s",
-            "date_modified": "2022-03-29T10:00:00.000Z",
-            "author": {
-                "name": "Amy Bloom, Jason Adam Katzenstein",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/persons-of-interest/the-editor-who-moves-theory-into-the-mainstream",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/persons-of-interest/the-editor-who-moves-theory-into-the-mainstream",
-            "title": "將理論推向主流的編輯",
-            "summary": "The Editor Who Moves Theory Into the Mainstream",
-            "date_modified": "2022-03-29T10:00:00.000Z",
-            "author": {
-                "name": "Jennifer Wilson",
-                "url": "https://www.newyorker.com/feed/news"
             }
         }
     ]
