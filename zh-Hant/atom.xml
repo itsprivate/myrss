@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-13T14:19:42.462Z</updated>
+    <updated>2022-04-13T14:52:55.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每日漫畫。4月13日，星期三]]></title>
+        <id>https://www.newyorker.com/cartoons/daily-cartoon/wednesday-april-13th-early-spring</id>
+        <link href="https://www.newyorker.com/cartoons/daily-cartoon/wednesday-april-13th-early-spring"/>
+        <updated>2022-04-13T14:29:01.000Z</updated>
+        <summary type="html"><![CDATA[Daily Cartoon: Wednesday, April 13th]]></summary>
+        <author>
+            <name>Ali Solomon</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大科技公司為除碳投入近10億美元]]></title>
         <id>https://www.theatlantic.com/science/archive/2022/04/big-tech-investment-carbon-removal/629545/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Biden’s Fate Is Now Inextricably Linked to Putin’s War in Ukraine]]></summary>
         <author>
             <name>Robin Wright</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[民主黨人應如何應對通脹上升和高油價？]]></title>
-        <id>https://www.newyorker.com/news/our-columnists/how-should-democrats-respond-to-rising-inflation-and-high-gas-prices</id>
-        <link href="https://www.newyorker.com/news/our-columnists/how-should-democrats-respond-to-rising-inflation-and-high-gas-prices"/>
-        <updated>2022-03-29T00:01:11.000Z</updated>
-        <summary type="html"><![CDATA[How Should Democrats Respond to Rising Inflation and High Gas Prices?]]></summary>
-        <author>
-            <name>John Cassidy</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
