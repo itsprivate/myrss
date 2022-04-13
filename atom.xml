@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-13T18:16:33.285Z</updated>
+    <updated>2022-04-13T18:40:31.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亚马逊为卖家增加燃料和通货膨胀附加费]]></title>
+        <id>https://www.nytimes.com/2022/04/13/technology/amazon-fuel-surcharge.html</id>
+        <link href="https://www.nytimes.com/2022/04/13/technology/amazon-fuel-surcharge.html"/>
+        <updated>2022-04-13T18:33:05.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Adds Fuel and Inflation Surcharge for Sellers]]></summary>
+        <author>
+            <name>Karen Weise</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰的消防员]]></title>
+        <id>https://www.theatlantic.com/photo/2022/04/photos-firefighters-ukraine/629548/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/photo/2022/04/photos-firefighters-ukraine/629548/?utm_source=feed"/>
+        <updated>2022-04-13T18:22:38.000Z</updated>
+        <summary type="html"><![CDATA[The Firefighters of Ukraine]]></summary>
+        <author>
+            <name>Alan Taylor</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在大流行期间提供服务]]></title>
         <id>https://www.newyorker.com/humor/daily-shouts/delivering-during-the-pandemic</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[Why Do So Many Russians Say They Support the War in Ukraine?]]></summary>
         <author>
             <name>Joshua Yaffa</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当我意识到这是老年痴呆症时]]></title>
-        <id>https://www.newyorker.com/culture/culture-desk/when-i-realized-it-was-alzheimers</id>
-        <link href="https://www.newyorker.com/culture/culture-desk/when-i-realized-it-was-alzheimers"/>
-        <updated>2022-03-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When I Realized It Was Alzheimer’s]]></summary>
-        <author>
-            <name>Amy Bloom, Jason Adam Katzenstein</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将理论推向主流的编辑]]></title>
-        <id>https://www.newyorker.com/culture/persons-of-interest/the-editor-who-moves-theory-into-the-mainstream</id>
-        <link href="https://www.newyorker.com/culture/persons-of-interest/the-editor-who-moves-theory-into-the-mainstream"/>
-        <updated>2022-03-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Editor Who Moves Theory Into the Mainstream]]></summary>
-        <author>
-            <name>Jennifer Wilson</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

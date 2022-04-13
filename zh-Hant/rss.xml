@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 13 Apr 2022 18:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 18:40:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[亞馬遜為賣家增加燃料和通貨膨脹附加費]]></title>
+            <link>https://www.nytimes.com/2022/04/13/technology/amazon-fuel-surcharge.html</link>
+            <guid>https://www.nytimes.com/2022/04/13/technology/amazon-fuel-surcharge.html</guid>
+            <pubDate>Wed, 13 Apr 2022 18:33:05 GMT</pubDate>
+            <description><![CDATA[Amazon Adds Fuel and Inflation Surcharge for Sellers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[烏克蘭的消防員]]></title>
+            <link>https://www.theatlantic.com/photo/2022/04/photos-firefighters-ukraine/629548/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/photo/2022/04/photos-firefighters-ukraine/629548/?utm_source=feed</guid>
+            <pubDate>Wed, 13 Apr 2022 18:22:38 GMT</pubDate>
+            <description><![CDATA[The Firefighters of Ukraine]]></description>
+        </item>
         <item>
             <title><![CDATA[在大流行期間提供服務]]></title>
             <link>https://www.newyorker.com/humor/daily-shouts/delivering-during-the-pandemic</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/news/news-desk/why-do-so-many-russians-say-they-support-the-war-in-ukraine</guid>
             <pubDate>Tue, 29 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Why Do So Many Russians Say They Support the War in Ukraine?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[當我意識到這是老年痴呆症時]]></title>
-            <link>https://www.newyorker.com/culture/culture-desk/when-i-realized-it-was-alzheimers</link>
-            <guid>https://www.newyorker.com/culture/culture-desk/when-i-realized-it-was-alzheimers</guid>
-            <pubDate>Tue, 29 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[When I Realized It Was Alzheimer’s]]></description>
-        </item>
-        <item>
-            <title><![CDATA[將理論推向主流的編輯]]></title>
-            <link>https://www.newyorker.com/culture/persons-of-interest/the-editor-who-moves-theory-into-the-mainstream</link>
-            <guid>https://www.newyorker.com/culture/persons-of-interest/the-editor-who-moves-theory-into-the-mainstream</guid>
-            <pubDate>Tue, 29 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Editor Who Moves Theory Into the Mainstream]]></description>
         </item>
     </channel>
 </rss>
