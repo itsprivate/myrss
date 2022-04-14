@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 14 Apr 2022 16:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 16:53:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[人们为什么给自己的东西起名字]]></title>
+            <link>https://www.theatlantic.com/family/archive/2022/04/naming-objects-psychology/629561/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/family/archive/2022/04/naming-objects-psychology/629561/?utm_source=feed</guid>
+            <pubDate>Thu, 14 Apr 2022 16:07:28 GMT</pubDate>
+            <description><![CDATA[Why People Name Their Things]]></description>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰的生命线]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-russia-weapons-supply-shortage/629560/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-russia-weapons-supply-shortage/629560/?utm_source=feed</guid>
+            <pubDate>Thu, 14 Apr 2022 16:19:54 GMT</pubDate>
+            <description><![CDATA[Ukraine’s Lifeline]]></description>
+        </item>
         <item>
             <title><![CDATA[四月份的链接]]></title>
             <link>https://astralcodexten.substack.com/p/links-for-april-644</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.kalzumeus.com/2020/04/21/japan-coronavirus/</guid>
             <pubDate>Tue, 21 Apr 2020 13:00:00 GMT</pubDate>
             <description><![CDATA[An update on a pre-registered result about the coronavirus]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在Stripe工作是怎样的体验]]></title>
-            <link>https://www.kalzumeus.com/2020/10/09/four-years-at-stripe/</link>
-            <guid>https://www.kalzumeus.com/2020/10/09/four-years-at-stripe/</guid>
-            <pubDate>Thu, 08 Oct 2020 16:35:00 GMT</pubDate>
-            <description><![CDATA[What Working At Stripe Has Been Like]]></description>
-        </item>
-        <item>
-            <title><![CDATA[解决疫苗数据问题]]></title>
-            <link>https://www.kalzumeus.com/2021/04/23/vaccinate-the-states/</link>
-            <guid>https://www.kalzumeus.com/2021/04/23/vaccinate-the-states/</guid>
-            <pubDate>Sat, 24 Apr 2021 00:01:00 GMT</pubDate>
-            <description><![CDATA[Solving The Vaccine Data Problem]]></description>
         </item>
     </channel>
 </rss>
