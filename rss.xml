@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 14 Apr 2022 21:52:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 22:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[被指控的布鲁克林地铁枪手的严峻历程]]></title>
+            <link>https://www.newyorker.com/news/news-desk/the-grim-journey-of-the-accused-brooklyn-subway-shooter</link>
+            <guid>https://www.newyorker.com/news/news-desk/the-grim-journey-of-the-accused-brooklyn-subway-shooter</guid>
+            <pubDate>Thu, 14 Apr 2022 21:47:10 GMT</pubDate>
+            <description><![CDATA[The Grim Journey of the Accused Brooklyn Subway Shooter]]></description>
+        </item>
         <item>
             <title><![CDATA[立即对俄罗斯实施能源禁运的理由]]></title>
             <link>https://www.newyorker.com/news/our-columnists/the-case-for-an-immediate-energy-embargo-on-russia</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/30</guid>
             <pubDate>Wed, 30 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Name Drop: Wednesday, March 30, 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如果民主党人想在2022年获胜，他们必须关注Weezer。Weezer欣赏协会主席的专栏文章]]></title>
-            <link>https://www.newyorker.com/humor/daily-shouts/if-democrats-want-to-win-in-2022-they-must-focus-on-weezer-an-op-ed-by-the-president-of-the-weezer-appreciation-society</link>
-            <guid>https://www.newyorker.com/humor/daily-shouts/if-democrats-want-to-win-in-2022-they-must-focus-on-weezer-an-op-ed-by-the-president-of-the-weezer-appreciation-society</guid>
-            <pubDate>Wed, 30 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[If Democrats Want to Win in 2022, They Must Focus on Weezer: An Op-Ed by the President of the Weezer Appreciation Society]]></description>
         </item>
     </channel>
 </rss>

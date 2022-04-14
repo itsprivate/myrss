@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-14T21:52:24.570Z</updated>
+    <updated>2022-04-14T22:15:40.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[被指控的布魯克林地鐵槍手的嚴峻歷程]]></title>
+        <id>https://www.newyorker.com/news/news-desk/the-grim-journey-of-the-accused-brooklyn-subway-shooter</id>
+        <link href="https://www.newyorker.com/news/news-desk/the-grim-journey-of-the-accused-brooklyn-subway-shooter"/>
+        <updated>2022-04-14T21:47:10.000Z</updated>
+        <summary type="html"><![CDATA[The Grim Journey of the Accused Brooklyn Subway Shooter]]></summary>
+        <author>
+            <name>Paige Williams</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[立即對俄羅斯實施能源禁運的理由]]></title>
         <id>https://www.newyorker.com/news/our-columnists/the-case-for-an-immediate-energy-embargo-on-russia</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Name Drop: Wednesday, March 30, 2022]]></summary>
         <author>
             <name>Liz Maynes-Aminzade</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果民主黨人想在2022年獲勝，他們必須關注Weezer。Weezer欣賞協會主席的專欄文章]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/if-democrats-want-to-win-in-2022-they-must-focus-on-weezer-an-op-ed-by-the-president-of-the-weezer-appreciation-society</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/if-democrats-want-to-win-in-2022-they-must-focus-on-weezer-an-op-ed-by-the-president-of-the-weezer-appreciation-society"/>
-        <updated>2022-03-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If Democrats Want to Win in 2022, They Must Focus on Weezer: An Op-Ed by the President of the Weezer Appreciation Society]]></summary>
-        <author>
-            <name>Jonathan Zeller</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

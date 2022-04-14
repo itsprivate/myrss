@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/news-desk/the-grim-journey-of-the-accused-brooklyn-subway-shooter",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/news-desk/the-grim-journey-of-the-accused-brooklyn-subway-shooter",
+            "title": "被指控的布鲁克林地铁枪手的严峻历程",
+            "summary": "The Grim Journey of the Accused Brooklyn Subway Shooter",
+            "date_modified": "2022-04-14T21:47:10.000Z",
+            "author": {
+                "name": "Paige Williams",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/our-columnists/the-case-for-an-immediate-energy-embargo-on-russia",
             "content_html": "",
             "url": "https://www.newyorker.com/news/our-columnists/the-case-for-an-immediate-energy-embargo-on-russia",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-30T10:00:00.000Z",
             "author": {
                 "name": "Liz Maynes-Aminzade",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/humor/daily-shouts/if-democrats-want-to-win-in-2022-they-must-focus-on-weezer-an-op-ed-by-the-president-of-the-weezer-appreciation-society",
-            "content_html": "",
-            "url": "https://www.newyorker.com/humor/daily-shouts/if-democrats-want-to-win-in-2022-they-must-focus-on-weezer-an-op-ed-by-the-president-of-the-weezer-appreciation-society",
-            "title": "如果民主党人想在2022年获胜，他们必须关注Weezer。Weezer欣赏协会主席的专栏文章",
-            "summary": "If Democrats Want to Win in 2022, They Must Focus on Weezer: An Op-Ed by the President of the Weezer Appreciation Society",
-            "date_modified": "2022-03-30T10:00:00.000Z",
-            "author": {
-                "name": "Jonathan Zeller",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }
