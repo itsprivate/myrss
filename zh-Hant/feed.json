@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/14/technology/elon-musk-twitter-bid.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/14/technology/elon-musk-twitter-bid.html",
+            "title": "埃隆-馬斯克發起收購Twitter的競標",
+            "summary": "Elon Musk Launches Bid to Buy Twitter",
+            "date_modified": "2022-04-14T23:19:05.000Z",
+            "author": {
+                "name": "Mike Isaac, Kate Conger and Lauren Hirsch",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/04/elon-musk-buy-twitter-free-speech/629571/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/04/elon-musk-buy-twitter-free-speech/629571/?utm_source=feed",
+            "title": "埃隆-馬斯克與推特的爭執並非關於言論自由",
+            "summary": "Elon Musk’s Beef With Twitter Isn’t About Free Speech",
+            "date_modified": "2022-04-14T23:10:16.000Z",
+            "author": {
+                "name": "Renée DiResta",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/technology/archive/2022/04/elon-musk-twitter-takeover-stock/629574/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/technology/archive/2022/04/elon-musk-twitter-takeover-stock/629574/?utm_source=feed",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "J. D. Biersdorfer",
                 "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/science/archive/2022/03/left-climate-playbook-biden-russia/629425/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/science/archive/2022/03/left-climate-playbook-biden-russia/629425/?utm_source=feed",
-            "title": "左派的氣候遊戲手冊已經過時了",
-            "summary": "The Left’s Climate Playbook Is Already Outdated",
-            "date_modified": "2022-03-30T13:13:45.000Z",
-            "author": {
-                "name": "Robinson Meyer",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/books/archive/2022/03/poem-brittney-scott-law-falling-bodies/629424/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/books/archive/2022/03/poem-brittney-scott-law-falling-bodies/629424/?utm_source=feed",
-            "title": "墜落體的規律",
-            "summary": "The Law of Falling Bodies",
-            "date_modified": "2022-03-30T12:01:40.000Z",
-            "author": {
-                "name": "Brittney Scott",
-                "url": "https://www.theatlantic.com/feed/all/"
             }
         }
     ]

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 14 Apr 2022 23:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 23:33:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[埃隆-马斯克发起收购Twitter的竞标]]></title>
+            <link>https://www.nytimes.com/2022/04/14/technology/elon-musk-twitter-bid.html</link>
+            <guid>https://www.nytimes.com/2022/04/14/technology/elon-musk-twitter-bid.html</guid>
+            <pubDate>Thu, 14 Apr 2022 23:19:05 GMT</pubDate>
+            <description><![CDATA[Elon Musk Launches Bid to Buy Twitter]]></description>
+        </item>
+        <item>
+            <title><![CDATA[埃隆-马斯克与推特的争执并非关于言论自由]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/elon-musk-buy-twitter-free-speech/629571/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/elon-musk-buy-twitter-free-speech/629571/?utm_source=feed</guid>
+            <pubDate>Thu, 14 Apr 2022 23:10:16 GMT</pubDate>
+            <description><![CDATA[Elon Musk’s Beef With Twitter Isn’t About Free Speech]]></description>
+        </item>
         <item>
             <title><![CDATA[埃隆-马斯克将在推特上全面开展未来文明的活动？]]></title>
             <link>https://www.theatlantic.com/technology/archive/2022/04/elon-musk-twitter-takeover-stock/629574/?utm_source=feed</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.nytimes.com/2022/03/30/technology/personaltech/scams-phishing-spring.html</guid>
             <pubDate>Wed, 30 Mar 2022 13:00:11 GMT</pubDate>
             <description><![CDATA[How to Spot Scams That Mimic the IRS or Charities]]></description>
-        </item>
-        <item>
-            <title><![CDATA[左派的气候游戏手册已经过时了]]></title>
-            <link>https://www.theatlantic.com/science/archive/2022/03/left-climate-playbook-biden-russia/629425/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/science/archive/2022/03/left-climate-playbook-biden-russia/629425/?utm_source=feed</guid>
-            <pubDate>Wed, 30 Mar 2022 13:13:45 GMT</pubDate>
-            <description><![CDATA[The Left’s Climate Playbook Is Already Outdated]]></description>
-        </item>
-        <item>
-            <title><![CDATA[坠落体的规律]]></title>
-            <link>https://www.theatlantic.com/books/archive/2022/03/poem-brittney-scott-law-falling-bodies/629424/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/books/archive/2022/03/poem-brittney-scott-law-falling-bodies/629424/?utm_source=feed</guid>
-            <pubDate>Wed, 30 Mar 2022 12:01:40 GMT</pubDate>
-            <description><![CDATA[The Law of Falling Bodies]]></description>
         </item>
     </channel>
 </rss>
