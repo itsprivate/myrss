@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-14T18:16:17.089Z</updated>
+    <updated>2022-04-14T18:38:14.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["MINX "的雙重女性目光]]></title>
+        <id>https://www.newyorker.com/culture/on-television/the-doubled-female-gaze-of-minx</id>
+        <link href="https://www.newyorker.com/culture/on-television/the-doubled-female-gaze-of-minx"/>
+        <updated>2022-04-14T18:05:53.000Z</updated>
+        <summary type="html"><![CDATA[The Doubled Female Gaze of “Minx”]]></summary>
+        <author>
+            <name>Katy Waldman</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被遺忘的奪回非洲被盜藝術的運動]]></title>
+        <id>https://www.newyorker.com/books/under-review/the-forgotten-movement-to-reclaim-africas-stolen-art</id>
+        <link href="https://www.newyorker.com/books/under-review/the-forgotten-movement-to-reclaim-africas-stolen-art"/>
+        <updated>2022-04-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Forgotten Movement to Reclaim Africa’s Stolen Art]]></summary>
+        <author>
+            <name>Julian Lucas</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[漫長的兩年]]></title>
+        <id>https://www.theatlantic.com/health/archive/2022/04/covid-anniversary-2022-new-normal/629430/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/health/archive/2022/04/covid-anniversary-2022-new-normal/629430/?utm_source=feed"/>
+        <updated>2022-04-14T18:07:50.000Z</updated>
+        <summary type="html"><![CDATA[Two Long Years]]></summary>
+        <author>
+            <name>Lora Strum</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[與我的內心獨白對話]]></title>
         <id>https://www.newyorker.com/humor/daily-shouts/talking-back-to-my-internal-monologue</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>Ryan Mac, Mike Isaac and Sheera Frenkel</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為超級計算機鋪路的程序員獲得圖靈獎]]></title>
-        <id>https://www.nytimes.com/2022/03/30/technology/turing-award-jack-dongarra.html</id>
-        <link href="https://www.nytimes.com/2022/03/30/technology/turing-award-jack-dongarra.html"/>
-        <updated>2022-03-30T09:00:32.000Z</updated>
-        <summary type="html"><![CDATA[Turing Award Won by Programmer Who Paved Way for Supercomputers]]></summary>
-        <author>
-            <name>Cade Metz</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本的故鄉稅]]></title>
-        <id>https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/</id>
-        <link href="https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/"/>
-        <updated>2018-10-19T11:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Japan's Hometown Tax]]></summary>
-        <author>
-            <name>Patrick McKenzie (patio11)</name>
-            <uri>https://www.kalzumeus.com/feed/articles/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Stripe工作是怎樣的體驗]]></title>
-        <id>https://www.kalzumeus.com/2019/3/18/two-years-at-stripe/</id>
-        <link href="https://www.kalzumeus.com/2019/3/18/two-years-at-stripe/"/>
-        <updated>2019-03-18T15:55:00.000Z</updated>
-        <summary type="html"><![CDATA[What Working At Stripe Has Been Like]]></summary>
-        <author>
-            <name>Patrick McKenzie (patio11)</name>
-            <uri>https://www.kalzumeus.com/feed/articles/</uri>
         </author>
     </entry>
 </feed>

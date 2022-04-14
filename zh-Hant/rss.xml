@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 14 Apr 2022 18:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 18:38:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA["MINX "的雙重女性目光]]></title>
+            <link>https://www.newyorker.com/culture/on-television/the-doubled-female-gaze-of-minx</link>
+            <guid>https://www.newyorker.com/culture/on-television/the-doubled-female-gaze-of-minx</guid>
+            <pubDate>Thu, 14 Apr 2022 18:05:53 GMT</pubDate>
+            <description><![CDATA[The Doubled Female Gaze of “Minx”]]></description>
+        </item>
+        <item>
+            <title><![CDATA[被遺忘的奪回非洲被盜藝術的運動]]></title>
+            <link>https://www.newyorker.com/books/under-review/the-forgotten-movement-to-reclaim-africas-stolen-art</link>
+            <guid>https://www.newyorker.com/books/under-review/the-forgotten-movement-to-reclaim-africas-stolen-art</guid>
+            <pubDate>Thu, 14 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Forgotten Movement to Reclaim Africa’s Stolen Art]]></description>
+        </item>
+        <item>
+            <title><![CDATA[漫長的兩年]]></title>
+            <link>https://www.theatlantic.com/health/archive/2022/04/covid-anniversary-2022-new-normal/629430/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/health/archive/2022/04/covid-anniversary-2022-new-normal/629430/?utm_source=feed</guid>
+            <pubDate>Thu, 14 Apr 2022 18:07:50 GMT</pubDate>
+            <description><![CDATA[Two Long Years]]></description>
+        </item>
         <item>
             <title><![CDATA[與我的內心獨白對話]]></title>
             <link>https://www.newyorker.com/humor/daily-shouts/talking-back-to-my-internal-monologue</link>
@@ -4192,27 +4213,6 @@
             <guid>https://www.nytimes.com/2022/03/30/technology/ukraine-russia-facebook-instagram.html</guid>
             <pubDate>Wed, 30 Mar 2022 09:00:18 GMT</pubDate>
             <description><![CDATA[How War in Ukraine Roiled Facebook and Instagram]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為超級計算機鋪路的程序員獲得圖靈獎]]></title>
-            <link>https://www.nytimes.com/2022/03/30/technology/turing-award-jack-dongarra.html</link>
-            <guid>https://www.nytimes.com/2022/03/30/technology/turing-award-jack-dongarra.html</guid>
-            <pubDate>Wed, 30 Mar 2022 09:00:32 GMT</pubDate>
-            <description><![CDATA[Turing Award Won by Programmer Who Paved Way for Supercomputers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[日本的故鄉稅]]></title>
-            <link>https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/</link>
-            <guid>https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/</guid>
-            <pubDate>Fri, 19 Oct 2018 11:35:00 GMT</pubDate>
-            <description><![CDATA[Japan's Hometown Tax]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在Stripe工作是怎樣的體驗]]></title>
-            <link>https://www.kalzumeus.com/2019/3/18/two-years-at-stripe/</link>
-            <guid>https://www.kalzumeus.com/2019/3/18/two-years-at-stripe/</guid>
-            <pubDate>Mon, 18 Mar 2019 15:55:00 GMT</pubDate>
-            <description><![CDATA[What Working At Stripe Has Been Like]]></description>
         </item>
     </channel>
 </rss>
