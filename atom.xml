@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-14T17:53:37.633Z</updated>
+    <updated>2022-04-14T18:16:16.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[与我的内心独白对话]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/talking-back-to-my-internal-monologue</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/talking-back-to-my-internal-monologue"/>
+        <updated>2022-04-14T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Talking Back to My Internal Monologue]]></summary>
+        <author>
+            <name>Ivy Johnson</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[马克龙的中间主义能否打败法国日益增长的右翼？]]></title>
         <id>https://www.newyorker.com/news/q-and-a/will-macrons-centrism-defeat-frances-growing-right-wing</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.kalzumeus.com/2019/3/18/two-years-at-stripe/"/>
         <updated>2019-03-18T15:55:00.000Z</updated>
         <summary type="html"><![CDATA[What Working At Stripe Has Been Like]]></summary>
-        <author>
-            <name>Patrick McKenzie (patio11)</name>
-            <uri>https://www.kalzumeus.com/feed/articles/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[折扣经纪公司如何赚钱]]></title>
-        <id>https://www.kalzumeus.com/2019/6/26/how-brokerages-make-money/</id>
-        <link href="https://www.kalzumeus.com/2019/6/26/how-brokerages-make-money/"/>
-        <updated>2019-06-25T15:01:00.000Z</updated>
-        <summary type="html"><![CDATA[How Discount Brokerages Make Money]]></summary>
         <author>
             <name>Patrick McKenzie (patio11)</name>
             <uri>https://www.kalzumeus.com/feed/articles/</uri>

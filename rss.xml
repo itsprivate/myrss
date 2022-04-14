@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 14 Apr 2022 17:53:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 18:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[与我的内心独白对话]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/talking-back-to-my-internal-monologue</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/talking-back-to-my-internal-monologue</guid>
+            <pubDate>Thu, 14 Apr 2022 18:00:00 GMT</pubDate>
+            <description><![CDATA[Talking Back to My Internal Monologue]]></description>
+        </item>
         <item>
             <title><![CDATA[马克龙的中间主义能否打败法国日益增长的右翼？]]></title>
             <link>https://www.newyorker.com/news/q-and-a/will-macrons-centrism-defeat-frances-growing-right-wing</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.kalzumeus.com/2019/3/18/two-years-at-stripe/</guid>
             <pubDate>Mon, 18 Mar 2019 15:55:00 GMT</pubDate>
             <description><![CDATA[What Working At Stripe Has Been Like]]></description>
-        </item>
-        <item>
-            <title><![CDATA[折扣经纪公司如何赚钱]]></title>
-            <link>https://www.kalzumeus.com/2019/6/26/how-brokerages-make-money/</link>
-            <guid>https://www.kalzumeus.com/2019/6/26/how-brokerages-make-money/</guid>
-            <pubDate>Tue, 25 Jun 2019 15:01:00 GMT</pubDate>
-            <description><![CDATA[How Discount Brokerages Make Money]]></description>
         </item>
     </channel>
 </rss>
