@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-14T17:40:02.410Z</updated>
+    <updated>2022-04-14T17:53:37.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[馬克龍的中間主義能否打敗法國日益增長的右翼？]]></title>
+        <id>https://www.newyorker.com/news/q-and-a/will-macrons-centrism-defeat-frances-growing-right-wing</id>
+        <link href="https://www.newyorker.com/news/q-and-a/will-macrons-centrism-defeat-frances-growing-right-wing"/>
+        <updated>2022-04-14T17:34:25.000Z</updated>
+        <summary type="html"><![CDATA[Will Macron’s Centrism Defeat France’s Growing Right Wing?]]></summary>
+        <author>
+            <name>Isaac Chotiner</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美聯儲何時會落錘？]]></title>
+        <id>https://noahpinion.substack.com/p/when-will-the-fed-drop-the-hammer</id>
+        <link href="https://noahpinion.substack.com/p/when-will-the-fed-drop-the-hammer"/>
+        <updated>2022-03-22T06:27:12.000Z</updated>
+        <summary type="html"><![CDATA[When will the Fed drop the hammer?]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[現在埃隆-馬斯克提出要收購Twitter，接下來會發生什麼？]]></title>
         <id>https://www.nytimes.com/2022/04/14/technology/twitter-elon-musk-offer-process.html</id>
@@ -6588,28 +6610,6 @@
         <link href="https://www.kalzumeus.com/2019/6/26/how-brokerages-make-money/"/>
         <updated>2019-06-25T15:01:00.000Z</updated>
         <summary type="html"><![CDATA[How Discount Brokerages Make Money]]></summary>
-        <author>
-            <name>Patrick McKenzie (patio11)</name>
-            <uri>https://www.kalzumeus.com/feed/articles/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tether: 到目前為止的故事]]></title>
-        <id>https://www.kalzumeus.com/2019/10/28/tether-and-bitfinex/</id>
-        <link href="https://www.kalzumeus.com/2019/10/28/tether-and-bitfinex/"/>
-        <updated>2019-10-28T15:27:37.000Z</updated>
-        <summary type="html"><![CDATA[Tether: The Story So Far]]></summary>
-        <author>
-            <name>Patrick McKenzie (patio11)</name>
-            <uri>https://www.kalzumeus.com/feed/articles/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[工作組關於日本和covid-19的白皮書]]></title>
-        <id>https://www.kalzumeus.com/covid19-japan-white-paper/</id>
-        <link href="https://www.kalzumeus.com/covid19-japan-white-paper/"/>
-        <updated>2020-03-26T09:15:00.000Z</updated>
-        <summary type="html"><![CDATA[The Working Group's White paper on Japan and covid-19]]></summary>
         <author>
             <name>Patrick McKenzie (patio11)</name>
             <uri>https://www.kalzumeus.com/feed/articles/</uri>
