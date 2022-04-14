@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-14T17:22:08.273Z</updated>
+    <updated>2022-04-14T17:40:02.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[现在埃隆-马斯克提出要收购Twitter，接下来会发生什么？]]></title>
+        <id>https://www.nytimes.com/2022/04/14/technology/twitter-elon-musk-offer-process.html</id>
+        <link href="https://www.nytimes.com/2022/04/14/technology/twitter-elon-musk-offer-process.html"/>
+        <updated>2022-04-14T17:13:47.000Z</updated>
+        <summary type="html"><![CDATA[Now That Elon Musk Has Offered to Buy Twitter, What Happens Next?]]></summary>
+        <author>
+            <name>Lauren Hirsch</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[埃隆-马斯克是一位数字公民凯恩]]></title>
         <id>https://www.nytimes.com/2022/04/14/technology/elon-musk-is-a-digital-citizen-kane.html</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.kalzumeus.com/covid19-japan-white-paper/"/>
         <updated>2020-03-26T09:15:00.000Z</updated>
         <summary type="html"><![CDATA[The Working Group's White paper on Japan and covid-19]]></summary>
-        <author>
-            <name>Patrick McKenzie (patio11)</name>
-            <uri>https://www.kalzumeus.com/feed/articles/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[丢弃哈希值：一个用来证明文件出处的习惯用语]]></title>
-        <id>https://www.kalzumeus.com/essays/dropping-hashes/</id>
-        <link href="https://www.kalzumeus.com/essays/dropping-hashes/"/>
-        <updated>2020-04-21T12:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Dropping hashes: an idiom used to demonstrate provenance of documents]]></summary>
         <author>
             <name>Patrick McKenzie (patio11)</name>
             <uri>https://www.kalzumeus.com/feed/articles/</uri>

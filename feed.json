@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/14/technology/twitter-elon-musk-offer-process.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/14/technology/twitter-elon-musk-offer-process.html",
+            "title": "现在埃隆-马斯克提出要收购Twitter，接下来会发生什么？",
+            "summary": "Now That Elon Musk Has Offered to Buy Twitter, What Happens Next?",
+            "date_modified": "2022-04-14T17:13:47.000Z",
+            "author": {
+                "name": "Lauren Hirsch",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/14/technology/elon-musk-is-a-digital-citizen-kane.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/14/technology/elon-musk-is-a-digital-citizen-kane.html",
@@ -7193,18 +7205,6 @@
             "title": "工作组关于日本和covid-19的白皮书",
             "summary": "The Working Group's White paper on Japan and covid-19",
             "date_modified": "2020-03-26T09:15:00.000Z",
-            "author": {
-                "name": "Patrick McKenzie (patio11)",
-                "url": "https://www.kalzumeus.com/feed/articles/"
-            }
-        },
-        {
-            "id": "https://www.kalzumeus.com/essays/dropping-hashes/",
-            "content_html": "",
-            "url": "https://www.kalzumeus.com/essays/dropping-hashes/",
-            "title": "丢弃哈希值：一个用来证明文件出处的习惯用语",
-            "summary": "Dropping hashes: an idiom used to demonstrate provenance of documents",
-            "date_modified": "2020-04-21T12:45:00.000Z",
             "author": {
                 "name": "Patrick McKenzie (patio11)",
                 "url": "https://www.kalzumeus.com/feed/articles/"
