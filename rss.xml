@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 13 Apr 2022 21:32:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 02:34:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个国际人群在文化的十字路口找到共同点]]></title>
+            <link>https://www.newyorker.com/video/watch/the-new-yorker-shorts-an-international-crowd-finds-common-ground-at-a-cultural-crossroad</link>
+            <guid>https://www.newyorker.com/video/watch/the-new-yorker-shorts-an-international-crowd-finds-common-ground-at-a-cultural-crossroad</guid>
+            <pubDate>Fri, 08 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[An International Crowd Finds Common Ground at a Cultural Crossroad]]></description>
+        </item>
         <item>
             <title><![CDATA[中国的封锁对西方很重要]]></title>
             <link>https://www.theatlantic.com/newsletters/archive/2022/04/chinas-lockdowns-matter-to-the-west/629553/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/ideas/archive/2022/03/biden-defense-budget-national-security/629412/?utm_source=feed</guid>
             <pubDate>Tue, 29 Mar 2022 14:24:22 GMT</pubDate>
             <description><![CDATA[Biden’s Defense Budget Sends the Wrong Message]]></description>
-        </item>
-        <item>
-            <title><![CDATA[利沃夫的一个地方，战争从未远离。]]></title>
-            <link>https://www.newyorker.com/news/dispatch/the-one-place-in-lviv-where-the-war-is-never-far-away</link>
-            <guid>https://www.newyorker.com/news/dispatch/the-one-place-in-lviv-where-the-war-is-never-far-away</guid>
-            <pubDate>Tue, 29 Mar 2022 12:30:31 GMT</pubDate>
-            <description><![CDATA[The One Place in Lviv Where the War Is Never Far Away]]></description>
         </item>
     </channel>
 </rss>

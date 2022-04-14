@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-13T21:32:12.909Z</updated>
+    <updated>2022-04-14T02:34:27.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個國際人群在文化的十字路口找到共同點]]></title>
+        <id>https://www.newyorker.com/video/watch/the-new-yorker-shorts-an-international-crowd-finds-common-ground-at-a-cultural-crossroad</id>
+        <link href="https://www.newyorker.com/video/watch/the-new-yorker-shorts-an-international-crowd-finds-common-ground-at-a-cultural-crossroad"/>
+        <updated>2022-04-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An International Crowd Finds Common Ground at a Cultural Crossroad]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中國的封鎖對西方很重要]]></title>
         <id>https://www.theatlantic.com/newsletters/archive/2022/04/chinas-lockdowns-matter-to-the-west/629553/?utm_source=feed</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Kori Schake</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[利沃夫的一個地方，戰爭從未遠離。]]></title>
-        <id>https://www.newyorker.com/news/dispatch/the-one-place-in-lviv-where-the-war-is-never-far-away</id>
-        <link href="https://www.newyorker.com/news/dispatch/the-one-place-in-lviv-where-the-war-is-never-far-away"/>
-        <updated>2022-03-29T12:30:31.000Z</updated>
-        <summary type="html"><![CDATA[The One Place in Lviv Where the War Is Never Far Away]]></summary>
-        <author>
-            <name>Keith Gessen</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
