@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 14 Apr 2022 18:38:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 21:33:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[拜登是如何在移民改革问题上跌倒的]]></title>
+            <link>https://www.newyorker.com/podcast/politics-and-more/how-biden-stumbled-on-immigration-reform</link>
+            <guid>https://www.newyorker.com/podcast/politics-and-more/how-biden-stumbled-on-immigration-reform</guid>
+            <pubDate>Thu, 14 Apr 2022 21:07:28 GMT</pubDate>
+            <description><![CDATA[How Biden Stumbled on Immigration Reform]]></description>
+        </item>
         <item>
             <title><![CDATA["MINX "的双重女性目光]]></title>
             <link>https://www.newyorker.com/culture/on-television/the-doubled-female-gaze-of-minx</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/politics/archive/2022/03/republican-fossil-fuels-renewable-energy/629420/?utm_source=feed</guid>
             <pubDate>Wed, 30 Mar 2022 09:00:56 GMT</pubDate>
             <description><![CDATA[The Green-Energy Culture Wars in Red States]]></description>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰的战争如何搅乱了Facebook和Instagram]]></title>
-            <link>https://www.nytimes.com/2022/03/30/technology/ukraine-russia-facebook-instagram.html</link>
-            <guid>https://www.nytimes.com/2022/03/30/technology/ukraine-russia-facebook-instagram.html</guid>
-            <pubDate>Wed, 30 Mar 2022 09:00:18 GMT</pubDate>
-            <description><![CDATA[How War in Ukraine Roiled Facebook and Instagram]]></description>
         </item>
     </channel>
 </rss>

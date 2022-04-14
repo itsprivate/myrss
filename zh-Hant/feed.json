@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/podcast/politics-and-more/how-biden-stumbled-on-immigration-reform",
+            "content_html": "",
+            "url": "https://www.newyorker.com/podcast/politics-and-more/how-biden-stumbled-on-immigration-reform",
+            "title": "拜登是如何在移民改革問題上跌倒的",
+            "summary": "How Biden Stumbled on Immigration Reform",
+            "date_modified": "2022-04-14T21:07:28.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/culture/on-television/the-doubled-female-gaze-of-minx",
             "content_html": "",
             "url": "https://www.newyorker.com/culture/on-television/the-doubled-female-gaze-of-minx",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Ronald Brownstein",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/30/technology/ukraine-russia-facebook-instagram.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/30/technology/ukraine-russia-facebook-instagram.html",
-            "title": "烏克蘭的戰爭如何攪亂了Facebook和Instagram",
-            "summary": "How War in Ukraine Roiled Facebook and Instagram",
-            "date_modified": "2022-03-30T09:00:18.000Z",
-            "author": {
-                "name": "Ryan Mac, Mike Isaac and Sheera Frenkel",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
     ]

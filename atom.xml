@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-14T18:38:14.403Z</updated>
+    <updated>2022-04-14T21:33:15.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[拜登是如何在移民改革问题上跌倒的]]></title>
+        <id>https://www.newyorker.com/podcast/politics-and-more/how-biden-stumbled-on-immigration-reform</id>
+        <link href="https://www.newyorker.com/podcast/politics-and-more/how-biden-stumbled-on-immigration-reform"/>
+        <updated>2022-04-14T21:07:28.000Z</updated>
+        <summary type="html"><![CDATA[How Biden Stumbled on Immigration Reform]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["MINX "的双重女性目光]]></title>
         <id>https://www.newyorker.com/culture/on-television/the-doubled-female-gaze-of-minx</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Ronald Brownstein</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰的战争如何搅乱了Facebook和Instagram]]></title>
-        <id>https://www.nytimes.com/2022/03/30/technology/ukraine-russia-facebook-instagram.html</id>
-        <link href="https://www.nytimes.com/2022/03/30/technology/ukraine-russia-facebook-instagram.html"/>
-        <updated>2022-03-30T09:00:18.000Z</updated>
-        <summary type="html"><![CDATA[How War in Ukraine Roiled Facebook and Instagram]]></summary>
-        <author>
-            <name>Ryan Mac, Mike Isaac and Sheera Frenkel</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>
