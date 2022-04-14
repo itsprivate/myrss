@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-14T13:50:34.767Z</updated>
+    <updated>2022-04-14T16:17:59.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[四月份的鏈接]]></title>
+        <id>https://astralcodexten.substack.com/p/links-for-april-644</id>
+        <link href="https://astralcodexten.substack.com/p/links-for-april-644"/>
+        <updated>2022-04-14T15:53:19.000Z</updated>
+        <summary type="html"><![CDATA[Links For April]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日漫畫。4月14日，星期四]]></title>
+        <id>https://www.newyorker.com/cartoons/daily-cartoon/thursday-april-14th-spring-sweets</id>
+        <link href="https://www.newyorker.com/cartoons/daily-cartoon/thursday-april-14th-spring-sweets"/>
+        <updated>2022-04-14T16:01:45.000Z</updated>
+        <summary type="html"><![CDATA[Daily Cartoon: Thursday, April 14th]]></summary>
+        <author>
+            <name>Matt Reuter</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[學生監控軟件是否指責你在考試中作弊？]]></title>
+        <id>https://www.nytimes.com/2022/04/14/technology/student-cheating-software.html</id>
+        <link href="https://www.nytimes.com/2022/04/14/technology/student-cheating-software.html"/>
+        <updated>2022-04-14T16:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Did Student-Monitoring Software Accuse You of Cheating on a Test?]]></summary>
+        <author>
+            <name>Kashmir Hill</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[變體名字又是怎麼回事？]]></title>
         <id>https://www.theatlantic.com/science/archive/2022/04/covid-variant-naming-omicron-ba2/629558/?utm_source=feed</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>Patrick McKenzie (patio11)</name>
             <uri>https://www.kalzumeus.com/feed/articles/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[應用商店支付的競爭將加劇]]></title>
-        <id>https://www.kalzumeus.com/2021/08/27/app-store-payment-competition/</id>
-        <link href="https://www.kalzumeus.com/2021/08/27/app-store-payment-competition/"/>
-        <updated>2021-08-27T15:25:00.000Z</updated>
-        <summary type="html"><![CDATA[App Store Payments Will Have Increased Competition]]></summary>
-        <author>
-            <name>Patrick McKenzie (patio11)</name>
-            <uri>https://www.kalzumeus.com/feed/articles/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[誰獲得了自決權？]]></title>
-        <id>https://astralcodexten.substack.com/p/who-gets-self-determination</id>
-        <link href="https://astralcodexten.substack.com/p/who-gets-self-determination"/>
-        <updated>2022-03-30T01:20:37.000Z</updated>
-        <summary type="html"><![CDATA[Who Gets Self-Determination?]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[各國要求Snap和TikTok給予家長對應用程序更多的控制權]]></title>
-        <id>https://www.nytimes.com/2022/03/29/technology/snapchat-tiktok-parental-control.html</id>
-        <link href="https://www.nytimes.com/2022/03/29/technology/snapchat-tiktok-parental-control.html"/>
-        <updated>2022-03-29T22:25:56.000Z</updated>
-        <summary type="html"><![CDATA[States Ask Snap and TikTok to Give Parents More Control Over Apps]]></summary>
-        <author>
-            <name>David McCabe</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>

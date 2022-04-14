@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 14 Apr 2022 13:50:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 16:17:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[四月份的链接]]></title>
+            <link>https://astralcodexten.substack.com/p/links-for-april-644</link>
+            <guid>https://astralcodexten.substack.com/p/links-for-april-644</guid>
+            <pubDate>Thu, 14 Apr 2022 15:53:19 GMT</pubDate>
+            <description><![CDATA[Links For April]]></description>
+        </item>
+        <item>
+            <title><![CDATA[每日漫画。4月14日，星期四]]></title>
+            <link>https://www.newyorker.com/cartoons/daily-cartoon/thursday-april-14th-spring-sweets</link>
+            <guid>https://www.newyorker.com/cartoons/daily-cartoon/thursday-april-14th-spring-sweets</guid>
+            <pubDate>Thu, 14 Apr 2022 16:01:45 GMT</pubDate>
+            <description><![CDATA[Daily Cartoon: Thursday, April 14th]]></description>
+        </item>
+        <item>
+            <title><![CDATA[学生监控软件是否指责你在考试中作弊？]]></title>
+            <link>https://www.nytimes.com/2022/04/14/technology/student-cheating-software.html</link>
+            <guid>https://www.nytimes.com/2022/04/14/technology/student-cheating-software.html</guid>
+            <pubDate>Thu, 14 Apr 2022 16:00:06 GMT</pubDate>
+            <description><![CDATA[Did Student-Monitoring Software Accuse You of Cheating on a Test?]]></description>
+        </item>
         <item>
             <title><![CDATA[变体名字又是怎么回事？]]></title>
             <link>https://www.theatlantic.com/science/archive/2022/04/covid-variant-naming-omicron-ba2/629558/?utm_source=feed</link>
@@ -4192,27 +4213,6 @@
             <guid>https://www.kalzumeus.com/2021/04/23/vaccinate-the-states/</guid>
             <pubDate>Sat, 24 Apr 2021 00:01:00 GMT</pubDate>
             <description><![CDATA[Solving The Vaccine Data Problem]]></description>
-        </item>
-        <item>
-            <title><![CDATA[应用商店支付的竞争将加剧]]></title>
-            <link>https://www.kalzumeus.com/2021/08/27/app-store-payment-competition/</link>
-            <guid>https://www.kalzumeus.com/2021/08/27/app-store-payment-competition/</guid>
-            <pubDate>Fri, 27 Aug 2021 15:25:00 GMT</pubDate>
-            <description><![CDATA[App Store Payments Will Have Increased Competition]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谁获得了自决权？]]></title>
-            <link>https://astralcodexten.substack.com/p/who-gets-self-determination</link>
-            <guid>https://astralcodexten.substack.com/p/who-gets-self-determination</guid>
-            <pubDate>Wed, 30 Mar 2022 01:20:37 GMT</pubDate>
-            <description><![CDATA[Who Gets Self-Determination?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[各国要求Snap和TikTok给予家长对应用程序更多的控制权]]></title>
-            <link>https://www.nytimes.com/2022/03/29/technology/snapchat-tiktok-parental-control.html</link>
-            <guid>https://www.nytimes.com/2022/03/29/technology/snapchat-tiktok-parental-control.html</guid>
-            <pubDate>Tue, 29 Mar 2022 22:25:56 GMT</pubDate>
-            <description><![CDATA[States Ask Snap and TikTok to Give Parents More Control Over Apps]]></description>
         </item>
     </channel>
 </rss>
