@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 14 Apr 2022 02:34:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 06:40:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Substack對世界有好處嗎？對作家來說，Substack值得嗎？]]></title>
+            <link>https://noahpinion.substack.com/p/is-substack-good-for-the-world-is</link>
+            <guid>https://noahpinion.substack.com/p/is-substack-good-for-the-world-is</guid>
+            <pubDate>Thu, 14 Apr 2022 06:32:16 GMT</pubDate>
+            <description><![CDATA[Is Substack good for the world? Is Substack worth it for writers?]]></description>
+        </item>
         <item>
             <title><![CDATA[一個國際人群在文化的十字路口找到共同點]]></title>
             <link>https://www.newyorker.com/video/watch/the-new-yorker-shorts-an-international-crowd-finds-common-ground-at-a-cultural-crossroad</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/ideas/archive/2022/03/trump-phone-calls-gap-january-6/629413/?utm_source=feed</guid>
             <pubDate>Tue, 29 Mar 2022 14:17:07 GMT</pubDate>
             <description><![CDATA[Seven Hours and 37 Minutes of Trump’s Guilt]]></description>
-        </item>
-        <item>
-            <title><![CDATA[拜登的國防預算髮出了錯誤的信息]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/biden-defense-budget-national-security/629412/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/biden-defense-budget-national-security/629412/?utm_source=feed</guid>
-            <pubDate>Tue, 29 Mar 2022 14:24:22 GMT</pubDate>
-            <description><![CDATA[Biden’s Defense Budget Sends the Wrong Message]]></description>
         </item>
     </channel>
 </rss>

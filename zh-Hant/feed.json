@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://noahpinion.substack.com/p/is-substack-good-for-the-world-is",
+            "content_html": "",
+            "url": "https://noahpinion.substack.com/p/is-substack-good-for-the-world-is",
+            "title": "Substack對世界有好處嗎？對作家來說，Substack值得嗎？",
+            "summary": "Is Substack good for the world? Is Substack worth it for writers?",
+            "date_modified": "2022-04-14T06:32:16.000Z",
+            "author": {
+                "name": "Noah Smith",
+                "url": "https://noahpinion.substack.com/feed"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/video/watch/the-new-yorker-shorts-an-international-crowd-finds-common-ground-at-a-cultural-crossroad",
             "content_html": "",
             "url": "https://www.newyorker.com/video/watch/the-new-yorker-shorts-an-international-crowd-finds-common-ground-at-a-cultural-crossroad",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-29T14:17:07.000Z",
             "author": {
                 "name": "David Frum",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/03/biden-defense-budget-national-security/629412/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/03/biden-defense-budget-national-security/629412/?utm_source=feed",
-            "title": "拜登的國防預算髮出了錯誤的信息",
-            "summary": "Biden’s Defense Budget Sends the Wrong Message",
-            "date_modified": "2022-03-29T14:24:22.000Z",
-            "author": {
-                "name": "Kori Schake",
                 "url": "https://www.theatlantic.com/feed/all/"
             }
         }
