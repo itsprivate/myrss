@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-14T22:45:54.742Z</updated>
+    <updated>2022-04-14T22:53:11.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[随心所欲地阅读!]]></title>
+        <id>https://austinkleon.substack.com/p/read-at-whim</id>
+        <link href="https://austinkleon.substack.com/p/read-at-whim"/>
+        <updated>2022-03-22T12:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Read at Whim!]]></summary>
+        <author>
+            <name>Austin Kleon</name>
+            <uri>https://austinkleon.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[埃隆-马斯克和公牛王国]]></title>
+        <id>https://www.theatlantic.com/technology/archive/2022/04/elon-musk-buy-twitter-billionaire-play-money/629573/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/technology/archive/2022/04/elon-musk-buy-twitter-billionaire-play-money/629573/?utm_source=feed"/>
+        <updated>2022-04-14T22:42:24.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk and the Kingdom of Bull]]></summary>
+        <author>
+            <name>Ian Bogost</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在西德的 "破碎的心俱乐部"，一个逃避的球员坠入爱河]]></title>
         <id>https://www.newyorker.com/culture/listening-booth/on-syds-broken-hearts-club-an-evasive-player-falls-in-love</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Olga Khazan</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[窥视一个恐惧、愤怒、想象的世界]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/ginni-thomas-mark-meadows-republican-religion/629415/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/ginni-thomas-mark-meadows-republican-religion/629415/?utm_source=feed"/>
-        <updated>2022-03-30T10:01:56.000Z</updated>
-        <summary type="html"><![CDATA[A Glimpse Into a Fearful, Angry, Imaginary World]]></summary>
-        <author>
-            <name>Peter Wehner</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一对父女体验记忆的魅力]]></title>
-        <id>https://www.newyorker.com/video/watch/the-new-yorker-shorts-a-father-and-daughter-experience-the-magic-of-memory</id>
-        <link href="https://www.newyorker.com/video/watch/the-new-yorker-shorts-a-father-and-daughter-experience-the-magic-of-memory"/>
-        <updated>2022-03-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A Father and Daughter Experience the Magic of Memory]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>

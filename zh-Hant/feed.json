@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://austinkleon.substack.com/p/read-at-whim",
+            "content_html": "",
+            "url": "https://austinkleon.substack.com/p/read-at-whim",
+            "title": "隨心所欲地閱讀!",
+            "summary": "Read at Whim!",
+            "date_modified": "2022-03-22T12:00:35.000Z",
+            "author": {
+                "name": "Austin Kleon",
+                "url": "https://austinkleon.substack.com/feed"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/technology/archive/2022/04/elon-musk-buy-twitter-billionaire-play-money/629573/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/technology/archive/2022/04/elon-musk-buy-twitter-billionaire-play-money/629573/?utm_source=feed",
+            "title": "埃隆-馬斯克和公牛王國",
+            "summary": "Elon Musk and the Kingdom of Bull",
+            "date_modified": "2022-04-14T22:42:24.000Z",
+            "author": {
+                "name": "Ian Bogost",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/culture/listening-booth/on-syds-broken-hearts-club-an-evasive-player-falls-in-love",
             "content_html": "",
             "url": "https://www.newyorker.com/culture/listening-booth/on-syds-broken-hearts-club-an-evasive-player-falls-in-love",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "Olga Khazan",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/03/ginni-thomas-mark-meadows-republican-religion/629415/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/03/ginni-thomas-mark-meadows-republican-religion/629415/?utm_source=feed",
-            "title": "窺視一個恐懼、憤怒、想象的世界",
-            "summary": "A Glimpse Into a Fearful, Angry, Imaginary World",
-            "date_modified": "2022-03-30T10:01:56.000Z",
-            "author": {
-                "name": "Peter Wehner",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/video/watch/the-new-yorker-shorts-a-father-and-daughter-experience-the-magic-of-memory",
-            "content_html": "",
-            "url": "https://www.newyorker.com/video/watch/the-new-yorker-shorts-a-father-and-daughter-experience-the-magic-of-memory",
-            "title": "一對父女體驗記憶的魅力",
-            "summary": "A Father and Daughter Experience the Magic of Memory",
-            "date_modified": "2022-03-30T10:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]
