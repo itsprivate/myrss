@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-14T22:15:40.221Z</updated>
+    <updated>2022-04-14T22:35:13.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在讀什麼？]]></title>
+        <id>https://austinkleon.substack.com/p/what-are-you-reading</id>
+        <link href="https://austinkleon.substack.com/p/what-are-you-reading"/>
+        <updated>2022-03-22T11:00:34.000Z</updated>
+        <summary type="html"><![CDATA[What are you reading?]]></summary>
+        <author>
+            <name>Austin Kleon</name>
+            <uri>https://austinkleon.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[被指控的布魯克林地鐵槍手的嚴峻歷程]]></title>
         <id>https://www.newyorker.com/news/news-desk/the-grim-journey-of-the-accused-brooklyn-subway-shooter</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[The Crossword: Wednesday, March 30, 2022]]></summary>
         <author>
             <name>Brooke Husic</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[落名：2022年3月30日，星期三]]></title>
-        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/30</id>
-        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/30"/>
-        <updated>2022-03-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Name Drop: Wednesday, March 30, 2022]]></summary>
-        <author>
-            <name>Liz Maynes-Aminzade</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
