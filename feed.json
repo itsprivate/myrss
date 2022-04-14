@@ -19,6 +19,30 @@
             "date_modified": "2022-04-14T21:31:51.000Z",
             "author": {
                 "name": "John Cassidy",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/culture/the-front-row/it-is-hard-to-do-a-sex-scene-right-and-paris-13th-district-doesnt-really-try",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/the-front-row/it-is-hard-to-do-a-sex-scene-right-and-paris-13th-district-doesnt-really-try",
+            "title": "做好一个性爱场景是很难的，而《巴黎十三区》并没有真正尝试",
+            "summary": "It Is Hard to Do a Sex Scene Right, and “Paris, 13th District” Doesn’t Really Try",
+            "date_modified": "2022-04-14T21:34:00.000Z",
+            "author": {
+                "name": "Richard Brody",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/our-columnists/the-case-for-an-immediate-energy-embargo-on-russia",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/our-columnists/the-case-for-an-immediate-energy-embargo-on-russia",
+            "title": "立即对俄罗斯实施能源禁运的理由",
+            "summary": "The Case for an Immediate Energy Embargo on Russia",
+            "date_modified": "2022-04-14T21:31:51.000Z",
+            "author": {
+                "name": "John Cassidy",
                 "url": "https://www.newyorker.com/feed/news"
             }
         },
@@ -7183,30 +7207,6 @@
             "date_modified": "2022-03-30T10:00:00.000Z",
             "author": {
                 "name": "Jonathan Zeller",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/culture-desk/growing-old-with-superchunk",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/culture-desk/growing-old-with-superchunk",
-            "title": "与Superchunk一起变老",
-            "summary": "Growing Old with Superchunk",
-            "date_modified": "2022-03-30T10:00:00.000Z",
-            "author": {
-                "name": "Craig Morgan Teicher",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/photo-booth/the-power-of-portraits-with-hidden-faces",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/photo-booth/the-power-of-portraits-with-hidden-faces",
-            "title": "隐藏面孔的肖像画的力量",
-            "summary": "The Power of Portraits with Hidden Faces",
-            "date_modified": "2022-03-30T10:00:00.000Z",
-            "author": {
-                "name": "Ana Karina Zatarain",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

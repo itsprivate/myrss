@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-14T21:42:50.308Z</updated>
+    <updated>2022-04-14T21:52:24.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[立即對俄羅斯實施能源禁運的理由]]></title>
+        <id>https://www.newyorker.com/news/our-columnists/the-case-for-an-immediate-energy-embargo-on-russia</id>
+        <link href="https://www.newyorker.com/news/our-columnists/the-case-for-an-immediate-energy-embargo-on-russia"/>
+        <updated>2022-04-14T21:31:51.000Z</updated>
+        <summary type="html"><![CDATA[The Case for an Immediate Energy Embargo on Russia]]></summary>
+        <author>
+            <name>John Cassidy</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[做好一個性愛場景是很難的，而《巴黎十三區》並沒有真正嘗試]]></title>
+        <id>https://www.newyorker.com/culture/the-front-row/it-is-hard-to-do-a-sex-scene-right-and-paris-13th-district-doesnt-really-try</id>
+        <link href="https://www.newyorker.com/culture/the-front-row/it-is-hard-to-do-a-sex-scene-right-and-paris-13th-district-doesnt-really-try"/>
+        <updated>2022-04-14T21:34:00.000Z</updated>
+        <summary type="html"><![CDATA[It Is Hard to Do a Sex Scene Right, and “Paris, 13th District” Doesn’t Really Try]]></summary>
+        <author>
+            <name>Richard Brody</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[立即對俄羅斯實施能源禁運的理由]]></title>
         <id>https://www.newyorker.com/news/our-columnists/the-case-for-an-immediate-energy-embargo-on-russia</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[If Democrats Want to Win in 2022, They Must Focus on Weezer: An Op-Ed by the President of the Weezer Appreciation Society]]></summary>
         <author>
             <name>Jonathan Zeller</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[與Superchunk一起變老]]></title>
-        <id>https://www.newyorker.com/culture/culture-desk/growing-old-with-superchunk</id>
-        <link href="https://www.newyorker.com/culture/culture-desk/growing-old-with-superchunk"/>
-        <updated>2022-03-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Growing Old with Superchunk]]></summary>
-        <author>
-            <name>Craig Morgan Teicher</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隱藏面孔的肖像畫的力量]]></title>
-        <id>https://www.newyorker.com/culture/photo-booth/the-power-of-portraits-with-hidden-faces</id>
-        <link href="https://www.newyorker.com/culture/photo-booth/the-power-of-portraits-with-hidden-faces"/>
-        <updated>2022-03-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Power of Portraits with Hidden Faces]]></summary>
-        <author>
-            <name>Ana Karina Zatarain</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

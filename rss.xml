@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 14 Apr 2022 21:42:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 21:52:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[立即对俄罗斯实施能源禁运的理由]]></title>
+            <link>https://www.newyorker.com/news/our-columnists/the-case-for-an-immediate-energy-embargo-on-russia</link>
+            <guid>https://www.newyorker.com/news/our-columnists/the-case-for-an-immediate-energy-embargo-on-russia</guid>
+            <pubDate>Thu, 14 Apr 2022 21:31:51 GMT</pubDate>
+            <description><![CDATA[The Case for an Immediate Energy Embargo on Russia]]></description>
+        </item>
+        <item>
+            <title><![CDATA[做好一个性爱场景是很难的，而《巴黎十三区》并没有真正尝试]]></title>
+            <link>https://www.newyorker.com/culture/the-front-row/it-is-hard-to-do-a-sex-scene-right-and-paris-13th-district-doesnt-really-try</link>
+            <guid>https://www.newyorker.com/culture/the-front-row/it-is-hard-to-do-a-sex-scene-right-and-paris-13th-district-doesnt-really-try</guid>
+            <pubDate>Thu, 14 Apr 2022 21:34:00 GMT</pubDate>
+            <description><![CDATA[It Is Hard to Do a Sex Scene Right, and “Paris, 13th District” Doesn’t Really Try]]></description>
+        </item>
         <item>
             <title><![CDATA[立即对俄罗斯实施能源禁运的理由]]></title>
             <link>https://www.newyorker.com/news/our-columnists/the-case-for-an-immediate-energy-embargo-on-russia</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/humor/daily-shouts/if-democrats-want-to-win-in-2022-they-must-focus-on-weezer-an-op-ed-by-the-president-of-the-weezer-appreciation-society</guid>
             <pubDate>Wed, 30 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[If Democrats Want to Win in 2022, They Must Focus on Weezer: An Op-Ed by the President of the Weezer Appreciation Society]]></description>
-        </item>
-        <item>
-            <title><![CDATA[与Superchunk一起变老]]></title>
-            <link>https://www.newyorker.com/culture/culture-desk/growing-old-with-superchunk</link>
-            <guid>https://www.newyorker.com/culture/culture-desk/growing-old-with-superchunk</guid>
-            <pubDate>Wed, 30 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Growing Old with Superchunk]]></description>
-        </item>
-        <item>
-            <title><![CDATA[隐藏面孔的肖像画的力量]]></title>
-            <link>https://www.newyorker.com/culture/photo-booth/the-power-of-portraits-with-hidden-faces</link>
-            <guid>https://www.newyorker.com/culture/photo-booth/the-power-of-portraits-with-hidden-faces</guid>
-            <pubDate>Wed, 30 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Power of Portraits with Hidden Faces]]></description>
         </item>
     </channel>
 </rss>
