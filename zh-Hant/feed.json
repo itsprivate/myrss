@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/technology/archive/2022/04/elon-musk-twitter-takeover-stock/629574/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/technology/archive/2022/04/elon-musk-twitter-takeover-stock/629574/?utm_source=feed",
+            "title": "埃隆-馬斯克將在推特上全面開展未來文明的活動？",
+            "summary": "Will Elon Musk Go Full Future-of-Civilization on Twitter?",
+            "date_modified": "2022-04-14T23:03:19.000Z",
+            "author": {
+                "name": "Marina Koren",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://austinkleon.substack.com/p/read-at-whim",
             "content_html": "",
             "url": "https://austinkleon.substack.com/p/read-at-whim",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-30T12:01:40.000Z",
             "author": {
                 "name": "Brittney Scott",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/politics/archive/2022/03/antisocial-behavior-crime-violence-increase-pandemic/627076/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/politics/archive/2022/03/antisocial-behavior-crime-violence-increase-pandemic/627076/?utm_source=feed",
-            "title": "大流行病是如何破壞社會互動的",
-            "summary": "How the Pandemic Broke Social Interaction",
-            "date_modified": "2022-03-30T11:00:58.000Z",
-            "author": {
-                "name": "Olga Khazan",
                 "url": "https://www.theatlantic.com/feed/all/"
             }
         }
