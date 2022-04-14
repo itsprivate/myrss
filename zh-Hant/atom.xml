@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-14T10:39:06.011Z</updated>
+    <updated>2022-04-14T11:13:12.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[性教育是疏導的反義詞]]></title>
+        <id>https://www.theatlantic.com/politics/archive/2022/04/school-sex-education-grooming-protecting-kids/629556/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/politics/archive/2022/04/school-sex-education-grooming-protecting-kids/629556/?utm_source=feed"/>
+        <updated>2022-04-14T11:01:56.000Z</updated>
+        <summary type="html"><![CDATA[Sex Ed Is the Opposite of Grooming]]></summary>
+        <author>
+            <name>Olga Khazan</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gopuff為其30分鐘或更短的交付承諾爭取時間]]></title>
         <id>https://www.nytimes.com/2022/04/14/technology/gopuff-delivery.html</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Isaac Chotiner</name>
             <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭的談判解決方案可能是什麼樣子的]]></title>
-        <id>https://www.newyorker.com/news/q-and-a/what-a-negotiated-solution-in-ukraine-might-look-like</id>
-        <link href="https://www.newyorker.com/news/q-and-a/what-a-negotiated-solution-in-ukraine-might-look-like"/>
-        <updated>2022-03-29T21:16:10.000Z</updated>
-        <summary type="html"><![CDATA[What a Negotiated Solution in Ukraine Might Look Like]]></summary>
-        <author>
-            <name>Isaac Chotiner</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
