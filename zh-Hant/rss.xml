@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 14 Apr 2022 10:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 10:39:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Gopuff為其30分鐘或更短的交付承諾爭取時間]]></title>
+            <link>https://www.nytimes.com/2022/04/14/technology/gopuff-delivery.html</link>
+            <guid>https://www.nytimes.com/2022/04/14/technology/gopuff-delivery.html</guid>
+            <pubDate>Thu, 14 Apr 2022 09:00:23 GMT</pubDate>
+            <description><![CDATA[Gopuff Buys Time for Its 30-Minutes-or-Less Delivery Promise]]></description>
+        </item>
+        <item>
+            <title><![CDATA[俄羅斯對平民的暴行實際上是獨一無二的嗎？]]></title>
+            <link>https://www.currentaffairs.org/2022/03/is-russian-brutality-toward-civilians-actually-unique/</link>
+            <guid>https://www.currentaffairs.org/2022/03/is-russian-brutality-toward-civilians-actually-unique/</guid>
+            <pubDate>Mon, 21 Mar 2022 14:55:18 GMT</pubDate>
+            <description><![CDATA[Is Russian Brutality Toward Civilians Actually Unique?]]></description>
+        </item>
         <item>
             <title><![CDATA[填字遊戲: 2022年4月14日，星期四]]></title>
             <link>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/14</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/news/q-and-a/what-a-negotiated-solution-in-ukraine-might-look-like</guid>
             <pubDate>Tue, 29 Mar 2022 21:16:10 GMT</pubDate>
             <description><![CDATA[What a Negotiated Solution in Ukraine Might Look Like]]></description>
-        </item>
-        <item>
-            <title><![CDATA[兒童的COVID疫苗需要多好？]]></title>
-            <link>https://www.theatlantic.com/health/archive/2022/03/how-effective-are-kids-covid-vaccines/629419/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/health/archive/2022/03/how-effective-are-kids-covid-vaccines/629419/?utm_source=feed</guid>
-            <pubDate>Tue, 29 Mar 2022 20:15:32 GMT</pubDate>
-            <description><![CDATA[How Good Do Kids’ COVID Vaccines Need to Be?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[特朗普稱1月6日的電話有7個小時的空檔，原因是發現號上的鯊魚馬拉松]]></title>
-            <link>https://www.newyorker.com/humor/borowitz-report/trump-says-seven-hour-gap-in-january-6th-phone-calls-due-to-shark-marathon-on-discovery</link>
-            <guid>https://www.newyorker.com/humor/borowitz-report/trump-says-seven-hour-gap-in-january-6th-phone-calls-due-to-shark-marathon-on-discovery</guid>
-            <pubDate>Tue, 29 Mar 2022 17:13:50 GMT</pubDate>
-            <description><![CDATA[Trump Says Seven-Hour Gap in January 6th Phone Calls Due to Shark Marathon on Discovery]]></description>
         </item>
     </channel>
 </rss>

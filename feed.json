@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/14/technology/gopuff-delivery.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/14/technology/gopuff-delivery.html",
+            "title": "Gopuff为其30分钟或更短的交付承诺争取时间",
+            "summary": "Gopuff Buys Time for Its 30-Minutes-or-Less Delivery Promise",
+            "date_modified": "2022-04-14T09:00:23.000Z",
+            "author": {
+                "name": "Erin Woo",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.currentaffairs.org/2022/03/is-russian-brutality-toward-civilians-actually-unique/",
+            "content_html": "",
+            "url": "https://www.currentaffairs.org/2022/03/is-russian-brutality-toward-civilians-actually-unique/",
+            "title": "俄罗斯对平民的暴行实际上是独一无二的吗？",
+            "summary": "Is Russian Brutality Toward Civilians Actually Unique?",
+            "date_modified": "2022-03-21T14:55:18.000Z",
+            "author": {
+                "name": "Nathan J. Robinson",
+                "url": "https://www.currentaffairs.org/feed"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/14",
             "content_html": "",
             "url": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/14",
@@ -7183,30 +7207,6 @@
             "date_modified": "2022-03-29T21:16:10.000Z",
             "author": {
                 "name": "Isaac Chotiner",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/health/archive/2022/03/how-effective-are-kids-covid-vaccines/629419/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/health/archive/2022/03/how-effective-are-kids-covid-vaccines/629419/?utm_source=feed",
-            "title": "儿童的COVID疫苗需要多好？",
-            "summary": "How Good Do Kids’ COVID Vaccines Need to Be?",
-            "date_modified": "2022-03-29T20:15:32.000Z",
-            "author": {
-                "name": "Katherine J. Wu",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/humor/borowitz-report/trump-says-seven-hour-gap-in-january-6th-phone-calls-due-to-shark-marathon-on-discovery",
-            "content_html": "",
-            "url": "https://www.newyorker.com/humor/borowitz-report/trump-says-seven-hour-gap-in-january-6th-phone-calls-due-to-shark-marathon-on-discovery",
-            "title": "特朗普称1月6日的电话有7个小时的空档，原因是发现号上的鲨鱼马拉松",
-            "summary": "Trump Says Seven-Hour Gap in January 6th Phone Calls Due to Shark Marathon on Discovery",
-            "date_modified": "2022-03-29T17:13:50.000Z",
-            "author": {
-                "name": "Andy Borowitz",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

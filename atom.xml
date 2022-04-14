@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-14T10:16:04.267Z</updated>
+    <updated>2022-04-14T10:39:05.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Gopuff为其30分钟或更短的交付承诺争取时间]]></title>
+        <id>https://www.nytimes.com/2022/04/14/technology/gopuff-delivery.html</id>
+        <link href="https://www.nytimes.com/2022/04/14/technology/gopuff-delivery.html"/>
+        <updated>2022-04-14T09:00:23.000Z</updated>
+        <summary type="html"><![CDATA[Gopuff Buys Time for Its 30-Minutes-or-Less Delivery Promise]]></summary>
+        <author>
+            <name>Erin Woo</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯对平民的暴行实际上是独一无二的吗？]]></title>
+        <id>https://www.currentaffairs.org/2022/03/is-russian-brutality-toward-civilians-actually-unique/</id>
+        <link href="https://www.currentaffairs.org/2022/03/is-russian-brutality-toward-civilians-actually-unique/"/>
+        <updated>2022-03-21T14:55:18.000Z</updated>
+        <summary type="html"><![CDATA[Is Russian Brutality Toward Civilians Actually Unique?]]></summary>
+        <author>
+            <name>Nathan J. Robinson</name>
+            <uri>https://www.currentaffairs.org/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[填字游戏: 2022年4月14日，星期四]]></title>
         <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/14</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[What a Negotiated Solution in Ukraine Might Look Like]]></summary>
         <author>
             <name>Isaac Chotiner</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[儿童的COVID疫苗需要多好？]]></title>
-        <id>https://www.theatlantic.com/health/archive/2022/03/how-effective-are-kids-covid-vaccines/629419/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/health/archive/2022/03/how-effective-are-kids-covid-vaccines/629419/?utm_source=feed"/>
-        <updated>2022-03-29T20:15:32.000Z</updated>
-        <summary type="html"><![CDATA[How Good Do Kids’ COVID Vaccines Need to Be?]]></summary>
-        <author>
-            <name>Katherine J. Wu</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普称1月6日的电话有7个小时的空档，原因是发现号上的鲨鱼马拉松]]></title>
-        <id>https://www.newyorker.com/humor/borowitz-report/trump-says-seven-hour-gap-in-january-6th-phone-calls-due-to-shark-marathon-on-discovery</id>
-        <link href="https://www.newyorker.com/humor/borowitz-report/trump-says-seven-hour-gap-in-january-6th-phone-calls-due-to-shark-marathon-on-discovery"/>
-        <updated>2022-03-29T17:13:50.000Z</updated>
-        <summary type="html"><![CDATA[Trump Says Seven-Hour Gap in January 6th Phone Calls Due to Shark Marathon on Discovery]]></summary>
-        <author>
-            <name>Andy Borowitz</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
