@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-14T22:35:13.185Z</updated>
+    <updated>2022-04-14T22:45:54.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在西德的 "破碎的心俱乐部"，一个逃避的球员坠入爱河]]></title>
+        <id>https://www.newyorker.com/culture/listening-booth/on-syds-broken-hearts-club-an-evasive-player-falls-in-love</id>
+        <link href="https://www.newyorker.com/culture/listening-booth/on-syds-broken-hearts-club-an-evasive-player-falls-in-love"/>
+        <updated>2022-04-14T22:26:49.000Z</updated>
+        <summary type="html"><![CDATA[On Syd’s “Broken Hearts Club,” an Evasive Player Falls in Love]]></summary>
+        <author>
+            <name>Sheldon Pearce</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你在读什么？]]></title>
         <id>https://austinkleon.substack.com/p/what-are-you-reading</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[A Father and Daughter Experience the Magic of Memory]]></summary>
         <author>
             <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[填字游戏: 2022年3月30日，星期三]]></title>
-        <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/30</id>
-        <link href="https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/30"/>
-        <updated>2022-03-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Crossword: Wednesday, March 30, 2022]]></summary>
-        <author>
-            <name>Brooke Husic</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

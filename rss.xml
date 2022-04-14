@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 14 Apr 2022 22:35:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 22:45:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在西德的 "破碎的心俱乐部"，一个逃避的球员坠入爱河]]></title>
+            <link>https://www.newyorker.com/culture/listening-booth/on-syds-broken-hearts-club-an-evasive-player-falls-in-love</link>
+            <guid>https://www.newyorker.com/culture/listening-booth/on-syds-broken-hearts-club-an-evasive-player-falls-in-love</guid>
+            <pubDate>Thu, 14 Apr 2022 22:26:49 GMT</pubDate>
+            <description><![CDATA[On Syd’s “Broken Hearts Club,” an Evasive Player Falls in Love]]></description>
+        </item>
         <item>
             <title><![CDATA[你在读什么？]]></title>
             <link>https://austinkleon.substack.com/p/what-are-you-reading</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/video/watch/the-new-yorker-shorts-a-father-and-daughter-experience-the-magic-of-memory</guid>
             <pubDate>Wed, 30 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[A Father and Daughter Experience the Magic of Memory]]></description>
-        </item>
-        <item>
-            <title><![CDATA[填字游戏: 2022年3月30日，星期三]]></title>
-            <link>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/30</link>
-            <guid>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/30</guid>
-            <pubDate>Wed, 30 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Crossword: Wednesday, March 30, 2022]]></description>
         </item>
     </channel>
 </rss>
