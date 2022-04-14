@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-14T21:33:15.713Z</updated>
+    <updated>2022-04-14T21:42:50.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[立即對俄羅斯實施能源禁運的理由]]></title>
+        <id>https://www.newyorker.com/news/our-columnists/the-case-for-an-immediate-energy-embargo-on-russia</id>
+        <link href="https://www.newyorker.com/news/our-columnists/the-case-for-an-immediate-energy-embargo-on-russia"/>
+        <updated>2022-04-14T21:31:51.000Z</updated>
+        <summary type="html"><![CDATA[The Case for an Immediate Energy Embargo on Russia]]></summary>
+        <author>
+            <name>John Cassidy</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[做好一個性愛場景是很難的，而《巴黎十三區》並沒有真正嘗試]]></title>
+        <id>https://www.newyorker.com/culture/the-front-row/it-is-hard-to-do-a-sex-scene-right-and-paris-13th-district-doesnt-really-try</id>
+        <link href="https://www.newyorker.com/culture/the-front-row/it-is-hard-to-do-a-sex-scene-right-and-paris-13th-district-doesnt-really-try"/>
+        <updated>2022-04-14T21:34:00.000Z</updated>
+        <summary type="html"><![CDATA[It Is Hard to Do a Sex Scene Right, and “Paris, 13th District” Doesn’t Really Try]]></summary>
+        <author>
+            <name>Richard Brody</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拜登是如何在移民改革問題上跌倒的]]></title>
         <id>https://www.newyorker.com/podcast/politics-and-more/how-biden-stumbled-on-immigration-reform</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Ana Karina Zatarain</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在 "紀念品 "中對記憶進行定格動畫之旅]]></title>
-        <id>https://www.newyorker.com/culture/screening-room/a-stop-motion-tour-of-memory-in-souvenir</id>
-        <link href="https://www.newyorker.com/culture/screening-room/a-stop-motion-tour-of-memory-in-souvenir"/>
-        <updated>2022-03-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A Stop-Motion Tour of Memory in “Souvenir”]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[紅州的綠色能源文化戰爭]]></title>
-        <id>https://www.theatlantic.com/politics/archive/2022/03/republican-fossil-fuels-renewable-energy/629420/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/politics/archive/2022/03/republican-fossil-fuels-renewable-energy/629420/?utm_source=feed"/>
-        <updated>2022-03-30T09:00:56.000Z</updated>
-        <summary type="html"><![CDATA[The Green-Energy Culture Wars in Red States]]></summary>
-        <author>
-            <name>Ronald Brownstein</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>

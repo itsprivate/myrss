@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 14 Apr 2022 21:33:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 21:42:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[立即對俄羅斯實施能源禁運的理由]]></title>
+            <link>https://www.newyorker.com/news/our-columnists/the-case-for-an-immediate-energy-embargo-on-russia</link>
+            <guid>https://www.newyorker.com/news/our-columnists/the-case-for-an-immediate-energy-embargo-on-russia</guid>
+            <pubDate>Thu, 14 Apr 2022 21:31:51 GMT</pubDate>
+            <description><![CDATA[The Case for an Immediate Energy Embargo on Russia]]></description>
+        </item>
+        <item>
+            <title><![CDATA[做好一個性愛場景是很難的，而《巴黎十三區》並沒有真正嘗試]]></title>
+            <link>https://www.newyorker.com/culture/the-front-row/it-is-hard-to-do-a-sex-scene-right-and-paris-13th-district-doesnt-really-try</link>
+            <guid>https://www.newyorker.com/culture/the-front-row/it-is-hard-to-do-a-sex-scene-right-and-paris-13th-district-doesnt-really-try</guid>
+            <pubDate>Thu, 14 Apr 2022 21:34:00 GMT</pubDate>
+            <description><![CDATA[It Is Hard to Do a Sex Scene Right, and “Paris, 13th District” Doesn’t Really Try]]></description>
+        </item>
         <item>
             <title><![CDATA[拜登是如何在移民改革問題上跌倒的]]></title>
             <link>https://www.newyorker.com/podcast/politics-and-more/how-biden-stumbled-on-immigration-reform</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/culture/photo-booth/the-power-of-portraits-with-hidden-faces</guid>
             <pubDate>Wed, 30 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[The Power of Portraits with Hidden Faces]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在 "紀念品 "中對記憶進行定格動畫之旅]]></title>
-            <link>https://www.newyorker.com/culture/screening-room/a-stop-motion-tour-of-memory-in-souvenir</link>
-            <guid>https://www.newyorker.com/culture/screening-room/a-stop-motion-tour-of-memory-in-souvenir</guid>
-            <pubDate>Wed, 30 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[A Stop-Motion Tour of Memory in “Souvenir”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[紅州的綠色能源文化戰爭]]></title>
-            <link>https://www.theatlantic.com/politics/archive/2022/03/republican-fossil-fuels-renewable-energy/629420/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/politics/archive/2022/03/republican-fossil-fuels-renewable-energy/629420/?utm_source=feed</guid>
-            <pubDate>Wed, 30 Mar 2022 09:00:56 GMT</pubDate>
-            <description><![CDATA[The Green-Energy Culture Wars in Red States]]></description>
         </item>
     </channel>
 </rss>
