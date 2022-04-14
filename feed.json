@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/14/technology/elon-musk-is-a-digital-citizen-kane.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/14/technology/elon-musk-is-a-digital-citizen-kane.html",
+            "title": "埃隆-马斯克是一位数字公民凯恩",
+            "summary": "Elon Musk Is a Digital Citizen Kane",
+            "date_modified": "2022-04-14T16:52:28.000Z",
+            "author": {
+                "name": "Shira Ovide",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/family/archive/2022/04/naming-objects-psychology/629561/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/family/archive/2022/04/naming-objects-psychology/629561/?utm_source=feed",
@@ -7193,18 +7205,6 @@
             "title": "丢弃哈希值：一个用来证明文件出处的习惯用语",
             "summary": "Dropping hashes: an idiom used to demonstrate provenance of documents",
             "date_modified": "2020-04-21T12:45:00.000Z",
-            "author": {
-                "name": "Patrick McKenzie (patio11)",
-                "url": "https://www.kalzumeus.com/feed/articles/"
-            }
-        },
-        {
-            "id": "https://www.kalzumeus.com/2020/04/21/japan-coronavirus/",
-            "content_html": "",
-            "url": "https://www.kalzumeus.com/2020/04/21/japan-coronavirus/",
-            "title": "关于冠状病毒的预登记结果的最新情况",
-            "summary": "An update on a pre-registered result about the coronavirus",
-            "date_modified": "2020-04-21T13:00:00.000Z",
             "author": {
                 "name": "Patrick McKenzie (patio11)",
                 "url": "https://www.kalzumeus.com/feed/articles/"

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 14 Apr 2022 16:53:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 17:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[埃隆-馬斯克是一位數字公民凱恩]]></title>
+            <link>https://www.nytimes.com/2022/04/14/technology/elon-musk-is-a-digital-citizen-kane.html</link>
+            <guid>https://www.nytimes.com/2022/04/14/technology/elon-musk-is-a-digital-citizen-kane.html</guid>
+            <pubDate>Thu, 14 Apr 2022 16:52:28 GMT</pubDate>
+            <description><![CDATA[Elon Musk Is a Digital Citizen Kane]]></description>
+        </item>
         <item>
             <title><![CDATA[人們為什麼給自己的東西起名字]]></title>
             <link>https://www.theatlantic.com/family/archive/2022/04/naming-objects-psychology/629561/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.kalzumeus.com/essays/dropping-hashes/</guid>
             <pubDate>Tue, 21 Apr 2020 12:45:00 GMT</pubDate>
             <description><![CDATA[Dropping hashes: an idiom used to demonstrate provenance of documents]]></description>
-        </item>
-        <item>
-            <title><![CDATA[關於冠狀病毒的預登記結果的最新情況]]></title>
-            <link>https://www.kalzumeus.com/2020/04/21/japan-coronavirus/</link>
-            <guid>https://www.kalzumeus.com/2020/04/21/japan-coronavirus/</guid>
-            <pubDate>Tue, 21 Apr 2020 13:00:00 GMT</pubDate>
-            <description><![CDATA[An update on a pre-registered result about the coronavirus]]></description>
         </item>
     </channel>
 </rss>

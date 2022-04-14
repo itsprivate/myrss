@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-14T16:53:01.355Z</updated>
+    <updated>2022-04-14T17:22:08.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[埃隆-马斯克是一位数字公民凯恩]]></title>
+        <id>https://www.nytimes.com/2022/04/14/technology/elon-musk-is-a-digital-citizen-kane.html</id>
+        <link href="https://www.nytimes.com/2022/04/14/technology/elon-musk-is-a-digital-citizen-kane.html"/>
+        <updated>2022-04-14T16:52:28.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk Is a Digital Citizen Kane]]></summary>
+        <author>
+            <name>Shira Ovide</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人们为什么给自己的东西起名字]]></title>
         <id>https://www.theatlantic.com/family/archive/2022/04/naming-objects-psychology/629561/?utm_source=feed</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.kalzumeus.com/essays/dropping-hashes/"/>
         <updated>2020-04-21T12:45:00.000Z</updated>
         <summary type="html"><![CDATA[Dropping hashes: an idiom used to demonstrate provenance of documents]]></summary>
-        <author>
-            <name>Patrick McKenzie (patio11)</name>
-            <uri>https://www.kalzumeus.com/feed/articles/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于冠状病毒的预登记结果的最新情况]]></title>
-        <id>https://www.kalzumeus.com/2020/04/21/japan-coronavirus/</id>
-        <link href="https://www.kalzumeus.com/2020/04/21/japan-coronavirus/"/>
-        <updated>2020-04-21T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[An update on a pre-registered result about the coronavirus]]></summary>
         <author>
             <name>Patrick McKenzie (patio11)</name>
             <uri>https://www.kalzumeus.com/feed/articles/</uri>
