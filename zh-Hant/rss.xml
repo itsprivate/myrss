@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 14 Apr 2022 06:40:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 08:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[<em>實驗</em>廣播。我們應該把國家公園還給美國原住民嗎？]]></title>
+            <link>https://www.theatlantic.com/podcasts/archive/2022/04/us-national-parks-native-american-tribes/629552/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/podcasts/archive/2022/04/us-national-parks-native-american-tribes/629552/?utm_source=feed</guid>
+            <pubDate>Thu, 14 Apr 2022 08:00:56 GMT</pubDate>
+            <description><![CDATA[<em>The Experiment </em>Podcast: Should We Return National Parks to Native Americans?]]></description>
+        </item>
         <item>
             <title><![CDATA[Substack對世界有好處嗎？對作家來說，Substack值得嗎？]]></title>
             <link>https://noahpinion.substack.com/p/is-substack-good-for-the-world-is</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/news/letter-from-the-southwest/shuffleboard-and-river-cruises-with-the-winter-texans</guid>
             <pubDate>Tue, 29 Mar 2022 14:56:59 GMT</pubDate>
             <description><![CDATA[Shuffleboard and River Cruises with the Winter Texans]]></description>
-        </item>
-        <item>
-            <title><![CDATA[特朗普內疚的7小時37分鐘]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/trump-phone-calls-gap-january-6/629413/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/trump-phone-calls-gap-january-6/629413/?utm_source=feed</guid>
-            <pubDate>Tue, 29 Mar 2022 14:17:07 GMT</pubDate>
-            <description><![CDATA[Seven Hours and 37 Minutes of Trump’s Guilt]]></description>
         </item>
     </channel>
 </rss>

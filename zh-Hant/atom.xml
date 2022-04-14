@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-14T06:40:34.241Z</updated>
+    <updated>2022-04-14T08:18:28.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[<em>實驗</em>廣播。我們應該把國家公園還給美國原住民嗎？]]></title>
+        <id>https://www.theatlantic.com/podcasts/archive/2022/04/us-national-parks-native-american-tribes/629552/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/podcasts/archive/2022/04/us-national-parks-native-american-tribes/629552/?utm_source=feed"/>
+        <updated>2022-04-14T08:00:56.000Z</updated>
+        <summary type="html"><![CDATA[<em>The Experiment </em>Podcast: Should We Return National Parks to Native Americans?]]></summary>
+        <author>
+            <name>The Atlantic</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Substack對世界有好處嗎？對作家來說，Substack值得嗎？]]></title>
         <id>https://noahpinion.substack.com/p/is-substack-good-for-the-world-is</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Rachel Monroe</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普內疚的7小時37分鐘]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/trump-phone-calls-gap-january-6/629413/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/trump-phone-calls-gap-january-6/629413/?utm_source=feed"/>
-        <updated>2022-03-29T14:17:07.000Z</updated>
-        <summary type="html"><![CDATA[Seven Hours and 37 Minutes of Trump’s Guilt]]></summary>
-        <author>
-            <name>David Frum</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
