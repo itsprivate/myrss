@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 14 Apr 2022 08:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 09:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Gopuff為其30分鐘或更短的交付承諾爭取時間]]></title>
+            <link>https://www.nytimes.com/2022/04/14/technology/gopuff-rapid-deliveries-challenges.html</link>
+            <guid>https://www.nytimes.com/2022/04/14/technology/gopuff-rapid-deliveries-challenges.html</guid>
+            <pubDate>Thu, 14 Apr 2022 09:00:22 GMT</pubDate>
+            <description><![CDATA[Gopuff Buys Time for Its 30-Minutes-or-Less Delivery Promise]]></description>
+        </item>
         <item>
             <title><![CDATA[<em>實驗</em>廣播。我們應該把國家公園還給美國原住民嗎？]]></title>
             <link>https://www.theatlantic.com/podcasts/archive/2022/04/us-national-parks-native-american-tribes/629552/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-29th-red-eyed-tree-frog</guid>
             <pubDate>Tue, 29 Mar 2022 14:53:55 GMT</pubDate>
             <description><![CDATA[Daily Cartoon: Tuesday, March 29th]]></description>
-        </item>
-        <item>
-            <title><![CDATA[與冬季德克薩斯人一起玩沙狐球和河上巡遊]]></title>
-            <link>https://www.newyorker.com/news/letter-from-the-southwest/shuffleboard-and-river-cruises-with-the-winter-texans</link>
-            <guid>https://www.newyorker.com/news/letter-from-the-southwest/shuffleboard-and-river-cruises-with-the-winter-texans</guid>
-            <pubDate>Tue, 29 Mar 2022 14:56:59 GMT</pubDate>
-            <description><![CDATA[Shuffleboard and River Cruises with the Winter Texans]]></description>
         </item>
     </channel>
 </rss>

@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/14/technology/gopuff-rapid-deliveries-challenges.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/14/technology/gopuff-rapid-deliveries-challenges.html",
+            "title": "Gopuff为其30分钟或更短的交付承诺争取时间",
+            "summary": "Gopuff Buys Time for Its 30-Minutes-or-Less Delivery Promise",
+            "date_modified": "2022-04-14T09:00:22.000Z",
+            "author": {
+                "name": "Erin Woo",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/podcasts/archive/2022/04/us-national-parks-native-american-tribes/629552/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/podcasts/archive/2022/04/us-national-parks-native-american-tribes/629552/?utm_source=feed",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-29T14:53:55.000Z",
             "author": {
                 "name": "Ali Solomon",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/letter-from-the-southwest/shuffleboard-and-river-cruises-with-the-winter-texans",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/letter-from-the-southwest/shuffleboard-and-river-cruises-with-the-winter-texans",
-            "title": "与冬季德克萨斯人一起玩沙狐球和河上巡游",
-            "summary": "Shuffleboard and River Cruises with the Winter Texans",
-            "date_modified": "2022-03-29T14:56:59.000Z",
-            "author": {
-                "name": "Rachel Monroe",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }
