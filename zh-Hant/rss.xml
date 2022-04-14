@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 14 Apr 2022 09:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 10:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,69 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[填字遊戲: 2022年4月14日，星期四]]></title>
+            <link>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/14</link>
+            <guid>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/14</guid>
+            <pubDate>Thu, 14 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Crossword: Thursday, April 14, 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[落名：2022年4月14日，星期四]]></title>
+            <link>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/14</link>
+            <guid>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/14</guid>
+            <pubDate>Thu, 14 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Name Drop: Thursday, April 14, 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[對我們第一次約會的更正和澄清]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/corrections-and-clarifications-to-our-first-date</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/corrections-and-clarifications-to-our-first-date</guid>
+            <pubDate>Thu, 14 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Corrections and Clarifications to Our First Date]]></description>
+        </item>
+        <item>
+            <title><![CDATA[暮光之城 "揭示了當今著名電視的情況]]></title>
+            <link>https://www.newyorker.com/culture/cultural-comment/what-the-twilight-zone-reveals-about-todays-prestige-tv</link>
+            <guid>https://www.newyorker.com/culture/cultural-comment/what-the-twilight-zone-reveals-about-todays-prestige-tv</guid>
+            <pubDate>Thu, 14 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[What “The Twilight Zone” Reveals About Today’s Prestige TV]]></description>
+        </item>
+        <item>
+            <title><![CDATA[被遺忘的奪回非洲被盜藝術的運動]]></title>
+            <link>https://www.newyorker.com/books/under-review/the-forgotten-movement-to-reclaim-africas-stolen-art</link>
+            <guid>https://www.newyorker.com/books/under-review/the-forgotten-movement-to-reclaim-africas-stolen-art</guid>
+            <pubDate>Thu, 14 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Forgotten Movement to Reclaim Africa’s Stolen Art]]></description>
+        </item>
+        <item>
+            <title><![CDATA[<em>Better Call Saul</em>敢於讓我們感到厭煩]]></title>
+            <link>https://www.theatlantic.com/magazine/archive/2022/05/better-call-saul-season-6-slow-tv/629370/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/magazine/archive/2022/05/better-call-saul-season-6-slow-tv/629370/?utm_source=feed</guid>
+            <pubDate>Thu, 14 Apr 2022 10:00:58 GMT</pubDate>
+            <description><![CDATA[<em>Better Call Saul</em> Dared to Bore Us]]></description>
+        </item>
+        <item>
+            <title><![CDATA[亞馬遜聯盟暴露了 "醒目資本 "的空洞性]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/amazon-labor-union/629550/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/amazon-labor-union/629550/?utm_source=feed</guid>
+            <pubDate>Thu, 14 Apr 2022 10:00:56 GMT</pubDate>
+            <description><![CDATA[The Amazon Union Exposes the Emptiness of 'Woke Capital']]></description>
+        </item>
+        <item>
+            <title><![CDATA[地鐵犯罪的死亡漩渦]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/new-york-subway-shooting-transit-crime-death-spiral/629554/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/new-york-subway-shooting-transit-crime-death-spiral/629554/?utm_source=feed</guid>
+            <pubDate>Thu, 14 Apr 2022 10:00:57 GMT</pubDate>
+            <description><![CDATA[The Subway-Crime Death Spiral]]></description>
+        </item>
+        <item>
+            <title><![CDATA[體育是偉大的，因為它們是無意義的]]></title>
+            <link>https://www.theatlantic.com/family/archive/2022/04/sustaining-friendship-shared-interests/629555/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/family/archive/2022/04/sustaining-friendship-shared-interests/629555/?utm_source=feed</guid>
+            <pubDate>Thu, 14 Apr 2022 10:00:57 GMT</pubDate>
+            <description><![CDATA[Sports Are Great Because They’re Pointless]]></description>
+        </item>
         <item>
             <title><![CDATA[Gopuff為其30分鐘或更短的交付承諾爭取時間]]></title>
             <link>https://www.nytimes.com/2022/04/14/technology/gopuff-rapid-deliveries-challenges.html</link>
@@ -4150,69 +4213,6 @@
             <guid>https://www.newyorker.com/humor/borowitz-report/trump-says-seven-hour-gap-in-january-6th-phone-calls-due-to-shark-marathon-on-discovery</guid>
             <pubDate>Tue, 29 Mar 2022 17:13:50 GMT</pubDate>
             <description><![CDATA[Trump Says Seven-Hour Gap in January 6th Phone Calls Due to Shark Marathon on Discovery]]></description>
-        </item>
-        <item>
-            <title><![CDATA[烏克蘭羅宋湯，和支持，在瓦雷尼克之家]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/04/ukrainian-borscht-and-support-at-varenyk-house</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/04/ukrainian-borscht-and-support-at-varenyk-house</guid>
-            <pubDate>Fri, 25 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Ukrainian Borscht, and Support, at Varenyk House]]></description>
-        </item>
-        <item>
-            <title><![CDATA[蘭花展重返紐約植物園]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/04/the-orchid-show-returns-to-new-york-botanical-garden-jeff-leatham</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/04/the-orchid-show-returns-to-new-york-botanical-garden-jeff-leatham</guid>
-            <pubDate>Fri, 25 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Orchid Show Returns to the New York Botanical Garden]]></description>
-        </item>
-        <item>
-            <title><![CDATA[舒適的 "WeCrashed "和 "Modern Grifter "系列。]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/04/the-comforts-of-wecrashed-and-the-modern-grifter-series</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/04/the-comforts-of-wecrashed-and-the-modern-grifter-series</guid>
-            <pubDate>Mon, 28 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Comforts of “WeCrashed” and the Modern Grifter Series]]></description>
-        </item>
-        <item>
-            <title><![CDATA["童年》是有史以來最優秀的回憶錄之一]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/04/a-childhood-is-one-of-the-finest-memoirs-ever-written</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/04/a-childhood-is-one-of-the-finest-memoirs-ever-written</guid>
-            <pubDate>Mon, 28 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[“A Childhood” Is One of the Finest Memoirs Ever Written]]></description>
-        </item>
-        <item>
-            <title><![CDATA[蘋果和流媒體的幻象]]></title>
-            <link>https://www.nytimes.com/2022/03/29/technology/coda-apple-tv-streaming.html</link>
-            <guid>https://www.nytimes.com/2022/03/29/technology/coda-apple-tv-streaming.html</guid>
-            <pubDate>Tue, 29 Mar 2022 16:59:51 GMT</pubDate>
-            <description><![CDATA[Apple and the Streaming Mirage]]></description>
-        </item>
-        <item>
-            <title><![CDATA[印度支持俄羅斯的推文引發對影響運動的懷疑]]></title>
-            <link>https://www.nytimes.com/2022/03/29/technology/twitter-russia-india.html</link>
-            <guid>https://www.nytimes.com/2022/03/29/technology/twitter-russia-india.html</guid>
-            <pubDate>Tue, 29 Mar 2022 17:13:12 GMT</pubDate>
-            <description><![CDATA[Pro-Russia Tweets In India Spark Suspicions of an Influence Campaign]]></description>
-        </item>
-        <item>
-            <title><![CDATA[<em>The Atlantic</em> Daily: 烏克蘭局勢的演變]]></title>
-            <link>https://www.theatlantic.com/newsletters/archive/2022/03/fighters-ukraine-russia-war/629414/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/newsletters/archive/2022/03/fighters-ukraine-russia-war/629414/?utm_source=feed</guid>
-            <pubDate>Tue, 29 Mar 2022 16:44:43 GMT</pubDate>
-            <description><![CDATA[<em>The Atlantic</em> Daily: The Evolving Situation in Ukraine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一個社區與垃圾郵件的複雜關係]]></title>
-            <link>https://www.theatlantic.com/podcasts/archive/2022/03/spam-wwii-history-hormel-canned-meat/629416/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/podcasts/archive/2022/03/spam-wwii-history-hormel-canned-meat/629416/?utm_source=feed</guid>
-            <pubDate>Tue, 29 Mar 2022 16:45:53 GMT</pubDate>
-            <description><![CDATA[One Community’s Complicated Relationship With SPAM]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日漫畫。3月29日，星期二]]></title>
-            <link>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-29th-red-eyed-tree-frog</link>
-            <guid>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-29th-red-eyed-tree-frog</guid>
-            <pubDate>Tue, 29 Mar 2022 14:53:55 GMT</pubDate>
-            <description><![CDATA[Daily Cartoon: Tuesday, March 29th]]></description>
         </item>
     </channel>
 </rss>

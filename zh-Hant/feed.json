@@ -11,6 +11,114 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/14",
+            "content_html": "",
+            "url": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/14",
+            "title": "填字遊戲: 2022年4月14日，星期四",
+            "summary": "The Crossword: Thursday, April 14, 2022",
+            "date_modified": "2022-04-14T10:00:00.000Z",
+            "author": {
+                "name": "Robyn Weintraub",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/14",
+            "content_html": "",
+            "url": "https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/14",
+            "title": "落名：2022年4月14日，星期四",
+            "summary": "Name Drop: Thursday, April 14, 2022",
+            "date_modified": "2022-04-14T10:00:00.000Z",
+            "author": {
+                "name": "Will Nediger",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/humor/daily-shouts/corrections-and-clarifications-to-our-first-date",
+            "content_html": "",
+            "url": "https://www.newyorker.com/humor/daily-shouts/corrections-and-clarifications-to-our-first-date",
+            "title": "對我們第一次約會的更正和澄清",
+            "summary": "Corrections and Clarifications to Our First Date",
+            "date_modified": "2022-04-14T10:00:00.000Z",
+            "author": {
+                "name": "Maeve Higgins",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/culture/cultural-comment/what-the-twilight-zone-reveals-about-todays-prestige-tv",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/cultural-comment/what-the-twilight-zone-reveals-about-todays-prestige-tv",
+            "title": "暮光之城 \"揭示了當今著名電視的情況",
+            "summary": "What “The Twilight Zone” Reveals About Today’s Prestige TV",
+            "date_modified": "2022-04-14T10:00:00.000Z",
+            "author": {
+                "name": "Colin Marshall",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/books/under-review/the-forgotten-movement-to-reclaim-africas-stolen-art",
+            "content_html": "",
+            "url": "https://www.newyorker.com/books/under-review/the-forgotten-movement-to-reclaim-africas-stolen-art",
+            "title": "被遺忘的奪回非洲被盜藝術的運動",
+            "summary": "The Forgotten Movement to Reclaim Africa’s Stolen Art",
+            "date_modified": "2022-04-14T10:00:00.000Z",
+            "author": {
+                "name": "Julian Lucas",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/magazine/archive/2022/05/better-call-saul-season-6-slow-tv/629370/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/magazine/archive/2022/05/better-call-saul-season-6-slow-tv/629370/?utm_source=feed",
+            "title": "<em>Better Call Saul</em>敢於讓我們感到厭煩",
+            "summary": "<em>Better Call Saul</em> Dared to Bore Us",
+            "date_modified": "2022-04-14T10:00:58.000Z",
+            "author": {
+                "name": "Spencer Kornhaber",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/04/amazon-labor-union/629550/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/04/amazon-labor-union/629550/?utm_source=feed",
+            "title": "亞馬遜聯盟暴露了 \"醒目資本 \"的空洞性",
+            "summary": "The Amazon Union Exposes the Emptiness of 'Woke Capital'",
+            "date_modified": "2022-04-14T10:00:56.000Z",
+            "author": {
+                "name": "Adam Serwer",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/04/new-york-subway-shooting-transit-crime-death-spiral/629554/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/04/new-york-subway-shooting-transit-crime-death-spiral/629554/?utm_source=feed",
+            "title": "地鐵犯罪的死亡漩渦",
+            "summary": "The Subway-Crime Death Spiral",
+            "date_modified": "2022-04-14T10:00:57.000Z",
+            "author": {
+                "name": "David A. Graham",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/family/archive/2022/04/sustaining-friendship-shared-interests/629555/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/family/archive/2022/04/sustaining-friendship-shared-interests/629555/?utm_source=feed",
+            "title": "體育是偉大的，因為它們是無意義的",
+            "summary": "Sports Are Great Because They’re Pointless",
+            "date_modified": "2022-04-14T10:00:57.000Z",
+            "author": {
+                "name": "Arthur C. Brooks",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/14/technology/gopuff-rapid-deliveries-challenges.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/14/technology/gopuff-rapid-deliveries-challenges.html",
@@ -7099,114 +7207,6 @@
             "date_modified": "2022-03-29T17:13:50.000Z",
             "author": {
                 "name": "Andy Borowitz",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/04/04/ukrainian-borscht-and-support-at-varenyk-house",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/04/04/ukrainian-borscht-and-support-at-varenyk-house",
-            "title": "烏克蘭羅宋湯，和支持，在瓦雷尼克之家",
-            "summary": "Ukrainian Borscht, and Support, at Varenyk House",
-            "date_modified": "2022-03-25T10:00:00.000Z",
-            "author": {
-                "name": "Hannah Goldfield",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/04/04/the-orchid-show-returns-to-new-york-botanical-garden-jeff-leatham",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/04/04/the-orchid-show-returns-to-new-york-botanical-garden-jeff-leatham",
-            "title": "蘭花展重返紐約植物園",
-            "summary": "The Orchid Show Returns to the New York Botanical Garden",
-            "date_modified": "2022-03-25T10:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/04/04/the-comforts-of-wecrashed-and-the-modern-grifter-series",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/04/04/the-comforts-of-wecrashed-and-the-modern-grifter-series",
-            "title": "舒適的 \"WeCrashed \"和 \"Modern Grifter \"系列。",
-            "summary": "The Comforts of “WeCrashed” and the Modern Grifter Series",
-            "date_modified": "2022-03-28T10:00:00.000Z",
-            "author": {
-                "name": "Naomi Fry",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/04/04/a-childhood-is-one-of-the-finest-memoirs-ever-written",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/04/04/a-childhood-is-one-of-the-finest-memoirs-ever-written",
-            "title": "\"童年》是有史以來最優秀的回憶錄之一",
-            "summary": "“A Childhood” Is One of the Finest Memoirs Ever Written",
-            "date_modified": "2022-03-28T10:00:00.000Z",
-            "author": {
-                "name": "Casey Cep",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/29/technology/coda-apple-tv-streaming.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/29/technology/coda-apple-tv-streaming.html",
-            "title": "蘋果和流媒體的幻象",
-            "summary": "Apple and the Streaming Mirage",
-            "date_modified": "2022-03-29T16:59:51.000Z",
-            "author": {
-                "name": "Shira Ovide",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/29/technology/twitter-russia-india.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/29/technology/twitter-russia-india.html",
-            "title": "印度支持俄羅斯的推文引發對影響運動的懷疑",
-            "summary": "Pro-Russia Tweets In India Spark Suspicions of an Influence Campaign",
-            "date_modified": "2022-03-29T17:13:12.000Z",
-            "author": {
-                "name": "Kate Conger and Suhasini Raj",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/newsletters/archive/2022/03/fighters-ukraine-russia-war/629414/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/newsletters/archive/2022/03/fighters-ukraine-russia-war/629414/?utm_source=feed",
-            "title": "<em>The Atlantic</em> Daily: 烏克蘭局勢的演變",
-            "summary": "<em>The Atlantic</em> Daily: The Evolving Situation in Ukraine",
-            "date_modified": "2022-03-29T16:44:43.000Z",
-            "author": {
-                "name": "Caroline Mimbs Nyce",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/podcasts/archive/2022/03/spam-wwii-history-hormel-canned-meat/629416/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/podcasts/archive/2022/03/spam-wwii-history-hormel-canned-meat/629416/?utm_source=feed",
-            "title": "一個社區與垃圾郵件的複雜關係",
-            "summary": "One Community’s Complicated Relationship With SPAM",
-            "date_modified": "2022-03-29T16:45:53.000Z",
-            "author": {
-                "name": "Mary Stachyra Lopez",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-29th-red-eyed-tree-frog",
-            "content_html": "",
-            "url": "https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-29th-red-eyed-tree-frog",
-            "title": "每日漫畫。3月29日，星期二",
-            "summary": "Daily Cartoon: Tuesday, March 29th",
-            "date_modified": "2022-03-29T14:53:55.000Z",
-            "author": {
-                "name": "Ali Solomon",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

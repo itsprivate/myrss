@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-14T09:13:30.575Z</updated>
+    <updated>2022-04-14T10:16:04.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,105 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[填字游戏: 2022年4月14日，星期四]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/14</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/14"/>
+        <updated>2022-04-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Crossword: Thursday, April 14, 2022]]></summary>
+        <author>
+            <name>Robyn Weintraub</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[落名：2022年4月14日，星期四]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/14</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/14"/>
+        <updated>2022-04-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Name Drop: Thursday, April 14, 2022]]></summary>
+        <author>
+            <name>Will Nediger</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对我们第一次约会的更正和澄清]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/corrections-and-clarifications-to-our-first-date</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/corrections-and-clarifications-to-our-first-date"/>
+        <updated>2022-04-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Corrections and Clarifications to Our First Date]]></summary>
+        <author>
+            <name>Maeve Higgins</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暮光之城 "揭示了当今著名电视的情况]]></title>
+        <id>https://www.newyorker.com/culture/cultural-comment/what-the-twilight-zone-reveals-about-todays-prestige-tv</id>
+        <link href="https://www.newyorker.com/culture/cultural-comment/what-the-twilight-zone-reveals-about-todays-prestige-tv"/>
+        <updated>2022-04-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What “The Twilight Zone” Reveals About Today’s Prestige TV]]></summary>
+        <author>
+            <name>Colin Marshall</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被遗忘的夺回非洲被盗艺术的运动]]></title>
+        <id>https://www.newyorker.com/books/under-review/the-forgotten-movement-to-reclaim-africas-stolen-art</id>
+        <link href="https://www.newyorker.com/books/under-review/the-forgotten-movement-to-reclaim-africas-stolen-art"/>
+        <updated>2022-04-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Forgotten Movement to Reclaim Africa’s Stolen Art]]></summary>
+        <author>
+            <name>Julian Lucas</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<em>Better Call Saul</em>敢于让我们感到厌烦]]></title>
+        <id>https://www.theatlantic.com/magazine/archive/2022/05/better-call-saul-season-6-slow-tv/629370/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/magazine/archive/2022/05/better-call-saul-season-6-slow-tv/629370/?utm_source=feed"/>
+        <updated>2022-04-14T10:00:58.000Z</updated>
+        <summary type="html"><![CDATA[<em>Better Call Saul</em> Dared to Bore Us]]></summary>
+        <author>
+            <name>Spencer Kornhaber</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊联盟暴露了 "醒目资本 "的空洞性]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/amazon-labor-union/629550/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/amazon-labor-union/629550/?utm_source=feed"/>
+        <updated>2022-04-14T10:00:56.000Z</updated>
+        <summary type="html"><![CDATA[The Amazon Union Exposes the Emptiness of 'Woke Capital']]></summary>
+        <author>
+            <name>Adam Serwer</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[地铁犯罪的死亡漩涡]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/new-york-subway-shooting-transit-crime-death-spiral/629554/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/new-york-subway-shooting-transit-crime-death-spiral/629554/?utm_source=feed"/>
+        <updated>2022-04-14T10:00:57.000Z</updated>
+        <summary type="html"><![CDATA[The Subway-Crime Death Spiral]]></summary>
+        <author>
+            <name>David A. Graham</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[体育是伟大的，因为它们是无意义的]]></title>
+        <id>https://www.theatlantic.com/family/archive/2022/04/sustaining-friendship-shared-interests/629555/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/family/archive/2022/04/sustaining-friendship-shared-interests/629555/?utm_source=feed"/>
+        <updated>2022-04-14T10:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Sports Are Great Because They’re Pointless]]></summary>
+        <author>
+            <name>Arthur C. Brooks</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gopuff为其30分钟或更短的交付承诺争取时间]]></title>
         <id>https://www.nytimes.com/2022/04/14/technology/gopuff-rapid-deliveries-challenges.html</id>
@@ -6513,105 +6612,6 @@
         <summary type="html"><![CDATA[Trump Says Seven-Hour Gap in January 6th Phone Calls Due to Shark Marathon on Discovery]]></summary>
         <author>
             <name>Andy Borowitz</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰罗宋汤，和支持，在瓦雷尼克之家]]></title>
-        <id>https://www.newyorker.com/magazine/2022/04/04/ukrainian-borscht-and-support-at-varenyk-house</id>
-        <link href="https://www.newyorker.com/magazine/2022/04/04/ukrainian-borscht-and-support-at-varenyk-house"/>
-        <updated>2022-03-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ukrainian Borscht, and Support, at Varenyk House]]></summary>
-        <author>
-            <name>Hannah Goldfield</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[兰花展重返纽约植物园]]></title>
-        <id>https://www.newyorker.com/magazine/2022/04/04/the-orchid-show-returns-to-new-york-botanical-garden-jeff-leatham</id>
-        <link href="https://www.newyorker.com/magazine/2022/04/04/the-orchid-show-returns-to-new-york-botanical-garden-jeff-leatham"/>
-        <updated>2022-03-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Orchid Show Returns to the New York Botanical Garden]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[舒适的 "WeCrashed "和 "Modern Grifter "系列。]]></title>
-        <id>https://www.newyorker.com/magazine/2022/04/04/the-comforts-of-wecrashed-and-the-modern-grifter-series</id>
-        <link href="https://www.newyorker.com/magazine/2022/04/04/the-comforts-of-wecrashed-and-the-modern-grifter-series"/>
-        <updated>2022-03-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Comforts of “WeCrashed” and the Modern Grifter Series]]></summary>
-        <author>
-            <name>Naomi Fry</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["童年》是有史以来最优秀的回忆录之一]]></title>
-        <id>https://www.newyorker.com/magazine/2022/04/04/a-childhood-is-one-of-the-finest-memoirs-ever-written</id>
-        <link href="https://www.newyorker.com/magazine/2022/04/04/a-childhood-is-one-of-the-finest-memoirs-ever-written"/>
-        <updated>2022-03-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“A Childhood” Is One of the Finest Memoirs Ever Written]]></summary>
-        <author>
-            <name>Casey Cep</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果和流媒体的幻象]]></title>
-        <id>https://www.nytimes.com/2022/03/29/technology/coda-apple-tv-streaming.html</id>
-        <link href="https://www.nytimes.com/2022/03/29/technology/coda-apple-tv-streaming.html"/>
-        <updated>2022-03-29T16:59:51.000Z</updated>
-        <summary type="html"><![CDATA[Apple and the Streaming Mirage]]></summary>
-        <author>
-            <name>Shira Ovide</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印度支持俄罗斯的推文引发对影响运动的怀疑]]></title>
-        <id>https://www.nytimes.com/2022/03/29/technology/twitter-russia-india.html</id>
-        <link href="https://www.nytimes.com/2022/03/29/technology/twitter-russia-india.html"/>
-        <updated>2022-03-29T17:13:12.000Z</updated>
-        <summary type="html"><![CDATA[Pro-Russia Tweets In India Spark Suspicions of an Influence Campaign]]></summary>
-        <author>
-            <name>Kate Conger and Suhasini Raj</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<em>The Atlantic</em> Daily: 乌克兰局势的演变]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2022/03/fighters-ukraine-russia-war/629414/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/fighters-ukraine-russia-war/629414/?utm_source=feed"/>
-        <updated>2022-03-29T16:44:43.000Z</updated>
-        <summary type="html"><![CDATA[<em>The Atlantic</em> Daily: The Evolving Situation in Ukraine]]></summary>
-        <author>
-            <name>Caroline Mimbs Nyce</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个社区与垃圾邮件的复杂关系]]></title>
-        <id>https://www.theatlantic.com/podcasts/archive/2022/03/spam-wwii-history-hormel-canned-meat/629416/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/podcasts/archive/2022/03/spam-wwii-history-hormel-canned-meat/629416/?utm_source=feed"/>
-        <updated>2022-03-29T16:45:53.000Z</updated>
-        <summary type="html"><![CDATA[One Community’s Complicated Relationship With SPAM]]></summary>
-        <author>
-            <name>Mary Stachyra Lopez</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日漫画。3月29日，星期二]]></title>
-        <id>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-29th-red-eyed-tree-frog</id>
-        <link href="https://www.newyorker.com/cartoons/daily-cartoon/tuesday-march-29th-red-eyed-tree-frog"/>
-        <updated>2022-03-29T14:53:55.000Z</updated>
-        <summary type="html"><![CDATA[Daily Cartoon: Tuesday, March 29th]]></summary>
-        <author>
-            <name>Ali Solomon</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
