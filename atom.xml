@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-15T14:31:50.397Z</updated>
+    <updated>2022-04-15T15:13:49.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[A.I.正在掌握语言。我们应该相信它所说的吗？]]></title>
+        <id>https://www.nytimes.com/2022/04/15/magazine/ai-language.html</id>
+        <link href="https://www.nytimes.com/2022/04/15/magazine/ai-language.html"/>
+        <updated>2022-04-15T14:57:30.000Z</updated>
+        <summary type="html"><![CDATA[A.I. Is Mastering Language. Should We Trust What It Says?]]></summary>
+        <author>
+            <name>Steven Johnson and Nikita Iziev</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日漫画。4月15日，星期五]]></title>
         <id>https://www.newyorker.com/cartoons/daily-cartoon/friday-april-15th-passover-pigeons</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[<em>West Side Story</em> Needed an Update]]></summary>
         <author>
             <name>Sophie Gilbert</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯的军队曾经很强大，直到它不在了。]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/russia-ukraine-invasion-military-predictions/629418/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/russia-ukraine-invasion-military-predictions/629418/?utm_source=feed"/>
-        <updated>2022-03-31T10:01:57.000Z</updated>
-        <summary type="html"><![CDATA[Russia's Military Was Great Until It Wasn't]]></summary>
-        <author>
-            <name>Phillips Payson O’Brien</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>

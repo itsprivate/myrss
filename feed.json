@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/15/magazine/ai-language.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/15/magazine/ai-language.html",
+            "title": "A.I.正在掌握语言。我们应该相信它所说的吗？",
+            "summary": "A.I. Is Mastering Language. Should We Trust What It Says?",
+            "date_modified": "2022-04-15T14:57:30.000Z",
+            "author": {
+                "name": "Steven Johnson and Nikita Iziev",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/cartoons/daily-cartoon/friday-april-15th-passover-pigeons",
             "content_html": "",
             "url": "https://www.newyorker.com/cartoons/daily-cartoon/friday-april-15th-passover-pigeons",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-31T10:01:56.000Z",
             "author": {
                 "name": "Sophie Gilbert",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/03/russia-ukraine-invasion-military-predictions/629418/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/03/russia-ukraine-invasion-military-predictions/629418/?utm_source=feed",
-            "title": "俄罗斯的军队曾经很强大，直到它不在了。",
-            "summary": "Russia's Military Was Great Until It Wasn't",
-            "date_modified": "2022-03-31T10:01:57.000Z",
-            "author": {
-                "name": "Phillips Payson O’Brien",
                 "url": "https://www.theatlantic.com/feed/all/"
             }
         }

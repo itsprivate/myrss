@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 15 Apr 2022 14:31:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 15:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[A.I.正在掌握語言。我們應該相信它所說的嗎？]]></title>
+            <link>https://www.nytimes.com/2022/04/15/magazine/ai-language.html</link>
+            <guid>https://www.nytimes.com/2022/04/15/magazine/ai-language.html</guid>
+            <pubDate>Fri, 15 Apr 2022 14:57:30 GMT</pubDate>
+            <description><![CDATA[A.I. Is Mastering Language. Should We Trust What It Says?]]></description>
+        </item>
         <item>
             <title><![CDATA[每日漫畫。4月15日，星期五]]></title>
             <link>https://www.newyorker.com/cartoons/daily-cartoon/friday-april-15th-passover-pigeons</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/podcasts/archive/2022/03/west-side-story-needed-update/629384/?utm_source=feed</guid>
             <pubDate>Thu, 31 Mar 2022 10:01:56 GMT</pubDate>
             <description><![CDATA[<em>West Side Story</em> Needed an Update]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄羅斯的軍隊曾經很強大，直到它不在了。]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/russia-ukraine-invasion-military-predictions/629418/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/russia-ukraine-invasion-military-predictions/629418/?utm_source=feed</guid>
-            <pubDate>Thu, 31 Mar 2022 10:01:57 GMT</pubDate>
-            <description><![CDATA[Russia's Military Was Great Until It Wasn't]]></description>
         </item>
     </channel>
 </rss>
