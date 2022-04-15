@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 15 Apr 2022 18:41:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 19:52:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[戴安娜-范斯坦是參議院的未來]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/dianne-feinstein-retire-senate/629584/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/dianne-feinstein-retire-senate/629584/?utm_source=feed</guid>
+            <pubDate>Fri, 15 Apr 2022 19:40:19 GMT</pubDate>
+            <description><![CDATA[Dianne Feinstein Is the Future of the Senate]]></description>
+        </item>
         <item>
             <title><![CDATA[烏克蘭的經濟前景]]></title>
             <link>https://noahpinion.substack.com/p/ukraines-economic-future</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/culture/archive/2022/03/sarah-meister-war-photography-ukraine/629428/?utm_source=feed</guid>
             <pubDate>Thu, 31 Mar 2022 12:45:27 GMT</pubDate>
             <description><![CDATA[‘We Have to Look for Longer’]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TikTok的算法噴出病毒惡棍]]></title>
-            <link>https://www.theatlantic.com/technology/archive/2022/03/west-elm-caleb-tiktok-mob-villain/629423/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/technology/archive/2022/03/west-elm-caleb-tiktok-mob-villain/629423/?utm_source=feed</guid>
-            <pubDate>Thu, 31 Mar 2022 12:00:56 GMT</pubDate>
-            <description><![CDATA[TikTok’s Algorithm Spews Out Viral Villains]]></description>
         </item>
     </channel>
 </rss>

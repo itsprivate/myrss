@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-15T18:41:29.717Z</updated>
+    <updated>2022-04-15T19:52:31.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[戴安娜-范斯坦是参议院的未来]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/dianne-feinstein-retire-senate/629584/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/dianne-feinstein-retire-senate/629584/?utm_source=feed"/>
+        <updated>2022-04-15T19:40:19.000Z</updated>
+        <summary type="html"><![CDATA[Dianne Feinstein Is the Future of the Senate]]></summary>
+        <author>
+            <name>David A. Graham</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[乌克兰的经济前景]]></title>
         <id>https://noahpinion.substack.com/p/ukraines-economic-future</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[‘We Have to Look for Longer’]]></summary>
         <author>
             <name>Sophie Gilbert</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok的算法喷出病毒恶棍]]></title>
-        <id>https://www.theatlantic.com/technology/archive/2022/03/west-elm-caleb-tiktok-mob-villain/629423/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/technology/archive/2022/03/west-elm-caleb-tiktok-mob-villain/629423/?utm_source=feed"/>
-        <updated>2022-03-31T12:00:56.000Z</updated>
-        <summary type="html"><![CDATA[TikTok’s Algorithm Spews Out Viral Villains]]></summary>
-        <author>
-            <name>Kaitlyn Tiffany</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>

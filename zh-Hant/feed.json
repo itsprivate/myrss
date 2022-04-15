@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/04/dianne-feinstein-retire-senate/629584/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/04/dianne-feinstein-retire-senate/629584/?utm_source=feed",
+            "title": "戴安娜-范斯坦是參議院的未來",
+            "summary": "Dianne Feinstein Is the Future of the Senate",
+            "date_modified": "2022-04-15T19:40:19.000Z",
+            "author": {
+                "name": "David A. Graham",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://noahpinion.substack.com/p/ukraines-economic-future",
             "content_html": "",
             "url": "https://noahpinion.substack.com/p/ukraines-economic-future",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-03-31T12:45:27.000Z",
             "author": {
                 "name": "Sophie Gilbert",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/technology/archive/2022/03/west-elm-caleb-tiktok-mob-villain/629423/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/technology/archive/2022/03/west-elm-caleb-tiktok-mob-villain/629423/?utm_source=feed",
-            "title": "TikTok的算法噴出病毒惡棍",
-            "summary": "TikTok’s Algorithm Spews Out Viral Villains",
-            "date_modified": "2022-03-31T12:00:56.000Z",
-            "author": {
-                "name": "Kaitlyn Tiffany",
                 "url": "https://www.theatlantic.com/feed/all/"
             }
         }
