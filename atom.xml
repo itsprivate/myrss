@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-14T23:33:36.375Z</updated>
+    <updated>2022-04-15T02:55:31.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[布鲁塞尔明信片]]></title>
+        <id>https://www.newyorker.com/magazine/brussels-postcard</id>
+        <link href="https://www.newyorker.com/magazine/brussels-postcard"/>
+        <updated>2022-04-15T02:42:49.000Z</updated>
+        <summary type="html"><![CDATA[Brussels Postcard]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[埃隆-马斯克发起收购Twitter的竞标]]></title>
         <id>https://www.nytimes.com/2022/04/14/technology/elon-musk-twitter-bid.html</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Susan Orlean</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何识别模仿国税局或慈善机构的骗局]]></title>
-        <id>https://www.nytimes.com/2022/03/30/technology/personaltech/scams-phishing-spring.html</id>
-        <link href="https://www.nytimes.com/2022/03/30/technology/personaltech/scams-phishing-spring.html"/>
-        <updated>2022-03-30T13:00:11.000Z</updated>
-        <summary type="html"><![CDATA[How to Spot Scams That Mimic the IRS or Charities]]></summary>
-        <author>
-            <name>J. D. Biersdorfer</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>
