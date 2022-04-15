@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-15T09:13:21.054Z</updated>
+    <updated>2022-04-15T10:13:49.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[對切爾尼戈夫的圍攻]]></title>
+        <id>https://www.newyorker.com/news/dispatch/the-siege-of-chernihiv</id>
+        <link href="https://www.newyorker.com/news/dispatch/the-siege-of-chernihiv"/>
+        <updated>2022-04-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Siege of Chernihiv]]></summary>
+        <author>
+            <name>Joshua Yaffa</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基督教對苦難的迴應]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/easter-and-christian-response-suffering/629551/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/easter-and-christian-response-suffering/629551/?utm_source=feed"/>
+        <updated>2022-04-15T10:00:56.000Z</updated>
+        <summary type="html"><![CDATA[A Christian Response to Suffering]]></summary>
+        <author>
+            <name>Peter Wehner</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[國防開支，再次]]></title>
         <id>https://noahpinion.substack.com/p/defense-spending-again</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[“Squirrels to the Nuts,” Reviewed: The Director’s Cut of Peter Bogdanovich’s Last Feature]]></summary>
         <author>
             <name>Richard Brody</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自成一體的人的形成]]></title>
-        <id>https://www.currentaffairs.org/2022/03/the-making-of-the-self-made-man/</id>
-        <link href="https://www.currentaffairs.org/2022/03/the-making-of-the-self-made-man/"/>
-        <updated>2022-03-30T13:09:10.000Z</updated>
-        <summary type="html"><![CDATA[The Making of the Self-Made Man]]></summary>
-        <author>
-            <name>Tara Isabella Burton</name>
-            <uri>https://www.currentaffairs.org/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一位美國作家為何選擇留在烏克蘭]]></title>
-        <id>https://www.newyorker.com/culture/personal-history/why-an-american-writer-chooses-to-stay-in-ukraine</id>
-        <link href="https://www.newyorker.com/culture/personal-history/why-an-american-writer-chooses-to-stay-in-ukraine"/>
-        <updated>2022-03-30T16:43:42.000Z</updated>
-        <summary type="html"><![CDATA[Why an American Writer Chooses to Stay in Ukraine]]></summary>
-        <author>
-            <name>Kate Tsurkan</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
