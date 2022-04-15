@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-15T02:55:31.597Z</updated>
+    <updated>2022-04-15T04:33:14.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[知識部]]></title>
+        <id>https://www.newyorker.com/magazine/dept-of-knowledge</id>
+        <link href="https://www.newyorker.com/magazine/dept-of-knowledge"/>
+        <updated>2022-04-15T04:25:02.000Z</updated>
+        <summary type="html"><![CDATA[Dept. of Knowledge]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[布魯塞爾明信片]]></title>
         <id>https://www.newyorker.com/magazine/brussels-postcard</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Sheon Han</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開車的人》（The Man Who Drove a Badillac]]></title>
-        <id>https://www.newyorker.com/news/afterword/the-man-who-drove-a-badillac</id>
-        <link href="https://www.newyorker.com/news/afterword/the-man-who-drove-a-badillac"/>
-        <updated>2022-03-30T16:02:36.000Z</updated>
-        <summary type="html"><![CDATA[The Man Who Drove a Badillac]]></summary>
-        <author>
-            <name>Susan Orlean</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>

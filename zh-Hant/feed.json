@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/magazine/dept-of-knowledge",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/dept-of-knowledge",
+            "title": "知識部",
+            "summary": "Dept. of Knowledge",
+            "date_modified": "2022-04-15T04:25:02.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/magazine/brussels-postcard",
             "content_html": "",
             "url": "https://www.newyorker.com/magazine/brussels-postcard",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Sheon Han",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/afterword/the-man-who-drove-a-badillac",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/afterword/the-man-who-drove-a-badillac",
-            "title": "開車的人》（The Man Who Drove a Badillac",
-            "summary": "The Man Who Drove a Badillac",
-            "date_modified": "2022-03-30T16:02:36.000Z",
-            "author": {
-                "name": "Susan Orlean",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]
