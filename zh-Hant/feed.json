@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://austinkleon.substack.com/p/self-expression",
+            "content_html": "",
+            "url": "https://austinkleon.substack.com/p/self-expression",
+            "title": "自我表達",
+            "summary": "Self-expression",
+            "date_modified": "2022-04-15T12:00:35.000Z",
+            "author": {
+                "name": "Austin Kleon",
+                "url": "https://austinkleon.substack.com/feed"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/international/archive/2022/04/zelensky-kyiv-russia-war-ukrainian-survival-interview/629570/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/international/archive/2022/04/zelensky-kyiv-russia-war-ukrainian-survival-interview/629570/?utm_source=feed",
+            "title": "沒有勝利的解放",
+            "summary": "Liberation Without Victory",
+            "date_modified": "2022-04-15T12:00:56.000Z",
+            "author": {
+                "name": "Jeffrey Goldberg",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/15",
             "content_html": "",
             "url": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/15",
@@ -7183,30 +7207,6 @@
             "date_modified": "2022-03-30T21:53:34.000Z",
             "author": {
                 "name": "Conor Friedersdorf",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://astralcodexten.substack.com/p/idol-words",
-            "content_html": "",
-            "url": "https://astralcodexten.substack.com/p/idol-words",
-            "title": "偶像的話語",
-            "summary": "Idol Words",
-            "date_modified": "2022-03-30T20:08:21.000Z",
-            "author": {
-                "name": "Scott Alexander",
-                "url": "https://astralcodexten.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/03/trump-flat-circle/629431/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/03/trump-flat-circle/629431/?utm_source=feed",
-            "title": "特朗普是一個扁平的圓",
-            "summary": "Trump Is a Flat Circle",
-            "date_modified": "2022-03-30T18:24:57.000Z",
-            "author": {
-                "name": "David A. Graham",
                 "url": "https://www.theatlantic.com/feed/all/"
             }
         }

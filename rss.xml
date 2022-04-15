@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 15 Apr 2022 11:30:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 12:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[自我表达]]></title>
+            <link>https://austinkleon.substack.com/p/self-expression</link>
+            <guid>https://austinkleon.substack.com/p/self-expression</guid>
+            <pubDate>Fri, 15 Apr 2022 12:00:35 GMT</pubDate>
+            <description><![CDATA[Self-expression]]></description>
+        </item>
+        <item>
+            <title><![CDATA[没有胜利的解放]]></title>
+            <link>https://www.theatlantic.com/international/archive/2022/04/zelensky-kyiv-russia-war-ukrainian-survival-interview/629570/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/international/archive/2022/04/zelensky-kyiv-russia-war-ukrainian-survival-interview/629570/?utm_source=feed</guid>
+            <pubDate>Fri, 15 Apr 2022 12:00:56 GMT</pubDate>
+            <description><![CDATA[Liberation Without Victory]]></description>
+        </item>
         <item>
             <title><![CDATA[填字游戏。2022年4月15日，星期五]]></title>
             <link>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/15</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.theatlantic.com/newsletters/archive/2022/03/biden-is-a-wild-card-in-the-russia-ukraine-war-too/629434/?utm_source=feed</guid>
             <pubDate>Wed, 30 Mar 2022 21:53:34 GMT</pubDate>
             <description><![CDATA[Biden Is a Wild Card in the Russia-Ukraine War, Too]]></description>
-        </item>
-        <item>
-            <title><![CDATA[偶像的话语]]></title>
-            <link>https://astralcodexten.substack.com/p/idol-words</link>
-            <guid>https://astralcodexten.substack.com/p/idol-words</guid>
-            <pubDate>Wed, 30 Mar 2022 20:08:21 GMT</pubDate>
-            <description><![CDATA[Idol Words]]></description>
-        </item>
-        <item>
-            <title><![CDATA[特朗普是一个扁平的圆]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/trump-flat-circle/629431/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/trump-flat-circle/629431/?utm_source=feed</guid>
-            <pubDate>Wed, 30 Mar 2022 18:24:57 GMT</pubDate>
-            <description><![CDATA[Trump Is a Flat Circle]]></description>
         </item>
     </channel>
 </rss>

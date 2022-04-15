@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-15T11:30:49.049Z</updated>
+    <updated>2022-04-15T12:20:33.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[自我表達]]></title>
+        <id>https://austinkleon.substack.com/p/self-expression</id>
+        <link href="https://austinkleon.substack.com/p/self-expression"/>
+        <updated>2022-04-15T12:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Self-expression]]></summary>
+        <author>
+            <name>Austin Kleon</name>
+            <uri>https://austinkleon.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沒有勝利的解放]]></title>
+        <id>https://www.theatlantic.com/international/archive/2022/04/zelensky-kyiv-russia-war-ukrainian-survival-interview/629570/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/international/archive/2022/04/zelensky-kyiv-russia-war-ukrainian-survival-interview/629570/?utm_source=feed"/>
+        <updated>2022-04-15T12:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Liberation Without Victory]]></summary>
+        <author>
+            <name>Jeffrey Goldberg</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[填字遊戲。2022年4月15日，星期五]]></title>
         <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/15</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[Biden Is a Wild Card in the Russia-Ukraine War, Too]]></summary>
         <author>
             <name>Conor Friedersdorf</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[偶像的話語]]></title>
-        <id>https://astralcodexten.substack.com/p/idol-words</id>
-        <link href="https://astralcodexten.substack.com/p/idol-words"/>
-        <updated>2022-03-30T20:08:21.000Z</updated>
-        <summary type="html"><![CDATA[Idol Words]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普是一個扁平的圓]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/trump-flat-circle/629431/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/trump-flat-circle/629431/?utm_source=feed"/>
-        <updated>2022-03-30T18:24:57.000Z</updated>
-        <summary type="html"><![CDATA[Trump Is a Flat Circle]]></summary>
-        <author>
-            <name>David A. Graham</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
