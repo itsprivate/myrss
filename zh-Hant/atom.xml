@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-15T14:14:05.235Z</updated>
+    <updated>2022-04-15T14:31:50.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每日漫畫。4月15日，星期五]]></title>
+        <id>https://www.newyorker.com/cartoons/daily-cartoon/friday-april-15th-passover-pigeons</id>
+        <link href="https://www.newyorker.com/cartoons/daily-cartoon/friday-april-15th-passover-pigeons"/>
+        <updated>2022-04-15T14:12:57.000Z</updated>
+        <summary type="html"><![CDATA[Daily Cartoon: Friday, April 15th]]></summary>
+        <author>
+            <name>Avi Steinberg</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[表情符號時代的市場細分]]></title>
+        <id>http://cacm.acm.org/magazines/2022/4/259418-market-segmentation-in-the-emoji-era</id>
+        <link href="http://cacm.acm.org/magazines/2022/4/259418-market-segmentation-in-the-emoji-era"/>
+        <updated>2022-04-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Market Segmentation in the Emoji Era]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://cacm.acm.org/magazine.rss</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一場地鐵襲擊刺破了地下的泡沫]]></title>
         <id>https://www.newyorker.com/magazine/underground/04/25/a-subway-attack-bursts-an-underground-bubble</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[Russia's Military Was Great Until It Wasn't]]></summary>
         <author>
             <name>Phillips Payson O’Brien</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最成功的人都有點不滿意]]></title>
-        <id>https://www.theatlantic.com/family/archive/2022/03/chasing-happiness-leads-to-dissatisfaction/629427/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/family/archive/2022/03/chasing-happiness-leads-to-dissatisfaction/629427/?utm_source=feed"/>
-        <updated>2022-03-31T10:01:57.000Z</updated>
-        <summary type="html"><![CDATA[The Most Successful People Are a Little Dissatisfied]]></summary>
-        <author>
-            <name>Arthur C. Brooks</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼一個ISIS的宣傳員放棄了伊斯蘭教？]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/deprogramming-isis-supporters-jihadi-extremism/629433/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/deprogramming-isis-supporters-jihadi-extremism/629433/?utm_source=feed"/>
-        <updated>2022-03-31T10:01:57.000Z</updated>
-        <summary type="html"><![CDATA[Why an ISIS Propagandist Abandoned Islam]]></summary>
-        <author>
-            <name>Graeme Wood</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>

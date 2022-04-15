@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 15 Apr 2022 14:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 14:31:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[每日漫画。4月15日，星期五]]></title>
+            <link>https://www.newyorker.com/cartoons/daily-cartoon/friday-april-15th-passover-pigeons</link>
+            <guid>https://www.newyorker.com/cartoons/daily-cartoon/friday-april-15th-passover-pigeons</guid>
+            <pubDate>Fri, 15 Apr 2022 14:12:57 GMT</pubDate>
+            <description><![CDATA[Daily Cartoon: Friday, April 15th]]></description>
+        </item>
+        <item>
+            <title><![CDATA[表情符号时代的市场细分]]></title>
+            <link>http://cacm.acm.org/magazines/2022/4/259418-market-segmentation-in-the-emoji-era</link>
+            <guid>http://cacm.acm.org/magazines/2022/4/259418-market-segmentation-in-the-emoji-era</guid>
+            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Market Segmentation in the Emoji Era]]></description>
+        </item>
         <item>
             <title><![CDATA[一场地铁袭击刺破了地下的泡沫]]></title>
             <link>https://www.newyorker.com/magazine/underground/04/25/a-subway-attack-bursts-an-underground-bubble</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.theatlantic.com/ideas/archive/2022/03/russia-ukraine-invasion-military-predictions/629418/?utm_source=feed</guid>
             <pubDate>Thu, 31 Mar 2022 10:01:57 GMT</pubDate>
             <description><![CDATA[Russia's Military Was Great Until It Wasn't]]></description>
-        </item>
-        <item>
-            <title><![CDATA[最成功的人都有点不满意]]></title>
-            <link>https://www.theatlantic.com/family/archive/2022/03/chasing-happiness-leads-to-dissatisfaction/629427/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/family/archive/2022/03/chasing-happiness-leads-to-dissatisfaction/629427/?utm_source=feed</guid>
-            <pubDate>Thu, 31 Mar 2022 10:01:57 GMT</pubDate>
-            <description><![CDATA[The Most Successful People Are a Little Dissatisfied]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么一个ISIS的宣传员放弃了伊斯兰教？]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/deprogramming-isis-supporters-jihadi-extremism/629433/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/deprogramming-isis-supporters-jihadi-extremism/629433/?utm_source=feed</guid>
-            <pubDate>Thu, 31 Mar 2022 10:01:57 GMT</pubDate>
-            <description><![CDATA[Why an ISIS Propagandist Abandoned Islam]]></description>
         </item>
     </channel>
 </rss>

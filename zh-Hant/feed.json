@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/cartoons/daily-cartoon/friday-april-15th-passover-pigeons",
+            "content_html": "",
+            "url": "https://www.newyorker.com/cartoons/daily-cartoon/friday-april-15th-passover-pigeons",
+            "title": "每日漫畫。4月15日，星期五",
+            "summary": "Daily Cartoon: Friday, April 15th",
+            "date_modified": "2022-04-15T14:12:57.000Z",
+            "author": {
+                "name": "Avi Steinberg",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/4/259418-market-segmentation-in-the-emoji-era",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/4/259418-market-segmentation-in-the-emoji-era",
+            "title": "表情符號時代的市場細分",
+            "summary": "Market Segmentation in the Emoji Era",
+            "date_modified": "2022-04-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/magazine/underground/04/25/a-subway-attack-bursts-an-underground-bubble",
             "content_html": "",
             "url": "https://www.newyorker.com/magazine/underground/04/25/a-subway-attack-bursts-an-underground-bubble",
@@ -7183,30 +7207,6 @@
             "date_modified": "2022-03-31T10:01:57.000Z",
             "author": {
                 "name": "Phillips Payson O’Brien",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/family/archive/2022/03/chasing-happiness-leads-to-dissatisfaction/629427/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/family/archive/2022/03/chasing-happiness-leads-to-dissatisfaction/629427/?utm_source=feed",
-            "title": "最成功的人都有點不滿意",
-            "summary": "The Most Successful People Are a Little Dissatisfied",
-            "date_modified": "2022-03-31T10:01:57.000Z",
-            "author": {
-                "name": "Arthur C. Brooks",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/03/deprogramming-isis-supporters-jihadi-extremism/629433/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/03/deprogramming-isis-supporters-jihadi-extremism/629433/?utm_source=feed",
-            "title": "為什麼一個ISIS的宣傳員放棄了伊斯蘭教？",
-            "summary": "Why an ISIS Propagandist Abandoned Islam",
-            "date_modified": "2022-03-31T10:01:57.000Z",
-            "author": {
-                "name": "Graeme Wood",
                 "url": "https://www.theatlantic.com/feed/all/"
             }
         }
