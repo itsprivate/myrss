@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 15 Apr 2022 20:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 20:35:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我们应该得到比僵尸医疗更好的服务]]></title>
+            <link>https://www.currentaffairs.org/2022/04/we-deserve-better-than-zombie-healthcare/</link>
+            <guid>https://www.currentaffairs.org/2022/04/we-deserve-better-than-zombie-healthcare/</guid>
+            <pubDate>Fri, 15 Apr 2022 16:27:22 GMT</pubDate>
+            <description><![CDATA[We Deserve Better Than Zombie Healthcare]]></description>
+        </item>
         <item>
             <title><![CDATA[迈克尔-R-杰克逊的 "一个奇怪的循环 "和一个互联网恐怖故事]]></title>
             <link>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/michael-r-jacksons-a-strange-loop-and-an-internet-horror-story</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/ideas/archive/2022/03/death-penalty-lethal-injection-lawsuit/629383/?utm_source=feed</guid>
             <pubDate>Thu, 31 Mar 2022 14:26:48 GMT</pubDate>
             <description><![CDATA[Can America Kill Its Prisoners Kindly?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日漫画。3月31日，星期四]]></title>
-            <link>https://www.newyorker.com/cartoons/daily-cartoon/thursday-march-31st-alien-fuel</link>
-            <guid>https://www.newyorker.com/cartoons/daily-cartoon/thursday-march-31st-alien-fuel</guid>
-            <pubDate>Thu, 31 Mar 2022 14:06:51 GMT</pubDate>
-            <description><![CDATA[Daily Cartoon: Thursday, March 31st]]></description>
         </item>
     </channel>
 </rss>
