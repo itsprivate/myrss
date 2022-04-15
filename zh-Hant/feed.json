@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/magazine/underground/04/25/a-subway-attack-bursts-an-underground-bubble",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/underground/04/25/a-subway-attack-bursts-an-underground-bubble",
+            "title": "一場地鐵襲擊刺破了地下的泡沫",
+            "summary": "A Subway Attack Bursts an Underground Bubble",
+            "date_modified": "2022-04-15T14:00:00.000Z",
+            "author": {
+                "name": "Zach Helfand",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/newsletters/archive/2022/04/elon-musk-baloney-king/629578/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/newsletters/archive/2022/04/elon-musk-baloney-king/629578/?utm_source=feed",
+            "title": "<em>《大西洋日報》<em>。埃隆-馬斯克，金銀財神",
+            "summary": "<em>The Atlantic </em>Daily: Elon Musk, Bullionaire",
+            "date_modified": "2022-04-15T13:55:54.000Z",
+            "author": {
+                "name": "Caroline Mimbs Nyce",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/books/archive/2022/04/books-briefing-belorusets-manguso/629557/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/books/archive/2022/04/books-briefing-belorusets-manguso/629557/?utm_source=feed",
+            "title": "在世界的盡頭寫日記",
+            "summary": "Keeping a Diary at the End of the World",
+            "date_modified": "2022-04-15T14:01:56.000Z",
+            "author": {
+                "name": "Kate Cray",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/health/archive/2022/04/covid-pandemic-free-summer/629568/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/health/archive/2022/04/covid-pandemic-free-summer/629568/?utm_source=feed",
@@ -7172,42 +7208,6 @@
             "author": {
                 "name": "Graeme Wood",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/03/rich-countries-immigration-border-control/629435/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/03/rich-countries-immigration-border-control/629435/?utm_source=feed",
-            "title": "移民是一種政治選擇，而不是一種確定性",
-            "summary": "Immigration Is a Political Choice—Not a Certainty",
-            "date_modified": "2022-03-31T10:01:57.000Z",
-            "author": {
-                "name": "Jennifer D. Sciubba",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/31/style/ben-mckenzie-crypto.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/31/style/ben-mckenzie-crypto.html",
-            "title": "本-麥肯齊，\"O.C.\" 明星，轉而成為加密貨幣的批評者",
-            "summary": "Ben McKenzie, “O.C.” Star, Pivots to Crypto Critic",
-            "date_modified": "2022-03-31T09:00:20.000Z",
-            "author": {
-                "name": "David Yaffe-Bellany",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/31/style/wikipedia-instagram-depths-annie-rauwerda.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/31/style/wikipedia-instagram-depths-annie-rauwerda.html",
-            "title": "在Instagram上挖掘 \"維基百科的深淵\"。",
-            "summary": "Mining the ‘Depths of Wikipedia’ on Instagram",
-            "date_modified": "2022-03-31T07:00:05.000Z",
-            "author": {
-                "name": "Anna P. Kambhampaty",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
     ]

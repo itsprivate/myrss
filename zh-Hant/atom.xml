@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-15T13:52:18.747Z</updated>
+    <updated>2022-04-15T14:14:05.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一場地鐵襲擊刺破了地下的泡沫]]></title>
+        <id>https://www.newyorker.com/magazine/underground/04/25/a-subway-attack-bursts-an-underground-bubble</id>
+        <link href="https://www.newyorker.com/magazine/underground/04/25/a-subway-attack-bursts-an-underground-bubble"/>
+        <updated>2022-04-15T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Subway Attack Bursts an Underground Bubble]]></summary>
+        <author>
+            <name>Zach Helfand</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<em>《大西洋日報》<em>。埃隆-馬斯克，金銀財神]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/04/elon-musk-baloney-king/629578/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/04/elon-musk-baloney-king/629578/?utm_source=feed"/>
+        <updated>2022-04-15T13:55:54.000Z</updated>
+        <summary type="html"><![CDATA[<em>The Atlantic </em>Daily: Elon Musk, Bullionaire]]></summary>
+        <author>
+            <name>Caroline Mimbs Nyce</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在世界的盡頭寫日記]]></title>
+        <id>https://www.theatlantic.com/books/archive/2022/04/books-briefing-belorusets-manguso/629557/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/books/archive/2022/04/books-briefing-belorusets-manguso/629557/?utm_source=feed"/>
+        <updated>2022-04-15T14:01:56.000Z</updated>
+        <summary type="html"><![CDATA[Keeping a Diary at the End of the World]]></summary>
+        <author>
+            <name>Kate Cray</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們是否已經破壞了我們的下一個COVID夏季？]]></title>
         <id>https://www.theatlantic.com/health/archive/2022/04/covid-pandemic-free-summer/629568/?utm_source=feed</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>Graeme Wood</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[移民是一種政治選擇，而不是一種確定性]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/rich-countries-immigration-border-control/629435/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/rich-countries-immigration-border-control/629435/?utm_source=feed"/>
-        <updated>2022-03-31T10:01:57.000Z</updated>
-        <summary type="html"><![CDATA[Immigration Is a Political Choice—Not a Certainty]]></summary>
-        <author>
-            <name>Jennifer D. Sciubba</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本-麥肯齊，"O.C." 明星，轉而成為加密貨幣的批評者]]></title>
-        <id>https://www.nytimes.com/2022/03/31/style/ben-mckenzie-crypto.html</id>
-        <link href="https://www.nytimes.com/2022/03/31/style/ben-mckenzie-crypto.html"/>
-        <updated>2022-03-31T09:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Ben McKenzie, “O.C.” Star, Pivots to Crypto Critic]]></summary>
-        <author>
-            <name>David Yaffe-Bellany</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Instagram上挖掘 "維基百科的深淵"。]]></title>
-        <id>https://www.nytimes.com/2022/03/31/style/wikipedia-instagram-depths-annie-rauwerda.html</id>
-        <link href="https://www.nytimes.com/2022/03/31/style/wikipedia-instagram-depths-annie-rauwerda.html"/>
-        <updated>2022-03-31T07:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Mining the ‘Depths of Wikipedia’ on Instagram]]></summary>
-        <author>
-            <name>Anna P. Kambhampaty</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>

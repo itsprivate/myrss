@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 15 Apr 2022 13:52:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 14:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一场地铁袭击刺破了地下的泡沫]]></title>
+            <link>https://www.newyorker.com/magazine/underground/04/25/a-subway-attack-bursts-an-underground-bubble</link>
+            <guid>https://www.newyorker.com/magazine/underground/04/25/a-subway-attack-bursts-an-underground-bubble</guid>
+            <pubDate>Fri, 15 Apr 2022 14:00:00 GMT</pubDate>
+            <description><![CDATA[A Subway Attack Bursts an Underground Bubble]]></description>
+        </item>
+        <item>
+            <title><![CDATA[<em>《大西洋日报》<em>。埃隆-马斯克，金银财神]]></title>
+            <link>https://www.theatlantic.com/newsletters/archive/2022/04/elon-musk-baloney-king/629578/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/newsletters/archive/2022/04/elon-musk-baloney-king/629578/?utm_source=feed</guid>
+            <pubDate>Fri, 15 Apr 2022 13:55:54 GMT</pubDate>
+            <description><![CDATA[<em>The Atlantic </em>Daily: Elon Musk, Bullionaire]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在世界的尽头写日记]]></title>
+            <link>https://www.theatlantic.com/books/archive/2022/04/books-briefing-belorusets-manguso/629557/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/books/archive/2022/04/books-briefing-belorusets-manguso/629557/?utm_source=feed</guid>
+            <pubDate>Fri, 15 Apr 2022 14:01:56 GMT</pubDate>
+            <description><![CDATA[Keeping a Diary at the End of the World]]></description>
+        </item>
         <item>
             <title><![CDATA[我们是否已经破坏了我们的下一个COVID夏季？]]></title>
             <link>https://www.theatlantic.com/health/archive/2022/04/covid-pandemic-free-summer/629568/?utm_source=feed</link>
@@ -4192,27 +4213,6 @@
             <guid>https://www.theatlantic.com/ideas/archive/2022/03/deprogramming-isis-supporters-jihadi-extremism/629433/?utm_source=feed</guid>
             <pubDate>Thu, 31 Mar 2022 10:01:57 GMT</pubDate>
             <description><![CDATA[Why an ISIS Propagandist Abandoned Islam]]></description>
-        </item>
-        <item>
-            <title><![CDATA[移民是一种政治选择，而不是一种确定性]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/rich-countries-immigration-border-control/629435/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/rich-countries-immigration-border-control/629435/?utm_source=feed</guid>
-            <pubDate>Thu, 31 Mar 2022 10:01:57 GMT</pubDate>
-            <description><![CDATA[Immigration Is a Political Choice—Not a Certainty]]></description>
-        </item>
-        <item>
-            <title><![CDATA[本-麦肯齐，"O.C." 明星，转而成为加密货币的批评者]]></title>
-            <link>https://www.nytimes.com/2022/03/31/style/ben-mckenzie-crypto.html</link>
-            <guid>https://www.nytimes.com/2022/03/31/style/ben-mckenzie-crypto.html</guid>
-            <pubDate>Thu, 31 Mar 2022 09:00:20 GMT</pubDate>
-            <description><![CDATA[Ben McKenzie, “O.C.” Star, Pivots to Crypto Critic]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在Instagram上挖掘 "维基百科的深渊"。]]></title>
-            <link>https://www.nytimes.com/2022/03/31/style/wikipedia-instagram-depths-annie-rauwerda.html</link>
-            <guid>https://www.nytimes.com/2022/03/31/style/wikipedia-instagram-depths-annie-rauwerda.html</guid>
-            <pubDate>Thu, 31 Mar 2022 07:00:05 GMT</pubDate>
-            <description><![CDATA[Mining the ‘Depths of Wikipedia’ on Instagram]]></description>
         </item>
     </channel>
 </rss>
