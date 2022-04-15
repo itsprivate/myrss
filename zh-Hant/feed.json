@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/books/archive/2022/04/future-of-work-the-employees-the-factory/629563/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/books/archive/2022/04/future-of-work-the-employees-the-factory/629563/?utm_source=feed",
+            "title": "當工作場所扭曲了你的自我意識時",
+            "summary": "When the Workplace Warps Your Sense of Self",
+            "date_modified": "2022-04-15T11:01:56.000Z",
+            "author": {
+                "name": "Stephen Kearse",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/podcasts/archive/2022/04/turning-red/629575/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/podcasts/archive/2022/04/turning-red/629575/?utm_source=feed",
+            "title": "動畫的後反派時代",
+            "summary": "The Post-Villain Era of Animation",
+            "date_modified": "2022-04-15T11:01:56.000Z",
+            "author": {
+                "name": "Lenika Cruz",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/dispatch/the-siege-of-chernihiv",
             "content_html": "",
             "url": "https://www.newyorker.com/news/dispatch/the-siege-of-chernihiv",
@@ -7183,30 +7207,6 @@
             "date_modified": "2022-03-30T18:00:00.000Z",
             "author": {
                 "name": "Christine Mari",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/humor/borowitz-report/senate-republicans-punish-susan-collins-by-making-her-sit-next-to-rand-paul",
-            "content_html": "",
-            "url": "https://www.newyorker.com/humor/borowitz-report/senate-republicans-punish-susan-collins-by-making-her-sit-next-to-rand-paul",
-            "title": "參議院共和黨人懲罰蘇珊-柯林斯，讓她坐在蘭德-保羅旁邊",
-            "summary": "Senate Republicans Punish Susan Collins By Making Her Sit Next To Rand Paul",
-            "date_modified": "2022-03-30T18:09:35.000Z",
-            "author": {
-                "name": "Andy Borowitz",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/the-front-row/squirrels-to-the-nuts-reviewed-the-directors-cut-of-peter-bogdanovichs-last-feature",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/the-front-row/squirrels-to-the-nuts-reviewed-the-directors-cut-of-peter-bogdanovichs-last-feature",
-            "title": "\"松鼠的堅果\"，評論。彼得-博格達諾維奇的最後一部作品的導演剪輯版",
-            "summary": "“Squirrels to the Nuts,” Reviewed: The Director’s Cut of Peter Bogdanovich’s Last Feature",
-            "date_modified": "2022-03-30T18:11:53.000Z",
-            "author": {
-                "name": "Richard Brody",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

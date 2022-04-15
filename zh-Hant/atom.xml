@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-15T10:13:49.112Z</updated>
+    <updated>2022-04-15T11:12:12.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[當工作場所扭曲了你的自我意識時]]></title>
+        <id>https://www.theatlantic.com/books/archive/2022/04/future-of-work-the-employees-the-factory/629563/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/books/archive/2022/04/future-of-work-the-employees-the-factory/629563/?utm_source=feed"/>
+        <updated>2022-04-15T11:01:56.000Z</updated>
+        <summary type="html"><![CDATA[When the Workplace Warps Your Sense of Self]]></summary>
+        <author>
+            <name>Stephen Kearse</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[動畫的後反派時代]]></title>
+        <id>https://www.theatlantic.com/podcasts/archive/2022/04/turning-red/629575/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/podcasts/archive/2022/04/turning-red/629575/?utm_source=feed"/>
+        <updated>2022-04-15T11:01:56.000Z</updated>
+        <summary type="html"><![CDATA[The Post-Villain Era of Animation]]></summary>
+        <author>
+            <name>Lenika Cruz</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對切爾尼戈夫的圍攻]]></title>
         <id>https://www.newyorker.com/news/dispatch/the-siege-of-chernihiv</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[That Time I Met the Spirit of the Killing Stone]]></summary>
         <author>
             <name>Christine Mari</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[參議院共和黨人懲罰蘇珊-柯林斯，讓她坐在蘭德-保羅旁邊]]></title>
-        <id>https://www.newyorker.com/humor/borowitz-report/senate-republicans-punish-susan-collins-by-making-her-sit-next-to-rand-paul</id>
-        <link href="https://www.newyorker.com/humor/borowitz-report/senate-republicans-punish-susan-collins-by-making-her-sit-next-to-rand-paul"/>
-        <updated>2022-03-30T18:09:35.000Z</updated>
-        <summary type="html"><![CDATA[Senate Republicans Punish Susan Collins By Making Her Sit Next To Rand Paul]]></summary>
-        <author>
-            <name>Andy Borowitz</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["松鼠的堅果"，評論。彼得-博格達諾維奇的最後一部作品的導演剪輯版]]></title>
-        <id>https://www.newyorker.com/culture/the-front-row/squirrels-to-the-nuts-reviewed-the-directors-cut-of-peter-bogdanovichs-last-feature</id>
-        <link href="https://www.newyorker.com/culture/the-front-row/squirrels-to-the-nuts-reviewed-the-directors-cut-of-peter-bogdanovichs-last-feature"/>
-        <updated>2022-03-30T18:11:53.000Z</updated>
-        <summary type="html"><![CDATA[“Squirrels to the Nuts,” Reviewed: The Director’s Cut of Peter Bogdanovich’s Last Feature]]></summary>
-        <author>
-            <name>Richard Brody</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

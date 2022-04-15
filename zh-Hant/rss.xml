@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 15 Apr 2022 10:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 11:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[當工作場所扭曲了你的自我意識時]]></title>
+            <link>https://www.theatlantic.com/books/archive/2022/04/future-of-work-the-employees-the-factory/629563/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/books/archive/2022/04/future-of-work-the-employees-the-factory/629563/?utm_source=feed</guid>
+            <pubDate>Fri, 15 Apr 2022 11:01:56 GMT</pubDate>
+            <description><![CDATA[When the Workplace Warps Your Sense of Self]]></description>
+        </item>
+        <item>
+            <title><![CDATA[動畫的後反派時代]]></title>
+            <link>https://www.theatlantic.com/podcasts/archive/2022/04/turning-red/629575/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/podcasts/archive/2022/04/turning-red/629575/?utm_source=feed</guid>
+            <pubDate>Fri, 15 Apr 2022 11:01:56 GMT</pubDate>
+            <description><![CDATA[The Post-Villain Era of Animation]]></description>
+        </item>
         <item>
             <title><![CDATA[對切爾尼戈夫的圍攻]]></title>
             <link>https://www.newyorker.com/news/dispatch/the-siege-of-chernihiv</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/humor/daily-shouts/that-time-i-met-the-spirit-of-the-killing-stone</guid>
             <pubDate>Wed, 30 Mar 2022 18:00:00 GMT</pubDate>
             <description><![CDATA[That Time I Met the Spirit of the Killing Stone]]></description>
-        </item>
-        <item>
-            <title><![CDATA[參議院共和黨人懲罰蘇珊-柯林斯，讓她坐在蘭德-保羅旁邊]]></title>
-            <link>https://www.newyorker.com/humor/borowitz-report/senate-republicans-punish-susan-collins-by-making-her-sit-next-to-rand-paul</link>
-            <guid>https://www.newyorker.com/humor/borowitz-report/senate-republicans-punish-susan-collins-by-making-her-sit-next-to-rand-paul</guid>
-            <pubDate>Wed, 30 Mar 2022 18:09:35 GMT</pubDate>
-            <description><![CDATA[Senate Republicans Punish Susan Collins By Making Her Sit Next To Rand Paul]]></description>
-        </item>
-        <item>
-            <title><![CDATA["松鼠的堅果"，評論。彼得-博格達諾維奇的最後一部作品的導演剪輯版]]></title>
-            <link>https://www.newyorker.com/culture/the-front-row/squirrels-to-the-nuts-reviewed-the-directors-cut-of-peter-bogdanovichs-last-feature</link>
-            <guid>https://www.newyorker.com/culture/the-front-row/squirrels-to-the-nuts-reviewed-the-directors-cut-of-peter-bogdanovichs-last-feature</guid>
-            <pubDate>Wed, 30 Mar 2022 18:11:53 GMT</pubDate>
-            <description><![CDATA[“Squirrels to the Nuts,” Reviewed: The Director’s Cut of Peter Bogdanovich’s Last Feature]]></description>
         </item>
     </channel>
 </rss>
