@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 15 Apr 2022 05:05:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 09:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[国防开支，再次]]></title>
+            <link>https://noahpinion.substack.com/p/defense-spending-again</link>
+            <guid>https://noahpinion.substack.com/p/defense-spending-again</guid>
+            <pubDate>Fri, 15 Apr 2022 08:59:22 GMT</pubDate>
+            <description><![CDATA[Defense spending, again]]></description>
+        </item>
+        <item>
+            <title><![CDATA[乔丹-贝尔福特，仍然是狼，现在喜欢加密货币]]></title>
+            <link>https://www.nytimes.com/2022/04/15/technology/jordan-belfort-wolf-cryptocurrency.html</link>
+            <guid>https://www.nytimes.com/2022/04/15/technology/jordan-belfort-wolf-cryptocurrency.html</guid>
+            <pubDate>Fri, 15 Apr 2022 09:00:27 GMT</pubDate>
+            <description><![CDATA[Jordan Belfort, Still the Wolf, Likes Crypto Now]]></description>
+        </item>
         <item>
             <title><![CDATA[本周的照片。螃蟹过境，咸海，巨大的蛋]]></title>
             <link>https://www.theatlantic.com/photo/2022/04/photos-week-crab-crossing-salty-sea-enormous-egg/629567/?utm_source=feed</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/culture/personal-history/why-an-american-writer-chooses-to-stay-in-ukraine</guid>
             <pubDate>Wed, 30 Mar 2022 16:43:42 GMT</pubDate>
             <description><![CDATA[Why an American Writer Chooses to Stay in Ukraine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日漫画。3月30日，星期三]]></title>
-            <link>https://www.newyorker.com/cartoons/daily-cartoon/wednesday-march-30th-one-upmanship</link>
-            <guid>https://www.newyorker.com/cartoons/daily-cartoon/wednesday-march-30th-one-upmanship</guid>
-            <pubDate>Wed, 30 Mar 2022 16:21:07 GMT</pubDate>
-            <description><![CDATA[Daily Cartoon: Wednesday, March 30th]]></description>
-        </item>
-        <item>
-            <title><![CDATA[想要一个物美价廉的小工具？祝您好运。]]></title>
-            <link>https://www.nytimes.com/2022/03/30/technology/higher-priced-gadgets-pandemic.html</link>
-            <guid>https://www.nytimes.com/2022/03/30/technology/higher-priced-gadgets-pandemic.html</guid>
-            <pubDate>Wed, 30 Mar 2022 16:38:06 GMT</pubDate>
-            <description><![CDATA[Want a Value-Priced Gadget? Good Luck.]]></description>
         </item>
     </channel>
 </rss>
