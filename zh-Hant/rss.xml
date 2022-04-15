@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 15 Apr 2022 15:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 16:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[揭示不可觸摸的海洋生物的真相]]></title>
+            <link>https://www.newyorker.com/science/elements/shedding-light-on-untouchable-sea-creatures</link>
+            <guid>https://www.newyorker.com/science/elements/shedding-light-on-untouchable-sea-creatures</guid>
+            <pubDate>Fri, 15 Apr 2022 15:53:14 GMT</pubDate>
+            <description><![CDATA[Shedding Light on Untouchable Sea Creatures]]></description>
+        </item>
         <item>
             <title><![CDATA[A.I.正在掌握語言。我們應該相信它所說的嗎？]]></title>
             <link>https://www.nytimes.com/2022/04/15/magazine/ai-language.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/magazine/archive/2022/05/autocracy-could-destroy-democracy-russia-ukraine/629363/?utm_source=feed</guid>
             <pubDate>Thu, 31 Mar 2022 10:01:56 GMT</pubDate>
             <description><![CDATA[There Is No Liberal World Order]]></description>
-        </item>
-        <item>
-            <title><![CDATA[<em>西區故事</em>需要更新]]></title>
-            <link>https://www.theatlantic.com/podcasts/archive/2022/03/west-side-story-needed-update/629384/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/podcasts/archive/2022/03/west-side-story-needed-update/629384/?utm_source=feed</guid>
-            <pubDate>Thu, 31 Mar 2022 10:01:56 GMT</pubDate>
-            <description><![CDATA[<em>West Side Story</em> Needed an Update]]></description>
         </item>
     </channel>
 </rss>

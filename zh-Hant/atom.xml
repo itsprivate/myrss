@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-15T15:13:49.999Z</updated>
+    <updated>2022-04-15T16:15:20.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[揭示不可觸摸的海洋生物的真相]]></title>
+        <id>https://www.newyorker.com/science/elements/shedding-light-on-untouchable-sea-creatures</id>
+        <link href="https://www.newyorker.com/science/elements/shedding-light-on-untouchable-sea-creatures"/>
+        <updated>2022-04-15T15:53:14.000Z</updated>
+        <summary type="html"><![CDATA[Shedding Light on Untouchable Sea Creatures]]></summary>
+        <author>
+            <name>Jeffrey Marlow</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A.I.正在掌握語言。我們應該相信它所說的嗎？]]></title>
         <id>https://www.nytimes.com/2022/04/15/magazine/ai-language.html</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[There Is No Liberal World Order]]></summary>
         <author>
             <name>Anne Applebaum</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<em>西區故事</em>需要更新]]></title>
-        <id>https://www.theatlantic.com/podcasts/archive/2022/03/west-side-story-needed-update/629384/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/podcasts/archive/2022/03/west-side-story-needed-update/629384/?utm_source=feed"/>
-        <updated>2022-03-31T10:01:56.000Z</updated>
-        <summary type="html"><![CDATA[<em>West Side Story</em> Needed an Update]]></summary>
-        <author>
-            <name>Sophie Gilbert</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
