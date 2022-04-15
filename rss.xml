@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 15 Apr 2022 11:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 11:30:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[填字游戏。2022年4月15日，星期五]]></title>
+            <link>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/15</link>
+            <guid>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/15</guid>
+            <pubDate>Fri, 15 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Crossword: Friday, April 15, 2022]]></description>
+        </item>
         <item>
             <title><![CDATA[当工作场所扭曲了你的自我意识时]]></title>
             <link>https://www.theatlantic.com/books/archive/2022/04/future-of-work-the-employees-the-factory/629563/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/ideas/archive/2022/03/trump-flat-circle/629431/?utm_source=feed</guid>
             <pubDate>Wed, 30 Mar 2022 18:24:57 GMT</pubDate>
             <description><![CDATA[Trump Is a Flat Circle]]></description>
-        </item>
-        <item>
-            <title><![CDATA[那次我遇到杀生石的灵魂]]></title>
-            <link>https://www.newyorker.com/humor/daily-shouts/that-time-i-met-the-spirit-of-the-killing-stone</link>
-            <guid>https://www.newyorker.com/humor/daily-shouts/that-time-i-met-the-spirit-of-the-killing-stone</guid>
-            <pubDate>Wed, 30 Mar 2022 18:00:00 GMT</pubDate>
-            <description><![CDATA[That Time I Met the Spirit of the Killing Stone]]></description>
         </item>
     </channel>
 </rss>
