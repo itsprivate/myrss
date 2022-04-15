@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-15T19:52:31.320Z</updated>
+    <updated>2022-04-15T20:14:09.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[邁克爾-R-傑克遜的 "一個奇怪的循環 "和一個互聯網恐怖故事]]></title>
+        <id>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/michael-r-jacksons-a-strange-loop-and-an-internet-horror-story</id>
+        <link href="https://www.newyorker.com/podcast/the-new-yorker-radio-hour/michael-r-jacksons-a-strange-loop-and-an-internet-horror-story"/>
+        <updated>2022-04-15T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Michael R. Jackson’s “A Strange Loop,” and an Internet Horror Story]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[戴安娜-范斯坦是參議院的未來]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/04/dianne-feinstein-retire-senate/629584/?utm_source=feed</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Tom Toro</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們必須尋找更長的時間]]></title>
-        <id>https://www.theatlantic.com/culture/archive/2022/03/sarah-meister-war-photography-ukraine/629428/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/culture/archive/2022/03/sarah-meister-war-photography-ukraine/629428/?utm_source=feed"/>
-        <updated>2022-03-31T12:45:27.000Z</updated>
-        <summary type="html"><![CDATA[‘We Have to Look for Longer’]]></summary>
-        <author>
-            <name>Sophie Gilbert</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
