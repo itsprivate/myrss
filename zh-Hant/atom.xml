@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-15T18:15:59.531Z</updated>
+    <updated>2022-04-15T18:41:29.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭的經濟前景]]></title>
+        <id>https://noahpinion.substack.com/p/ukraines-economic-future</id>
+        <link href="https://noahpinion.substack.com/p/ukraines-economic-future"/>
+        <updated>2022-03-23T09:19:58.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine's economic future]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[媽媽的裝飾品。 在我媽媽的房子裡的東西，在她的允許下，可愛地記錄了下來。]]></title>
         <id>https://www.newyorker.com/humor/daily-shouts/mom-decor-things-actually-at-my-moms-house-lovingly-documented-with-her-permission</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Kaitlyn Tiffany</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[填字遊戲: 2022年3月31日，星期四]]></title>
-        <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/31</id>
-        <link href="https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/31"/>
-        <updated>2022-03-31T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Crossword: Thursday, March 31, 2022]]></summary>
-        <author>
-            <name>Patrick Berry</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
