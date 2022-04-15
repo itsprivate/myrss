@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 15 Apr 2022 17:39:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 18:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[妈妈的装饰品。 在我妈妈的房子里的东西，在她的允许下，可爱地记录了下来。]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/mom-decor-things-actually-at-my-moms-house-lovingly-documented-with-her-permission</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/mom-decor-things-actually-at-my-moms-house-lovingly-documented-with-her-permission</guid>
+            <pubDate>Fri, 15 Apr 2022 18:00:00 GMT</pubDate>
+            <description><![CDATA[Mom Décor: Things Actually at My Mom’s House, Lovingly Documented with Her Permission]]></description>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯媒体如何利用福克斯新闻做文章]]></title>
+            <link>https://www.nytimes.com/2022/04/15/technology/russia-media-fox-news.html</link>
+            <guid>https://www.nytimes.com/2022/04/15/technology/russia-media-fox-news.html</guid>
+            <pubDate>Fri, 15 Apr 2022 18:06:06 GMT</pubDate>
+            <description><![CDATA[How Russia Media Uses Fox News to Make Its Case]]></description>
+        </item>
         <item>
             <title><![CDATA[火岛的生与死]]></title>
             <link>https://www.newyorker.com/culture/photo-booth/life-and-death-on-fire-island</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/03/31</guid>
             <pubDate>Thu, 31 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[The Crossword: Thursday, March 31, 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你最喜欢的科技公司的愚人节]]></title>
-            <link>https://www.newyorker.com/humor/daily-shouts/april-fools-from-your-favorite-tech-company</link>
-            <guid>https://www.newyorker.com/humor/daily-shouts/april-fools-from-your-favorite-tech-company</guid>
-            <pubDate>Thu, 31 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[April Fools’ from Your Favorite Tech Company]]></description>
-        </item>
-        <item>
-            <title><![CDATA[落名：2022年3月31日，星期四]]></title>
-            <link>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/31</link>
-            <guid>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/31</guid>
-            <pubDate>Thu, 31 Mar 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Name Drop: Thursday, March 31, 2022]]></description>
         </item>
     </channel>
 </rss>

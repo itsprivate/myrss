@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-15T17:39:52.211Z</updated>
+    <updated>2022-04-15T18:15:59.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[媽媽的裝飾品。 在我媽媽的房子裡的東西，在她的允許下，可愛地記錄了下來。]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/mom-decor-things-actually-at-my-moms-house-lovingly-documented-with-her-permission</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/mom-decor-things-actually-at-my-moms-house-lovingly-documented-with-her-permission"/>
+        <updated>2022-04-15T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mom Décor: Things Actually at My Mom’s House, Lovingly Documented with Her Permission]]></summary>
+        <author>
+            <name>Dahlia Gallin Ramirez</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯媒體如何利用福克斯新聞做文章]]></title>
+        <id>https://www.nytimes.com/2022/04/15/technology/russia-media-fox-news.html</id>
+        <link href="https://www.nytimes.com/2022/04/15/technology/russia-media-fox-news.html"/>
+        <updated>2022-04-15T18:06:06.000Z</updated>
+        <summary type="html"><![CDATA[How Russia Media Uses Fox News to Make Its Case]]></summary>
+        <author>
+            <name>Stuart A. Thompson</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[火島的生與死]]></title>
         <id>https://www.newyorker.com/culture/photo-booth/life-and-death-on-fire-island</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[The Crossword: Thursday, March 31, 2022]]></summary>
         <author>
             <name>Patrick Berry</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你最喜歡的科技公司的愚人節]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/april-fools-from-your-favorite-tech-company</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/april-fools-from-your-favorite-tech-company"/>
-        <updated>2022-03-31T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[April Fools’ from Your Favorite Tech Company]]></summary>
-        <author>
-            <name>Lillian Stone, Jon Plester, Nate Odenkirk</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[落名：2022年3月31日，星期四]]></title>
-        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/31</id>
-        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/31"/>
-        <updated>2022-03-31T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Name Drop: Thursday, March 31, 2022]]></summary>
-        <author>
-            <name>Liz Maynes-Aminzade</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
