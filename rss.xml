@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 15 Apr 2022 16:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 17:39:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[火岛的生与死]]></title>
+            <link>https://www.newyorker.com/culture/photo-booth/life-and-death-on-fire-island</link>
+            <guid>https://www.newyorker.com/culture/photo-booth/life-and-death-on-fire-island</guid>
+            <pubDate>Fri, 15 Apr 2022 17:19:08 GMT</pubDate>
+            <description><![CDATA[Life and Death on Fire Island]]></description>
+        </item>
+        <item>
+            <title><![CDATA[推特采用毒药丸来对抗马斯克的收购]]></title>
+            <link>https://www.nytimes.com/2022/04/15/business/twitter-poison-pill-elon-musk.html</link>
+            <guid>https://www.nytimes.com/2022/04/15/business/twitter-poison-pill-elon-musk.html</guid>
+            <pubDate>Fri, 15 Apr 2022 17:30:34 GMT</pubDate>
+            <description><![CDATA[Twitter Employs Poison Pill to Counter Musk Takeover]]></description>
+        </item>
         <item>
             <title><![CDATA[揭示不可触摸的海洋生物的真相]]></title>
             <link>https://www.newyorker.com/science/elements/shedding-light-on-untouchable-sea-creatures</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/03/31</guid>
             <pubDate>Thu, 31 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Name Drop: Thursday, March 31, 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[战争变得诡异]]></title>
-            <link>https://noahpinion.substack.com/p/war-got-weird</link>
-            <guid>https://noahpinion.substack.com/p/war-got-weird</guid>
-            <pubDate>Thu, 31 Mar 2022 09:53:52 GMT</pubDate>
-            <description><![CDATA[War got weird]]></description>
-        </item>
-        <item>
-            <title><![CDATA[没有自由的世界秩序]]></title>
-            <link>https://www.theatlantic.com/magazine/archive/2022/05/autocracy-could-destroy-democracy-russia-ukraine/629363/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/magazine/archive/2022/05/autocracy-could-destroy-democracy-russia-ukraine/629363/?utm_source=feed</guid>
-            <pubDate>Thu, 31 Mar 2022 10:01:56 GMT</pubDate>
-            <description><![CDATA[There Is No Liberal World Order]]></description>
         </item>
     </channel>
 </rss>

@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/culture/photo-booth/life-and-death-on-fire-island",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/photo-booth/life-and-death-on-fire-island",
+            "title": "火島的生與死",
+            "summary": "Life and Death on Fire Island",
+            "date_modified": "2022-04-15T17:19:08.000Z",
+            "author": {
+                "name": "Jack Parlett",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/04/15/business/twitter-poison-pill-elon-musk.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/15/business/twitter-poison-pill-elon-musk.html",
+            "title": "推特採用毒藥丸來對抗馬斯克的收購",
+            "summary": "Twitter Employs Poison Pill to Counter Musk Takeover",
+            "date_modified": "2022-04-15T17:30:34.000Z",
+            "author": {
+                "name": "Lauren Hirsch and Kate Conger",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/science/elements/shedding-light-on-untouchable-sea-creatures",
             "content_html": "",
             "url": "https://www.newyorker.com/science/elements/shedding-light-on-untouchable-sea-creatures",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "Liz Maynes-Aminzade",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://noahpinion.substack.com/p/war-got-weird",
-            "content_html": "",
-            "url": "https://noahpinion.substack.com/p/war-got-weird",
-            "title": "戰爭變得詭異",
-            "summary": "War got weird",
-            "date_modified": "2022-03-31T09:53:52.000Z",
-            "author": {
-                "name": "Noah Smith",
-                "url": "https://noahpinion.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/magazine/archive/2022/05/autocracy-could-destroy-democracy-russia-ukraine/629363/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/magazine/archive/2022/05/autocracy-could-destroy-democracy-russia-ukraine/629363/?utm_source=feed",
-            "title": "沒有自由的世界秩序",
-            "summary": "There Is No Liberal World Order",
-            "date_modified": "2022-03-31T10:01:56.000Z",
-            "author": {
-                "name": "Anne Applebaum",
-                "url": "https://www.theatlantic.com/feed/all/"
             }
         }
     ]

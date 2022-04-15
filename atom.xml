@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-15T16:15:20.094Z</updated>
+    <updated>2022-04-15T17:39:52.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[火岛的生与死]]></title>
+        <id>https://www.newyorker.com/culture/photo-booth/life-and-death-on-fire-island</id>
+        <link href="https://www.newyorker.com/culture/photo-booth/life-and-death-on-fire-island"/>
+        <updated>2022-04-15T17:19:08.000Z</updated>
+        <summary type="html"><![CDATA[Life and Death on Fire Island]]></summary>
+        <author>
+            <name>Jack Parlett</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[推特采用毒药丸来对抗马斯克的收购]]></title>
+        <id>https://www.nytimes.com/2022/04/15/business/twitter-poison-pill-elon-musk.html</id>
+        <link href="https://www.nytimes.com/2022/04/15/business/twitter-poison-pill-elon-musk.html"/>
+        <updated>2022-04-15T17:30:34.000Z</updated>
+        <summary type="html"><![CDATA[Twitter Employs Poison Pill to Counter Musk Takeover]]></summary>
+        <author>
+            <name>Lauren Hirsch and Kate Conger</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[揭示不可触摸的海洋生物的真相]]></title>
         <id>https://www.newyorker.com/science/elements/shedding-light-on-untouchable-sea-creatures</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Liz Maynes-Aminzade</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[战争变得诡异]]></title>
-        <id>https://noahpinion.substack.com/p/war-got-weird</id>
-        <link href="https://noahpinion.substack.com/p/war-got-weird"/>
-        <updated>2022-03-31T09:53:52.000Z</updated>
-        <summary type="html"><![CDATA[War got weird]]></summary>
-        <author>
-            <name>Noah Smith</name>
-            <uri>https://noahpinion.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[没有自由的世界秩序]]></title>
-        <id>https://www.theatlantic.com/magazine/archive/2022/05/autocracy-could-destroy-democracy-russia-ukraine/629363/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/magazine/archive/2022/05/autocracy-could-destroy-democracy-russia-ukraine/629363/?utm_source=feed"/>
-        <updated>2022-03-31T10:01:56.000Z</updated>
-        <summary type="html"><![CDATA[There Is No Liberal World Order]]></summary>
-        <author>
-            <name>Anne Applebaum</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
