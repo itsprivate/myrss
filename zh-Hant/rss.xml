@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 15 Apr 2022 04:33:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 05:05:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[本週的照片。螃蟹過境，鹹海，巨大的蛋]]></title>
+            <link>https://www.theatlantic.com/photo/2022/04/photos-week-crab-crossing-salty-sea-enormous-egg/629567/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/photo/2022/04/photos-week-crab-crossing-salty-sea-enormous-egg/629567/?utm_source=feed</guid>
+            <pubDate>Fri, 15 Apr 2022 04:30:56 GMT</pubDate>
+            <description><![CDATA[Photos of the Week: Crab Crossing, Salty Sea, Enormous Egg]]></description>
+        </item>
         <item>
             <title><![CDATA[知識部]]></title>
             <link>https://www.newyorker.com/magazine/dept-of-knowledge</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.nytimes.com/2022/03/30/technology/higher-priced-gadgets-pandemic.html</guid>
             <pubDate>Wed, 30 Mar 2022 16:38:06 GMT</pubDate>
             <description><![CDATA[Want a Value-Priced Gadget? Good Luck.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[不能回家的特別悲痛]]></title>
-            <link>https://www.theatlantic.com/family/archive/2022/03/migratory-grief-ukraine-hong-kong/629426/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/family/archive/2022/03/migratory-grief-ukraine-hong-kong/629426/?utm_source=feed</guid>
-            <pubDate>Wed, 30 Mar 2022 16:01:38 GMT</pubDate>
-            <description><![CDATA[The Particular Grief of Not Being Able to Go Home]]></description>
         </item>
     </channel>
 </rss>
