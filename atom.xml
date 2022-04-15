@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-15T12:20:33.417Z</updated>
+    <updated>2022-04-15T13:52:18.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们是否已经破坏了我们的下一个COVID夏季？]]></title>
+        <id>https://www.theatlantic.com/health/archive/2022/04/covid-pandemic-free-summer/629568/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/health/archive/2022/04/covid-pandemic-free-summer/629568/?utm_source=feed"/>
+        <updated>2022-04-15T13:40:32.000Z</updated>
+        <summary type="html"><![CDATA[Did We Already Ruin Our Next COVID Summer?]]></summary>
+        <author>
+            <name>Katherine J. Wu</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自我表达]]></title>
         <id>https://austinkleon.substack.com/p/self-expression</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Anna P. Kambhampaty</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拜登也是俄乌战争中的一张王牌]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2022/03/biden-is-a-wild-card-in-the-russia-ukraine-war-too/629434/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/biden-is-a-wild-card-in-the-russia-ukraine-war-too/629434/?utm_source=feed"/>
-        <updated>2022-03-30T21:53:34.000Z</updated>
-        <summary type="html"><![CDATA[Biden Is a Wild Card in the Russia-Ukraine War, Too]]></summary>
-        <author>
-            <name>Conor Friedersdorf</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 15 Apr 2022 12:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 13:52:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我們是否已經破壞了我們的下一個COVID夏季？]]></title>
+            <link>https://www.theatlantic.com/health/archive/2022/04/covid-pandemic-free-summer/629568/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/health/archive/2022/04/covid-pandemic-free-summer/629568/?utm_source=feed</guid>
+            <pubDate>Fri, 15 Apr 2022 13:40:32 GMT</pubDate>
+            <description><![CDATA[Did We Already Ruin Our Next COVID Summer?]]></description>
+        </item>
         <item>
             <title><![CDATA[自我表達]]></title>
             <link>https://austinkleon.substack.com/p/self-expression</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.nytimes.com/2022/03/31/style/wikipedia-instagram-depths-annie-rauwerda.html</guid>
             <pubDate>Thu, 31 Mar 2022 07:00:05 GMT</pubDate>
             <description><![CDATA[Mining the ‘Depths of Wikipedia’ on Instagram]]></description>
-        </item>
-        <item>
-            <title><![CDATA[拜登也是俄烏戰爭中的一張王牌]]></title>
-            <link>https://www.theatlantic.com/newsletters/archive/2022/03/biden-is-a-wild-card-in-the-russia-ukraine-war-too/629434/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/newsletters/archive/2022/03/biden-is-a-wild-card-in-the-russia-ukraine-war-too/629434/?utm_source=feed</guid>
-            <pubDate>Wed, 30 Mar 2022 21:53:34 GMT</pubDate>
-            <description><![CDATA[Biden Is a Wild Card in the Russia-Ukraine War, Too]]></description>
         </item>
     </channel>
 </rss>
