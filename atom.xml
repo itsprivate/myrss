@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-16T02:20:47.693Z</updated>
+    <updated>2022-04-16T06:14:35.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[鲍里斯-约翰逊与福图纳一起旅行]]></title>
+        <id>https://www.theatlantic.com/international/archive/2022/04/boris-johnson-ukraine-covid-lockdown-party/629576/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/international/archive/2022/04/boris-johnson-ukraine-covid-lockdown-party/629576/?utm_source=feed"/>
+        <updated>2022-04-16T06:01:56.000Z</updated>
+        <summary type="html"><![CDATA[Boris Johnson Travels With Fortuna]]></summary>
+        <author>
+            <name>Tom McTague</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[动视称将配合内幕交易调查]]></title>
         <id>https://www.nytimes.com/2022/04/15/technology/activision-sec-insider-trading.html</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[A Second Booster Can’t Hurt]]></summary>
         <author>
             <name>Rachel Gutman</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以色列的一个熟悉的剧本可能有一个新的结局]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/03/israel-violence-extremists/629441/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/03/israel-violence-extremists/629441/?utm_source=feed"/>
-        <updated>2022-03-31T17:28:33.000Z</updated>
-        <summary type="html"><![CDATA[A Familiar Script in Israel Might Have a New Ending]]></summary>
-        <author>
-            <name>Yair Rosenberg</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>

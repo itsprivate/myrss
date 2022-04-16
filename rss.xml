@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 16 Apr 2022 02:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 06:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[鲍里斯-约翰逊与福图纳一起旅行]]></title>
+            <link>https://www.theatlantic.com/international/archive/2022/04/boris-johnson-ukraine-covid-lockdown-party/629576/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/international/archive/2022/04/boris-johnson-ukraine-covid-lockdown-party/629576/?utm_source=feed</guid>
+            <pubDate>Sat, 16 Apr 2022 06:01:56 GMT</pubDate>
+            <description><![CDATA[Boris Johnson Travels With Fortuna]]></description>
+        </item>
         <item>
             <title><![CDATA[动视称将配合内幕交易调查]]></title>
             <link>https://www.nytimes.com/2022/04/15/technology/activision-sec-insider-trading.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/health/archive/2022/03/do-i-need-second-covid-booster-shot/629440/?utm_source=feed</guid>
             <pubDate>Thu, 31 Mar 2022 17:08:16 GMT</pubDate>
             <description><![CDATA[A Second Booster Can’t Hurt]]></description>
-        </item>
-        <item>
-            <title><![CDATA[以色列的一个熟悉的剧本可能有一个新的结局]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/03/israel-violence-extremists/629441/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/03/israel-violence-extremists/629441/?utm_source=feed</guid>
-            <pubDate>Thu, 31 Mar 2022 17:28:33 GMT</pubDate>
-            <description><![CDATA[A Familiar Script in Israel Might Have a New Ending]]></description>
         </item>
     </channel>
 </rss>
