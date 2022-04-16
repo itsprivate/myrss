@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-15T21:31:53.214Z</updated>
+    <updated>2022-04-16T00:43:23.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[本週一爾灣聚會]]></title>
+        <id>https://astralcodexten.substack.com/p/irvine-meetup-this-monday</id>
+        <link href="https://astralcodexten.substack.com/p/irvine-meetup-this-monday"/>
+        <updated>2022-04-16T00:28:36.000Z</updated>
+        <summary type="html"><![CDATA[Irvine Meetup This Monday]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[隱秘的開放性主題219.5]]></title>
         <id>https://astralcodexten.substack.com/p/hidden-open-thread-2195</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Shira Ovide</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被 "變紅 "所累的方式不止一種]]></title>
-        <id>https://www.newyorker.com/culture/culture-desk/there-is-more-than-one-way-to-be-exhausted-by-turning-red</id>
-        <link href="https://www.newyorker.com/culture/culture-desk/there-is-more-than-one-way-to-be-exhausted-by-turning-red"/>
-        <updated>2022-03-31T15:19:11.000Z</updated>
-        <summary type="html"><![CDATA[There Is More Than One Way to Be Exhausted by “Turning Red”]]></summary>
-        <author>
-            <name>Jane Hu</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
