@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 16 Apr 2022 10:36:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 10:52:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[鼠藥。殺死老鼠]]></title>
+            <link>https://blackgnu.net/ratpoison.html</link>
+            <guid>https://blackgnu.net/ratpoison.html</guid>
+            <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Ratpoison: Kill the rat]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你不需要一臺新電腦]]></title>
+            <link>https://blackgnu.net/you-dont-need-a-new-computer.html</link>
+            <guid>https://blackgnu.net/you-dont-need-a-new-computer.html</guid>
+            <pubDate>Tue, 27 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[You don't need a new computer]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Systemd，一個你應該避免的爛東西]]></title>
+            <link>https://blackgnu.net/systemd-sucks.html</link>
+            <guid>https://blackgnu.net/systemd-sucks.html</guid>
+            <pubDate>Sun, 09 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Systemd, a piece of shit you should avoid]]></description>
+        </item>
         <item>
             <title><![CDATA[火狐瀏覽器加固指南]]></title>
             <link>https://blackgnu.net/firefox-hardening-guide.html</link>
@@ -4192,27 +4213,6 @@
             <guid>https://www.newyorker.com/news/daily-comment/a-better-idea-than-releasing-oil-from-the-strategic-reserve</guid>
             <pubDate>Fri, 01 Apr 2022 00:12:29 GMT</pubDate>
             <description><![CDATA[A Better Idea Than Releasing Oil from the Strategic Reserve]]></description>
-        </item>
-        <item>
-            <title><![CDATA[千禧年的審美為你的吸塵器而來]]></title>
-            <link>https://www.newyorker.com/culture/infinite-scroll/the-millennial-aesthetic-comes-for-your-vacuum-cleaner</link>
-            <guid>https://www.newyorker.com/culture/infinite-scroll/the-millennial-aesthetic-comes-for-your-vacuum-cleaner</guid>
-            <pubDate>Fri, 01 Apr 2022 00:29:39 GMT</pubDate>
-            <description><![CDATA[The Millennial Aesthetic Comes for Your Vacuum Cleaner]]></description>
-        </item>
-        <item>
-            <title><![CDATA["阿波羅10號半"，評論。理查德-林克萊特將內在和外在生活結合起來]]></title>
-            <link>https://www.newyorker.com/culture/the-front-row/apollo-10-12-reviewed-richard-linklater-unites-inner-and-outer-life</link>
-            <guid>https://www.newyorker.com/culture/the-front-row/apollo-10-12-reviewed-richard-linklater-unites-inner-and-outer-life</guid>
-            <pubDate>Thu, 31 Mar 2022 22:44:37 GMT</pubDate>
-            <description><![CDATA[“Apollo 10 1/2,” Reviewed: Richard Linklater Unites Inner and Outer Life]]></description>
-        </item>
-        <item>
-            <title><![CDATA[奧爾德斯-哈丁的隱秘敘事]]></title>
-            <link>https://www.newyorker.com/culture/listening-booth/the-cryptic-storytelling-of-aldous-harding</link>
-            <guid>https://www.newyorker.com/culture/listening-booth/the-cryptic-storytelling-of-aldous-harding</guid>
-            <pubDate>Thu, 31 Mar 2022 21:42:15 GMT</pubDate>
-            <description><![CDATA[The Cryptic Storytelling of Aldous Harding]]></description>
         </item>
     </channel>
 </rss>
