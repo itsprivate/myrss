@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-16T10:52:53.585Z</updated>
+    <updated>2022-04-16T12:54:21.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Jerrod Carmichael的<em>Rothaniel</em>用沉默讲述了一个故事]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/04/jerrod-carmichael-rothaniel-hbo-review/629588/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/04/jerrod-carmichael-rothaniel-hbo-review/629588/?utm_source=feed"/>
+        <updated>2022-04-16T12:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Jerrod Carmichael’s <em>Rothaniel</em> Tells a Story With Silence]]></summary>
+        <author>
+            <name>Shirley Li</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鼠药。杀死老鼠]]></title>
         <id>https://blackgnu.net/ratpoison.html</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Ana Swanson</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个比从战略储备中释放石油更好的想法]]></title>
-        <id>https://www.newyorker.com/news/daily-comment/a-better-idea-than-releasing-oil-from-the-strategic-reserve</id>
-        <link href="https://www.newyorker.com/news/daily-comment/a-better-idea-than-releasing-oil-from-the-strategic-reserve"/>
-        <updated>2022-04-01T00:12:29.000Z</updated>
-        <summary type="html"><![CDATA[A Better Idea Than Releasing Oil from the Strategic Reserve]]></summary>
-        <author>
-            <name>Elizabeth Kolbert</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>

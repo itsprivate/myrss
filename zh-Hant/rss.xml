@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 16 Apr 2022 10:52:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 12:54:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Jerrod Carmichael的<em>Rothaniel</em>用沉默講述了一個故事]]></title>
+            <link>https://www.theatlantic.com/culture/archive/2022/04/jerrod-carmichael-rothaniel-hbo-review/629588/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/culture/archive/2022/04/jerrod-carmichael-rothaniel-hbo-review/629588/?utm_source=feed</guid>
+            <pubDate>Sat, 16 Apr 2022 12:00:56 GMT</pubDate>
+            <description><![CDATA[Jerrod Carmichael’s <em>Rothaniel</em> Tells a Story With Silence]]></description>
+        </item>
         <item>
             <title><![CDATA[鼠藥。殺死老鼠]]></title>
             <link>https://blackgnu.net/ratpoison.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.nytimes.com/2022/03/31/business/economy/biden-minerals-defense-production-act.html</guid>
             <pubDate>Thu, 31 Mar 2022 21:17:57 GMT</pubDate>
             <description><![CDATA[Biden Invokes Defense Production Act to Boost Critical Mineral Supply]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一個比從戰略儲備中釋放石油更好的想法]]></title>
-            <link>https://www.newyorker.com/news/daily-comment/a-better-idea-than-releasing-oil-from-the-strategic-reserve</link>
-            <guid>https://www.newyorker.com/news/daily-comment/a-better-idea-than-releasing-oil-from-the-strategic-reserve</guid>
-            <pubDate>Fri, 01 Apr 2022 00:12:29 GMT</pubDate>
-            <description><![CDATA[A Better Idea Than Releasing Oil from the Strategic Reserve]]></description>
         </item>
     </channel>
 </rss>
