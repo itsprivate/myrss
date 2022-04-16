@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 16 Apr 2022 10:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 10:36:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,41 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[火狐瀏覽器加固指南]]></title>
+            <link>https://blackgnu.net/firefox-hardening-guide.html</link>
+            <guid>https://blackgnu.net/firefox-hardening-guide.html</guid>
+            <pubDate>Tue, 25 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Firefox Hardening Guide]]></description>
+        </item>
+        <item>
+            <title><![CDATA[勇敢的，虛假的隱私感覺]]></title>
+            <link>https://blackgnu.net/brave-is-shit.html</link>
+            <guid>https://blackgnu.net/brave-is-shit.html</guid>
+            <pubDate>Tue, 08 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Brave, the false sensation of privacy]]></description>
+        </item>
+        <item>
+            <title><![CDATA[安卓隱私指南。零信任]]></title>
+            <link>https://blackgnu.net/android-privacy-guide.html</link>
+            <guid>https://blackgnu.net/android-privacy-guide.html</guid>
+            <pubDate>Wed, 28 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Android Privacy Guide: Zero Trust]]></description>
+        </item>
+        <item>
+            <title><![CDATA[關於區塊鏈和Web3]]></title>
+            <link>https://blackgnu.net/on-blockchain.html</link>
+            <guid>https://blackgnu.net/on-blockchain.html</guid>
+            <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[On blockchain and Web3]]></description>
+        </item>
+        <item>
+            <title><![CDATA[博客更新]]></title>
+            <link>https://blackgnu.net/blog-update.html</link>
+            <guid>https://blackgnu.net/blog-update.html</guid>
+            <pubDate>Sat, 05 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Blog update]]></description>
+        </item>
         <item>
             <title><![CDATA[特朗普上臺後的第一次共和黨競選]]></title>
             <link>https://www.newyorker.com/news/the-political-scene/the-first-post-trump-republican-race</link>
@@ -4178,41 +4213,6 @@
             <guid>https://www.newyorker.com/culture/listening-booth/the-cryptic-storytelling-of-aldous-harding</guid>
             <pubDate>Thu, 31 Mar 2022 21:42:15 GMT</pubDate>
             <description><![CDATA[The Cryptic Storytelling of Aldous Harding]]></description>
-        </item>
-        <item>
-            <title><![CDATA[奧爾德斯-哈丁的隱秘敘事]]></title>
-            <link>https://www.newyorker.com/culture/listening-booth/the-cryptic-storytelling-of-aldous-harding</link>
-            <guid>https://www.newyorker.com/culture/listening-booth/the-cryptic-storytelling-of-aldous-harding</guid>
-            <pubDate>Thu, 31 Mar 2022 21:42:15 GMT</pubDate>
-            <description><![CDATA[The Cryptic Storytelling of Aldous Harding]]></description>
-        </item>
-        <item>
-            <title><![CDATA[工會在阿拉巴馬州的亞馬遜投票中處於落後地位，挑戰正在進行中]]></title>
-            <link>https://www.nytimes.com/2022/03/31/technology/amazon-union-election-alabama.html</link>
-            <guid>https://www.nytimes.com/2022/03/31/technology/amazon-union-election-alabama.html</guid>
-            <pubDate>Thu, 31 Mar 2022 21:26:01 GMT</pubDate>
-            <description><![CDATA[Union Trails in Amazon Vote in Alabama, With Challenges Pending]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日新聞]]></title>
-            <link>https://www.newyorker.com/newsletter/the-daily</link>
-            <guid>https://www.newyorker.com/newsletter/the-daily</guid>
-            <pubDate>Thu, 31 Mar 2022 20:48:16 GMT</pubDate>
-            <description><![CDATA[The Daily]]></description>
-        </item>
-        <item>
-            <title><![CDATA[<em>Morbius</em>是一個非常令人討厭的怪人的肖像]]></title>
-            <link>https://www.theatlantic.com/culture/archive/2022/03/morbius-review-jared-leto/629442/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/culture/archive/2022/03/morbius-review-jared-leto/629442/?utm_source=feed</guid>
-            <pubDate>Thu, 31 Mar 2022 20:19:41 GMT</pubDate>
-            <description><![CDATA[<em>Morbius</em> Is a Portrait of a Very Annoying Weirdo]]></description>
-        </item>
-        <item>
-            <title><![CDATA[成年人還是受性虐待的未成年人？正確的做法讓Facebook感到不安]]></title>
-            <link>https://www.nytimes.com/2022/03/31/business/meta-child-sexual-abuse.html</link>
-            <guid>https://www.nytimes.com/2022/03/31/business/meta-child-sexual-abuse.html</guid>
-            <pubDate>Thu, 31 Mar 2022 19:38:51 GMT</pubDate>
-            <description><![CDATA[Adults or Sexually Abused Minors? Getting It Right Vexes Facebook]]></description>
         </item>
     </channel>
 </rss>

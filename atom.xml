@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-16T10:15:43.901Z</updated>
+    <updated>2022-04-16T10:36:53.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[火狐浏览器加固指南]]></title>
+        <id>https://blackgnu.net/firefox-hardening-guide.html</id>
+        <link href="https://blackgnu.net/firefox-hardening-guide.html"/>
+        <updated>2021-05-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Firefox Hardening Guide]]></summary>
+        <author>
+            <name>Werwolf</name>
+            <uri>https://blackgnu.net/atom.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[勇敢的，虚假的隐私感觉]]></title>
+        <id>https://blackgnu.net/brave-is-shit.html</id>
+        <link href="https://blackgnu.net/brave-is-shit.html"/>
+        <updated>2021-06-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Brave, the false sensation of privacy]]></summary>
+        <author>
+            <name>Werwolf</name>
+            <uri>https://blackgnu.net/atom.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安卓隐私指南。零信任]]></title>
+        <id>https://blackgnu.net/android-privacy-guide.html</id>
+        <link href="https://blackgnu.net/android-privacy-guide.html"/>
+        <updated>2021-07-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Android Privacy Guide: Zero Trust]]></summary>
+        <author>
+            <name>Werwolf</name>
+            <uri>https://blackgnu.net/atom.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于区块链和Web3]]></title>
+        <id>https://blackgnu.net/on-blockchain.html</id>
+        <link href="https://blackgnu.net/on-blockchain.html"/>
+        <updated>2022-01-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On blockchain and Web3]]></summary>
+        <author>
+            <name>Werwolf</name>
+            <uri>https://blackgnu.net/atom.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[博客更新]]></title>
+        <id>https://blackgnu.net/blog-update.html</id>
+        <link href="https://blackgnu.net/blog-update.html"/>
+        <updated>2022-02-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Blog update]]></summary>
+        <author>
+            <name>Werwolf</name>
+            <uri>https://blackgnu.net/atom.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[特朗普上台后的第一次共和党竞选]]></title>
         <id>https://www.newyorker.com/news/the-political-scene/the-first-post-trump-republican-race</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>Sheldon Pearce</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奥尔德斯-哈丁的隐秘叙事]]></title>
-        <id>https://www.newyorker.com/culture/listening-booth/the-cryptic-storytelling-of-aldous-harding</id>
-        <link href="https://www.newyorker.com/culture/listening-booth/the-cryptic-storytelling-of-aldous-harding"/>
-        <updated>2022-03-31T21:42:15.000Z</updated>
-        <summary type="html"><![CDATA[The Cryptic Storytelling of Aldous Harding]]></summary>
-        <author>
-            <name>Sheldon Pearce</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[工会在阿拉巴马州的亚马逊投票中处于落后地位，挑战正在进行中]]></title>
-        <id>https://www.nytimes.com/2022/03/31/technology/amazon-union-election-alabama.html</id>
-        <link href="https://www.nytimes.com/2022/03/31/technology/amazon-union-election-alabama.html"/>
-        <updated>2022-03-31T21:26:01.000Z</updated>
-        <summary type="html"><![CDATA[Union Trails in Amazon Vote in Alabama, With Challenges Pending]]></summary>
-        <author>
-            <name>Noam Scheiber</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日新闻]]></title>
-        <id>https://www.newyorker.com/newsletter/the-daily</id>
-        <link href="https://www.newyorker.com/newsletter/the-daily"/>
-        <updated>2022-03-31T20:48:16.000Z</updated>
-        <summary type="html"><![CDATA[The Daily]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<em>Morbius</em>是一个非常令人讨厌的怪人的肖像]]></title>
-        <id>https://www.theatlantic.com/culture/archive/2022/03/morbius-review-jared-leto/629442/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/culture/archive/2022/03/morbius-review-jared-leto/629442/?utm_source=feed"/>
-        <updated>2022-03-31T20:19:41.000Z</updated>
-        <summary type="html"><![CDATA[<em>Morbius</em> Is a Portrait of a Very Annoying Weirdo]]></summary>
-        <author>
-            <name>David Sims</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[成年人还是受性虐待的未成年人？正确的做法让Facebook感到不安]]></title>
-        <id>https://www.nytimes.com/2022/03/31/business/meta-child-sexual-abuse.html</id>
-        <link href="https://www.nytimes.com/2022/03/31/business/meta-child-sexual-abuse.html"/>
-        <updated>2022-03-31T19:38:51.000Z</updated>
-        <summary type="html"><![CDATA[Adults or Sexually Abused Minors? Getting It Right Vexes Facebook]]></summary>
-        <author>
-            <name>Michael H. Keller</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>
