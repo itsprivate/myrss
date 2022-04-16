@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 16 Apr 2022 09:32:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 10:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,41 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[特朗普上台后的第一次共和党竞选]]></title>
+            <link>https://www.newyorker.com/news/the-political-scene/the-first-post-trump-republican-race</link>
+            <guid>https://www.newyorker.com/news/the-political-scene/the-first-post-trump-republican-race</guid>
+            <pubDate>Sat, 16 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The First Post-Trump Republican Race]]></description>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰官员在晚餐时过着双重生活]]></title>
+            <link>https://www.newyorker.com/magazine/2022/04/25/the-ukrainian-officials-leading-double-lives-over-dinner</link>
+            <guid>https://www.newyorker.com/magazine/2022/04/25/the-ukrainian-officials-leading-double-lives-over-dinner</guid>
+            <pubDate>Sat, 16 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Ukrainian Officials Leading Double Lives Over Dinner]]></description>
+        </item>
+        <item>
+            <title><![CDATA[埃隆-马斯克的推特民意调查草稿文件夹]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/elon-musks-twitter-poll-draft-folder</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/elon-musks-twitter-poll-draft-folder</guid>
+            <pubDate>Sat, 16 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Elon Musk’s Twitter-Poll Draft Folder]]></description>
+        </item>
+        <item>
+            <title><![CDATA[粘土机针对拜登提名的几十位候选人]]></title>
+            <link>https://www.newyorker.com/news/a-reporter-at-large/the-slime-machine-targeting-dozens-of-biden-nominees</link>
+            <guid>https://www.newyorker.com/news/a-reporter-at-large/the-slime-machine-targeting-dozens-of-biden-nominees</guid>
+            <pubDate>Sat, 16 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Slime Machine Targeting Dozens of Biden Nominees]]></description>
+        </item>
+        <item>
+            <title><![CDATA[更多共和党人应该谈论的危险]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/white-supremacy-grooming-in-republican-party/629585/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/white-supremacy-grooming-in-republican-party/629585/?utm_source=feed</guid>
+            <pubDate>Sat, 16 Apr 2022 10:00:56 GMT</pubDate>
+            <description><![CDATA[The Danger More Republicans Should Be Talking About]]></description>
+        </item>
         <item>
             <title><![CDATA[苍月淬炼指南]]></title>
             <link>https://blackgnu.net/palemoon-hardening.html</link>
@@ -4178,41 +4213,6 @@
             <guid>https://www.nytimes.com/2022/03/31/business/meta-child-sexual-abuse.html</guid>
             <pubDate>Thu, 31 Mar 2022 19:38:51 GMT</pubDate>
             <description><![CDATA[Adults or Sexually Abused Minors? Getting It Right Vexes Facebook]]></description>
-        </item>
-        <item>
-            <title><![CDATA[<em>《大西洋》</em>日报。在电视前吃晚饭的理由]]></title>
-            <link>https://www.theatlantic.com/newsletters/archive/2022/03/eating-dinner-in-front-of-the-tv/629439/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/newsletters/archive/2022/03/eating-dinner-in-front-of-the-tv/629439/?utm_source=feed</guid>
-            <pubDate>Thu, 31 Mar 2022 19:17:02 GMT</pubDate>
-            <description><![CDATA[<em>The Atlantic</em> Daily: The Case for Eating Dinner in Front of the TV]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国！。我在与我的即兴表演团体 "战争之屁 "表演时一直在思考世界的问题]]></title>
-            <link>https://www.newyorker.com/humor/daily-shouts/america-i-keep-thinking-about-the-worlds-problems-while-performing-with-my-improv-group-the-fart-of-war</link>
-            <guid>https://www.newyorker.com/humor/daily-shouts/america-i-keep-thinking-about-the-worlds-problems-while-performing-with-my-improv-group-the-fart-of-war</guid>
-            <pubDate>Thu, 31 Mar 2022 18:53:00 GMT</pubDate>
-            <description><![CDATA[America!: I Keep Thinking About the World’s Problems While Performing with My Improv Group “The Fart of War”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[新闻中的动物]]></title>
-            <link>https://www.theatlantic.com/photo/2022/03/photos-animals-news/629438/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/photo/2022/03/photos-animals-news/629438/?utm_source=feed</guid>
-            <pubDate>Thu, 31 Mar 2022 18:57:36 GMT</pubDate>
-            <description><![CDATA[Animals in the News]]></description>
-        </item>
-        <item>
-            <title><![CDATA[隐秘的公开主题217.5]]></title>
-            <link>https://astralcodexten.substack.com/p/hidden-open-thread-2175</link>
-            <guid>https://astralcodexten.substack.com/p/hidden-open-thread-2175</guid>
-            <pubDate>Thu, 31 Mar 2022 18:11:39 GMT</pubDate>
-            <description><![CDATA[Hidden Open Thread 217.5]]></description>
-        </item>
-        <item>
-            <title><![CDATA[逃离战争，一个乌克兰人来到布鲁克林]]></title>
-            <link>https://www.newyorker.com/news/news-desk/fleeing-the-war-a-ukrainian-comes-to-brooklyn</link>
-            <guid>https://www.newyorker.com/news/news-desk/fleeing-the-war-a-ukrainian-comes-to-brooklyn</guid>
-            <pubDate>Thu, 31 Mar 2022 17:15:19 GMT</pubDate>
-            <description><![CDATA[Fleeing the War, a Ukrainian Comes to Brooklyn]]></description>
         </item>
     </channel>
 </rss>

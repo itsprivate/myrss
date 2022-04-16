@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-16T09:32:26.467Z</updated>
+    <updated>2022-04-16T10:15:43.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[特朗普上臺後的第一次共和黨競選]]></title>
+        <id>https://www.newyorker.com/news/the-political-scene/the-first-post-trump-republican-race</id>
+        <link href="https://www.newyorker.com/news/the-political-scene/the-first-post-trump-republican-race"/>
+        <updated>2022-04-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The First Post-Trump Republican Race]]></summary>
+        <author>
+            <name>Benjamin Wallace-Wells</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭官員在晚餐時過著雙重生活]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/25/the-ukrainian-officials-leading-double-lives-over-dinner</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/25/the-ukrainian-officials-leading-double-lives-over-dinner"/>
+        <updated>2022-04-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Ukrainian Officials Leading Double Lives Over Dinner]]></summary>
+        <author>
+            <name>Annie Hylton</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[埃隆-馬斯克的推特民意調查草稿文件夾]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/elon-musks-twitter-poll-draft-folder</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/elon-musks-twitter-poll-draft-folder"/>
+        <updated>2022-04-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk’s Twitter-Poll Draft Folder]]></summary>
+        <author>
+            <name>Ginny Hogan</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[粘土機針對拜登提名的幾十位候選人]]></title>
+        <id>https://www.newyorker.com/news/a-reporter-at-large/the-slime-machine-targeting-dozens-of-biden-nominees</id>
+        <link href="https://www.newyorker.com/news/a-reporter-at-large/the-slime-machine-targeting-dozens-of-biden-nominees"/>
+        <updated>2022-04-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Slime Machine Targeting Dozens of Biden Nominees]]></summary>
+        <author>
+            <name>Jane Mayer</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[更多共和黨人應該談論的危險]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/white-supremacy-grooming-in-republican-party/629585/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/white-supremacy-grooming-in-republican-party/629585/?utm_source=feed"/>
+        <updated>2022-04-16T10:00:56.000Z</updated>
+        <summary type="html"><![CDATA[The Danger More Republicans Should Be Talking About]]></summary>
+        <author>
+            <name>Ibram X. Kendi</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蒼月淬鍊指南]]></title>
         <id>https://blackgnu.net/palemoon-hardening.html</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>Michael H. Keller</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<em>《大西洋》</em>日報。在電視前吃晚飯的理由]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2022/03/eating-dinner-in-front-of-the-tv/629439/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/eating-dinner-in-front-of-the-tv/629439/?utm_source=feed"/>
-        <updated>2022-03-31T19:17:02.000Z</updated>
-        <summary type="html"><![CDATA[<em>The Atlantic</em> Daily: The Case for Eating Dinner in Front of the TV]]></summary>
-        <author>
-            <name>Jordan Calhoun</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國！。我在與我的即興表演團體 "戰爭之屁 "表演時一直在思考世界的問題]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/america-i-keep-thinking-about-the-worlds-problems-while-performing-with-my-improv-group-the-fart-of-war</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/america-i-keep-thinking-about-the-worlds-problems-while-performing-with-my-improv-group-the-fart-of-war"/>
-        <updated>2022-03-31T18:53:00.000Z</updated>
-        <summary type="html"><![CDATA[America!: I Keep Thinking About the World’s Problems While Performing with My Improv Group “The Fart of War”]]></summary>
-        <author>
-            <name>Ali Fitzgerald</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新聞中的動物]]></title>
-        <id>https://www.theatlantic.com/photo/2022/03/photos-animals-news/629438/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/photo/2022/03/photos-animals-news/629438/?utm_source=feed"/>
-        <updated>2022-03-31T18:57:36.000Z</updated>
-        <summary type="html"><![CDATA[Animals in the News]]></summary>
-        <author>
-            <name>Alan Taylor</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隱秘的公開主題217.5]]></title>
-        <id>https://astralcodexten.substack.com/p/hidden-open-thread-2175</id>
-        <link href="https://astralcodexten.substack.com/p/hidden-open-thread-2175"/>
-        <updated>2022-03-31T18:11:39.000Z</updated>
-        <summary type="html"><![CDATA[Hidden Open Thread 217.5]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[逃離戰爭，一個烏克蘭人來到布魯克林]]></title>
-        <id>https://www.newyorker.com/news/news-desk/fleeing-the-war-a-ukrainian-comes-to-brooklyn</id>
-        <link href="https://www.newyorker.com/news/news-desk/fleeing-the-war-a-ukrainian-comes-to-brooklyn"/>
-        <updated>2022-03-31T17:15:19.000Z</updated>
-        <summary type="html"><![CDATA[Fleeing the War, a Ukrainian Comes to Brooklyn]]></summary>
-        <author>
-            <name>Dexter Filkins</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
