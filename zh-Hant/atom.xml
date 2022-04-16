@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-16T00:43:23.882Z</updated>
+    <updated>2022-04-16T02:20:47.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[動視稱將配合內幕交易調查]]></title>
+        <id>https://www.nytimes.com/2022/04/15/technology/activision-sec-insider-trading.html</id>
+        <link href="https://www.nytimes.com/2022/04/15/technology/activision-sec-insider-trading.html"/>
+        <updated>2022-04-16T00:54:35.000Z</updated>
+        <summary type="html"><![CDATA[Activision Says It Will Cooperate With Insider Trading Investigations]]></summary>
+        <author>
+            <name>Kellen Browning</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本週一爾灣聚會]]></title>
         <id>https://astralcodexten.substack.com/p/irvine-meetup-this-monday</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Yair Rosenberg</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[擁抱伯樂]]></title>
-        <id>https://www.nytimes.com/2022/03/31/technology/hugs-to-boring.html</id>
-        <link href="https://www.nytimes.com/2022/03/31/technology/hugs-to-boring.html"/>
-        <updated>2022-03-31T17:01:32.000Z</updated>
-        <summary type="html"><![CDATA[Hugs to Boring]]></summary>
-        <author>
-            <name>Shira Ovide</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>
