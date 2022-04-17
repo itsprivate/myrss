@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/books/archive/2022/04/cynthia-dewi-oka-first-poem-after-parting/629590/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/books/archive/2022/04/cynthia-dewi-oka-first-poem-after-parting/629590/?utm_source=feed",
+            "title": "離別後的第一首詩",
+            "summary": "First Poem After Parting",
+            "date_modified": "2022-04-17T12:00:56.000Z",
+            "author": {
+                "name": "Cynthia Dewi Oka",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/magazine/2022/04/25/if-roe-v-wade-is-overturned-whats-next",
             "content_html": "",
             "url": "https://www.newyorker.com/magazine/2022/04/25/if-roe-v-wade-is-overturned-whats-next",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-04-01T10:00:00.000Z",
             "author": {
                 "name": "Françoise Mouly, Genevieve Bormes",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/persons-of-interest/the-rewriting-of-emily-st-john-mandel",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/persons-of-interest/the-rewriting-of-emily-st-john-mandel",
-            "title": "重寫艾米麗-聖-約翰-曼德爾",
-            "summary": "The Rewriting of Emily St. John Mandel",
-            "date_modified": "2022-04-01T10:00:00.000Z",
-            "author": {
-                "name": "Katy Waldman",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }
