@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-17T09:12:56.618Z</updated>
+    <updated>2022-04-17T10:14:27.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果羅伊訴韋德案被推翻，下一步是什麼？]]></title>
+        <id>https://www.newyorker.com/magazine/2022/04/25/if-roe-v-wade-is-overturned-whats-next</id>
+        <link href="https://www.newyorker.com/magazine/2022/04/25/if-roe-v-wade-is-overturned-whats-next"/>
+        <updated>2022-04-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If Roe v. Wade Is Overturned, What’s Next?]]></summary>
+        <author>
+            <name>Jeannie Suk Gersen</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於復活節兔子的六個事實]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/six-facts-about-the-easter-bunny</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/six-facts-about-the-easter-bunny"/>
+        <updated>2022-04-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Six Facts About the Easter Bunny]]></summary>
+        <author>
+            <name>Kathleen Radigan</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[密碼字謎：2022年4月17日，星期日]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/04/17</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/04/17"/>
+        <updated>2022-04-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Cryptic Crossword: Sunday, April 17, 2022]]></summary>
+        <author>
+            <name>Patrick Berry</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[主日閱讀。期待地球日的到來]]></title>
+        <id>https://www.newyorker.com/books/double-take/sunday-reading-looking-ahead-to-earth-day</id>
+        <link href="https://www.newyorker.com/books/double-take/sunday-reading-looking-ahead-to-earth-day"/>
+        <updated>2022-04-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sunday Reading: Looking Ahead to Earth Day]]></summary>
+        <author>
+            <name>The New Yorker</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[丹尼爾-史密斯講述流行音樂中的黑人女性歷史]]></title>
+        <id>https://www.newyorker.com/culture/the-new-yorker-interview/danyel-smith-tells-the-history-of-black-women-in-pop</id>
+        <link href="https://www.newyorker.com/culture/the-new-yorker-interview/danyel-smith-tells-the-history-of-black-women-in-pop"/>
+        <updated>2022-04-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Danyel Smith Tells the History of Black Women in Pop Music]]></summary>
+        <author>
+            <name>Emily Lordi</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[斯坦福大學的一位心理學家說他已經破解了一擊即中的密碼]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/04/shania-twain-creativity-one-hit-wonder/629569/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/04/shania-twain-creativity-one-hit-wonder/629569/?utm_source=feed"/>
+        <updated>2022-04-17T10:01:56.000Z</updated>
+        <summary type="html"><![CDATA[A Stanford Psychologist Says He’s Cracked the Code of One-Hit Wonders]]></summary>
+        <author>
+            <name>Derek Thompson</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何為烏克蘭戰爭中的強姦行為尋求正義]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/seek-justice-rape-ukraine-war/629577/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/seek-justice-rape-ukraine-war/629577/?utm_source=feed"/>
+        <updated>2022-04-17T10:01:57.000Z</updated>
+        <summary type="html"><![CDATA[How to Seek Justice for Rape in the Ukraine War]]></summary>
+        <author>
+            <name>Lauren Wolfe</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國的社會主義世界觀就是完全崩潰了]]></title>
         <id>https://noahpinion.substack.com/p/the-american-socialist-worldview</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>Katy Waldman</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[謝爾曼-阿萊克西讀雷蒙德-卡佛]]></title>
-        <id>https://www.newyorker.com/podcast/fiction/sherman-alexie-reads-raymond-carver</id>
-        <link href="https://www.newyorker.com/podcast/fiction/sherman-alexie-reads-raymond-carver"/>
-        <updated>2022-04-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sherman Alexie Reads Raymond Carver]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[漫畫家為悲痛留出空間]]></title>
-        <id>https://www.newyorker.com/culture/culture-desk/a-cartoonist-makes-space-for-grief</id>
-        <link href="https://www.newyorker.com/culture/culture-desk/a-cartoonist-makes-space-for-grief"/>
-        <updated>2022-04-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A Cartoonist Makes Space for Grief]]></summary>
-        <author>
-            <name>Françoise Mouly, Genevieve Bormes</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重寫艾米麗-聖-約翰-曼德爾]]></title>
-        <id>https://www.newyorker.com/culture/persons-of-interest/the-rewriting-of-emily-st-john-mandel</id>
-        <link href="https://www.newyorker.com/culture/persons-of-interest/the-rewriting-of-emily-st-john-mandel"/>
-        <updated>2022-04-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Rewriting of Emily St. John Mandel]]></summary>
-        <author>
-            <name>Katy Waldman</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[當戰爭結束時，家庭分離仍然存在]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/04/war-family-separation-taiwan-ukraine/629432/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/04/war-family-separation-taiwan-ukraine/629432/?utm_source=feed"/>
-        <updated>2022-04-01T09:01:56.000Z</updated>
-        <summary type="html"><![CDATA[When War Ends, Family Separation Remains]]></summary>
-        <author>
-            <name>Zhuqing Li</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[低垂的果實的爭論。模型和預測]]></title>
-        <id>https://astralcodexten.substack.com/p/the-low-hanging-fruit-argument-models</id>
-        <link href="https://astralcodexten.substack.com/p/the-low-hanging-fruit-argument-models"/>
-        <updated>2022-04-01T05:28:58.000Z</updated>
-        <summary type="html"><![CDATA[The Low-Hanging Fruit Argument: Models And Predictions]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本週的照片。燃燒的艾菲，樹懶氣球，奧斯卡的耳光]]></title>
-        <id>https://www.theatlantic.com/photo/2022/04/photos-week/629445/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/photo/2022/04/photos-week/629445/?utm_source=feed"/>
-        <updated>2022-04-01T04:31:56.000Z</updated>
-        <summary type="html"><![CDATA[Photos of the Week: Burning Effigy, Sloth Balloon, Oscar Slap]]></summary>
-        <author>
-            <name>Alan Taylor</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[採訪。印度政府前首席經濟顧問Arvind Subramanian]]></title>
-        <id>https://noahpinion.substack.com/p/interview-arvind-subramanian-former</id>
-        <link href="https://noahpinion.substack.com/p/interview-arvind-subramanian-former"/>
-        <updated>2022-04-01T01:30:47.000Z</updated>
-        <summary type="html"><![CDATA[Interview: Arvind Subramanian, former Chief Economic Advisor to the Government of India]]></summary>
-        <author>
-            <name>Noah Smith</name>
-            <uri>https://noahpinion.substack.com/feed</uri>
         </author>
     </entry>
 </feed>

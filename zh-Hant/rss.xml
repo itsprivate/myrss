@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sun, 17 Apr 2022 09:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 10:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,55 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如果羅伊訴韋德案被推翻，下一步是什麼？]]></title>
+            <link>https://www.newyorker.com/magazine/2022/04/25/if-roe-v-wade-is-overturned-whats-next</link>
+            <guid>https://www.newyorker.com/magazine/2022/04/25/if-roe-v-wade-is-overturned-whats-next</guid>
+            <pubDate>Sun, 17 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[If Roe v. Wade Is Overturned, What’s Next?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[關於復活節兔子的六個事實]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/six-facts-about-the-easter-bunny</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/six-facts-about-the-easter-bunny</guid>
+            <pubDate>Sun, 17 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Six Facts About the Easter Bunny]]></description>
+        </item>
+        <item>
+            <title><![CDATA[密碼字謎：2022年4月17日，星期日]]></title>
+            <link>https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/04/17</link>
+            <guid>https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/04/17</guid>
+            <pubDate>Sun, 17 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Cryptic Crossword: Sunday, April 17, 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[主日閱讀。期待地球日的到來]]></title>
+            <link>https://www.newyorker.com/books/double-take/sunday-reading-looking-ahead-to-earth-day</link>
+            <guid>https://www.newyorker.com/books/double-take/sunday-reading-looking-ahead-to-earth-day</guid>
+            <pubDate>Sun, 17 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Sunday Reading: Looking Ahead to Earth Day]]></description>
+        </item>
+        <item>
+            <title><![CDATA[丹尼爾-史密斯講述流行音樂中的黑人女性歷史]]></title>
+            <link>https://www.newyorker.com/culture/the-new-yorker-interview/danyel-smith-tells-the-history-of-black-women-in-pop</link>
+            <guid>https://www.newyorker.com/culture/the-new-yorker-interview/danyel-smith-tells-the-history-of-black-women-in-pop</guid>
+            <pubDate>Sun, 17 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Danyel Smith Tells the History of Black Women in Pop Music]]></description>
+        </item>
+        <item>
+            <title><![CDATA[斯坦福大學的一位心理學家說他已經破解了一擊即中的密碼]]></title>
+            <link>https://www.theatlantic.com/newsletters/archive/2022/04/shania-twain-creativity-one-hit-wonder/629569/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/newsletters/archive/2022/04/shania-twain-creativity-one-hit-wonder/629569/?utm_source=feed</guid>
+            <pubDate>Sun, 17 Apr 2022 10:01:56 GMT</pubDate>
+            <description><![CDATA[A Stanford Psychologist Says He’s Cracked the Code of One-Hit Wonders]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何為烏克蘭戰爭中的強姦行為尋求正義]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/seek-justice-rape-ukraine-war/629577/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/seek-justice-rape-ukraine-war/629577/?utm_source=feed</guid>
+            <pubDate>Sun, 17 Apr 2022 10:01:57 GMT</pubDate>
+            <description><![CDATA[How to Seek Justice for Rape in the Ukraine War]]></description>
+        </item>
         <item>
             <title><![CDATA[美國的社會主義世界觀就是完全崩潰了]]></title>
             <link>https://noahpinion.substack.com/p/the-american-socialist-worldview</link>
@@ -4164,55 +4213,6 @@
             <guid>https://www.newyorker.com/culture/persons-of-interest/the-rewriting-of-emily-st-john-mandel</guid>
             <pubDate>Fri, 01 Apr 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[The Rewriting of Emily St. John Mandel]]></description>
-        </item>
-        <item>
-            <title><![CDATA[謝爾曼-阿萊克西讀雷蒙德-卡佛]]></title>
-            <link>https://www.newyorker.com/podcast/fiction/sherman-alexie-reads-raymond-carver</link>
-            <guid>https://www.newyorker.com/podcast/fiction/sherman-alexie-reads-raymond-carver</guid>
-            <pubDate>Fri, 01 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Sherman Alexie Reads Raymond Carver]]></description>
-        </item>
-        <item>
-            <title><![CDATA[漫畫家為悲痛留出空間]]></title>
-            <link>https://www.newyorker.com/culture/culture-desk/a-cartoonist-makes-space-for-grief</link>
-            <guid>https://www.newyorker.com/culture/culture-desk/a-cartoonist-makes-space-for-grief</guid>
-            <pubDate>Fri, 01 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[A Cartoonist Makes Space for Grief]]></description>
-        </item>
-        <item>
-            <title><![CDATA[重寫艾米麗-聖-約翰-曼德爾]]></title>
-            <link>https://www.newyorker.com/culture/persons-of-interest/the-rewriting-of-emily-st-john-mandel</link>
-            <guid>https://www.newyorker.com/culture/persons-of-interest/the-rewriting-of-emily-st-john-mandel</guid>
-            <pubDate>Fri, 01 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Rewriting of Emily St. John Mandel]]></description>
-        </item>
-        <item>
-            <title><![CDATA[當戰爭結束時，家庭分離仍然存在]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/04/war-family-separation-taiwan-ukraine/629432/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/04/war-family-separation-taiwan-ukraine/629432/?utm_source=feed</guid>
-            <pubDate>Fri, 01 Apr 2022 09:01:56 GMT</pubDate>
-            <description><![CDATA[When War Ends, Family Separation Remains]]></description>
-        </item>
-        <item>
-            <title><![CDATA[低垂的果實的爭論。模型和預測]]></title>
-            <link>https://astralcodexten.substack.com/p/the-low-hanging-fruit-argument-models</link>
-            <guid>https://astralcodexten.substack.com/p/the-low-hanging-fruit-argument-models</guid>
-            <pubDate>Fri, 01 Apr 2022 05:28:58 GMT</pubDate>
-            <description><![CDATA[The Low-Hanging Fruit Argument: Models And Predictions]]></description>
-        </item>
-        <item>
-            <title><![CDATA[本週的照片。燃燒的艾菲，樹懶氣球，奧斯卡的耳光]]></title>
-            <link>https://www.theatlantic.com/photo/2022/04/photos-week/629445/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/photo/2022/04/photos-week/629445/?utm_source=feed</guid>
-            <pubDate>Fri, 01 Apr 2022 04:31:56 GMT</pubDate>
-            <description><![CDATA[Photos of the Week: Burning Effigy, Sloth Balloon, Oscar Slap]]></description>
-        </item>
-        <item>
-            <title><![CDATA[採訪。印度政府前首席經濟顧問Arvind Subramanian]]></title>
-            <link>https://noahpinion.substack.com/p/interview-arvind-subramanian-former</link>
-            <guid>https://noahpinion.substack.com/p/interview-arvind-subramanian-former</guid>
-            <pubDate>Fri, 01 Apr 2022 01:30:47 GMT</pubDate>
-            <description><![CDATA[Interview: Arvind Subramanian, former Chief Economic Advisor to the Government of India]]></description>
         </item>
     </channel>
 </rss>
