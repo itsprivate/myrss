@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 16 Apr 2022 12:54:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 09:12:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[美國的社會主義世界觀就是完全崩潰了]]></title>
+            <link>https://noahpinion.substack.com/p/the-american-socialist-worldview</link>
+            <guid>https://noahpinion.substack.com/p/the-american-socialist-worldview</guid>
+            <pubDate>Sun, 17 Apr 2022 09:02:43 GMT</pubDate>
+            <description><![CDATA[The American socialist worldview is just totally broken]]></description>
+        </item>
         <item>
             <title><![CDATA[Jerrod Carmichael的<em>Rothaniel</em>用沉默講述了一個故事]]></title>
             <link>https://www.theatlantic.com/culture/archive/2022/04/jerrod-carmichael-rothaniel-hbo-review/629588/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://noahpinion.substack.com/p/interview-arvind-subramanian-former</guid>
             <pubDate>Fri, 01 Apr 2022 01:30:47 GMT</pubDate>
             <description><![CDATA[Interview: Arvind Subramanian, former Chief Economic Advisor to the Government of India]]></description>
-        </item>
-        <item>
-            <title><![CDATA[拜登援引《國防生產法》以促進關鍵礦產供應]]></title>
-            <link>https://www.nytimes.com/2022/03/31/business/economy/biden-minerals-defense-production-act.html</link>
-            <guid>https://www.nytimes.com/2022/03/31/business/economy/biden-minerals-defense-production-act.html</guid>
-            <pubDate>Thu, 31 Mar 2022 21:17:57 GMT</pubDate>
-            <description><![CDATA[Biden Invokes Defense Production Act to Boost Critical Mineral Supply]]></description>
         </item>
     </channel>
 </rss>

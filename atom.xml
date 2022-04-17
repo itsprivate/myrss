@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-16T12:54:21.594Z</updated>
+    <updated>2022-04-17T09:12:56.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国的社会主义世界观就是完全崩溃了]]></title>
+        <id>https://noahpinion.substack.com/p/the-american-socialist-worldview</id>
+        <link href="https://noahpinion.substack.com/p/the-american-socialist-worldview"/>
+        <updated>2022-04-17T09:02:43.000Z</updated>
+        <summary type="html"><![CDATA[The American socialist worldview is just totally broken]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jerrod Carmichael的<em>Rothaniel</em>用沉默讲述了一个故事]]></title>
         <id>https://www.theatlantic.com/culture/archive/2022/04/jerrod-carmichael-rothaniel-hbo-review/629588/?utm_source=feed</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Noah Smith</name>
             <uri>https://noahpinion.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拜登援引《国防生产法》以促进关键矿产供应]]></title>
-        <id>https://www.nytimes.com/2022/03/31/business/economy/biden-minerals-defense-production-act.html</id>
-        <link href="https://www.nytimes.com/2022/03/31/business/economy/biden-minerals-defense-production-act.html"/>
-        <updated>2022-03-31T21:17:57.000Z</updated>
-        <summary type="html"><![CDATA[Biden Invokes Defense Production Act to Boost Critical Mineral Supply]]></summary>
-        <author>
-            <name>Ana Swanson</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>

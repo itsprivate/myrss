@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://noahpinion.substack.com/p/the-american-socialist-worldview",
+            "content_html": "",
+            "url": "https://noahpinion.substack.com/p/the-american-socialist-worldview",
+            "title": "美国的社会主义世界观就是完全崩溃了",
+            "summary": "The American socialist worldview is just totally broken",
+            "date_modified": "2022-04-17T09:02:43.000Z",
+            "author": {
+                "name": "Noah Smith",
+                "url": "https://noahpinion.substack.com/feed"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/culture/archive/2022/04/jerrod-carmichael-rothaniel-hbo-review/629588/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/culture/archive/2022/04/jerrod-carmichael-rothaniel-hbo-review/629588/?utm_source=feed",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Noah Smith",
                 "url": "https://noahpinion.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/03/31/business/economy/biden-minerals-defense-production-act.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/03/31/business/economy/biden-minerals-defense-production-act.html",
-            "title": "拜登援引《国防生产法》以促进关键矿产供应",
-            "summary": "Biden Invokes Defense Production Act to Boost Critical Mineral Supply",
-            "date_modified": "2022-03-31T21:17:57.000Z",
-            "author": {
-                "name": "Ana Swanson",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
     ]
