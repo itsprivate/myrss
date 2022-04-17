@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sun, 17 Apr 2022 12:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 17:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[<em>SNL <em>真的想对TikTok说点什么]]></title>
+            <link>https://www.theatlantic.com/culture/archive/2022/04/saturday-night-live-lizzo-tiktok/629591/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/culture/archive/2022/04/saturday-night-live-lizzo-tiktok/629591/?utm_source=feed</guid>
+            <pubDate>Sun, 17 Apr 2022 17:02:35 GMT</pubDate>
+            <description><![CDATA[<em>SNL </em>Really Wants to Say Something About TikTok]]></description>
+        </item>
         <item>
             <title><![CDATA[离别后的第一首诗]]></title>
             <link>https://www.theatlantic.com/books/archive/2022/04/cynthia-dewi-oka-first-poem-after-parting/629590/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/01</guid>
             <pubDate>Fri, 01 Apr 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Name Drop: Friday, April 1, 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[漫画家为悲痛留出空间]]></title>
-            <link>https://www.newyorker.com/culture/culture-desk/a-cartoonist-makes-space-for-grief</link>
-            <guid>https://www.newyorker.com/culture/culture-desk/a-cartoonist-makes-space-for-grief</guid>
-            <pubDate>Fri, 01 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[A Cartoonist Makes Space for Grief]]></description>
         </item>
     </channel>
 </rss>
