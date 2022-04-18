@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-18T18:17:32.230Z</updated>
+    <updated>2022-04-18T19:28:16.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[<em>《大西洋日報》<em>。澤倫斯基說，最糟糕的情況可能會出現在我們面前]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/04/zelensky-worst-ahead-ukraine/629594/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/04/zelensky-worst-ahead-ukraine/629594/?utm_source=feed"/>
+        <updated>2022-04-18T19:07:28.000Z</updated>
+        <summary type="html"><![CDATA[<em>The Atlantic </em>Daily: Zelensky Says the Worst May Be Ahead of Us]]></summary>
+        <author>
+            <name>Caroline Mimbs Nyce</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用一個 "餅 "圖來表示我每天是如何花費我的精神能量的]]></title>
         <id>https://www.newyorker.com/humor/daily-shouts/a-pie-chart-to-represent-how-i-spend-my-mental-energy-each-day</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Joe Manchin Can’t Shoot Down the Logic of a Wealth Tax]]></summary>
         <author>
             <name>John Cassidy</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[事情的真正成本是多少？]]></title>
-        <id>https://www.newyorker.com/business/currency/how-much-do-things-really-cost</id>
-        <link href="https://www.newyorker.com/business/currency/how-much-do-things-really-cost"/>
-        <updated>2022-04-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How Much Do Things Really Cost?]]></summary>
-        <author>
-            <name>Nick Romeo</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

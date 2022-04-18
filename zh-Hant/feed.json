@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/newsletters/archive/2022/04/zelensky-worst-ahead-ukraine/629594/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/newsletters/archive/2022/04/zelensky-worst-ahead-ukraine/629594/?utm_source=feed",
+            "title": "<em>《大西洋日報》<em>。澤倫斯基說，最糟糕的情況可能會出現在我們面前",
+            "summary": "<em>The Atlantic </em>Daily: Zelensky Says the Worst May Be Ahead of Us",
+            "date_modified": "2022-04-18T19:07:28.000Z",
+            "author": {
+                "name": "Caroline Mimbs Nyce",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/humor/daily-shouts/a-pie-chart-to-represent-how-i-spend-my-mental-energy-each-day",
             "content_html": "",
             "url": "https://www.newyorker.com/humor/daily-shouts/a-pie-chart-to-represent-how-i-spend-my-mental-energy-each-day",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-04-02T10:00:00.000Z",
             "author": {
                 "name": "John Cassidy",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/business/currency/how-much-do-things-really-cost",
-            "content_html": "",
-            "url": "https://www.newyorker.com/business/currency/how-much-do-things-really-cost",
-            "title": "事情的真正成本是多少？",
-            "summary": "How Much Do Things Really Cost?",
-            "date_modified": "2022-04-02T10:00:00.000Z",
-            "author": {
-                "name": "Nick Romeo",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }
