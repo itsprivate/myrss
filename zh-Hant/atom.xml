@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-18T11:13:11.855Z</updated>
+    <updated>2022-04-18T11:30:03.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何閱讀一本書]]></title>
+        <id>https://dkb.io/post/how-to-read-a-book</id>
+        <link href="https://dkb.io/post/how-to-read-a-book"/>
+        <updated>2022-02-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How To Read A Book]]></summary>
+        <author>
+            <name>dkb@dkb.fyi (dkb)</name>
+            <uri>https://dkb.io/rss.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼我們把一切都稱為 "地獄風景"？]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/04/why-were-calling-everything-a-hellscape/629565/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/04/why-were-calling-everything-a-hellscape/629565/?utm_source=feed"/>
+        <updated>2022-04-18T11:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Why We’re Calling Everything a ‘Hellscape’]]></summary>
+        <author>
+            <name>Caleb Madison</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌搜索正在消亡]]></title>
         <id>https://dkb.io/post/google-search-is-dying</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>The New Yorker</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[調查1月6日]]></title>
-        <id>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/investigating-january-6th</id>
-        <link href="https://www.newyorker.com/podcast/the-new-yorker-radio-hour/investigating-january-6th"/>
-        <updated>2022-04-01T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Investigating January 6th]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[逃離烏克蘭]]></title>
-        <id>https://www.theatlantic.com/international/archive/2022/04/photos-refugees-escape-from-ukraine-to-moldova/629403/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/international/archive/2022/04/photos-refugees-escape-from-ukraine-to-moldova/629403/?utm_source=feed"/>
-        <updated>2022-04-01T19:25:36.000Z</updated>
-        <summary type="html"><![CDATA[Escape from Ukraine]]></summary>
-        <author>
-            <name>The Atlantic</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>

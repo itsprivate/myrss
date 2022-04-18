@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 18 Apr 2022 11:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 11:30:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何阅读一本书]]></title>
+            <link>https://dkb.io/post/how-to-read-a-book</link>
+            <guid>https://dkb.io/post/how-to-read-a-book</guid>
+            <pubDate>Sun, 06 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[How To Read A Book]]></description>
+        </item>
+        <item>
+            <title><![CDATA[为什么我们把一切都称为 "地狱风景"？]]></title>
+            <link>https://www.theatlantic.com/newsletters/archive/2022/04/why-were-calling-everything-a-hellscape/629565/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/newsletters/archive/2022/04/why-were-calling-everything-a-hellscape/629565/?utm_source=feed</guid>
+            <pubDate>Mon, 18 Apr 2022 11:00:57 GMT</pubDate>
+            <description><![CDATA[Why We’re Calling Everything a ‘Hellscape’]]></description>
+        </item>
         <item>
             <title><![CDATA[谷歌搜索正在消亡]]></title>
             <link>https://dkb.io/post/google-search-is-dying</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/newsletter/the-daily/a-journalist-returns-to-kyiv</guid>
             <pubDate>Fri, 01 Apr 2022 20:00:00 GMT</pubDate>
             <description><![CDATA[A Journalist Returns to Kyiv]]></description>
-        </item>
-        <item>
-            <title><![CDATA[调查1月6日]]></title>
-            <link>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/investigating-january-6th</link>
-            <guid>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/investigating-january-6th</guid>
-            <pubDate>Fri, 01 Apr 2022 20:00:00 GMT</pubDate>
-            <description><![CDATA[Investigating January 6th]]></description>
-        </item>
-        <item>
-            <title><![CDATA[逃离乌克兰]]></title>
-            <link>https://www.theatlantic.com/international/archive/2022/04/photos-refugees-escape-from-ukraine-to-moldova/629403/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/international/archive/2022/04/photos-refugees-escape-from-ukraine-to-moldova/629403/?utm_source=feed</guid>
-            <pubDate>Fri, 01 Apr 2022 19:25:36 GMT</pubDate>
-            <description><![CDATA[Escape from Ukraine]]></description>
         </item>
     </channel>
 </rss>
