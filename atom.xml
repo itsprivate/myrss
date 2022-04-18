@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-17T19:52:05.934Z</updated>
+    <updated>2022-04-18T04:47:44.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[卡通字幕大赛]]></title>
+        <id>https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-04-25</id>
+        <link href="https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-04-25"/>
+        <updated>2022-04-18T04:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Cartoon Caption Contest]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[公开主题220]]></title>
         <id>https://astralcodexten.substack.com/p/open-thread-220</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[The Romantic Basque-Leaning Food of Ernesto’s]]></summary>
         <author>
             <name>Hannah Goldfield</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[填字游戏。2022年4月1日，星期五]]></title>
-        <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/01</id>
-        <link href="https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/01"/>
-        <updated>2022-04-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Crossword: Friday, April 1, 2022]]></summary>
-        <author>
-            <name>Sarah Kay, Ross Trudeau</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
