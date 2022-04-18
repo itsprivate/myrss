@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 18 Apr 2022 07:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 08:39:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[中国也将不得不与COVID共存亡]]></title>
+            <link>https://www.theatlantic.com/international/archive/2022/04/china-zero-covid-shanghai-lockdown/629589/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/international/archive/2022/04/china-zero-covid-shanghai-lockdown/629589/?utm_source=feed</guid>
+            <pubDate>Mon, 18 Apr 2022 08:09:50 GMT</pubDate>
+            <description><![CDATA[China Will Have to Live With COVID Too]]></description>
+        </item>
         <item>
             <title><![CDATA[吉姆-法利试图重塑福特，追赶埃隆-马斯克和特斯拉的步伐]]></title>
             <link>https://www.nytimes.com/2022/04/18/business/economy/jim-farley-ford-lightning.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://austinkleon.substack.com/p/winning-time</guid>
             <pubDate>Fri, 01 Apr 2022 12:00:54 GMT</pubDate>
             <description><![CDATA[Winning time]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一棵植物的整个生命取决于一个神秘的同伙]]></title>
-            <link>https://www.theatlantic.com/science/archive/2022/04/zamia-pseudoparasitica-panamanian-plant-seed-dispersal/629444/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/science/archive/2022/04/zamia-pseudoparasitica-panamanian-plant-seed-dispersal/629444/?utm_source=feed</guid>
-            <pubDate>Fri, 01 Apr 2022 11:16:54 GMT</pubDate>
-            <description><![CDATA[A Plant’s Whole Life Depended on a Mystery Accomplice]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-18T07:13:26.752Z</updated>
+    <updated>2022-04-18T08:39:42.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[中國也將不得不與COVID共存亡]]></title>
+        <id>https://www.theatlantic.com/international/archive/2022/04/china-zero-covid-shanghai-lockdown/629589/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/international/archive/2022/04/china-zero-covid-shanghai-lockdown/629589/?utm_source=feed"/>
+        <updated>2022-04-18T08:09:50.000Z</updated>
+        <summary type="html"><![CDATA[China Will Have to Live With COVID Too]]></summary>
+        <author>
+            <name>Michael Schuman</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吉姆-法利試圖重塑福特，追趕埃隆-馬斯克和特斯拉的步伐]]></title>
         <id>https://www.nytimes.com/2022/04/18/business/economy/jim-farley-ford-lightning.html</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Austin Kleon</name>
             <uri>https://austinkleon.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一棵植物的整個生命取決於一個神秘的同夥]]></title>
-        <id>https://www.theatlantic.com/science/archive/2022/04/zamia-pseudoparasitica-panamanian-plant-seed-dispersal/629444/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/science/archive/2022/04/zamia-pseudoparasitica-panamanian-plant-seed-dispersal/629444/?utm_source=feed"/>
-        <updated>2022-04-01T11:16:54.000Z</updated>
-        <summary type="html"><![CDATA[A Plant’s Whole Life Depended on a Mystery Accomplice]]></summary>
-        <author>
-            <name>Katherine J. Wu</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
