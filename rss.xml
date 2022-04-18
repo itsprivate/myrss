@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 18 Apr 2022 22:35:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 23:52:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA["上路吧，"评论。来自伊朗的神秘而惊心动魄的启示]]></title>
+            <link>https://www.newyorker.com/culture/the-front-row/hit-the-road-reviewed-a-mysterious-and-thrilling-revelation-from-iran</link>
+            <guid>https://www.newyorker.com/culture/the-front-row/hit-the-road-reviewed-a-mysterious-and-thrilling-revelation-from-iran</guid>
+            <pubDate>Mon, 18 Apr 2022 23:33:37 GMT</pubDate>
+            <description><![CDATA[“Hit the Road,” Reviewed: A Mysterious and Thrilling Revelation from Iran]]></description>
+        </item>
         <item>
             <title><![CDATA["我们都要去参加世界博览会 "和关于互联网的电影简史]]></title>
             <link>https://www.newyorker.com/podcast/politics-and-more/were-all-going-to-the-worlds-fair-and-a-short-history-of-movies-about-the-internet</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/magazine/2022/04/11/boxing-play-by-play-slapgate</guid>
             <pubDate>Sat, 02 Apr 2022 14:00:00 GMT</pubDate>
             <description><![CDATA[Boxing Play-by-Play: Slapgate]]></description>
-        </item>
-        <item>
-            <title><![CDATA[SAT并不是不公平的事情]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/04/mit-admissions-reinstates-sat-act-tests/629455/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/04/mit-admissions-reinstates-sat-act-tests/629455/?utm_source=feed</guid>
-            <pubDate>Sat, 02 Apr 2022 11:50:11 GMT</pubDate>
-            <description><![CDATA[The SAT Isn’t What’s Unfair]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-18T22:35:05.243Z</updated>
+    <updated>2022-04-18T23:52:38.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["上路吧，"評論。來自伊朗的神秘而驚心動魄的啟示]]></title>
+        <id>https://www.newyorker.com/culture/the-front-row/hit-the-road-reviewed-a-mysterious-and-thrilling-revelation-from-iran</id>
+        <link href="https://www.newyorker.com/culture/the-front-row/hit-the-road-reviewed-a-mysterious-and-thrilling-revelation-from-iran"/>
+        <updated>2022-04-18T23:33:37.000Z</updated>
+        <summary type="html"><![CDATA[“Hit the Road,” Reviewed: A Mysterious and Thrilling Revelation from Iran]]></summary>
+        <author>
+            <name>Richard Brody</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["我們都要去參加世界博覽會 "和關於互聯網的電影簡史]]></title>
         <id>https://www.newyorker.com/podcast/politics-and-more/were-all-going-to-the-worlds-fair-and-a-short-history-of-movies-about-the-internet</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Zach Helfand</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SAT並不是不公平的事情]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/04/mit-admissions-reinstates-sat-act-tests/629455/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/04/mit-admissions-reinstates-sat-act-tests/629455/?utm_source=feed"/>
-        <updated>2022-04-02T11:50:11.000Z</updated>
-        <summary type="html"><![CDATA[The SAT Isn’t What’s Unfair]]></summary>
-        <author>
-            <name>Kathryn Paige Harden</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
