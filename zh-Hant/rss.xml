@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 18 Apr 2022 14:32:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 14:52:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[德桑提斯警告說，數學使兒童成為同性戀者]]></title>
+            <link>https://www.newyorker.com/humor/borowitz-report/desantis-warns-that-math-makes-children-gay</link>
+            <guid>https://www.newyorker.com/humor/borowitz-report/desantis-warns-that-math-makes-children-gay</guid>
+            <pubDate>Mon, 18 Apr 2022 14:38:18 GMT</pubDate>
+            <description><![CDATA[DeSantis Warns That Math Makes Children Gay]]></description>
+        </item>
         <item>
             <title><![CDATA[埃隆-馬斯克難以捉摸的政治學]]></title>
             <link>https://www.nytimes.com/2022/04/16/business/elon-musk-politics-twitter.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/podcast/politics-and-more/an-ivy-league-student-accused-of-lying-about-her-past</guid>
             <pubDate>Fri, 01 Apr 2022 23:23:48 GMT</pubDate>
             <description><![CDATA[An Ivy League Student Accused of Lying About Her Past]]></description>
-        </item>
-        <item>
-            <title><![CDATA[福奇作證說大麻合法化將幫助那些不得不聽特德-克魯茲講話的人]]></title>
-            <link>https://www.newyorker.com/humor/borowitz-report/fauci-testifies-that-legalizing-marijuana-would-help-people-who-have-to-listen-to-ted-cruz-talk</link>
-            <guid>https://www.newyorker.com/humor/borowitz-report/fauci-testifies-that-legalizing-marijuana-would-help-people-who-have-to-listen-to-ted-cruz-talk</guid>
-            <pubDate>Fri, 01 Apr 2022 20:33:51 GMT</pubDate>
-            <description><![CDATA[Fauci Testifies That Legalizing Marijuana Would Help People Who Have to Listen to Ted Cruz Talk]]></description>
         </item>
     </channel>
 </rss>

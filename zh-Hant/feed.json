@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/humor/borowitz-report/desantis-warns-that-math-makes-children-gay",
+            "content_html": "",
+            "url": "https://www.newyorker.com/humor/borowitz-report/desantis-warns-that-math-makes-children-gay",
+            "title": "德桑提斯警告說，數學使兒童成為同性戀者",
+            "summary": "DeSantis Warns That Math Makes Children Gay",
+            "date_modified": "2022-04-18T14:38:18.000Z",
+            "author": {
+                "name": "Andy Borowitz",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/16/business/elon-musk-politics-twitter.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/16/business/elon-musk-politics-twitter.html",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-04-01T23:23:48.000Z",
             "author": {
                 "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/humor/borowitz-report/fauci-testifies-that-legalizing-marijuana-would-help-people-who-have-to-listen-to-ted-cruz-talk",
-            "content_html": "",
-            "url": "https://www.newyorker.com/humor/borowitz-report/fauci-testifies-that-legalizing-marijuana-would-help-people-who-have-to-listen-to-ted-cruz-talk",
-            "title": "福奇作證說大麻合法化將幫助那些不得不聽特德-克魯茲講話的人",
-            "summary": "Fauci Testifies That Legalizing Marijuana Would Help People Who Have to Listen to Ted Cruz Talk",
-            "date_modified": "2022-04-01T20:33:51.000Z",
-            "author": {
-                "name": "Andy Borowitz",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

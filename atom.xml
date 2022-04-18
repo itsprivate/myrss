@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-18T14:32:16.635Z</updated>
+    <updated>2022-04-18T14:52:50.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[德桑提斯警告说，数学使儿童成为同性恋者]]></title>
+        <id>https://www.newyorker.com/humor/borowitz-report/desantis-warns-that-math-makes-children-gay</id>
+        <link href="https://www.newyorker.com/humor/borowitz-report/desantis-warns-that-math-makes-children-gay"/>
+        <updated>2022-04-18T14:38:18.000Z</updated>
+        <summary type="html"><![CDATA[DeSantis Warns That Math Makes Children Gay]]></summary>
+        <author>
+            <name>Andy Borowitz</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[埃隆-马斯克难以捉摸的政治学]]></title>
         <id>https://www.nytimes.com/2022/04/16/business/elon-musk-politics-twitter.html</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[An Ivy League Student Accused of Lying About Her Past]]></summary>
         <author>
             <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[福奇作证说大麻合法化将帮助那些不得不听特德-克鲁兹讲话的人]]></title>
-        <id>https://www.newyorker.com/humor/borowitz-report/fauci-testifies-that-legalizing-marijuana-would-help-people-who-have-to-listen-to-ted-cruz-talk</id>
-        <link href="https://www.newyorker.com/humor/borowitz-report/fauci-testifies-that-legalizing-marijuana-would-help-people-who-have-to-listen-to-ted-cruz-talk"/>
-        <updated>2022-04-01T20:33:51.000Z</updated>
-        <summary type="html"><![CDATA[Fauci Testifies That Legalizing Marijuana Would Help People Who Have to Listen to Ted Cruz Talk]]></summary>
-        <author>
-            <name>Andy Borowitz</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
