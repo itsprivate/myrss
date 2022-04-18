@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 18 Apr 2022 08:39:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 09:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个美国通用公司的员工如何在TikTok上走红]]></title>
+            <link>https://www.nytimes.com/2022/04/18/business/dollar-general-tiktok.html</link>
+            <guid>https://www.nytimes.com/2022/04/18/business/dollar-general-tiktok.html</guid>
+            <pubDate>Mon, 18 Apr 2022 09:00:22 GMT</pubDate>
+            <description><![CDATA[How a Dollar General Employee Went Viral on TikTok]]></description>
+        </item>
         <item>
             <title><![CDATA[中国也将不得不与COVID共存亡]]></title>
             <link>https://www.theatlantic.com/international/archive/2022/04/china-zero-covid-shanghai-lockdown/629589/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.nytimes.com/2022/04/01/technology/amazon-labor-practices.html</guid>
             <pubDate>Fri, 01 Apr 2022 13:00:08 GMT</pubDate>
             <description><![CDATA[House Committee Investigating Amazon Labor Practices]]></description>
-        </item>
-        <item>
-            <title><![CDATA[赢家时间]]></title>
-            <link>https://austinkleon.substack.com/p/winning-time</link>
-            <guid>https://austinkleon.substack.com/p/winning-time</guid>
-            <pubDate>Fri, 01 Apr 2022 12:00:54 GMT</pubDate>
-            <description><![CDATA[Winning time]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-18T08:39:42.182Z</updated>
+    <updated>2022-04-18T09:14:45.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個美國通用公司的員工如何在TikTok上走紅]]></title>
+        <id>https://www.nytimes.com/2022/04/18/business/dollar-general-tiktok.html</id>
+        <link href="https://www.nytimes.com/2022/04/18/business/dollar-general-tiktok.html"/>
+        <updated>2022-04-18T09:00:22.000Z</updated>
+        <summary type="html"><![CDATA[How a Dollar General Employee Went Viral on TikTok]]></summary>
+        <author>
+            <name>Michael Corkery</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中國也將不得不與COVID共存亡]]></title>
         <id>https://www.theatlantic.com/international/archive/2022/04/china-zero-covid-shanghai-lockdown/629589/?utm_source=feed</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Karen Weise</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[贏家時間]]></title>
-        <id>https://austinkleon.substack.com/p/winning-time</id>
-        <link href="https://austinkleon.substack.com/p/winning-time"/>
-        <updated>2022-04-01T12:00:54.000Z</updated>
-        <summary type="html"><![CDATA[Winning time]]></summary>
-        <author>
-            <name>Austin Kleon</name>
-            <uri>https://austinkleon.substack.com/feed</uri>
         </author>
     </entry>
 </feed>
