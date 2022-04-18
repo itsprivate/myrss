@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 18 Apr 2022 10:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 10:38:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我曾試圖領導一個有道德的明星國家]]></title>
+            <link>https://www.currentaffairs.org/2022/03/i-tried-to-lead-an-ethical-star-nation/</link>
+            <guid>https://www.currentaffairs.org/2022/03/i-tried-to-lead-an-ethical-star-nation/</guid>
+            <pubDate>Wed, 23 Mar 2022 15:02:34 GMT</pubDate>
+            <description><![CDATA[I Tried to Lead an Ethical Star Nation]]></description>
+        </item>
+        <item>
+            <title><![CDATA[是什麼讓特朗普的支持者相信大謊言？]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/trump-voters-big-lie-stolen-election/629572/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/trump-voters-big-lie-stolen-election/629572/?utm_source=feed</guid>
+            <pubDate>Mon, 18 Apr 2022 10:01:56 GMT</pubDate>
+            <description><![CDATA[What Makes Trump Supporters Believe the Big Lie?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[共和黨人為何抵制總統辯論會？]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/rnc-withdrawal-commission-on-presidential-debates/629580/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/rnc-withdrawal-commission-on-presidential-debates/629580/?utm_source=feed</guid>
+            <pubDate>Mon, 18 Apr 2022 10:01:56 GMT</pubDate>
+            <description><![CDATA[Why Republicans Are Boycotting the Presidential Debates]]></description>
+        </item>
         <item>
             <title><![CDATA[一部烏克蘭小說在戰爭的字裡行間尋找答案]]></title>
             <link>https://www.newyorker.com/magazine/2022/04/25/a-ukrainian-novel-looks-between-the-lines-of-war</link>
@@ -4192,27 +4213,6 @@
             <guid>https://www.newyorker.com/news/dispatch/the-foreign-students-displaced-by-war</guid>
             <pubDate>Fri, 01 Apr 2022 18:13:53 GMT</pubDate>
             <description><![CDATA[The Foreign Students Displaced by War]]></description>
-        </item>
-        <item>
-            <title><![CDATA[以色列與烏克蘭、伊朗和巴勒斯坦的三角危機]]></title>
-            <link>https://www.newyorker.com/news/daily-comment/israel-and-the-triangular-crisis-of-ukraine-iran-and-palestine</link>
-            <guid>https://www.newyorker.com/news/daily-comment/israel-and-the-triangular-crisis-of-ukraine-iran-and-palestine</guid>
-            <pubDate>Fri, 01 Apr 2022 18:29:59 GMT</pubDate>
-            <description><![CDATA[Israel and the Triangular Crisis of Ukraine, Iran, and Palestine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[歷史人物的早期網絡喧囂]]></title>
-            <link>https://www.newyorker.com/humor/daily-shouts/early-internet-hustles-of-historical-figures</link>
-            <guid>https://www.newyorker.com/humor/daily-shouts/early-internet-hustles-of-historical-figures</guid>
-            <pubDate>Fri, 01 Apr 2022 18:00:00 GMT</pubDate>
-            <description><![CDATA[Early Internet Hustles of Historical Figures]]></description>
-        </item>
-        <item>
-            <title><![CDATA[<em>大西洋</em>日報。多少次COVID拍攝才算 "足夠"？]]></title>
-            <link>https://www.theatlantic.com/newsletters/archive/2022/03/how-many-covid-shots-second-booster/629451/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/newsletters/archive/2022/03/how-many-covid-shots-second-booster/629451/?utm_source=feed</guid>
-            <pubDate>Fri, 01 Apr 2022 17:45:09 GMT</pubDate>
-            <description><![CDATA[<em>The Atlantic</em> Daily: How Many COVID Shots Will be ‘Enough’?]]></description>
         </item>
     </channel>
 </rss>

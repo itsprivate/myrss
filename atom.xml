@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-18T10:16:21.231Z</updated>
+    <updated>2022-04-18T10:38:01.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我曾试图领导一个有道德的明星国家]]></title>
+        <id>https://www.currentaffairs.org/2022/03/i-tried-to-lead-an-ethical-star-nation/</id>
+        <link href="https://www.currentaffairs.org/2022/03/i-tried-to-lead-an-ethical-star-nation/"/>
+        <updated>2022-03-23T15:02:34.000Z</updated>
+        <summary type="html"><![CDATA[I Tried to Lead an Ethical Star Nation]]></summary>
+        <author>
+            <name>Michael Thomas Carter</name>
+            <uri>https://www.currentaffairs.org/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是什么让特朗普的支持者相信大谎言？]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/trump-voters-big-lie-stolen-election/629572/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/trump-voters-big-lie-stolen-election/629572/?utm_source=feed"/>
+        <updated>2022-04-18T10:01:56.000Z</updated>
+        <summary type="html"><![CDATA[What Makes Trump Supporters Believe the Big Lie?]]></summary>
+        <author>
+            <name>Sarah Longwell</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[共和党人为何抵制总统辩论会？]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/rnc-withdrawal-commission-on-presidential-debates/629580/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/rnc-withdrawal-commission-on-presidential-debates/629580/?utm_source=feed"/>
+        <updated>2022-04-18T10:01:56.000Z</updated>
+        <summary type="html"><![CDATA[Why Republicans Are Boycotting the Presidential Debates]]></summary>
+        <author>
+            <name>David Frum</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一部乌克兰小说在战争的字里行间寻找答案]]></title>
         <id>https://www.newyorker.com/magazine/2022/04/25/a-ukrainian-novel-looks-between-the-lines-of-war</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>Alexis Okeowo</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以色列与乌克兰、伊朗和巴勒斯坦的三角危机]]></title>
-        <id>https://www.newyorker.com/news/daily-comment/israel-and-the-triangular-crisis-of-ukraine-iran-and-palestine</id>
-        <link href="https://www.newyorker.com/news/daily-comment/israel-and-the-triangular-crisis-of-ukraine-iran-and-palestine"/>
-        <updated>2022-04-01T18:29:59.000Z</updated>
-        <summary type="html"><![CDATA[Israel and the Triangular Crisis of Ukraine, Iran, and Palestine]]></summary>
-        <author>
-            <name>Bernard Avishai</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[历史人物的早期网络喧嚣]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/early-internet-hustles-of-historical-figures</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/early-internet-hustles-of-historical-figures"/>
-        <updated>2022-04-01T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Early Internet Hustles of Historical Figures]]></summary>
-        <author>
-            <name>Charlie Dektar, Kathleen Radigan</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<em>大西洋</em>日报。多少次COVID拍摄才算 "足够"？]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2022/03/how-many-covid-shots-second-booster/629451/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2022/03/how-many-covid-shots-second-booster/629451/?utm_source=feed"/>
-        <updated>2022-04-01T17:45:09.000Z</updated>
-        <summary type="html"><![CDATA[<em>The Atlantic</em> Daily: How Many COVID Shots Will be ‘Enough’?]]></summary>
-        <author>
-            <name>Katherine J. Wu</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
