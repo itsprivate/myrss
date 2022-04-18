@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-18T10:54:02.976Z</updated>
+    <updated>2022-04-18T11:13:11.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌搜索正在消亡]]></title>
+        <id>https://dkb.io/post/google-search-is-dying</id>
+        <link href="https://dkb.io/post/google-search-is-dying"/>
+        <updated>2022-02-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Google Search Is Dying]]></summary>
+        <author>
+            <name>dkb@dkb.fyi (dkb)</name>
+            <uri>https://dkb.io/rss.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[采访。我!]]></title>
         <id>https://noahpinion.substack.com/p/interview-me</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>The Atlantic</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西方准备为乌克兰走多远？]]></title>
-        <id>https://www.newyorker.com/news/the-political-scene/how-far-is-the-west-prepared-to-go-for-ukraine</id>
-        <link href="https://www.newyorker.com/news/the-political-scene/how-far-is-the-west-prepared-to-go-for-ukraine"/>
-        <updated>2022-04-01T18:43:02.000Z</updated>
-        <summary type="html"><![CDATA[How Far Is the West Prepared to Go for Ukraine?]]></summary>
-        <author>
-            <name>Benjamin Wallace-Wells</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>

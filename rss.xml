@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 18 Apr 2022 10:54:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 11:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[谷歌搜索正在消亡]]></title>
+            <link>https://dkb.io/post/google-search-is-dying</link>
+            <guid>https://dkb.io/post/google-search-is-dying</guid>
+            <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Google Search Is Dying]]></description>
+        </item>
         <item>
             <title><![CDATA[采访。我!]]></title>
             <link>https://noahpinion.substack.com/p/interview-me</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/international/archive/2022/04/photos-refugees-escape-from-ukraine-to-moldova/629403/?utm_source=feed</guid>
             <pubDate>Fri, 01 Apr 2022 19:25:36 GMT</pubDate>
             <description><![CDATA[Escape from Ukraine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[西方准备为乌克兰走多远？]]></title>
-            <link>https://www.newyorker.com/news/the-political-scene/how-far-is-the-west-prepared-to-go-for-ukraine</link>
-            <guid>https://www.newyorker.com/news/the-political-scene/how-far-is-the-west-prepared-to-go-for-ukraine</guid>
-            <pubDate>Fri, 01 Apr 2022 18:43:02 GMT</pubDate>
-            <description><![CDATA[How Far Is the West Prepared to Go for Ukraine?]]></description>
         </item>
     </channel>
 </rss>
