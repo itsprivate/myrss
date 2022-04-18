@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/technology/archive/2022/04/nft-world-of-women-web3-feminism/629593/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/technology/archive/2022/04/nft-world-of-women-web3-feminism/629593/?utm_source=feed",
+            "title": "许多许多美丽的卡通女性的Web3",
+            "summary": "The Many, Many Beautiful Cartoon Women of Web3",
+            "date_modified": "2022-04-18T16:53:48.000Z",
+            "author": {
+                "name": "Kaitlyn Tiffany",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/cartoons/daily-cartoon/monday-april-18th-easter-eggs",
             "content_html": "",
             "url": "https://www.newyorker.com/cartoons/daily-cartoon/monday-april-18th-easter-eggs",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-04-02T10:00:00.000Z",
             "author": {
                 "name": "Vince Aletti",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/business/currency/how-much-do-things-really-cost",
-            "content_html": "",
-            "url": "https://www.newyorker.com/business/currency/how-much-do-things-really-cost",
-            "title": "事情的真正成本是多少？",
-            "summary": "How Much Do Things Really Cost?",
-            "date_modified": "2022-04-02T10:00:00.000Z",
-            "author": {
-                "name": "Nick Romeo",
                 "url": "https://www.newyorker.com/feed/news"
             }
         }
