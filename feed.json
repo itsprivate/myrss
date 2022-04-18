@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/politics/archive/2022/04/biden-trump-covid-democrats-wall/629581/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/politics/archive/2022/04/biden-trump-covid-democrats-wall/629581/?utm_source=feed",
+            "title": "希望拜登的行为更像特朗普的民主党人",
+            "summary": "The Democrats Who Want Biden to Act More Like Trump",
+            "date_modified": "2022-04-18T09:00:56.000Z",
+            "author": {
+                "name": "Russell Berman",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/18/business/dollar-general-tiktok.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/18/business/dollar-general-tiktok.html",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Margaret Atwood",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/04/01/technology/amazon-labor-practices.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/04/01/technology/amazon-labor-practices.html",
-            "title": "众议院委员会调查亚马逊的劳工行为",
-            "summary": "House Committee Investigating Amazon Labor Practices",
-            "date_modified": "2022-04-01T13:00:08.000Z",
-            "author": {
-                "name": "Karen Weise",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
     ]
