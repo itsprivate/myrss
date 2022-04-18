@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 18 Apr 2022 19:28:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 20:35:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[12位读者对美国走错的地方的看法]]></title>
+            <link>https://www.theatlantic.com/newsletters/archive/2022/04/12-reader-views-on-where-america-is-going-wrong/629595/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/newsletters/archive/2022/04/12-reader-views-on-where-america-is-going-wrong/629595/?utm_source=feed</guid>
+            <pubDate>Mon, 18 Apr 2022 20:11:48 GMT</pubDate>
+            <description><![CDATA[12 Reader Views on Where America Is Going Wrong]]></description>
+        </item>
         <item>
             <title><![CDATA[<em>《大西洋日报》<em>。泽伦斯基说，最糟糕的情况可能会出现在我们面前]]></title>
             <link>https://www.theatlantic.com/newsletters/archive/2022/04/zelensky-worst-ahead-ukraine/629594/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/humor/daily-shouts/lets-all-do-the-lumbago-download-the-lastdance-dating-app-today</guid>
             <pubDate>Sat, 02 Apr 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Let’s All Do the Lumbago: Download the LastDance Dating App Today]]></description>
-        </item>
-        <item>
-            <title><![CDATA[乔-曼钦无法击倒财富税的逻辑]]></title>
-            <link>https://www.newyorker.com/news/our-columnists/joe-manchin-cant-shoot-down-the-logic-of-a-wealth-tax</link>
-            <guid>https://www.newyorker.com/news/our-columnists/joe-manchin-cant-shoot-down-the-logic-of-a-wealth-tax</guid>
-            <pubDate>Sat, 02 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Joe Manchin Can’t Shoot Down the Logic of a Wealth Tax]]></description>
         </item>
     </channel>
 </rss>

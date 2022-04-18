@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-18T19:28:16.288Z</updated>
+    <updated>2022-04-18T20:35:40.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[12位读者对美国走错的地方的看法]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/04/12-reader-views-on-where-america-is-going-wrong/629595/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/04/12-reader-views-on-where-america-is-going-wrong/629595/?utm_source=feed"/>
+        <updated>2022-04-18T20:11:48.000Z</updated>
+        <summary type="html"><![CDATA[12 Reader Views on Where America Is Going Wrong]]></summary>
+        <author>
+            <name>Conor Friedersdorf</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<em>《大西洋日报》<em>。泽伦斯基说，最糟糕的情况可能会出现在我们面前]]></title>
         <id>https://www.theatlantic.com/newsletters/archive/2022/04/zelensky-worst-ahead-ukraine/629594/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Let’s All Do the Lumbago: Download the LastDance Dating App Today]]></summary>
         <author>
             <name>Larry Doyle</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乔-曼钦无法击倒财富税的逻辑]]></title>
-        <id>https://www.newyorker.com/news/our-columnists/joe-manchin-cant-shoot-down-the-logic-of-a-wealth-tax</id>
-        <link href="https://www.newyorker.com/news/our-columnists/joe-manchin-cant-shoot-down-the-logic-of-a-wealth-tax"/>
-        <updated>2022-04-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Joe Manchin Can’t Shoot Down the Logic of a Wealth Tax]]></summary>
-        <author>
-            <name>John Cassidy</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
