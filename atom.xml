@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-18T16:17:20.132Z</updated>
+    <updated>2022-04-18T16:56:04.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每日漫画。4月18日，星期一]]></title>
+        <id>https://www.newyorker.com/cartoons/daily-cartoon/monday-april-18th-easter-eggs</id>
+        <link href="https://www.newyorker.com/cartoons/daily-cartoon/monday-april-18th-easter-eggs"/>
+        <updated>2022-04-18T16:05:33.000Z</updated>
+        <summary type="html"><![CDATA[Daily Cartoon: Monday, April 18th]]></summary>
+        <author>
+            <name>Pat Achilles</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[男孩]]></title>
         <id>https://www.theatlantic.com/books/archive/2022/04/keith-ridgway-boy-short-story/629562/?utm_source=feed</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Nick Romeo</name>
             <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[逐个击破]]></title>
-        <id>https://www.newyorker.com/magazine/play-by-play</id>
-        <link href="https://www.newyorker.com/magazine/play-by-play"/>
-        <updated>2022-04-02T02:56:15.000Z</updated>
-        <summary type="html"><![CDATA[Play-by-Play]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
