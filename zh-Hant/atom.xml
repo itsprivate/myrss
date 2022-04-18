@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-18T09:33:43.960Z</updated>
+    <updated>2022-04-18T09:52:12.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[胡錦濤非常被低估]]></title>
+        <id>https://noahpinion.substack.com/p/hu-jintao-was-very-underrated</id>
+        <link href="https://noahpinion.substack.com/p/hu-jintao-was-very-underrated"/>
+        <updated>2022-04-18T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Hu Jintao was very underrated]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[希望拜登的行為更像特朗普的民主黨人]]></title>
         <id>https://www.theatlantic.com/politics/archive/2022/04/biden-trump-covid-democrats-wall/629581/?utm_source=feed</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Mick Stevens</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的感覺不是藉口]]></title>
-        <id>https://www.theatlantic.com/books/archive/2022/04/margaret-atwood-hitchens-prize-speech/629443/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/books/archive/2022/04/margaret-atwood-hitchens-prize-speech/629443/?utm_source=feed"/>
-        <updated>2022-04-01T13:40:15.000Z</updated>
-        <summary type="html"><![CDATA[Your Feelings Are No Excuse]]></summary>
-        <author>
-            <name>Margaret Atwood</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>

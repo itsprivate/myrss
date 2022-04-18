@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 18 Apr 2022 09:33:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 09:52:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[胡錦濤非常被低估]]></title>
+            <link>https://noahpinion.substack.com/p/hu-jintao-was-very-underrated</link>
+            <guid>https://noahpinion.substack.com/p/hu-jintao-was-very-underrated</guid>
+            <pubDate>Mon, 18 Apr 2022 09:45:00 GMT</pubDate>
+            <description><![CDATA[Hu Jintao was very underrated]]></description>
+        </item>
         <item>
             <title><![CDATA[希望拜登的行為更像特朗普的民主黨人]]></title>
             <link>https://www.theatlantic.com/politics/archive/2022/04/biden-trump-covid-democrats-wall/629581/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/cartoons/daily-cartoon/friday-april-1st-too-much-too-soon</guid>
             <pubDate>Fri, 01 Apr 2022 14:09:16 GMT</pubDate>
             <description><![CDATA[Daily Cartoon: Friday, April 1st]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你的感覺不是藉口]]></title>
-            <link>https://www.theatlantic.com/books/archive/2022/04/margaret-atwood-hitchens-prize-speech/629443/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/books/archive/2022/04/margaret-atwood-hitchens-prize-speech/629443/?utm_source=feed</guid>
-            <pubDate>Fri, 01 Apr 2022 13:40:15 GMT</pubDate>
-            <description><![CDATA[Your Feelings Are No Excuse]]></description>
         </item>
     </channel>
 </rss>
