@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 18 Apr 2022 17:22:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 18:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用一个 "饼 "图来表示我每天是如何花费我的精神能量的]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/a-pie-chart-to-represent-how-i-spend-my-mental-energy-each-day</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/a-pie-chart-to-represent-how-i-spend-my-mental-energy-each-day</guid>
+            <pubDate>Mon, 18 Apr 2022 18:00:00 GMT</pubDate>
+            <description><![CDATA[A “Pie” Chart to Represent How I Spend My Mental Energy Each Day]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Better Call Saul》如何巧妙地扼杀了 "Breaking Bad "的惊险性]]></title>
+            <link>https://www.newyorker.com/culture/on-television/how-better-call-saul-brilliantly-killed-the-thrills-of-breaking-bad</link>
+            <guid>https://www.newyorker.com/culture/on-television/how-better-call-saul-brilliantly-killed-the-thrills-of-breaking-bad</guid>
+            <pubDate>Mon, 18 Apr 2022 18:09:18 GMT</pubDate>
+            <description><![CDATA[How “Better Call Saul” Brilliantly Killed the Thrills of “Breaking Bad”]]></description>
+        </item>
+        <item>
+            <title><![CDATA[2022年科切拉音乐节的场景]]></title>
+            <link>https://www.theatlantic.com/photo/2022/04/photos-coachella-2022/629592/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/photo/2022/04/photos-coachella-2022/629592/?utm_source=feed</guid>
+            <pubDate>Mon, 18 Apr 2022 17:55:45 GMT</pubDate>
+            <description><![CDATA[Scenes From Coachella 2022]]></description>
+        </item>
         <item>
             <title><![CDATA[许多许多美丽的卡通女性的Web3]]></title>
             <link>https://www.theatlantic.com/technology/archive/2022/04/nft-world-of-women-web3-feminism/629593/?utm_source=feed</link>
@@ -4192,27 +4213,6 @@
             <guid>https://www.newyorker.com/business/currency/how-much-do-things-really-cost</guid>
             <pubDate>Sat, 02 Apr 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[How Much Do Things Really Cost?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[密西西比小镇的 "针织俱乐部 "之谜]]></title>
-            <link>https://www.newyorker.com/culture/photo-booth/the-mysteries-of-a-knit-club-in-small-town-mississippi</link>
-            <guid>https://www.newyorker.com/culture/photo-booth/the-mysteries-of-a-knit-club-in-small-town-mississippi</guid>
-            <pubDate>Sat, 02 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Mysteries of a “Knit Club” in Small-Town Mississippi]]></description>
-        </item>
-        <item>
-            <title><![CDATA[乔-曼钦无法击倒财富税的逻辑]]></title>
-            <link>https://www.newyorker.com/news/our-columnists/joe-manchin-cant-shoot-down-the-logic-of-a-wealth-tax</link>
-            <guid>https://www.newyorker.com/news/our-columnists/joe-manchin-cant-shoot-down-the-logic-of-a-wealth-tax</guid>
-            <pubDate>Sat, 02 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Joe Manchin Can’t Shoot Down the Logic of a Wealth Tax]]></description>
-        </item>
-        <item>
-            <title><![CDATA[密西西比小镇的 "针织俱乐部 "之谜]]></title>
-            <link>https://www.newyorker.com/culture/photo-booth/the-mysteries-of-a-knit-club-in-small-town-mississippi</link>
-            <guid>https://www.newyorker.com/culture/photo-booth/the-mysteries-of-a-knit-club-in-small-town-mississippi</guid>
-            <pubDate>Sat, 02 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Mysteries of a “Knit Club” in Small-Town Mississippi]]></description>
         </item>
     </channel>
 </rss>

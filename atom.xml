@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-18T17:22:36.232Z</updated>
+    <updated>2022-04-18T18:17:32.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用一个 "饼 "图来表示我每天是如何花费我的精神能量的]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/a-pie-chart-to-represent-how-i-spend-my-mental-energy-each-day</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/a-pie-chart-to-represent-how-i-spend-my-mental-energy-each-day"/>
+        <updated>2022-04-18T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A “Pie” Chart to Represent How I Spend My Mental Energy Each Day]]></summary>
+        <author>
+            <name>Vignesh Seshadri</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Better Call Saul》如何巧妙地扼杀了 "Breaking Bad "的惊险性]]></title>
+        <id>https://www.newyorker.com/culture/on-television/how-better-call-saul-brilliantly-killed-the-thrills-of-breaking-bad</id>
+        <link href="https://www.newyorker.com/culture/on-television/how-better-call-saul-brilliantly-killed-the-thrills-of-breaking-bad"/>
+        <updated>2022-04-18T18:09:18.000Z</updated>
+        <summary type="html"><![CDATA[How “Better Call Saul” Brilliantly Killed the Thrills of “Breaking Bad”]]></summary>
+        <author>
+            <name>Aaron Bady</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年科切拉音乐节的场景]]></title>
+        <id>https://www.theatlantic.com/photo/2022/04/photos-coachella-2022/629592/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/photo/2022/04/photos-coachella-2022/629592/?utm_source=feed"/>
+        <updated>2022-04-18T17:55:45.000Z</updated>
+        <summary type="html"><![CDATA[Scenes From Coachella 2022]]></summary>
+        <author>
+            <name>Alan Taylor</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[许多许多美丽的卡通女性的Web3]]></title>
         <id>https://www.theatlantic.com/technology/archive/2022/04/nft-world-of-women-web3-feminism/629593/?utm_source=feed</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>Nick Romeo</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[密西西比小镇的 "针织俱乐部 "之谜]]></title>
-        <id>https://www.newyorker.com/culture/photo-booth/the-mysteries-of-a-knit-club-in-small-town-mississippi</id>
-        <link href="https://www.newyorker.com/culture/photo-booth/the-mysteries-of-a-knit-club-in-small-town-mississippi"/>
-        <updated>2022-04-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Mysteries of a “Knit Club” in Small-Town Mississippi]]></summary>
-        <author>
-            <name>Vince Aletti</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乔-曼钦无法击倒财富税的逻辑]]></title>
-        <id>https://www.newyorker.com/news/our-columnists/joe-manchin-cant-shoot-down-the-logic-of-a-wealth-tax</id>
-        <link href="https://www.newyorker.com/news/our-columnists/joe-manchin-cant-shoot-down-the-logic-of-a-wealth-tax"/>
-        <updated>2022-04-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Joe Manchin Can’t Shoot Down the Logic of a Wealth Tax]]></summary>
-        <author>
-            <name>John Cassidy</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[密西西比小镇的 "针织俱乐部 "之谜]]></title>
-        <id>https://www.newyorker.com/culture/photo-booth/the-mysteries-of-a-knit-club-in-small-town-mississippi</id>
-        <link href="https://www.newyorker.com/culture/photo-booth/the-mysteries-of-a-knit-club-in-small-town-mississippi"/>
-        <updated>2022-04-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Mysteries of a “Knit Club” in Small-Town Mississippi]]></summary>
-        <author>
-            <name>Vince Aletti</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
 </feed>
