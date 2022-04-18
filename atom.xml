@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-18T11:38:36.241Z</updated>
+    <updated>2022-04-18T14:32:16.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[埃隆-马斯克难以捉摸的政治学]]></title>
+        <id>https://www.nytimes.com/2022/04/16/business/elon-musk-politics-twitter.html</id>
+        <link href="https://www.nytimes.com/2022/04/16/business/elon-musk-politics-twitter.html"/>
+        <updated>2022-04-17T22:54:54.000Z</updated>
+        <summary type="html"><![CDATA[The Elusive Politics of Elon Musk]]></summary>
+        <author>
+            <name>Jeremy W. Peters</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[无论如何写吧]]></title>
         <id>https://dkb.io/post/write-it-anyway</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Andy Borowitz</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一名记者返回基辅]]></title>
-        <id>https://www.newyorker.com/newsletter/the-daily/a-journalist-returns-to-kyiv</id>
-        <link href="https://www.newyorker.com/newsletter/the-daily/a-journalist-returns-to-kyiv"/>
-        <updated>2022-04-01T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A Journalist Returns to Kyiv]]></summary>
-        <author>
-            <name>The New Yorker</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
 </feed>

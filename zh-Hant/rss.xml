@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 18 Apr 2022 11:38:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 14:32:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[埃隆-馬斯克難以捉摸的政治學]]></title>
+            <link>https://www.nytimes.com/2022/04/16/business/elon-musk-politics-twitter.html</link>
+            <guid>https://www.nytimes.com/2022/04/16/business/elon-musk-politics-twitter.html</guid>
+            <pubDate>Sun, 17 Apr 2022 22:54:54 GMT</pubDate>
+            <description><![CDATA[The Elusive Politics of Elon Musk]]></description>
+        </item>
         <item>
             <title><![CDATA[無論如何寫吧]]></title>
             <link>https://dkb.io/post/write-it-anyway</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/humor/borowitz-report/fauci-testifies-that-legalizing-marijuana-would-help-people-who-have-to-listen-to-ted-cruz-talk</guid>
             <pubDate>Fri, 01 Apr 2022 20:33:51 GMT</pubDate>
             <description><![CDATA[Fauci Testifies That Legalizing Marijuana Would Help People Who Have to Listen to Ted Cruz Talk]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一名記者返回基輔]]></title>
-            <link>https://www.newyorker.com/newsletter/the-daily/a-journalist-returns-to-kyiv</link>
-            <guid>https://www.newyorker.com/newsletter/the-daily/a-journalist-returns-to-kyiv</guid>
-            <pubDate>Fri, 01 Apr 2022 20:00:00 GMT</pubDate>
-            <description><![CDATA[A Journalist Returns to Kyiv]]></description>
         </item>
     </channel>
 </rss>
