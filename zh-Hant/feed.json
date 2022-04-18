@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://noahpinion.substack.com/p/interview-me",
+            "content_html": "",
+            "url": "https://noahpinion.substack.com/p/interview-me",
+            "title": "採訪。我!",
+            "summary": "Interview: Me!",
+            "date_modified": "2022-03-24T02:35:25.000Z",
+            "author": {
+                "name": "Noah Smith",
+                "url": "https://noahpinion.substack.com/feed"
+            }
+        },
+        {
             "id": "https://www.currentaffairs.org/2022/03/i-tried-to-lead-an-ethical-star-nation/",
             "content_html": "",
             "url": "https://www.currentaffairs.org/2022/03/i-tried-to-lead-an-ethical-star-nation/",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-04-01T18:43:02.000Z",
             "author": {
                 "name": "Benjamin Wallace-Wells",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/dispatch/the-foreign-students-displaced-by-war",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/dispatch/the-foreign-students-displaced-by-war",
-            "title": "因戰爭而流離失所的外國學生",
-            "summary": "The Foreign Students Displaced by War",
-            "date_modified": "2022-04-01T18:13:53.000Z",
-            "author": {
-                "name": "Alexis Okeowo",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }
