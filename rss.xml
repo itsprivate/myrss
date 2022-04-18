@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 18 Apr 2022 20:35:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 20:46:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Mantic 4/18/22星期一]]></title>
+            <link>https://astralcodexten.substack.com/p/mantic-monday-41822</link>
+            <guid>https://astralcodexten.substack.com/p/mantic-monday-41822</guid>
+            <pubDate>Mon, 18 Apr 2022 20:43:05 GMT</pubDate>
+            <description><![CDATA[Mantic Monday 4/18/22]]></description>
+        </item>
+        <item>
+            <title><![CDATA[埃隆-马斯克追求推特时的一些紧迫问题]]></title>
+            <link>https://www.newyorker.com/news/our-columnists/some-pressing-questions-for-elon-musk-as-he-pursues-twitter</link>
+            <guid>https://www.newyorker.com/news/our-columnists/some-pressing-questions-for-elon-musk-as-he-pursues-twitter</guid>
+            <pubDate>Mon, 18 Apr 2022 20:36:13 GMT</pubDate>
+            <description><![CDATA[Some Pressing Questions for Elon Musk as He Pursues Twitter]]></description>
+        </item>
         <item>
             <title><![CDATA[12位读者对美国走错的地方的看法]]></title>
             <link>https://www.theatlantic.com/newsletters/archive/2022/04/12-reader-views-on-where-america-is-going-wrong/629595/?utm_source=feed</link>
@@ -4199,20 +4213,6 @@
             <guid>https://dkb.io/post/market-rank</guid>
             <pubDate>Fri, 11 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[MarketRank: The Anti-SEO Ranking Algorithm]]></description>
-        </item>
-        <item>
-            <title><![CDATA[猎杀一只丢失的蝙蝠]]></title>
-            <link>https://www.newyorker.com/science/elements/the-hunt-for-a-lost-bat</link>
-            <guid>https://www.newyorker.com/science/elements/the-hunt-for-a-lost-bat</guid>
-            <pubDate>Sat, 02 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Hunt for a Lost Bat]]></description>
-        </item>
-        <item>
-            <title><![CDATA[让我们都来做腰痛。今天就下载LastDance约会软件]]></title>
-            <link>https://www.newyorker.com/humor/daily-shouts/lets-all-do-the-lumbago-download-the-lastdance-dating-app-today</link>
-            <guid>https://www.newyorker.com/humor/daily-shouts/lets-all-do-the-lumbago-download-the-lastdance-dating-app-today</guid>
-            <pubDate>Sat, 02 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Let’s All Do the Lumbago: Download the LastDance Dating App Today]]></description>
         </item>
     </channel>
 </rss>

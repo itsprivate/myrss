@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://astralcodexten.substack.com/p/mantic-monday-41822",
+            "content_html": "",
+            "url": "https://astralcodexten.substack.com/p/mantic-monday-41822",
+            "title": "Mantic 4/18/22星期一",
+            "summary": "Mantic Monday 4/18/22",
+            "date_modified": "2022-04-18T20:43:05.000Z",
+            "author": {
+                "name": "Scott Alexander",
+                "url": "https://astralcodexten.substack.com/feed"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/our-columnists/some-pressing-questions-for-elon-musk-as-he-pursues-twitter",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/our-columnists/some-pressing-questions-for-elon-musk-as-he-pursues-twitter",
+            "title": "埃隆-马斯克追求推特时的一些紧迫问题",
+            "summary": "Some Pressing Questions for Elon Musk as He Pursues Twitter",
+            "date_modified": "2022-04-18T20:36:13.000Z",
+            "author": {
+                "name": "John Cassidy",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/newsletters/archive/2022/04/12-reader-views-on-where-america-is-going-wrong/629595/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/newsletters/archive/2022/04/12-reader-views-on-where-america-is-going-wrong/629595/?utm_source=feed",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "dkb@dkb.fyi (dkb)",
                 "url": "https://dkb.io/rss.xml"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/science/elements/the-hunt-for-a-lost-bat",
-            "content_html": "",
-            "url": "https://www.newyorker.com/science/elements/the-hunt-for-a-lost-bat",
-            "title": "猎杀一只丢失的蝙蝠",
-            "summary": "The Hunt for a Lost Bat",
-            "date_modified": "2022-04-02T10:00:00.000Z",
-            "author": {
-                "name": "Carolyn Kormann",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/humor/daily-shouts/lets-all-do-the-lumbago-download-the-lastdance-dating-app-today",
-            "content_html": "",
-            "url": "https://www.newyorker.com/humor/daily-shouts/lets-all-do-the-lumbago-download-the-lastdance-dating-app-today",
-            "title": "让我们都来做腰痛。今天就下载LastDance约会软件",
-            "summary": "Let’s All Do the Lumbago: Download the LastDance Dating App Today",
-            "date_modified": "2022-04-02T10:00:00.000Z",
-            "author": {
-                "name": "Larry Doyle",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]
