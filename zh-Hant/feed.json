@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/18/business/economy/jim-farley-ford-lightning.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/18/business/economy/jim-farley-ford-lightning.html",
+            "title": "吉姆-法利試圖重塑福特，追趕埃隆-馬斯克和特斯拉的步伐",
+            "summary": "Jim Farley Tries to Reinvent Ford and Catch Up to Elon Musk and Tesla",
+            "date_modified": "2022-04-18T07:00:10.000Z",
+            "author": {
+                "name": "Neal E. Boudette",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-04-25",
             "content_html": "",
             "url": "https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-04-25",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Katherine J. Wu",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/04/11/the-romantic-basque-leaning-food-of-ernestos",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/04/11/the-romantic-basque-leaning-food-of-ernestos",
-            "title": "埃內斯托浪漫的巴斯克式食品",
-            "summary": "The Romantic Basque-Leaning Food of Ernesto’s",
-            "date_modified": "2022-04-01T10:00:00.000Z",
-            "author": {
-                "name": "Hannah Goldfield",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]
