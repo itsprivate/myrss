@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-18T11:30:03.477Z</updated>
+    <updated>2022-04-18T11:38:36.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[无论如何写吧]]></title>
+        <id>https://dkb.io/post/write-it-anyway</id>
+        <link href="https://dkb.io/post/write-it-anyway"/>
+        <updated>2017-07-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Write It Anyway]]></summary>
+        <author>
+            <name>dkb@dkb.fyi (dkb)</name>
+            <uri>https://dkb.io/rss.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[组织世界上的信息]]></title>
+        <id>https://dkb.io/post/organize-the-world-information</id>
+        <link href="https://dkb.io/post/organize-the-world-information"/>
+        <updated>2021-02-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[To Organize The World's Information]]></summary>
+        <author>
+            <name>dkb@dkb.fyi (dkb)</name>
+            <uri>https://dkb.io/rss.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何阅读一本书]]></title>
         <id>https://dkb.io/post/how-to-read-a-book</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>The New Yorker</name>
             <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[调查1月6日]]></title>
-        <id>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/investigating-january-6th</id>
-        <link href="https://www.newyorker.com/podcast/the-new-yorker-radio-hour/investigating-january-6th"/>
-        <updated>2022-04-01T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Investigating January 6th]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一名记者返回基辅]]></title>
-        <id>https://www.newyorker.com/newsletter/the-daily/a-journalist-returns-to-kyiv</id>
-        <link href="https://www.newyorker.com/newsletter/the-daily/a-journalist-returns-to-kyiv"/>
-        <updated>2022-04-01T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A Journalist Returns to Kyiv]]></summary>
-        <author>
-            <name>The New Yorker</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
