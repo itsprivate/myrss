@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 18 Apr 2022 21:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 22:35:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA["我們都要去參加世界博覽會 "和關於互聯網的電影簡史]]></title>
+            <link>https://www.newyorker.com/podcast/politics-and-more/were-all-going-to-the-worlds-fair-and-a-short-history-of-movies-about-the-internet</link>
+            <guid>https://www.newyorker.com/podcast/politics-and-more/were-all-going-to-the-worlds-fair-and-a-short-history-of-movies-about-the-internet</guid>
+            <pubDate>Mon, 18 Apr 2022 22:14:25 GMT</pubDate>
+            <description><![CDATA[“We’re All Going to the World’s Fair” and a Short History of Movies About the Internet]]></description>
+        </item>
         <item>
             <title><![CDATA[據稱阿波羅公司正在權衡參與Twitter的競標]]></title>
             <link>https://www.nytimes.com/2022/04/18/business/apollo-twitter-bid-elon-musk.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/ideas/archive/2022/04/mit-admissions-reinstates-sat-act-tests/629455/?utm_source=feed</guid>
             <pubDate>Sat, 02 Apr 2022 11:50:11 GMT</pubDate>
             <description><![CDATA[The SAT Isn’t What’s Unfair]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼<em>《輟學》</em>能在其他詐騙節目中獲得成功？]]></title>
-            <link>https://www.theatlantic.com/podcasts/archive/2022/04/peak-scammer-tvs-blurred-lines/629437/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/podcasts/archive/2022/04/peak-scammer-tvs-blurred-lines/629437/?utm_source=feed</guid>
-            <pubDate>Sat, 02 Apr 2022 11:01:56 GMT</pubDate>
-            <description><![CDATA[Why <em>The Dropout</em> Succeeds Where Other Scammer Shows Fall Short]]></description>
         </item>
     </channel>
 </rss>

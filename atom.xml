@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-18T21:13:49.542Z</updated>
+    <updated>2022-04-18T22:35:05.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["我们都要去参加世界博览会 "和关于互联网的电影简史]]></title>
+        <id>https://www.newyorker.com/podcast/politics-and-more/were-all-going-to-the-worlds-fair-and-a-short-history-of-movies-about-the-internet</id>
+        <link href="https://www.newyorker.com/podcast/politics-and-more/were-all-going-to-the-worlds-fair-and-a-short-history-of-movies-about-the-internet"/>
+        <updated>2022-04-18T22:14:25.000Z</updated>
+        <summary type="html"><![CDATA[“We’re All Going to the World’s Fair” and a Short History of Movies About the Internet]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[据称阿波罗公司正在权衡参与Twitter的竞标]]></title>
         <id>https://www.nytimes.com/2022/04/18/business/apollo-twitter-bid-elon-musk.html</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[The SAT Isn’t What’s Unfair]]></summary>
         <author>
             <name>Kathryn Paige Harden</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么<em>《辍学》</em>能在其他诈骗节目中获得成功？]]></title>
-        <id>https://www.theatlantic.com/podcasts/archive/2022/04/peak-scammer-tvs-blurred-lines/629437/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/podcasts/archive/2022/04/peak-scammer-tvs-blurred-lines/629437/?utm_source=feed"/>
-        <updated>2022-04-02T11:01:56.000Z</updated>
-        <summary type="html"><![CDATA[Why <em>The Dropout</em> Succeeds Where Other Scammer Shows Fall Short]]></summary>
-        <author>
-            <name>Shirley Li</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>

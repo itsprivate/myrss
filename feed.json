@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/podcast/politics-and-more/were-all-going-to-the-worlds-fair-and-a-short-history-of-movies-about-the-internet",
+            "content_html": "",
+            "url": "https://www.newyorker.com/podcast/politics-and-more/were-all-going-to-the-worlds-fair-and-a-short-history-of-movies-about-the-internet",
+            "title": "\"我们都要去参加世界博览会 \"和关于互联网的电影简史",
+            "summary": "“We’re All Going to the World’s Fair” and a Short History of Movies About the Internet",
+            "date_modified": "2022-04-18T22:14:25.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/18/business/apollo-twitter-bid-elon-musk.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/18/business/apollo-twitter-bid-elon-musk.html",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-04-02T11:50:11.000Z",
             "author": {
                 "name": "Kathryn Paige Harden",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/podcasts/archive/2022/04/peak-scammer-tvs-blurred-lines/629437/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/podcasts/archive/2022/04/peak-scammer-tvs-blurred-lines/629437/?utm_source=feed",
-            "title": "为什么<em>《辍学》</em>能在其他诈骗节目中获得成功？",
-            "summary": "Why <em>The Dropout</em> Succeeds Where Other Scammer Shows Fall Short",
-            "date_modified": "2022-04-02T11:01:56.000Z",
-            "author": {
-                "name": "Shirley Li",
                 "url": "https://www.theatlantic.com/feed/all/"
             }
         }
