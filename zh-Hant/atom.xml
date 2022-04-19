@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-19T14:03:06.407Z</updated>
+    <updated>2022-04-19T14:35:33.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每日漫畫。4月19日，星期二]]></title>
+        <id>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-april-19th-basketball-ref</id>
+        <link href="https://www.newyorker.com/cartoons/daily-cartoon/tuesday-april-19th-basketball-ref"/>
+        <updated>2022-04-19T14:23:52.000Z</updated>
+        <summary type="html"><![CDATA[Daily Cartoon: Tuesday, April 19th]]></summary>
+        <author>
+            <name>Trevor Spaulding</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[羞恥感的缺失]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/04/ban-legacy-college-admissions-nepotism/629566/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Whatever You Write, There You Are]]></summary>
         <author>
             <name>Kristen Martin</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最後的實權派共和黨人]]></title>
-        <id>https://www.theatlantic.com/politics/archive/2022/04/how-ohio-governor-mike-dewine-survived-trump/629450/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/politics/archive/2022/04/how-ohio-governor-mike-dewine-survived-trump/629450/?utm_source=feed"/>
-        <updated>2022-04-03T11:00:57.000Z</updated>
-        <summary type="html"><![CDATA[The Last of the Establishment Republicans]]></summary>
-        <author>
-            <name>Russell Berman</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
