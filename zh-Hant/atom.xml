@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-19T19:00:47.360Z</updated>
+    <updated>2022-04-19T19:11:48.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[汽車將再次取得勝利]]></title>
+        <id>https://noahpinion.substack.com/p/the-car-will-triumph-again</id>
+        <link href="https://noahpinion.substack.com/p/the-car-will-triumph-again"/>
+        <updated>2022-03-25T06:28:54.000Z</updated>
+        <summary type="html"><![CDATA[The car will triumph, again]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[民主黨能否界定自己的地位？]]></title>
         <id>https://www.newyorker.com/news/q-and-a/can-the-democratic-party-define-itself</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>unknown</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開放話題218]]></title>
-        <id>https://astralcodexten.substack.com/p/open-thread-218</id>
-        <link href="https://astralcodexten.substack.com/p/open-thread-218"/>
-        <updated>2022-04-03T17:41:58.000Z</updated>
-        <summary type="html"><![CDATA[Open Thread 218]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
         </author>
     </entry>
 </feed>
