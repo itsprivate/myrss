@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/04/ban-legacy-college-admissions-nepotism/629566/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/04/ban-legacy-college-admissions-nepotism/629566/?utm_source=feed",
+            "title": "羞恥感的缺失",
+            "summary": "The Shame Deficit",
+            "date_modified": "2022-04-19T13:49:57.000Z",
+            "author": {
+                "name": "Richard V. Reeves",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://austinkleon.substack.com/p/how-i-make-color-brush-pens",
             "content_html": "",
             "url": "https://austinkleon.substack.com/p/how-i-make-color-brush-pens",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Russell Berman",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/books/double-take/sunday-reading-grammy-nominees-past-and-present",
-            "content_html": "",
-            "url": "https://www.newyorker.com/books/double-take/sunday-reading-grammy-nominees-past-and-present",
-            "title": "星期日閱讀。格萊美提名者，過去和現在",
-            "summary": "Sunday Reading: Grammy Nominees, Past and Present",
-            "date_modified": "2022-04-03T10:00:00.000Z",
-            "author": {
-                "name": "The New Yorker",
-                "url": "https://www.newyorker.com/feed/news"
             }
         }
     ]

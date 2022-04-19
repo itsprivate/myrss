@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-19T12:22:17.036Z</updated>
+    <updated>2022-04-19T14:03:06.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[羞耻感的缺失]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/ban-legacy-college-admissions-nepotism/629566/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/ban-legacy-college-admissions-nepotism/629566/?utm_source=feed"/>
+        <updated>2022-04-19T13:49:57.000Z</updated>
+        <summary type="html"><![CDATA[The Shame Deficit]]></summary>
+        <author>
+            <name>Richard V. Reeves</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我是如何制作彩色刷子笔的]]></title>
         <id>https://austinkleon.substack.com/p/how-i-make-color-brush-pens</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Russell Berman</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[星期日阅读。格莱美提名者，过去和现在]]></title>
-        <id>https://www.newyorker.com/books/double-take/sunday-reading-grammy-nominees-past-and-present</id>
-        <link href="https://www.newyorker.com/books/double-take/sunday-reading-grammy-nominees-past-and-present"/>
-        <updated>2022-04-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sunday Reading: Grammy Nominees, Past and Present]]></summary>
-        <author>
-            <name>The New Yorker</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
 </feed>
