@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-19T10:37:44.973Z</updated>
+    <updated>2022-04-19T12:22:17.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我是如何製作彩色刷子筆的]]></title>
+        <id>https://austinkleon.substack.com/p/how-i-make-color-brush-pens</id>
+        <link href="https://austinkleon.substack.com/p/how-i-make-color-brush-pens"/>
+        <updated>2022-04-19T12:00:55.000Z</updated>
+        <summary type="html"><![CDATA[How I make color brush pens]]></summary>
+        <author>
+            <name>Austin Kleon</name>
+            <uri>https://austinkleon.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何緩慢地做出改變]]></title>
+        <id>https://www.theatlantic.com/books/archive/2022/04/social-change-books-lynn-hunt/629587/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/books/archive/2022/04/social-change-books-lynn-hunt/629587/?utm_source=feed"/>
+        <updated>2022-04-19T12:00:56.000Z</updated>
+        <summary type="html"><![CDATA[How to Make Change, Slowly]]></summary>
+        <author>
+            <name>Gal Beckerman</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<em>Bel-Air</em>和 "黑人卓越 "的缺陷邏輯]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/04/bel-air-black-excellence-wealth/629597/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/04/bel-air-black-excellence-wealth/629597/?utm_source=feed"/>
+        <updated>2022-04-19T12:00:56.000Z</updated>
+        <summary type="html"><![CDATA[<em>Bel-Air</em> and the Flawed Logic of ‘Black Excellence’]]></summary>
+        <author>
+            <name>Tanisha C. Ford</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[比莉-艾利什對滿意的認識]]></title>
         <id>https://www.theatlantic.com/magazine/archive/2022/05/the-commons/629362/?utm_source=feed</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>The New Yorker</name>
             <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們現在對COVID做什麼？]]></title>
-        <id>https://www.newyorker.com/magazine/2022/04/11/what-do-we-do-about-covid-now</id>
-        <link href="https://www.newyorker.com/magazine/2022/04/11/what-do-we-do-about-covid-now"/>
-        <updated>2022-04-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What Do We Do About COVID Now?]]></summary>
-        <author>
-            <name>Dhruv Khullar</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你想象中的房東在做什麼，而不是修理你壞掉的馬桶]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/what-you-imagine-your-landlord-is-doing-instead-of-fixing-your-broken-toilet</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/what-you-imagine-your-landlord-is-doing-instead-of-fixing-your-broken-toilet"/>
-        <updated>2022-04-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What You Imagine Your Landlord Is Doing Instead of Fixing Your Broken Toilet]]></summary>
-        <author>
-            <name>Susan Schoenberger, Claire Wyman</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卡羅爾-德納姆的繪畫作品讓你感到不安]]></title>
-        <id>https://www.newyorker.com/culture/the-new-yorker-interview/carroll-dunhams-paintings-make-you-squirm</id>
-        <link href="https://www.newyorker.com/culture/the-new-yorker-interview/carroll-dunhams-paintings-make-you-squirm"/>
-        <updated>2022-04-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Carroll Dunham’s Paintings Make You Squirm]]></summary>
-        <author>
-            <name>Naomi Fry</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>

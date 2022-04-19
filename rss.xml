@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 19 Apr 2022 10:37:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 12:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我是如何制作彩色刷子笔的]]></title>
+            <link>https://austinkleon.substack.com/p/how-i-make-color-brush-pens</link>
+            <guid>https://austinkleon.substack.com/p/how-i-make-color-brush-pens</guid>
+            <pubDate>Tue, 19 Apr 2022 12:00:55 GMT</pubDate>
+            <description><![CDATA[How I make color brush pens]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何缓慢地做出改变]]></title>
+            <link>https://www.theatlantic.com/books/archive/2022/04/social-change-books-lynn-hunt/629587/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/books/archive/2022/04/social-change-books-lynn-hunt/629587/?utm_source=feed</guid>
+            <pubDate>Tue, 19 Apr 2022 12:00:56 GMT</pubDate>
+            <description><![CDATA[How to Make Change, Slowly]]></description>
+        </item>
+        <item>
+            <title><![CDATA[<em>Bel-Air</em>和 "黑人卓越 "的缺陷逻辑]]></title>
+            <link>https://www.theatlantic.com/culture/archive/2022/04/bel-air-black-excellence-wealth/629597/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/culture/archive/2022/04/bel-air-black-excellence-wealth/629597/?utm_source=feed</guid>
+            <pubDate>Tue, 19 Apr 2022 12:00:56 GMT</pubDate>
+            <description><![CDATA[<em>Bel-Air</em> and the Flawed Logic of ‘Black Excellence’]]></description>
+        </item>
         <item>
             <title><![CDATA[比莉-艾利什对满意的认识]]></title>
             <link>https://www.theatlantic.com/magazine/archive/2022/05/the-commons/629362/?utm_source=feed</link>
@@ -4192,27 +4213,6 @@
             <guid>https://www.newyorker.com/books/double-take/sunday-reading-grammy-nominees-past-and-present</guid>
             <pubDate>Sun, 03 Apr 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Sunday Reading: Grammy Nominees, Past and Present]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们现在对COVID做什么？]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/11/what-do-we-do-about-covid-now</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/11/what-do-we-do-about-covid-now</guid>
-            <pubDate>Sun, 03 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[What Do We Do About COVID Now?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你想象中的房东在做什么，而不是修理你坏掉的马桶]]></title>
-            <link>https://www.newyorker.com/humor/daily-shouts/what-you-imagine-your-landlord-is-doing-instead-of-fixing-your-broken-toilet</link>
-            <guid>https://www.newyorker.com/humor/daily-shouts/what-you-imagine-your-landlord-is-doing-instead-of-fixing-your-broken-toilet</guid>
-            <pubDate>Sun, 03 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[What You Imagine Your Landlord Is Doing Instead of Fixing Your Broken Toilet]]></description>
-        </item>
-        <item>
-            <title><![CDATA[卡罗尔-德纳姆的绘画作品让你感到不安]]></title>
-            <link>https://www.newyorker.com/culture/the-new-yorker-interview/carroll-dunhams-paintings-make-you-squirm</link>
-            <guid>https://www.newyorker.com/culture/the-new-yorker-interview/carroll-dunhams-paintings-make-you-squirm</guid>
-            <pubDate>Sun, 03 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Carroll Dunham’s Paintings Make You Squirm]]></description>
         </item>
     </channel>
 </rss>
