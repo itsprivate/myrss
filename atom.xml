@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-19T17:23:24.351Z</updated>
+    <updated>2022-04-19T18:41:23.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[苹果公司在芯片上的拉链式唇膏]]></title>
+        <id>https://www.nytimes.com/2022/04/19/technology/apple-computer-chips.html</id>
+        <link href="https://www.nytimes.com/2022/04/19/technology/apple-computer-chips.html"/>
+        <updated>2022-04-19T18:11:54.000Z</updated>
+        <summary type="html"><![CDATA[Apple’s Zipped Lips on Chips]]></summary>
+        <author>
+            <name>Shira Ovide</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不要说疫苗对免疫力低下的人不起作用]]></title>
         <id>https://www.theatlantic.com/health/archive/2022/04/covid-vaccine-is-effective-immunocompromised/629596/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[<em>SNL</em> Couldn’t Resist Talking About the Slap]]></summary>
         <author>
             <name>Amanda Wicks</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰的动物讲述他们自己的故事]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/04/animals-ukraine-tell-their-own-story/629462/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/04/animals-ukraine-tell-their-own-story/629462/?utm_source=feed"/>
-        <updated>2022-04-03T16:08:19.000Z</updated>
-        <summary type="html"><![CDATA[The Animals of Ukraine Tell Their Own Story]]></summary>
-        <author>
-            <name>George Packer</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>

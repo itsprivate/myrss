@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/19/technology/apple-computer-chips.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/19/technology/apple-computer-chips.html",
+            "title": "苹果公司在芯片上的拉链式唇膏",
+            "summary": "Apple’s Zipped Lips on Chips",
+            "date_modified": "2022-04-19T18:11:54.000Z",
+            "author": {
+                "name": "Shira Ovide",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/health/archive/2022/04/covid-vaccine-is-effective-immunocompromised/629596/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/health/archive/2022/04/covid-vaccine-is-effective-immunocompromised/629596/?utm_source=feed",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-04-03T17:14:46.000Z",
             "author": {
                 "name": "Amanda Wicks",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/04/animals-ukraine-tell-their-own-story/629462/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/04/animals-ukraine-tell-their-own-story/629462/?utm_source=feed",
-            "title": "乌克兰的动物讲述他们自己的故事",
-            "summary": "The Animals of Ukraine Tell Their Own Story",
-            "date_modified": "2022-04-03T16:08:19.000Z",
-            "author": {
-                "name": "George Packer",
                 "url": "https://www.theatlantic.com/feed/all/"
             }
         }

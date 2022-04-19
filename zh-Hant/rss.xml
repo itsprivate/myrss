@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 19 Apr 2022 17:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 18:41:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[蘋果公司在芯片上的拉鍊式唇膏]]></title>
+            <link>https://www.nytimes.com/2022/04/19/technology/apple-computer-chips.html</link>
+            <guid>https://www.nytimes.com/2022/04/19/technology/apple-computer-chips.html</guid>
+            <pubDate>Tue, 19 Apr 2022 18:11:54 GMT</pubDate>
+            <description><![CDATA[Apple’s Zipped Lips on Chips]]></description>
+        </item>
         <item>
             <title><![CDATA[不要說疫苗對免疫力低下的人不起作用]]></title>
             <link>https://www.theatlantic.com/health/archive/2022/04/covid-vaccine-is-effective-immunocompromised/629596/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/culture/archive/2022/04/saturday-night-live-jerrod-carmichael-oscars-slap/629463/?utm_source=feed</guid>
             <pubDate>Sun, 03 Apr 2022 17:14:46 GMT</pubDate>
             <description><![CDATA[<em>SNL</em> Couldn’t Resist Talking About the Slap]]></description>
-        </item>
-        <item>
-            <title><![CDATA[烏克蘭的動物講述他們自己的故事]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/04/animals-ukraine-tell-their-own-story/629462/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/04/animals-ukraine-tell-their-own-story/629462/?utm_source=feed</guid>
-            <pubDate>Sun, 03 Apr 2022 16:08:19 GMT</pubDate>
-            <description><![CDATA[The Animals of Ukraine Tell Their Own Story]]></description>
         </item>
     </channel>
 </rss>
