@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 19 Apr 2022 15:39:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 15:59:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[继父母是父母吗？]]></title>
+            <link>https://www.theatlantic.com/family/archive/2022/04/stepparenting-kids-advice-nacho-disengage/629600/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/family/archive/2022/04/stepparenting-kids-advice-nacho-disengage/629600/?utm_source=feed</guid>
+            <pubDate>Tue, 19 Apr 2022 15:46:20 GMT</pubDate>
+            <description><![CDATA[Are Stepparents Parents?]]></description>
+        </item>
         <item>
             <title><![CDATA[<em>The Atlantic</em>, Artist Glenn Kaino, and Superblue Announce <em>A Forest for the Trees</em>, an Immersive Show Opening May 13 in Los Angeles]]></title>
             <link>https://www.theatlantic.com/press-releases/archive/2022/04/announcing-forest-trees-immersive-show-opening-may-13/629599/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/04/03</guid>
             <pubDate>Sun, 03 Apr 2022 14:11:00 GMT</pubDate>
             <description><![CDATA[The Cryptic Crossword: Sunday, April 3, 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[月球之谜]]></title>
-            <link>https://www.theatlantic.com/books/archive/2022/04/poem-colm-toibin-mysterium-lunae/629459/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/books/archive/2022/04/poem-colm-toibin-mysterium-lunae/629459/?utm_source=feed</guid>
-            <pubDate>Sun, 03 Apr 2022 12:00:57 GMT</pubDate>
-            <description><![CDATA[Mysterium Lunae]]></description>
         </item>
     </channel>
 </rss>
