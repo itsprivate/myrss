@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-19T19:11:48.128Z</updated>
+    <updated>2022-04-19T20:14:40.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[收集尴尬、有趣的写作的Twitter账户]]></title>
+        <id>https://www.newyorker.com/culture/rabbit-holes/the-twitter-account-that-collects-awkward-amusing-writing</id>
+        <link href="https://www.newyorker.com/culture/rabbit-holes/the-twitter-account-that-collects-awkward-amusing-writing"/>
+        <updated>2022-04-19T19:50:07.000Z</updated>
+        <summary type="html"><![CDATA[The Twitter Account That Collects Awkward, Amusing Writing]]></summary>
+        <author>
+            <name>Naaman Zhou</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[汽车将再次取得胜利]]></title>
         <id>https://noahpinion.substack.com/p/the-car-will-triumph-again</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Spencer Kornhaber</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卡通字幕大赛]]></title>
-        <id>https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-04-11</id>
-        <link href="https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-04-11"/>
-        <updated>2022-04-04T04:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Cartoon Caption Contest]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>

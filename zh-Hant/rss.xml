@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 19 Apr 2022 19:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 20:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[收集尷尬、有趣的寫作的Twitter賬戶]]></title>
+            <link>https://www.newyorker.com/culture/rabbit-holes/the-twitter-account-that-collects-awkward-amusing-writing</link>
+            <guid>https://www.newyorker.com/culture/rabbit-holes/the-twitter-account-that-collects-awkward-amusing-writing</guid>
+            <pubDate>Tue, 19 Apr 2022 19:50:07 GMT</pubDate>
+            <description><![CDATA[The Twitter Account That Collects Awkward, Amusing Writing]]></description>
+        </item>
         <item>
             <title><![CDATA[汽車將再次取得勝利]]></title>
             <link>https://noahpinion.substack.com/p/the-car-will-triumph-again</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/culture/archive/2022/04/grammy-zelensky-ukraine-2022/629467/?utm_source=feed</guid>
             <pubDate>Mon, 04 Apr 2022 05:08:40 GMT</pubDate>
             <description><![CDATA[The Reason for Zelensky’s Surprise Grammy Appearance]]></description>
-        </item>
-        <item>
-            <title><![CDATA[卡通字幕大賽]]></title>
-            <link>https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-04-11</link>
-            <guid>https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-04-11</guid>
-            <pubDate>Mon, 04 Apr 2022 04:05:00 GMT</pubDate>
-            <description><![CDATA[Cartoon Caption Contest]]></description>
         </item>
     </channel>
 </rss>
