@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/q-and-a/can-the-democratic-party-define-itself",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/q-and-a/can-the-democratic-party-define-itself",
+            "title": "民主党能否界定自己的地位？",
+            "summary": "Can The Democratic Party Define Itself?",
+            "date_modified": "2022-04-19T18:39:40.000Z",
+            "author": {
+                "name": "Isaac Chotiner",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/19/technology/apple-computer-chips.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/19/technology/apple-computer-chips.html",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Scott Alexander",
                 "url": "https://astralcodexten.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/culture/archive/2022/04/saturday-night-live-jerrod-carmichael-oscars-slap/629463/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/culture/archive/2022/04/saturday-night-live-jerrod-carmichael-oscars-slap/629463/?utm_source=feed",
-            "title": "<em>SNL</em>忍不住要谈一谈这个耳光",
-            "summary": "<em>SNL</em> Couldn’t Resist Talking About the Slap",
-            "date_modified": "2022-04-03T17:14:46.000Z",
-            "author": {
-                "name": "Amanda Wicks",
-                "url": "https://www.theatlantic.com/feed/all/"
             }
         }
     ]
