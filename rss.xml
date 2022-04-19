@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 19 Apr 2022 15:59:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 17:23:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[不要说疫苗对免疫力低下的人不起作用]]></title>
+            <link>https://www.theatlantic.com/health/archive/2022/04/covid-vaccine-is-effective-immunocompromised/629596/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/health/archive/2022/04/covid-vaccine-is-effective-immunocompromised/629596/?utm_source=feed</guid>
+            <pubDate>Tue, 19 Apr 2022 16:50:36 GMT</pubDate>
+            <description><![CDATA[Stop Saying Vaccines Don’t Work for the Immunocompromised]]></description>
+        </item>
         <item>
             <title><![CDATA[继父母是父母吗？]]></title>
             <link>https://www.theatlantic.com/family/archive/2022/04/stepparenting-kids-advice-nacho-disengage/629600/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/ideas/archive/2022/04/animals-ukraine-tell-their-own-story/629462/?utm_source=feed</guid>
             <pubDate>Sun, 03 Apr 2022 16:08:19 GMT</pubDate>
             <description><![CDATA[The Animals of Ukraine Tell Their Own Story]]></description>
-        </item>
-        <item>
-            <title><![CDATA[隐秘字谜：2022年4月3日，星期日]]></title>
-            <link>https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/04/03</link>
-            <guid>https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/04/03</guid>
-            <pubDate>Sun, 03 Apr 2022 14:11:00 GMT</pubDate>
-            <description><![CDATA[The Cryptic Crossword: Sunday, April 3, 2022]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-19T15:59:05.315Z</updated>
+    <updated>2022-04-19T17:23:24.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不要說疫苗對免疫力低下的人不起作用]]></title>
+        <id>https://www.theatlantic.com/health/archive/2022/04/covid-vaccine-is-effective-immunocompromised/629596/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/health/archive/2022/04/covid-vaccine-is-effective-immunocompromised/629596/?utm_source=feed"/>
+        <updated>2022-04-19T16:50:36.000Z</updated>
+        <summary type="html"><![CDATA[Stop Saying Vaccines Don’t Work for the Immunocompromised]]></summary>
+        <author>
+            <name>Benjamin Mazer</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[繼父母是父母嗎？]]></title>
         <id>https://www.theatlantic.com/family/archive/2022/04/stepparenting-kids-advice-nacho-disengage/629600/?utm_source=feed</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>George Packer</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隱秘字謎：2022年4月3日，星期日]]></title>
-        <id>https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/04/03</id>
-        <link href="https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/04/03"/>
-        <updated>2022-04-03T14:11:00.000Z</updated>
-        <summary type="html"><![CDATA[The Cryptic Crossword: Sunday, April 3, 2022]]></summary>
-        <author>
-            <name>Paolo Pasco</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
