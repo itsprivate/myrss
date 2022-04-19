@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-19T20:37:46.505Z</updated>
+    <updated>2022-04-19T22:37:24.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[埃隆-馬斯克爭相為競購Twitter融資]]></title>
+        <id>https://www.nytimes.com/2022/04/19/technology/elon-musk-twitter.html</id>
+        <link href="https://www.nytimes.com/2022/04/19/technology/elon-musk-twitter.html"/>
+        <updated>2022-04-19T22:26:19.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk Races to Secure Financing for Twitter Bid]]></summary>
+        <author>
+            <name>Lauren Hirsch</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<em>The Atlantic</em> Daily: 歡迎來到特朗普的電影宇宙]]></title>
         <id>https://www.theatlantic.com/newsletters/archive/2022/04/trump-support-conspiracy-big-lie/629602/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[How to Build on the Union Victory at Amazon]]></summary>
         <author>
             <name>Steven Greenhouse</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西方如何重建其世界]]></title>
-        <id>https://www.theatlantic.com/international/archive/2022/04/western-response-to-china-russia-invasion/629465/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/international/archive/2022/04/western-response-to-china-russia-invasion/629465/?utm_source=feed"/>
-        <updated>2022-04-04T09:00:56.000Z</updated>
-        <summary type="html"><![CDATA[How the West Rebuilds Its World]]></summary>
-        <author>
-            <name>Tom McTague</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
