@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 19 Apr 2022 09:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 10:14:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,34 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[填字游戏: 2022年4月19日，星期二]]></title>
+            <link>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/19</link>
+            <guid>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/19</guid>
+            <pubDate>Tue, 19 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Crossword: Tuesday, April 19, 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[落名：2022年4月19日，星期二]]></title>
+            <link>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/19</link>
+            <guid>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/19</guid>
+            <pubDate>Tue, 19 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Name Drop: Tuesday, April 19, 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[特勤局档案选集]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/selections-from-the-secret-service-archives</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/selections-from-the-secret-service-archives</guid>
+            <pubDate>Tue, 19 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Selections from the Secret Service Archives]]></description>
+        </item>
+        <item>
+            <title><![CDATA[终极虎妈]]></title>
+            <link>https://www.newyorker.com/news/afterword/the-ultimate-tiger-mom</link>
+            <guid>https://www.newyorker.com/news/afterword/the-ultimate-tiger-mom</guid>
+            <pubDate>Tue, 19 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Ultimate Tiger Mom]]></description>
+        </item>
         <item>
             <title><![CDATA[A.I.可以完全终止车祸吗？潜力是存在的。]]></title>
             <link>https://www.nytimes.com/2022/04/19/technology/ai-road-car-safety.html</link>
@@ -4185,34 +4213,6 @@
             <guid>https://noahpinion.substack.com/p/zines</guid>
             <pubDate>Sat, 02 Apr 2022 23:29:44 GMT</pubDate>
             <description><![CDATA[Zines!]]></description>
-        </item>
-        <item>
-            <title><![CDATA[词汇表背后的狡猾心思]]></title>
-            <link>https://www.newyorker.com/video/watch/shorts-murmurs-the-devious-mind-behind-wordle</link>
-            <guid>https://www.newyorker.com/video/watch/shorts-murmurs-the-devious-mind-behind-wordle</guid>
-            <pubDate>Fri, 01 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Devious Mind Behind Wordle]]></description>
-        </item>
-        <item>
-            <title><![CDATA[克里斯蒂安-斯莫尔和德里克-帕尔默如何战胜亚马逊]]></title>
-            <link>https://www.nytimes.com/2022/04/02/business/amazon-union-christian-smalls.html</link>
-            <guid>https://www.nytimes.com/2022/04/02/business/amazon-union-christian-smalls.html</guid>
-            <pubDate>Sat, 02 Apr 2022 17:57:41 GMT</pubDate>
-            <description><![CDATA[How Christian Smalls and Derrick Palmer Beat Amazon]]></description>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉第一季度销量大增，再次逆行业潮流而动]]></title>
-            <link>https://www.nytimes.com/2022/04/02/business/tesla-sales-electric-vehicles.html</link>
-            <guid>https://www.nytimes.com/2022/04/02/business/tesla-sales-electric-vehicles.html</guid>
-            <pubDate>Sat, 02 Apr 2022 16:53:44 GMT</pubDate>
-            <description><![CDATA[Tesla’s Sales Jumped in the First Quarter, Bucking Industry Trend Again]]></description>
-        </item>
-        <item>
-            <title><![CDATA[<em>《大西洋》</em>日报。大多数美国人并不讨厌他们的工作]]></title>
-            <link>https://www.theatlantic.com/newsletters/archive/2022/04/most-americans-dont-hate-their-jobs/629460/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/newsletters/archive/2022/04/most-americans-dont-hate-their-jobs/629460/?utm_source=feed</guid>
-            <pubDate>Sat, 02 Apr 2022 16:06:52 GMT</pubDate>
-            <description><![CDATA[<em>The Atlantic</em> Daily: Most Americans Don’t Hate Their Job]]></description>
         </item>
     </channel>
 </rss>

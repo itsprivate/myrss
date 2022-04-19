@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-19T09:13:16.441Z</updated>
+    <updated>2022-04-19T10:14:48.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[填字游戏: 2022年4月19日，星期二]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/19</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/19"/>
+        <updated>2022-04-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Crossword: Tuesday, April 19, 2022]]></summary>
+        <author>
+            <name>Elizabeth C. Gorski</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[落名：2022年4月19日，星期二]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/19</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/19"/>
+        <updated>2022-04-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Name Drop: Tuesday, April 19, 2022]]></summary>
+        <author>
+            <name>Liz Maynes-Aminzade</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特勤局档案选集]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/selections-from-the-secret-service-archives</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/selections-from-the-secret-service-archives"/>
+        <updated>2022-04-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Selections from the Secret Service Archives]]></summary>
+        <author>
+            <name>River Clegg</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[终极虎妈]]></title>
+        <id>https://www.newyorker.com/news/afterword/the-ultimate-tiger-mom</id>
+        <link href="https://www.newyorker.com/news/afterword/the-ultimate-tiger-mom"/>
+        <updated>2022-04-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Ultimate Tiger Mom]]></summary>
+        <author>
+            <name>Susan Orlean</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A.I.可以完全终止车祸吗？潜力是存在的。]]></title>
         <id>https://www.nytimes.com/2022/04/19/technology/ai-road-car-safety.html</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>Noah Smith</name>
             <uri>https://noahpinion.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[词汇表背后的狡猾心思]]></title>
-        <id>https://www.newyorker.com/video/watch/shorts-murmurs-the-devious-mind-behind-wordle</id>
-        <link href="https://www.newyorker.com/video/watch/shorts-murmurs-the-devious-mind-behind-wordle"/>
-        <updated>2022-04-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Devious Mind Behind Wordle]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[克里斯蒂安-斯莫尔和德里克-帕尔默如何战胜亚马逊]]></title>
-        <id>https://www.nytimes.com/2022/04/02/business/amazon-union-christian-smalls.html</id>
-        <link href="https://www.nytimes.com/2022/04/02/business/amazon-union-christian-smalls.html"/>
-        <updated>2022-04-02T17:57:41.000Z</updated>
-        <summary type="html"><![CDATA[How Christian Smalls and Derrick Palmer Beat Amazon]]></summary>
-        <author>
-            <name>Jodi Kantor and Karen Weise</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉第一季度销量大增，再次逆行业潮流而动]]></title>
-        <id>https://www.nytimes.com/2022/04/02/business/tesla-sales-electric-vehicles.html</id>
-        <link href="https://www.nytimes.com/2022/04/02/business/tesla-sales-electric-vehicles.html"/>
-        <updated>2022-04-02T16:53:44.000Z</updated>
-        <summary type="html"><![CDATA[Tesla’s Sales Jumped in the First Quarter, Bucking Industry Trend Again]]></summary>
-        <author>
-            <name>Jack Ewing</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<em>《大西洋》</em>日报。大多数美国人并不讨厌他们的工作]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2022/04/most-americans-dont-hate-their-jobs/629460/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2022/04/most-americans-dont-hate-their-jobs/629460/?utm_source=feed"/>
-        <updated>2022-04-02T16:06:52.000Z</updated>
-        <summary type="html"><![CDATA[<em>The Atlantic</em> Daily: Most Americans Don’t Hate Their Job]]></summary>
-        <author>
-            <name>Caroline Mimbs Nyce</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
