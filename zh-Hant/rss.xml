@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 19 Apr 2022 10:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 10:37:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,34 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[比莉-艾利什對滿意的認識]]></title>
+            <link>https://www.theatlantic.com/magazine/archive/2022/05/the-commons/629362/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/magazine/archive/2022/05/the-commons/629362/?utm_source=feed</guid>
+            <pubDate>Tue, 19 Apr 2022 10:00:58 GMT</pubDate>
+            <description><![CDATA[What Billie Eilish Knows About Satisfaction]]></description>
+        </item>
+        <item>
+            <title><![CDATA[以藝術為目的的性行為]]></title>
+            <link>https://www.theatlantic.com/magazine/archive/2022/05/elif-batuman-either-or-the-idiot-review/629372/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/magazine/archive/2022/05/elif-batuman-either-or-the-idiot-review/629372/?utm_source=feed</guid>
+            <pubDate>Tue, 19 Apr 2022 10:00:59 GMT</pubDate>
+            <description><![CDATA[Sex for Art’s Sake]]></description>
+        </item>
+        <item>
+            <title><![CDATA[多樣化的民主國家如何保護其公民]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/diverse-democracy-protect-personal-liberty/629543/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/diverse-democracy-protect-personal-liberty/629543/?utm_source=feed</guid>
+            <pubDate>Tue, 19 Apr 2022 10:00:58 GMT</pubDate>
+            <description><![CDATA[How Diverse Democracies Can Protect Their Citizens]]></description>
+        </item>
+        <item>
+            <title><![CDATA[追逐九龍王]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/hong-kong-chinese-calligraphy-democracy-indelible-city/629582/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/hong-kong-chinese-calligraphy-democracy-indelible-city/629582/?utm_source=feed</guid>
+            <pubDate>Tue, 19 Apr 2022 10:00:58 GMT</pubDate>
+            <description><![CDATA[Chasing the King of Kowloon]]></description>
+        </item>
         <item>
             <title><![CDATA[填字遊戲: 2022年4月19日，星期二]]></title>
             <link>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/19</link>
@@ -4185,34 +4213,6 @@
             <guid>https://www.newyorker.com/culture/the-new-yorker-interview/carroll-dunhams-paintings-make-you-squirm</guid>
             <pubDate>Sun, 03 Apr 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Carroll Dunham’s Paintings Make You Squirm]]></description>
-        </item>
-        <item>
-            <title><![CDATA[星期日閱讀。格萊美提名者，過去和現在]]></title>
-            <link>https://www.newyorker.com/books/double-take/sunday-reading-grammy-nominees-past-and-present</link>
-            <guid>https://www.newyorker.com/books/double-take/sunday-reading-grammy-nominees-past-and-present</guid>
-            <pubDate>Sun, 03 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Sunday Reading: Grammy Nominees, Past and Present]]></description>
-        </item>
-        <item>
-            <title><![CDATA[羅伯特-馬龍散佈關於疫苗的虛假信息。他還說他發明了一些疫苗。]]></title>
-            <link>https://www.nytimes.com/2022/04/03/technology/robert-malone-covid.html</link>
-            <guid>https://www.nytimes.com/2022/04/03/technology/robert-malone-covid.html</guid>
-            <pubDate>Sun, 03 Apr 2022 09:00:17 GMT</pubDate>
-            <description><![CDATA[Robert Malone Spreads Falsehoods About Vaccines. He Also Says He Invented Some.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[烏克蘭是如何顛覆歐洲政治的]]></title>
-            <link>https://www.theatlantic.com/international/archive/2022/04/ukraine-affects-orban-macron-2022-elections/629446/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/international/archive/2022/04/ukraine-affects-orban-macron-2022-elections/629446/?utm_source=feed</guid>
-            <pubDate>Sun, 03 Apr 2022 08:27:17 GMT</pubDate>
-            <description><![CDATA[How Ukraine Is Upending European Politics]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Zines!]]></title>
-            <link>https://noahpinion.substack.com/p/zines</link>
-            <guid>https://noahpinion.substack.com/p/zines</guid>
-            <pubDate>Sat, 02 Apr 2022 23:29:44 GMT</pubDate>
-            <description><![CDATA[Zines!]]></description>
         </item>
     </channel>
 </rss>

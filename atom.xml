@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-19T10:14:48.590Z</updated>
+    <updated>2022-04-19T10:37:44.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[比莉-艾利什对满意的认识]]></title>
+        <id>https://www.theatlantic.com/magazine/archive/2022/05/the-commons/629362/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/magazine/archive/2022/05/the-commons/629362/?utm_source=feed"/>
+        <updated>2022-04-19T10:00:58.000Z</updated>
+        <summary type="html"><![CDATA[What Billie Eilish Knows About Satisfaction]]></summary>
+        <author>
+            <name>The Atlantic</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以艺术为目的的性行为]]></title>
+        <id>https://www.theatlantic.com/magazine/archive/2022/05/elif-batuman-either-or-the-idiot-review/629372/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/magazine/archive/2022/05/elif-batuman-either-or-the-idiot-review/629372/?utm_source=feed"/>
+        <updated>2022-04-19T10:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Sex for Art’s Sake]]></summary>
+        <author>
+            <name>Jennifer Wilson</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多样化的民主国家如何保护其公民]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/diverse-democracy-protect-personal-liberty/629543/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/diverse-democracy-protect-personal-liberty/629543/?utm_source=feed"/>
+        <updated>2022-04-19T10:00:58.000Z</updated>
+        <summary type="html"><![CDATA[How Diverse Democracies Can Protect Their Citizens]]></summary>
+        <author>
+            <name>Yascha Mounk</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[追逐九龙王]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/hong-kong-chinese-calligraphy-democracy-indelible-city/629582/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/hong-kong-chinese-calligraphy-democracy-indelible-city/629582/?utm_source=feed"/>
+        <updated>2022-04-19T10:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Chasing the King of Kowloon]]></summary>
+        <author>
+            <name>Louisa Lim</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[填字游戏: 2022年4月19日，星期二]]></title>
         <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/19</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>Naomi Fry</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[星期日阅读。格莱美提名者，过去和现在]]></title>
-        <id>https://www.newyorker.com/books/double-take/sunday-reading-grammy-nominees-past-and-present</id>
-        <link href="https://www.newyorker.com/books/double-take/sunday-reading-grammy-nominees-past-and-present"/>
-        <updated>2022-04-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sunday Reading: Grammy Nominees, Past and Present]]></summary>
-        <author>
-            <name>The New Yorker</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[罗伯特-马龙散布关于疫苗的虚假信息。他还说他发明了一些疫苗。]]></title>
-        <id>https://www.nytimes.com/2022/04/03/technology/robert-malone-covid.html</id>
-        <link href="https://www.nytimes.com/2022/04/03/technology/robert-malone-covid.html"/>
-        <updated>2022-04-03T09:00:17.000Z</updated>
-        <summary type="html"><![CDATA[Robert Malone Spreads Falsehoods About Vaccines. He Also Says He Invented Some.]]></summary>
-        <author>
-            <name>Davey Alba</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰是如何颠覆欧洲政治的]]></title>
-        <id>https://www.theatlantic.com/international/archive/2022/04/ukraine-affects-orban-macron-2022-elections/629446/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/international/archive/2022/04/ukraine-affects-orban-macron-2022-elections/629446/?utm_source=feed"/>
-        <updated>2022-04-03T08:27:17.000Z</updated>
-        <summary type="html"><![CDATA[How Ukraine Is Upending European Politics]]></summary>
-        <author>
-            <name>Yasmeen Serhan</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zines!]]></title>
-        <id>https://noahpinion.substack.com/p/zines</id>
-        <link href="https://noahpinion.substack.com/p/zines"/>
-        <updated>2022-04-02T23:29:44.000Z</updated>
-        <summary type="html"><![CDATA[Zines!]]></summary>
-        <author>
-            <name>Noah Smith</name>
-            <uri>https://noahpinion.substack.com/feed</uri>
         </author>
     </entry>
 </feed>
