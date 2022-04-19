@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 18 Apr 2022 23:52:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 09:13:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[A.I.可以完全终止车祸吗？潜力是存在的。]]></title>
+            <link>https://www.nytimes.com/2022/04/19/technology/ai-road-car-safety.html</link>
+            <guid>https://www.nytimes.com/2022/04/19/technology/ai-road-car-safety.html</guid>
+            <pubDate>Tue, 19 Apr 2022 09:00:17 GMT</pubDate>
+            <description><![CDATA[Can A.I. All but End Car Crashes? The Potential Is There.]]></description>
+        </item>
         <item>
             <title><![CDATA["上路吧，"评论。来自伊朗的神秘而惊心动魄的启示]]></title>
             <link>https://www.newyorker.com/culture/the-front-row/hit-the-road-reviewed-a-mysterious-and-thrilling-revelation-from-iran</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/newsletters/archive/2022/04/most-americans-dont-hate-their-jobs/629460/?utm_source=feed</guid>
             <pubDate>Sat, 02 Apr 2022 16:06:52 GMT</pubDate>
             <description><![CDATA[<em>The Atlantic</em> Daily: Most Americans Don’t Hate Their Job]]></description>
-        </item>
-        <item>
-            <title><![CDATA[拳击比赛回放：巴掌门]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/11/boxing-play-by-play-slapgate</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/11/boxing-play-by-play-slapgate</guid>
-            <pubDate>Sat, 02 Apr 2022 14:00:00 GMT</pubDate>
-            <description><![CDATA[Boxing Play-by-Play: Slapgate]]></description>
         </item>
     </channel>
 </rss>

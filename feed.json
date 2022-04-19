@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/19/technology/ai-road-car-safety.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/19/technology/ai-road-car-safety.html",
+            "title": "A.I.可以完全终止车祸吗？潜力是存在的。",
+            "summary": "Can A.I. All but End Car Crashes? The Potential Is There.",
+            "date_modified": "2022-04-19T09:00:17.000Z",
+            "author": {
+                "name": "Tanya Mohn",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/culture/the-front-row/hit-the-road-reviewed-a-mysterious-and-thrilling-revelation-from-iran",
             "content_html": "",
             "url": "https://www.newyorker.com/culture/the-front-row/hit-the-road-reviewed-a-mysterious-and-thrilling-revelation-from-iran",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Caroline Mimbs Nyce",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/04/11/boxing-play-by-play-slapgate",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/04/11/boxing-play-by-play-slapgate",
-            "title": "拳击比赛回放：巴掌门",
-            "summary": "Boxing Play-by-Play: Slapgate",
-            "date_modified": "2022-04-02T14:00:00.000Z",
-            "author": {
-                "name": "Zach Helfand",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]

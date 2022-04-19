@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-18T23:52:38.163Z</updated>
+    <updated>2022-04-19T09:13:16.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[A.I.可以完全终止车祸吗？潜力是存在的。]]></title>
+        <id>https://www.nytimes.com/2022/04/19/technology/ai-road-car-safety.html</id>
+        <link href="https://www.nytimes.com/2022/04/19/technology/ai-road-car-safety.html"/>
+        <updated>2022-04-19T09:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Can A.I. All but End Car Crashes? The Potential Is There.]]></summary>
+        <author>
+            <name>Tanya Mohn</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["上路吧，"评论。来自伊朗的神秘而惊心动魄的启示]]></title>
         <id>https://www.newyorker.com/culture/the-front-row/hit-the-road-reviewed-a-mysterious-and-thrilling-revelation-from-iran</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Caroline Mimbs Nyce</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拳击比赛回放：巴掌门]]></title>
-        <id>https://www.newyorker.com/magazine/2022/04/11/boxing-play-by-play-slapgate</id>
-        <link href="https://www.newyorker.com/magazine/2022/04/11/boxing-play-by-play-slapgate"/>
-        <updated>2022-04-02T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Boxing Play-by-Play: Slapgate]]></summary>
-        <author>
-            <name>Zach Helfand</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
