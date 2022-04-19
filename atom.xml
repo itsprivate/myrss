@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-19T20:14:40.248Z</updated>
+    <updated>2022-04-19T20:37:46.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[<em>The Atlantic</em> Daily: 欢迎来到特朗普的电影宇宙]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/04/trump-support-conspiracy-big-lie/629602/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/04/trump-support-conspiracy-big-lie/629602/?utm_source=feed"/>
+        <updated>2022-04-19T20:30:06.000Z</updated>
+        <summary type="html"><![CDATA[<em>The Atlantic</em> Daily: Welcome to the Trump Cinematic Universe]]></summary>
+        <author>
+            <name>Rachel Gutman</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[还记得天王星吗？]]></title>
+        <id>https://www.theatlantic.com/science/archive/2022/04/uranus-mission-priority-nasa/629601/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/science/archive/2022/04/uranus-mission-priority-nasa/629601/?utm_source=feed"/>
+        <updated>2022-04-19T20:21:05.000Z</updated>
+        <summary type="html"><![CDATA[Remember Uranus?]]></summary>
+        <author>
+            <name>Marina Koren</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[收集尴尬、有趣的写作的Twitter账户]]></title>
         <id>https://www.newyorker.com/culture/rabbit-holes/the-twitter-account-that-collects-awkward-amusing-writing</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[How the West Rebuilds Its World]]></summary>
         <author>
             <name>Tom McTague</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[针对俄罗斯的长期经济战争。一个计划]]></title>
-        <id>https://noahpinion.substack.com/p/the-long-economic-war-against-russia</id>
-        <link href="https://noahpinion.substack.com/p/the-long-economic-war-against-russia"/>
-        <updated>2022-04-04T06:37:28.000Z</updated>
-        <summary type="html"><![CDATA[The long economic war against Russia: A plan]]></summary>
-        <author>
-            <name>Noah Smith</name>
-            <uri>https://noahpinion.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[泽伦斯基惊喜亮相格莱美的原因]]></title>
-        <id>https://www.theatlantic.com/culture/archive/2022/04/grammy-zelensky-ukraine-2022/629467/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/culture/archive/2022/04/grammy-zelensky-ukraine-2022/629467/?utm_source=feed"/>
-        <updated>2022-04-04T05:08:40.000Z</updated>
-        <summary type="html"><![CDATA[The Reason for Zelensky’s Surprise Grammy Appearance]]></summary>
-        <author>
-            <name>Spencer Kornhaber</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>

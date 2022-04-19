@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 19 Apr 2022 20:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 20:37:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[<em>The Atlantic</em> Daily: 歡迎來到特朗普的電影宇宙]]></title>
+            <link>https://www.theatlantic.com/newsletters/archive/2022/04/trump-support-conspiracy-big-lie/629602/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/newsletters/archive/2022/04/trump-support-conspiracy-big-lie/629602/?utm_source=feed</guid>
+            <pubDate>Tue, 19 Apr 2022 20:30:06 GMT</pubDate>
+            <description><![CDATA[<em>The Atlantic</em> Daily: Welcome to the Trump Cinematic Universe]]></description>
+        </item>
+        <item>
+            <title><![CDATA[還記得天王星嗎？]]></title>
+            <link>https://www.theatlantic.com/science/archive/2022/04/uranus-mission-priority-nasa/629601/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/science/archive/2022/04/uranus-mission-priority-nasa/629601/?utm_source=feed</guid>
+            <pubDate>Tue, 19 Apr 2022 20:21:05 GMT</pubDate>
+            <description><![CDATA[Remember Uranus?]]></description>
+        </item>
         <item>
             <title><![CDATA[收集尷尬、有趣的寫作的Twitter賬戶]]></title>
             <link>https://www.newyorker.com/culture/rabbit-holes/the-twitter-account-that-collects-awkward-amusing-writing</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.theatlantic.com/international/archive/2022/04/western-response-to-china-russia-invasion/629465/?utm_source=feed</guid>
             <pubDate>Mon, 04 Apr 2022 09:00:56 GMT</pubDate>
             <description><![CDATA[How the West Rebuilds Its World]]></description>
-        </item>
-        <item>
-            <title><![CDATA[針對俄羅斯的長期經濟戰爭。一個計劃]]></title>
-            <link>https://noahpinion.substack.com/p/the-long-economic-war-against-russia</link>
-            <guid>https://noahpinion.substack.com/p/the-long-economic-war-against-russia</guid>
-            <pubDate>Mon, 04 Apr 2022 06:37:28 GMT</pubDate>
-            <description><![CDATA[The long economic war against Russia: A plan]]></description>
-        </item>
-        <item>
-            <title><![CDATA[澤倫斯基驚喜亮相格萊美的原因]]></title>
-            <link>https://www.theatlantic.com/culture/archive/2022/04/grammy-zelensky-ukraine-2022/629467/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/culture/archive/2022/04/grammy-zelensky-ukraine-2022/629467/?utm_source=feed</guid>
-            <pubDate>Mon, 04 Apr 2022 05:08:40 GMT</pubDate>
-            <description><![CDATA[The Reason for Zelensky’s Surprise Grammy Appearance]]></description>
         </item>
     </channel>
 </rss>
