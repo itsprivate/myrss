@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/daily-comment/the-subway-in-our-collective-imagination-before-and-after-the-brooklyn-shooting",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/daily-comment/the-subway-in-our-collective-imagination-before-and-after-the-brooklyn-shooting",
+            "title": "布鲁克林枪击案前后，我们集体想象中的地铁",
+            "summary": "The Subway in Our Collective Imagination, Before and After the Brooklyn Shooting",
+            "date_modified": "2022-04-19T22:55:05.000Z",
+            "author": {
+                "name": "Adam Gopnik",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/19/technology/elon-musk-twitter.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/19/technology/elon-musk-twitter.html",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-04-04T10:00:57.000Z",
             "author": {
                 "name": "Derek Thompson",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/04/how-build-union-victory-amazon-staten-island/629464/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/04/how-build-union-victory-amazon-staten-island/629464/?utm_source=feed",
-            "title": "如何在联盟胜利的基础上再接再厉》在亚马逊上市",
-            "summary": "How to Build on the Union Victory at Amazon",
-            "date_modified": "2022-04-04T10:00:57.000Z",
-            "author": {
-                "name": "Steven Greenhouse",
                 "url": "https://www.theatlantic.com/feed/all/"
             }
         }

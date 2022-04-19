@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-19T22:37:24.740Z</updated>
+    <updated>2022-04-19T23:12:36.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[布鲁克林枪击案前后，我们集体想象中的地铁]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/the-subway-in-our-collective-imagination-before-and-after-the-brooklyn-shooting</id>
+        <link href="https://www.newyorker.com/news/daily-comment/the-subway-in-our-collective-imagination-before-and-after-the-brooklyn-shooting"/>
+        <updated>2022-04-19T22:55:05.000Z</updated>
+        <summary type="html"><![CDATA[The Subway in Our Collective Imagination, Before and After the Brooklyn Shooting]]></summary>
+        <author>
+            <name>Adam Gopnik</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[埃隆-马斯克争相为竞购Twitter融资]]></title>
         <id>https://www.nytimes.com/2022/04/19/technology/elon-musk-twitter.html</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Why People Are Adding a Second Shift at Night]]></summary>
         <author>
             <name>Derek Thompson</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在联盟胜利的基础上再接再厉》在亚马逊上市]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/04/how-build-union-victory-amazon-staten-island/629464/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/04/how-build-union-victory-amazon-staten-island/629464/?utm_source=feed"/>
-        <updated>2022-04-04T10:00:57.000Z</updated>
-        <summary type="html"><![CDATA[How to Build on the Union Victory at Amazon]]></summary>
-        <author>
-            <name>Steven Greenhouse</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>

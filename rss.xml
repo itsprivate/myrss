@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 19 Apr 2022 22:37:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 23:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[布鲁克林枪击案前后，我们集体想象中的地铁]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/the-subway-in-our-collective-imagination-before-and-after-the-brooklyn-shooting</link>
+            <guid>https://www.newyorker.com/news/daily-comment/the-subway-in-our-collective-imagination-before-and-after-the-brooklyn-shooting</guid>
+            <pubDate>Tue, 19 Apr 2022 22:55:05 GMT</pubDate>
+            <description><![CDATA[The Subway in Our Collective Imagination, Before and After the Brooklyn Shooting]]></description>
+        </item>
         <item>
             <title><![CDATA[埃隆-马斯克争相为竞购Twitter融资]]></title>
             <link>https://www.nytimes.com/2022/04/19/technology/elon-musk-twitter.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/newsletters/archive/2022/04/triple-peak-day-work-from-home/629457/?utm_source=feed</guid>
             <pubDate>Mon, 04 Apr 2022 10:00:57 GMT</pubDate>
             <description><![CDATA[Why People Are Adding a Second Shift at Night]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何在联盟胜利的基础上再接再厉》在亚马逊上市]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/04/how-build-union-victory-amazon-staten-island/629464/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/04/how-build-union-victory-amazon-staten-island/629464/?utm_source=feed</guid>
-            <pubDate>Mon, 04 Apr 2022 10:00:57 GMT</pubDate>
-            <description><![CDATA[How to Build on the Union Victory at Amazon]]></description>
         </item>
     </channel>
 </rss>
