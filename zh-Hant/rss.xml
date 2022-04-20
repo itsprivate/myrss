@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 20 Apr 2022 21:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 21:33:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,55 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[佛羅里達州法官裁定，航空公司不能要求乘客必須持有機票]]></title>
+            <link>https://www.newyorker.com/humor/borowitz-report/florida-judge-rules-that-airlines-cannot-require-passengers-to-have-tickets</link>
+            <guid>https://www.newyorker.com/humor/borowitz-report/florida-judge-rules-that-airlines-cannot-require-passengers-to-have-tickets</guid>
+            <pubDate>Wed, 20 Apr 2022 21:04:09 GMT</pubDate>
+            <description><![CDATA[Florida Judge Rules That Airlines Cannot Require Passengers to Have Tickets]]></description>
+        </item>
+        <item>
+            <title><![CDATA[焱焱三文治：All'Antico Vinaio的三明治]]></title>
+            <link>https://www.newyorker.com/magazine/2022/04/25/the-irresistible-sandwiches-of-allantico-vinaio</link>
+            <guid>https://www.newyorker.com/magazine/2022/04/25/the-irresistible-sandwiches-of-allantico-vinaio</guid>
+            <pubDate>Fri, 15 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Irresistible Sandwiches of All’Antico Vinaio]]></description>
+        </item>
+        <item>
+            <title><![CDATA[靛藍-德-索薩的令人喜愛的格調流行音樂]]></title>
+            <link>https://www.newyorker.com/magazine/2022/04/25/indigo-de-souzas-endearing-grunge-pop</link>
+            <guid>https://www.newyorker.com/magazine/2022/04/25/indigo-de-souzas-endearing-grunge-pop</guid>
+            <pubDate>Fri, 15 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Indigo De Souza’s Endearing Grunge Pop]]></description>
+        </item>
+        <item>
+            <title><![CDATA["公爵 "的意外悲情]]></title>
+            <link>https://www.newyorker.com/magazine/2022/04/25/the-unexpected-sadness-of-the-duke</link>
+            <guid>https://www.newyorker.com/magazine/2022/04/25/the-unexpected-sadness-of-the-duke</guid>
+            <pubDate>Fri, 15 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Unexpected Sadness of “The Duke”]]></description>
+        </item>
+        <item>
+            <title><![CDATA["遣散 "是靈魂的科幻片]]></title>
+            <link>https://www.newyorker.com/magazine/2022/04/25/severance-is-sci-fi-for-the-soul</link>
+            <guid>https://www.newyorker.com/magazine/2022/04/25/severance-is-sci-fi-for-the-soul</guid>
+            <pubDate>Mon, 18 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[“Severance” Is Sci-Fi for the Soul]]></description>
+        </item>
+        <item>
+            <title><![CDATA[傑米-勞埃德的極簡主義嘻哈 "西拉諾-德-貝爾熱拉克"]]></title>
+            <link>https://www.newyorker.com/magazine/2022/04/25/jamie-lloyds-minimalist-hip-hop-cyrano-de-bergerac</link>
+            <guid>https://www.newyorker.com/magazine/2022/04/25/jamie-lloyds-minimalist-hip-hop-cyrano-de-bergerac</guid>
+            <pubDate>Mon, 18 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Jamie Lloyd’s Minimalist Hip-Hop “Cyrano de Bergerac”]]></description>
+        </item>
+        <item>
+            <title><![CDATA[亞特蘭大蘋果店工人成為第一個正式尋求成立工會的人]]></title>
+            <link>https://www.nytimes.com/2022/04/20/business/economy/apple-store-union-atlanta.html</link>
+            <guid>https://www.nytimes.com/2022/04/20/business/economy/apple-store-union-atlanta.html</guid>
+            <pubDate>Wed, 20 Apr 2022 21:26:21 GMT</pubDate>
+            <description><![CDATA[Atlanta Apple Store Workers Are the First to Formally Seek a Union]]></description>
+        </item>
         <item>
             <title><![CDATA[<em>The Northman</em>是一幅不傷感的英雄畫像]]></title>
             <link>https://www.theatlantic.com/culture/archive/2022/04/the-northman-movie-review-robert-eggers/629613/?utm_source=feed</link>
@@ -4164,55 +4213,6 @@
             <guid>https://www.currentaffairs.org/2022/04/do-democratic-politicians-understand-that-fossil-fuels-have-to-go/</guid>
             <pubDate>Mon, 04 Apr 2022 18:29:45 GMT</pubDate>
             <description><![CDATA[Do Democratic Politicians Understand That Fossil Fuels Have to Go?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Yudkowsky Contra Christiano on AI takeoff Speeds]]></title>
-            <link>https://astralcodexten.substack.com/p/yudkowsky-contra-christiano-on-ai</link>
-            <guid>https://astralcodexten.substack.com/p/yudkowsky-contra-christiano-on-ai</guid>
-            <pubDate>Mon, 04 Apr 2022 20:57:40 GMT</pubDate>
-            <description><![CDATA[Yudkowsky Contra Christiano On AI Takeoff Speeds]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何避免 "愚蠢 "的災難]]></title>
-            <link>https://www.newyorker.com/news/daily-comment/how-to-avoid-stupid-catastrophe</link>
-            <guid>https://www.newyorker.com/news/daily-comment/how-to-avoid-stupid-catastrophe</guid>
-            <pubDate>Mon, 04 Apr 2022 20:59:56 GMT</pubDate>
-            <description><![CDATA[How to Avoid “Stupid” Catastrophe]]></description>
-        </item>
-        <item>
-            <title><![CDATA[調查1月6日]]></title>
-            <link>https://www.newyorker.com/podcast/politics-and-more/investigating-january-6th</link>
-            <guid>https://www.newyorker.com/podcast/politics-and-more/investigating-january-6th</guid>
-            <pubDate>Mon, 04 Apr 2022 20:00:00 GMT</pubDate>
-            <description><![CDATA[Investigating January 6th]]></description>
-        </item>
-        <item>
-            <title><![CDATA[調查1月6日]]></title>
-            <link>https://www.newyorker.com/podcast/politics-and-more/investigating-january-6th</link>
-            <guid>https://www.newyorker.com/podcast/politics-and-more/investigating-january-6th</guid>
-            <pubDate>Mon, 04 Apr 2022 20:00:00 GMT</pubDate>
-            <description><![CDATA[Investigating January 6th]]></description>
-        </item>
-        <item>
-            <title><![CDATA[基輔普通生命的毀滅]]></title>
-            <link>https://www.newyorker.com/culture/photo-booth/the-destruction-of-ordinary-lives-in-kyiv</link>
-            <guid>https://www.newyorker.com/culture/photo-booth/the-destruction-of-ordinary-lives-in-kyiv</guid>
-            <pubDate>Mon, 04 Apr 2022 19:14:30 GMT</pubDate>
-            <description><![CDATA[The Destruction of Ordinary Lives in Kyiv]]></description>
-        </item>
-        <item>
-            <title><![CDATA[機艙熱的文獻]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/11/the-literature-of-cabin-fever</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/11/the-literature-of-cabin-fever</guid>
-            <pubDate>Mon, 04 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Literature of Cabin Fever]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在《俄羅斯娃娃》中，娜塔莎-里昂娜嚮往著過去。]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/11/in-russian-doll-natasha-lyonne-barrels-into-the-past</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/11/in-russian-doll-natasha-lyonne-barrels-into-the-past</guid>
-            <pubDate>Mon, 04 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[In “Russian Doll,” Natasha Lyonne Barrels Into the Past]]></description>
         </item>
     </channel>
 </rss>
