@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 20 Apr 2022 15:41:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 16:59:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[埃隆-马斯克庆祝4/20]]></title>
+            <link>https://www.newyorker.com/cartoons/blitts-kvetchbook/elon-musk-celebrates-420</link>
+            <guid>https://www.newyorker.com/cartoons/blitts-kvetchbook/elon-musk-celebrates-420</guid>
+            <pubDate>Wed, 20 Apr 2022 16:18:24 GMT</pubDate>
+            <description><![CDATA[Elon Musk Celebrates 4/20]]></description>
+        </item>
+        <item>
+            <title><![CDATA[<em>鲁保罗的龙争虎斗</em>可能比以往更重要]]></title>
+            <link>https://www.theatlantic.com/culture/archive/2022/04/rupauls-drag-race-season-14-significance/629606/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/culture/archive/2022/04/rupauls-drag-race-season-14-significance/629606/?utm_source=feed</guid>
+            <pubDate>Wed, 20 Apr 2022 16:37:23 GMT</pubDate>
+            <description><![CDATA[<em>RuPaul’s Drag Race</em> Could Matter More Than Ever]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么学龄前儿童要遵守纽约市最严格的COVID规则？]]></title>
             <link>https://www.newyorker.com/news/annals-of-education/why-are-preschoolers-subject-to-the-strictest-covid-rules-in-new-york-city</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/cartoons/daily-cartoon/monday-april-4th-smartphone-scrolling</guid>
             <pubDate>Mon, 04 Apr 2022 14:14:19 GMT</pubDate>
             <description><![CDATA[Daily Cartoon: Monday, April 4th]]></description>
-        </item>
-        <item>
-            <title><![CDATA[当特朗普试图纠正历史记录时发生了什么？]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/04/trump-interview-a-first-historical-assessment/629454/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/04/trump-interview-a-first-historical-assessment/629454/?utm_source=feed</guid>
-            <pubDate>Mon, 04 Apr 2022 14:01:56 GMT</pubDate>
-            <description><![CDATA[What Happened When Trump Tried to Correct the Historical Record]]></description>
-        </item>
-        <item>
-            <title><![CDATA[是什么让一部电影改变了人们的生活？]]></title>
-            <link>https://www.theatlantic.com/newsletters/archive/2022/04/best-underrated-movies/629456/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/newsletters/archive/2022/04/best-underrated-movies/629456/?utm_source=feed</guid>
-            <pubDate>Mon, 04 Apr 2022 14:01:56 GMT</pubDate>
-            <description><![CDATA[What Makes a Movie Life-Changing?]]></description>
         </item>
     </channel>
 </rss>

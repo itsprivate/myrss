@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-20T15:41:19.602Z</updated>
+    <updated>2022-04-20T16:59:40.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[埃隆-马斯克庆祝4/20]]></title>
+        <id>https://www.newyorker.com/cartoons/blitts-kvetchbook/elon-musk-celebrates-420</id>
+        <link href="https://www.newyorker.com/cartoons/blitts-kvetchbook/elon-musk-celebrates-420"/>
+        <updated>2022-04-20T16:18:24.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk Celebrates 4/20]]></summary>
+        <author>
+            <name>Barry Blitt</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<em>鲁保罗的龙争虎斗</em>可能比以往更重要]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/04/rupauls-drag-race-season-14-significance/629606/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/04/rupauls-drag-race-season-14-significance/629606/?utm_source=feed"/>
+        <updated>2022-04-20T16:37:23.000Z</updated>
+        <summary type="html"><![CDATA[<em>RuPaul’s Drag Race</em> Could Matter More Than Ever]]></summary>
+        <author>
+            <name>Spencer Kornhaber</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么学龄前儿童要遵守纽约市最严格的COVID规则？]]></title>
         <id>https://www.newyorker.com/news/annals-of-education/why-are-preschoolers-subject-to-the-strictest-covid-rules-in-new-york-city</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Maik Banks</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当特朗普试图纠正历史记录时发生了什么？]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/04/trump-interview-a-first-historical-assessment/629454/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/04/trump-interview-a-first-historical-assessment/629454/?utm_source=feed"/>
-        <updated>2022-04-04T14:01:56.000Z</updated>
-        <summary type="html"><![CDATA[What Happened When Trump Tried to Correct the Historical Record]]></summary>
-        <author>
-            <name>Julian E. Zelizer</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是什么让一部电影改变了人们的生活？]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2022/04/best-underrated-movies/629456/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2022/04/best-underrated-movies/629456/?utm_source=feed"/>
-        <updated>2022-04-04T14:01:56.000Z</updated>
-        <summary type="html"><![CDATA[What Makes a Movie Life-Changing?]]></summary>
-        <author>
-            <name>Conor Friedersdorf</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
