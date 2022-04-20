@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-20T11:12:56.978Z</updated>
+    <updated>2022-04-20T14:02:05.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[安迪-沃霍爾非常公開的私人生活]]></title>
+        <id>https://www.newyorker.com/culture/cultural-comment/the-very-public-private-life-of-andy-warhol</id>
+        <link href="https://www.newyorker.com/culture/cultural-comment/the-very-public-private-life-of-andy-warhol"/>
+        <updated>2022-04-20T13:49:02.000Z</updated>
+        <summary type="html"><![CDATA[The Very Public Private Life of Andy Warhol]]></summary>
+        <author>
+            <name>Louis Menand</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[布魯克林摔跤場上的兩個夜晚]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/04/arm-wrestling-new-york-greenpoint/629603/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/04/arm-wrestling-new-york-greenpoint/629603/?utm_source=feed"/>
+        <updated>2022-04-20T13:36:21.000Z</updated>
+        <summary type="html"><![CDATA[Two Nights in the Brooklyn Arm-Wrestling Scene]]></summary>
+        <author>
+            <name>Kaitlyn Tiffany</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[太陽變暗可能是氣候科學的手推車問題]]></title>
+        <id>https://www.theatlantic.com/science/archive/2022/04/solar-geo-engineering-global-warming-malaria/629604/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/science/archive/2022/04/solar-geo-engineering-global-warming-malaria/629604/?utm_source=feed"/>
+        <updated>2022-04-20T13:38:22.000Z</updated>
+        <summary type="html"><![CDATA[Dimming the Sun Could Be Climate Science’s Trolley Problem]]></summary>
+        <author>
+            <name>Robinson Meyer</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[溫斯頓-丘吉爾，帝國的怪胎]]></title>
         <id>https://www.currentaffairs.org/2022/04/winston-churchill-imperial-monstrosity/</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>Nathan J. Robinson</name>
             <uri>https://www.currentaffairs.org/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第二次世界大戰的新歷史]]></title>
-        <id>https://www.theatlantic.com/magazine/archive/2022/05/world-war-ii-empire-colonialism/629371/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/magazine/archive/2022/05/world-war-ii-empire-colonialism/629371/?utm_source=feed"/>
-        <updated>2022-04-04T11:00:57.000Z</updated>
-        <summary type="html"><![CDATA[A New History of World War II]]></summary>
-        <author>
-            <name>Daniel Immerwahr</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大屠殺的另一種歷史]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-soviet-union-holocaust-jewish-history/629421/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/04/ukraine-soviet-union-holocaust-jewish-history/629421/?utm_source=feed"/>
-        <updated>2022-04-04T11:00:57.000Z</updated>
-        <summary type="html"><![CDATA[The Other History of the Holocaust]]></summary>
-        <author>
-            <name>Alex Zeldin</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什麼是 "很多"？]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2022/04/a-lot-word-etymology/629452/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2022/04/a-lot-word-etymology/629452/?utm_source=feed"/>
-        <updated>2022-04-04T11:00:57.000Z</updated>
-        <summary type="html"><![CDATA[What Makes Someone ‘A Lot’?]]></summary>
-        <author>
-            <name>Caleb Madison</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 20 Apr 2022 11:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 14:02:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[安迪-沃霍尔非常公开的私人生活]]></title>
+            <link>https://www.newyorker.com/culture/cultural-comment/the-very-public-private-life-of-andy-warhol</link>
+            <guid>https://www.newyorker.com/culture/cultural-comment/the-very-public-private-life-of-andy-warhol</guid>
+            <pubDate>Wed, 20 Apr 2022 13:49:02 GMT</pubDate>
+            <description><![CDATA[The Very Public Private Life of Andy Warhol]]></description>
+        </item>
+        <item>
+            <title><![CDATA[布鲁克林摔跤场上的两个夜晚]]></title>
+            <link>https://www.theatlantic.com/newsletters/archive/2022/04/arm-wrestling-new-york-greenpoint/629603/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/newsletters/archive/2022/04/arm-wrestling-new-york-greenpoint/629603/?utm_source=feed</guid>
+            <pubDate>Wed, 20 Apr 2022 13:36:21 GMT</pubDate>
+            <description><![CDATA[Two Nights in the Brooklyn Arm-Wrestling Scene]]></description>
+        </item>
+        <item>
+            <title><![CDATA[太阳变暗可能是气候科学的手推车问题]]></title>
+            <link>https://www.theatlantic.com/science/archive/2022/04/solar-geo-engineering-global-warming-malaria/629604/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/science/archive/2022/04/solar-geo-engineering-global-warming-malaria/629604/?utm_source=feed</guid>
+            <pubDate>Wed, 20 Apr 2022 13:38:22 GMT</pubDate>
+            <description><![CDATA[Dimming the Sun Could Be Climate Science’s Trolley Problem]]></description>
+        </item>
         <item>
             <title><![CDATA[温斯顿-丘吉尔，帝国的怪胎]]></title>
             <link>https://www.currentaffairs.org/2022/04/winston-churchill-imperial-monstrosity/</link>
@@ -4192,27 +4213,6 @@
             <guid>https://www.currentaffairs.org/2022/03/the-great-american-world-war-ii-story/</guid>
             <pubDate>Fri, 18 Mar 2022 12:31:25 GMT</pubDate>
             <description><![CDATA[The Great American World War II Story]]></description>
-        </item>
-        <item>
-            <title><![CDATA[第二次世界大战的新历史]]></title>
-            <link>https://www.theatlantic.com/magazine/archive/2022/05/world-war-ii-empire-colonialism/629371/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/magazine/archive/2022/05/world-war-ii-empire-colonialism/629371/?utm_source=feed</guid>
-            <pubDate>Mon, 04 Apr 2022 11:00:57 GMT</pubDate>
-            <description><![CDATA[A New History of World War II]]></description>
-        </item>
-        <item>
-            <title><![CDATA[大屠杀的另一种历史]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-soviet-union-holocaust-jewish-history/629421/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-soviet-union-holocaust-jewish-history/629421/?utm_source=feed</guid>
-            <pubDate>Mon, 04 Apr 2022 11:00:57 GMT</pubDate>
-            <description><![CDATA[The Other History of the Holocaust]]></description>
-        </item>
-        <item>
-            <title><![CDATA[什么是 "很多"？]]></title>
-            <link>https://www.theatlantic.com/newsletters/archive/2022/04/a-lot-word-etymology/629452/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/newsletters/archive/2022/04/a-lot-word-etymology/629452/?utm_source=feed</guid>
-            <pubDate>Mon, 04 Apr 2022 11:00:57 GMT</pubDate>
-            <description><![CDATA[What Makes Someone ‘A Lot’?]]></description>
         </item>
     </channel>
 </rss>
