@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-20T04:04:18.063Z</updated>
+    <updated>2022-04-20T07:42:17.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[右派的經濟計劃是什麼？]]></title>
+        <id>https://noahpinion.substack.com/p/what-is-the-rights-economic-plan</id>
+        <link href="https://noahpinion.substack.com/p/what-is-the-rights-economic-plan"/>
+        <updated>2022-04-20T07:31:15.000Z</updated>
+        <summary type="html"><![CDATA[What is the Right's economic plan?]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於 "可悲，色情 "的評論要點]]></title>
         <id>https://astralcodexten.substack.com/p/highlights-from-the-comments-on-sadly</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>unknown</name>
             <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[墮胎的地下世界]]></title>
-        <id>https://www.theatlantic.com/magazine/archive/2022/05/roe-v-wade-overturn-abortion-rights/629366/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/magazine/archive/2022/05/roe-v-wade-overturn-abortion-rights/629366/?utm_source=feed"/>
-        <updated>2022-04-04T10:00:56.000Z</updated>
-        <summary type="html"><![CDATA[The Abortion Underground]]></summary>
-        <author>
-            <name>Jessica Bruder</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>

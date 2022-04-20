@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://noahpinion.substack.com/p/what-is-the-rights-economic-plan",
+            "content_html": "",
+            "url": "https://noahpinion.substack.com/p/what-is-the-rights-economic-plan",
+            "title": "右派的經濟計劃是什麼？",
+            "summary": "What is the Right's economic plan?",
+            "date_modified": "2022-04-20T07:31:15.000Z",
+            "author": {
+                "name": "Noah Smith",
+                "url": "https://noahpinion.substack.com/feed"
+            }
+        },
+        {
             "id": "https://astralcodexten.substack.com/p/highlights-from-the-comments-on-sadly",
             "content_html": "",
             "url": "https://astralcodexten.substack.com/p/highlights-from-the-comments-on-sadly",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "unknown",
                 "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/magazine/archive/2022/05/roe-v-wade-overturn-abortion-rights/629366/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/magazine/archive/2022/05/roe-v-wade-overturn-abortion-rights/629366/?utm_source=feed",
-            "title": "墮胎的地下世界",
-            "summary": "The Abortion Underground",
-            "date_modified": "2022-04-04T10:00:56.000Z",
-            "author": {
-                "name": "Jessica Bruder",
-                "url": "https://www.theatlantic.com/feed/all/"
             }
         }
     ]
