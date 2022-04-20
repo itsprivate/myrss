@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-20T14:02:05.377Z</updated>
+    <updated>2022-04-20T14:14:40.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[安迪-沃霍尔非常公开的私人生活]]></title>
+        <id>https://www.newyorker.com/culture/cultural-comment/the-very-public-private-life-of-andy-warhol</id>
+        <link href="https://www.newyorker.com/culture/cultural-comment/the-very-public-private-life-of-andy-warhol"/>
+        <updated>2022-04-20T13:49:02.000Z</updated>
+        <summary type="html"><![CDATA[The Very Public Private Life of Andy Warhol]]></summary>
+        <author>
+            <name>Louis Menand</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安迪-沃霍尔非常公开的私人生活]]></title>
         <id>https://www.newyorker.com/culture/cultural-comment/the-very-public-private-life-of-andy-warhol</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>The Atlantic</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伟大的美国二战故事]]></title>
-        <id>https://www.currentaffairs.org/2022/03/the-great-american-world-war-ii-story/</id>
-        <link href="https://www.currentaffairs.org/2022/03/the-great-american-world-war-ii-story/"/>
-        <updated>2022-03-18T12:31:25.000Z</updated>
-        <summary type="html"><![CDATA[The Great American World War II Story]]></summary>
-        <author>
-            <name>Nathan J. Robinson</name>
-            <uri>https://www.currentaffairs.org/feed</uri>
         </author>
     </entry>
 </feed>
