@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-20T18:54:56.119Z</updated>
+    <updated>2022-04-20T19:12:40.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[各地價格上漲，削減科技開支的三種方法]]></title>
+        <id>https://www.nytimes.com/2022/04/20/technology/personaltech/phone-bills-online-subscription-cuts.html</id>
+        <link href="https://www.nytimes.com/2022/04/20/technology/personaltech/phone-bills-online-subscription-cuts.html"/>
+        <updated>2022-04-20T18:52:35.000Z</updated>
+        <summary type="html"><![CDATA[Three Ways to Cut Your Tech Spending, as Prices Rise Everywhere]]></summary>
+        <author>
+            <name>Brian X. Chen</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[克里斯-赫奇斯談戰爭和監獄的非人道性]]></title>
+        <id>https://www.currentaffairs.org/2022/03/chris-hedges-on-the-inhumanity-of-wars-and-prisons/</id>
+        <link href="https://www.currentaffairs.org/2022/03/chris-hedges-on-the-inhumanity-of-wars-and-prisons/"/>
+        <updated>2022-03-28T16:12:35.000Z</updated>
+        <summary type="html"><![CDATA[Chris Hedges on the Inhumanity of Wars and Prisons]]></summary>
+        <author>
+            <name>Current Affairs</name>
+            <uri>https://www.currentaffairs.org/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[債務所帶來的不可估量的危害]]></title>
         <id>https://www.currentaffairs.org/2022/03/the-incalculable-harms-imposed-by-debt/</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Andrew Solomon</name>
             <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們現在對COVID做什麼？]]></title>
-        <id>https://www.newyorker.com/magazine/2022/04/11/what-do-we-do-about-covid-now</id>
-        <link href="https://www.newyorker.com/magazine/2022/04/11/what-do-we-do-about-covid-now"/>
-        <updated>2022-04-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What Do We Do About COVID Now?]]></summary>
-        <author>
-            <name>Dhruv Khullar</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[發現MWAB的好處]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/discovering-the-benefits-of-mwab</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/discovering-the-benefits-of-mwab"/>
-        <updated>2022-04-04T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discovering the Benefits of MWAB]]></summary>
-        <author>
-            <name>Alison Barnwell</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>

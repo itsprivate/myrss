@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/20/technology/personaltech/phone-bills-online-subscription-cuts.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/20/technology/personaltech/phone-bills-online-subscription-cuts.html",
+            "title": "各地價格上漲，削減科技開支的三種方法",
+            "summary": "Three Ways to Cut Your Tech Spending, as Prices Rise Everywhere",
+            "date_modified": "2022-04-20T18:52:35.000Z",
+            "author": {
+                "name": "Brian X. Chen",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.currentaffairs.org/2022/03/chris-hedges-on-the-inhumanity-of-wars-and-prisons/",
+            "content_html": "",
+            "url": "https://www.currentaffairs.org/2022/03/chris-hedges-on-the-inhumanity-of-wars-and-prisons/",
+            "title": "克里斯-赫奇斯談戰爭和監獄的非人道性",
+            "summary": "Chris Hedges on the Inhumanity of Wars and Prisons",
+            "date_modified": "2022-03-28T16:12:35.000Z",
+            "author": {
+                "name": "Current Affairs",
+                "url": "https://www.currentaffairs.org/feed"
+            }
+        },
+        {
             "id": "https://www.currentaffairs.org/2022/03/the-incalculable-harms-imposed-by-debt/",
             "content_html": "",
             "url": "https://www.currentaffairs.org/2022/03/the-incalculable-harms-imposed-by-debt/",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "Andrew Solomon",
                 "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/04/11/what-do-we-do-about-covid-now",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/04/11/what-do-we-do-about-covid-now",
-            "title": "我們現在對COVID做什麼？",
-            "summary": "What Do We Do About COVID Now?",
-            "date_modified": "2022-04-03T10:00:00.000Z",
-            "author": {
-                "name": "Dhruv Khullar",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/humor/daily-shouts/discovering-the-benefits-of-mwab",
-            "content_html": "",
-            "url": "https://www.newyorker.com/humor/daily-shouts/discovering-the-benefits-of-mwab",
-            "title": "發現MWAB的好處",
-            "summary": "Discovering the Benefits of MWAB",
-            "date_modified": "2022-04-04T18:00:00.000Z",
-            "author": {
-                "name": "Alison Barnwell",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]
