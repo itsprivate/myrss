@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.currentaffairs.org/2022/04/winston-churchill-imperial-monstrosity/",
+            "content_html": "",
+            "url": "https://www.currentaffairs.org/2022/04/winston-churchill-imperial-monstrosity/",
+            "title": "溫斯頓-丘吉爾，帝國的怪胎",
+            "summary": "Winston Churchill, Imperial Monstrosity",
+            "date_modified": "2022-04-19T23:18:40.000Z",
+            "author": {
+                "name": "Alex Skopic",
+                "url": "https://www.currentaffairs.org/feed"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/humor/daily-shouts/listing-for-the-upstate-home-we-bought-during-the-pandemic",
             "content_html": "",
             "url": "https://www.newyorker.com/humor/daily-shouts/listing-for-the-upstate-home-we-bought-during-the-pandemic",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Caleb Madison",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/04/11/how-everyone-got-so-lonely-laura-kipnis-noreena-hertz",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/04/11/how-everyone-got-so-lonely-laura-kipnis-noreena-hertz",
-            "title": "每個人都是如何變得如此孤獨的",
-            "summary": "How Everyone Got So Lonely",
-            "date_modified": "2022-04-04T10:00:00.000Z",
-            "author": {
-                "name": "Zoë Heller",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]

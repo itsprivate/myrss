@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 20 Apr 2022 10:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 11:12:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[温斯顿-丘吉尔，帝国的怪胎]]></title>
+            <link>https://www.currentaffairs.org/2022/04/winston-churchill-imperial-monstrosity/</link>
+            <guid>https://www.currentaffairs.org/2022/04/winston-churchill-imperial-monstrosity/</guid>
+            <pubDate>Tue, 19 Apr 2022 23:18:40 GMT</pubDate>
+            <description><![CDATA[Winston Churchill, Imperial Monstrosity]]></description>
+        </item>
         <item>
             <title><![CDATA[我们在大流行期间购买的北部住宅的清单]]></title>
             <link>https://www.newyorker.com/humor/daily-shouts/listing-for-the-upstate-home-we-bought-during-the-pandemic</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/newsletters/archive/2022/04/a-lot-word-etymology/629452/?utm_source=feed</guid>
             <pubDate>Mon, 04 Apr 2022 11:00:57 GMT</pubDate>
             <description><![CDATA[What Makes Someone ‘A Lot’?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每个人都是如何变得如此孤独的]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/11/how-everyone-got-so-lonely-laura-kipnis-noreena-hertz</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/11/how-everyone-got-so-lonely-laura-kipnis-noreena-hertz</guid>
-            <pubDate>Mon, 04 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[How Everyone Got So Lonely]]></description>
         </item>
     </channel>
 </rss>
