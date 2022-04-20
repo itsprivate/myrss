@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 20 Apr 2022 17:26:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 17:50:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[巴拉克-欧巴马担任新的角色。打击虚假信息]]></title>
+            <link>https://www.nytimes.com/2022/04/20/technology/barack-obama-disinformation.html</link>
+            <guid>https://www.nytimes.com/2022/04/20/technology/barack-obama-disinformation.html</guid>
+            <pubDate>Wed, 20 Apr 2022 17:29:19 GMT</pubDate>
+            <description><![CDATA[Barack Obama Takes On a New Role: Fighting Disinformation]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么每个人都想购买Twitter]]></title>
             <link>https://www.nytimes.com/2022/04/20/technology/elon-musk-twitter-potential.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/culture/archive/2022/04/grammys-2022-jon-batiste-olivia-rodrigo/629471/?utm_source=feed</guid>
             <pubDate>Mon, 04 Apr 2022 16:28:32 GMT</pubDate>
             <description><![CDATA[How Jon Batiste Broke Grammys Expectations]]></description>
-        </item>
-        <item>
-            <title><![CDATA[恐怖的布查]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/04/russia-bucha-killings-war-crimes-genocide/629470/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/04/russia-bucha-killings-war-crimes-genocide/629470/?utm_source=feed</guid>
-            <pubDate>Mon, 04 Apr 2022 15:12:00 GMT</pubDate>
-            <description><![CDATA[The Horror of Bucha]]></description>
         </item>
     </channel>
 </rss>

@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/20/technology/barack-obama-disinformation.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/20/technology/barack-obama-disinformation.html",
+            "title": "巴拉克-歐巴馬擔任新的角色。打擊虛假信息",
+            "summary": "Barack Obama Takes On a New Role: Fighting Disinformation",
+            "date_modified": "2022-04-20T17:29:19.000Z",
+            "author": {
+                "name": "Steven Lee Myers and Cecilia Kang",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/20/technology/elon-musk-twitter-potential.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/20/technology/elon-musk-twitter-potential.html",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-04-04T16:28:32.000Z",
             "author": {
                 "name": "Spencer Kornhaber",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/04/russia-bucha-killings-war-crimes-genocide/629470/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/04/russia-bucha-killings-war-crimes-genocide/629470/?utm_source=feed",
-            "title": "恐怖的布查",
-            "summary": "The Horror of Bucha",
-            "date_modified": "2022-04-04T15:12:00.000Z",
-            "author": {
-                "name": "Franklin Foer",
                 "url": "https://www.theatlantic.com/feed/all/"
             }
         }

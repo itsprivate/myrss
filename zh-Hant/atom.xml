@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-20T17:26:52.367Z</updated>
+    <updated>2022-04-20T17:50:57.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[巴拉克-歐巴馬擔任新的角色。打擊虛假信息]]></title>
+        <id>https://www.nytimes.com/2022/04/20/technology/barack-obama-disinformation.html</id>
+        <link href="https://www.nytimes.com/2022/04/20/technology/barack-obama-disinformation.html"/>
+        <updated>2022-04-20T17:29:19.000Z</updated>
+        <summary type="html"><![CDATA[Barack Obama Takes On a New Role: Fighting Disinformation]]></summary>
+        <author>
+            <name>Steven Lee Myers and Cecilia Kang</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼每個人都想購買Twitter]]></title>
         <id>https://www.nytimes.com/2022/04/20/technology/elon-musk-twitter-potential.html</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[How Jon Batiste Broke Grammys Expectations]]></summary>
         <author>
             <name>Spencer Kornhaber</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[恐怖的布查]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/04/russia-bucha-killings-war-crimes-genocide/629470/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/04/russia-bucha-killings-war-crimes-genocide/629470/?utm_source=feed"/>
-        <updated>2022-04-04T15:12:00.000Z</updated>
-        <summary type="html"><![CDATA[The Horror of Bucha]]></summary>
-        <author>
-            <name>Franklin Foer</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
