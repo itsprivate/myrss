@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-19T23:12:36.443Z</updated>
+    <updated>2022-04-20T04:04:18.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[關於 "可悲，色情 "的評論要點]]></title>
+        <id>https://astralcodexten.substack.com/p/highlights-from-the-comments-on-sadly</id>
+        <link href="https://astralcodexten.substack.com/p/highlights-from-the-comments-on-sadly"/>
+        <updated>2022-04-20T03:10:05.000Z</updated>
+        <summary type="html"><![CDATA[Highlights From The Comments On "Sadly, Porn"]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[布魯克林槍擊案前後，我們集體想象中的地鐵]]></title>
         <id>https://www.newyorker.com/news/daily-comment/the-subway-in-our-collective-imagination-before-and-after-the-brooklyn-shooting</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[The Abortion Underground]]></summary>
         <author>
             <name>Jessica Bruder</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼人們在夜間增加了第二班？]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2022/04/triple-peak-day-work-from-home/629457/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2022/04/triple-peak-day-work-from-home/629457/?utm_source=feed"/>
-        <updated>2022-04-04T10:00:57.000Z</updated>
-        <summary type="html"><![CDATA[Why People Are Adding a Second Shift at Night]]></summary>
-        <author>
-            <name>Derek Thompson</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>

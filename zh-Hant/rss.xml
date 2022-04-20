@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 19 Apr 2022 23:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 04:04:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[關於 "可悲，色情 "的評論要點]]></title>
+            <link>https://astralcodexten.substack.com/p/highlights-from-the-comments-on-sadly</link>
+            <guid>https://astralcodexten.substack.com/p/highlights-from-the-comments-on-sadly</guid>
+            <pubDate>Wed, 20 Apr 2022 03:10:05 GMT</pubDate>
+            <description><![CDATA[Highlights From The Comments On "Sadly, Porn"]]></description>
+        </item>
         <item>
             <title><![CDATA[布魯克林槍擊案前後，我們集體想象中的地鐵]]></title>
             <link>https://www.newyorker.com/news/daily-comment/the-subway-in-our-collective-imagination-before-and-after-the-brooklyn-shooting</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/magazine/archive/2022/05/roe-v-wade-overturn-abortion-rights/629366/?utm_source=feed</guid>
             <pubDate>Mon, 04 Apr 2022 10:00:56 GMT</pubDate>
             <description><![CDATA[The Abortion Underground]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼人們在夜間增加了第二班？]]></title>
-            <link>https://www.theatlantic.com/newsletters/archive/2022/04/triple-peak-day-work-from-home/629457/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/newsletters/archive/2022/04/triple-peak-day-work-from-home/629457/?utm_source=feed</guid>
-            <pubDate>Mon, 04 Apr 2022 10:00:57 GMT</pubDate>
-            <description><![CDATA[Why People Are Adding a Second Shift at Night]]></description>
         </item>
     </channel>
 </rss>
