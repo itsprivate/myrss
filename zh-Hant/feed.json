@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/culture/archive/2022/04/the-northman-movie-review-robert-eggers/629613/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/culture/archive/2022/04/the-northman-movie-review-robert-eggers/629613/?utm_source=feed",
+            "title": "<em>The Northman</em>是一幅不傷感的英雄畫像",
+            "summary": "<em>The Northman</em> Is an Unsentimental Portrait of a Hero",
+            "date_modified": "2022-04-20T20:51:04.000Z",
+            "author": {
+                "name": "David Sims",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/health/archive/2022/04/cdc-mask-mandate-transportation-planes/629614/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/health/archive/2022/04/cdc-mask-mandate-transportation-planes/629614/?utm_source=feed",
+            "title": "飛機遮蔽的結束讓人感覺很有意義",
+            "summary": "The End of Airplane Masking Feels Momentous",
+            "date_modified": "2022-04-20T20:51:11.000Z",
+            "author": {
+                "name": "Rachel Gutman",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/20/technology/personaltech/phone-bills-online-subscription-cuts.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/20/technology/personaltech/phone-bills-online-subscription-cuts.html",
@@ -7183,30 +7207,6 @@
             "date_modified": "2022-04-04T10:00:00.000Z",
             "author": {
                 "name": "Rachel Syme",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/04/11/the-unravelling-of-an-expert-on-serial-killers",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/04/11/the-unravelling-of-an-expert-on-serial-killers",
-            "title": "一個連環殺手專家的解讀",
-            "summary": "The Unravelling of an Expert on Serial Killers",
-            "date_modified": "2022-04-04T10:00:00.000Z",
-            "author": {
-                "name": "Lauren Collins",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/04/11/the-mystifying-rise-of-child-suicide",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/04/11/the-mystifying-rise-of-child-suicide",
-            "title": "神秘的兒童自殺率上升",
-            "summary": "The Mystifying Rise of Child Suicide",
-            "date_modified": "2022-04-04T10:00:00.000Z",
-            "author": {
-                "name": "Andrew Solomon",
                 "url": "https://www.newyorker.com/feed/news"
             }
         }
