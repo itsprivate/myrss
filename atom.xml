@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-20T21:33:54.389Z</updated>
+    <updated>2022-04-20T22:13:25.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Netflix的跌倒可能是流媒体行业的一个警告信号]]></title>
+        <id>https://www.nytimes.com/2022/04/20/business/media/netflix-streaming-subscription-model.html</id>
+        <link href="https://www.nytimes.com/2022/04/20/business/media/netflix-streaming-subscription-model.html"/>
+        <updated>2022-04-20T21:49:34.000Z</updated>
+        <summary type="html"><![CDATA[Netflix’s Stumble Could Be a Warning Sign for Streaming Industry]]></summary>
+        <author>
+            <name>John Koblin and Nicole Sperling</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[佛罗里达州法官裁定，航空公司不能要求乘客必须持有机票]]></title>
         <id>https://www.newyorker.com/humor/borowitz-report/florida-judge-rules-that-airlines-cannot-require-passengers-to-have-tickets</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Bill McKibben</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[民主党政治家们是否理解化石燃料必须被淘汰？]]></title>
-        <id>https://www.currentaffairs.org/2022/04/do-democratic-politicians-understand-that-fossil-fuels-have-to-go/</id>
-        <link href="https://www.currentaffairs.org/2022/04/do-democratic-politicians-understand-that-fossil-fuels-have-to-go/"/>
-        <updated>2022-04-04T18:29:45.000Z</updated>
-        <summary type="html"><![CDATA[Do Democratic Politicians Understand That Fossil Fuels Have to Go?]]></summary>
-        <author>
-            <name>Nathan J. Robinson</name>
-            <uri>https://www.currentaffairs.org/feed</uri>
         </author>
     </entry>
 </feed>

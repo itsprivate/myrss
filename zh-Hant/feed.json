@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/20/business/media/netflix-streaming-subscription-model.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/20/business/media/netflix-streaming-subscription-model.html",
+            "title": "Netflix的跌倒可能是流媒體行業的一個警告信號",
+            "summary": "Netflix’s Stumble Could Be a Warning Sign for Streaming Industry",
+            "date_modified": "2022-04-20T21:49:34.000Z",
+            "author": {
+                "name": "John Koblin and Nicole Sperling",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/humor/borowitz-report/florida-judge-rules-that-airlines-cannot-require-passengers-to-have-tickets",
             "content_html": "",
             "url": "https://www.newyorker.com/humor/borowitz-report/florida-judge-rules-that-airlines-cannot-require-passengers-to-have-tickets",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Bill McKibben",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.currentaffairs.org/2022/04/do-democratic-politicians-understand-that-fossil-fuels-have-to-go/",
-            "content_html": "",
-            "url": "https://www.currentaffairs.org/2022/04/do-democratic-politicians-understand-that-fossil-fuels-have-to-go/",
-            "title": "民主黨政治家們是否理解化石燃料必須被淘汰？",
-            "summary": "Do Democratic Politicians Understand That Fossil Fuels Have to Go?",
-            "date_modified": "2022-04-04T18:29:45.000Z",
-            "author": {
-                "name": "Nathan J. Robinson",
-                "url": "https://www.currentaffairs.org/feed"
             }
         }
     ]

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 20 Apr 2022 21:33:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 22:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Netflix的跌倒可能是流媒體行業的一個警告信號]]></title>
+            <link>https://www.nytimes.com/2022/04/20/business/media/netflix-streaming-subscription-model.html</link>
+            <guid>https://www.nytimes.com/2022/04/20/business/media/netflix-streaming-subscription-model.html</guid>
+            <pubDate>Wed, 20 Apr 2022 21:49:34 GMT</pubDate>
+            <description><![CDATA[Netflix’s Stumble Could Be a Warning Sign for Streaming Industry]]></description>
+        </item>
         <item>
             <title><![CDATA[佛羅里達州法官裁定，航空公司不能要求乘客必須持有機票]]></title>
             <link>https://www.newyorker.com/humor/borowitz-report/florida-judge-rules-that-airlines-cannot-require-passengers-to-have-tickets</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/news/daily-comment/putins-war-gives-america-a-chance-to-get-serious-about-refugees</guid>
             <pubDate>Mon, 04 Apr 2022 23:43:21 GMT</pubDate>
             <description><![CDATA[Putin’s War Gives America a Chance to Get Serious About Refugees]]></description>
-        </item>
-        <item>
-            <title><![CDATA[民主黨政治家們是否理解化石燃料必須被淘汰？]]></title>
-            <link>https://www.currentaffairs.org/2022/04/do-democratic-politicians-understand-that-fossil-fuels-have-to-go/</link>
-            <guid>https://www.currentaffairs.org/2022/04/do-democratic-politicians-understand-that-fossil-fuels-have-to-go/</guid>
-            <pubDate>Mon, 04 Apr 2022 18:29:45 GMT</pubDate>
-            <description><![CDATA[Do Democratic Politicians Understand That Fossil Fuels Have to Go?]]></description>
         </item>
     </channel>
 </rss>
