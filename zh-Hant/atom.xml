@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-20T16:59:40.723Z</updated>
+    <updated>2022-04-20T17:26:52.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼每個人都想購買Twitter]]></title>
+        <id>https://www.nytimes.com/2022/04/20/technology/elon-musk-twitter-potential.html</id>
+        <link href="https://www.nytimes.com/2022/04/20/technology/elon-musk-twitter-potential.html"/>
+        <updated>2022-04-20T17:08:47.000Z</updated>
+        <summary type="html"><![CDATA[Why Everyone Wants to Buy Twitter]]></summary>
+        <author>
+            <name>Shira Ovide</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[夫妻應該合併他們的財務狀況嗎？]]></title>
+        <id>https://www.theatlantic.com/family/archive/2022/04/how-couples-should-manage-finances-hybrid-model/629607/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/family/archive/2022/04/how-couples-should-manage-finances-hybrid-model/629607/?utm_source=feed"/>
+        <updated>2022-04-20T16:57:34.000Z</updated>
+        <summary type="html"><![CDATA[Should Couples Merge Their Finances?]]></summary>
+        <author>
+            <name>Joe Pinsker</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[讓<em>神奇動物</em>電影死亡]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/04/fantastic-beasts-secrets-of-dumbledore-film-review/629609/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/04/fantastic-beasts-secrets-of-dumbledore-film-review/629609/?utm_source=feed"/>
+        <updated>2022-04-20T17:08:59.000Z</updated>
+        <summary type="html"><![CDATA[Let the <em>Fantastic Beasts</em> Movies Die]]></summary>
+        <author>
+            <name>Shirley Li</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[埃隆-馬斯克慶祝4/20]]></title>
         <id>https://www.newyorker.com/cartoons/blitts-kvetchbook/elon-musk-celebrates-420</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>Franklin Foer</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[佩林抨擊Wordle使用如此長的單詞]]></title>
-        <id>https://www.newyorker.com/humor/borowitz-report/palin-blasts-wordle-for-using-such-long-words</id>
-        <link href="https://www.newyorker.com/humor/borowitz-report/palin-blasts-wordle-for-using-such-long-words"/>
-        <updated>2022-04-04T14:39:39.000Z</updated>
-        <summary type="html"><![CDATA[Palin Blasts Wordle for Using Such Long Words]]></summary>
-        <author>
-            <name>Andy Borowitz</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們真的應該更經常地出去玩]]></title>
-        <id>https://www.theatlantic.com/family/archive/2022/04/third-places-meet-new-people-pandemic/629468/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/family/archive/2022/04/third-places-meet-new-people-pandemic/629468/?utm_source=feed"/>
-        <updated>2022-04-04T14:18:18.000Z</updated>
-        <summary type="html"><![CDATA[We Really Should Hang Out More Often]]></summary>
-        <author>
-            <name>Allie Conti</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日漫畫。4月4日，星期一]]></title>
-        <id>https://www.newyorker.com/cartoons/daily-cartoon/monday-april-4th-smartphone-scrolling</id>
-        <link href="https://www.newyorker.com/cartoons/daily-cartoon/monday-april-4th-smartphone-scrolling"/>
-        <updated>2022-04-04T14:14:19.000Z</updated>
-        <summary type="html"><![CDATA[Daily Cartoon: Monday, April 4th]]></summary>
-        <author>
-            <name>Maik Banks</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>

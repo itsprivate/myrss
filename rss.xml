@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 20 Apr 2022 16:59:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 17:26:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么每个人都想购买Twitter]]></title>
+            <link>https://www.nytimes.com/2022/04/20/technology/elon-musk-twitter-potential.html</link>
+            <guid>https://www.nytimes.com/2022/04/20/technology/elon-musk-twitter-potential.html</guid>
+            <pubDate>Wed, 20 Apr 2022 17:08:47 GMT</pubDate>
+            <description><![CDATA[Why Everyone Wants to Buy Twitter]]></description>
+        </item>
+        <item>
+            <title><![CDATA[夫妻应该合并他们的财务状况吗？]]></title>
+            <link>https://www.theatlantic.com/family/archive/2022/04/how-couples-should-manage-finances-hybrid-model/629607/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/family/archive/2022/04/how-couples-should-manage-finances-hybrid-model/629607/?utm_source=feed</guid>
+            <pubDate>Wed, 20 Apr 2022 16:57:34 GMT</pubDate>
+            <description><![CDATA[Should Couples Merge Their Finances?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[让<em>神奇动物</em>电影死亡]]></title>
+            <link>https://www.theatlantic.com/culture/archive/2022/04/fantastic-beasts-secrets-of-dumbledore-film-review/629609/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/culture/archive/2022/04/fantastic-beasts-secrets-of-dumbledore-film-review/629609/?utm_source=feed</guid>
+            <pubDate>Wed, 20 Apr 2022 17:08:59 GMT</pubDate>
+            <description><![CDATA[Let the <em>Fantastic Beasts</em> Movies Die]]></description>
+        </item>
         <item>
             <title><![CDATA[埃隆-马斯克庆祝4/20]]></title>
             <link>https://www.newyorker.com/cartoons/blitts-kvetchbook/elon-musk-celebrates-420</link>
@@ -4192,27 +4213,6 @@
             <guid>https://www.theatlantic.com/ideas/archive/2022/04/russia-bucha-killings-war-crimes-genocide/629470/?utm_source=feed</guid>
             <pubDate>Mon, 04 Apr 2022 15:12:00 GMT</pubDate>
             <description><![CDATA[The Horror of Bucha]]></description>
-        </item>
-        <item>
-            <title><![CDATA[佩林抨击Wordle使用如此长的单词]]></title>
-            <link>https://www.newyorker.com/humor/borowitz-report/palin-blasts-wordle-for-using-such-long-words</link>
-            <guid>https://www.newyorker.com/humor/borowitz-report/palin-blasts-wordle-for-using-such-long-words</guid>
-            <pubDate>Mon, 04 Apr 2022 14:39:39 GMT</pubDate>
-            <description><![CDATA[Palin Blasts Wordle for Using Such Long Words]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们真的应该更经常地出去玩]]></title>
-            <link>https://www.theatlantic.com/family/archive/2022/04/third-places-meet-new-people-pandemic/629468/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/family/archive/2022/04/third-places-meet-new-people-pandemic/629468/?utm_source=feed</guid>
-            <pubDate>Mon, 04 Apr 2022 14:18:18 GMT</pubDate>
-            <description><![CDATA[We Really Should Hang Out More Often]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日漫画。4月4日，星期一]]></title>
-            <link>https://www.newyorker.com/cartoons/daily-cartoon/monday-april-4th-smartphone-scrolling</link>
-            <guid>https://www.newyorker.com/cartoons/daily-cartoon/monday-april-4th-smartphone-scrolling</guid>
-            <pubDate>Mon, 04 Apr 2022 14:14:19 GMT</pubDate>
-            <description><![CDATA[Daily Cartoon: Monday, April 4th]]></description>
         </item>
     </channel>
 </rss>

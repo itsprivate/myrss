@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/20/technology/elon-musk-twitter-potential.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/20/technology/elon-musk-twitter-potential.html",
+            "title": "為什麼每個人都想購買Twitter",
+            "summary": "Why Everyone Wants to Buy Twitter",
+            "date_modified": "2022-04-20T17:08:47.000Z",
+            "author": {
+                "name": "Shira Ovide",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/family/archive/2022/04/how-couples-should-manage-finances-hybrid-model/629607/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/family/archive/2022/04/how-couples-should-manage-finances-hybrid-model/629607/?utm_source=feed",
+            "title": "夫妻應該合併他們的財務狀況嗎？",
+            "summary": "Should Couples Merge Their Finances?",
+            "date_modified": "2022-04-20T16:57:34.000Z",
+            "author": {
+                "name": "Joe Pinsker",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/culture/archive/2022/04/fantastic-beasts-secrets-of-dumbledore-film-review/629609/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/culture/archive/2022/04/fantastic-beasts-secrets-of-dumbledore-film-review/629609/?utm_source=feed",
+            "title": "讓<em>神奇動物</em>電影死亡",
+            "summary": "Let the <em>Fantastic Beasts</em> Movies Die",
+            "date_modified": "2022-04-20T17:08:59.000Z",
+            "author": {
+                "name": "Shirley Li",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/cartoons/blitts-kvetchbook/elon-musk-celebrates-420",
             "content_html": "",
             "url": "https://www.newyorker.com/cartoons/blitts-kvetchbook/elon-musk-celebrates-420",
@@ -7172,42 +7208,6 @@
             "author": {
                 "name": "Franklin Foer",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/humor/borowitz-report/palin-blasts-wordle-for-using-such-long-words",
-            "content_html": "",
-            "url": "https://www.newyorker.com/humor/borowitz-report/palin-blasts-wordle-for-using-such-long-words",
-            "title": "佩林抨擊Wordle使用如此長的單詞",
-            "summary": "Palin Blasts Wordle for Using Such Long Words",
-            "date_modified": "2022-04-04T14:39:39.000Z",
-            "author": {
-                "name": "Andy Borowitz",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/family/archive/2022/04/third-places-meet-new-people-pandemic/629468/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/family/archive/2022/04/third-places-meet-new-people-pandemic/629468/?utm_source=feed",
-            "title": "我們真的應該更經常地出去玩",
-            "summary": "We Really Should Hang Out More Often",
-            "date_modified": "2022-04-04T14:18:18.000Z",
-            "author": {
-                "name": "Allie Conti",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/cartoons/daily-cartoon/monday-april-4th-smartphone-scrolling",
-            "content_html": "",
-            "url": "https://www.newyorker.com/cartoons/daily-cartoon/monday-april-4th-smartphone-scrolling",
-            "title": "每日漫畫。4月4日，星期一",
-            "summary": "Daily Cartoon: Monday, April 4th",
-            "date_modified": "2022-04-04T14:14:19.000Z",
-            "author": {
-                "name": "Maik Banks",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]
