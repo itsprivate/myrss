@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://austinkleon.substack.com/p/10-good-books-i-read-this-winter",
+            "content_html": "",
+            "url": "https://austinkleon.substack.com/p/10-good-books-i-read-this-winter",
+            "title": "这个冬天我读的10本好书",
+            "summary": "10 good books I read this winter",
+            "date_modified": "2022-03-25T12:00:35.000Z",
+            "author": {
+                "name": "Austin Kleon",
+                "url": "https://austinkleon.substack.com/feed"
+            }
+        },
+        {
             "id": "https://noahpinion.substack.com/p/what-is-the-rights-economic-plan",
             "content_html": "",
             "url": "https://noahpinion.substack.com/p/what-is-the-rights-economic-plan",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-04-04T10:00:00.000Z",
             "author": {
                 "name": "Anna Russell",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/podcast/the-writers-voice/kevin-barry-reads-the-pub-with-no-beer",
-            "content_html": "",
-            "url": "https://www.newyorker.com/podcast/the-writers-voice/kevin-barry-reads-the-pub-with-no-beer",
-            "title": "凯文-巴里阅读 \"没有啤酒的酒吧\"",
-            "summary": "Kevin Barry Reads “The Pub with No Beer”",
-            "date_modified": "2022-04-04T10:00:00.000Z",
-            "author": {
-                "name": "unknown",
                 "url": "https://www.newyorker.com/feed/news"
             }
         }

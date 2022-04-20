@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-20T07:42:17.950Z</updated>
+    <updated>2022-04-20T07:51:58.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[這個冬天我讀的10本好書]]></title>
+        <id>https://austinkleon.substack.com/p/10-good-books-i-read-this-winter</id>
+        <link href="https://austinkleon.substack.com/p/10-good-books-i-read-this-winter"/>
+        <updated>2022-03-25T12:00:35.000Z</updated>
+        <summary type="html"><![CDATA[10 good books I read this winter]]></summary>
+        <author>
+            <name>Austin Kleon</name>
+            <uri>https://austinkleon.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[右派的經濟計劃是什麼？]]></title>
         <id>https://noahpinion.substack.com/p/what-is-the-rights-economic-plan</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[The Ukrainian and Russian Chefs Cooking for Ukraine]]></summary>
         <author>
             <name>Anna Russell</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[凱文-巴里閱讀 "沒有啤酒的酒吧"]]></title>
-        <id>https://www.newyorker.com/podcast/the-writers-voice/kevin-barry-reads-the-pub-with-no-beer</id>
-        <link href="https://www.newyorker.com/podcast/the-writers-voice/kevin-barry-reads-the-pub-with-no-beer"/>
-        <updated>2022-04-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Kevin Barry Reads “The Pub with No Beer”]]></summary>
-        <author>
-            <name>unknown</name>
             <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
