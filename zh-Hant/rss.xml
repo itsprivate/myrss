@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 20 Apr 2022 18:40:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 18:54:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[債務所帶來的不可估量的危害]]></title>
+            <link>https://www.currentaffairs.org/2022/03/the-incalculable-harms-imposed-by-debt/</link>
+            <guid>https://www.currentaffairs.org/2022/03/the-incalculable-harms-imposed-by-debt/</guid>
+            <pubDate>Mon, 28 Mar 2022 00:04:17 GMT</pubDate>
+            <description><![CDATA[The Incalculable Harms Imposed by Debt]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我們沒有采取的簡單反COVID措施]]></title>
+            <link>https://www.theatlantic.com/newsletters/archive/2022/04/federal-mask-mandate-plane-train/629610/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/newsletters/archive/2022/04/federal-mask-mandate-plane-train/629610/?utm_source=feed</guid>
+            <pubDate>Wed, 20 Apr 2022 18:31:19 GMT</pubDate>
+            <description><![CDATA[The Simple Anti-COVID Measures We’re Not Taking]]></description>
+        </item>
         <item>
             <title><![CDATA[無證父母的美國孩子的成長經歷]]></title>
             <link>https://www.newyorker.com/news/daily-comment/growing-up-an-american-child-of-undocumented-parents</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/humor/daily-shouts/discovering-the-benefits-of-mwab</guid>
             <pubDate>Mon, 04 Apr 2022 18:00:00 GMT</pubDate>
             <description><![CDATA[Discovering the Benefits of MWAB]]></description>
-        </item>
-        <item>
-            <title><![CDATA[烏克蘭的面孔]]></title>
-            <link>https://www.theatlantic.com/photo/2022/04/photos-faces-ukraine/629469/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/photo/2022/04/photos-faces-ukraine/629469/?utm_source=feed</guid>
-            <pubDate>Mon, 04 Apr 2022 18:21:01 GMT</pubDate>
-            <description><![CDATA[Faces of Ukraine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[婦女真正應該得到什麼？]]></title>
-            <link>https://www.currentaffairs.org/2022/04/what-do-women-really-deserve/</link>
-            <guid>https://www.currentaffairs.org/2022/04/what-do-women-really-deserve/</guid>
-            <pubDate>Mon, 04 Apr 2022 13:53:39 GMT</pubDate>
-            <description><![CDATA[What Do Women Really Deserve?]]></description>
         </item>
     </channel>
 </rss>
