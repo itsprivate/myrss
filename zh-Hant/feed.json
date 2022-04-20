@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/annals-of-education/why-are-preschoolers-subject-to-the-strictest-covid-rules-in-new-york-city",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/annals-of-education/why-are-preschoolers-subject-to-the-strictest-covid-rules-in-new-york-city",
+            "title": "為什麼學齡前兒童要遵守紐約市最嚴格的COVID規則？",
+            "summary": "Why Are Preschoolers Subject to the Strictest COVID Rules in New York City?",
+            "date_modified": "2022-04-20T15:27:14.000Z",
+            "author": {
+                "name": "Jessica Winter",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/cartoons/daily-cartoon/wednesday-april-20th-qr-demon",
             "content_html": "",
             "url": "https://www.newyorker.com/cartoons/daily-cartoon/wednesday-april-20th-qr-demon",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Conor Friedersdorf",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/04/04/technology/elon-musk-twitter.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/04/04/technology/elon-musk-twitter.html",
-            "title": "埃隆-馬斯克購買了Twitter的大量股份。",
-            "summary": "Elon Musk buys a large stake in Twitter.",
-            "date_modified": "2022-04-04T11:59:42.000Z",
-            "author": {
-                "name": "Adam Satariano",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
     ]
