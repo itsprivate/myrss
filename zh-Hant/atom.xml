@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-20T18:13:59.853Z</updated>
+    <updated>2022-04-20T18:40:59.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[無證父母的美國孩子的成長經歷]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/growing-up-an-american-child-of-undocumented-parents</id>
+        <link href="https://www.newyorker.com/news/daily-comment/growing-up-an-american-child-of-undocumented-parents"/>
+        <updated>2022-04-20T18:20:29.000Z</updated>
+        <summary type="html"><![CDATA[Growing Up an American Child of Undocumented Parents]]></summary>
+        <author>
+            <name>Graciela Mochkofsky</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在紐約偷聽到的消息。O.K., 實際上這些是在紐瓦克機場聽到的]]></title>
         <id>https://www.newyorker.com/humor/sketchbook/overheard-in-new-york-ok-actually-these-were-in-newark-airport</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Eileen G&amp;#039;Sell</name>
             <uri>https://www.currentaffairs.org/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[格萊美獎迴歸，但卻難以打出正確的音符]]></title>
-        <id>https://www.newyorker.com/culture/culture-desk/the-grammys-return-but-struggle-to-hit-the-right-notes</id>
-        <link href="https://www.newyorker.com/culture/culture-desk/the-grammys-return-but-struggle-to-hit-the-right-notes"/>
-        <updated>2022-04-04T17:34:43.000Z</updated>
-        <summary type="html"><![CDATA[The Grammys Return, but Struggle to Hit the Right Notes]]></summary>
-        <author>
-            <name>Amanda Petrusich</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
