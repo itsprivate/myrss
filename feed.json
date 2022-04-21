@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/technology/archive/2022/04/surfing-artificial-wave-pools/629624/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/technology/archive/2022/04/surfing-artificial-wave-pools/629624/?utm_source=feed",
+            "title": "我在办公区冲浪了",
+            "summary": "I Went Surfing in an Office Park",
+            "date_modified": "2022-04-21T19:58:34.000Z",
+            "author": {
+                "name": "Spenser Mestel",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/21/technology/youtube-rabbit-hole.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/21/technology/youtube-rabbit-hole.html",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-04-05T15:32:18.000Z",
             "author": {
                 "name": "Lauren Hirsch",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/04/05/technology/finance-stories-inflation-stocks.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/04/05/technology/finance-stories-inflation-stocks.html",
-            "title": "你的财务状况是否比五年或十年前要好？我们想听听这个问题。",
-            "summary": "Are You Better Off Financially Than You Were Five or 10 Years Ago? We Want to Hear About It.",
-            "date_modified": "2022-04-05T17:20:07.000Z",
-            "author": {
-                "name": "David Streitfeld",
                 "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }

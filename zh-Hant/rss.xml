@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 21 Apr 2022 18:43:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 20:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我在辦公區衝浪了]]></title>
+            <link>https://www.theatlantic.com/technology/archive/2022/04/surfing-artificial-wave-pools/629624/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/technology/archive/2022/04/surfing-artificial-wave-pools/629624/?utm_source=feed</guid>
+            <pubDate>Thu, 21 Apr 2022 19:58:34 GMT</pubDate>
+            <description><![CDATA[I Went Surfing in an Office Park]]></description>
+        </item>
         <item>
             <title><![CDATA[YouTube上的兔子洞很有創意]]></title>
             <link>https://www.nytimes.com/2022/04/21/technology/youtube-rabbit-hole.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.nytimes.com/2022/04/04/business/twitter-elon-musk-directors.html</guid>
             <pubDate>Tue, 05 Apr 2022 15:32:18 GMT</pubDate>
             <description><![CDATA[Elon Musk Joins Twitter Board]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你的財務狀況是否比五年或十年前要好？我們想聽聽這個問題。]]></title>
-            <link>https://www.nytimes.com/2022/04/05/technology/finance-stories-inflation-stocks.html</link>
-            <guid>https://www.nytimes.com/2022/04/05/technology/finance-stories-inflation-stocks.html</guid>
-            <pubDate>Tue, 05 Apr 2022 17:20:07 GMT</pubDate>
-            <description><![CDATA[Are You Better Off Financially Than You Were Five or 10 Years Ago? We Want to Hear About It.]]></description>
         </item>
     </channel>
 </rss>

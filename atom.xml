@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-21T18:43:45.156Z</updated>
+    <updated>2022-04-21T20:15:21.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我在办公区冲浪了]]></title>
+        <id>https://www.theatlantic.com/technology/archive/2022/04/surfing-artificial-wave-pools/629624/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/technology/archive/2022/04/surfing-artificial-wave-pools/629624/?utm_source=feed"/>
+        <updated>2022-04-21T19:58:34.000Z</updated>
+        <summary type="html"><![CDATA[I Went Surfing in an Office Park]]></summary>
+        <author>
+            <name>Spenser Mestel</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YouTube上的兔子洞很有创意]]></title>
         <id>https://www.nytimes.com/2022/04/21/technology/youtube-rabbit-hole.html</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Elon Musk Joins Twitter Board]]></summary>
         <author>
             <name>Lauren Hirsch</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的财务状况是否比五年或十年前要好？我们想听听这个问题。]]></title>
-        <id>https://www.nytimes.com/2022/04/05/technology/finance-stories-inflation-stocks.html</id>
-        <link href="https://www.nytimes.com/2022/04/05/technology/finance-stories-inflation-stocks.html"/>
-        <updated>2022-04-05T17:20:07.000Z</updated>
-        <summary type="html"><![CDATA[Are You Better Off Financially Than You Were Five or 10 Years Ago? We Want to Hear About It.]]></summary>
-        <author>
-            <name>David Streitfeld</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
