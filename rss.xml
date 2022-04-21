@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 21 Apr 2022 15:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 18:43:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[YouTube上的兔子洞很有创意]]></title>
+            <link>https://www.nytimes.com/2022/04/21/technology/youtube-rabbit-hole.html</link>
+            <guid>https://www.nytimes.com/2022/04/21/technology/youtube-rabbit-hole.html</guid>
+            <pubDate>Thu, 21 Apr 2022 18:13:40 GMT</pubDate>
+            <description><![CDATA[The YouTube Rabbit Hole Is Nuanced]]></description>
+        </item>
         <item>
             <title><![CDATA[宇宙中最可爱的热核爆炸]]></title>
             <link>https://www.theatlantic.com/science/archive/2022/04/supernova-micronova-white-dwarf-stars-astronomy/629622/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.nytimes.com/2022/04/05/technology/finance-stories-inflation-stocks.html</guid>
             <pubDate>Tue, 05 Apr 2022 17:20:07 GMT</pubDate>
             <description><![CDATA[Are You Better Off Financially Than You Were Five or 10 Years Ago? We Want to Hear About It.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[凯坦吉-布朗-杰克逊的三名共和党人]]></title>
-            <link>https://www.newyorker.com/news/daily-comment/three-republicans-for-ketanji-brown-jackson</link>
-            <guid>https://www.newyorker.com/news/daily-comment/three-republicans-for-ketanji-brown-jackson</guid>
-            <pubDate>Tue, 05 Apr 2022 16:40:25 GMT</pubDate>
-            <description><![CDATA[Three Republicans for Ketanji Brown Jackson]]></description>
         </item>
     </channel>
 </rss>

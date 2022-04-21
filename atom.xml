@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-21T15:16:17.311Z</updated>
+    <updated>2022-04-21T18:43:45.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[YouTube上的兔子洞很有创意]]></title>
+        <id>https://www.nytimes.com/2022/04/21/technology/youtube-rabbit-hole.html</id>
+        <link href="https://www.nytimes.com/2022/04/21/technology/youtube-rabbit-hole.html"/>
+        <updated>2022-04-21T18:13:40.000Z</updated>
+        <summary type="html"><![CDATA[The YouTube Rabbit Hole Is Nuanced]]></summary>
+        <author>
+            <name>Shira Ovide</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[宇宙中最可爱的热核爆炸]]></title>
         <id>https://www.theatlantic.com/science/archive/2022/04/supernova-micronova-white-dwarf-stars-astronomy/629622/?utm_source=feed</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>David Streitfeld</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[凯坦吉-布朗-杰克逊的三名共和党人]]></title>
-        <id>https://www.newyorker.com/news/daily-comment/three-republicans-for-ketanji-brown-jackson</id>
-        <link href="https://www.newyorker.com/news/daily-comment/three-republicans-for-ketanji-brown-jackson"/>
-        <updated>2022-04-05T16:40:25.000Z</updated>
-        <summary type="html"><![CDATA[Three Republicans for Ketanji Brown Jackson]]></summary>
-        <author>
-            <name>Amy Davidson Sorkin</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
 </feed>
