@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-21T07:01:52.743Z</updated>
+    <updated>2022-04-21T08:41:59.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[北约必须欢迎乌克兰]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-join-nato-eu-membership/629619/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/ukraine-join-nato-eu-membership/629619/?utm_source=feed"/>
+        <updated>2022-04-21T08:20:29.000Z</updated>
+        <summary type="html"><![CDATA[NATO Must Welcome Ukraine]]></summary>
+        <author>
+            <name>Ivo Daalder</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何在这个黑暗时期保持乐观]]></title>
         <id>https://noahpinion.substack.com/p/how-to-stay-optimistic-in-these-dark</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Carl Miller</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京的战争给了美国一个认真对待难民的机会]]></title>
-        <id>https://www.newyorker.com/news/daily-comment/putins-war-gives-america-a-chance-to-get-serious-about-refugees</id>
-        <link href="https://www.newyorker.com/news/daily-comment/putins-war-gives-america-a-chance-to-get-serious-about-refugees"/>
-        <updated>2022-04-04T23:43:21.000Z</updated>
-        <summary type="html"><![CDATA[Putin’s War Gives America a Chance to Get Serious About Refugees]]></summary>
-        <author>
-            <name>Bill McKibben</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
 </feed>

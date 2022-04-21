@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 21 Apr 2022 07:01:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 08:41:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[北約必須歡迎烏克蘭]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-join-nato-eu-membership/629619/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-join-nato-eu-membership/629619/?utm_source=feed</guid>
+            <pubDate>Thu, 21 Apr 2022 08:20:29 GMT</pubDate>
+            <description><![CDATA[NATO Must Welcome Ukraine]]></description>
+        </item>
         <item>
             <title><![CDATA[如何在這個黑暗時期保持樂觀]]></title>
             <link>https://noahpinion.substack.com/p/how-to-stay-optimistic-in-these-dark</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/ideas/archive/2022/04/russian-propaganda-zelensky-information-war/629475/?utm_source=feed</guid>
             <pubDate>Tue, 05 Apr 2022 09:01:56 GMT</pubDate>
             <description><![CDATA[Stop Saying Ukraine Is Winning the Information War]]></description>
-        </item>
-        <item>
-            <title><![CDATA[普京的戰爭給了美國一個認真對待難民的機會]]></title>
-            <link>https://www.newyorker.com/news/daily-comment/putins-war-gives-america-a-chance-to-get-serious-about-refugees</link>
-            <guid>https://www.newyorker.com/news/daily-comment/putins-war-gives-america-a-chance-to-get-serious-about-refugees</guid>
-            <pubDate>Mon, 04 Apr 2022 23:43:21 GMT</pubDate>
-            <description><![CDATA[Putin’s War Gives America a Chance to Get Serious About Refugees]]></description>
         </item>
     </channel>
 </rss>
