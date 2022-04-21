@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/podcast/politics-and-more/can-democrats-win-back-rural-voters",
+            "content_html": "",
+            "url": "https://www.newyorker.com/podcast/politics-and-more/can-democrats-win-back-rural-voters",
+            "title": "民主党人能否赢回农村选民？",
+            "summary": "Can Democrats Win Back Rural Voters?",
+            "date_modified": "2022-04-21T20:30:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/daily-comment/the-long-holy-war-behind-putins-political-war-in-ukraine",
             "content_html": "",
             "url": "https://www.newyorker.com/news/daily-comment/the-long-holy-war-behind-putins-political-war-in-ukraine",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Matthew Hutson",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/technology/archive/2022/04/elon-musk-twitter-free-speech/629479/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/technology/archive/2022/04/elon-musk-twitter-free-speech/629479/?utm_source=feed",
-            "title": "埃隆-马斯克当然希望使用Twitter",
-            "summary": "Of Course Elon Musk Wanted Twitter",
-            "date_modified": "2022-04-05T19:06:05.000Z",
-            "author": {
-                "name": "Marina Koren",
-                "url": "https://www.theatlantic.com/feed/all/"
             }
         }
     ]

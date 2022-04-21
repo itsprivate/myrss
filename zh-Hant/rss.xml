@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 21 Apr 2022 20:39:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 21:41:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[民主黨人能否贏回農村選民？]]></title>
+            <link>https://www.newyorker.com/podcast/politics-and-more/can-democrats-win-back-rural-voters</link>
+            <guid>https://www.newyorker.com/podcast/politics-and-more/can-democrats-win-back-rural-voters</guid>
+            <pubDate>Thu, 21 Apr 2022 20:30:00 GMT</pubDate>
+            <description><![CDATA[Can Democrats Win Back Rural Voters?]]></description>
+        </item>
         <item>
             <title><![CDATA[普京在烏克蘭的政治戰爭背後的漫長聖戰]]></title>
             <link>https://www.newyorker.com/news/daily-comment/the-long-holy-war-behind-putins-political-war-in-ukraine</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/tech/annals-of-technology/can-computers-learn-common-sense</guid>
             <pubDate>Tue, 05 Apr 2022 19:11:03 GMT</pubDate>
             <description><![CDATA[Can Computers Learn Common Sense?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[埃隆-馬斯克當然希望使用Twitter]]></title>
-            <link>https://www.theatlantic.com/technology/archive/2022/04/elon-musk-twitter-free-speech/629479/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/technology/archive/2022/04/elon-musk-twitter-free-speech/629479/?utm_source=feed</guid>
-            <pubDate>Tue, 05 Apr 2022 19:06:05 GMT</pubDate>
-            <description><![CDATA[Of Course Elon Musk Wanted Twitter]]></description>
         </item>
     </channel>
 </rss>

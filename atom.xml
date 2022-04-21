@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-21T20:39:24.071Z</updated>
+    <updated>2022-04-21T21:41:14.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[民主党人能否赢回农村选民？]]></title>
+        <id>https://www.newyorker.com/podcast/politics-and-more/can-democrats-win-back-rural-voters</id>
+        <link href="https://www.newyorker.com/podcast/politics-and-more/can-democrats-win-back-rural-voters"/>
+        <updated>2022-04-21T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Can Democrats Win Back Rural Voters?]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[普京在乌克兰的政治战争背后的漫长圣战]]></title>
         <id>https://www.newyorker.com/news/daily-comment/the-long-holy-war-behind-putins-political-war-in-ukraine</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Matthew Hutson</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆-马斯克当然希望使用Twitter]]></title>
-        <id>https://www.theatlantic.com/technology/archive/2022/04/elon-musk-twitter-free-speech/629479/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/technology/archive/2022/04/elon-musk-twitter-free-speech/629479/?utm_source=feed"/>
-        <updated>2022-04-05T19:06:05.000Z</updated>
-        <summary type="html"><![CDATA[Of Course Elon Musk Wanted Twitter]]></summary>
-        <author>
-            <name>Marina Koren</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
