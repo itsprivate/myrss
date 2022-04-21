@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-21T14:33:36.462Z</updated>
+    <updated>2022-04-21T14:42:43.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每日漫畫。4月21日，星期四]]></title>
+        <id>https://www.newyorker.com/cartoons/daily-cartoon/thursday-april-21st-mask-nose-therapy</id>
+        <link href="https://www.newyorker.com/cartoons/daily-cartoon/thursday-april-21st-mask-nose-therapy"/>
+        <updated>2022-04-21T14:25:10.000Z</updated>
+        <summary type="html"><![CDATA[Daily Cartoon: Thursday, April 21st]]></summary>
+        <author>
+            <name>Luke Kruger-Howard</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[埃隆-馬斯克詳述465億美元收購Twitter的融資情況]]></title>
         <id>https://www.nytimes.com/2022/04/21/business/elon-musk-twitter-funding.html</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>dkb@dkb.fyi (dkb)</name>
             <uri>https://dkb.io/rss.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[凱坦吉-布朗-傑克遜的三名共和黨人]]></title>
-        <id>https://www.newyorker.com/news/daily-comment/three-republicans-for-ketanji-brown-jackson</id>
-        <link href="https://www.newyorker.com/news/daily-comment/three-republicans-for-ketanji-brown-jackson"/>
-        <updated>2022-04-05T16:40:25.000Z</updated>
-        <summary type="html"><![CDATA[Three Republicans for Ketanji Brown Jackson]]></summary>
-        <author>
-            <name>Amy Davidson Sorkin</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>

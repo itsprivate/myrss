@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 21 Apr 2022 14:33:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 14:42:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[每日漫畫。4月21日，星期四]]></title>
+            <link>https://www.newyorker.com/cartoons/daily-cartoon/thursday-april-21st-mask-nose-therapy</link>
+            <guid>https://www.newyorker.com/cartoons/daily-cartoon/thursday-april-21st-mask-nose-therapy</guid>
+            <pubDate>Thu, 21 Apr 2022 14:25:10 GMT</pubDate>
+            <description><![CDATA[Daily Cartoon: Thursday, April 21st]]></description>
+        </item>
         <item>
             <title><![CDATA[埃隆-馬斯克詳述465億美元收購Twitter的融資情況]]></title>
             <link>https://www.nytimes.com/2022/04/21/business/elon-musk-twitter-funding.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://dkb.io/post/the-next-google</guid>
             <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[The Next Google]]></description>
-        </item>
-        <item>
-            <title><![CDATA[凱坦吉-布朗-傑克遜的三名共和黨人]]></title>
-            <link>https://www.newyorker.com/news/daily-comment/three-republicans-for-ketanji-brown-jackson</link>
-            <guid>https://www.newyorker.com/news/daily-comment/three-republicans-for-ketanji-brown-jackson</guid>
-            <pubDate>Tue, 05 Apr 2022 16:40:25 GMT</pubDate>
-            <description><![CDATA[Three Republicans for Ketanji Brown Jackson]]></description>
         </item>
     </channel>
 </rss>
