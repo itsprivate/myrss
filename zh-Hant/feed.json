@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/04/end-mask-mandates-planes-security-theater/629617/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/04/end-mask-mandates-planes-security-theater/629617/?utm_source=feed",
+            "title": "飛機上的面罩是安全戲劇的另一種形式",
+            "summary": "Masks on Planes Were One More Form of Safety Theater",
+            "date_modified": "2022-04-21T11:15:56.000Z",
+            "author": {
+                "name": "Tom Nichols",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/culture/archive/2022/04/covid-workcation-remote-work-life-balance/629605/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/culture/archive/2022/04/covid-workcation-remote-work-life-balance/629605/?utm_source=feed",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Benjamin Schwartz",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/health/archive/2022/04/ba2-omicron-variant-covid-surge/629474/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/health/archive/2022/04/ba2-omicron-variant-covid-surge/629474/?utm_source=feed",
-            "title": "America Is Staring Down Its First <em>So What? </em>Wave",
-            "summary": "America Is Staring Down Its First <em>So What? </em>Wave",
-            "date_modified": "2022-04-05T14:24:10.000Z",
-            "author": {
-                "name": "Katherine J. Wu",
-                "url": "https://www.theatlantic.com/feed/all/"
             }
         }
     ]

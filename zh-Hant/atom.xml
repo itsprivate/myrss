@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-21T11:32:05.548Z</updated>
+    <updated>2022-04-21T11:39:39.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[飛機上的面罩是安全戲劇的另一種形式]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/end-mask-mandates-planes-security-theater/629617/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/end-mask-mandates-planes-security-theater/629617/?utm_source=feed"/>
+        <updated>2022-04-21T11:15:56.000Z</updated>
+        <summary type="html"><![CDATA[Masks on Planes Were One More Form of Safety Theater]]></summary>
+        <author>
+            <name>Tom Nichols</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[倦怠時代的旅行願望]]></title>
         <id>https://www.theatlantic.com/culture/archive/2022/04/covid-workcation-remote-work-life-balance/629605/?utm_source=feed</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Benjamin Schwartz</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[America Is Staring Down Its First <em>So What? </em>Wave]]></title>
-        <id>https://www.theatlantic.com/health/archive/2022/04/ba2-omicron-variant-covid-surge/629474/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/health/archive/2022/04/ba2-omicron-variant-covid-surge/629474/?utm_source=feed"/>
-        <updated>2022-04-05T14:24:10.000Z</updated>
-        <summary type="html"><![CDATA[America Is Staring Down Its First <em>So What? </em>Wave]]></summary>
-        <author>
-            <name>Katherine J. Wu</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
