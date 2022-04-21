@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 21 Apr 2022 14:42:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 15:16:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[宇宙中最可爱的热核爆炸]]></title>
+            <link>https://www.theatlantic.com/science/archive/2022/04/supernova-micronova-white-dwarf-stars-astronomy/629622/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/science/archive/2022/04/supernova-micronova-white-dwarf-stars-astronomy/629622/?utm_source=feed</guid>
+            <pubDate>Thu, 21 Apr 2022 14:55:08 GMT</pubDate>
+            <description><![CDATA[The Cutest Thermonuclear Explosion in the Universe]]></description>
+        </item>
         <item>
             <title><![CDATA[每日漫画。4月21日，星期四]]></title>
             <link>https://www.newyorker.com/cartoons/daily-cartoon/thursday-april-21st-mask-nose-therapy</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/news/daily-comment/three-republicans-for-ketanji-brown-jackson</guid>
             <pubDate>Tue, 05 Apr 2022 16:40:25 GMT</pubDate>
             <description><![CDATA[Three Republicans for Ketanji Brown Jackson]]></description>
-        </item>
-        <item>
-            <title><![CDATA[下一个谷歌]]></title>
-            <link>https://dkb.io/post/the-next-google</link>
-            <guid>https://dkb.io/post/the-next-google</guid>
-            <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Next Google]]></description>
         </item>
     </channel>
 </rss>

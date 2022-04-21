@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-21T14:42:43.885Z</updated>
+    <updated>2022-04-21T15:16:17.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[宇宙中最可愛的熱核爆炸]]></title>
+        <id>https://www.theatlantic.com/science/archive/2022/04/supernova-micronova-white-dwarf-stars-astronomy/629622/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/science/archive/2022/04/supernova-micronova-white-dwarf-stars-astronomy/629622/?utm_source=feed"/>
+        <updated>2022-04-21T14:55:08.000Z</updated>
+        <summary type="html"><![CDATA[The Cutest Thermonuclear Explosion in the Universe]]></summary>
+        <author>
+            <name>Marina Koren</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日漫畫。4月21日，星期四]]></title>
         <id>https://www.newyorker.com/cartoons/daily-cartoon/thursday-april-21st-mask-nose-therapy</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Amy Davidson Sorkin</name>
             <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[下一個谷歌]]></title>
-        <id>https://dkb.io/post/the-next-google</id>
-        <link href="https://dkb.io/post/the-next-google"/>
-        <updated>2022-04-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Next Google]]></summary>
-        <author>
-            <name>dkb@dkb.fyi (dkb)</name>
-            <uri>https://dkb.io/rss.xml</uri>
         </author>
     </entry>
 </feed>
