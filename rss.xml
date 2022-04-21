@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 21 Apr 2022 08:41:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 09:36:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[打击虚假信息的正确和错误的方法]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/anti-disinformation-laws-social-media/629612/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/anti-disinformation-laws-social-media/629612/?utm_source=feed</guid>
+            <pubDate>Thu, 21 Apr 2022 09:01:56 GMT</pubDate>
+            <description><![CDATA[The Right and Wrong Ways to Fight Disinformation]]></description>
+        </item>
         <item>
             <title><![CDATA[北约必须欢迎乌克兰]]></title>
             <link>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-join-nato-eu-membership/629619/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.nytimes.com/2022/04/05/technology/ai-voice-analysis-mental-health.html</guid>
             <pubDate>Tue, 05 Apr 2022 09:00:22 GMT</pubDate>
             <description><![CDATA[Can A.I.-Driven Voice Analysis Help Identify Mental Disorders?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[不要再说乌克兰赢得了信息战争了]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/04/russian-propaganda-zelensky-information-war/629475/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/04/russian-propaganda-zelensky-information-war/629475/?utm_source=feed</guid>
-            <pubDate>Tue, 05 Apr 2022 09:01:56 GMT</pubDate>
-            <description><![CDATA[Stop Saying Ukraine Is Winning the Information War]]></description>
         </item>
     </channel>
 </rss>

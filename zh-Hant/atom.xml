@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-21T08:41:59.867Z</updated>
+    <updated>2022-04-21T09:36:53.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[打擊虛假信息的正確和錯誤的方法]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/anti-disinformation-laws-social-media/629612/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/anti-disinformation-laws-social-media/629612/?utm_source=feed"/>
+        <updated>2022-04-21T09:01:56.000Z</updated>
+        <summary type="html"><![CDATA[The Right and Wrong Ways to Fight Disinformation]]></summary>
+        <author>
+            <name>Conor Friedersdorf</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[北約必須歡迎烏克蘭]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-join-nato-eu-membership/629619/?utm_source=feed</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Ingrid K. Williams</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要再說烏克蘭贏得了信息戰爭了]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/04/russian-propaganda-zelensky-information-war/629475/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/04/russian-propaganda-zelensky-information-war/629475/?utm_source=feed"/>
-        <updated>2022-04-05T09:01:56.000Z</updated>
-        <summary type="html"><![CDATA[Stop Saying Ukraine Is Winning the Information War]]></summary>
-        <author>
-            <name>Carl Miller</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>

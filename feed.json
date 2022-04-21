@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/04/anti-disinformation-laws-social-media/629612/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/04/anti-disinformation-laws-social-media/629612/?utm_source=feed",
+            "title": "打击虚假信息的正确和错误的方法",
+            "summary": "The Right and Wrong Ways to Fight Disinformation",
+            "date_modified": "2022-04-21T09:01:56.000Z",
+            "author": {
+                "name": "Conor Friedersdorf",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/ideas/archive/2022/04/ukraine-join-nato-eu-membership/629619/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/ideas/archive/2022/04/ukraine-join-nato-eu-membership/629619/?utm_source=feed",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Ingrid K. Williams",
                 "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/04/russian-propaganda-zelensky-information-war/629475/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/04/russian-propaganda-zelensky-information-war/629475/?utm_source=feed",
-            "title": "不要再说乌克兰赢得了信息战争了",
-            "summary": "Stop Saying Ukraine Is Winning the Information War",
-            "date_modified": "2022-04-05T09:01:56.000Z",
-            "author": {
-                "name": "Carl Miller",
-                "url": "https://www.theatlantic.com/feed/all/"
             }
         }
     ]
