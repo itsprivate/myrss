@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 21 Apr 2022 13:02:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 13:30:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[龐特總統任期]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/biden-mask-mandates-student-loans/629616/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/biden-mask-mandates-student-loans/629616/?utm_source=feed</guid>
+            <pubDate>Thu, 21 Apr 2022 12:38:06 GMT</pubDate>
+            <description><![CDATA[The Punt Presidency]]></description>
+        </item>
         <item>
             <title><![CDATA[現在誰在笑？]]></title>
             <link>https://www.theatlantic.com/culture/archive/2022/04/the-problem-with-jon-stewart-tucker-carlson/629608/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.nytimes.com/2022/04/05/technology/space-tourism.html</guid>
             <pubDate>Tue, 05 Apr 2022 16:41:51 GMT</pubDate>
             <description><![CDATA[Space Tourism Isn’t Just Joyriding]]></description>
-        </item>
-        <item>
-            <title><![CDATA[華納媒體負責人Jason Kilar將在Discovery合併前離職]]></title>
-            <link>https://www.nytimes.com/2022/04/05/business/media/jason-kilar-warnermedia-discovery.html</link>
-            <guid>https://www.nytimes.com/2022/04/05/business/media/jason-kilar-warnermedia-discovery.html</guid>
-            <pubDate>Tue, 05 Apr 2022 15:27:35 GMT</pubDate>
-            <description><![CDATA[Jason Kilar, WarnerMedia Head, Is Leaving Ahead of Discovery Merger]]></description>
         </item>
     </channel>
 </rss>
