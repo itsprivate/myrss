@@ -11,6 +11,90 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/humor/daily-shouts/a-new-york-spring-forecast",
+            "content_html": "",
+            "url": "https://www.newyorker.com/humor/daily-shouts/a-new-york-spring-forecast",
+            "title": "紐約春季預測",
+            "summary": "A New York Spring Forecast",
+            "date_modified": "2022-04-21T10:00:00.000Z",
+            "author": {
+                "name": "Claire Friedman",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/21",
+            "content_html": "",
+            "url": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/21",
+            "title": "填字遊戲: 2022年4月21日，星期四",
+            "summary": "The Crossword: Thursday, April 21, 2022",
+            "date_modified": "2022-04-21T10:00:00.000Z",
+            "author": {
+                "name": "Patrick Berry",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/humor/daily-shouts/your-personality-as-explained-on-twitter-by-one-extremely-specific-aspect-of-your-childhood",
+            "content_html": "",
+            "url": "https://www.newyorker.com/humor/daily-shouts/your-personality-as-explained-on-twitter-by-one-extremely-specific-aspect-of-your-childhood",
+            "title": "你的個性，在Twitter上由你童年的一個極其特殊的方面來解釋",
+            "summary": "Your Personality, as Explained on Twitter by One Extremely Specific Aspect of Your Childhood",
+            "date_modified": "2022-04-21T10:00:00.000Z",
+            "author": {
+                "name": "Allie Rubin, Lillian Stone",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/21",
+            "content_html": "",
+            "url": "https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/21",
+            "title": "落名：2022年4月21日，星期四",
+            "summary": "Name Drop: Thursday, April 21, 2022",
+            "date_modified": "2022-04-21T10:00:00.000Z",
+            "author": {
+                "name": "Liz Maynes-Aminzade",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/culture/culture-desk/petite-maman-is-a-minor-miracle",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/culture-desk/petite-maman-is-a-minor-miracle",
+            "title": "\"小媽媽 \"是一個小奇蹟",
+            "summary": "“Petite Maman” Is a Minor Miracle",
+            "date_modified": "2022-04-21T10:00:00.000Z",
+            "author": {
+                "name": "Anthony Lane",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/family/archive/2022/04/happiness-reasearch-how-to-be-happy-advice/629559/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/family/archive/2022/04/happiness-reasearch-how-to-be-happy-advice/629559/?utm_source=feed",
+            "title": "提高幸福感的10種實用方法",
+            "summary": "10 Practical Ways to Improve Happiness",
+            "date_modified": "2022-04-21T10:01:56.000Z",
+            "author": {
+                "name": "Arthur C. Brooks",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/04/marine-le-pen-french-presidential-election-2022/629615/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/04/marine-le-pen-french-presidential-election-2022/629615/?utm_source=feed",
+            "title": "為什麼瑪麗-勒龐如此接近權力",
+            "summary": "Why Marine Le Pen Is So Close to Power",
+            "date_modified": "2022-04-21T10:01:56.000Z",
+            "author": {
+                "name": "Yascha Mounk",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/culture/culture-desk/petite-maman-is-a-minor-miracle",
             "content_html": "",
             "url": "https://www.newyorker.com/culture/culture-desk/petite-maman-is-a-minor-miracle",
@@ -7123,90 +7207,6 @@
             "date_modified": "2022-04-05T14:25:15.000Z",
             "author": {
                 "name": "Susan Cain",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.currentaffairs.org/2022/03/why-the-anti-factory-farming-movement-needs-direct-action/",
-            "content_html": "",
-            "url": "https://www.currentaffairs.org/2022/03/why-the-anti-factory-farming-movement-needs-direct-action/",
-            "title": "為什麼反工廠化農業運動需要直接行動？",
-            "summary": "Why the Anti-Factory Farming Movement Needs Direct Action",
-            "date_modified": "2022-03-14T08:12:14.000Z",
-            "author": {
-                "name": "Marina Bolotnikova",
-                "url": "https://www.currentaffairs.org/feed"
-            }
-        },
-        {
-            "id": "https://austinkleon.substack.com/p/fridge-poems",
-            "content_html": "",
-            "url": "https://austinkleon.substack.com/p/fridge-poems",
-            "title": "冰箱裡的詩",
-            "summary": "Fridge poems",
-            "date_modified": "2022-04-05T12:00:39.000Z",
-            "author": {
-                "name": "Austin Kleon",
-                "url": "https://austinkleon.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/04/ukraine-neutrality-peace-agreement-finland/629473/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/04/ukraine-neutrality-peace-agreement-finland/629473/?utm_source=feed",
-            "title": "普京將烏克蘭的中立性視為許可",
-            "summary": "Putin Would Take Ukraine’s Neutrality as Permission",
-            "date_modified": "2022-04-05T10:30:56.000Z",
-            "author": {
-                "name": "Leon Aron",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/humor/daily-shouts/just-a-heads-up-that-im-running-late-because-of-the-deterministic-nature-of-the-universe",
-            "content_html": "",
-            "url": "https://www.newyorker.com/humor/daily-shouts/just-a-heads-up-that-im-running-late-because-of-the-deterministic-nature-of-the-universe",
-            "title": "提醒大家，由於宇宙的決定論性質，我已經遲到了",
-            "summary": "Just a Heads-Up That I’m Running Late Because of the Deterministic Nature of the Universe",
-            "date_modified": "2022-04-05T10:00:00.000Z",
-            "author": {
-                "name": "Chandler Dean",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/05",
-            "content_html": "",
-            "url": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/05",
-            "title": "填字遊戲: 2022年4月5日，星期二",
-            "summary": "The Crossword: Tuesday, April 5, 2022",
-            "date_modified": "2022-04-05T10:00:00.000Z",
-            "author": {
-                "name": "Anna Shechtman",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022-04-05",
-            "content_html": "",
-            "url": "https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022-04-05",
-            "title": "落名：2022年4月5日，星期二",
-            "summary": "Name Drop: Tuesday, April 5, 2022",
-            "date_modified": "2022-04-05T10:00:00.000Z",
-            "author": {
-                "name": "Will Nediger",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/magazine/archive/2022/05/working-mom-career-women-guilt/629364/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/magazine/archive/2022/05/working-mom-career-women-guilt/629364/?utm_source=feed",
-            "title": "結束對母親的愧疚",
-            "summary": "The End of Mom Guilt",
-            "date_modified": "2022-04-05T10:00:59.000Z",
-            "author": {
-                "name": "Lara Bazelon",
                 "url": "https://www.theatlantic.com/feed/all/"
             }
         }

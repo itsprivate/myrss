@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-21T10:14:28.513Z</updated>
+    <updated>2022-04-21T10:40:45.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[纽约春季预测]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/a-new-york-spring-forecast</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/a-new-york-spring-forecast"/>
+        <updated>2022-04-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A New York Spring Forecast]]></summary>
+        <author>
+            <name>Claire Friedman</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[填字游戏: 2022年4月21日，星期四]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/21</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/21"/>
+        <updated>2022-04-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Crossword: Thursday, April 21, 2022]]></summary>
+        <author>
+            <name>Patrick Berry</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你的个性，在Twitter上由你童年的一个极其特殊的方面来解释]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/your-personality-as-explained-on-twitter-by-one-extremely-specific-aspect-of-your-childhood</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/your-personality-as-explained-on-twitter-by-one-extremely-specific-aspect-of-your-childhood"/>
+        <updated>2022-04-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Your Personality, as Explained on Twitter by One Extremely Specific Aspect of Your Childhood]]></summary>
+        <author>
+            <name>Allie Rubin, Lillian Stone</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[落名：2022年4月21日，星期四]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/21</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/21"/>
+        <updated>2022-04-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Name Drop: Thursday, April 21, 2022]]></summary>
+        <author>
+            <name>Liz Maynes-Aminzade</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["小妈妈 "是一个小奇迹]]></title>
+        <id>https://www.newyorker.com/culture/culture-desk/petite-maman-is-a-minor-miracle</id>
+        <link href="https://www.newyorker.com/culture/culture-desk/petite-maman-is-a-minor-miracle"/>
+        <updated>2022-04-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“Petite Maman” Is a Minor Miracle]]></summary>
+        <author>
+            <name>Anthony Lane</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[提高幸福感的10种实用方法]]></title>
+        <id>https://www.theatlantic.com/family/archive/2022/04/happiness-reasearch-how-to-be-happy-advice/629559/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/family/archive/2022/04/happiness-reasearch-how-to-be-happy-advice/629559/?utm_source=feed"/>
+        <updated>2022-04-21T10:01:56.000Z</updated>
+        <summary type="html"><![CDATA[10 Practical Ways to Improve Happiness]]></summary>
+        <author>
+            <name>Arthur C. Brooks</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么玛丽-勒庞如此接近权力]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/marine-le-pen-french-presidential-election-2022/629615/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/marine-le-pen-french-presidential-election-2022/629615/?utm_source=feed"/>
+        <updated>2022-04-21T10:01:56.000Z</updated>
+        <summary type="html"><![CDATA[Why Marine Le Pen Is So Close to Power]]></summary>
+        <author>
+            <name>Yascha Mounk</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["小妈妈 "是一个小奇迹]]></title>
         <id>https://www.newyorker.com/culture/culture-desk/petite-maman-is-a-minor-miracle</id>
@@ -6535,83 +6612,6 @@
         <summary type="html"><![CDATA[A Culture of Enforced Positivity Is Holding Back Workplaces]]></summary>
         <author>
             <name>Susan Cain</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么反工厂化农业运动需要直接行动？]]></title>
-        <id>https://www.currentaffairs.org/2022/03/why-the-anti-factory-farming-movement-needs-direct-action/</id>
-        <link href="https://www.currentaffairs.org/2022/03/why-the-anti-factory-farming-movement-needs-direct-action/"/>
-        <updated>2022-03-14T08:12:14.000Z</updated>
-        <summary type="html"><![CDATA[Why the Anti-Factory Farming Movement Needs Direct Action]]></summary>
-        <author>
-            <name>Marina Bolotnikova</name>
-            <uri>https://www.currentaffairs.org/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冰箱里的诗]]></title>
-        <id>https://austinkleon.substack.com/p/fridge-poems</id>
-        <link href="https://austinkleon.substack.com/p/fridge-poems"/>
-        <updated>2022-04-05T12:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Fridge poems]]></summary>
-        <author>
-            <name>Austin Kleon</name>
-            <uri>https://austinkleon.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京将乌克兰的中立性视为许可]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-neutrality-peace-agreement-finland/629473/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/04/ukraine-neutrality-peace-agreement-finland/629473/?utm_source=feed"/>
-        <updated>2022-04-05T10:30:56.000Z</updated>
-        <summary type="html"><![CDATA[Putin Would Take Ukraine’s Neutrality as Permission]]></summary>
-        <author>
-            <name>Leon Aron</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[提醒大家，由于宇宙的决定论性质，我已经迟到了]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/just-a-heads-up-that-im-running-late-because-of-the-deterministic-nature-of-the-universe</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/just-a-heads-up-that-im-running-late-because-of-the-deterministic-nature-of-the-universe"/>
-        <updated>2022-04-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Just a Heads-Up That I’m Running Late Because of the Deterministic Nature of the Universe]]></summary>
-        <author>
-            <name>Chandler Dean</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[填字游戏: 2022年4月5日，星期二]]></title>
-        <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/05</id>
-        <link href="https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/05"/>
-        <updated>2022-04-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Crossword: Tuesday, April 5, 2022]]></summary>
-        <author>
-            <name>Anna Shechtman</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[落名：2022年4月5日，星期二]]></title>
-        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022-04-05</id>
-        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022-04-05"/>
-        <updated>2022-04-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Name Drop: Tuesday, April 5, 2022]]></summary>
-        <author>
-            <name>Will Nediger</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[结束对母亲的愧疚]]></title>
-        <id>https://www.theatlantic.com/magazine/archive/2022/05/working-mom-career-women-guilt/629364/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/magazine/archive/2022/05/working-mom-career-women-guilt/629364/?utm_source=feed"/>
-        <updated>2022-04-05T10:00:59.000Z</updated>
-        <summary type="html"><![CDATA[The End of Mom Guilt]]></summary>
-        <author>
-            <name>Lara Bazelon</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 21 Apr 2022 10:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 10:40:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,55 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[紐約春季預測]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/a-new-york-spring-forecast</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/a-new-york-spring-forecast</guid>
+            <pubDate>Thu, 21 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[A New York Spring Forecast]]></description>
+        </item>
+        <item>
+            <title><![CDATA[填字遊戲: 2022年4月21日，星期四]]></title>
+            <link>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/21</link>
+            <guid>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/21</guid>
+            <pubDate>Thu, 21 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Crossword: Thursday, April 21, 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你的個性，在Twitter上由你童年的一個極其特殊的方面來解釋]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/your-personality-as-explained-on-twitter-by-one-extremely-specific-aspect-of-your-childhood</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/your-personality-as-explained-on-twitter-by-one-extremely-specific-aspect-of-your-childhood</guid>
+            <pubDate>Thu, 21 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Your Personality, as Explained on Twitter by One Extremely Specific Aspect of Your Childhood]]></description>
+        </item>
+        <item>
+            <title><![CDATA[落名：2022年4月21日，星期四]]></title>
+            <link>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/21</link>
+            <guid>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/21</guid>
+            <pubDate>Thu, 21 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Name Drop: Thursday, April 21, 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA["小媽媽 "是一個小奇蹟]]></title>
+            <link>https://www.newyorker.com/culture/culture-desk/petite-maman-is-a-minor-miracle</link>
+            <guid>https://www.newyorker.com/culture/culture-desk/petite-maman-is-a-minor-miracle</guid>
+            <pubDate>Thu, 21 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[“Petite Maman” Is a Minor Miracle]]></description>
+        </item>
+        <item>
+            <title><![CDATA[提高幸福感的10種實用方法]]></title>
+            <link>https://www.theatlantic.com/family/archive/2022/04/happiness-reasearch-how-to-be-happy-advice/629559/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/family/archive/2022/04/happiness-reasearch-how-to-be-happy-advice/629559/?utm_source=feed</guid>
+            <pubDate>Thu, 21 Apr 2022 10:01:56 GMT</pubDate>
+            <description><![CDATA[10 Practical Ways to Improve Happiness]]></description>
+        </item>
+        <item>
+            <title><![CDATA[為什麼瑪麗-勒龐如此接近權力]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/marine-le-pen-french-presidential-election-2022/629615/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/marine-le-pen-french-presidential-election-2022/629615/?utm_source=feed</guid>
+            <pubDate>Thu, 21 Apr 2022 10:01:56 GMT</pubDate>
+            <description><![CDATA[Why Marine Le Pen Is So Close to Power]]></description>
+        </item>
         <item>
             <title><![CDATA["小媽媽 "是一個小奇蹟]]></title>
             <link>https://www.newyorker.com/culture/culture-desk/petite-maman-is-a-minor-miracle</link>
@@ -4164,55 +4213,6 @@
             <guid>https://www.theatlantic.com/family/archive/2022/04/work-culture-positivity-personal-power/629478/?utm_source=feed</guid>
             <pubDate>Tue, 05 Apr 2022 14:25:15 GMT</pubDate>
             <description><![CDATA[A Culture of Enforced Positivity Is Holding Back Workplaces]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼反工廠化農業運動需要直接行動？]]></title>
-            <link>https://www.currentaffairs.org/2022/03/why-the-anti-factory-farming-movement-needs-direct-action/</link>
-            <guid>https://www.currentaffairs.org/2022/03/why-the-anti-factory-farming-movement-needs-direct-action/</guid>
-            <pubDate>Mon, 14 Mar 2022 08:12:14 GMT</pubDate>
-            <description><![CDATA[Why the Anti-Factory Farming Movement Needs Direct Action]]></description>
-        </item>
-        <item>
-            <title><![CDATA[冰箱裡的詩]]></title>
-            <link>https://austinkleon.substack.com/p/fridge-poems</link>
-            <guid>https://austinkleon.substack.com/p/fridge-poems</guid>
-            <pubDate>Tue, 05 Apr 2022 12:00:39 GMT</pubDate>
-            <description><![CDATA[Fridge poems]]></description>
-        </item>
-        <item>
-            <title><![CDATA[普京將烏克蘭的中立性視為許可]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-neutrality-peace-agreement-finland/629473/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-neutrality-peace-agreement-finland/629473/?utm_source=feed</guid>
-            <pubDate>Tue, 05 Apr 2022 10:30:56 GMT</pubDate>
-            <description><![CDATA[Putin Would Take Ukraine’s Neutrality as Permission]]></description>
-        </item>
-        <item>
-            <title><![CDATA[提醒大家，由於宇宙的決定論性質，我已經遲到了]]></title>
-            <link>https://www.newyorker.com/humor/daily-shouts/just-a-heads-up-that-im-running-late-because-of-the-deterministic-nature-of-the-universe</link>
-            <guid>https://www.newyorker.com/humor/daily-shouts/just-a-heads-up-that-im-running-late-because-of-the-deterministic-nature-of-the-universe</guid>
-            <pubDate>Tue, 05 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Just a Heads-Up That I’m Running Late Because of the Deterministic Nature of the Universe]]></description>
-        </item>
-        <item>
-            <title><![CDATA[填字遊戲: 2022年4月5日，星期二]]></title>
-            <link>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/05</link>
-            <guid>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/05</guid>
-            <pubDate>Tue, 05 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Crossword: Tuesday, April 5, 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[落名：2022年4月5日，星期二]]></title>
-            <link>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022-04-05</link>
-            <guid>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022-04-05</guid>
-            <pubDate>Tue, 05 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Name Drop: Tuesday, April 5, 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[結束對母親的愧疚]]></title>
-            <link>https://www.theatlantic.com/magazine/archive/2022/05/working-mom-career-women-guilt/629364/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/magazine/archive/2022/05/working-mom-career-women-guilt/629364/?utm_source=feed</guid>
-            <pubDate>Tue, 05 Apr 2022 10:00:59 GMT</pubDate>
-            <description><![CDATA[The End of Mom Guilt]]></description>
         </item>
     </channel>
 </rss>
