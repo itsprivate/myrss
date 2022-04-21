@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-21T21:41:14.237Z</updated>
+    <updated>2022-04-21T23:13:23.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[欧巴马在斯坦福大学的演讲中呼吁加强对社交媒体的监督]]></title>
+        <id>https://www.nytimes.com/2022/04/21/technology/obama-stanford-tech-regulation.html</id>
+        <link href="https://www.nytimes.com/2022/04/21/technology/obama-stanford-tech-regulation.html"/>
+        <updated>2022-04-21T22:54:22.000Z</updated>
+        <summary type="html"><![CDATA[Obama Calls for More Oversight of Social Media in Speech at Stanford]]></summary>
+        <author>
+            <name>Steven Lee Myers</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[民主党人能否赢回农村选民？]]></title>
         <id>https://www.newyorker.com/podcast/politics-and-more/can-democrats-win-back-rural-voters</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Caroline Mimbs Nyce</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[计算机可以学习常识吗？]]></title>
-        <id>https://www.newyorker.com/tech/annals-of-technology/can-computers-learn-common-sense</id>
-        <link href="https://www.newyorker.com/tech/annals-of-technology/can-computers-learn-common-sense"/>
-        <updated>2022-04-05T19:11:03.000Z</updated>
-        <summary type="html"><![CDATA[Can Computers Learn Common Sense?]]></summary>
-        <author>
-            <name>Matthew Hutson</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>

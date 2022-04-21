@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/21/technology/obama-stanford-tech-regulation.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/21/technology/obama-stanford-tech-regulation.html",
+            "title": "歐巴馬在斯坦福大學的演講中呼籲加強對社交媒體的監督",
+            "summary": "Obama Calls for More Oversight of Social Media in Speech at Stanford",
+            "date_modified": "2022-04-21T22:54:22.000Z",
+            "author": {
+                "name": "Steven Lee Myers",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/podcast/politics-and-more/can-democrats-win-back-rural-voters",
             "content_html": "",
             "url": "https://www.newyorker.com/podcast/politics-and-more/can-democrats-win-back-rural-voters",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Caroline Mimbs Nyce",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/tech/annals-of-technology/can-computers-learn-common-sense",
-            "content_html": "",
-            "url": "https://www.newyorker.com/tech/annals-of-technology/can-computers-learn-common-sense",
-            "title": "計算機可以學習常識嗎？",
-            "summary": "Can Computers Learn Common Sense?",
-            "date_modified": "2022-04-05T19:11:03.000Z",
-            "author": {
-                "name": "Matthew Hutson",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]
