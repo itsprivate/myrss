@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-21T13:30:34.858Z</updated>
+    <updated>2022-04-21T14:33:36.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[埃隆-馬斯克詳述465億美元收購Twitter的融資情況]]></title>
+        <id>https://www.nytimes.com/2022/04/21/business/elon-musk-twitter-funding.html</id>
+        <link href="https://www.nytimes.com/2022/04/21/business/elon-musk-twitter-funding.html"/>
+        <updated>2022-04-21T14:28:17.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk Details Financing for $46.5 Billion Twitter Takeover]]></summary>
+        <author>
+            <name>Lauren Hirsch</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[龐特總統任期]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/04/biden-mask-mandates-student-loans/629616/?utm_source=feed</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Amy Davidson Sorkin</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[太空旅遊不僅僅是玩樂]]></title>
-        <id>https://www.nytimes.com/2022/04/05/technology/space-tourism.html</id>
-        <link href="https://www.nytimes.com/2022/04/05/technology/space-tourism.html"/>
-        <updated>2022-04-05T16:41:51.000Z</updated>
-        <summary type="html"><![CDATA[Space Tourism Isn’t Just Joyriding]]></summary>
-        <author>
-            <name>Shira Ovide</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 21 Apr 2022 13:30:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 14:33:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[埃隆-馬斯克詳述465億美元收購Twitter的融資情況]]></title>
+            <link>https://www.nytimes.com/2022/04/21/business/elon-musk-twitter-funding.html</link>
+            <guid>https://www.nytimes.com/2022/04/21/business/elon-musk-twitter-funding.html</guid>
+            <pubDate>Thu, 21 Apr 2022 14:28:17 GMT</pubDate>
+            <description><![CDATA[Elon Musk Details Financing for $46.5 Billion Twitter Takeover]]></description>
+        </item>
         <item>
             <title><![CDATA[龐特總統任期]]></title>
             <link>https://www.theatlantic.com/ideas/archive/2022/04/biden-mask-mandates-student-loans/629616/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/news/daily-comment/three-republicans-for-ketanji-brown-jackson</guid>
             <pubDate>Tue, 05 Apr 2022 16:40:25 GMT</pubDate>
             <description><![CDATA[Three Republicans for Ketanji Brown Jackson]]></description>
-        </item>
-        <item>
-            <title><![CDATA[太空旅遊不僅僅是玩樂]]></title>
-            <link>https://www.nytimes.com/2022/04/05/technology/space-tourism.html</link>
-            <guid>https://www.nytimes.com/2022/04/05/technology/space-tourism.html</guid>
-            <pubDate>Tue, 05 Apr 2022 16:41:51 GMT</pubDate>
-            <description><![CDATA[Space Tourism Isn’t Just Joyriding]]></description>
         </item>
     </channel>
 </rss>

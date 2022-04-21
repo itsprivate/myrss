@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/21/business/elon-musk-twitter-funding.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/21/business/elon-musk-twitter-funding.html",
+            "title": "埃隆-馬斯克詳述465億美元收購Twitter的融資情況",
+            "summary": "Elon Musk Details Financing for $46.5 Billion Twitter Takeover",
+            "date_modified": "2022-04-21T14:28:17.000Z",
+            "author": {
+                "name": "Lauren Hirsch",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/ideas/archive/2022/04/biden-mask-mandates-student-loans/629616/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/ideas/archive/2022/04/biden-mask-mandates-student-loans/629616/?utm_source=feed",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Amy Davidson Sorkin",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/04/05/technology/space-tourism.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/04/05/technology/space-tourism.html",
-            "title": "太空旅遊不僅僅是玩樂",
-            "summary": "Space Tourism Isn’t Just Joyriding",
-            "date_modified": "2022-04-05T16:41:51.000Z",
-            "author": {
-                "name": "Shira Ovide",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
     ]
