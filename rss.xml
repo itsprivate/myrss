@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 21 Apr 2022 10:40:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 11:32:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[倦怠时代的旅行愿望]]></title>
+            <link>https://www.theatlantic.com/culture/archive/2022/04/covid-workcation-remote-work-life-balance/629605/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/culture/archive/2022/04/covid-workcation-remote-work-life-balance/629605/?utm_source=feed</guid>
+            <pubDate>Thu, 21 Apr 2022 11:00:56 GMT</pubDate>
+            <description><![CDATA[The Travel Aspiration for the Burnout Era]]></description>
+        </item>
         <item>
             <title><![CDATA[纽约春季预测]]></title>
             <link>https://www.newyorker.com/humor/daily-shouts/a-new-york-spring-forecast</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/health/archive/2022/04/ba2-omicron-variant-covid-surge/629474/?utm_source=feed</guid>
             <pubDate>Tue, 05 Apr 2022 14:24:10 GMT</pubDate>
             <description><![CDATA[America Is Staring Down Its First <em>So What? </em>Wave]]></description>
-        </item>
-        <item>
-            <title><![CDATA[强迫性的积极文化阻碍了工作场所的发展]]></title>
-            <link>https://www.theatlantic.com/family/archive/2022/04/work-culture-positivity-personal-power/629478/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/family/archive/2022/04/work-culture-positivity-personal-power/629478/?utm_source=feed</guid>
-            <pubDate>Tue, 05 Apr 2022 14:25:15 GMT</pubDate>
-            <description><![CDATA[A Culture of Enforced Positivity Is Holding Back Workplaces]]></description>
         </item>
     </channel>
 </rss>
