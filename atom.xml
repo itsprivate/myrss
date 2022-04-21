@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-21T20:15:21.355Z</updated>
+    <updated>2022-04-21T20:39:24.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[普京在乌克兰的政治战争背后的漫长圣战]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/the-long-holy-war-behind-putins-political-war-in-ukraine</id>
+        <link href="https://www.newyorker.com/news/daily-comment/the-long-holy-war-behind-putins-political-war-in-ukraine"/>
+        <updated>2022-04-21T20:18:19.000Z</updated>
+        <summary type="html"><![CDATA[The Long Holy War Behind Putin’s Political War in Ukraine]]></summary>
+        <author>
+            <name>Paul Elie</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么埃隆-马斯克要收购Twitter？]]></title>
+        <id>https://www.newyorker.com/culture/infinite-scroll/why-would-elon-musk-want-to-buy-twitter</id>
+        <link href="https://www.newyorker.com/culture/infinite-scroll/why-would-elon-musk-want-to-buy-twitter"/>
+        <updated>2022-04-21T20:28:54.000Z</updated>
+        <summary type="html"><![CDATA[Why Would Elon Musk Want to Buy Twitter?]]></summary>
+        <author>
+            <name>Kyle Chayka</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在办公区冲浪了]]></title>
         <id>https://www.theatlantic.com/technology/archive/2022/04/surfing-artificial-wave-pools/629624/?utm_source=feed</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Marina Koren</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客假称乌克兰投降并没有骗过任何人。那么他们的目标是什么？]]></title>
-        <id>https://www.nytimes.com/2022/04/05/us/politics/ukraine-russia-hackers.html</id>
-        <link href="https://www.nytimes.com/2022/04/05/us/politics/ukraine-russia-hackers.html"/>
-        <updated>2022-04-05T18:52:47.000Z</updated>
-        <summary type="html"><![CDATA[Hackers’ Fake Claims of Ukrainian Surrender Aren’t Fooling Anyone. So What’s Their Goal?]]></summary>
-        <author>
-            <name>Kate Conger</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆-马斯克加入Twitter董事会]]></title>
-        <id>https://www.nytimes.com/2022/04/04/business/twitter-elon-musk-directors.html</id>
-        <link href="https://www.nytimes.com/2022/04/04/business/twitter-elon-musk-directors.html"/>
-        <updated>2022-04-05T15:32:18.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk Joins Twitter Board]]></summary>
-        <author>
-            <name>Lauren Hirsch</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>

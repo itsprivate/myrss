@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 21 Apr 2022 20:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 20:39:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[普京在烏克蘭的政治戰爭背後的漫長聖戰]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/the-long-holy-war-behind-putins-political-war-in-ukraine</link>
+            <guid>https://www.newyorker.com/news/daily-comment/the-long-holy-war-behind-putins-political-war-in-ukraine</guid>
+            <pubDate>Thu, 21 Apr 2022 20:18:19 GMT</pubDate>
+            <description><![CDATA[The Long Holy War Behind Putin’s Political War in Ukraine]]></description>
+        </item>
+        <item>
+            <title><![CDATA[為什麼埃隆-馬斯克要收購Twitter？]]></title>
+            <link>https://www.newyorker.com/culture/infinite-scroll/why-would-elon-musk-want-to-buy-twitter</link>
+            <guid>https://www.newyorker.com/culture/infinite-scroll/why-would-elon-musk-want-to-buy-twitter</guid>
+            <pubDate>Thu, 21 Apr 2022 20:28:54 GMT</pubDate>
+            <description><![CDATA[Why Would Elon Musk Want to Buy Twitter?]]></description>
+        </item>
         <item>
             <title><![CDATA[我在辦公區衝浪了]]></title>
             <link>https://www.theatlantic.com/technology/archive/2022/04/surfing-artificial-wave-pools/629624/?utm_source=feed</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.theatlantic.com/technology/archive/2022/04/elon-musk-twitter-free-speech/629479/?utm_source=feed</guid>
             <pubDate>Tue, 05 Apr 2022 19:06:05 GMT</pubDate>
             <description><![CDATA[Of Course Elon Musk Wanted Twitter]]></description>
-        </item>
-        <item>
-            <title><![CDATA[黑客假稱烏克蘭投降並沒有騙過任何人。那麼他們的目標是什麼？]]></title>
-            <link>https://www.nytimes.com/2022/04/05/us/politics/ukraine-russia-hackers.html</link>
-            <guid>https://www.nytimes.com/2022/04/05/us/politics/ukraine-russia-hackers.html</guid>
-            <pubDate>Tue, 05 Apr 2022 18:52:47 GMT</pubDate>
-            <description><![CDATA[Hackers’ Fake Claims of Ukrainian Surrender Aren’t Fooling Anyone. So What’s Their Goal?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[埃隆-馬斯克加入Twitter董事會]]></title>
-            <link>https://www.nytimes.com/2022/04/04/business/twitter-elon-musk-directors.html</link>
-            <guid>https://www.nytimes.com/2022/04/04/business/twitter-elon-musk-directors.html</guid>
-            <pubDate>Tue, 05 Apr 2022 15:32:18 GMT</pubDate>
-            <description><![CDATA[Elon Musk Joins Twitter Board]]></description>
         </item>
     </channel>
 </rss>

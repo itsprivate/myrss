@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/daily-comment/the-long-holy-war-behind-putins-political-war-in-ukraine",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/daily-comment/the-long-holy-war-behind-putins-political-war-in-ukraine",
+            "title": "普京在乌克兰的政治战争背后的漫长圣战",
+            "summary": "The Long Holy War Behind Putin’s Political War in Ukraine",
+            "date_modified": "2022-04-21T20:18:19.000Z",
+            "author": {
+                "name": "Paul Elie",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/culture/infinite-scroll/why-would-elon-musk-want-to-buy-twitter",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/infinite-scroll/why-would-elon-musk-want-to-buy-twitter",
+            "title": "为什么埃隆-马斯克要收购Twitter？",
+            "summary": "Why Would Elon Musk Want to Buy Twitter?",
+            "date_modified": "2022-04-21T20:28:54.000Z",
+            "author": {
+                "name": "Kyle Chayka",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/technology/archive/2022/04/surfing-artificial-wave-pools/629624/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/technology/archive/2022/04/surfing-artificial-wave-pools/629624/?utm_source=feed",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "Marina Koren",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/04/05/us/politics/ukraine-russia-hackers.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/04/05/us/politics/ukraine-russia-hackers.html",
-            "title": "黑客假称乌克兰投降并没有骗过任何人。那么他们的目标是什么？",
-            "summary": "Hackers’ Fake Claims of Ukrainian Surrender Aren’t Fooling Anyone. So What’s Their Goal?",
-            "date_modified": "2022-04-05T18:52:47.000Z",
-            "author": {
-                "name": "Kate Conger",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/04/04/business/twitter-elon-musk-directors.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/04/04/business/twitter-elon-musk-directors.html",
-            "title": "埃隆-马斯克加入Twitter董事会",
-            "summary": "Elon Musk Joins Twitter Board",
-            "date_modified": "2022-04-05T15:32:18.000Z",
-            "author": {
-                "name": "Lauren Hirsch",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
     ]
