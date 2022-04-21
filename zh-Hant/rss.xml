@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 21 Apr 2022 23:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 23:33:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[俄羅斯軍隊是一隻紙老虎嗎？]]></title>
+            <link>https://www.newyorker.com/news/q-and-a/is-the-russian-military-a-paper-tiger</link>
+            <guid>https://www.newyorker.com/news/q-and-a/is-the-russian-military-a-paper-tiger</guid>
+            <pubDate>Thu, 21 Apr 2022 23:09:42 GMT</pubDate>
+            <description><![CDATA[Is the Russian Military a Paper Tiger?]]></description>
+        </item>
+        <item>
+            <title><![CDATA["The Northman"，評論。只是一堆研究和戈爾]]></title>
+            <link>https://www.newyorker.com/culture/the-front-row/the-northman-reviewed-just-a-bunch-of-research-and-gore</link>
+            <guid>https://www.newyorker.com/culture/the-front-row/the-northman-reviewed-just-a-bunch-of-research-and-gore</guid>
+            <pubDate>Thu, 21 Apr 2022 23:10:00 GMT</pubDate>
+            <description><![CDATA[“The Northman,” Reviewed: Just a Bunch of Research and Gore]]></description>
+        </item>
+        <item>
+            <title><![CDATA[給我們所有的難民，該死的！]]></title>
+            <link>https://noahpinion.substack.com/p/give-us-all-the-refugees-dammit</link>
+            <guid>https://noahpinion.substack.com/p/give-us-all-the-refugees-dammit</guid>
+            <pubDate>Mon, 28 Mar 2022 05:16:10 GMT</pubDate>
+            <description><![CDATA[Give us all the refugees, dammit!]]></description>
+        </item>
         <item>
             <title><![CDATA[歐巴馬在斯坦福大學的演講中呼籲加強對社交媒體的監督]]></title>
             <link>https://www.nytimes.com/2022/04/21/technology/obama-stanford-tech-regulation.html</link>
@@ -4192,27 +4213,6 @@
             <guid>https://www.theatlantic.com/science/archive/2022/04/naked-mole-rat-spleen-immunity/629484/?utm_source=feed</guid>
             <pubDate>Tue, 05 Apr 2022 23:00:56 GMT</pubDate>
             <description><![CDATA[Naked Mole Rats Have a Very Strange Status Symbol]]></description>
-        </item>
-        <item>
-            <title><![CDATA[賈德-阿帕圖的《泡沫》，評論。一部沒有形狀的喜劇，有一個熔化的情感核心]]></title>
-            <link>https://www.newyorker.com/culture/the-front-row/judd-apatows-the-bubble-reviewed-a-shapeless-comedy-with-a-molten-emotional-core</link>
-            <guid>https://www.newyorker.com/culture/the-front-row/judd-apatows-the-bubble-reviewed-a-shapeless-comedy-with-a-molten-emotional-core</guid>
-            <pubDate>Tue, 05 Apr 2022 20:44:21 GMT</pubDate>
-            <description><![CDATA[Judd Apatow’s “The Bubble,” Reviewed: A Shapeless Comedy with a Molten Emotional Core]]></description>
-        </item>
-        <item>
-            <title><![CDATA[賈德-阿帕圖的《泡沫》，評論。一部沒有形狀的喜劇，有一個熔化的情感核心]]></title>
-            <link>https://www.newyorker.com/culture/the-front-row/judd-apatows-the-bubble-reviewed-a-shapeless-comedy-with-a-molten-emotional-core</link>
-            <guid>https://www.newyorker.com/culture/the-front-row/judd-apatows-the-bubble-reviewed-a-shapeless-comedy-with-a-molten-emotional-core</guid>
-            <pubDate>Tue, 05 Apr 2022 20:44:21 GMT</pubDate>
-            <description><![CDATA[Judd Apatow’s “The Bubble,” Reviewed: A Shapeless Comedy with a Molten Emotional Core]]></description>
-        </item>
-        <item>
-            <title><![CDATA[<em>The Atlantic</em> Daily: <em>Roe.v.Wade</em>可能不會再維持太久了]]></title>
-            <link>https://www.theatlantic.com/newsletters/archive/2022/04/roe-wade-scotus-activists-abortion/629481/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/newsletters/archive/2022/04/roe-wade-scotus-activists-abortion/629481/?utm_source=feed</guid>
-            <pubDate>Tue, 05 Apr 2022 19:43:41 GMT</pubDate>
-            <description><![CDATA[<em>The Atlantic</em> Daily: <em>Roe. v. Wade</em> May Not Stand For Much Longer]]></description>
         </item>
     </channel>
 </rss>

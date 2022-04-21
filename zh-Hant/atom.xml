@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-21T23:13:23.072Z</updated>
+    <updated>2022-04-21T23:33:00.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯軍隊是一隻紙老虎嗎？]]></title>
+        <id>https://www.newyorker.com/news/q-and-a/is-the-russian-military-a-paper-tiger</id>
+        <link href="https://www.newyorker.com/news/q-and-a/is-the-russian-military-a-paper-tiger"/>
+        <updated>2022-04-21T23:09:42.000Z</updated>
+        <summary type="html"><![CDATA[Is the Russian Military a Paper Tiger?]]></summary>
+        <author>
+            <name>Isaac Chotiner</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["The Northman"，評論。只是一堆研究和戈爾]]></title>
+        <id>https://www.newyorker.com/culture/the-front-row/the-northman-reviewed-just-a-bunch-of-research-and-gore</id>
+        <link href="https://www.newyorker.com/culture/the-front-row/the-northman-reviewed-just-a-bunch-of-research-and-gore"/>
+        <updated>2022-04-21T23:10:00.000Z</updated>
+        <summary type="html"><![CDATA[“The Northman,” Reviewed: Just a Bunch of Research and Gore]]></summary>
+        <author>
+            <name>Richard Brody</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[給我們所有的難民，該死的！]]></title>
+        <id>https://noahpinion.substack.com/p/give-us-all-the-refugees-dammit</id>
+        <link href="https://noahpinion.substack.com/p/give-us-all-the-refugees-dammit"/>
+        <updated>2022-03-28T05:16:10.000Z</updated>
+        <summary type="html"><![CDATA[Give us all the refugees, dammit!]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[歐巴馬在斯坦福大學的演講中呼籲加強對社交媒體的監督]]></title>
         <id>https://www.nytimes.com/2022/04/21/technology/obama-stanford-tech-regulation.html</id>
@@ -6579,39 +6612,6 @@
         <summary type="html"><![CDATA[Naked Mole Rats Have a Very Strange Status Symbol]]></summary>
         <author>
             <name>Katherine J. Wu</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[賈德-阿帕圖的《泡沫》，評論。一部沒有形狀的喜劇，有一個熔化的情感核心]]></title>
-        <id>https://www.newyorker.com/culture/the-front-row/judd-apatows-the-bubble-reviewed-a-shapeless-comedy-with-a-molten-emotional-core</id>
-        <link href="https://www.newyorker.com/culture/the-front-row/judd-apatows-the-bubble-reviewed-a-shapeless-comedy-with-a-molten-emotional-core"/>
-        <updated>2022-04-05T20:44:21.000Z</updated>
-        <summary type="html"><![CDATA[Judd Apatow’s “The Bubble,” Reviewed: A Shapeless Comedy with a Molten Emotional Core]]></summary>
-        <author>
-            <name>Richard Brody</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[賈德-阿帕圖的《泡沫》，評論。一部沒有形狀的喜劇，有一個熔化的情感核心]]></title>
-        <id>https://www.newyorker.com/culture/the-front-row/judd-apatows-the-bubble-reviewed-a-shapeless-comedy-with-a-molten-emotional-core</id>
-        <link href="https://www.newyorker.com/culture/the-front-row/judd-apatows-the-bubble-reviewed-a-shapeless-comedy-with-a-molten-emotional-core"/>
-        <updated>2022-04-05T20:44:21.000Z</updated>
-        <summary type="html"><![CDATA[Judd Apatow’s “The Bubble,” Reviewed: A Shapeless Comedy with a Molten Emotional Core]]></summary>
-        <author>
-            <name>Richard Brody</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<em>The Atlantic</em> Daily: <em>Roe.v.Wade</em>可能不會再維持太久了]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2022/04/roe-wade-scotus-activists-abortion/629481/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2022/04/roe-wade-scotus-activists-abortion/629481/?utm_source=feed"/>
-        <updated>2022-04-05T19:43:41.000Z</updated>
-        <summary type="html"><![CDATA[<em>The Atlantic</em> Daily: <em>Roe. v. Wade</em> May Not Stand For Much Longer]]></summary>
-        <author>
-            <name>Caroline Mimbs Nyce</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
