@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 21 Apr 2022 11:39:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 13:02:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[现在谁在笑？]]></title>
+            <link>https://www.theatlantic.com/culture/archive/2022/04/the-problem-with-jon-stewart-tucker-carlson/629608/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/culture/archive/2022/04/the-problem-with-jon-stewart-tucker-carlson/629608/?utm_source=feed</guid>
+            <pubDate>Thu, 21 Apr 2022 12:31:06 GMT</pubDate>
+            <description><![CDATA[Who’s Laughing Now?]]></description>
+        </item>
         <item>
             <title><![CDATA[飞机上的面罩是安全戏剧的另一种形式]]></title>
             <link>https://www.theatlantic.com/ideas/archive/2022/04/end-mask-mandates-planes-security-theater/629617/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.nytimes.com/2022/04/05/business/media/jason-kilar-warnermedia-discovery.html</guid>
             <pubDate>Tue, 05 Apr 2022 15:27:35 GMT</pubDate>
             <description><![CDATA[Jason Kilar, WarnerMedia Head, Is Leaving Ahead of Discovery Merger]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日漫画。4月5日，星期二]]></title>
-            <link>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-april-5th-everything-monster</link>
-            <guid>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-april-5th-everything-monster</guid>
-            <pubDate>Tue, 05 Apr 2022 14:58:07 GMT</pubDate>
-            <description><![CDATA[Daily Cartoon: Tuesday, April 5th]]></description>
         </item>
     </channel>
 </rss>

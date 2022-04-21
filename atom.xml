@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-21T11:39:39.905Z</updated>
+    <updated>2022-04-21T13:02:37.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[现在谁在笑？]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/04/the-problem-with-jon-stewart-tucker-carlson/629608/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/04/the-problem-with-jon-stewart-tucker-carlson/629608/?utm_source=feed"/>
+        <updated>2022-04-21T12:31:06.000Z</updated>
+        <summary type="html"><![CDATA[Who’s Laughing Now?]]></summary>
+        <author>
+            <name>Devin Gordon</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[飞机上的面罩是安全戏剧的另一种形式]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/04/end-mask-mandates-planes-security-theater/629617/?utm_source=feed</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>John Koblin</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日漫画。4月5日，星期二]]></title>
-        <id>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-april-5th-everything-monster</id>
-        <link href="https://www.newyorker.com/cartoons/daily-cartoon/tuesday-april-5th-everything-monster"/>
-        <updated>2022-04-05T14:58:07.000Z</updated>
-        <summary type="html"><![CDATA[Daily Cartoon: Tuesday, April 5th]]></summary>
-        <author>
-            <name>Benjamin Schwartz</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
