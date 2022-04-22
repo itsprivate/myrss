@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-22T20:45:45.347Z</updated>
+    <updated>2022-04-22T22:52:25.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為印度科技高管鋪路的烏芒-古普塔去世，享年73歲]]></title>
+        <id>https://www.nytimes.com/2022/04/22/technology/umang-gupta-dead.html</id>
+        <link href="https://www.nytimes.com/2022/04/22/technology/umang-gupta-dead.html"/>
+        <updated>2022-04-22T22:41:42.000Z</updated>
+        <summary type="html"><![CDATA[Umang Gupta, Who Paved Way for Indian Tech Executives, Dies at 73]]></summary>
+        <author>
+            <name>Don Clark</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[隱秘的開放性主題220.5]]></title>
         <id>https://astralcodexten.substack.com/p/hidden-open-thread-2205</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[<em>Sonic the Hedgehog 2</em> Turns Video-Game Lore Into Hollywood Joy]]></summary>
         <author>
             <name>David Sims</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[虛假信息是我們這個時代的故事]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2022/04/jeffrey-goldberg-disinformation-democracy-threat/629487/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2022/04/jeffrey-goldberg-disinformation-democracy-threat/629487/?utm_source=feed"/>
-        <updated>2022-04-06T18:24:04.000Z</updated>
-        <summary type="html"><![CDATA[Disinformation Is the Story of Our Age]]></summary>
-        <author>
-            <name>Jeffrey Goldberg</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
