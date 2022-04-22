@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 22 Apr 2022 16:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 16:56:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[亚马逊工会如何击败贝索斯巨兽]]></title>
+            <link>https://www.currentaffairs.org/2022/04/how-the-amazon-labor-union-defeated-the-bezos-behemoth/</link>
+            <guid>https://www.currentaffairs.org/2022/04/how-the-amazon-labor-union-defeated-the-bezos-behemoth/</guid>
+            <pubDate>Fri, 22 Apr 2022 12:15:11 GMT</pubDate>
+            <description><![CDATA[How the Amazon Labor Union Defeated the Bezos Behemoth]]></description>
+        </item>
+        <item>
+            <title><![CDATA[<em>Petite Maman</em>像童年的梦想一样演出]]></title>
+            <link>https://www.theatlantic.com/culture/archive/2022/04/petite-maman-movie-review/629646/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/culture/archive/2022/04/petite-maman-movie-review/629646/?utm_source=feed</guid>
+            <pubDate>Fri, 22 Apr 2022 16:34:17 GMT</pubDate>
+            <description><![CDATA[<em>Petite Maman</em> Plays Like a Childhood Dream]]></description>
+        </item>
         <item>
             <title><![CDATA[克利福德-普林斯-金的恋人]]></title>
             <link>https://www.newyorker.com/culture/photo-booth/the-lovers-of-clifford-prince-king</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.theatlantic.com/culture/archive/2022/04/online-shopping-decline-pandemic/629482/?utm_source=feed</guid>
             <pubDate>Wed, 06 Apr 2022 13:26:17 GMT</pubDate>
             <description><![CDATA[The Resurrection of Retail]]></description>
-        </item>
-        <item>
-            <title><![CDATA[1.5度的目标几乎夭折]]></title>
-            <link>https://www.theatlantic.com/science/archive/2022/04/un-ipcc-1-5-degree-report-global-warming/629486/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/science/archive/2022/04/un-ipcc-1-5-degree-report-global-warming/629486/?utm_source=feed</guid>
-            <pubDate>Wed, 06 Apr 2022 12:16:57 GMT</pubDate>
-            <description><![CDATA[The 1.5-Degree Goal Is All But Dead]]></description>
-        </item>
-        <item>
-            <title><![CDATA[隐私并没有死，但会让你付出代价]]></title>
-            <link>https://www.theatlantic.com/magazine/archive/2022/05/privacy-law-technology-california-gajda-seek-and-hide/629373/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/magazine/archive/2022/05/privacy-law-technology-california-gajda-seek-and-hide/629373/?utm_source=feed</guid>
-            <pubDate>Wed, 06 Apr 2022 12:00:56 GMT</pubDate>
-            <description><![CDATA[Privacy Isn’t Dead, but It’ll Cost You]]></description>
         </item>
     </channel>
 </rss>
