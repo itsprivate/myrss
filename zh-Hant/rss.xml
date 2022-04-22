@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 22 Apr 2022 18:58:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 19:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Marjorie Taylor Greene聲稱她在1月6日被猶太飛船綁架了]]></title>
+            <link>https://www.newyorker.com/humor/borowitz-report/marjorie-taylor-greene-claims-she-was-abducted-by-jewish-spaceship-on-january-6th</link>
+            <guid>https://www.newyorker.com/humor/borowitz-report/marjorie-taylor-greene-claims-she-was-abducted-by-jewish-spaceship-on-january-6th</guid>
+            <pubDate>Fri, 22 Apr 2022 18:57:34 GMT</pubDate>
+            <description><![CDATA[Marjorie Taylor Greene Claims She Was Abducted by Jewish Spaceship on January 6th]]></description>
+        </item>
         <item>
             <title><![CDATA[麥康奈爾和麥卡錫是特朗普的蹩腳幫手，這不是新聞，但危險已經增加了]]></title>
             <link>https://www.newyorker.com/news/our-columnists/its-not-news-that-mcconnell-and-mccarthy-are-craven-patsies-for-trump-but-the-danger-has-grown</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/newsletters/archive/2022/04/bucha-russia-allegation-horror/629490/?utm_source=feed</guid>
             <pubDate>Wed, 06 Apr 2022 16:29:21 GMT</pubDate>
             <description><![CDATA[<em>The Atlantic </em>Daily: Scenes of Horror]]></description>
-        </item>
-        <item>
-            <title><![CDATA[垃圾郵件正在增加。以下是如何發現它以及如何處理的方法]]></title>
-            <link>https://www.nytimes.com/2022/04/06/technology/personaltech/text-scam-spam.html</link>
-            <guid>https://www.nytimes.com/2022/04/06/technology/personaltech/text-scam-spam.html</guid>
-            <pubDate>Wed, 06 Apr 2022 15:15:18 GMT</pubDate>
-            <description><![CDATA[Text Spam Is on the Rise. Here’s How to Spot It and What to Do]]></description>
         </item>
     </channel>
 </rss>

@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/humor/borowitz-report/marjorie-taylor-greene-claims-she-was-abducted-by-jewish-spaceship-on-january-6th",
+            "content_html": "",
+            "url": "https://www.newyorker.com/humor/borowitz-report/marjorie-taylor-greene-claims-she-was-abducted-by-jewish-spaceship-on-january-6th",
+            "title": "Marjorie Taylor Greene聲稱她在1月6日被猶太飛船綁架了",
+            "summary": "Marjorie Taylor Greene Claims She Was Abducted by Jewish Spaceship on January 6th",
+            "date_modified": "2022-04-22T18:57:34.000Z",
+            "author": {
+                "name": "Andy Borowitz",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/our-columnists/its-not-news-that-mcconnell-and-mccarthy-are-craven-patsies-for-trump-but-the-danger-has-grown",
             "content_html": "",
             "url": "https://www.newyorker.com/news/our-columnists/its-not-news-that-mcconnell-and-mccarthy-are-craven-patsies-for-trump-but-the-danger-has-grown",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Caroline Mimbs Nyce",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/04/06/technology/personaltech/text-scam-spam.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/04/06/technology/personaltech/text-scam-spam.html",
-            "title": "垃圾郵件正在增加。以下是如何發現它以及如何處理的方法",
-            "summary": "Text Spam Is on the Rise. Here’s How to Spot It and What to Do",
-            "date_modified": "2022-04-06T15:15:18.000Z",
-            "author": {
-                "name": "Brian X. Chen",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
     ]

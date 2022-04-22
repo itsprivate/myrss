@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-22T18:58:42.528Z</updated>
+    <updated>2022-04-22T19:11:35.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Marjorie Taylor Greene聲稱她在1月6日被猶太飛船綁架了]]></title>
+        <id>https://www.newyorker.com/humor/borowitz-report/marjorie-taylor-greene-claims-she-was-abducted-by-jewish-spaceship-on-january-6th</id>
+        <link href="https://www.newyorker.com/humor/borowitz-report/marjorie-taylor-greene-claims-she-was-abducted-by-jewish-spaceship-on-january-6th"/>
+        <updated>2022-04-22T18:57:34.000Z</updated>
+        <summary type="html"><![CDATA[Marjorie Taylor Greene Claims She Was Abducted by Jewish Spaceship on January 6th]]></summary>
+        <author>
+            <name>Andy Borowitz</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[麥康奈爾和麥卡錫是特朗普的蹩腳幫手，這不是新聞，但危險已經增加了]]></title>
         <id>https://www.newyorker.com/news/our-columnists/its-not-news-that-mcconnell-and-mccarthy-are-craven-patsies-for-trump-but-the-danger-has-grown</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Caroline Mimbs Nyce</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[垃圾郵件正在增加。以下是如何發現它以及如何處理的方法]]></title>
-        <id>https://www.nytimes.com/2022/04/06/technology/personaltech/text-scam-spam.html</id>
-        <link href="https://www.nytimes.com/2022/04/06/technology/personaltech/text-scam-spam.html"/>
-        <updated>2022-04-06T15:15:18.000Z</updated>
-        <summary type="html"><![CDATA[Text Spam Is on the Rise. Here’s How to Spot It and What to Do]]></summary>
-        <author>
-            <name>Brian X. Chen</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>
