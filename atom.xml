@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-22T23:43:52.097Z</updated>
+    <updated>2022-04-22T23:52:36.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[充满危险的关于运输面具任务的裁决]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/the-hazard-filled-ruling-on-the-transportation-mask-mandate</id>
+        <link href="https://www.newyorker.com/news/daily-comment/the-hazard-filled-ruling-on-the-transportation-mask-mandate"/>
+        <updated>2022-04-22T23:36:25.000Z</updated>
+        <summary type="html"><![CDATA[The Hazard-Filled Ruling on the Transportation Mask Mandate]]></summary>
+        <author>
+            <name>Amy Davidson Sorkin</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[警惕不假思索的希特勒比较]]></title>
+        <id>https://www.currentaffairs.org/2022/03/beware-thoughtless-hitler-comparisons/</id>
+        <link href="https://www.currentaffairs.org/2022/03/beware-thoughtless-hitler-comparisons/"/>
+        <updated>2022-03-28T16:10:01.000Z</updated>
+        <summary type="html"><![CDATA[Beware Thoughtless Hitler Comparisons]]></summary>
+        <author>
+            <name>Nathan J. Robinson</name>
+            <uri>https://www.currentaffairs.org/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[充满危险的关于运输面具任务的裁决]]></title>
         <id>https://www.newyorker.com/news/daily-comment/the-hazard-filled-ruling-on-the-transportation-mask-mandate</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[Why American Culture is So Disturbing]]></summary>
         <author>
             <name>Nathan J. Robinson</name>
-            <uri>https://www.currentaffairs.org/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在布查收集尸体]]></title>
-        <id>https://www.newyorker.com/news/dispatch/collecting-bodies-in-bucha</id>
-        <link href="https://www.newyorker.com/news/dispatch/collecting-bodies-in-bucha"/>
-        <updated>2022-04-06T20:05:08.000Z</updated>
-        <summary type="html"><![CDATA[Collecting Bodies in Bucha]]></summary>
-        <author>
-            <name>Luke Mogelson</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[组织起来反对高等教育中的掠夺行为]]></title>
-        <id>https://www.currentaffairs.org/2022/04/organizing-against-precarity-in-higher-education/</id>
-        <link href="https://www.currentaffairs.org/2022/04/organizing-against-precarity-in-higher-education/"/>
-        <updated>2022-04-06T16:28:35.000Z</updated>
-        <summary type="html"><![CDATA[Organizing Against Precarity in Higher Education]]></summary>
-        <author>
-            <name>Maggie Levantovskaya</name>
             <uri>https://www.currentaffairs.org/feed</uri>
         </author>
     </entry>
