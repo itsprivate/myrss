@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-22T03:07:40.800Z</updated>
+    <updated>2022-04-22T05:07:29.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[本週的照片。藍色森林、黃色田野、紅色海洋]]></title>
+        <id>https://www.theatlantic.com/photo/2022/04/photos-of-the-week-blue-forest-yellow-fields-red-sea/629641/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/photo/2022/04/photos-of-the-week-blue-forest-yellow-fields-red-sea/629641/?utm_source=feed"/>
+        <updated>2022-04-22T04:31:56.000Z</updated>
+        <summary type="html"><![CDATA[Photos of the Week: Blue Forest, Yellow Fields, Red Sea]]></summary>
+        <author>
+            <name>Alan Taylor</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[反對霍夫曼關於維生素D劑量的觀點]]></title>
         <id>https://astralcodexten.substack.com/p/contra-hoffman-on-vitamin-d-dosing</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[The New Yorker Wins Two National Magazine Awards]]></summary>
         <author>
             <name>The New Yorker</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[僱傭兵和外國戰士會改變烏克蘭的戰爭進程嗎？]]></title>
-        <id>https://www.newyorker.com/news/daily-comment/will-mercenaries-and-foreign-fighters-change-the-course-of-ukraines-war</id>
-        <link href="https://www.newyorker.com/news/daily-comment/will-mercenaries-and-foreign-fighters-change-the-course-of-ukraines-war"/>
-        <updated>2022-04-05T23:16:12.000Z</updated>
-        <summary type="html"><![CDATA[Will Mercenaries and Foreign Fighters Change the Course of Ukraine’s War?]]></summary>
-        <author>
-            <name>Robin Wright</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 22 Apr 2022 03:07:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 05:07:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[本週的照片。藍色森林、黃色田野、紅色海洋]]></title>
+            <link>https://www.theatlantic.com/photo/2022/04/photos-of-the-week-blue-forest-yellow-fields-red-sea/629641/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/photo/2022/04/photos-of-the-week-blue-forest-yellow-fields-red-sea/629641/?utm_source=feed</guid>
+            <pubDate>Fri, 22 Apr 2022 04:31:56 GMT</pubDate>
+            <description><![CDATA[Photos of the Week: Blue Forest, Yellow Fields, Red Sea]]></description>
+        </item>
         <item>
             <title><![CDATA[反對霍夫曼關於維生素D劑量的觀點]]></title>
             <link>https://astralcodexten.substack.com/p/contra-hoffman-on-vitamin-d-dosing</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/news/news-desk/the-new-yorker-wins-two-national-magazine-awards</guid>
             <pubDate>Wed, 06 Apr 2022 00:23:45 GMT</pubDate>
             <description><![CDATA[The New Yorker Wins Two National Magazine Awards]]></description>
-        </item>
-        <item>
-            <title><![CDATA[僱傭兵和外國戰士會改變烏克蘭的戰爭進程嗎？]]></title>
-            <link>https://www.newyorker.com/news/daily-comment/will-mercenaries-and-foreign-fighters-change-the-course-of-ukraines-war</link>
-            <guid>https://www.newyorker.com/news/daily-comment/will-mercenaries-and-foreign-fighters-change-the-course-of-ukraines-war</guid>
-            <pubDate>Tue, 05 Apr 2022 23:16:12 GMT</pubDate>
-            <description><![CDATA[Will Mercenaries and Foreign Fighters Change the Course of Ukraine’s War?]]></description>
         </item>
     </channel>
 </rss>
