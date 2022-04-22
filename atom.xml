@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-22T17:50:54.367Z</updated>
+    <updated>2022-04-22T18:15:58.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[初始条件]]></title>
+        <id>https://astralcodexten.substack.com/p/initial-conditions</id>
+        <link href="https://astralcodexten.substack.com/p/initial-conditions"/>
+        <updated>2022-04-22T17:55:34.000Z</updated>
+        <summary type="html"><![CDATA[Initial Conditions]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亲爱的佩珀。为懒惰者和成绩优秀者安排日程]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/dear-pepper-scheduling-slackers-and-overachievers</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/dear-pepper-scheduling-slackers-and-overachievers"/>
+        <updated>2022-04-22T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dear Pepper: Scheduling Slackers and Overachievers]]></summary>
+        <author>
+            <name>Liana Finck</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<em>《大西洋》</em>日报。让乌克兰加入北约的理由]]></title>
         <id>https://www.theatlantic.com/newsletters/archive/2022/04/let-ukraine-into-nato/629647/?utm_source=feed</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>The Atlantic</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[遇见达利，这个人工智能可以在你的命令下绘制任何东西]]></title>
-        <id>https://www.nytimes.com/2022/04/06/technology/openai-images-dall-e.html</id>
-        <link href="https://www.nytimes.com/2022/04/06/technology/openai-images-dall-e.html"/>
-        <updated>2022-04-06T14:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Meet DALL-E, the A.I. That Draws Anything at Your Command]]></summary>
-        <author>
-            <name>Cade Metz</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pinterest禁止帖子和广告中出现气候错误信息]]></title>
-        <id>https://www.nytimes.com/2022/04/06/technology/pinterest-climate-misinformation.html</id>
-        <link href="https://www.nytimes.com/2022/04/06/technology/pinterest-climate-misinformation.html"/>
-        <updated>2022-04-06T13:30:07.000Z</updated>
-        <summary type="html"><![CDATA[Pinterest Bans Climate Misinformation From Posts and Ads]]></summary>
-        <author>
-            <name>Tiffany Hsu</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>

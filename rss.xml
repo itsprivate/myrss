@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 22 Apr 2022 17:50:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 18:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[初始条件]]></title>
+            <link>https://astralcodexten.substack.com/p/initial-conditions</link>
+            <guid>https://astralcodexten.substack.com/p/initial-conditions</guid>
+            <pubDate>Fri, 22 Apr 2022 17:55:34 GMT</pubDate>
+            <description><![CDATA[Initial Conditions]]></description>
+        </item>
+        <item>
+            <title><![CDATA[亲爱的佩珀。为懒惰者和成绩优秀者安排日程]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/dear-pepper-scheduling-slackers-and-overachievers</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/dear-pepper-scheduling-slackers-and-overachievers</guid>
+            <pubDate>Fri, 22 Apr 2022 18:00:00 GMT</pubDate>
+            <description><![CDATA[Dear Pepper: Scheduling Slackers and Overachievers]]></description>
+        </item>
         <item>
             <title><![CDATA[<em>《大西洋》</em>日报。让乌克兰加入北约的理由]]></title>
             <link>https://www.theatlantic.com/newsletters/archive/2022/04/let-ukraine-into-nato/629647/?utm_source=feed</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.theatlantic.com/press-releases/archive/2022/04/atlantic-wins-general-excellence-2022-national-magazine-awards/629488/?utm_source=feed</guid>
             <pubDate>Wed, 06 Apr 2022 14:15:36 GMT</pubDate>
             <description><![CDATA[<em>The Atlantic</em> Wins General Excellence at 2022 National Magazine Awards]]></description>
-        </item>
-        <item>
-            <title><![CDATA[遇见达利，这个人工智能可以在你的命令下绘制任何东西]]></title>
-            <link>https://www.nytimes.com/2022/04/06/technology/openai-images-dall-e.html</link>
-            <guid>https://www.nytimes.com/2022/04/06/technology/openai-images-dall-e.html</guid>
-            <pubDate>Wed, 06 Apr 2022 14:00:12 GMT</pubDate>
-            <description><![CDATA[Meet DALL-E, the A.I. That Draws Anything at Your Command]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Pinterest禁止帖子和广告中出现气候错误信息]]></title>
-            <link>https://www.nytimes.com/2022/04/06/technology/pinterest-climate-misinformation.html</link>
-            <guid>https://www.nytimes.com/2022/04/06/technology/pinterest-climate-misinformation.html</guid>
-            <pubDate>Wed, 06 Apr 2022 13:30:07 GMT</pubDate>
-            <description><![CDATA[Pinterest Bans Climate Misinformation From Posts and Ads]]></description>
         </item>
     </channel>
 </rss>
