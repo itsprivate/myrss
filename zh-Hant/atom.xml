@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-22T14:53:49.286Z</updated>
+    <updated>2022-04-22T15:13:59.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[這個地球日，我們可以幫助環境和烏克蘭]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/this-earth-day-we-could-be-helping-the-environment-and-ukraine</id>
+        <link href="https://www.newyorker.com/news/daily-comment/this-earth-day-we-could-be-helping-the-environment-and-ukraine"/>
+        <updated>2022-04-22T14:42:40.000Z</updated>
+        <summary type="html"><![CDATA[This Earth Day, We Could Be Helping the Environment—and Ukraine]]></summary>
+        <author>
+            <name>Bill McKibben</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日漫畫。4月22日，星期五]]></title>
         <id>https://www.newyorker.com/cartoons/daily-cartoon/friday-april-22nd-earth-day</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Trump Hasn’t Out-Nixoned Nixon]]></summary>
         <author>
             <name>Tim Naftali</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯軍隊已淪為非人道行為]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/04/bucha-ukraine-bodies-russian-military-crimes/629485/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/04/bucha-ukraine-bodies-russian-military-crimes/629485/?utm_source=feed"/>
-        <updated>2022-04-06T10:00:56.000Z</updated>
-        <summary type="html"><![CDATA[The Russian Military Has Descended Into Inhumanity]]></summary>
-        <author>
-            <name>Andrew Exum</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
