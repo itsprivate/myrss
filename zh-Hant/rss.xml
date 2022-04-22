@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 22 Apr 2022 22:52:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 23:43:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[充滿危險的關於運輸面具任務的裁決]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/the-hazard-filled-ruling-on-the-transportation-mask-mandate</link>
+            <guid>https://www.newyorker.com/news/daily-comment/the-hazard-filled-ruling-on-the-transportation-mask-mandate</guid>
+            <pubDate>Fri, 22 Apr 2022 23:36:25 GMT</pubDate>
+            <description><![CDATA[The Hazard-Filled Ruling on the Transportation Mask Mandate]]></description>
+        </item>
+        <item>
+            <title><![CDATA[聯邦勞動委員會稱動視員工可以舉行工會選舉。]]></title>
+            <link>https://www.nytimes.com/2022/04/22/technology/activision-union-nlrb-raven.html</link>
+            <guid>https://www.nytimes.com/2022/04/22/technology/activision-union-nlrb-raven.html</guid>
+            <pubDate>Fri, 22 Apr 2022 23:35:07 GMT</pubDate>
+            <description><![CDATA[Federal labor board says Activision employees can hold a union election.]]></description>
+        </item>
         <item>
             <title><![CDATA[為印度科技高管鋪路的烏芒-古普塔去世，享年73歲]]></title>
             <link>https://www.nytimes.com/2022/04/22/technology/umang-gupta-dead.html</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.currentaffairs.org/2022/04/organizing-against-precarity-in-higher-education/</guid>
             <pubDate>Wed, 06 Apr 2022 16:28:35 GMT</pubDate>
             <description><![CDATA[Organizing Against Precarity in Higher Education]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在2022年觀看<em>人民的僕人<em>。]]></title>
-            <link>https://www.theatlantic.com/culture/archive/2022/04/servant-of-the-people-zelensky-netflix-show/629493/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/culture/archive/2022/04/servant-of-the-people-zelensky-netflix-show/629493/?utm_source=feed</guid>
-            <pubDate>Wed, 06 Apr 2022 18:37:33 GMT</pubDate>
-            <description><![CDATA[Watching <em>Servant of the People </em>in 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[<em>刺蝟索尼克2</em>將視頻遊戲的傳說變成了好萊塢的歡樂。]]></title>
-            <link>https://www.theatlantic.com/culture/archive/2022/04/sonic-the-hedgehog-2-movie-review/629492/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/culture/archive/2022/04/sonic-the-hedgehog-2-movie-review/629492/?utm_source=feed</guid>
-            <pubDate>Wed, 06 Apr 2022 18:41:32 GMT</pubDate>
-            <description><![CDATA[<em>Sonic the Hedgehog 2</em> Turns Video-Game Lore Into Hollywood Joy]]></description>
         </item>
     </channel>
 </rss>

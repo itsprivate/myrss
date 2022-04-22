@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/daily-comment/the-hazard-filled-ruling-on-the-transportation-mask-mandate",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/daily-comment/the-hazard-filled-ruling-on-the-transportation-mask-mandate",
+            "title": "充滿危險的關於運輸面具任務的裁決",
+            "summary": "The Hazard-Filled Ruling on the Transportation Mask Mandate",
+            "date_modified": "2022-04-22T23:36:25.000Z",
+            "author": {
+                "name": "Amy Davidson Sorkin",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/04/22/technology/activision-union-nlrb-raven.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/22/technology/activision-union-nlrb-raven.html",
+            "title": "聯邦勞動委員會稱動視員工可以舉行工會選舉。",
+            "summary": "Federal labor board says Activision employees can hold a union election.",
+            "date_modified": "2022-04-22T23:35:07.000Z",
+            "author": {
+                "name": "Kellen Browning",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/22/technology/umang-gupta-dead.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/22/technology/umang-gupta-dead.html",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "Maggie Levantovskaya",
                 "url": "https://www.currentaffairs.org/feed"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/culture/archive/2022/04/servant-of-the-people-zelensky-netflix-show/629493/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/culture/archive/2022/04/servant-of-the-people-zelensky-netflix-show/629493/?utm_source=feed",
-            "title": "在2022年觀看<em>人民的僕人<em>。",
-            "summary": "Watching <em>Servant of the People </em>in 2022",
-            "date_modified": "2022-04-06T18:37:33.000Z",
-            "author": {
-                "name": "Courtney Sender",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/culture/archive/2022/04/sonic-the-hedgehog-2-movie-review/629492/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/culture/archive/2022/04/sonic-the-hedgehog-2-movie-review/629492/?utm_source=feed",
-            "title": "<em>刺蝟索尼克2</em>將視頻遊戲的傳說變成了好萊塢的歡樂。",
-            "summary": "<em>Sonic the Hedgehog 2</em> Turns Video-Game Lore Into Hollywood Joy",
-            "date_modified": "2022-04-06T18:41:32.000Z",
-            "author": {
-                "name": "David Sims",
-                "url": "https://www.theatlantic.com/feed/all/"
             }
         }
     ]

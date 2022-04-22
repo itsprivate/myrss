@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-22T22:52:25.306Z</updated>
+    <updated>2022-04-22T23:43:52.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[充滿危險的關於運輸面具任務的裁決]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/the-hazard-filled-ruling-on-the-transportation-mask-mandate</id>
+        <link href="https://www.newyorker.com/news/daily-comment/the-hazard-filled-ruling-on-the-transportation-mask-mandate"/>
+        <updated>2022-04-22T23:36:25.000Z</updated>
+        <summary type="html"><![CDATA[The Hazard-Filled Ruling on the Transportation Mask Mandate]]></summary>
+        <author>
+            <name>Amy Davidson Sorkin</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聯邦勞動委員會稱動視員工可以舉行工會選舉。]]></title>
+        <id>https://www.nytimes.com/2022/04/22/technology/activision-union-nlrb-raven.html</id>
+        <link href="https://www.nytimes.com/2022/04/22/technology/activision-union-nlrb-raven.html"/>
+        <updated>2022-04-22T23:35:07.000Z</updated>
+        <summary type="html"><![CDATA[Federal labor board says Activision employees can hold a union election.]]></summary>
+        <author>
+            <name>Kellen Browning</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為印度科技高管鋪路的烏芒-古普塔去世，享年73歲]]></title>
         <id>https://www.nytimes.com/2022/04/22/technology/umang-gupta-dead.html</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Maggie Levantovskaya</name>
             <uri>https://www.currentaffairs.org/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在2022年觀看<em>人民的僕人<em>。]]></title>
-        <id>https://www.theatlantic.com/culture/archive/2022/04/servant-of-the-people-zelensky-netflix-show/629493/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/culture/archive/2022/04/servant-of-the-people-zelensky-netflix-show/629493/?utm_source=feed"/>
-        <updated>2022-04-06T18:37:33.000Z</updated>
-        <summary type="html"><![CDATA[Watching <em>Servant of the People </em>in 2022]]></summary>
-        <author>
-            <name>Courtney Sender</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<em>刺蝟索尼克2</em>將視頻遊戲的傳說變成了好萊塢的歡樂。]]></title>
-        <id>https://www.theatlantic.com/culture/archive/2022/04/sonic-the-hedgehog-2-movie-review/629492/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/culture/archive/2022/04/sonic-the-hedgehog-2-movie-review/629492/?utm_source=feed"/>
-        <updated>2022-04-06T18:41:32.000Z</updated>
-        <summary type="html"><![CDATA[<em>Sonic the Hedgehog 2</em> Turns Video-Game Lore Into Hollywood Joy]]></summary>
-        <author>
-            <name>David Sims</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
