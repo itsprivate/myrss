@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/our-columnists/its-not-news-that-mcconnell-and-mccarthy-are-craven-patsies-for-trump-but-the-danger-has-grown",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/our-columnists/its-not-news-that-mcconnell-and-mccarthy-are-craven-patsies-for-trump-but-the-danger-has-grown",
+            "title": "麥康奈爾和麥卡錫是特朗普的蹩腳幫手，這不是新聞，但危險已經增加了",
+            "summary": "It’s Not News That McConnell and McCarthy Are Craven Patsies for Trump, but the Danger Has Grown",
+            "date_modified": "2022-04-22T18:25:10.000Z",
+            "author": {
+                "name": "John Cassidy",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
             "id": "https://astralcodexten.substack.com/p/initial-conditions",
             "content_html": "",
             "url": "https://astralcodexten.substack.com/p/initial-conditions",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "David Sipress",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/press-releases/archive/2022/04/atlantic-wins-general-excellence-2022-national-magazine-awards/629488/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/press-releases/archive/2022/04/atlantic-wins-general-excellence-2022-national-magazine-awards/629488/?utm_source=feed",
-            "title": "<em>《大西洋》</em>在2022年國家雜誌獎中獲得綜合優秀獎",
-            "summary": "<em>The Atlantic</em> Wins General Excellence at 2022 National Magazine Awards",
-            "date_modified": "2022-04-06T14:15:36.000Z",
-            "author": {
-                "name": "The Atlantic",
-                "url": "https://www.theatlantic.com/feed/all/"
             }
         }
     ]

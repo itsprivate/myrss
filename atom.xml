@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-22T18:15:58.488Z</updated>
+    <updated>2022-04-22T18:40:30.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[麦康奈尔和麦卡锡是特朗普的蹩脚帮手，这不是新闻，但危险已经增加了]]></title>
+        <id>https://www.newyorker.com/news/our-columnists/its-not-news-that-mcconnell-and-mccarthy-are-craven-patsies-for-trump-but-the-danger-has-grown</id>
+        <link href="https://www.newyorker.com/news/our-columnists/its-not-news-that-mcconnell-and-mccarthy-are-craven-patsies-for-trump-but-the-danger-has-grown"/>
+        <updated>2022-04-22T18:25:10.000Z</updated>
+        <summary type="html"><![CDATA[It’s Not News That McConnell and McCarthy Are Craven Patsies for Trump, but the Danger Has Grown]]></summary>
+        <author>
+            <name>John Cassidy</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[初始条件]]></title>
         <id>https://astralcodexten.substack.com/p/initial-conditions</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>David Sipress</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<em>《大西洋》</em>在2022年国家杂志奖中获得综合优秀奖]]></title>
-        <id>https://www.theatlantic.com/press-releases/archive/2022/04/atlantic-wins-general-excellence-2022-national-magazine-awards/629488/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/press-releases/archive/2022/04/atlantic-wins-general-excellence-2022-national-magazine-awards/629488/?utm_source=feed"/>
-        <updated>2022-04-06T14:15:36.000Z</updated>
-        <summary type="html"><![CDATA[<em>The Atlantic</em> Wins General Excellence at 2022 National Magazine Awards]]></summary>
-        <author>
-            <name>The Atlantic</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
