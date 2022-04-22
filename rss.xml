@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 21 Apr 2022 23:33:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 03:07:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[反对霍夫曼关于维生素D剂量的观点]]></title>
+            <link>https://astralcodexten.substack.com/p/contra-hoffman-on-vitamin-d-dosing</link>
+            <guid>https://astralcodexten.substack.com/p/contra-hoffman-on-vitamin-d-dosing</guid>
+            <pubDate>Fri, 22 Apr 2022 01:47:37 GMT</pubDate>
+            <description><![CDATA[Contra Hoffman On Vitamin D Dosing]]></description>
+        </item>
         <item>
             <title><![CDATA[俄罗斯军队是一只纸老虎吗？]]></title>
             <link>https://www.newyorker.com/news/q-and-a/is-the-russian-military-a-paper-tiger</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/news/daily-comment/will-mercenaries-and-foreign-fighters-change-the-course-of-ukraines-war</guid>
             <pubDate>Tue, 05 Apr 2022 23:16:12 GMT</pubDate>
             <description><![CDATA[Will Mercenaries and Foreign Fighters Change the Course of Ukraine’s War?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[裸鼹鼠有一个非常奇怪的地位象征]]></title>
-            <link>https://www.theatlantic.com/science/archive/2022/04/naked-mole-rat-spleen-immunity/629484/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/science/archive/2022/04/naked-mole-rat-spleen-immunity/629484/?utm_source=feed</guid>
-            <pubDate>Tue, 05 Apr 2022 23:00:56 GMT</pubDate>
-            <description><![CDATA[Naked Mole Rats Have a Very Strange Status Symbol]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-21T23:33:00.228Z</updated>
+    <updated>2022-04-22T03:07:40.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[反對霍夫曼關於維生素D劑量的觀點]]></title>
+        <id>https://astralcodexten.substack.com/p/contra-hoffman-on-vitamin-d-dosing</id>
+        <link href="https://astralcodexten.substack.com/p/contra-hoffman-on-vitamin-d-dosing"/>
+        <updated>2022-04-22T01:47:37.000Z</updated>
+        <summary type="html"><![CDATA[Contra Hoffman On Vitamin D Dosing]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄羅斯軍隊是一隻紙老虎嗎？]]></title>
         <id>https://www.newyorker.com/news/q-and-a/is-the-russian-military-a-paper-tiger</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Robin Wright</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[裸鼴鼠有一個非常奇怪的地位象徵]]></title>
-        <id>https://www.theatlantic.com/science/archive/2022/04/naked-mole-rat-spleen-immunity/629484/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/science/archive/2022/04/naked-mole-rat-spleen-immunity/629484/?utm_source=feed"/>
-        <updated>2022-04-05T23:00:56.000Z</updated>
-        <summary type="html"><![CDATA[Naked Mole Rats Have a Very Strange Status Symbol]]></summary>
-        <author>
-            <name>Katherine J. Wu</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
