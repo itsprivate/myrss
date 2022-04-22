@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/22/technology/european-union-social-media-law.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/22/technology/european-union-social-media-law.html",
+            "title": "歐盟通過具有里程碑意義的新法律打擊社交媒體的危害性",
+            "summary": "E.U. Takes Aim at Social Media’s Harms With Landmark New Law",
+            "date_modified": "2022-04-22T09:00:17.000Z",
+            "author": {
+                "name": "Adam Satariano",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/04/22/technology/tech-regulation-europe-us.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/22/technology/tech-regulation-europe-us.html",
+            "title": "歐洲批准新科技法，美國進一步落後",
+            "summary": "As Europe Approves New Tech Laws, the U.S. Falls Further Behind",
+            "date_modified": "2022-04-22T09:00:18.000Z",
+            "author": {
+                "name": "Cecilia Kang",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/podcasts/archive/2022/04/resurgence-abortion-underground/629642/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/podcasts/archive/2022/04/resurgence-abortion-underground/629642/?utm_source=feed",
@@ -7183,30 +7207,6 @@
             "date_modified": "2022-04-04T10:00:00.000Z",
             "author": {
                 "name": "Peter Schjeldahl",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/04/11/the-literature-of-cabin-fever",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/04/11/the-literature-of-cabin-fever",
-            "title": "機艙熱的文獻",
-            "summary": "The Literature of Cabin Fever",
-            "date_modified": "2022-04-04T10:00:00.000Z",
-            "author": {
-                "name": "Ian Frazier",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/04/11/in-russian-doll-natasha-lyonne-barrels-into-the-past",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/04/11/in-russian-doll-natasha-lyonne-barrels-into-the-past",
-            "title": "在《俄羅斯娃娃》中，娜塔莎-里昂娜嚮往著過去。",
-            "summary": "In “Russian Doll,” Natasha Lyonne Barrels Into the Past",
-            "date_modified": "2022-04-04T10:00:00.000Z",
-            "author": {
-                "name": "Rachel Syme",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

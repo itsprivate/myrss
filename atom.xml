@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-22T08:16:04.630Z</updated>
+    <updated>2022-04-22T09:14:07.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[欧盟通过具有里程碑意义的新法律打击社交媒体的危害性]]></title>
+        <id>https://www.nytimes.com/2022/04/22/technology/european-union-social-media-law.html</id>
+        <link href="https://www.nytimes.com/2022/04/22/technology/european-union-social-media-law.html"/>
+        <updated>2022-04-22T09:00:17.000Z</updated>
+        <summary type="html"><![CDATA[E.U. Takes Aim at Social Media’s Harms With Landmark New Law]]></summary>
+        <author>
+            <name>Adam Satariano</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧洲批准新科技法，美国进一步落后]]></title>
+        <id>https://www.nytimes.com/2022/04/22/technology/tech-regulation-europe-us.html</id>
+        <link href="https://www.nytimes.com/2022/04/22/technology/tech-regulation-europe-us.html"/>
+        <updated>2022-04-22T09:00:18.000Z</updated>
+        <summary type="html"><![CDATA[As Europe Approves New Tech Laws, the U.S. Falls Further Behind]]></summary>
+        <author>
+            <name>Cecilia Kang</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<em>实验</em>播报。地下堕胎的重新兴起]]></title>
         <id>https://www.theatlantic.com/podcasts/archive/2022/04/resurgence-abortion-underground/629642/?utm_source=feed</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[A Coherent and Bold Whitney Biennial]]></summary>
         <author>
             <name>Peter Schjeldahl</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[机舱热的文献]]></title>
-        <id>https://www.newyorker.com/magazine/2022/04/11/the-literature-of-cabin-fever</id>
-        <link href="https://www.newyorker.com/magazine/2022/04/11/the-literature-of-cabin-fever"/>
-        <updated>2022-04-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Literature of Cabin Fever]]></summary>
-        <author>
-            <name>Ian Frazier</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在《俄罗斯娃娃》中，娜塔莎-里昂娜向往着过去。]]></title>
-        <id>https://www.newyorker.com/magazine/2022/04/11/in-russian-doll-natasha-lyonne-barrels-into-the-past</id>
-        <link href="https://www.newyorker.com/magazine/2022/04/11/in-russian-doll-natasha-lyonne-barrels-into-the-past"/>
-        <updated>2022-04-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In “Russian Doll,” Natasha Lyonne Barrels Into the Past]]></summary>
-        <author>
-            <name>Rachel Syme</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

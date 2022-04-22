@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 22 Apr 2022 08:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 09:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[歐盟通過具有里程碑意義的新法律打擊社交媒體的危害性]]></title>
+            <link>https://www.nytimes.com/2022/04/22/technology/european-union-social-media-law.html</link>
+            <guid>https://www.nytimes.com/2022/04/22/technology/european-union-social-media-law.html</guid>
+            <pubDate>Fri, 22 Apr 2022 09:00:17 GMT</pubDate>
+            <description><![CDATA[E.U. Takes Aim at Social Media’s Harms With Landmark New Law]]></description>
+        </item>
+        <item>
+            <title><![CDATA[歐洲批准新科技法，美國進一步落後]]></title>
+            <link>https://www.nytimes.com/2022/04/22/technology/tech-regulation-europe-us.html</link>
+            <guid>https://www.nytimes.com/2022/04/22/technology/tech-regulation-europe-us.html</guid>
+            <pubDate>Fri, 22 Apr 2022 09:00:18 GMT</pubDate>
+            <description><![CDATA[As Europe Approves New Tech Laws, the U.S. Falls Further Behind]]></description>
+        </item>
         <item>
             <title><![CDATA[<em>實驗</em>播報。地下墮胎的重新興起]]></title>
             <link>https://www.theatlantic.com/podcasts/archive/2022/04/resurgence-abortion-underground/629642/?utm_source=feed</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/magazine/2022/04/11/a-coherent-and-bold-whitney-biennial</guid>
             <pubDate>Mon, 04 Apr 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[A Coherent and Bold Whitney Biennial]]></description>
-        </item>
-        <item>
-            <title><![CDATA[機艙熱的文獻]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/11/the-literature-of-cabin-fever</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/11/the-literature-of-cabin-fever</guid>
-            <pubDate>Mon, 04 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Literature of Cabin Fever]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在《俄羅斯娃娃》中，娜塔莎-里昂娜嚮往著過去。]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/11/in-russian-doll-natasha-lyonne-barrels-into-the-past</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/11/in-russian-doll-natasha-lyonne-barrels-into-the-past</guid>
-            <pubDate>Mon, 04 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[In “Russian Doll,” Natasha Lyonne Barrels Into the Past]]></description>
         </item>
     </channel>
 </rss>
