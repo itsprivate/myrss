@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-22T10:15:16.537Z</updated>
+    <updated>2022-04-22T10:40:10.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一名士兵在烏克蘭失蹤，他的父親能否找到他？]]></title>
+        <id>https://www.newyorker.com/video/watch/i-never-had-dreams-of-my-son</id>
+        <link href="https://www.newyorker.com/video/watch/i-never-had-dreams-of-my-son"/>
+        <updated>2022-03-09T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Soldier Goes Missing in Ukraine—Can His Father Find Him?]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[信。匈牙利為歐爾班的再次當選進行辯護]]></title>
+        <id>https://www.theatlantic.com/letters/archive/2022/04/hungary-parliamentary-elections-viktor-orban/629621/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/letters/archive/2022/04/hungary-parliamentary-elections-viktor-orban/629621/?utm_source=feed"/>
+        <updated>2022-04-22T10:01:56.000Z</updated>
+        <summary type="html"><![CDATA[Letter: Hungary Defends Orbán’s Reelection]]></summary>
+        <author>
+            <name>The Atlantic</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不要讓社區有發言權]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/local-government-community-input-housing-public-transportation/629625/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/local-government-community-input-housing-public-transportation/629625/?utm_source=feed"/>
+        <updated>2022-04-22T10:01:56.000Z</updated>
+        <summary type="html"><![CDATA[Don’t Let the Community Have a Say]]></summary>
+        <author>
+            <name>Jerusalem Demsas</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[落名。2022年4月22日，星期五]]></title>
         <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/22</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>unknown</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何在互聯網上被追蹤的？]]></title>
-        <id>https://www.nytimes.com/2022/04/06/technology/online-tracking-privacy.html</id>
-        <link href="https://www.nytimes.com/2022/04/06/technology/online-tracking-privacy.html"/>
-        <updated>2022-04-06T09:00:27.000Z</updated>
-        <summary type="html"><![CDATA[How You’re Still Being Tracked on the Internet]]></summary>
-        <author>
-            <name>Brian X. Chen and Daisuke Wakabayashi</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meme股票和比特幣不會重新分配財富]]></title>
-        <id>https://noahpinion.substack.com/p/meme-stocks-and-bitcoin-will-not</id>
-        <link href="https://noahpinion.substack.com/p/meme-stocks-and-bitcoin-will-not"/>
-        <updated>2022-04-06T07:01:59.000Z</updated>
-        <summary type="html"><![CDATA[Meme stocks and Bitcoin will not redistribute wealth]]></summary>
-        <author>
-            <name>Noah Smith</name>
-            <uri>https://noahpinion.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於自決權的評論要點]]></title>
-        <id>https://astralcodexten.substack.com/p/highlights-from-the-comments-on-self</id>
-        <link href="https://astralcodexten.substack.com/p/highlights-from-the-comments-on-self"/>
-        <updated>2022-04-06T06:21:54.000Z</updated>
-        <summary type="html"><![CDATA[Highlights From The Comments On Self-Determination]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
         </author>
     </entry>
 </feed>

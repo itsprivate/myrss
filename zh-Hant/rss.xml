@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 22 Apr 2022 10:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 10:40:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一名士兵在烏克蘭失蹤，他的父親能否找到他？]]></title>
+            <link>https://www.newyorker.com/video/watch/i-never-had-dreams-of-my-son</link>
+            <guid>https://www.newyorker.com/video/watch/i-never-had-dreams-of-my-son</guid>
+            <pubDate>Wed, 09 Mar 2022 11:00:00 GMT</pubDate>
+            <description><![CDATA[A Soldier Goes Missing in Ukraine—Can His Father Find Him?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[信。匈牙利為歐爾班的再次當選進行辯護]]></title>
+            <link>https://www.theatlantic.com/letters/archive/2022/04/hungary-parliamentary-elections-viktor-orban/629621/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/letters/archive/2022/04/hungary-parliamentary-elections-viktor-orban/629621/?utm_source=feed</guid>
+            <pubDate>Fri, 22 Apr 2022 10:01:56 GMT</pubDate>
+            <description><![CDATA[Letter: Hungary Defends Orbán’s Reelection]]></description>
+        </item>
+        <item>
+            <title><![CDATA[不要讓社區有發言權]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/local-government-community-input-housing-public-transportation/629625/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/local-government-community-input-housing-public-transportation/629625/?utm_source=feed</guid>
+            <pubDate>Fri, 22 Apr 2022 10:01:56 GMT</pubDate>
+            <description><![CDATA[Don’t Let the Community Have a Say]]></description>
+        </item>
         <item>
             <title><![CDATA[落名。2022年4月22日，星期五]]></title>
             <link>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/22</link>
@@ -4192,27 +4213,6 @@
             <guid>https://www.newyorker.com/culture/the-new-yorker-documentary/the-many-secrets-of-jamaica-bay-in-greywater</guid>
             <pubDate>Wed, 06 Apr 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[The Many Secrets of Jamaica Bay in “Greywater”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你是如何在互聯網上被追蹤的？]]></title>
-            <link>https://www.nytimes.com/2022/04/06/technology/online-tracking-privacy.html</link>
-            <guid>https://www.nytimes.com/2022/04/06/technology/online-tracking-privacy.html</guid>
-            <pubDate>Wed, 06 Apr 2022 09:00:27 GMT</pubDate>
-            <description><![CDATA[How You’re Still Being Tracked on the Internet]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Meme股票和比特幣不會重新分配財富]]></title>
-            <link>https://noahpinion.substack.com/p/meme-stocks-and-bitcoin-will-not</link>
-            <guid>https://noahpinion.substack.com/p/meme-stocks-and-bitcoin-will-not</guid>
-            <pubDate>Wed, 06 Apr 2022 07:01:59 GMT</pubDate>
-            <description><![CDATA[Meme stocks and Bitcoin will not redistribute wealth]]></description>
-        </item>
-        <item>
-            <title><![CDATA[關於自決權的評論要點]]></title>
-            <link>https://astralcodexten.substack.com/p/highlights-from-the-comments-on-self</link>
-            <guid>https://astralcodexten.substack.com/p/highlights-from-the-comments-on-self</guid>
-            <pubDate>Wed, 06 Apr 2022 06:21:54 GMT</pubDate>
-            <description><![CDATA[Highlights From The Comments On Self-Determination]]></description>
         </item>
     </channel>
 </rss>
