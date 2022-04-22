@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 22 Apr 2022 05:07:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 06:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[马克龙的胜利是不够的]]></title>
+            <link>https://www.theatlantic.com/international/archive/2022/04/macron-win-france-election-far-right/629626/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/international/archive/2022/04/macron-win-france-election-far-right/629626/?utm_source=feed</guid>
+            <pubDate>Fri, 22 Apr 2022 06:01:56 GMT</pubDate>
+            <description><![CDATA[A Macron Victory Isn’t Enough]]></description>
+        </item>
         <item>
             <title><![CDATA[本周的照片。蓝色森林、黄色田野、红色海洋]]></title>
             <link>https://www.theatlantic.com/photo/2022/04/photos-of-the-week-blue-forest-yellow-fields-red-sea/629641/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.currentaffairs.org/2022/03/why-doesnt-california-solve-its-housing-crisis-by-building-some-new-cities/</guid>
             <pubDate>Mon, 14 Mar 2022 23:46:42 GMT</pubDate>
             <description><![CDATA[Why Doesn’t California Solve Its Housing Crisis By Building Some New Cities?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[纽约客》获得两项国家杂志奖]]></title>
-            <link>https://www.newyorker.com/news/news-desk/the-new-yorker-wins-two-national-magazine-awards</link>
-            <guid>https://www.newyorker.com/news/news-desk/the-new-yorker-wins-two-national-magazine-awards</guid>
-            <pubDate>Wed, 06 Apr 2022 00:23:45 GMT</pubDate>
-            <description><![CDATA[The New Yorker Wins Two National Magazine Awards]]></description>
         </item>
     </channel>
 </rss>

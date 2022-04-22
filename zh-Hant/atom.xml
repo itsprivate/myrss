@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-22T05:07:29.656Z</updated>
+    <updated>2022-04-22T06:15:50.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[馬克龍的勝利是不夠的]]></title>
+        <id>https://www.theatlantic.com/international/archive/2022/04/macron-win-france-election-far-right/629626/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/international/archive/2022/04/macron-win-france-election-far-right/629626/?utm_source=feed"/>
+        <updated>2022-04-22T06:01:56.000Z</updated>
+        <summary type="html"><![CDATA[A Macron Victory Isn’t Enough]]></summary>
+        <author>
+            <name>Tom McTague</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本週的照片。藍色森林、黃色田野、紅色海洋]]></title>
         <id>https://www.theatlantic.com/photo/2022/04/photos-of-the-week-blue-forest-yellow-fields-red-sea/629641/?utm_source=feed</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Nathan J. Robinson</name>
             <uri>https://www.currentaffairs.org/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[紐約客》獲得兩項國家雜誌獎]]></title>
-        <id>https://www.newyorker.com/news/news-desk/the-new-yorker-wins-two-national-magazine-awards</id>
-        <link href="https://www.newyorker.com/news/news-desk/the-new-yorker-wins-two-national-magazine-awards"/>
-        <updated>2022-04-06T00:23:45.000Z</updated>
-        <summary type="html"><![CDATA[The New Yorker Wins Two National Magazine Awards]]></summary>
-        <author>
-            <name>The New Yorker</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
