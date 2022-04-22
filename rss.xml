@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 22 Apr 2022 14:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 14:53:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[每日漫画。4月22日，星期五]]></title>
+            <link>https://www.newyorker.com/cartoons/daily-cartoon/friday-april-22nd-earth-day</link>
+            <guid>https://www.newyorker.com/cartoons/daily-cartoon/friday-april-22nd-earth-day</guid>
+            <pubDate>Fri, 22 Apr 2022 14:39:18 GMT</pubDate>
+            <description><![CDATA[Daily Cartoon: Friday, April 22nd]]></description>
+        </item>
+        <item>
+            <title><![CDATA[这个地球日，我们可以帮助环境和乌克兰]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/this-earth-day-we-could-be-helping-the-environment-and-ukraine</link>
+            <guid>https://www.newyorker.com/news/daily-comment/this-earth-day-we-could-be-helping-the-environment-and-ukraine</guid>
+            <pubDate>Fri, 22 Apr 2022 14:42:40 GMT</pubDate>
+            <description><![CDATA[This Earth Day, We Could Be Helping the Environment—and Ukraine]]></description>
+        </item>
+        <item>
+            <title><![CDATA[足够老》的温和刺激，一部关于学步儿童跑腿的节目]]></title>
+            <link>https://www.newyorker.com/culture/on-television/the-gentle-thrills-of-old-enough-a-show-about-toddlers-running-errands</link>
+            <guid>https://www.newyorker.com/culture/on-television/the-gentle-thrills-of-old-enough-a-show-about-toddlers-running-errands</guid>
+            <pubDate>Fri, 22 Apr 2022 14:30:23 GMT</pubDate>
+            <description><![CDATA[The Gentle Thrills of “Old Enough,” a Show About Toddlers Running Errands]]></description>
+        </item>
         <item>
             <title><![CDATA[动物的内在生活]]></title>
             <link>https://www.theatlantic.com/books/archive/2022/04/books-briefing-v-s-naipaul-jack-e-davis/629618/?utm_source=feed</link>
@@ -4192,27 +4213,6 @@
             <guid>https://www.theatlantic.com/ideas/archive/2022/04/bucha-ukraine-bodies-russian-military-crimes/629485/?utm_source=feed</guid>
             <pubDate>Wed, 06 Apr 2022 10:00:56 GMT</pubDate>
             <description><![CDATA[The Russian Military Has Descended Into Inhumanity]]></description>
-        </item>
-        <item>
-            <title><![CDATA[克里斯蒂安-维曼阅读帕特里夏-卡沃利的文章]]></title>
-            <link>https://www.newyorker.com/podcast/poetry/christian-wiman-reads-patrizia-cavalli</link>
-            <guid>https://www.newyorker.com/podcast/poetry/christian-wiman-reads-patrizia-cavalli</guid>
-            <pubDate>Wed, 06 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Christian Wiman Reads Patrizia Cavalli]]></description>
-        </item>
-        <item>
-            <title><![CDATA[警告。以下影片含有你的父母可能见过的演员]]></title>
-            <link>https://www.newyorker.com/humor/daily-shouts/warning-the-following-film-contains-actors-your-parents-may-have-seen-before</link>
-            <guid>https://www.newyorker.com/humor/daily-shouts/warning-the-following-film-contains-actors-your-parents-may-have-seen-before</guid>
-            <pubDate>Wed, 06 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Warning: The Following Film Contains Actors Your Parents May Have Seen Before]]></description>
-        </item>
-        <item>
-            <title><![CDATA[落名：2022年4月6日，星期三]]></title>
-            <link>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022-04-06</link>
-            <guid>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022-04-06</guid>
-            <pubDate>Wed, 06 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Name Drop: Wednesday, April 6, 2022]]></description>
         </item>
     </channel>
 </rss>
