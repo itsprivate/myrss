@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/newsletters/archive/2022/04/let-ukraine-into-nato/629647/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/newsletters/archive/2022/04/let-ukraine-into-nato/629647/?utm_source=feed",
+            "title": "<em>《大西洋》</em>日報。讓烏克蘭加入北約的理由",
+            "summary": "<em>The Atlantic</em> Daily: The Case for Letting Ukraine Into NATO",
+            "date_modified": "2022-04-22T17:17:57.000Z",
+            "author": {
+                "name": "Rachel Gutman",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.currentaffairs.org/2022/04/how-the-amazon-labor-union-defeated-the-bezos-behemoth/",
             "content_html": "",
             "url": "https://www.currentaffairs.org/2022/04/how-the-amazon-labor-union-defeated-the-bezos-behemoth/",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Tiffany Hsu",
                 "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/culture/archive/2022/04/online-shopping-decline-pandemic/629482/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/culture/archive/2022/04/online-shopping-decline-pandemic/629482/?utm_source=feed",
-            "title": "零售業的復活",
-            "summary": "The Resurrection of Retail",
-            "date_modified": "2022-04-06T13:26:17.000Z",
-            "author": {
-                "name": "Allie Volpe",
-                "url": "https://www.theatlantic.com/feed/all/"
             }
         }
     ]
