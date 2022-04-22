@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-22T10:40:10.502Z</updated>
+    <updated>2022-04-22T11:12:10.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国性治安的深层根源]]></title>
+        <id>https://www.theatlantic.com/books/archive/2022/04/police-sexual-policing-streets-belong-to-us-review/629611/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/books/archive/2022/04/police-sexual-policing-streets-belong-to-us-review/629611/?utm_source=feed"/>
+        <updated>2022-04-22T11:01:56.000Z</updated>
+        <summary type="html"><![CDATA[The Deep Roots of Sexual Policing in America]]></summary>
+        <author>
+            <name>Sarah A. Seo</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一名士兵在乌克兰失踪，他的父亲能否找到他？]]></title>
         <id>https://www.newyorker.com/video/watch/i-never-had-dreams-of-my-son</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Bruce Willis’s Minimalist Star Power]]></summary>
         <author>
             <name>Adam Nayman</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[牙买加湾 "灰水 "中的许多秘密]]></title>
-        <id>https://www.newyorker.com/culture/the-new-yorker-documentary/the-many-secrets-of-jamaica-bay-in-greywater</id>
-        <link href="https://www.newyorker.com/culture/the-new-yorker-documentary/the-many-secrets-of-jamaica-bay-in-greywater"/>
-        <updated>2022-04-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Many Secrets of Jamaica Bay in “Greywater”]]></summary>
-        <author>
-            <name>unknown</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

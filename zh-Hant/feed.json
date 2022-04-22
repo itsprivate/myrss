@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/books/archive/2022/04/police-sexual-policing-streets-belong-to-us-review/629611/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/books/archive/2022/04/police-sexual-policing-streets-belong-to-us-review/629611/?utm_source=feed",
+            "title": "美國性治安的深層根源",
+            "summary": "The Deep Roots of Sexual Policing in America",
+            "date_modified": "2022-04-22T11:01:56.000Z",
+            "author": {
+                "name": "Sarah A. Seo",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/video/watch/i-never-had-dreams-of-my-son",
             "content_html": "",
             "url": "https://www.newyorker.com/video/watch/i-never-had-dreams-of-my-son",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-04-06T10:00:00.000Z",
             "author": {
                 "name": "Adam Nayman",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/the-new-yorker-documentary/the-many-secrets-of-jamaica-bay-in-greywater",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/the-new-yorker-documentary/the-many-secrets-of-jamaica-bay-in-greywater",
-            "title": "牙買加灣 \"灰水 \"中的許多秘密",
-            "summary": "The Many Secrets of Jamaica Bay in “Greywater”",
-            "date_modified": "2022-04-06T10:00:00.000Z",
-            "author": {
-                "name": "unknown",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

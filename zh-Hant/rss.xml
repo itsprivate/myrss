@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 22 Apr 2022 10:40:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 11:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[美國性治安的深層根源]]></title>
+            <link>https://www.theatlantic.com/books/archive/2022/04/police-sexual-policing-streets-belong-to-us-review/629611/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/books/archive/2022/04/police-sexual-policing-streets-belong-to-us-review/629611/?utm_source=feed</guid>
+            <pubDate>Fri, 22 Apr 2022 11:01:56 GMT</pubDate>
+            <description><![CDATA[The Deep Roots of Sexual Policing in America]]></description>
+        </item>
         <item>
             <title><![CDATA[一名士兵在烏克蘭失蹤，他的父親能否找到他？]]></title>
             <link>https://www.newyorker.com/video/watch/i-never-had-dreams-of-my-son</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/culture/cultural-comment/bruce-williss-minimalist-star-power</guid>
             <pubDate>Wed, 06 Apr 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Bruce Willis’s Minimalist Star Power]]></description>
-        </item>
-        <item>
-            <title><![CDATA[牙買加灣 "灰水 "中的許多秘密]]></title>
-            <link>https://www.newyorker.com/culture/the-new-yorker-documentary/the-many-secrets-of-jamaica-bay-in-greywater</link>
-            <guid>https://www.newyorker.com/culture/the-new-yorker-documentary/the-many-secrets-of-jamaica-bay-in-greywater</guid>
-            <pubDate>Wed, 06 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Many Secrets of Jamaica Bay in “Greywater”]]></description>
         </item>
     </channel>
 </rss>
