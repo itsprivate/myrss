@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-22T19:11:35.211Z</updated>
+    <updated>2022-04-22T20:36:08.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[羅南-法羅談間諜軟件的威脅；另外，維奧拉-戴維斯]]></title>
+        <id>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/ronan-farrow-on-the-threat-of-spyware-plus-viola-davis</id>
+        <link href="https://www.newyorker.com/podcast/the-new-yorker-radio-hour/ronan-farrow-on-the-threat-of-spyware-plus-viola-davis"/>
+        <updated>2022-04-22T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ronan Farrow on the Threat of Spyware; Plus, Viola Davis]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["星期六小說"，評論。緊張的政治偏執狂的傑作]]></title>
+        <id>https://www.newyorker.com/culture/the-front-row/saturday-fiction-reviewed-a-hectic-masterwork-of-political-paranoia</id>
+        <link href="https://www.newyorker.com/culture/the-front-row/saturday-fiction-reviewed-a-hectic-masterwork-of-political-paranoia"/>
+        <updated>2022-04-22T20:12:28.000Z</updated>
+        <summary type="html"><![CDATA[“Saturday Fiction,” Reviewed: A Hectic Masterwork of Political Paranoia]]></summary>
+        <author>
+            <name>Richard Brody</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[凱文-麥卡錫的草率、無藝術性的謊言]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/kevin-mccarthy-trump-audio-january-6/629645/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/kevin-mccarthy-trump-audio-january-6/629645/?utm_source=feed"/>
+        <updated>2022-04-22T20:15:43.000Z</updated>
+        <summary type="html"><![CDATA[Kevin McCarthy’s Sloppy, Artless Lie]]></summary>
+        <author>
+            <name>David A. Graham</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marjorie Taylor Greene聲稱她在1月6日被猶太飛船綁架了]]></title>
         <id>https://www.newyorker.com/humor/borowitz-report/marjorie-taylor-greene-claims-she-was-abducted-by-jewish-spaceship-on-january-6th</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>Daniel Victor</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[因COVID而成為孤兒的孩子們不會再回到 "正常 "狀態]]></title>
-        <id>https://www.theatlantic.com/health/archive/2022/04/covid-orphan-kids-lost-parent/629436/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/health/archive/2022/04/covid-orphan-kids-lost-parent/629436/?utm_source=feed"/>
-        <updated>2022-04-06T17:27:08.000Z</updated>
-        <summary type="html"><![CDATA[The Kids Orphaned by COVID Won’t Return to ‘Normal’]]></summary>
-        <author>
-            <name>Tim Requarth</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[老一輩的人在追趕Netflix]]></title>
-        <id>https://www.nytimes.com/2022/04/06/technology/netflix-commercials.html</id>
-        <link href="https://www.nytimes.com/2022/04/06/technology/netflix-commercials.html"/>
-        <updated>2022-04-06T16:42:46.000Z</updated>
-        <summary type="html"><![CDATA[The Old-Timers Are Chasing Netflix]]></summary>
-        <author>
-            <name>Shira Ovide</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<em>《大西洋日報》<em>。恐怖的場景]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2022/04/bucha-russia-allegation-horror/629490/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2022/04/bucha-russia-allegation-horror/629490/?utm_source=feed"/>
-        <updated>2022-04-06T16:29:21.000Z</updated>
-        <summary type="html"><![CDATA[<em>The Atlantic </em>Daily: Scenes of Horror]]></summary>
-        <author>
-            <name>Caroline Mimbs Nyce</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>

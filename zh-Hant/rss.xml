@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 22 Apr 2022 19:11:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 20:36:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[羅南-法羅談間諜軟件的威脅；另外，維奧拉-戴維斯]]></title>
+            <link>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/ronan-farrow-on-the-threat-of-spyware-plus-viola-davis</link>
+            <guid>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/ronan-farrow-on-the-threat-of-spyware-plus-viola-davis</guid>
+            <pubDate>Fri, 22 Apr 2022 20:00:00 GMT</pubDate>
+            <description><![CDATA[Ronan Farrow on the Threat of Spyware; Plus, Viola Davis]]></description>
+        </item>
+        <item>
+            <title><![CDATA["星期六小說"，評論。緊張的政治偏執狂的傑作]]></title>
+            <link>https://www.newyorker.com/culture/the-front-row/saturday-fiction-reviewed-a-hectic-masterwork-of-political-paranoia</link>
+            <guid>https://www.newyorker.com/culture/the-front-row/saturday-fiction-reviewed-a-hectic-masterwork-of-political-paranoia</guid>
+            <pubDate>Fri, 22 Apr 2022 20:12:28 GMT</pubDate>
+            <description><![CDATA[“Saturday Fiction,” Reviewed: A Hectic Masterwork of Political Paranoia]]></description>
+        </item>
+        <item>
+            <title><![CDATA[凱文-麥卡錫的草率、無藝術性的謊言]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/kevin-mccarthy-trump-audio-january-6/629645/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/kevin-mccarthy-trump-audio-january-6/629645/?utm_source=feed</guid>
+            <pubDate>Fri, 22 Apr 2022 20:15:43 GMT</pubDate>
+            <description><![CDATA[Kevin McCarthy’s Sloppy, Artless Lie]]></description>
+        </item>
         <item>
             <title><![CDATA[Marjorie Taylor Greene聲稱她在1月6日被猶太飛船綁架了]]></title>
             <link>https://www.newyorker.com/humor/borowitz-report/marjorie-taylor-greene-claims-she-was-abducted-by-jewish-spaceship-on-january-6th</link>
@@ -4192,27 +4213,6 @@
             <guid>https://www.nytimes.com/2022/04/06/technology/instagram-harassment-women.html</guid>
             <pubDate>Wed, 06 Apr 2022 17:41:49 GMT</pubDate>
             <description><![CDATA[For Prominent Women on Instagram, DMs Can Be a Cesspool of Misogyny]]></description>
-        </item>
-        <item>
-            <title><![CDATA[因COVID而成為孤兒的孩子們不會再回到 "正常 "狀態]]></title>
-            <link>https://www.theatlantic.com/health/archive/2022/04/covid-orphan-kids-lost-parent/629436/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/health/archive/2022/04/covid-orphan-kids-lost-parent/629436/?utm_source=feed</guid>
-            <pubDate>Wed, 06 Apr 2022 17:27:08 GMT</pubDate>
-            <description><![CDATA[The Kids Orphaned by COVID Won’t Return to ‘Normal’]]></description>
-        </item>
-        <item>
-            <title><![CDATA[老一輩的人在追趕Netflix]]></title>
-            <link>https://www.nytimes.com/2022/04/06/technology/netflix-commercials.html</link>
-            <guid>https://www.nytimes.com/2022/04/06/technology/netflix-commercials.html</guid>
-            <pubDate>Wed, 06 Apr 2022 16:42:46 GMT</pubDate>
-            <description><![CDATA[The Old-Timers Are Chasing Netflix]]></description>
-        </item>
-        <item>
-            <title><![CDATA[<em>《大西洋日報》<em>。恐怖的場景]]></title>
-            <link>https://www.theatlantic.com/newsletters/archive/2022/04/bucha-russia-allegation-horror/629490/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/newsletters/archive/2022/04/bucha-russia-allegation-horror/629490/?utm_source=feed</guid>
-            <pubDate>Wed, 06 Apr 2022 16:29:21 GMT</pubDate>
-            <description><![CDATA[<em>The Atlantic </em>Daily: Scenes of Horror]]></description>
         </item>
     </channel>
 </rss>

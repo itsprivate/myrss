@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour/ronan-farrow-on-the-threat-of-spyware-plus-viola-davis",
+            "content_html": "",
+            "url": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour/ronan-farrow-on-the-threat-of-spyware-plus-viola-davis",
+            "title": "羅南-法羅談間諜軟件的威脅；另外，維奧拉-戴維斯",
+            "summary": "Ronan Farrow on the Threat of Spyware; Plus, Viola Davis",
+            "date_modified": "2022-04-22T20:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/culture/the-front-row/saturday-fiction-reviewed-a-hectic-masterwork-of-political-paranoia",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/the-front-row/saturday-fiction-reviewed-a-hectic-masterwork-of-political-paranoia",
+            "title": "\"星期六小說\"，評論。緊張的政治偏執狂的傑作",
+            "summary": "“Saturday Fiction,” Reviewed: A Hectic Masterwork of Political Paranoia",
+            "date_modified": "2022-04-22T20:12:28.000Z",
+            "author": {
+                "name": "Richard Brody",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/04/kevin-mccarthy-trump-audio-january-6/629645/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/04/kevin-mccarthy-trump-audio-january-6/629645/?utm_source=feed",
+            "title": "凱文-麥卡錫的草率、無藝術性的謊言",
+            "summary": "Kevin McCarthy’s Sloppy, Artless Lie",
+            "date_modified": "2022-04-22T20:15:43.000Z",
+            "author": {
+                "name": "David A. Graham",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/humor/borowitz-report/marjorie-taylor-greene-claims-she-was-abducted-by-jewish-spaceship-on-january-6th",
             "content_html": "",
             "url": "https://www.newyorker.com/humor/borowitz-report/marjorie-taylor-greene-claims-she-was-abducted-by-jewish-spaceship-on-january-6th",
@@ -7172,42 +7208,6 @@
             "author": {
                 "name": "Daniel Victor",
                 "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/health/archive/2022/04/covid-orphan-kids-lost-parent/629436/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/health/archive/2022/04/covid-orphan-kids-lost-parent/629436/?utm_source=feed",
-            "title": "因COVID而成為孤兒的孩子們不會再回到 \"正常 \"狀態",
-            "summary": "The Kids Orphaned by COVID Won’t Return to ‘Normal’",
-            "date_modified": "2022-04-06T17:27:08.000Z",
-            "author": {
-                "name": "Tim Requarth",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/04/06/technology/netflix-commercials.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/04/06/technology/netflix-commercials.html",
-            "title": "老一輩的人在追趕Netflix",
-            "summary": "The Old-Timers Are Chasing Netflix",
-            "date_modified": "2022-04-06T16:42:46.000Z",
-            "author": {
-                "name": "Shira Ovide",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/newsletters/archive/2022/04/bucha-russia-allegation-horror/629490/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/newsletters/archive/2022/04/bucha-russia-allegation-horror/629490/?utm_source=feed",
-            "title": "<em>《大西洋日報》<em>。恐怖的場景",
-            "summary": "<em>The Atlantic </em>Daily: Scenes of Horror",
-            "date_modified": "2022-04-06T16:29:21.000Z",
-            "author": {
-                "name": "Caroline Mimbs Nyce",
-                "url": "https://www.theatlantic.com/feed/all/"
             }
         }
     ]
