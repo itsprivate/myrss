@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 22 Apr 2022 06:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 08:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[<em>實驗</em>播報。地下墮胎的重新興起]]></title>
+            <link>https://www.theatlantic.com/podcasts/archive/2022/04/resurgence-abortion-underground/629642/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/podcasts/archive/2022/04/resurgence-abortion-underground/629642/?utm_source=feed</guid>
+            <pubDate>Fri, 22 Apr 2022 08:00:56 GMT</pubDate>
+            <description><![CDATA[<em>The Experiment </em>Podcast: The Resurgence of the Abortion Underground]]></description>
+        </item>
         <item>
             <title><![CDATA[馬克龍的勝利是不夠的]]></title>
             <link>https://www.theatlantic.com/international/archive/2022/04/macron-win-france-election-far-right/629626/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/magazine/2022/04/11/in-russian-doll-natasha-lyonne-barrels-into-the-past</guid>
             <pubDate>Mon, 04 Apr 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[In “Russian Doll,” Natasha Lyonne Barrels Into the Past]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼加州不通過建設一些新城市來解決住房危機？]]></title>
-            <link>https://www.currentaffairs.org/2022/03/why-doesnt-california-solve-its-housing-crisis-by-building-some-new-cities/</link>
-            <guid>https://www.currentaffairs.org/2022/03/why-doesnt-california-solve-its-housing-crisis-by-building-some-new-cities/</guid>
-            <pubDate>Mon, 14 Mar 2022 23:46:42 GMT</pubDate>
-            <description><![CDATA[Why Doesn’t California Solve Its Housing Crisis By Building Some New Cities?]]></description>
         </item>
     </channel>
 </rss>
