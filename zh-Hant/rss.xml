@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 22 Apr 2022 12:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 14:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[動物的內在生活]]></title>
+            <link>https://www.theatlantic.com/books/archive/2022/04/books-briefing-v-s-naipaul-jack-e-davis/629618/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/books/archive/2022/04/books-briefing-v-s-naipaul-jack-e-davis/629618/?utm_source=feed</guid>
+            <pubDate>Fri, 22 Apr 2022 14:00:56 GMT</pubDate>
+            <description><![CDATA[The Inner Lives of Animals]]></description>
+        </item>
+        <item>
+            <title><![CDATA[兩個互聯網上的冤家是如何成為朋友的]]></title>
+            <link>https://www.theatlantic.com/family/archive/2022/04/arguing-online-facebook-friends/629620/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/family/archive/2022/04/arguing-online-facebook-friends/629620/?utm_source=feed</guid>
+            <pubDate>Fri, 22 Apr 2022 14:00:56 GMT</pubDate>
+            <description><![CDATA[How Two Internet Nemeses Became Friends]]></description>
+        </item>
         <item>
             <title><![CDATA[被盜的植物總是生長]]></title>
             <link>https://austinkleon.substack.com/p/stolen-plants-always-grow</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022-04-06</guid>
             <pubDate>Wed, 06 Apr 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Name Drop: Wednesday, April 6, 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[填字遊戲: 2022年4月6日，星期三]]></title>
-            <link>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/06</link>
-            <guid>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/06</guid>
-            <pubDate>Wed, 06 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Crossword: Wednesday, April 6, 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在紐約市偷獵野生動物]]></title>
-            <link>https://www.newyorker.com/video/watch/poaching-wildlife-in-new-york-city</link>
-            <guid>https://www.newyorker.com/video/watch/poaching-wildlife-in-new-york-city</guid>
-            <pubDate>Wed, 06 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Poaching Wildlife In New York City]]></description>
         </item>
     </channel>
 </rss>
