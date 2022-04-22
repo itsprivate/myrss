@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 22 Apr 2022 11:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 12:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[被盜的植物總是生長]]></title>
+            <link>https://austinkleon.substack.com/p/stolen-plants-always-grow</link>
+            <guid>https://austinkleon.substack.com/p/stolen-plants-always-grow</guid>
+            <pubDate>Fri, 22 Apr 2022 12:00:33 GMT</pubDate>
+            <description><![CDATA[Stolen plants always grow]]></description>
+        </item>
         <item>
             <title><![CDATA[美國性治安的深層根源]]></title>
             <link>https://www.theatlantic.com/books/archive/2022/04/police-sexual-policing-streets-belong-to-us-review/629611/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/video/watch/poaching-wildlife-in-new-york-city</guid>
             <pubDate>Wed, 06 Apr 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Poaching Wildlife In New York City]]></description>
-        </item>
-        <item>
-            <title><![CDATA[布魯斯-威利斯的極簡主義明星力量]]></title>
-            <link>https://www.newyorker.com/culture/cultural-comment/bruce-williss-minimalist-star-power</link>
-            <guid>https://www.newyorker.com/culture/cultural-comment/bruce-williss-minimalist-star-power</guid>
-            <pubDate>Wed, 06 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Bruce Willis’s Minimalist Star Power]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-22T11:12:10.922Z</updated>
+    <updated>2022-04-22T12:20:34.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[被盗的植物总是生长]]></title>
+        <id>https://austinkleon.substack.com/p/stolen-plants-always-grow</id>
+        <link href="https://austinkleon.substack.com/p/stolen-plants-always-grow"/>
+        <updated>2022-04-22T12:00:33.000Z</updated>
+        <summary type="html"><![CDATA[Stolen plants always grow]]></summary>
+        <author>
+            <name>Austin Kleon</name>
+            <uri>https://austinkleon.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国性治安的深层根源]]></title>
         <id>https://www.theatlantic.com/books/archive/2022/04/police-sexual-policing-streets-belong-to-us-review/629611/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Poaching Wildlife In New York City]]></summary>
         <author>
             <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[布鲁斯-威利斯的极简主义明星力量]]></title>
-        <id>https://www.newyorker.com/culture/cultural-comment/bruce-williss-minimalist-star-power</id>
-        <link href="https://www.newyorker.com/culture/cultural-comment/bruce-williss-minimalist-star-power"/>
-        <updated>2022-04-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Bruce Willis’s Minimalist Star Power]]></summary>
-        <author>
-            <name>Adam Nayman</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
