@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-22T20:36:08.789Z</updated>
+    <updated>2022-04-22T20:45:45.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[隱秘的開放性主題220.5]]></title>
+        <id>https://astralcodexten.substack.com/p/hidden-open-thread-2205</id>
+        <link href="https://astralcodexten.substack.com/p/hidden-open-thread-2205"/>
+        <updated>2022-04-22T20:29:22.000Z</updated>
+        <summary type="html"><![CDATA[Hidden Open Thread 220.5]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[羅南-法羅談間諜軟件的威脅；另外，維奧拉-戴維斯]]></title>
         <id>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/ronan-farrow-on-the-threat-of-spyware-plus-viola-davis</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Jeffrey Goldberg</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對Instagram上的知名女性來說，DMs可能是一個厭惡女性的大雜燴]]></title>
-        <id>https://www.nytimes.com/2022/04/06/technology/instagram-harassment-women.html</id>
-        <link href="https://www.nytimes.com/2022/04/06/technology/instagram-harassment-women.html"/>
-        <updated>2022-04-06T17:41:49.000Z</updated>
-        <summary type="html"><![CDATA[For Prominent Women on Instagram, DMs Can Be a Cesspool of Misogyny]]></summary>
-        <author>
-            <name>Daniel Victor</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>
