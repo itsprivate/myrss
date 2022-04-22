@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-22T09:14:07.181Z</updated>
+    <updated>2022-04-22T10:15:16.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[落名。2022年4月22日，星期五]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/22</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/22"/>
+        <updated>2022-04-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Name Drop: Friday, April 22, 2022]]></summary>
+        <author>
+            <name>Liz Maynes-Aminzade</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法國極右派踩著小貓的腳來了]]></title>
+        <id>https://www.newyorker.com/news/letter-from-europe/the-french-far-right-comes-on-little-cat-feet</id>
+        <link href="https://www.newyorker.com/news/letter-from-europe/the-french-far-right-comes-on-little-cat-feet"/>
+        <updated>2022-04-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The French Far Right Comes on Little Cat Feet]]></summary>
+        <author>
+            <name>James McAuley</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美國政府給大石油公司的分手信]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/a-breakup-letter-from-the-us-government-to-big-oil</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/a-breakup-letter-from-the-us-government-to-big-oil"/>
+        <updated>2022-04-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Breakup Letter from the U.S. Government to Big Oil]]></summary>
+        <author>
+            <name>Meghana Indurti, Lucia Whalen</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[填字遊戲。2022年4月22日，星期五]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/22</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/22"/>
+        <updated>2022-04-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Crossword: Friday, April 22, 2022]]></summary>
+        <author>
+            <name>Janie Smulyan</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[歐盟通過具有里程碑意義的新法律打擊社交媒體的危害性]]></title>
         <id>https://www.nytimes.com/2022/04/22/technology/european-union-social-media-law.html</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>Scott Alexander</name>
             <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[賈梅爾-沙巴茲富有同情心的攝影作品]]></title>
-        <id>https://www.newyorker.com/magazine/2022/04/11/the-compassionate-photographs-of-jamel-shabazz</id>
-        <link href="https://www.newyorker.com/magazine/2022/04/11/the-compassionate-photographs-of-jamel-shabazz"/>
-        <updated>2022-04-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Compassionate Photographs of Jamel Shabazz]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["廣場套房 "中的丈夫和妻子]]></title>
-        <id>https://www.newyorker.com/magazine/2022/04/11/husbands-and-wives-in-plaza-suite</id>
-        <link href="https://www.newyorker.com/magazine/2022/04/11/husbands-and-wives-in-plaza-suite"/>
-        <updated>2022-04-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Husbands and Wives in “Plaza Suite”]]></summary>
-        <author>
-            <name>Vinson Cunningham</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[溼腿巖的榮耀之光]]></title>
-        <id>https://www.newyorker.com/magazine/2022/04/11/the-glorious-lightness-of-wet-legs-rock</id>
-        <link href="https://www.newyorker.com/magazine/2022/04/11/the-glorious-lightness-of-wet-legs-rock"/>
-        <updated>2022-04-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Glorious Lightness of Wet Leg’s Rock]]></summary>
-        <author>
-            <name>Amanda Petrusich</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個連貫而大膽的惠特尼雙年展]]></title>
-        <id>https://www.newyorker.com/magazine/2022/04/11/a-coherent-and-bold-whitney-biennial</id>
-        <link href="https://www.newyorker.com/magazine/2022/04/11/a-coherent-and-bold-whitney-biennial"/>
-        <updated>2022-04-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A Coherent and Bold Whitney Biennial]]></summary>
-        <author>
-            <name>Peter Schjeldahl</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
