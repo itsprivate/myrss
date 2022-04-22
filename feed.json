@@ -19,6 +19,30 @@
             "date_modified": "2022-04-22T18:25:10.000Z",
             "author": {
                 "name": "John Cassidy",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/04/22/us/politics/hackers-russia-cyberattacks.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/22/us/politics/hackers-russia-cyberattacks.html",
+            "title": "黑客声称在一连串的网络攻击和泄密事件中瞄准了俄罗斯机构",
+            "summary": "Hackers Claim to Target Russian Institutions in Barrage of Cyberattacks and Leaks",
+            "date_modified": "2022-04-22T18:46:50.000Z",
+            "author": {
+                "name": "Kate Conger and David E. Sanger",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/our-columnists/its-not-news-that-mcconnell-and-mccarthy-are-craven-patsies-for-trump-but-the-danger-has-grown",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/our-columnists/its-not-news-that-mcconnell-and-mccarthy-are-craven-patsies-for-trump-but-the-danger-has-grown",
+            "title": "麦康奈尔和麦卡锡是特朗普的蹩脚帮手，这不是新闻，但危险已经增加了",
+            "summary": "It’s Not News That McConnell and McCarthy Are Craven Patsies for Trump, but the Danger Has Grown",
+            "date_modified": "2022-04-22T18:25:10.000Z",
+            "author": {
+                "name": "John Cassidy",
                 "url": "https://www.newyorker.com/feed/news"
             }
         },
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "Brian X. Chen",
                 "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/science/archive/2022/04/killing-lanternfly-effect-invasive-species/629489/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/science/archive/2022/04/killing-lanternfly-effect-invasive-species/629489/?utm_source=feed",
-            "title": "美国人一直在无情地压制一种令人毛骨悚然的虫子，这是否是白费力气？",
-            "summary": "Have Americans Been Mercilessly Squashing a Creepy Bug for Nothing?",
-            "date_modified": "2022-04-06T15:22:41.000Z",
-            "author": {
-                "name": "Abigail Gruskin",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/cartoons/daily-cartoon/wednesday-april-6th-movie-theatres",
-            "content_html": "",
-            "url": "https://www.newyorker.com/cartoons/daily-cartoon/wednesday-april-6th-movie-theatres",
-            "title": "每日漫画。4月6日，星期三",
-            "summary": "Daily Cartoon: Wednesday, April 6th",
-            "date_modified": "2022-04-06T15:02:27.000Z",
-            "author": {
-                "name": "David Sipress",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]
