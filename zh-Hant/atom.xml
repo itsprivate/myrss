@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-22T15:13:59.482Z</updated>
+    <updated>2022-04-22T16:17:38.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[克利福德-普林斯-金的戀人]]></title>
+        <id>https://www.newyorker.com/culture/photo-booth/the-lovers-of-clifford-prince-king</id>
+        <link href="https://www.newyorker.com/culture/photo-booth/the-lovers-of-clifford-prince-king"/>
+        <updated>2022-04-22T15:45:32.000Z</updated>
+        <summary type="html"><![CDATA[The Lovers of Clifford Prince King]]></summary>
+        <author>
+            <name>Doreen St. Félix</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<em>Doxxing</em>意味著任何你想要的東西]]></title>
+        <id>https://www.theatlantic.com/technology/archive/2022/04/doxxing-meaning-libs-of-tiktok/629643/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/technology/archive/2022/04/doxxing-meaning-libs-of-tiktok/629643/?utm_source=feed"/>
+        <updated>2022-04-22T15:51:50.000Z</updated>
+        <summary type="html"><![CDATA[<em>Doxxing</em> Means Whatever You Want It To]]></summary>
+        <author>
+            <name>Kaitlyn Tiffany</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[這個地球日，我們可以幫助環境和烏克蘭]]></title>
         <id>https://www.newyorker.com/news/daily-comment/this-earth-day-we-could-be-helping-the-environment-and-ukraine</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[Privacy Isn’t Dead, but It’ll Cost You]]></summary>
         <author>
             <name>Sarah E. Igo</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21世紀的溫斯洛-霍默]]></title>
-        <id>https://www.theatlantic.com/magazine/archive/2022/05/winslow-homer-paintings-crosscurrents-american-passage/629375/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/magazine/archive/2022/05/winslow-homer-paintings-crosscurrents-american-passage/629375/?utm_source=feed"/>
-        <updated>2022-04-06T11:00:56.000Z</updated>
-        <summary type="html"><![CDATA[A Winslow Homer for the 21st Century]]></summary>
-        <author>
-            <name>Susan Tallman</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普沒有超越尼克松的地位]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/04/trump-phone-calls-nixon-watergate-gap/629472/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/04/trump-phone-calls-nixon-watergate-gap/629472/?utm_source=feed"/>
-        <updated>2022-04-06T11:00:56.000Z</updated>
-        <summary type="html"><![CDATA[Trump Hasn’t Out-Nixoned Nixon]]></summary>
-        <author>
-            <name>Tim Naftali</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>

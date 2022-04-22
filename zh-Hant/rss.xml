@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 22 Apr 2022 15:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 16:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[克利福德-普林斯-金的戀人]]></title>
+            <link>https://www.newyorker.com/culture/photo-booth/the-lovers-of-clifford-prince-king</link>
+            <guid>https://www.newyorker.com/culture/photo-booth/the-lovers-of-clifford-prince-king</guid>
+            <pubDate>Fri, 22 Apr 2022 15:45:32 GMT</pubDate>
+            <description><![CDATA[The Lovers of Clifford Prince King]]></description>
+        </item>
+        <item>
+            <title><![CDATA[<em>Doxxing</em>意味著任何你想要的東西]]></title>
+            <link>https://www.theatlantic.com/technology/archive/2022/04/doxxing-meaning-libs-of-tiktok/629643/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/technology/archive/2022/04/doxxing-meaning-libs-of-tiktok/629643/?utm_source=feed</guid>
+            <pubDate>Fri, 22 Apr 2022 15:51:50 GMT</pubDate>
+            <description><![CDATA[<em>Doxxing</em> Means Whatever You Want It To]]></description>
+        </item>
         <item>
             <title><![CDATA[這個地球日，我們可以幫助環境和烏克蘭]]></title>
             <link>https://www.newyorker.com/news/daily-comment/this-earth-day-we-could-be-helping-the-environment-and-ukraine</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.theatlantic.com/magazine/archive/2022/05/privacy-law-technology-california-gajda-seek-and-hide/629373/?utm_source=feed</guid>
             <pubDate>Wed, 06 Apr 2022 12:00:56 GMT</pubDate>
             <description><![CDATA[Privacy Isn’t Dead, but It’ll Cost You]]></description>
-        </item>
-        <item>
-            <title><![CDATA[21世紀的溫斯洛-霍默]]></title>
-            <link>https://www.theatlantic.com/magazine/archive/2022/05/winslow-homer-paintings-crosscurrents-american-passage/629375/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/magazine/archive/2022/05/winslow-homer-paintings-crosscurrents-american-passage/629375/?utm_source=feed</guid>
-            <pubDate>Wed, 06 Apr 2022 11:00:56 GMT</pubDate>
-            <description><![CDATA[A Winslow Homer for the 21st Century]]></description>
-        </item>
-        <item>
-            <title><![CDATA[特朗普沒有超越尼克松的地位]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/04/trump-phone-calls-nixon-watergate-gap/629472/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/04/trump-phone-calls-nixon-watergate-gap/629472/?utm_source=feed</guid>
-            <pubDate>Wed, 06 Apr 2022 11:00:56 GMT</pubDate>
-            <description><![CDATA[Trump Hasn’t Out-Nixoned Nixon]]></description>
         </item>
     </channel>
 </rss>

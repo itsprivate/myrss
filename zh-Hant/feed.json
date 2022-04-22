@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/culture/photo-booth/the-lovers-of-clifford-prince-king",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/photo-booth/the-lovers-of-clifford-prince-king",
+            "title": "克利福德-普林斯-金的戀人",
+            "summary": "The Lovers of Clifford Prince King",
+            "date_modified": "2022-04-22T15:45:32.000Z",
+            "author": {
+                "name": "Doreen St. Félix",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/technology/archive/2022/04/doxxing-meaning-libs-of-tiktok/629643/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/technology/archive/2022/04/doxxing-meaning-libs-of-tiktok/629643/?utm_source=feed",
+            "title": "<em>Doxxing</em>意味著任何你想要的東西",
+            "summary": "<em>Doxxing</em> Means Whatever You Want It To",
+            "date_modified": "2022-04-22T15:51:50.000Z",
+            "author": {
+                "name": "Kaitlyn Tiffany",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/daily-comment/this-earth-day-we-could-be-helping-the-environment-and-ukraine",
             "content_html": "",
             "url": "https://www.newyorker.com/news/daily-comment/this-earth-day-we-could-be-helping-the-environment-and-ukraine",
@@ -7183,30 +7207,6 @@
             "date_modified": "2022-04-06T12:00:56.000Z",
             "author": {
                 "name": "Sarah E. Igo",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/magazine/archive/2022/05/winslow-homer-paintings-crosscurrents-american-passage/629375/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/magazine/archive/2022/05/winslow-homer-paintings-crosscurrents-american-passage/629375/?utm_source=feed",
-            "title": "21世紀的溫斯洛-霍默",
-            "summary": "A Winslow Homer for the 21st Century",
-            "date_modified": "2022-04-06T11:00:56.000Z",
-            "author": {
-                "name": "Susan Tallman",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/04/trump-phone-calls-nixon-watergate-gap/629472/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/04/trump-phone-calls-nixon-watergate-gap/629472/?utm_source=feed",
-            "title": "特朗普沒有超越尼克松的地位",
-            "summary": "Trump Hasn’t Out-Nixoned Nixon",
-            "date_modified": "2022-04-06T11:00:56.000Z",
-            "author": {
-                "name": "Tim Naftali",
                 "url": "https://www.theatlantic.com/feed/all/"
             }
         }
