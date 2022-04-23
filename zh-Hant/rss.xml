@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 23 Apr 2022 13:44:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 16:48:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[<em>《大西洋》</em>日報。傾斜於黑人財富的電視節目]]></title>
+            <link>https://www.theatlantic.com/newsletters/archive/2022/04/the-tv-shows-that-lean-into-black-wealth/629660/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/newsletters/archive/2022/04/the-tv-shows-that-lean-into-black-wealth/629660/?utm_source=feed</guid>
+            <pubDate>Sat, 23 Apr 2022 16:32:52 GMT</pubDate>
+            <description><![CDATA[<em>The Atlantic</em> Daily: The TV Shows That Lean Into Black Wealth]]></description>
+        </item>
         <item>
             <title><![CDATA[<em>所有的東西都是一次性的</em>是最好的多元宇宙故事會]]></title>
             <link>https://www.theatlantic.com/podcasts/archive/2022/04/everything-everywhere-all-at-once/629659/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://noahpinion.substack.com/p/dont-worry-about-de-dollarization</guid>
             <pubDate>Sun, 13 Mar 2022 07:24:32 GMT</pubDate>
             <description><![CDATA[Don't worry about de-dollarization]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中國、俄羅斯和通貨膨脹形勢]]></title>
-            <link>https://noahpinion.substack.com/p/china-russia-and-the-inflation-situation</link>
-            <guid>https://noahpinion.substack.com/p/china-russia-and-the-inflation-situation</guid>
-            <pubDate>Mon, 14 Mar 2022 06:08:35 GMT</pubDate>
-            <description><![CDATA[China, Russia, and the inflation situation]]></description>
         </item>
     </channel>
 </rss>
