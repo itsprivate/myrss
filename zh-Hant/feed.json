@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://noahpinion.substack.com/p/interview-ramez-naam-futurist-author",
+            "content_html": "",
+            "url": "https://noahpinion.substack.com/p/interview-ramez-naam-futurist-author",
+            "title": "採訪。未來學家、作家和投資者Ramez Naam",
+            "summary": "Interview: Ramez Naam, futurist, author, and investor",
+            "date_modified": "2022-04-23T04:35:02.000Z",
+            "author": {
+                "name": "Noah Smith",
+                "url": "https://noahpinion.substack.com/feed"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/daily-comment/the-hazard-filled-ruling-on-the-transportation-mask-mandate",
             "content_html": "",
             "url": "https://www.newyorker.com/news/daily-comment/the-hazard-filled-ruling-on-the-transportation-mask-mandate",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Conor Friedersdorf",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.currentaffairs.org/2022/04/why-american-culture-is-so-disturbing/",
-            "content_html": "",
-            "url": "https://www.currentaffairs.org/2022/04/why-american-culture-is-so-disturbing/",
-            "title": "美國文化為何如此令人不安",
-            "summary": "Why American Culture is So Disturbing",
-            "date_modified": "2022-04-06T17:27:21.000Z",
-            "author": {
-                "name": "Nathan J. Robinson",
-                "url": "https://www.currentaffairs.org/feed"
             }
         }
     ]
