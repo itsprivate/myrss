@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 23 Apr 2022 11:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 13:44:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[<em>所有的東西都是一次性的</em>是最好的多元宇宙故事會]]></title>
+            <link>https://www.theatlantic.com/podcasts/archive/2022/04/everything-everywhere-all-at-once/629659/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/podcasts/archive/2022/04/everything-everywhere-all-at-once/629659/?utm_source=feed</guid>
+            <pubDate>Sat, 23 Apr 2022 13:00:56 GMT</pubDate>
+            <description><![CDATA[<em>Everything Everywhere All at Once</em> Is Multiverse Storytelling at Its Best]]></description>
+        </item>
         <item>
             <title><![CDATA[俄羅斯娃娃》的殘酷轉折<em>俄羅斯娃娃</em>。]]></title>
             <link>https://www.theatlantic.com/culture/archive/2022/04/russian-doll-season-2-review/629648/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://noahpinion.substack.com/p/china-russia-and-the-inflation-situation</guid>
             <pubDate>Mon, 14 Mar 2022 06:08:35 GMT</pubDate>
             <description><![CDATA[China, Russia, and the inflation situation]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中國有一個決定性的選擇要做]]></title>
-            <link>https://noahpinion.substack.com/p/china-has-a-fateful-choice-to-make</link>
-            <guid>https://noahpinion.substack.com/p/china-has-a-fateful-choice-to-make</guid>
-            <pubDate>Wed, 16 Mar 2022 09:08:44 GMT</pubDate>
-            <description><![CDATA[China has a fateful choice to make]]></description>
         </item>
     </channel>
 </rss>
