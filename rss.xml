@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 23 Apr 2022 09:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 10:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,34 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我想我只是期望人们在发现我有了孩子之后会对我说些什么]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/things-i-guess-i-just-expected-people-to-say-to-me-after-they-found-out-i-had-a-baby</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/things-i-guess-i-just-expected-people-to-say-to-me-after-they-found-out-i-had-a-baby</guid>
+            <pubDate>Sat, 23 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Things I Guess I Just Expected People to Say to Me After They Found Out I Had a Baby]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一个刚刚在读书会中勉强读完这本书的人的几句话]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/a-few-words-from-someone-who-just-narrowly-finished-the-book-in-time-for-book-club</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/a-few-words-from-someone-who-just-narrowly-finished-the-book-in-time-for-book-club</guid>
+            <pubDate>Sat, 23 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[A Few Words from Someone Who Just Narrowly Finished the Book in Time for Book Club]]></description>
+        </item>
+        <item>
+            <title><![CDATA[新的核现实]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/the-new-nuclear-reality</link>
+            <guid>https://www.newyorker.com/news/daily-comment/the-new-nuclear-reality</guid>
+            <pubDate>Sat, 23 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The New Nuclear Reality]]></description>
+        </item>
+        <item>
+            <title><![CDATA[巴黎工人阶级郊区的美丽与起义]]></title>
+            <link>https://www.newyorker.com/culture/photo-booth/beauty-and-uprising-in-the-working-class-suburbs-of-paris</link>
+            <guid>https://www.newyorker.com/culture/photo-booth/beauty-and-uprising-in-the-working-class-suburbs-of-paris</guid>
+            <pubDate>Sat, 23 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Beauty and Uprising in the Working-Class Suburbs of Paris]]></description>
+        </item>
         <item>
             <title><![CDATA['如果马克龙输了，普京就赢了。]]></title>
             <link>https://www.theatlantic.com/ideas/archive/2022/04/french-election-extremism-macron-le-pen/629652/?utm_source=feed</link>
@@ -4185,34 +4213,6 @@
             <guid>https://www.theatlantic.com/ideas/archive/2022/04/maria-ressa-disinformation-manipulation/629483/?utm_source=feed</guid>
             <pubDate>Thu, 07 Apr 2022 01:07:01 GMT</pubDate>
             <description><![CDATA[We’re All Being Manipulated the Same Way]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国称在全球范围内秘密删除恶意软件，预先防范俄罗斯网络攻击]]></title>
-            <link>https://www.nytimes.com/2022/04/06/us/politics/us-russia-malware-cyberattacks.html</link>
-            <guid>https://www.nytimes.com/2022/04/06/us/politics/us-russia-malware-cyberattacks.html</guid>
-            <pubDate>Wed, 06 Apr 2022 23:04:19 GMT</pubDate>
-            <description><![CDATA[U.S. Says It Secretly Removed Malware Worldwide, Pre-empting Russian Cyberattacks]]></description>
-        </item>
-        <item>
-            <title><![CDATA[独裁者图书俱乐部。习近平]]></title>
-            <link>https://astralcodexten.substack.com/p/dictator-book-club-xi-jinping</link>
-            <guid>https://astralcodexten.substack.com/p/dictator-book-club-xi-jinping</guid>
-            <pubDate>Wed, 06 Apr 2022 22:44:00 GMT</pubDate>
-            <description><![CDATA[Dictator Book Club: Xi Jinping]]></description>
-        </item>
-        <item>
-            <title><![CDATA[拜登现身说法支持亚马逊工人投票成立工会]]></title>
-            <link>https://www.nytimes.com/2022/04/06/us/politics/biden-amazon-workers-labor-unions.html</link>
-            <guid>https://www.nytimes.com/2022/04/06/us/politics/biden-amazon-workers-labor-unions.html</guid>
-            <pubDate>Wed, 06 Apr 2022 22:40:21 GMT</pubDate>
-            <description><![CDATA[Biden Appears to Show Support for Amazon Workers Who Voted to Unionize]]></description>
-        </item>
-        <item>
-            <title><![CDATA[布洛克称现金应用漏洞影响了800万用户]]></title>
-            <link>https://www.nytimes.com/2022/04/06/business/block-cash-app-data-breach.html</link>
-            <guid>https://www.nytimes.com/2022/04/06/business/block-cash-app-data-breach.html</guid>
-            <pubDate>Wed, 06 Apr 2022 21:07:32 GMT</pubDate>
-            <description><![CDATA[Block Says Cash App Breach Affected 8 Million Users]]></description>
         </item>
     </channel>
 </rss>

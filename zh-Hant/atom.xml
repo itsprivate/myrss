@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-23T09:12:37.700Z</updated>
+    <updated>2022-04-23T10:16:31.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我想我只是期望人們在發現我有了孩子之後會對我說些什麼]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/things-i-guess-i-just-expected-people-to-say-to-me-after-they-found-out-i-had-a-baby</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/things-i-guess-i-just-expected-people-to-say-to-me-after-they-found-out-i-had-a-baby"/>
+        <updated>2022-04-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Things I Guess I Just Expected People to Say to Me After They Found Out I Had a Baby]]></summary>
+        <author>
+            <name>Sophie Lucido Johnson</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個剛剛在讀書會中勉強讀完這本書的人的幾句話]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/a-few-words-from-someone-who-just-narrowly-finished-the-book-in-time-for-book-club</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/a-few-words-from-someone-who-just-narrowly-finished-the-book-in-time-for-book-club"/>
+        <updated>2022-04-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Few Words from Someone Who Just Narrowly Finished the Book in Time for Book Club]]></summary>
+        <author>
+            <name>Kerry Elson</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新的核現實]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/the-new-nuclear-reality</id>
+        <link href="https://www.newyorker.com/news/daily-comment/the-new-nuclear-reality"/>
+        <updated>2022-04-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The New Nuclear Reality]]></summary>
+        <author>
+            <name>Robin Wright</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巴黎工人階級郊區的美麗與起義]]></title>
+        <id>https://www.newyorker.com/culture/photo-booth/beauty-and-uprising-in-the-working-class-suburbs-of-paris</id>
+        <link href="https://www.newyorker.com/culture/photo-booth/beauty-and-uprising-in-the-working-class-suburbs-of-paris"/>
+        <updated>2022-04-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Beauty and Uprising in the Working-Class Suburbs of Paris]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['如果馬克龍輸了，普京就贏了。]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/04/french-election-extremism-macron-le-pen/629652/?utm_source=feed</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>Maria Ressa</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國稱在全球範圍內秘密刪除惡意軟件，預先防範俄羅斯網絡攻擊]]></title>
-        <id>https://www.nytimes.com/2022/04/06/us/politics/us-russia-malware-cyberattacks.html</id>
-        <link href="https://www.nytimes.com/2022/04/06/us/politics/us-russia-malware-cyberattacks.html"/>
-        <updated>2022-04-06T23:04:19.000Z</updated>
-        <summary type="html"><![CDATA[U.S. Says It Secretly Removed Malware Worldwide, Pre-empting Russian Cyberattacks]]></summary>
-        <author>
-            <name>Kate Conger and David E. Sanger</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[獨裁者圖書俱樂部。習近平]]></title>
-        <id>https://astralcodexten.substack.com/p/dictator-book-club-xi-jinping</id>
-        <link href="https://astralcodexten.substack.com/p/dictator-book-club-xi-jinping"/>
-        <updated>2022-04-06T22:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Dictator Book Club: Xi Jinping]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拜登現身說法支持亞馬遜工人投票成立工會]]></title>
-        <id>https://www.nytimes.com/2022/04/06/us/politics/biden-amazon-workers-labor-unions.html</id>
-        <link href="https://www.nytimes.com/2022/04/06/us/politics/biden-amazon-workers-labor-unions.html"/>
-        <updated>2022-04-06T22:40:21.000Z</updated>
-        <summary type="html"><![CDATA[Biden Appears to Show Support for Amazon Workers Who Voted to Unionize]]></summary>
-        <author>
-            <name>Katie Rogers and Karen Weise</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[布洛克稱現金應用漏洞影響了800萬用戶]]></title>
-        <id>https://www.nytimes.com/2022/04/06/business/block-cash-app-data-breach.html</id>
-        <link href="https://www.nytimes.com/2022/04/06/business/block-cash-app-data-breach.html"/>
-        <updated>2022-04-06T21:07:32.000Z</updated>
-        <summary type="html"><![CDATA[Block Says Cash App Breach Affected 8 Million Users]]></summary>
-        <author>
-            <name>Stacy Cowley</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>
