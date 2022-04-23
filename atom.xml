@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-23T10:53:10.048Z</updated>
+    <updated>2022-04-23T11:11:40.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯娃娃》的残酷转折<em>俄罗斯娃娃</em>。]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/04/russian-doll-season-2-review/629648/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/04/russian-doll-season-2-review/629648/?utm_source=feed"/>
+        <updated>2022-04-23T11:00:56.000Z</updated>
+        <summary type="html"><![CDATA[The Cruel Twist of <em>Russian Doll</em>]]></summary>
+        <author>
+            <name>Sophie Gilbert</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯人民为何对普京的战争言听计从？]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/04/russians-support-putin-invasion-popularity/629653/?utm_source=feed</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Noah Smith</name>
             <uri>https://noahpinion.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隐秘的公开主题218.5]]></title>
-        <id>https://astralcodexten.substack.com/p/hidden-open-thread-2185</id>
-        <link href="https://astralcodexten.substack.com/p/hidden-open-thread-2185"/>
-        <updated>2022-04-07T03:05:51.000Z</updated>
-        <summary type="html"><![CDATA[Hidden Open Thread 218.5]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
         </author>
     </entry>
 </feed>

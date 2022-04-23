@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 23 Apr 2022 10:53:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 11:11:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[俄羅斯娃娃》的殘酷轉折<em>俄羅斯娃娃</em>。]]></title>
+            <link>https://www.theatlantic.com/culture/archive/2022/04/russian-doll-season-2-review/629648/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/culture/archive/2022/04/russian-doll-season-2-review/629648/?utm_source=feed</guid>
+            <pubDate>Sat, 23 Apr 2022 11:00:56 GMT</pubDate>
+            <description><![CDATA[The Cruel Twist of <em>Russian Doll</em>]]></description>
+        </item>
         <item>
             <title><![CDATA[俄羅斯人民為何對普京的戰爭言聽計從？]]></title>
             <link>https://www.theatlantic.com/ideas/archive/2022/04/russians-support-putin-invasion-popularity/629653/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://noahpinion.substack.com/p/china-has-a-fateful-choice-to-make</guid>
             <pubDate>Wed, 16 Mar 2022 09:08:44 GMT</pubDate>
             <description><![CDATA[China has a fateful choice to make]]></description>
-        </item>
-        <item>
-            <title><![CDATA[隱秘的公開主題218.5]]></title>
-            <link>https://astralcodexten.substack.com/p/hidden-open-thread-2185</link>
-            <guid>https://astralcodexten.substack.com/p/hidden-open-thread-2185</guid>
-            <pubDate>Thu, 07 Apr 2022 03:05:51 GMT</pubDate>
-            <description><![CDATA[Hidden Open Thread 218.5]]></description>
         </item>
     </channel>
 </rss>
