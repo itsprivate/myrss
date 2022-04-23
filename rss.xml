@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 23 Apr 2022 10:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 10:53:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[俄罗斯人民为何对普京的战争言听计从？]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/russians-support-putin-invasion-popularity/629653/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/russians-support-putin-invasion-popularity/629653/?utm_source=feed</guid>
+            <pubDate>Sat, 23 Apr 2022 10:30:56 GMT</pubDate>
+            <description><![CDATA[Why the Russian People Go Along With Putin’s War]]></description>
+        </item>
         <item>
             <title><![CDATA[我想我只是期望人们在发现我有了孩子之后会对我说些什么]]></title>
             <link>https://www.newyorker.com/humor/daily-shouts/things-i-guess-i-just-expected-people-to-say-to-me-after-they-found-out-i-had-a-baby</link>
@@ -4206,13 +4213,6 @@
             <guid>https://astralcodexten.substack.com/p/hidden-open-thread-2185</guid>
             <pubDate>Thu, 07 Apr 2022 03:05:51 GMT</pubDate>
             <description><![CDATA[Hidden Open Thread 218.5]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们都在以同样的方式被操纵]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/04/maria-ressa-disinformation-manipulation/629483/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/04/maria-ressa-disinformation-manipulation/629483/?utm_source=feed</guid>
-            <pubDate>Thu, 07 Apr 2022 01:07:01 GMT</pubDate>
-            <description><![CDATA[We’re All Being Manipulated the Same Way]]></description>
         </item>
     </channel>
 </rss>

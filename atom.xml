@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-23T10:16:31.196Z</updated>
+    <updated>2022-04-23T10:53:10.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯人民为何对普京的战争言听计从？]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/russians-support-putin-invasion-popularity/629653/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/russians-support-putin-invasion-popularity/629653/?utm_source=feed"/>
+        <updated>2022-04-23T10:30:56.000Z</updated>
+        <summary type="html"><![CDATA[Why the Russian People Go Along With Putin’s War]]></summary>
+        <author>
+            <name>Shadi Hamid</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我想我只是期望人们在发现我有了孩子之后会对我说些什么]]></title>
         <id>https://www.newyorker.com/humor/daily-shouts/things-i-guess-i-just-expected-people-to-say-to-me-after-they-found-out-i-had-a-baby</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Scott Alexander</name>
             <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们都在以同样的方式被操纵]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/04/maria-ressa-disinformation-manipulation/629483/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/04/maria-ressa-disinformation-manipulation/629483/?utm_source=feed"/>
-        <updated>2022-04-07T01:07:01.000Z</updated>
-        <summary type="html"><![CDATA[We’re All Being Manipulated the Same Way]]></summary>
-        <author>
-            <name>Maria Ressa</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
