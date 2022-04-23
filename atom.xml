@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-23T04:46:12.219Z</updated>
+    <updated>2022-04-23T09:12:37.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA['如果马克龙输了，普京就赢了。]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/french-election-extremism-macron-le-pen/629652/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/french-election-extremism-macron-le-pen/629652/?utm_source=feed"/>
+        <updated>2022-04-23T09:00:57.000Z</updated>
+        <summary type="html"><![CDATA['If Macron Loses, Putin Wins.']]></summary>
+        <author>
+            <name>Thomas Chatterton Williams</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[采访。未来学家、作家和投资者Ramez Naam]]></title>
         <id>https://noahpinion.substack.com/p/interview-ramez-naam-futurist-author</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Stacy Cowley</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[梳妆打扮不是这样的意思]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2022/04/thats-not-what-grooming-means/629501/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2022/04/thats-not-what-grooming-means/629501/?utm_source=feed"/>
-        <updated>2022-04-06T21:32:50.000Z</updated>
-        <summary type="html"><![CDATA[That’s Not What Grooming Means]]></summary>
-        <author>
-            <name>Conor Friedersdorf</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
