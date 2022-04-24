@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-24T07:13:01.123Z</updated>
+    <updated>2022-04-24T07:39:46.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[YouTube上的納粹恐慌只是另一種道德上的恐慌]]></title>
+        <id>https://noahpinion.substack.com/p/the-youtube-nazi-panic-was-just-another</id>
+        <link href="https://noahpinion.substack.com/p/the-youtube-nazi-panic-was-just-another"/>
+        <updated>2022-04-24T07:20:39.000Z</updated>
+        <summary type="html"><![CDATA[The YouTube Nazi Panic was just another moral panic]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[核博弈理論及其侷限性]]></title>
         <id>https://noahpinion.substack.com/p/nuclear-game-theory-and-its-limitations</id>
@@ -6599,17 +6610,6 @@
         <link href="https://noahpinion.substack.com/p/the-ukraine-war-and-the-price-of"/>
         <updated>2022-03-08T09:38:04.000Z</updated>
         <summary type="html"><![CDATA[The Ukraine War and the price of bread]]></summary>
-        <author>
-            <name>Noah Smith</name>
-            <uri>https://noahpinion.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高油價會導致經濟衰退嗎？]]></title>
-        <id>https://noahpinion.substack.com/p/will-high-oil-prices-cause-a-recession</id>
-        <link href="https://noahpinion.substack.com/p/will-high-oil-prices-cause-a-recession"/>
-        <updated>2022-03-10T08:11:16.000Z</updated>
-        <summary type="html"><![CDATA[Will high oil prices cause a recession?]]></summary>
         <author>
             <name>Noah Smith</name>
             <uri>https://noahpinion.substack.com/feed</uri>
