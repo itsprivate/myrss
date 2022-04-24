@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-24T20:34:34.792Z</updated>
+    <updated>2022-04-24T22:52:38.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[据说Twitter董事会将认真考虑埃隆-马斯克的出价]]></title>
+        <id>https://www.nytimes.com/2022/04/24/technology/twitter-board-elon-musk.html</id>
+        <link href="https://www.nytimes.com/2022/04/24/technology/twitter-board-elon-musk.html"/>
+        <updated>2022-04-24T22:44:53.000Z</updated>
+        <summary type="html"><![CDATA[Twitter’s Board Is Said to Seriously Consider Elon Musk’s Bid]]></summary>
+        <author>
+            <name>Lauren Hirsch and Mike Isaac</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[埃马纽埃尔-马克龙的胜利为他提供了一个成为伟大人物的机会]]></title>
         <id>https://www.theatlantic.com/international/archive/2022/04/france-presidential-election-results-macron-wins/629664/?utm_source=feed</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>E. Tammy Kim</name>
             <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谁会记得密西西比州的谋杀案？]]></title>
-        <id>https://www.theatlantic.com/magazine/archive/2022/05/mississippi-civil-rights-murders/629367/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/magazine/archive/2022/05/mississippi-civil-rights-murders/629367/?utm_source=feed"/>
-        <updated>2022-04-07T10:00:56.000Z</updated>
-        <summary type="html"><![CDATA[Who Will Remember the Mississippi Murders?]]></summary>
-        <author>
-            <name>Ko Bragg</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
