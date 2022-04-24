@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-23T16:48:46.192Z</updated>
+    <updated>2022-04-24T06:58:00.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我是人民的總督，不是墓碑的總督]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-battle-for-donbas-damage/629661/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/ukraine-battle-for-donbas-damage/629661/?utm_source=feed"/>
+        <updated>2022-04-24T06:36:12.000Z</updated>
+        <summary type="html"><![CDATA['I Am a Governor of People, Not of Tombstones']]></summary>
+        <author>
+            <name>Nataliya Gumenyuk</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<em>《大西洋》</em>日報。傾斜於黑人財富的電視節目]]></title>
         <id>https://www.theatlantic.com/newsletters/archive/2022/04/the-tv-shows-that-lean-into-black-wealth/629660/?utm_source=feed</id>
@@ -6599,17 +6610,6 @@
         <link href="https://noahpinion.substack.com/p/time-for-a-diplomatic-revolution"/>
         <updated>2022-03-11T11:15:09.000Z</updated>
         <summary type="html"><![CDATA[Time for a Diplomatic Revolution]]></summary>
-        <author>
-            <name>Noah Smith</name>
-            <uri>https://noahpinion.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要擔心去美元化的問題]]></title>
-        <id>https://noahpinion.substack.com/p/dont-worry-about-de-dollarization</id>
-        <link href="https://noahpinion.substack.com/p/dont-worry-about-de-dollarization"/>
-        <updated>2022-03-13T07:24:32.000Z</updated>
-        <summary type="html"><![CDATA[Don't worry about de-dollarization]]></summary>
         <author>
             <name>Noah Smith</name>
             <uri>https://noahpinion.substack.com/feed</uri>

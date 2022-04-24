@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 23 Apr 2022 16:48:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 06:58:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我是人民的总督，不是墓碑的总督]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-battle-for-donbas-damage/629661/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-battle-for-donbas-damage/629661/?utm_source=feed</guid>
+            <pubDate>Sun, 24 Apr 2022 06:36:12 GMT</pubDate>
+            <description><![CDATA['I Am a Governor of People, Not of Tombstones']]></description>
+        </item>
         <item>
             <title><![CDATA[<em>《大西洋》</em>日报。倾斜于黑人财富的电视节目]]></title>
             <link>https://www.theatlantic.com/newsletters/archive/2022/04/the-tv-shows-that-lean-into-black-wealth/629660/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://noahpinion.substack.com/p/time-for-a-diplomatic-revolution</guid>
             <pubDate>Fri, 11 Mar 2022 11:15:09 GMT</pubDate>
             <description><![CDATA[Time for a Diplomatic Revolution]]></description>
-        </item>
-        <item>
-            <title><![CDATA[不要担心去美元化的问题]]></title>
-            <link>https://noahpinion.substack.com/p/dont-worry-about-de-dollarization</link>
-            <guid>https://noahpinion.substack.com/p/dont-worry-about-de-dollarization</guid>
-            <pubDate>Sun, 13 Mar 2022 07:24:32 GMT</pubDate>
-            <description><![CDATA[Don't worry about de-dollarization]]></description>
         </item>
     </channel>
 </rss>
