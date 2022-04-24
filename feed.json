@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/international/archive/2022/04/france-presidential-election-results-macron-wins/629664/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/international/archive/2022/04/france-presidential-election-results-macron-wins/629664/?utm_source=feed",
+            "title": "埃马纽埃尔-马克龙的胜利为他提供了一个成为伟大人物的机会",
+            "summary": "Emmanuel Macron’s Win Offers Him a Chance to Be Great",
+            "date_modified": "2022-04-24T20:10:16.000Z",
+            "author": {
+                "name": "Tom McTague",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.currentaffairs.org/2022/04/santa-claus-is-real-and-hes-a-democratic-socialist/",
             "content_html": "",
             "url": "https://www.currentaffairs.org/2022/04/santa-claus-is-real-and-hes-a-democratic-socialist/",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-04-07T10:00:56.000Z",
             "author": {
                 "name": "Ko Bragg",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/family/archive/2022/04/arguing-with-someone-different-values/629495/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/family/archive/2022/04/arguing-with-someone-different-values/629495/?utm_source=feed",
-            "title": "你的价值观应该是一种礼物，而不是一种武器",
-            "summary": "Your Values Should Be a Gift, Not a Weapon",
-            "date_modified": "2022-04-07T10:00:56.000Z",
-            "author": {
-                "name": "Arthur C. Brooks",
                 "url": "https://www.theatlantic.com/feed/all/"
             }
         }
