@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sun, 24 Apr 2022 12:53:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 18:40:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[聖誕老人是真的，他是一個民主社會主義者]]></title>
+            <link>https://www.currentaffairs.org/2022/04/santa-claus-is-real-and-hes-a-democratic-socialist/</link>
+            <guid>https://www.currentaffairs.org/2022/04/santa-claus-is-real-and-hes-a-democratic-socialist/</guid>
+            <pubDate>Sun, 24 Apr 2022 14:24:12 GMT</pubDate>
+            <description><![CDATA[Santa Claus is Real and He’s a Democratic Socialist]]></description>
+        </item>
         <item>
             <title><![CDATA[你在看什麼？]]></title>
             <link>https://austinkleon.substack.com/p/what-are-you-watching</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/family/archive/2022/04/arguing-with-someone-different-values/629495/?utm_source=feed</guid>
             <pubDate>Thu, 07 Apr 2022 10:00:56 GMT</pubDate>
             <description><![CDATA[Your Values Should Be a Gift, Not a Weapon]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼這麼多COVID的預測都是錯誤的？]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/04/pandemic-failed-economic-forecasting/629498/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/04/pandemic-failed-economic-forecasting/629498/?utm_source=feed</guid>
-            <pubDate>Thu, 07 Apr 2022 10:00:56 GMT</pubDate>
-            <description><![CDATA[Why So Many COVID Predictions Were Wrong]]></description>
         </item>
     </channel>
 </rss>
