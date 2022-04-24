@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-24T22:52:38.880Z</updated>
+    <updated>2022-04-24T23:33:33.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[公开主题221]]></title>
+        <id>https://astralcodexten.substack.com/p/open-thread-221</id>
+        <link href="https://astralcodexten.substack.com/p/open-thread-221"/>
+        <updated>2022-04-24T23:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Open Thread 221]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[据说Twitter董事会将认真考虑埃隆-马斯克的出价]]></title>
         <id>https://www.nytimes.com/2022/04/24/technology/twitter-board-elon-musk.html</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Shirley Li</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在亚马逊成立工会]]></title>
-        <id>https://www.newyorker.com/news/dispatch/how-to-unionize-at-amazon</id>
-        <link href="https://www.newyorker.com/news/dispatch/how-to-unionize-at-amazon"/>
-        <updated>2022-04-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How to Unionize at Amazon]]></summary>
-        <author>
-            <name>E. Tammy Kim</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
 </feed>
