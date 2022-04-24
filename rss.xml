@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sun, 24 Apr 2022 07:39:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 10:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,48 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我可能不小心投射到我的猫身上的一些感觉]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/some-feelings-i-might-accidentally-be-projecting-onto-my-cat</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/some-feelings-i-might-accidentally-be-projecting-onto-my-cat</guid>
+            <pubDate>Sun, 24 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Some Feelings I Might Accidentally Be Projecting Onto My Cat]]></description>
+        </item>
+        <item>
+            <title><![CDATA[使密歇根成为下一个太空州的计划]]></title>
+            <link>https://www.newyorker.com/news/us-journal/the-plan-to-make-michigan-the-next-space-state</link>
+            <guid>https://www.newyorker.com/news/us-journal/the-plan-to-make-michigan-the-next-space-state</guid>
+            <pubDate>Sun, 24 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Plan to Make Michigan the Next Space State]]></description>
+        </item>
+        <item>
+            <title><![CDATA[密码字谜：2022年4月24日，星期日]]></title>
+            <link>https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/04/24</link>
+            <guid>https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/04/24</guid>
+            <pubDate>Sun, 24 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Cryptic Crossword: Sunday, April 24, 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[约翰-达尼埃尔想给你讲个故事]]></title>
+            <link>https://www.newyorker.com/culture/the-new-yorker-interview/john-darnielle-wants-to-tell-you-a-story</link>
+            <guid>https://www.newyorker.com/culture/the-new-yorker-interview/john-darnielle-wants-to-tell-you-a-story</guid>
+            <pubDate>Sun, 24 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[John Darnielle Wants to Tell You a Story]]></description>
+        </item>
+        <item>
+            <title><![CDATA["纳瓦尔尼 "的痛苦的俄罗斯真相]]></title>
+            <link>https://www.newyorker.com/culture/culture-desk/the-bitter-russian-truths-of-navalny</link>
+            <guid>https://www.newyorker.com/culture/culture-desk/the-bitter-russian-truths-of-navalny</guid>
+            <pubDate>Sun, 24 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Bitter Russian Truths of “Navalny”]]></description>
+        </item>
+        <item>
+            <title><![CDATA[星期日阅读。城里的夜晚]]></title>
+            <link>https://www.newyorker.com/books/double-take/sunday-reading-nights-on-the-town</link>
+            <guid>https://www.newyorker.com/books/double-take/sunday-reading-nights-on-the-town</guid>
+            <pubDate>Sun, 24 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Sunday Reading: Nights on the Town]]></description>
+        </item>
         <item>
             <title><![CDATA[YouTube上的纳粹恐慌只是另一种道德上的恐慌]]></title>
             <link>https://noahpinion.substack.com/p/the-youtube-nazi-panic-was-just-another</link>
@@ -4171,48 +4213,6 @@
             <guid>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/07</guid>
             <pubDate>Thu, 07 Apr 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[The Crossword: Thursday, April 7, 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[对香港的最后一击]]></title>
-            <link>https://www.theatlantic.com/international/archive/2022/04/hong-kong-uk-judges-resignation-democracy-risk/629494/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/international/archive/2022/04/hong-kong-uk-judges-resignation-democracy-risk/629494/?utm_source=feed</guid>
-            <pubDate>Thu, 07 Apr 2022 09:00:56 GMT</pubDate>
-            <description><![CDATA[The Final Blow to Hong Kong]]></description>
-        </item>
-        <item>
-            <title><![CDATA[面部识别如何在乌克兰战争中被使用]]></title>
-            <link>https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.html</link>
-            <guid>https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.html</guid>
-            <pubDate>Thu, 07 Apr 2022 09:00:09 GMT</pubDate>
-            <description><![CDATA[How Facial Recognition Is Being Used in the Ukraine War]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国应该增加还是减少国防开支？]]></title>
-            <link>https://noahpinion.substack.com/p/should-the-us-increase-or-decrease</link>
-            <guid>https://noahpinion.substack.com/p/should-the-us-increase-or-decrease</guid>
-            <pubDate>Thu, 07 Apr 2022 08:47:44 GMT</pubDate>
-            <description><![CDATA[Should the U.S. increase or decrease defense spending?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[<em>实验</em>播音。谁属于切罗基民族？]]></title>
-            <link>https://www.theatlantic.com/podcasts/archive/2022/04/cherokee-freedmen-controversy-slave-trade/629461/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/podcasts/archive/2022/04/cherokee-freedmen-controversy-slave-trade/629461/?utm_source=feed</guid>
-            <pubDate>Thu, 07 Apr 2022 08:00:56 GMT</pubDate>
-            <description><![CDATA[<em>The Experiment </em>Podcast: Who Belongs in the Cherokee Nation?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[亚马逊工会的成功可能指向一个新的劳工手册]]></title>
-            <link>https://www.nytimes.com/2022/04/07/business/economy/amazon-union-labor.html</link>
-            <guid>https://www.nytimes.com/2022/04/07/business/economy/amazon-union-labor.html</guid>
-            <pubDate>Thu, 07 Apr 2022 07:00:07 GMT</pubDate>
-            <description><![CDATA[Amazon Union Success May Point to a New Labor Playbook]]></description>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰战争和面包的价格]]></title>
-            <link>https://noahpinion.substack.com/p/the-ukraine-war-and-the-price-of</link>
-            <guid>https://noahpinion.substack.com/p/the-ukraine-war-and-the-price-of</guid>
-            <pubDate>Tue, 08 Mar 2022 09:38:04 GMT</pubDate>
-            <description><![CDATA[The Ukraine War and the price of bread]]></description>
         </item>
     </channel>
 </rss>
