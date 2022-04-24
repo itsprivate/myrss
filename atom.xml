@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-24T10:14:42.160Z</updated>
+    <updated>2022-04-24T12:17:55.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[将超越世界的谜题]]></title>
+        <id>https://www.theatlantic.com/technology/archive/2022/04/puzzle-will-outlast-world/629651/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/technology/archive/2022/04/puzzle-will-outlast-world/629651/?utm_source=feed"/>
+        <updated>2022-04-24T12:00:57.000Z</updated>
+        <summary type="html"><![CDATA[The Puzzle That Will Outlast the World]]></summary>
+        <author>
+            <name>A.J. Jacobs</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安德鲁斯神父]]></title>
+        <id>https://www.theatlantic.com/books/archive/2022/04/poem-thomas-lynch-father-andrews/629662/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/books/archive/2022/04/poem-thomas-lynch-father-andrews/629662/?utm_source=feed"/>
+        <updated>2022-04-24T12:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Father Andrews]]></summary>
+        <author>
+            <name>Thomas Lynch</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我可能不小心投射到我的猫身上的一些感觉]]></title>
         <id>https://www.newyorker.com/humor/daily-shouts/some-feelings-i-might-accidentally-be-projecting-onto-my-cat</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[There’s No Cool Like 1990s Cool]]></summary>
         <author>
             <name>Alex Baia</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在亚马逊成立工会]]></title>
-        <id>https://www.newyorker.com/news/dispatch/how-to-unionize-at-amazon</id>
-        <link href="https://www.newyorker.com/news/dispatch/how-to-unionize-at-amazon"/>
-        <updated>2022-04-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How to Unionize at Amazon]]></summary>
-        <author>
-            <name>E. Tammy Kim</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[填字游戏: 2022年4月7日，星期四]]></title>
-        <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/07</id>
-        <link href="https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/07"/>
-        <updated>2022-04-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Crossword: Thursday, April 7, 2022]]></summary>
-        <author>
-            <name>Elizabeth C. Gorski</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

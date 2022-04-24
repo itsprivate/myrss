@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sun, 24 Apr 2022 10:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 12:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[將超越世界的謎題]]></title>
+            <link>https://www.theatlantic.com/technology/archive/2022/04/puzzle-will-outlast-world/629651/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/technology/archive/2022/04/puzzle-will-outlast-world/629651/?utm_source=feed</guid>
+            <pubDate>Sun, 24 Apr 2022 12:00:57 GMT</pubDate>
+            <description><![CDATA[The Puzzle That Will Outlast the World]]></description>
+        </item>
+        <item>
+            <title><![CDATA[安德魯斯神父]]></title>
+            <link>https://www.theatlantic.com/books/archive/2022/04/poem-thomas-lynch-father-andrews/629662/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/books/archive/2022/04/poem-thomas-lynch-father-andrews/629662/?utm_source=feed</guid>
+            <pubDate>Sun, 24 Apr 2022 12:00:57 GMT</pubDate>
+            <description><![CDATA[Father Andrews]]></description>
+        </item>
         <item>
             <title><![CDATA[我可能不小心投射到我的貓身上的一些感覺]]></title>
             <link>https://www.newyorker.com/humor/daily-shouts/some-feelings-i-might-accidentally-be-projecting-onto-my-cat</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/humor/daily-shouts/theres-no-cool-like-1990s-cool</guid>
             <pubDate>Thu, 07 Apr 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[There’s No Cool Like 1990s Cool]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何在亞馬遜成立工會]]></title>
-            <link>https://www.newyorker.com/news/dispatch/how-to-unionize-at-amazon</link>
-            <guid>https://www.newyorker.com/news/dispatch/how-to-unionize-at-amazon</guid>
-            <pubDate>Thu, 07 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[How to Unionize at Amazon]]></description>
-        </item>
-        <item>
-            <title><![CDATA[填字遊戲: 2022年4月7日，星期四]]></title>
-            <link>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/07</link>
-            <guid>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/07</guid>
-            <pubDate>Thu, 07 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Crossword: Thursday, April 7, 2022]]></description>
         </item>
     </channel>
 </rss>

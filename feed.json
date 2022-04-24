@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/technology/archive/2022/04/puzzle-will-outlast-world/629651/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/technology/archive/2022/04/puzzle-will-outlast-world/629651/?utm_source=feed",
+            "title": "将超越世界的谜题",
+            "summary": "The Puzzle That Will Outlast the World",
+            "date_modified": "2022-04-24T12:00:57.000Z",
+            "author": {
+                "name": "A.J. Jacobs",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/books/archive/2022/04/poem-thomas-lynch-father-andrews/629662/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/books/archive/2022/04/poem-thomas-lynch-father-andrews/629662/?utm_source=feed",
+            "title": "安德鲁斯神父",
+            "summary": "Father Andrews",
+            "date_modified": "2022-04-24T12:00:57.000Z",
+            "author": {
+                "name": "Thomas Lynch",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/humor/daily-shouts/some-feelings-i-might-accidentally-be-projecting-onto-my-cat",
             "content_html": "",
             "url": "https://www.newyorker.com/humor/daily-shouts/some-feelings-i-might-accidentally-be-projecting-onto-my-cat",
@@ -7183,30 +7207,6 @@
             "date_modified": "2022-04-07T10:00:00.000Z",
             "author": {
                 "name": "Alex Baia",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/dispatch/how-to-unionize-at-amazon",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/dispatch/how-to-unionize-at-amazon",
-            "title": "如何在亚马逊成立工会",
-            "summary": "How to Unionize at Amazon",
-            "date_modified": "2022-04-07T10:00:00.000Z",
-            "author": {
-                "name": "E. Tammy Kim",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/07",
-            "content_html": "",
-            "url": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/07",
-            "title": "填字游戏: 2022年4月7日，星期四",
-            "summary": "The Crossword: Thursday, April 7, 2022",
-            "date_modified": "2022-04-07T10:00:00.000Z",
-            "author": {
-                "name": "Elizabeth C. Gorski",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }
