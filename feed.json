@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://austinkleon.substack.com/p/what-are-you-watching",
+            "content_html": "",
+            "url": "https://austinkleon.substack.com/p/what-are-you-watching",
+            "title": "你在看什么？",
+            "summary": "What are you watching?",
+            "date_modified": "2022-03-29T11:00:31.000Z",
+            "author": {
+                "name": "Austin Kleon",
+                "url": "https://austinkleon.substack.com/feed"
+            }
+        },
+        {
+            "id": "https://austinkleon.substack.com/p/old-ways-to-do-new-things",
+            "content_html": "",
+            "url": "https://austinkleon.substack.com/p/old-ways-to-do-new-things",
+            "title": "用旧方法做新事情",
+            "summary": "Old ways to do new things",
+            "date_modified": "2022-03-29T12:00:52.000Z",
+            "author": {
+                "name": "Austin Kleon",
+                "url": "https://austinkleon.substack.com/feed"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/technology/archive/2022/04/puzzle-will-outlast-world/629651/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/technology/archive/2022/04/puzzle-will-outlast-world/629651/?utm_source=feed",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "Jerusalem Demsas",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022-04-07",
-            "content_html": "",
-            "url": "https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022-04-07",
-            "title": "落名：2022年4月7日，星期四",
-            "summary": "Name Drop: Thursday, April 7, 2022",
-            "date_modified": "2022-04-07T10:00:00.000Z",
-            "author": {
-                "name": "Will Nediger",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/humor/daily-shouts/theres-no-cool-like-1990s-cool",
-            "content_html": "",
-            "url": "https://www.newyorker.com/humor/daily-shouts/theres-no-cool-like-1990s-cool",
-            "title": "没有比1990年代更酷的了",
-            "summary": "There’s No Cool Like 1990s Cool",
-            "date_modified": "2022-04-07T10:00:00.000Z",
-            "author": {
-                "name": "Alex Baia",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]

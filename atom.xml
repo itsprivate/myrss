@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-24T12:17:55.318Z</updated>
+    <updated>2022-04-24T12:53:27.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在看什么？]]></title>
+        <id>https://austinkleon.substack.com/p/what-are-you-watching</id>
+        <link href="https://austinkleon.substack.com/p/what-are-you-watching"/>
+        <updated>2022-03-29T11:00:31.000Z</updated>
+        <summary type="html"><![CDATA[What are you watching?]]></summary>
+        <author>
+            <name>Austin Kleon</name>
+            <uri>https://austinkleon.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用旧方法做新事情]]></title>
+        <id>https://austinkleon.substack.com/p/old-ways-to-do-new-things</id>
+        <link href="https://austinkleon.substack.com/p/old-ways-to-do-new-things"/>
+        <updated>2022-03-29T12:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Old ways to do new things]]></summary>
+        <author>
+            <name>Austin Kleon</name>
+            <uri>https://austinkleon.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[将超越世界的谜题]]></title>
         <id>https://www.theatlantic.com/technology/archive/2022/04/puzzle-will-outlast-world/629651/?utm_source=feed</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Jerusalem Demsas</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[落名：2022年4月7日，星期四]]></title>
-        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022-04-07</id>
-        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022-04-07"/>
-        <updated>2022-04-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Name Drop: Thursday, April 7, 2022]]></summary>
-        <author>
-            <name>Will Nediger</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[没有比1990年代更酷的了]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/theres-no-cool-like-1990s-cool</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/theres-no-cool-like-1990s-cool"/>
-        <updated>2022-04-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There’s No Cool Like 1990s Cool]]></summary>
-        <author>
-            <name>Alex Baia</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
