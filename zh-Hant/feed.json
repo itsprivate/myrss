@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://noahpinion.substack.com/p/war-got-weird",
+            "content_html": "",
+            "url": "https://noahpinion.substack.com/p/war-got-weird",
+            "title": "戰爭變得詭異",
+            "summary": "War got weird",
+            "date_modified": "2022-03-31T09:53:52.000Z",
+            "author": {
+                "name": "Noah Smith",
+                "url": "https://noahpinion.substack.com/feed"
+            }
+        },
+        {
+            "id": "https://www.currentaffairs.org/2022/04/the-right-loves-free-speech-unless-they-disagree-with-what-you-say/",
+            "content_html": "",
+            "url": "https://www.currentaffairs.org/2022/04/the-right-loves-free-speech-unless-they-disagree-with-what-you-say/",
+            "title": "右派喜歡言論自由--除非他們不同意你所說的。",
+            "summary": "The Right Loves Free Speech—Unless They Disagree With What You Say",
+            "date_modified": "2022-04-25T16:48:42.000Z",
+            "author": {
+                "name": "Nathan J. Robinson",
+                "url": "https://www.currentaffairs.org/feed"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/25/technology/elon-musk-twitter-regulators.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/25/technology/elon-musk-twitter-regulators.html",
@@ -7183,30 +7207,6 @@
             "date_modified": "2022-04-09T10:00:00.000Z",
             "author": {
                 "name": "Zoe Pearl",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/dispatch/preparing-odesas-catacombs-for-a-russian-assault",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/dispatch/preparing-odesas-catacombs-for-a-russian-assault",
-            "title": "為俄羅斯的進攻準備敖德薩的地下墓穴",
-            "summary": "Preparing Odesa’s Catacombs for a Russian Assault",
-            "date_modified": "2022-04-09T10:00:00.000Z",
-            "author": {
-                "name": "Will Hunt",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/annals-of-gastronomy/julia-child-gets-sliced-and-diced-for-a-new-era-of-television",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/annals-of-gastronomy/julia-child-gets-sliced-and-diced-for-a-new-era-of-television",
-            "title": "茱莉亞-柴爾德被切成片狀，進入電視新時代",
-            "summary": "Julia Child Gets Sliced and Diced for a New Era of Television",
-            "date_modified": "2022-04-09T10:00:00.000Z",
-            "author": {
-                "name": "Helen Rosner",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }
