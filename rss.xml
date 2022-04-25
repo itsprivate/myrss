@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 25 Apr 2022 22:51:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 23:46:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如果埃隆-马斯克收购Twitter并不是最糟糕的事情呢？]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/elon-musk-buys-twitter/629675/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/elon-musk-buys-twitter/629675/?utm_source=feed</guid>
+            <pubDate>Mon, 25 Apr 2022 23:29:42 GMT</pubDate>
+            <description><![CDATA[What If Elon Musk Buying Twitter Isn’t the Worst Thing?]]></description>
+        </item>
         <item>
             <title><![CDATA[文明冲突 "论仍然是无知的胡言乱语]]></title>
             <link>https://www.currentaffairs.org/2022/03/the-clash-of-civilizations-thesis-is-still-ignorant-nonsense/</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/magazine/2022/04/18/the-ketanji-brown-jackson-hearings-may-be-only-the-beginning</guid>
             <pubDate>Sat, 09 Apr 2022 14:00:00 GMT</pubDate>
             <description><![CDATA[The Ketanji Brown Jackson Hearings May Be Only the Beginning]]></description>
-        </item>
-        <item>
-            <title><![CDATA[<em>我们的旗帜意味着死亡</em>是同性恋的反义词]]></title>
-            <link>https://www.theatlantic.com/culture/archive/2022/04/our-flag-means-death-queerbait-romance/629523/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/culture/archive/2022/04/our-flag-means-death-queerbait-romance/629523/?utm_source=feed</guid>
-            <pubDate>Sat, 09 Apr 2022 12:00:56 GMT</pubDate>
-            <description><![CDATA[<em>Our Flag Means Death</em> Is the Opposite of Queerbait]]></description>
         </item>
     </channel>
 </rss>

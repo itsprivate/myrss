@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-25T22:51:44.856Z</updated>
+    <updated>2022-04-25T23:46:37.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果埃隆-马斯克收购Twitter并不是最糟糕的事情呢？]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/elon-musk-buys-twitter/629675/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/elon-musk-buys-twitter/629675/?utm_source=feed"/>
+        <updated>2022-04-25T23:29:42.000Z</updated>
+        <summary type="html"><![CDATA[What If Elon Musk Buying Twitter Isn’t the Worst Thing?]]></summary>
+        <author>
+            <name>Derek Thompson</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[文明冲突 "论仍然是无知的胡言乱语]]></title>
         <id>https://www.currentaffairs.org/2022/03/the-clash-of-civilizations-thesis-is-still-ignorant-nonsense/</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Amy Davidson Sorkin</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<em>我们的旗帜意味着死亡</em>是同性恋的反义词]]></title>
-        <id>https://www.theatlantic.com/culture/archive/2022/04/our-flag-means-death-queerbait-romance/629523/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/culture/archive/2022/04/our-flag-means-death-queerbait-romance/629523/?utm_source=feed"/>
-        <updated>2022-04-09T12:00:56.000Z</updated>
-        <summary type="html"><![CDATA[<em>Our Flag Means Death</em> Is the Opposite of Queerbait]]></summary>
-        <author>
-            <name>Emma Sarappo</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
