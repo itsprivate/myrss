@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 25 Apr 2022 20:53:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 21:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[迪斯尼樂園，華盛頓特區]]></title>
+            <link>https://www.newyorker.com/cartoons/blitts-kvetchbook/disneyland-dc</link>
+            <guid>https://www.newyorker.com/cartoons/blitts-kvetchbook/disneyland-dc</guid>
+            <pubDate>Mon, 25 Apr 2022 20:49:21 GMT</pubDate>
+            <description><![CDATA[Disneyland, D.C.]]></description>
+        </item>
         <item>
             <title><![CDATA[戰爭變得詭異]]></title>
             <link>https://noahpinion.substack.com/p/war-got-weird</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/magazine/2022/04/18/orville-pecks-lonesome-country</guid>
             <pubDate>Sat, 09 Apr 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Orville Peck’s Lonesome Country]]></description>
-        </item>
-        <item>
-            <title><![CDATA[史密森尼稀世珍品集》呈現。"你成年後交的新朋友"]]></title>
-            <link>https://www.newyorker.com/humor/daily-shouts/the-smithsonian-rarities-collection-presents-the-new-friend-you-made-as-an-adult</link>
-            <guid>https://www.newyorker.com/humor/daily-shouts/the-smithsonian-rarities-collection-presents-the-new-friend-you-made-as-an-adult</guid>
-            <pubDate>Sat, 09 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Smithsonian Rarities Collection Presents: “The New Friend You Made as an Adult”]]></description>
         </item>
     </channel>
 </rss>
