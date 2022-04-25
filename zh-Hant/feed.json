@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/news-desk/how-chinas-response-to-covid-19-set-the-stage-for-a-worldwide-wave-of-censorship",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/news-desk/how-chinas-response-to-covid-19-set-the-stage-for-a-worldwide-wave-of-censorship",
+            "title": "中國對COVID-19的迴應如何為世界範圍內的審查浪潮埋下伏筆",
+            "summary": "How China’s Response to COVID-19 Set the Stage for a Worldwide Wave of Censorship",
+            "date_modified": "2022-04-25T22:18:11.000Z",
+            "author": {
+                "name": "Joel Simon, Robert Mahoney",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/04/25/technology/conservatives-musk-twitter.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/25/technology/conservatives-musk-twitter.html",
+            "title": "保守派慶祝馬斯克收購Twitter的交易。",
+            "summary": "Conservatives celebrate Musk’s deal to buy Twitter.",
+            "date_modified": "2022-04-25T22:24:37.000Z",
+            "author": {
+                "name": "David McCabe",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/cartoons/blitts-kvetchbook/disneyland-dc",
             "content_html": "",
             "url": "https://www.newyorker.com/cartoons/blitts-kvetchbook/disneyland-dc",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "Ben Burgis",
                 "url": "https://www.currentaffairs.org/feed"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/04/cambodian-autocracy-democracy-russian-war/629505/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/04/cambodian-autocracy-democracy-russian-war/629505/?utm_source=feed",
-            "title": "美國正在遺棄的民主黨人",
-            "summary": "The Democrats America Is Leaving Behind",
-            "date_modified": "2022-04-09T10:01:56.000Z",
-            "author": {
-                "name": "Laura Thornton",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/04/18/orville-pecks-lonesome-country",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/04/18/orville-pecks-lonesome-country",
-            "title": "奧維爾-佩克的《孤獨的國家》雜誌",
-            "summary": "Orville Peck’s Lonesome Country",
-            "date_modified": "2022-04-09T10:00:00.000Z",
-            "author": {
-                "name": "Amanda Petrusich",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 25 Apr 2022 21:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 22:35:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[中国对COVID-19的回应如何为世界范围内的审查浪潮埋下伏笔]]></title>
+            <link>https://www.newyorker.com/news/news-desk/how-chinas-response-to-covid-19-set-the-stage-for-a-worldwide-wave-of-censorship</link>
+            <guid>https://www.newyorker.com/news/news-desk/how-chinas-response-to-covid-19-set-the-stage-for-a-worldwide-wave-of-censorship</guid>
+            <pubDate>Mon, 25 Apr 2022 22:18:11 GMT</pubDate>
+            <description><![CDATA[How China’s Response to COVID-19 Set the Stage for a Worldwide Wave of Censorship]]></description>
+        </item>
+        <item>
+            <title><![CDATA[保守派庆祝马斯克收购Twitter的交易。]]></title>
+            <link>https://www.nytimes.com/2022/04/25/technology/conservatives-musk-twitter.html</link>
+            <guid>https://www.nytimes.com/2022/04/25/technology/conservatives-musk-twitter.html</guid>
+            <pubDate>Mon, 25 Apr 2022 22:24:37 GMT</pubDate>
+            <description><![CDATA[Conservatives celebrate Musk’s deal to buy Twitter.]]></description>
+        </item>
         <item>
             <title><![CDATA[迪斯尼乐园，华盛顿特区]]></title>
             <link>https://www.newyorker.com/cartoons/blitts-kvetchbook/disneyland-dc</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.currentaffairs.org/2022/03/is-whataboutism-always-a-bad-thing/</guid>
             <pubDate>Fri, 18 Mar 2022 20:35:23 GMT</pubDate>
             <description><![CDATA[Is &#8220;Whataboutism&#8221; Always a Bad Thing?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国正在遗弃的民主党人]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/04/cambodian-autocracy-democracy-russian-war/629505/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/04/cambodian-autocracy-democracy-russian-war/629505/?utm_source=feed</guid>
-            <pubDate>Sat, 09 Apr 2022 10:01:56 GMT</pubDate>
-            <description><![CDATA[The Democrats America Is Leaving Behind]]></description>
-        </item>
-        <item>
-            <title><![CDATA[奥维尔-佩克的《孤独的国家》杂志]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/18/orville-pecks-lonesome-country</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/18/orville-pecks-lonesome-country</guid>
-            <pubDate>Sat, 09 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Orville Peck’s Lonesome Country]]></description>
         </item>
     </channel>
 </rss>

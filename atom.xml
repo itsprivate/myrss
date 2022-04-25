@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-25T21:13:57.399Z</updated>
+    <updated>2022-04-25T22:35:02.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[中国对COVID-19的回应如何为世界范围内的审查浪潮埋下伏笔]]></title>
+        <id>https://www.newyorker.com/news/news-desk/how-chinas-response-to-covid-19-set-the-stage-for-a-worldwide-wave-of-censorship</id>
+        <link href="https://www.newyorker.com/news/news-desk/how-chinas-response-to-covid-19-set-the-stage-for-a-worldwide-wave-of-censorship"/>
+        <updated>2022-04-25T22:18:11.000Z</updated>
+        <summary type="html"><![CDATA[How China’s Response to COVID-19 Set the Stage for a Worldwide Wave of Censorship]]></summary>
+        <author>
+            <name>Joel Simon, Robert Mahoney</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[保守派庆祝马斯克收购Twitter的交易。]]></title>
+        <id>https://www.nytimes.com/2022/04/25/technology/conservatives-musk-twitter.html</id>
+        <link href="https://www.nytimes.com/2022/04/25/technology/conservatives-musk-twitter.html"/>
+        <updated>2022-04-25T22:24:37.000Z</updated>
+        <summary type="html"><![CDATA[Conservatives celebrate Musk’s deal to buy Twitter.]]></summary>
+        <author>
+            <name>David McCabe</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[迪斯尼乐园，华盛顿特区]]></title>
         <id>https://www.newyorker.com/cartoons/blitts-kvetchbook/disneyland-dc</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Ben Burgis</name>
             <uri>https://www.currentaffairs.org/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国正在遗弃的民主党人]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/04/cambodian-autocracy-democracy-russian-war/629505/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/04/cambodian-autocracy-democracy-russian-war/629505/?utm_source=feed"/>
-        <updated>2022-04-09T10:01:56.000Z</updated>
-        <summary type="html"><![CDATA[The Democrats America Is Leaving Behind]]></summary>
-        <author>
-            <name>Laura Thornton</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奥维尔-佩克的《孤独的国家》杂志]]></title>
-        <id>https://www.newyorker.com/magazine/2022/04/18/orville-pecks-lonesome-country</id>
-        <link href="https://www.newyorker.com/magazine/2022/04/18/orville-pecks-lonesome-country"/>
-        <updated>2022-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Orville Peck’s Lonesome Country]]></summary>
-        <author>
-            <name>Amanda Petrusich</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
