@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-25T13:01:21.188Z</updated>
+    <updated>2022-04-25T14:33:58.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一支編碼大軍挑戰時間稅]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/code-for-america-time-tax/629655/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/code-for-america-time-tax/629655/?utm_source=feed"/>
+        <updated>2022-04-25T14:21:56.000Z</updated>
+        <summary type="html"><![CDATA[An Army of Coders Takes on the Time Tax]]></summary>
+        <author>
+            <name>Annie Lowrey</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[共和黨人是如何搞砸他們在參議院的大好機會的？]]></title>
+        <id>https://www.theatlantic.com/politics/archive/2022/04/republicans-senate-midterm-elections/629657/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/politics/archive/2022/04/republicans-senate-midterm-elections/629657/?utm_source=feed"/>
+        <updated>2022-04-25T14:18:50.000Z</updated>
+        <summary type="html"><![CDATA[How Republicans Could Blow Their Big Senate Chance]]></summary>
+        <author>
+            <name>Russell Berman</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使正統猶太婦女產生分歧的有爭議的婚姻書]]></title>
         <id>https://www.theatlantic.com/culture/archive/2022/04/orthodox-judaism-laura-doyle-the-surrendered-wife/629663/?utm_source=feed</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Jacob Stern</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[能否防止種族滅絕？]]></title>
-        <id>https://www.newyorker.com/podcast/politics-and-more/can-genocide-be-prevented</id>
-        <link href="https://www.newyorker.com/podcast/politics-and-more/can-genocide-be-prevented"/>
-        <updated>2022-04-07T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Can Genocide Be Prevented?]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特德-克魯茲說，確認合格的被提名人樹立了危險的先例]]></title>
-        <id>https://www.newyorker.com/humor/borowitz-report/ted-cruz-says-confirmation-of-qualified-nominee-sets-dangerous-precedent</id>
-        <link href="https://www.newyorker.com/humor/borowitz-report/ted-cruz-says-confirmation-of-qualified-nominee-sets-dangerous-precedent"/>
-        <updated>2022-04-07T21:08:39.000Z</updated>
-        <summary type="html"><![CDATA[Ted Cruz Says Confirmation of Qualified Nominee Sets Dangerous Precedent]]></summary>
-        <author>
-            <name>Andy Borowitz</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>

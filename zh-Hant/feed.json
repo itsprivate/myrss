@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/04/code-for-america-time-tax/629655/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/04/code-for-america-time-tax/629655/?utm_source=feed",
+            "title": "一支編碼大軍挑戰時間稅",
+            "summary": "An Army of Coders Takes on the Time Tax",
+            "date_modified": "2022-04-25T14:21:56.000Z",
+            "author": {
+                "name": "Annie Lowrey",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/politics/archive/2022/04/republicans-senate-midterm-elections/629657/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/politics/archive/2022/04/republicans-senate-midterm-elections/629657/?utm_source=feed",
+            "title": "共和黨人是如何搞砸他們在參議院的大好機會的？",
+            "summary": "How Republicans Could Blow Their Big Senate Chance",
+            "date_modified": "2022-04-25T14:18:50.000Z",
+            "author": {
+                "name": "Russell Berman",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/culture/archive/2022/04/orthodox-judaism-laura-doyle-the-surrendered-wife/629663/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/culture/archive/2022/04/orthodox-judaism-laura-doyle-the-surrendered-wife/629663/?utm_source=feed",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "Jacob Stern",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/podcast/politics-and-more/can-genocide-be-prevented",
-            "content_html": "",
-            "url": "https://www.newyorker.com/podcast/politics-and-more/can-genocide-be-prevented",
-            "title": "能否防止種族滅絕？",
-            "summary": "Can Genocide Be Prevented?",
-            "date_modified": "2022-04-07T21:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/humor/borowitz-report/ted-cruz-says-confirmation-of-qualified-nominee-sets-dangerous-precedent",
-            "content_html": "",
-            "url": "https://www.newyorker.com/humor/borowitz-report/ted-cruz-says-confirmation-of-qualified-nominee-sets-dangerous-precedent",
-            "title": "特德-克魯茲說，確認合格的被提名人樹立了危險的先例",
-            "summary": "Ted Cruz Says Confirmation of Qualified Nominee Sets Dangerous Precedent",
-            "date_modified": "2022-04-07T21:08:39.000Z",
-            "author": {
-                "name": "Andy Borowitz",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]
