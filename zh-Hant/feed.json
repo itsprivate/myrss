@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/25/business/amazon-union-staten-island.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/25/business/amazon-union-staten-island.html",
+            "title": "亞馬遜工人開始對史坦頓島另一工廠的工會進行投票表決",
+            "summary": "Amazon Workers Begin Voting on Union at Another Staten Island Facility",
+            "date_modified": "2022-04-25T16:09:32.000Z",
+            "author": {
+                "name": "Noam Scheiber and Coral Murphy Marcos",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.currentaffairs.org/2022/03/the-making-of-the-self-made-man/",
+            "content_html": "",
+            "url": "https://www.currentaffairs.org/2022/03/the-making-of-the-self-made-man/",
+            "title": "自成一體的人的形成",
+            "summary": "The Making of the Self-Made Man",
+            "date_modified": "2022-03-30T13:28:08.000Z",
+            "author": {
+                "name": "Tara Isabella Burton",
+                "url": "https://www.currentaffairs.org/feed"
+            }
+        },
+        {
             "id": "https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/",
             "content_html": "",
             "url": "https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/",
@@ -7183,30 +7207,6 @@
             "date_modified": "2022-04-08T20:00:00.000Z",
             "author": {
                 "name": "David Remnick",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/the-front-row/why-a-documentary-about-a-cow-reveals-the-limits-of-an-art-form",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/the-front-row/why-a-documentary-about-a-cow-reveals-the-limits-of-an-art-form",
-            "title": "為什麼一部關於奶牛的紀錄片揭示了一種藝術形式的侷限性？",
-            "summary": "Why a Documentary About a Cow Reveals the Limits of an Art Form",
-            "date_modified": "2022-04-08T19:39:07.000Z",
-            "author": {
-                "name": "Richard Brody",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/our-columnists/is-larry-summers-really-right-about-inflation-and-biden",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/our-columnists/is-larry-summers-really-right-about-inflation-and-biden",
-            "title": "拉里-薩默斯對通貨膨脹和拜登的看法真的正確嗎？",
-            "summary": "Is Larry Summers Really Right About Inflation and Biden?",
-            "date_modified": "2022-04-08T18:29:46.000Z",
-            "author": {
-                "name": "John Cassidy",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

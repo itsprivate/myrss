@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-25T16:19:56.002Z</updated>
+    <updated>2022-04-25T16:54:50.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亚马逊工人开始对史坦顿岛另一工厂的工会进行投票表决]]></title>
+        <id>https://www.nytimes.com/2022/04/25/business/amazon-union-staten-island.html</id>
+        <link href="https://www.nytimes.com/2022/04/25/business/amazon-union-staten-island.html"/>
+        <updated>2022-04-25T16:09:32.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Workers Begin Voting on Union at Another Staten Island Facility]]></summary>
+        <author>
+            <name>Noam Scheiber and Coral Murphy Marcos</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自成一体的人的形成]]></title>
+        <id>https://www.currentaffairs.org/2022/03/the-making-of-the-self-made-man/</id>
+        <link href="https://www.currentaffairs.org/2022/03/the-making-of-the-self-made-man/"/>
+        <updated>2022-03-30T13:28:08.000Z</updated>
+        <summary type="html"><![CDATA[The Making of the Self-Made Man]]></summary>
+        <author>
+            <name>Tara Isabella Burton</name>
+            <uri>https://www.currentaffairs.org/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日本的故乡税]]></title>
         <id>https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[Anita Hill Saw History Repeat Itself at Ketanji Brown Jackson’s Supreme Court Hearings]]></summary>
         <author>
             <name>David Remnick</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么一部关于奶牛的纪录片揭示了一种艺术形式的局限性？]]></title>
-        <id>https://www.newyorker.com/culture/the-front-row/why-a-documentary-about-a-cow-reveals-the-limits-of-an-art-form</id>
-        <link href="https://www.newyorker.com/culture/the-front-row/why-a-documentary-about-a-cow-reveals-the-limits-of-an-art-form"/>
-        <updated>2022-04-08T19:39:07.000Z</updated>
-        <summary type="html"><![CDATA[Why a Documentary About a Cow Reveals the Limits of an Art Form]]></summary>
-        <author>
-            <name>Richard Brody</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拉里-萨默斯对通货膨胀和拜登的看法真的正确吗？]]></title>
-        <id>https://www.newyorker.com/news/our-columnists/is-larry-summers-really-right-about-inflation-and-biden</id>
-        <link href="https://www.newyorker.com/news/our-columnists/is-larry-summers-really-right-about-inflation-and-biden"/>
-        <updated>2022-04-08T18:29:46.000Z</updated>
-        <summary type="html"><![CDATA[Is Larry Summers Really Right About Inflation and Biden?]]></summary>
-        <author>
-            <name>John Cassidy</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

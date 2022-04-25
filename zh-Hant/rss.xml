@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 25 Apr 2022 16:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 16:54:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[亞馬遜工人開始對史坦頓島另一工廠的工會進行投票表決]]></title>
+            <link>https://www.nytimes.com/2022/04/25/business/amazon-union-staten-island.html</link>
+            <guid>https://www.nytimes.com/2022/04/25/business/amazon-union-staten-island.html</guid>
+            <pubDate>Mon, 25 Apr 2022 16:09:32 GMT</pubDate>
+            <description><![CDATA[Amazon Workers Begin Voting on Union at Another Staten Island Facility]]></description>
+        </item>
+        <item>
+            <title><![CDATA[自成一體的人的形成]]></title>
+            <link>https://www.currentaffairs.org/2022/03/the-making-of-the-self-made-man/</link>
+            <guid>https://www.currentaffairs.org/2022/03/the-making-of-the-self-made-man/</guid>
+            <pubDate>Wed, 30 Mar 2022 13:28:08 GMT</pubDate>
+            <description><![CDATA[The Making of the Self-Made Man]]></description>
+        </item>
         <item>
             <title><![CDATA[日本的故鄉稅]]></title>
             <link>https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/news/q-and-a/anita-hill-ketanji-brown-jackson-supreme-court</guid>
             <pubDate>Fri, 08 Apr 2022 20:00:00 GMT</pubDate>
             <description><![CDATA[Anita Hill Saw History Repeat Itself at Ketanji Brown Jackson’s Supreme Court Hearings]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼一部關於奶牛的紀錄片揭示了一種藝術形式的侷限性？]]></title>
-            <link>https://www.newyorker.com/culture/the-front-row/why-a-documentary-about-a-cow-reveals-the-limits-of-an-art-form</link>
-            <guid>https://www.newyorker.com/culture/the-front-row/why-a-documentary-about-a-cow-reveals-the-limits-of-an-art-form</guid>
-            <pubDate>Fri, 08 Apr 2022 19:39:07 GMT</pubDate>
-            <description><![CDATA[Why a Documentary About a Cow Reveals the Limits of an Art Form]]></description>
-        </item>
-        <item>
-            <title><![CDATA[拉里-薩默斯對通貨膨脹和拜登的看法真的正確嗎？]]></title>
-            <link>https://www.newyorker.com/news/our-columnists/is-larry-summers-really-right-about-inflation-and-biden</link>
-            <guid>https://www.newyorker.com/news/our-columnists/is-larry-summers-really-right-about-inflation-and-biden</guid>
-            <pubDate>Fri, 08 Apr 2022 18:29:46 GMT</pubDate>
-            <description><![CDATA[Is Larry Summers Really Right About Inflation and Biden?]]></description>
         </item>
     </channel>
 </rss>
