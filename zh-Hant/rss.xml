@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 25 Apr 2022 20:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 20:46:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[埃隆-馬斯克的Twitter交易不太可能被監管機構阻止]]></title>
+            <link>https://www.nytimes.com/2022/04/25/technology/elon-musk-twitter-regulators.html</link>
+            <guid>https://www.nytimes.com/2022/04/25/technology/elon-musk-twitter-regulators.html</guid>
+            <pubDate>Mon, 25 Apr 2022 20:33:11 GMT</pubDate>
+            <description><![CDATA[Elon Musk’s Twitter Deal Unlikely to Be Blocked by Regulators]]></description>
+        </item>
         <item>
             <title><![CDATA[羅南-法羅談現代間諜軟件的威脅]]></title>
             <link>https://www.newyorker.com/podcast/politics-and-more/ronan-farrow-on-the-threat-of-modern-spyware</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/culture/annals-of-gastronomy/julia-child-gets-sliced-and-diced-for-a-new-era-of-television</guid>
             <pubDate>Sat, 09 Apr 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Julia Child Gets Sliced and Diced for a New Era of Television]]></description>
-        </item>
-        <item>
-            <title><![CDATA[栽培部]]></title>
-            <link>https://www.newyorker.com/magazine/dept-of-cultivation</link>
-            <guid>https://www.newyorker.com/magazine/dept-of-cultivation</guid>
-            <pubDate>Sat, 09 Apr 2022 03:20:53 GMT</pubDate>
-            <description><![CDATA[Dept. of Cultivation]]></description>
         </item>
     </channel>
 </rss>

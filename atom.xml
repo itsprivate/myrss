@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-25T20:15:36.901Z</updated>
+    <updated>2022-04-25T20:46:36.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[埃隆-马斯克的Twitter交易不太可能被监管机构阻止]]></title>
+        <id>https://www.nytimes.com/2022/04/25/technology/elon-musk-twitter-regulators.html</id>
+        <link href="https://www.nytimes.com/2022/04/25/technology/elon-musk-twitter-regulators.html"/>
+        <updated>2022-04-25T20:33:11.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk’s Twitter Deal Unlikely to Be Blocked by Regulators]]></summary>
+        <author>
+            <name>David McCabe</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[罗南-法罗谈现代间谍软件的威胁]]></title>
         <id>https://www.newyorker.com/podcast/politics-and-more/ronan-farrow-on-the-threat-of-modern-spyware</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Julia Child Gets Sliced and Diced for a New Era of Television]]></summary>
         <author>
             <name>Helen Rosner</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[栽培部]]></title>
-        <id>https://www.newyorker.com/magazine/dept-of-cultivation</id>
-        <link href="https://www.newyorker.com/magazine/dept-of-cultivation"/>
-        <updated>2022-04-09T03:20:53.000Z</updated>
-        <summary type="html"><![CDATA[Dept. of Cultivation]]></summary>
-        <author>
-            <name>unknown</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

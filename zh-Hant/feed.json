@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/25/technology/elon-musk-twitter-regulators.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/25/technology/elon-musk-twitter-regulators.html",
+            "title": "埃隆-馬斯克的Twitter交易不太可能被監管機構阻止",
+            "summary": "Elon Musk’s Twitter Deal Unlikely to Be Blocked by Regulators",
+            "date_modified": "2022-04-25T20:33:11.000Z",
+            "author": {
+                "name": "David McCabe",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/podcast/politics-and-more/ronan-farrow-on-the-threat-of-modern-spyware",
             "content_html": "",
             "url": "https://www.newyorker.com/podcast/politics-and-more/ronan-farrow-on-the-threat-of-modern-spyware",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-04-09T10:00:00.000Z",
             "author": {
                 "name": "Helen Rosner",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/dept-of-cultivation",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/dept-of-cultivation",
-            "title": "栽培部",
-            "summary": "Dept. of Cultivation",
-            "date_modified": "2022-04-09T03:20:53.000Z",
-            "author": {
-                "name": "unknown",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }
