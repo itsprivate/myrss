@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 25 Apr 2022 15:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 15:41:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[工作組關於日本和covid-19的白皮書]]></title>
+            <link>https://www.kalzumeus.com/covid19-japan-white-paper/</link>
+            <guid>https://www.kalzumeus.com/covid19-japan-white-paper/</guid>
+            <pubDate>Thu, 26 Mar 2020 09:15:00 GMT</pubDate>
+            <description><![CDATA[The Working Group's White paper on Japan and covid-19]]></description>
+        </item>
+        <item>
+            <title><![CDATA[丟棄哈希值：一個用來證明文件出處的成語]]></title>
+            <link>https://www.kalzumeus.com/essays/dropping-hashes/</link>
+            <guid>https://www.kalzumeus.com/essays/dropping-hashes/</guid>
+            <pubDate>Tue, 21 Apr 2020 12:45:00 GMT</pubDate>
+            <description><![CDATA[Dropping hashes: an idiom used to demonstrate provenance of documents]]></description>
+        </item>
+        <item>
+            <title><![CDATA[馬斯克交易成形，Twitter員工尋找答案]]></title>
+            <link>https://www.nytimes.com/2022/04/25/technology/twitter-employees-elon-musk.html</link>
+            <guid>https://www.nytimes.com/2022/04/25/technology/twitter-employees-elon-musk.html</guid>
+            <pubDate>Mon, 25 Apr 2022 15:28:04 GMT</pubDate>
+            <description><![CDATA[Twitter Employees Search for Answers as Musk Deal Takes Shape]]></description>
+        </item>
         <item>
             <title><![CDATA[關於冠狀病毒的預登記結果的最新情況]]></title>
             <link>https://www.kalzumeus.com/2020/04/21/japan-coronavirus/</link>
@@ -4192,27 +4213,6 @@
             <guid>https://www.theatlantic.com/photo/2022/04/photos-of-the-week-tile-tapping-tomb-sweeping-beach-mines/629515/?utm_source=feed</guid>
             <pubDate>Fri, 08 Apr 2022 04:31:56 GMT</pubDate>
             <description><![CDATA[Photos of the Week: Tile Tapping, Tomb Sweeping, Beach Mines]]></description>
-        </item>
-        <item>
-            <title><![CDATA[不道德變成邪惡的界限在哪裡？]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/04/maria-ressa-rappler-philippines-facebook/629510/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/04/maria-ressa-rappler-philippines-facebook/629510/?utm_source=feed</guid>
-            <pubDate>Thu, 07 Apr 2022 23:20:54 GMT</pubDate>
-            <description><![CDATA[‘Where Is the Line Where Immoral Becomes Evil?’]]></description>
-        </item>
-        <item>
-            <title><![CDATA[同行評審要求。晦澀難懂的懷孕干預措施]]></title>
-            <link>https://astralcodexten.substack.com/p/peer-review-request-obscure-pregnancy</link>
-            <guid>https://astralcodexten.substack.com/p/peer-review-request-obscure-pregnancy</guid>
-            <pubDate>Thu, 07 Apr 2022 23:28:49 GMT</pubDate>
-            <description><![CDATA[Peer Review Request: Obscure Pregnancy Interventions]]></description>
-        </item>
-        <item>
-            <title><![CDATA[拆毀房屋]]></title>
-            <link>https://www.newyorker.com/news/afterword/tearing-down-the-house</link>
-            <guid>https://www.newyorker.com/news/afterword/tearing-down-the-house</guid>
-            <pubDate>Thu, 07 Apr 2022 23:16:40 GMT</pubDate>
-            <description><![CDATA[Tearing Down the House]]></description>
         </item>
     </channel>
 </rss>

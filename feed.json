@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "https://www.kalzumeus.com/covid19-japan-white-paper/",
+            "content_html": "",
+            "url": "https://www.kalzumeus.com/covid19-japan-white-paper/",
+            "title": "工作组关于日本和covid-19的白皮书",
+            "summary": "The Working Group's White paper on Japan and covid-19",
+            "date_modified": "2020-03-26T09:15:00.000Z",
+            "author": {
+                "name": "Patrick McKenzie (patio11)",
+                "url": "https://www.kalzumeus.com/feed/articles/"
+            }
+        },
+        {
+            "id": "https://www.kalzumeus.com/essays/dropping-hashes/",
+            "content_html": "",
+            "url": "https://www.kalzumeus.com/essays/dropping-hashes/",
+            "title": "丢弃哈希值：一个用来证明文件出处的成语",
+            "summary": "Dropping hashes: an idiom used to demonstrate provenance of documents",
+            "date_modified": "2020-04-21T12:45:00.000Z",
+            "author": {
+                "name": "Patrick McKenzie (patio11)",
+                "url": "https://www.kalzumeus.com/feed/articles/"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/04/25/technology/twitter-employees-elon-musk.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/25/technology/twitter-employees-elon-musk.html",
+            "title": "马斯克交易成形，Twitter员工寻找答案",
+            "summary": "Twitter Employees Search for Answers as Musk Deal Takes Shape",
+            "date_modified": "2022-04-25T15:28:04.000Z",
+            "author": {
+                "name": "Kate Conger",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.kalzumeus.com/2020/04/21/japan-coronavirus/",
             "content_html": "",
             "url": "https://www.kalzumeus.com/2020/04/21/japan-coronavirus/",
@@ -7172,42 +7208,6 @@
             "author": {
                 "name": "Alan Taylor",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/04/maria-ressa-rappler-philippines-facebook/629510/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/04/maria-ressa-rappler-philippines-facebook/629510/?utm_source=feed",
-            "title": "不道德变成邪恶的界限在哪里？",
-            "summary": "‘Where Is the Line Where Immoral Becomes Evil?’",
-            "date_modified": "2022-04-07T23:20:54.000Z",
-            "author": {
-                "name": "Ellen Cushing",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://astralcodexten.substack.com/p/peer-review-request-obscure-pregnancy",
-            "content_html": "",
-            "url": "https://astralcodexten.substack.com/p/peer-review-request-obscure-pregnancy",
-            "title": "同行评审要求。晦涩难懂的怀孕干预措施",
-            "summary": "Peer Review Request: Obscure Pregnancy Interventions",
-            "date_modified": "2022-04-07T23:28:49.000Z",
-            "author": {
-                "name": "Scott Alexander",
-                "url": "https://astralcodexten.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/afterword/tearing-down-the-house",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/afterword/tearing-down-the-house",
-            "title": "拆毁房屋",
-            "summary": "Tearing Down the House",
-            "date_modified": "2022-04-07T23:16:40.000Z",
-            "author": {
-                "name": "Susan Orlean",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]

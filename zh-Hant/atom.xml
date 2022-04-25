@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-25T15:17:13.475Z</updated>
+    <updated>2022-04-25T15:41:23.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[工作組關於日本和covid-19的白皮書]]></title>
+        <id>https://www.kalzumeus.com/covid19-japan-white-paper/</id>
+        <link href="https://www.kalzumeus.com/covid19-japan-white-paper/"/>
+        <updated>2020-03-26T09:15:00.000Z</updated>
+        <summary type="html"><![CDATA[The Working Group's White paper on Japan and covid-19]]></summary>
+        <author>
+            <name>Patrick McKenzie (patio11)</name>
+            <uri>https://www.kalzumeus.com/feed/articles/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[丟棄哈希值：一個用來證明文件出處的成語]]></title>
+        <id>https://www.kalzumeus.com/essays/dropping-hashes/</id>
+        <link href="https://www.kalzumeus.com/essays/dropping-hashes/"/>
+        <updated>2020-04-21T12:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Dropping hashes: an idiom used to demonstrate provenance of documents]]></summary>
+        <author>
+            <name>Patrick McKenzie (patio11)</name>
+            <uri>https://www.kalzumeus.com/feed/articles/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[馬斯克交易成形，Twitter員工尋找答案]]></title>
+        <id>https://www.nytimes.com/2022/04/25/technology/twitter-employees-elon-musk.html</id>
+        <link href="https://www.nytimes.com/2022/04/25/technology/twitter-employees-elon-musk.html"/>
+        <updated>2022-04-25T15:28:04.000Z</updated>
+        <summary type="html"><![CDATA[Twitter Employees Search for Answers as Musk Deal Takes Shape]]></summary>
+        <author>
+            <name>Kate Conger</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於冠狀病毒的預登記結果的最新情況]]></title>
         <id>https://www.kalzumeus.com/2020/04/21/japan-coronavirus/</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>Alan Taylor</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不道德變成邪惡的界限在哪裡？]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/04/maria-ressa-rappler-philippines-facebook/629510/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/04/maria-ressa-rappler-philippines-facebook/629510/?utm_source=feed"/>
-        <updated>2022-04-07T23:20:54.000Z</updated>
-        <summary type="html"><![CDATA[‘Where Is the Line Where Immoral Becomes Evil?’]]></summary>
-        <author>
-            <name>Ellen Cushing</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[同行評審要求。晦澀難懂的懷孕干預措施]]></title>
-        <id>https://astralcodexten.substack.com/p/peer-review-request-obscure-pregnancy</id>
-        <link href="https://astralcodexten.substack.com/p/peer-review-request-obscure-pregnancy"/>
-        <updated>2022-04-07T23:28:49.000Z</updated>
-        <summary type="html"><![CDATA[Peer Review Request: Obscure Pregnancy Interventions]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拆毀房屋]]></title>
-        <id>https://www.newyorker.com/news/afterword/tearing-down-the-house</id>
-        <link href="https://www.newyorker.com/news/afterword/tearing-down-the-house"/>
-        <updated>2022-04-07T23:16:40.000Z</updated>
-        <summary type="html"><![CDATA[Tearing Down the House]]></summary>
-        <author>
-            <name>Susan Orlean</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
