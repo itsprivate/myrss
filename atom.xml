@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-25T14:53:36.322Z</updated>
+    <updated>2022-04-25T15:17:13.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于冠状病毒的预登记结果的最新情况]]></title>
+        <id>https://www.kalzumeus.com/2020/04/21/japan-coronavirus/</id>
+        <link href="https://www.kalzumeus.com/2020/04/21/japan-coronavirus/"/>
+        <updated>2020-04-21T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An update on a pre-registered result about the coronavirus]]></summary>
+        <author>
+            <name>Patrick McKenzie (patio11)</name>
+            <uri>https://www.kalzumeus.com/feed/articles/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Stripe工作是怎样的体验]]></title>
+        <id>https://www.kalzumeus.com/2020/10/09/four-years-at-stripe/</id>
+        <link href="https://www.kalzumeus.com/2020/10/09/four-years-at-stripe/"/>
+        <updated>2020-10-08T16:35:00.000Z</updated>
+        <summary type="html"><![CDATA[What Working At Stripe Has Been Like]]></summary>
+        <author>
+            <name>Patrick McKenzie (patio11)</name>
+            <uri>https://www.kalzumeus.com/feed/articles/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[解决疫苗数据问题]]></title>
         <id>https://www.kalzumeus.com/2021/04/23/vaccinate-the-states/</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Susan Orlean</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安妮-阿普尔鲍姆：社交媒体使散布虚假信息变得容易了]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/04/russian-disinformation-social-media-propaganda/629497/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/04/russian-disinformation-social-media-propaganda/629497/?utm_source=feed"/>
-        <updated>2022-04-07T22:48:56.000Z</updated>
-        <summary type="html"><![CDATA[Anne Applebaum: Social Media Made Spreading Disinformation Easy]]></summary>
-        <author>
-            <name>Kate Cray</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[总统被COVID-19包围了]]></title>
-        <id>https://www.theatlantic.com/politics/archive/2022/04/biden-covid-test-pelosi-positive-outbreak/629513/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/politics/archive/2022/04/biden-covid-test-pelosi-positive-outbreak/629513/?utm_source=feed"/>
-        <updated>2022-04-07T21:42:47.000Z</updated>
-        <summary type="html"><![CDATA[The President Is Surrounded By COVID-19]]></summary>
-        <author>
-            <name>Russell Berman</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>

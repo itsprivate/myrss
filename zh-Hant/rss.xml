@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 25 Apr 2022 14:53:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 15:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[關於冠狀病毒的預登記結果的最新情況]]></title>
+            <link>https://www.kalzumeus.com/2020/04/21/japan-coronavirus/</link>
+            <guid>https://www.kalzumeus.com/2020/04/21/japan-coronavirus/</guid>
+            <pubDate>Tue, 21 Apr 2020 13:00:00 GMT</pubDate>
+            <description><![CDATA[An update on a pre-registered result about the coronavirus]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在Stripe工作是怎樣的體驗]]></title>
+            <link>https://www.kalzumeus.com/2020/10/09/four-years-at-stripe/</link>
+            <guid>https://www.kalzumeus.com/2020/10/09/four-years-at-stripe/</guid>
+            <pubDate>Thu, 08 Oct 2020 16:35:00 GMT</pubDate>
+            <description><![CDATA[What Working At Stripe Has Been Like]]></description>
+        </item>
         <item>
             <title><![CDATA[解決疫苗數據問題]]></title>
             <link>https://www.kalzumeus.com/2021/04/23/vaccinate-the-states/</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/news/afterword/tearing-down-the-house</guid>
             <pubDate>Thu, 07 Apr 2022 23:16:40 GMT</pubDate>
             <description><![CDATA[Tearing Down the House]]></description>
-        </item>
-        <item>
-            <title><![CDATA[安妮-阿普爾鮑姆：社交媒體使散佈虛假信息變得容易了]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/04/russian-disinformation-social-media-propaganda/629497/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/04/russian-disinformation-social-media-propaganda/629497/?utm_source=feed</guid>
-            <pubDate>Thu, 07 Apr 2022 22:48:56 GMT</pubDate>
-            <description><![CDATA[Anne Applebaum: Social Media Made Spreading Disinformation Easy]]></description>
-        </item>
-        <item>
-            <title><![CDATA[總統被COVID-19包圍了]]></title>
-            <link>https://www.theatlantic.com/politics/archive/2022/04/biden-covid-test-pelosi-positive-outbreak/629513/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/politics/archive/2022/04/biden-covid-test-pelosi-positive-outbreak/629513/?utm_source=feed</guid>
-            <pubDate>Thu, 07 Apr 2022 21:42:47 GMT</pubDate>
-            <description><![CDATA[The President Is Surrounded By COVID-19]]></description>
         </item>
     </channel>
 </rss>
