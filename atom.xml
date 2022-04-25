@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-25T22:35:02.424Z</updated>
+    <updated>2022-04-25T22:46:16.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[埃隆-马斯克同意收购Twitter]]></title>
+        <id>https://www.nytimes.com/2022/04/25/technology/musk-twitter-sale.html</id>
+        <link href="https://www.nytimes.com/2022/04/25/technology/musk-twitter-sale.html"/>
+        <updated>2022-04-25T22:36:28.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk Agrees to Buy Twitter]]></summary>
+        <author>
+            <name>Mike Isaac and Lauren Hirsch</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国对COVID-19的回应如何为世界范围内的审查浪潮埋下伏笔]]></title>
         <id>https://www.newyorker.com/news/news-desk/how-chinas-response-to-covid-19-set-the-stage-for-a-worldwide-wave-of-censorship</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>David Sims</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么主义总是一件坏事吗？]]></title>
-        <id>https://www.currentaffairs.org/2022/03/is-whataboutism-always-a-bad-thing/</id>
-        <link href="https://www.currentaffairs.org/2022/03/is-whataboutism-always-a-bad-thing/"/>
-        <updated>2022-03-18T20:35:23.000Z</updated>
-        <summary type="html"><![CDATA[Is &#8220;Whataboutism&#8221; Always a Bad Thing?]]></summary>
-        <author>
-            <name>Ben Burgis</name>
-            <uri>https://www.currentaffairs.org/feed</uri>
         </author>
     </entry>
 </feed>
