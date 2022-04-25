@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-25T11:12:54.039Z</updated>
+    <updated>2022-04-25T13:01:21.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使正統猶太婦女產生分歧的有爭議的婚姻書]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/04/orthodox-judaism-laura-doyle-the-surrendered-wife/629663/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/04/orthodox-judaism-laura-doyle-the-surrendered-wife/629663/?utm_source=feed"/>
+        <updated>2022-04-25T12:18:53.000Z</updated>
+        <summary type="html"><![CDATA[The Controversial Marriage Book That’s Dividing Orthodox Jewish Women]]></summary>
+        <author>
+            <name>Avital Chizhik-Goldschmidt</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不知道當<em>Roe</em>墜落時會發生什麼。]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/04/abortion-access-states-scotus-roe-casey-reverse/629579/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Ted Cruz Says Confirmation of Qualified Nominee Sets Dangerous Precedent]]></summary>
         <author>
             <name>Andy Borowitz</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["是蛋糕嗎？"和 "夠老！"，評論。Netflix真人秀的兩條道路]]></title>
-        <id>https://www.newyorker.com/culture/infinite-scroll/is-it-cake-and-old-enough-reviewed-two-paths-for-the-netflix-reality-show</id>
-        <link href="https://www.newyorker.com/culture/infinite-scroll/is-it-cake-and-old-enough-reviewed-two-paths-for-the-netflix-reality-show"/>
-        <updated>2022-04-07T20:12:41.000Z</updated>
-        <summary type="html"><![CDATA[“Is It Cake?” and “Old Enough!,” Reviewed: Two Paths for the Netflix Reality Show]]></summary>
-        <author>
-            <name>Kyle Chayka</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

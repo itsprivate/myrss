@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 25 Apr 2022 11:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 13:01:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[使正统犹太妇女产生分歧的有争议的婚姻书]]></title>
+            <link>https://www.theatlantic.com/culture/archive/2022/04/orthodox-judaism-laura-doyle-the-surrendered-wife/629663/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/culture/archive/2022/04/orthodox-judaism-laura-doyle-the-surrendered-wife/629663/?utm_source=feed</guid>
+            <pubDate>Mon, 25 Apr 2022 12:18:53 GMT</pubDate>
+            <description><![CDATA[The Controversial Marriage Book That’s Dividing Orthodox Jewish Women]]></description>
+        </item>
         <item>
             <title><![CDATA[不知道当<em>Roe</em>坠落时会发生什么。]]></title>
             <link>https://www.theatlantic.com/ideas/archive/2022/04/abortion-access-states-scotus-roe-casey-reverse/629579/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/humor/borowitz-report/ted-cruz-says-confirmation-of-qualified-nominee-sets-dangerous-precedent</guid>
             <pubDate>Thu, 07 Apr 2022 21:08:39 GMT</pubDate>
             <description><![CDATA[Ted Cruz Says Confirmation of Qualified Nominee Sets Dangerous Precedent]]></description>
-        </item>
-        <item>
-            <title><![CDATA["是蛋糕吗？"和 "够老！"，评论。Netflix真人秀的两条道路]]></title>
-            <link>https://www.newyorker.com/culture/infinite-scroll/is-it-cake-and-old-enough-reviewed-two-paths-for-the-netflix-reality-show</link>
-            <guid>https://www.newyorker.com/culture/infinite-scroll/is-it-cake-and-old-enough-reviewed-two-paths-for-the-netflix-reality-show</guid>
-            <pubDate>Thu, 07 Apr 2022 20:12:41 GMT</pubDate>
-            <description><![CDATA[“Is It Cake?” and “Old Enough!,” Reviewed: Two Paths for the Netflix Reality Show]]></description>
         </item>
     </channel>
 </rss>
