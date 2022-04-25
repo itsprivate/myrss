@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-25T16:54:50.007Z</updated>
+    <updated>2022-04-25T17:56:12.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[特朗普媒体增加了前德文-努内斯的助手、小唐纳德和 "学徒 "参赛者作为官员。]]></title>
+        <id>https://www.nytimes.com/2022/04/25/business/trump-media-truth-social.html</id>
+        <link href="https://www.nytimes.com/2022/04/25/business/trump-media-truth-social.html"/>
+        <updated>2022-04-25T17:03:36.000Z</updated>
+        <summary type="html"><![CDATA[Trump Media adds former Devin Nunes aides, Donald Jr. and “Apprentice” contestant as officers.]]></summary>
+        <author>
+            <name>Matthew Goldstein</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亚马逊工人开始对史坦顿岛另一工厂的工会进行投票表决]]></title>
         <id>https://www.nytimes.com/2022/04/25/business/amazon-union-staten-island.html</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[The Card Problem, Plus Anita Hill on Ketanji Brown Jackson]]></summary>
         <author>
             <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安妮塔-希尔在凯坦吉-布朗-杰克逊的最高法院听证会上看到历史重演]]></title>
-        <id>https://www.newyorker.com/news/q-and-a/anita-hill-ketanji-brown-jackson-supreme-court</id>
-        <link href="https://www.newyorker.com/news/q-and-a/anita-hill-ketanji-brown-jackson-supreme-court"/>
-        <updated>2022-04-08T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Anita Hill Saw History Repeat Itself at Ketanji Brown Jackson’s Supreme Court Hearings]]></summary>
-        <author>
-            <name>David Remnick</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

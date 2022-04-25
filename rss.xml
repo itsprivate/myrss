@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 25 Apr 2022 16:54:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 17:56:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[特朗普媒体增加了前德文-努内斯的助手、小唐纳德和 "学徒 "参赛者作为官员。]]></title>
+            <link>https://www.nytimes.com/2022/04/25/business/trump-media-truth-social.html</link>
+            <guid>https://www.nytimes.com/2022/04/25/business/trump-media-truth-social.html</guid>
+            <pubDate>Mon, 25 Apr 2022 17:03:36 GMT</pubDate>
+            <description><![CDATA[Trump Media adds former Devin Nunes aides, Donald Jr. and “Apprentice” contestant as officers.]]></description>
+        </item>
         <item>
             <title><![CDATA[亚马逊工人开始对史坦顿岛另一工厂的工会进行投票表决]]></title>
             <link>https://www.nytimes.com/2022/04/25/business/amazon-union-staten-island.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/the-card-problem-plus-anita-hill-on-ketanji-brown-jackson</guid>
             <pubDate>Fri, 08 Apr 2022 20:00:00 GMT</pubDate>
             <description><![CDATA[The Card Problem, Plus Anita Hill on Ketanji Brown Jackson]]></description>
-        </item>
-        <item>
-            <title><![CDATA[安妮塔-希尔在凯坦吉-布朗-杰克逊的最高法院听证会上看到历史重演]]></title>
-            <link>https://www.newyorker.com/news/q-and-a/anita-hill-ketanji-brown-jackson-supreme-court</link>
-            <guid>https://www.newyorker.com/news/q-and-a/anita-hill-ketanji-brown-jackson-supreme-court</guid>
-            <pubDate>Fri, 08 Apr 2022 20:00:00 GMT</pubDate>
-            <description><![CDATA[Anita Hill Saw History Repeat Itself at Ketanji Brown Jackson’s Supreme Court Hearings]]></description>
         </item>
     </channel>
 </rss>
