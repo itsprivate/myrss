@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-25T14:33:58.067Z</updated>
+    <updated>2022-04-25T14:42:35.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[應用商店支付的競爭將加劇]]></title>
+        <id>https://www.kalzumeus.com/2021/08/27/app-store-payment-competition/</id>
+        <link href="https://www.kalzumeus.com/2021/08/27/app-store-payment-competition/"/>
+        <updated>2021-08-27T15:25:00.000Z</updated>
+        <summary type="html"><![CDATA[App Store Payments Will Have Increased Competition]]></summary>
+        <author>
+            <name>Patrick McKenzie (patio11)</name>
+            <uri>https://www.kalzumeus.com/feed/articles/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一支編碼大軍挑戰時間稅]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/04/code-for-america-time-tax/629655/?utm_source=feed</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Dhruv Khullar</name>
             <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奧巴馬。我低估了虛假信息的威脅]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/04/barack-obama-interview-disinformation-ukraine/629496/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/04/barack-obama-interview-disinformation-ukraine/629496/?utm_source=feed"/>
-        <updated>2022-04-07T21:15:09.000Z</updated>
-        <summary type="html"><![CDATA[Obama: I Underestimated the Threat of Disinformation]]></summary>
-        <author>
-            <name>Jacob Stern</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>

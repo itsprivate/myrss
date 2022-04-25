@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 25 Apr 2022 14:33:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 14:42:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[應用商店支付的競爭將加劇]]></title>
+            <link>https://www.kalzumeus.com/2021/08/27/app-store-payment-competition/</link>
+            <guid>https://www.kalzumeus.com/2021/08/27/app-store-payment-competition/</guid>
+            <pubDate>Fri, 27 Aug 2021 15:25:00 GMT</pubDate>
+            <description><![CDATA[App Store Payments Will Have Increased Competition]]></description>
+        </item>
         <item>
             <title><![CDATA[一支編碼大軍挑戰時間稅]]></title>
             <link>https://www.theatlantic.com/ideas/archive/2022/04/code-for-america-time-tax/629655/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/news/persons-of-interest/faith-science-and-francis-collins</guid>
             <pubDate>Thu, 07 Apr 2022 21:31:24 GMT</pubDate>
             <description><![CDATA[Faith, Science, and Francis Collins]]></description>
-        </item>
-        <item>
-            <title><![CDATA[奧巴馬。我低估了虛假信息的威脅]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/04/barack-obama-interview-disinformation-ukraine/629496/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/04/barack-obama-interview-disinformation-ukraine/629496/?utm_source=feed</guid>
-            <pubDate>Thu, 07 Apr 2022 21:15:09 GMT</pubDate>
-            <description><![CDATA[Obama: I Underestimated the Threat of Disinformation]]></description>
         </item>
     </channel>
 </rss>
