@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-25T14:42:35.262Z</updated>
+    <updated>2022-04-25T14:53:36.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[解決疫苗數據問題]]></title>
+        <id>https://www.kalzumeus.com/2021/04/23/vaccinate-the-states/</id>
+        <link href="https://www.kalzumeus.com/2021/04/23/vaccinate-the-states/"/>
+        <updated>2021-04-24T00:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Solving The Vaccine Data Problem]]></summary>
+        <author>
+            <name>Patrick McKenzie (patio11)</name>
+            <uri>https://www.kalzumeus.com/feed/articles/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一家器官移植公司如何結束了對培根的製造]]></title>
+        <id>https://www.theatlantic.com/science/archive/2022/04/alpha-gal-syndrome-tick-meat-allergy/629649/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/science/archive/2022/04/alpha-gal-syndrome-tick-meat-allergy/629649/?utm_source=feed"/>
+        <updated>2022-04-25T14:41:05.000Z</updated>
+        <summary type="html"><![CDATA[How an Organ-Transplant Company Ended Up Making Bacon]]></summary>
+        <author>
+            <name>Sarah Zhang</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[應用商店支付的競爭將加劇]]></title>
         <id>https://www.kalzumeus.com/2021/08/27/app-store-payment-competition/</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Russell Berman</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[信仰、科學和弗朗西斯-柯林斯]]></title>
-        <id>https://www.newyorker.com/news/persons-of-interest/faith-science-and-francis-collins</id>
-        <link href="https://www.newyorker.com/news/persons-of-interest/faith-science-and-francis-collins"/>
-        <updated>2022-04-07T21:31:24.000Z</updated>
-        <summary type="html"><![CDATA[Faith, Science, and Francis Collins]]></summary>
-        <author>
-            <name>Dhruv Khullar</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[信仰、科學和弗朗西斯-柯林斯]]></title>
-        <id>https://www.newyorker.com/news/persons-of-interest/faith-science-and-francis-collins</id>
-        <link href="https://www.newyorker.com/news/persons-of-interest/faith-science-and-francis-collins"/>
-        <updated>2022-04-07T21:31:24.000Z</updated>
-        <summary type="html"><![CDATA[Faith, Science, and Francis Collins]]></summary>
-        <author>
-            <name>Dhruv Khullar</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
 </feed>

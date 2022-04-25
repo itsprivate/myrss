@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 25 Apr 2022 14:42:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 14:53:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[解決疫苗數據問題]]></title>
+            <link>https://www.kalzumeus.com/2021/04/23/vaccinate-the-states/</link>
+            <guid>https://www.kalzumeus.com/2021/04/23/vaccinate-the-states/</guid>
+            <pubDate>Sat, 24 Apr 2021 00:01:00 GMT</pubDate>
+            <description><![CDATA[Solving The Vaccine Data Problem]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一家器官移植公司如何結束了對培根的製造]]></title>
+            <link>https://www.theatlantic.com/science/archive/2022/04/alpha-gal-syndrome-tick-meat-allergy/629649/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/science/archive/2022/04/alpha-gal-syndrome-tick-meat-allergy/629649/?utm_source=feed</guid>
+            <pubDate>Mon, 25 Apr 2022 14:41:05 GMT</pubDate>
+            <description><![CDATA[How an Organ-Transplant Company Ended Up Making Bacon]]></description>
+        </item>
         <item>
             <title><![CDATA[應用商店支付的競爭將加劇]]></title>
             <link>https://www.kalzumeus.com/2021/08/27/app-store-payment-competition/</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.theatlantic.com/politics/archive/2022/04/biden-covid-test-pelosi-positive-outbreak/629513/?utm_source=feed</guid>
             <pubDate>Thu, 07 Apr 2022 21:42:47 GMT</pubDate>
             <description><![CDATA[The President Is Surrounded By COVID-19]]></description>
-        </item>
-        <item>
-            <title><![CDATA[信仰、科學和弗朗西斯-柯林斯]]></title>
-            <link>https://www.newyorker.com/news/persons-of-interest/faith-science-and-francis-collins</link>
-            <guid>https://www.newyorker.com/news/persons-of-interest/faith-science-and-francis-collins</guid>
-            <pubDate>Thu, 07 Apr 2022 21:31:24 GMT</pubDate>
-            <description><![CDATA[Faith, Science, and Francis Collins]]></description>
-        </item>
-        <item>
-            <title><![CDATA[信仰、科學和弗朗西斯-柯林斯]]></title>
-            <link>https://www.newyorker.com/news/persons-of-interest/faith-science-and-francis-collins</link>
-            <guid>https://www.newyorker.com/news/persons-of-interest/faith-science-and-francis-collins</guid>
-            <pubDate>Thu, 07 Apr 2022 21:31:24 GMT</pubDate>
-            <description><![CDATA[Faith, Science, and Francis Collins]]></description>
         </item>
     </channel>
 </rss>
