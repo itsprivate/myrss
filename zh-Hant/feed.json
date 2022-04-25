@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/podcast/politics-and-more/ronan-farrow-on-the-threat-of-modern-spyware",
+            "content_html": "",
+            "url": "https://www.newyorker.com/podcast/politics-and-more/ronan-farrow-on-the-threat-of-modern-spyware",
+            "title": "羅南-法羅談現代間諜軟件的威脅",
+            "summary": "Ronan Farrow on the Threat of Modern Spyware",
+            "date_modified": "2022-04-25T20:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/04/elon-musk-twitter-free-speech/629673/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/04/elon-musk-twitter-free-speech/629673/?utm_source=feed",
+            "title": "埃隆-馬斯克只認為他想運營一個演講平臺",
+            "summary": "Elon Musk Only Thinks He Wants to Run a Speech Platform",
+            "date_modified": "2022-04-25T20:04:04.000Z",
+            "author": {
+                "name": "Evelyn Douek",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/humor/daily-shouts/america-scream-therapy-taught-by-howler-monkeys",
             "content_html": "",
             "url": "https://www.newyorker.com/humor/daily-shouts/america-scream-therapy-taught-by-howler-monkeys",
@@ -7180,30 +7204,6 @@
             "url": "https://www.newyorker.com/magazine/dept-of-cultivation",
             "title": "栽培部",
             "summary": "Dept. of Cultivation",
-            "date_modified": "2022-04-09T03:20:53.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/dept-of-monikers",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/dept-of-monikers",
-            "title": "命名部",
-            "summary": "Dept. of Monikers",
-            "date_modified": "2022-04-09T03:20:53.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/grooming-dept",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/grooming-dept",
-            "title": "儀容部",
-            "summary": "Grooming Dept.",
             "date_modified": "2022-04-09T03:20:53.000Z",
             "author": {
                 "name": "unknown",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-25T18:46:24.950Z</updated>
+    <updated>2022-04-25T20:15:36.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[罗南-法罗谈现代间谍软件的威胁]]></title>
+        <id>https://www.newyorker.com/podcast/politics-and-more/ronan-farrow-on-the-threat-of-modern-spyware</id>
+        <link href="https://www.newyorker.com/podcast/politics-and-more/ronan-farrow-on-the-threat-of-modern-spyware"/>
+        <updated>2022-04-25T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ronan Farrow on the Threat of Modern Spyware]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[埃隆-马斯克只认为他想运营一个演讲平台]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/elon-musk-twitter-free-speech/629673/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/elon-musk-twitter-free-speech/629673/?utm_source=feed"/>
+        <updated>2022-04-25T20:04:04.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk Only Thinks He Wants to Run a Speech Platform]]></summary>
+        <author>
+            <name>Evelyn Douek</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国！。 吼猴教的尖叫疗法]]></title>
         <id>https://www.newyorker.com/humor/daily-shouts/america-scream-therapy-taught-by-howler-monkeys</id>
@@ -6588,28 +6610,6 @@
         <link href="https://www.newyorker.com/magazine/dept-of-cultivation"/>
         <updated>2022-04-09T03:20:53.000Z</updated>
         <summary type="html"><![CDATA[Dept. of Cultivation]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[命名部]]></title>
-        <id>https://www.newyorker.com/magazine/dept-of-monikers</id>
-        <link href="https://www.newyorker.com/magazine/dept-of-monikers"/>
-        <updated>2022-04-09T03:20:53.000Z</updated>
-        <summary type="html"><![CDATA[Dept. of Monikers]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仪容部]]></title>
-        <id>https://www.newyorker.com/magazine/grooming-dept</id>
-        <link href="https://www.newyorker.com/magazine/grooming-dept"/>
-        <updated>2022-04-09T03:20:53.000Z</updated>
-        <summary type="html"><![CDATA[Grooming Dept.]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.newyorker.com/feed/culture</uri>

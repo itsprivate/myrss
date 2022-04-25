@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 25 Apr 2022 18:46:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 20:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[罗南-法罗谈现代间谍软件的威胁]]></title>
+            <link>https://www.newyorker.com/podcast/politics-and-more/ronan-farrow-on-the-threat-of-modern-spyware</link>
+            <guid>https://www.newyorker.com/podcast/politics-and-more/ronan-farrow-on-the-threat-of-modern-spyware</guid>
+            <pubDate>Mon, 25 Apr 2022 20:00:00 GMT</pubDate>
+            <description><![CDATA[Ronan Farrow on the Threat of Modern Spyware]]></description>
+        </item>
+        <item>
+            <title><![CDATA[埃隆-马斯克只认为他想运营一个演讲平台]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/elon-musk-twitter-free-speech/629673/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/elon-musk-twitter-free-speech/629673/?utm_source=feed</guid>
+            <pubDate>Mon, 25 Apr 2022 20:04:04 GMT</pubDate>
+            <description><![CDATA[Elon Musk Only Thinks He Wants to Run a Speech Platform]]></description>
+        </item>
         <item>
             <title><![CDATA[美国！。 吼猴教的尖叫疗法]]></title>
             <link>https://www.newyorker.com/humor/daily-shouts/america-scream-therapy-taught-by-howler-monkeys</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/magazine/dept-of-cultivation</guid>
             <pubDate>Sat, 09 Apr 2022 03:20:53 GMT</pubDate>
             <description><![CDATA[Dept. of Cultivation]]></description>
-        </item>
-        <item>
-            <title><![CDATA[命名部]]></title>
-            <link>https://www.newyorker.com/magazine/dept-of-monikers</link>
-            <guid>https://www.newyorker.com/magazine/dept-of-monikers</guid>
-            <pubDate>Sat, 09 Apr 2022 03:20:53 GMT</pubDate>
-            <description><![CDATA[Dept. of Monikers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[仪容部]]></title>
-            <link>https://www.newyorker.com/magazine/grooming-dept</link>
-            <guid>https://www.newyorker.com/magazine/grooming-dept</guid>
-            <pubDate>Sat, 09 Apr 2022 03:20:53 GMT</pubDate>
-            <description><![CDATA[Grooming Dept.]]></description>
         </item>
     </channel>
 </rss>
