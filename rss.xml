@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 25 Apr 2022 17:56:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 18:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[埃马纽埃尔-马克龙的胜利的真正含义]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/the-real-meaning-of-emmanuel-macrons-victory</link>
+            <guid>https://www.newyorker.com/news/daily-comment/the-real-meaning-of-emmanuel-macrons-victory</guid>
+            <pubDate>Mon, 25 Apr 2022 18:00:37 GMT</pubDate>
+            <description><![CDATA[The Real Meaning of Emmanuel Macron’s Victory]]></description>
+        </item>
         <item>
             <title><![CDATA[特朗普媒体增加了前德文-努内斯的助手、小唐纳德和 "学徒 "参赛者作为官员。]]></title>
             <link>https://www.nytimes.com/2022/04/25/business/trump-media-truth-social.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.nytimes.com/2022/04/08/science/axiom-launch-nasa-spacex.html</guid>
             <pubDate>Fri, 08 Apr 2022 20:23:47 GMT</pubDate>
             <description><![CDATA[SpaceX and Axiom Launch Private Astronaut Crew to Space Station]]></description>
-        </item>
-        <item>
-            <title><![CDATA[卡片问题，加上安妮塔-希尔对凯坦吉-布朗-杰克逊的看法]]></title>
-            <link>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/the-card-problem-plus-anita-hill-on-ketanji-brown-jackson</link>
-            <guid>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/the-card-problem-plus-anita-hill-on-ketanji-brown-jackson</guid>
-            <pubDate>Fri, 08 Apr 2022 20:00:00 GMT</pubDate>
-            <description><![CDATA[The Card Problem, Plus Anita Hill on Ketanji Brown Jackson]]></description>
         </item>
     </channel>
 </rss>

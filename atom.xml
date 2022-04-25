@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-25T17:56:12.798Z</updated>
+    <updated>2022-04-25T18:16:40.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[埃马纽埃尔-马克龙的胜利的真正含义]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/the-real-meaning-of-emmanuel-macrons-victory</id>
+        <link href="https://www.newyorker.com/news/daily-comment/the-real-meaning-of-emmanuel-macrons-victory"/>
+        <updated>2022-04-25T18:00:37.000Z</updated>
+        <summary type="html"><![CDATA[The Real Meaning of Emmanuel Macron’s Victory]]></summary>
+        <author>
+            <name>Adam Gopnik</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[特朗普媒体增加了前德文-努内斯的助手、小唐纳德和 "学徒 "参赛者作为官员。]]></title>
         <id>https://www.nytimes.com/2022/04/25/business/trump-media-truth-social.html</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Kenneth Chang</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卡片问题，加上安妮塔-希尔对凯坦吉-布朗-杰克逊的看法]]></title>
-        <id>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/the-card-problem-plus-anita-hill-on-ketanji-brown-jackson</id>
-        <link href="https://www.newyorker.com/podcast/the-new-yorker-radio-hour/the-card-problem-plus-anita-hill-on-ketanji-brown-jackson"/>
-        <updated>2022-04-08T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Card Problem, Plus Anita Hill on Ketanji Brown Jackson]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>

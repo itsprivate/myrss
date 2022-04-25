@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/daily-comment/the-real-meaning-of-emmanuel-macrons-victory",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/daily-comment/the-real-meaning-of-emmanuel-macrons-victory",
+            "title": "埃馬紐埃爾-馬克龍的勝利的真正含義",
+            "summary": "The Real Meaning of Emmanuel Macron’s Victory",
+            "date_modified": "2022-04-25T18:00:37.000Z",
+            "author": {
+                "name": "Adam Gopnik",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/25/business/trump-media-truth-social.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/25/business/trump-media-truth-social.html",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Kenneth Chang",
                 "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour/the-card-problem-plus-anita-hill-on-ketanji-brown-jackson",
-            "content_html": "",
-            "url": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour/the-card-problem-plus-anita-hill-on-ketanji-brown-jackson",
-            "title": "卡片問題，加上安妮塔-希爾對凱坦吉-布朗-傑克遜的看法",
-            "summary": "The Card Problem, Plus Anita Hill on Ketanji Brown Jackson",
-            "date_modified": "2022-04-08T20:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]
