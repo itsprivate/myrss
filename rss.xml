@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sun, 24 Apr 2022 23:33:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 09:35:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[马克龙获胜。而极右派也是如此。]]></title>
+            <link>https://www.theatlantic.com/international/archive/2022/04/macron-wins-french-election-marine-le-pen/629666/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/international/archive/2022/04/macron-wins-french-election-marine-le-pen/629666/?utm_source=feed</guid>
+            <pubDate>Mon, 25 Apr 2022 09:10:12 GMT</pubDate>
+            <description><![CDATA[Macron Won. And So Did the Far Right.]]></description>
+        </item>
         <item>
             <title><![CDATA[公开主题221]]></title>
             <link>https://astralcodexten.substack.com/p/open-thread-221</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/politics/archive/2022/04/how-europe-and-us-seize-oligarchs-yachts/629491/?utm_source=feed</guid>
             <pubDate>Thu, 07 Apr 2022 11:01:56 GMT</pubDate>
             <description><![CDATA[What It Takes to Seize a Yacht]]></description>
-        </item>
-        <item>
-            <title><![CDATA[好莱坞最古怪的电影制作人如何一下子制造了<em>所有的东西</em>。]]></title>
-            <link>https://www.theatlantic.com/culture/archive/2022/04/daniels-directing-everything-everywhere-all-at-once/629503/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/culture/archive/2022/04/daniels-directing-everything-everywhere-all-at-once/629503/?utm_source=feed</guid>
-            <pubDate>Thu, 07 Apr 2022 11:01:56 GMT</pubDate>
-            <description><![CDATA[How Hollywood’s Weirdest Filmmakers Made <em>Everything Everywhere All at Once</em>]]></description>
         </item>
     </channel>
 </rss>

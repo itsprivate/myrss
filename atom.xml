@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-24T23:33:33.101Z</updated>
+    <updated>2022-04-25T09:35:02.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[马克龙获胜。而极右派也是如此。]]></title>
+        <id>https://www.theatlantic.com/international/archive/2022/04/macron-wins-french-election-marine-le-pen/629666/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/international/archive/2022/04/macron-wins-french-election-marine-le-pen/629666/?utm_source=feed"/>
+        <updated>2022-04-25T09:10:12.000Z</updated>
+        <summary type="html"><![CDATA[Macron Won. And So Did the Far Right.]]></summary>
+        <author>
+            <name>Yasmeen Serhan</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[公开主题221]]></title>
         <id>https://astralcodexten.substack.com/p/open-thread-221</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[What It Takes to Seize a Yacht]]></summary>
         <author>
             <name>Olga Khazan</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好莱坞最古怪的电影制作人如何一下子制造了<em>所有的东西</em>。]]></title>
-        <id>https://www.theatlantic.com/culture/archive/2022/04/daniels-directing-everything-everywhere-all-at-once/629503/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/culture/archive/2022/04/daniels-directing-everything-everywhere-all-at-once/629503/?utm_source=feed"/>
-        <updated>2022-04-07T11:01:56.000Z</updated>
-        <summary type="html"><![CDATA[How Hollywood’s Weirdest Filmmakers Made <em>Everything Everywhere All at Once</em>]]></summary>
-        <author>
-            <name>Shirley Li</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
