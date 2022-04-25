@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 25 Apr 2022 18:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 18:46:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,41 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[美國！。 吼猴教的尖叫療法]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/america-scream-therapy-taught-by-howler-monkeys</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/america-scream-therapy-taught-by-howler-monkeys</guid>
+            <pubDate>Mon, 25 Apr 2022 18:00:00 GMT</pubDate>
+            <description><![CDATA[America!: Scream Therapy Taught by Howler Monkeys]]></description>
+        </item>
+        <item>
+            <title><![CDATA[埃馬紐埃爾-馬克龍的勝利的真正含義]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/the-real-meaning-of-emmanuel-macrons-victory</link>
+            <guid>https://www.newyorker.com/news/daily-comment/the-real-meaning-of-emmanuel-macrons-victory</guid>
+            <pubDate>Mon, 25 Apr 2022 18:00:37 GMT</pubDate>
+            <description><![CDATA[The Real Meaning of Emmanuel Macron’s Victory]]></description>
+        </item>
+        <item>
+            <title><![CDATA[巴西恢復狂歡節遊行]]></title>
+            <link>https://www.theatlantic.com/photo/2022/04/photos-carnival-parades-return-brazil/629667/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/photo/2022/04/photos-carnival-parades-return-brazil/629667/?utm_source=feed</guid>
+            <pubDate>Mon, 25 Apr 2022 18:14:28 GMT</pubDate>
+            <description><![CDATA[Carnival Parades Return in Brazil]]></description>
+        </item>
+        <item>
+            <title><![CDATA[更明智的家務分工方式？]]></title>
+            <link>https://www.theatlantic.com/family/archive/2022/04/household-chores-share-responsibility-study/629671/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/family/archive/2022/04/household-chores-share-responsibility-study/629671/?utm_source=feed</guid>
+            <pubDate>Mon, 25 Apr 2022 18:23:32 GMT</pubDate>
+            <description><![CDATA[A Smarter Way to Divide Chores?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[第一夫人應該得到比<em>第一夫人更好的待遇</em>。]]></title>
+            <link>https://www.theatlantic.com/culture/archive/2022/04/the-first-lady-tv-show-review/629670/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/culture/archive/2022/04/the-first-lady-tv-show-review/629670/?utm_source=feed</guid>
+            <pubDate>Mon, 25 Apr 2022 18:24:07 GMT</pubDate>
+            <description><![CDATA[First Ladies Deserve Better Than <em>The First Lady</em>]]></description>
+        </item>
         <item>
             <title><![CDATA[埃馬紐埃爾-馬克龍的勝利的真正含義]]></title>
             <link>https://www.newyorker.com/news/daily-comment/the-real-meaning-of-emmanuel-macrons-victory</link>
@@ -4178,41 +4213,6 @@
             <guid>https://www.newyorker.com/magazine/grooming-dept</guid>
             <pubDate>Sat, 09 Apr 2022 03:20:53 GMT</pubDate>
             <description><![CDATA[Grooming Dept.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[來自基輔的信]]></title>
-            <link>https://www.newyorker.com/magazine/letter-from-kyiv</link>
-            <guid>https://www.newyorker.com/magazine/letter-from-kyiv</guid>
-            <pubDate>Sat, 09 Apr 2022 02:47:11 GMT</pubDate>
-            <description><![CDATA[Letter from Kyiv]]></description>
-        </item>
-        <item>
-            <title><![CDATA[亞馬遜、勞工組織者對阿拉巴馬州的工會投票提出反對意見]]></title>
-            <link>https://www.nytimes.com/2022/04/08/business/amazon-alabama-union-vote-objections.html</link>
-            <guid>https://www.nytimes.com/2022/04/08/business/amazon-alabama-union-vote-objections.html</guid>
-            <pubDate>Fri, 08 Apr 2022 18:44:45 GMT</pubDate>
-            <description><![CDATA[Amazon, Labor Organizers File Objections to Alabama Union Vote]]></description>
-        </item>
-        <item>
-            <title><![CDATA[流行音樂對懷舊的迷戀]]></title>
-            <link>https://www.theatlantic.com/podcasts/archive/2022/04/is-pop-music-obsessed-with-nostalgia/629502/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/podcasts/archive/2022/04/is-pop-music-obsessed-with-nostalgia/629502/?utm_source=feed</guid>
-            <pubDate>Fri, 08 Apr 2022 21:32:34 GMT</pubDate>
-            <description><![CDATA[Pop Music’s Nostalgia Obsession]]></description>
-        </item>
-        <item>
-            <title><![CDATA[傑克遜拒絕卡瓦諾的邀請參加啤酒杯啟動儀式]]></title>
-            <link>https://www.newyorker.com/humor/borowitz-report/jackson-refuses-kavanaughs-invitation-to-beer-pong-initiation-ritual</link>
-            <guid>https://www.newyorker.com/humor/borowitz-report/jackson-refuses-kavanaughs-invitation-to-beer-pong-initiation-ritual</guid>
-            <pubDate>Fri, 08 Apr 2022 20:32:16 GMT</pubDate>
-            <description><![CDATA[Jackson Refuses Kavanaugh’s Invitation to Beer-Pong Initiation Ritual]]></description>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX和Axiom向空間站發射私人宇航員隊伍]]></title>
-            <link>https://www.nytimes.com/2022/04/08/science/axiom-launch-nasa-spacex.html</link>
-            <guid>https://www.nytimes.com/2022/04/08/science/axiom-launch-nasa-spacex.html</guid>
-            <pubDate>Fri, 08 Apr 2022 20:23:47 GMT</pubDate>
-            <description><![CDATA[SpaceX and Axiom Launch Private Astronaut Crew to Space Station]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-25T18:16:40.427Z</updated>
+    <updated>2022-04-25T18:46:25.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美國！。 吼猴教的尖叫療法]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/america-scream-therapy-taught-by-howler-monkeys</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/america-scream-therapy-taught-by-howler-monkeys"/>
+        <updated>2022-04-25T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[America!: Scream Therapy Taught by Howler Monkeys]]></summary>
+        <author>
+            <name>Ali Fitzgerald</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[埃馬紐埃爾-馬克龍的勝利的真正含義]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/the-real-meaning-of-emmanuel-macrons-victory</id>
+        <link href="https://www.newyorker.com/news/daily-comment/the-real-meaning-of-emmanuel-macrons-victory"/>
+        <updated>2022-04-25T18:00:37.000Z</updated>
+        <summary type="html"><![CDATA[The Real Meaning of Emmanuel Macron’s Victory]]></summary>
+        <author>
+            <name>Adam Gopnik</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巴西恢復狂歡節遊行]]></title>
+        <id>https://www.theatlantic.com/photo/2022/04/photos-carnival-parades-return-brazil/629667/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/photo/2022/04/photos-carnival-parades-return-brazil/629667/?utm_source=feed"/>
+        <updated>2022-04-25T18:14:28.000Z</updated>
+        <summary type="html"><![CDATA[Carnival Parades Return in Brazil]]></summary>
+        <author>
+            <name>Alan Taylor</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[更明智的家務分工方式？]]></title>
+        <id>https://www.theatlantic.com/family/archive/2022/04/household-chores-share-responsibility-study/629671/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/family/archive/2022/04/household-chores-share-responsibility-study/629671/?utm_source=feed"/>
+        <updated>2022-04-25T18:23:32.000Z</updated>
+        <summary type="html"><![CDATA[A Smarter Way to Divide Chores?]]></summary>
+        <author>
+            <name>Joe Pinsker</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第一夫人應該得到比<em>第一夫人更好的待遇</em>。]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/04/the-first-lady-tv-show-review/629670/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/04/the-first-lady-tv-show-review/629670/?utm_source=feed"/>
+        <updated>2022-04-25T18:24:07.000Z</updated>
+        <summary type="html"><![CDATA[First Ladies Deserve Better Than <em>The First Lady</em>]]></summary>
+        <author>
+            <name>Shirley Li</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[埃馬紐埃爾-馬克龍的勝利的真正含義]]></title>
         <id>https://www.newyorker.com/news/daily-comment/the-real-meaning-of-emmanuel-macrons-victory</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>unknown</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[來自基輔的信]]></title>
-        <id>https://www.newyorker.com/magazine/letter-from-kyiv</id>
-        <link href="https://www.newyorker.com/magazine/letter-from-kyiv"/>
-        <updated>2022-04-09T02:47:11.000Z</updated>
-        <summary type="html"><![CDATA[Letter from Kyiv]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亞馬遜、勞工組織者對阿拉巴馬州的工會投票提出反對意見]]></title>
-        <id>https://www.nytimes.com/2022/04/08/business/amazon-alabama-union-vote-objections.html</id>
-        <link href="https://www.nytimes.com/2022/04/08/business/amazon-alabama-union-vote-objections.html"/>
-        <updated>2022-04-08T18:44:45.000Z</updated>
-        <summary type="html"><![CDATA[Amazon, Labor Organizers File Objections to Alabama Union Vote]]></summary>
-        <author>
-            <name>Karen Weise</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[流行音樂對懷舊的迷戀]]></title>
-        <id>https://www.theatlantic.com/podcasts/archive/2022/04/is-pop-music-obsessed-with-nostalgia/629502/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/podcasts/archive/2022/04/is-pop-music-obsessed-with-nostalgia/629502/?utm_source=feed"/>
-        <updated>2022-04-08T21:32:34.000Z</updated>
-        <summary type="html"><![CDATA[Pop Music’s Nostalgia Obsession]]></summary>
-        <author>
-            <name>Hannah Giorgis</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[傑克遜拒絕卡瓦諾的邀請參加啤酒杯啟動儀式]]></title>
-        <id>https://www.newyorker.com/humor/borowitz-report/jackson-refuses-kavanaughs-invitation-to-beer-pong-initiation-ritual</id>
-        <link href="https://www.newyorker.com/humor/borowitz-report/jackson-refuses-kavanaughs-invitation-to-beer-pong-initiation-ritual"/>
-        <updated>2022-04-08T20:32:16.000Z</updated>
-        <summary type="html"><![CDATA[Jackson Refuses Kavanaugh’s Invitation to Beer-Pong Initiation Ritual]]></summary>
-        <author>
-            <name>Andy Borowitz</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpaceX和Axiom向空間站發射私人宇航員隊伍]]></title>
-        <id>https://www.nytimes.com/2022/04/08/science/axiom-launch-nasa-spacex.html</id>
-        <link href="https://www.nytimes.com/2022/04/08/science/axiom-launch-nasa-spacex.html"/>
-        <updated>2022-04-08T20:23:47.000Z</updated>
-        <summary type="html"><![CDATA[SpaceX and Axiom Launch Private Astronaut Crew to Space Station]]></summary>
-        <author>
-            <name>Kenneth Chang</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>

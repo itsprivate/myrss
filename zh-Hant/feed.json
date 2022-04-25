@@ -11,6 +11,66 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/humor/daily-shouts/america-scream-therapy-taught-by-howler-monkeys",
+            "content_html": "",
+            "url": "https://www.newyorker.com/humor/daily-shouts/america-scream-therapy-taught-by-howler-monkeys",
+            "title": "美國！。 吼猴教的尖叫療法",
+            "summary": "America!: Scream Therapy Taught by Howler Monkeys",
+            "date_modified": "2022-04-25T18:00:00.000Z",
+            "author": {
+                "name": "Ali Fitzgerald",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/daily-comment/the-real-meaning-of-emmanuel-macrons-victory",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/daily-comment/the-real-meaning-of-emmanuel-macrons-victory",
+            "title": "埃馬紐埃爾-馬克龍的勝利的真正含義",
+            "summary": "The Real Meaning of Emmanuel Macron’s Victory",
+            "date_modified": "2022-04-25T18:00:37.000Z",
+            "author": {
+                "name": "Adam Gopnik",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/photo/2022/04/photos-carnival-parades-return-brazil/629667/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/photo/2022/04/photos-carnival-parades-return-brazil/629667/?utm_source=feed",
+            "title": "巴西恢復狂歡節遊行",
+            "summary": "Carnival Parades Return in Brazil",
+            "date_modified": "2022-04-25T18:14:28.000Z",
+            "author": {
+                "name": "Alan Taylor",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/family/archive/2022/04/household-chores-share-responsibility-study/629671/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/family/archive/2022/04/household-chores-share-responsibility-study/629671/?utm_source=feed",
+            "title": "更明智的家務分工方式？",
+            "summary": "A Smarter Way to Divide Chores?",
+            "date_modified": "2022-04-25T18:23:32.000Z",
+            "author": {
+                "name": "Joe Pinsker",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/culture/archive/2022/04/the-first-lady-tv-show-review/629670/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/culture/archive/2022/04/the-first-lady-tv-show-review/629670/?utm_source=feed",
+            "title": "第一夫人應該得到比<em>第一夫人更好的待遇</em>。",
+            "summary": "First Ladies Deserve Better Than <em>The First Lady</em>",
+            "date_modified": "2022-04-25T18:24:07.000Z",
+            "author": {
+                "name": "Shirley Li",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/daily-comment/the-real-meaning-of-emmanuel-macrons-victory",
             "content_html": "",
             "url": "https://www.newyorker.com/news/daily-comment/the-real-meaning-of-emmanuel-macrons-victory",
@@ -7148,66 +7208,6 @@
             "author": {
                 "name": "unknown",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/letter-from-kyiv",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/letter-from-kyiv",
-            "title": "來自基輔的信",
-            "summary": "Letter from Kyiv",
-            "date_modified": "2022-04-09T02:47:11.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/04/08/business/amazon-alabama-union-vote-objections.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/04/08/business/amazon-alabama-union-vote-objections.html",
-            "title": "亞馬遜、勞工組織者對阿拉巴馬州的工會投票提出反對意見",
-            "summary": "Amazon, Labor Organizers File Objections to Alabama Union Vote",
-            "date_modified": "2022-04-08T18:44:45.000Z",
-            "author": {
-                "name": "Karen Weise",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/podcasts/archive/2022/04/is-pop-music-obsessed-with-nostalgia/629502/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/podcasts/archive/2022/04/is-pop-music-obsessed-with-nostalgia/629502/?utm_source=feed",
-            "title": "流行音樂對懷舊的迷戀",
-            "summary": "Pop Music’s Nostalgia Obsession",
-            "date_modified": "2022-04-08T21:32:34.000Z",
-            "author": {
-                "name": "Hannah Giorgis",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/humor/borowitz-report/jackson-refuses-kavanaughs-invitation-to-beer-pong-initiation-ritual",
-            "content_html": "",
-            "url": "https://www.newyorker.com/humor/borowitz-report/jackson-refuses-kavanaughs-invitation-to-beer-pong-initiation-ritual",
-            "title": "傑克遜拒絕卡瓦諾的邀請參加啤酒杯啟動儀式",
-            "summary": "Jackson Refuses Kavanaugh’s Invitation to Beer-Pong Initiation Ritual",
-            "date_modified": "2022-04-08T20:32:16.000Z",
-            "author": {
-                "name": "Andy Borowitz",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/04/08/science/axiom-launch-nasa-spacex.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/04/08/science/axiom-launch-nasa-spacex.html",
-            "title": "SpaceX和Axiom向空間站發射私人宇航員隊伍",
-            "summary": "SpaceX and Axiom Launch Private Astronaut Crew to Space Station",
-            "date_modified": "2022-04-08T20:23:47.000Z",
-            "author": {
-                "name": "Kenneth Chang",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
     ]
