@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-25T10:16:02.862Z</updated>
+    <updated>2022-04-25T11:12:54.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不知道當<em>Roe</em>墜落時會發生什麼。]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/abortion-access-states-scotus-roe-casey-reverse/629579/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/abortion-access-states-scotus-roe-casey-reverse/629579/?utm_source=feed"/>
+        <updated>2022-04-25T11:00:56.000Z</updated>
+        <summary type="html"><![CDATA[There’s No Knowing What Will Happen When <em>Roe</em> Falls]]></summary>
+        <author>
+            <name>Mary Ziegler</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[親愛的治療師。我如何與我的難纏的父親設定界限？]]></title>
+        <id>https://www.theatlantic.com/family/archive/2022/04/difficult-parent-set-boundaries/629644/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/family/archive/2022/04/difficult-parent-set-boundaries/629644/?utm_source=feed"/>
+        <updated>2022-04-25T11:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Dear Therapist: How Do I Set Boundaries With My Difficult Father?]]></summary>
+        <author>
+            <name>Lori Gottlieb</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你有10億美元。你如何改變世界？]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/04/how-to-help-world-ideas/629656/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/04/how-to-help-world-ideas/629656/?utm_source=feed"/>
+        <updated>2022-04-25T11:00:57.000Z</updated>
+        <summary type="html"><![CDATA[You Have $1 Billion. How Do You Change the World?]]></summary>
+        <author>
+            <name>Conor Friedersdorf</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[重新安置逃離戰爭的移民的普通美國人]]></title>
         <id>https://www.newyorker.com/news/us-journal/the-ordinary-americans-resettling-migrants-fleeing-war</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>Kyle Chayka</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[國際法的 "陰影"]]></title>
-        <id>https://www.newyorker.com/news/q-and-a/the-shadow-of-international-law</id>
-        <link href="https://www.newyorker.com/news/q-and-a/the-shadow-of-international-law"/>
-        <updated>2022-04-07T18:51:51.000Z</updated>
-        <summary type="html"><![CDATA[The “Shadow” of International Law]]></summary>
-        <author>
-            <name>Isaac Chotiner</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[五隻職業生涯比你更輝煌的浣熊]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/five-raccoons-whose-careers-were-more-illustrious-than-yours</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/five-raccoons-whose-careers-were-more-illustrious-than-yours"/>
-        <updated>2022-04-07T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Five Raccoons Whose Careers Were More Illustrious Than Yours]]></summary>
-        <author>
-            <name>Jake Goldwasser</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國勞工局法律顧問呼籲禁止強制性反工會會議]]></title>
-        <id>https://www.nytimes.com/2022/04/07/business/economy/nlrb-union-amazon-starbucks.html</id>
-        <link href="https://www.nytimes.com/2022/04/07/business/economy/nlrb-union-amazon-starbucks.html"/>
-        <updated>2022-04-07T17:44:46.000Z</updated>
-        <summary type="html"><![CDATA[NLRB Counsel Calls for Ban on Mandatory Anti-Union Meetings]]></summary>
-        <author>
-            <name>Noam Scheiber</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>

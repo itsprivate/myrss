@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 25 Apr 2022 10:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 11:12:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[不知道当<em>Roe</em>坠落时会发生什么。]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/abortion-access-states-scotus-roe-casey-reverse/629579/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/abortion-access-states-scotus-roe-casey-reverse/629579/?utm_source=feed</guid>
+            <pubDate>Mon, 25 Apr 2022 11:00:56 GMT</pubDate>
+            <description><![CDATA[There’s No Knowing What Will Happen When <em>Roe</em> Falls]]></description>
+        </item>
+        <item>
+            <title><![CDATA[亲爱的治疗师。我如何与我的难缠的父亲设定界限？]]></title>
+            <link>https://www.theatlantic.com/family/archive/2022/04/difficult-parent-set-boundaries/629644/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/family/archive/2022/04/difficult-parent-set-boundaries/629644/?utm_source=feed</guid>
+            <pubDate>Mon, 25 Apr 2022 11:00:57 GMT</pubDate>
+            <description><![CDATA[Dear Therapist: How Do I Set Boundaries With My Difficult Father?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你有10亿美元。你如何改变世界？]]></title>
+            <link>https://www.theatlantic.com/newsletters/archive/2022/04/how-to-help-world-ideas/629656/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/newsletters/archive/2022/04/how-to-help-world-ideas/629656/?utm_source=feed</guid>
+            <pubDate>Mon, 25 Apr 2022 11:00:57 GMT</pubDate>
+            <description><![CDATA[You Have $1 Billion. How Do You Change the World?]]></description>
+        </item>
         <item>
             <title><![CDATA[重新安置逃离战争的移民的普通美国人]]></title>
             <link>https://www.newyorker.com/news/us-journal/the-ordinary-americans-resettling-migrants-fleeing-war</link>
@@ -4192,27 +4213,6 @@
             <guid>https://www.newyorker.com/culture/infinite-scroll/is-it-cake-and-old-enough-reviewed-two-paths-for-the-netflix-reality-show</guid>
             <pubDate>Thu, 07 Apr 2022 20:12:41 GMT</pubDate>
             <description><![CDATA[“Is It Cake?” and “Old Enough!,” Reviewed: Two Paths for the Netflix Reality Show]]></description>
-        </item>
-        <item>
-            <title><![CDATA[国际法的 "阴影"]]></title>
-            <link>https://www.newyorker.com/news/q-and-a/the-shadow-of-international-law</link>
-            <guid>https://www.newyorker.com/news/q-and-a/the-shadow-of-international-law</guid>
-            <pubDate>Thu, 07 Apr 2022 18:51:51 GMT</pubDate>
-            <description><![CDATA[The “Shadow” of International Law]]></description>
-        </item>
-        <item>
-            <title><![CDATA[五只职业生涯比你更辉煌的浣熊]]></title>
-            <link>https://www.newyorker.com/humor/daily-shouts/five-raccoons-whose-careers-were-more-illustrious-than-yours</link>
-            <guid>https://www.newyorker.com/humor/daily-shouts/five-raccoons-whose-careers-were-more-illustrious-than-yours</guid>
-            <pubDate>Thu, 07 Apr 2022 18:00:00 GMT</pubDate>
-            <description><![CDATA[Five Raccoons Whose Careers Were More Illustrious Than Yours]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国劳工局法律顾问呼吁禁止强制性反工会会议]]></title>
-            <link>https://www.nytimes.com/2022/04/07/business/economy/nlrb-union-amazon-starbucks.html</link>
-            <guid>https://www.nytimes.com/2022/04/07/business/economy/nlrb-union-amazon-starbucks.html</guid>
-            <pubDate>Thu, 07 Apr 2022 17:44:46 GMT</pubDate>
-            <description><![CDATA[NLRB Counsel Calls for Ban on Mandatory Anti-Union Meetings]]></description>
         </item>
     </channel>
 </rss>
