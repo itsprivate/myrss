@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 25 Apr 2022 15:58:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 16:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,195 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[日本的故乡税]]></title>
+            <link>https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/</link>
+            <guid>https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/</guid>
+            <pubDate>Fri, 19 Oct 2018 11:35:00 GMT</pubDate>
+            <description><![CDATA[Japan's Hometown Tax]]></description>
+        </item>
+        <item>
+            <title><![CDATA[每日漫画。4月25日，星期一]]></title>
+            <link>https://www.newyorker.com/cartoons/daily-cartoon/monday-april-25th-marathon-water</link>
+            <guid>https://www.newyorker.com/cartoons/daily-cartoon/monday-april-25th-marathon-water</guid>
+            <pubDate>Mon, 25 Apr 2022 15:56:22 GMT</pubDate>
+            <description><![CDATA[Daily Cartoon: Monday, April 25th]]></description>
+        </item>
+        <item>
+            <title><![CDATA[特许经营人（Agent Provocateur]]></title>
+            <link>http://cacm.acm.org/magazines/2022/5/260344-agent-provocateur</link>
+            <guid>http://cacm.acm.org/magazines/2022/5/260344-agent-provocateur</guid>
+            <pubDate>Sun, 01 May 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Agent Provocateur]]></description>
+        </item>
+        <item>
+            <title><![CDATA[分布式矩阵向量乘法中近乎完美的负载平衡的无评级代码]]></title>
+            <link>http://cacm.acm.org/magazines/2022/5/260342-rateless-codes-for-near-perfect-load-balancing-in-distributed-matrix-vector-multiplication</link>
+            <guid>http://cacm.acm.org/magazines/2022/5/260342-rateless-codes-for-near-perfect-load-balancing-in-distributed-matrix-vector-multiplication</guid>
+            <pubDate>Sun, 01 May 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Rateless Codes for Near-Perfect Load Balancing in Distributed Matrix-Vector Multiplication]]></description>
+        </item>
+        <item>
+            <title><![CDATA[技术视角。在所有负载下的平衡]]></title>
+            <link>http://cacm.acm.org/magazines/2022/5/260364-technical-perspective-balancing-at-all-loads</link>
+            <guid>http://cacm.acm.org/magazines/2022/5/260364-technical-perspective-balancing-at-all-loads</guid>
+            <pubDate>Sun, 01 May 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Technical Perspective: Balancing At All Loads]]></description>
+        </item>
+        <item>
+            <title><![CDATA[为操作系统的核心部分设置配置]]></title>
+            <link>http://cacm.acm.org/magazines/2022/5/260343-set-the-configuration-for-the-heart-of-the-os</link>
+            <guid>http://cacm.acm.org/magazines/2022/5/260343-set-the-configuration-for-the-heart-of-the-os</guid>
+            <pubDate>Sun, 01 May 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Set the Configuration for the Heart of the OS]]></description>
+        </item>
+        <item>
+            <title><![CDATA[技术视角："什么是理想的操作系统？]]></title>
+            <link>http://cacm.acm.org/magazines/2022/5/260363-technical-perspective-what-is-the-ideal-operating-system</link>
+            <guid>http://cacm.acm.org/magazines/2022/5/260363-technical-perspective-what-is-the-ideal-operating-system</guid>
+            <pubDate>Sun, 01 May 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Technical Perspective: 'What Is the Ideal Operating System?']]></description>
+        </item>
+        <item>
+            <title><![CDATA[合成生物学的人工智能]]></title>
+            <link>http://cacm.acm.org/magazines/2022/5/260341-artificial-intelligence-for-synthetic-biology</link>
+            <guid>http://cacm.acm.org/magazines/2022/5/260341-artificial-intelligence-for-synthetic-biology</guid>
+            <pubDate>Sun, 01 May 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Artificial Intelligence for Synthetic Biology]]></description>
+        </item>
+        <item>
+            <title><![CDATA[对21世纪人类劳动和机器之间竞赛的数据驱动探索]]></title>
+            <link>http://cacm.acm.org/magazines/2022/5/260356-a-data-driven-exploration-of-the-race-between-human-labor-and-machines-in-the-21st-century</link>
+            <guid>http://cacm.acm.org/magazines/2022/5/260356-a-data-driven-exploration-of-the-race-between-human-labor-and-machines-in-the-21st-century</guid>
+            <pubDate>Sun, 01 May 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[A Data-Driven Exploration of the Race between Human Labor and Machines in the 21st Century]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Go编程语言和环境]]></title>
+            <link>http://cacm.acm.org/magazines/2022/5/260357-the-go-programming-language-and-environment</link>
+            <guid>http://cacm.acm.org/magazines/2022/5/260357-the-go-programming-language-and-environment</guid>
+            <pubDate>Sun, 01 May 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[The Go Programming Language and Environment]]></description>
+        </item>
+        <item>
+            <title><![CDATA[网络物理系统教育的探索]]></title>
+            <link>http://cacm.acm.org/magazines/2022/5/260355-explorations-in-cyber-physical-systems-education</link>
+            <guid>http://cacm.acm.org/magazines/2022/5/260355-explorations-in-cyber-physical-systems-education</guid>
+            <pubDate>Sun, 01 May 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Explorations in Cyber-Physical Systems Education]]></description>
+        </item>
+        <item>
+            <title><![CDATA[计算机程序中的意义和语境]]></title>
+            <link>http://cacm.acm.org/magazines/2022/5/260354-meaning-and-context-in-computer-programs</link>
+            <guid>http://cacm.acm.org/magazines/2022/5/260354-meaning-and-context-in-computer-programs</guid>
+            <pubDate>Sun, 01 May 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Meaning and Context in Computer Programs]]></description>
+        </item>
+        <item>
+            <title><![CDATA[这需要一个社区]]></title>
+            <link>http://cacm.acm.org/magazines/2022/5/260353-it-takes-a-community</link>
+            <guid>http://cacm.acm.org/magazines/2022/5/260353-it-takes-a-community</guid>
+            <pubDate>Sun, 01 May 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[It Takes a Community]]></description>
+        </item>
+        <item>
+            <title><![CDATA[信息："我 "与 "我们 "与 "他们"。]]></title>
+            <link>http://cacm.acm.org/magazines/2022/5/260352-information-i-vs-we-vs-they</link>
+            <guid>http://cacm.acm.org/magazines/2022/5/260352-information-i-vs-we-vs-they</guid>
+            <pubDate>Sun, 01 May 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Information: 'I' vs. 'We' vs. 'They']]></description>
+        </item>
+        <item>
+            <title><![CDATA[通过社区、批判性和公民身份实现计算机科学的正义]]></title>
+            <link>http://cacm.acm.org/magazines/2022/5/260351-toward-justice-in-computer-science-through-community-criticality-and-citizenship</link>
+            <guid>http://cacm.acm.org/magazines/2022/5/260351-toward-justice-in-computer-science-through-community-criticality-and-citizenship</guid>
+            <pubDate>Sun, 01 May 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Toward Justice in Computer Science through Community, Criticality, and Citizenship]]></description>
+        </item>
+        <item>
+            <title><![CDATA[网络安全是未来计算研究的照明灯]]></title>
+            <link>http://cacm.acm.org/magazines/2022/5/260350-cybersecurity-as-illuminator-for-the-future-of-computing-research</link>
+            <guid>http://cacm.acm.org/magazines/2022/5/260350-cybersecurity-as-illuminator-for-the-future-of-computing-research</guid>
+            <pubDate>Sun, 01 May 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Cybersecurity as Illuminator for the Future of Computing Research]]></description>
+        </item>
+        <item>
+            <title><![CDATA[数字残疾法的两条路径]]></title>
+            <link>http://cacm.acm.org/magazines/2022/5/260349-two-paths-for-digital-disability-law</link>
+            <guid>http://cacm.acm.org/magazines/2022/5/260349-two-paths-for-digital-disability-law</guid>
+            <pubDate>Sun, 01 May 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Two Paths for Digital Disability Law]]></description>
+        </item>
+        <item>
+            <title><![CDATA[人工智能与心理健康]]></title>
+            <link>http://cacm.acm.org/magazines/2022/5/260347-artificial-intelligence-and-mental-health</link>
+            <guid>http://cacm.acm.org/magazines/2022/5/260347-artificial-intelligence-and-mental-health</guid>
+            <pubDate>Sun, 01 May 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Artificial Intelligence and Mental Health]]></description>
+        </item>
+        <item>
+            <title><![CDATA[培养机器人思维]]></title>
+            <link>http://cacm.acm.org/magazines/2022/5/260348-raising-robovoices</link>
+            <guid>http://cacm.acm.org/magazines/2022/5/260348-raising-robovoices</guid>
+            <pubDate>Sun, 01 May 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Raising Robovoices]]></description>
+        </item>
+        <item>
+            <title><![CDATA[神经网络学会加快模拟的速度]]></title>
+            <link>http://cacm.acm.org/magazines/2022/5/260346-neural-networks-learn-to-speed-up-simulations</link>
+            <guid>http://cacm.acm.org/magazines/2022/5/260346-neural-networks-learn-to-speed-up-simulations</guid>
+            <pubDate>Sun, 01 May 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Neural Networks Learn to Speed Up Simulations]]></description>
+        </item>
+        <item>
+            <title><![CDATA[现代科技无法保护你的秘密身份]]></title>
+            <link>http://cacm.acm.org/magazines/2022/5/260345-modern-tech-cant-shield-your-secret-identity</link>
+            <guid>http://cacm.acm.org/magazines/2022/5/260345-modern-tech-cant-shield-your-secret-identity</guid>
+            <pubDate>Sun, 01 May 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Modern Tech Can't Shield Your Secret Identity]]></description>
+        </item>
+        <item>
+            <title><![CDATA[ACM的2022年大选]]></title>
+            <link>http://cacm.acm.org/magazines/2022/5/260365-acms-2022-general-election</link>
+            <guid>http://cacm.acm.org/magazines/2022/5/260365-acms-2022-general-election</guid>
+            <pubDate>Sun, 01 May 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[ACM's 2022 General Election]]></description>
+        </item>
+        <item>
+            <title><![CDATA[感谢迄今为止的进展!]]></title>
+            <link>http://cacm.acm.org/magazines/2022/5/260362-thanks-for-the-progress-to-date</link>
+            <guid>http://cacm.acm.org/magazines/2022/5/260362-thanks-for-the-progress-to-date</guid>
+            <pubDate>Sun, 01 May 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Thanks for the Progress to date!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一次购物中心之旅如何激励我从事神经符号人工智能工作]]></title>
+            <link>http://cacm.acm.org/magazines/2022/5/260361-how-a-shopping-mall-trip-inspired-me-to-work-in-neuro-symbolic-ai</link>
+            <guid>http://cacm.acm.org/magazines/2022/5/260361-how-a-shopping-mall-trip-inspired-me-to-work-in-neuro-symbolic-ai</guid>
+            <pubDate>Sun, 01 May 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[How a Shopping Mall Trip Inspired Me to Work in Neuro-Symbolic AI]]></description>
+        </item>
+        <item>
+            <title><![CDATA[战争与技术（和ACM）]]></title>
+            <link>http://cacm.acm.org/magazines/2022/5/260360-war-and-tech-and-acm</link>
+            <guid>http://cacm.acm.org/magazines/2022/5/260360-war-and-tech-and-acm</guid>
+            <pubDate>Sun, 01 May 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[War and Tech (and ACM)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[ACM在75岁时]]></title>
+            <link>http://cacm.acm.org/magazines/2022/5/260359-acm-at-75</link>
+            <guid>http://cacm.acm.org/magazines/2022/5/260359-acm-at-75</guid>
+            <pubDate>Sun, 01 May 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[ACM at 75]]></description>
+        </item>
+        <item>
+            <title><![CDATA[ACM 2032的四个愿望]]></title>
+            <link>http://cacm.acm.org/magazines/2022/5/260358-four-aspirations-for-acm-2032</link>
+            <guid>http://cacm.acm.org/magazines/2022/5/260358-four-aspirations-for-acm-2032</guid>
+            <pubDate>Sun, 01 May 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Four Aspirations for ACM 2032]]></description>
+        </item>
         <item>
             <title><![CDATA[在Stripe工作是怎样的体验]]></title>
             <link>https://www.kalzumeus.com/2019/3/18/two-years-at-stripe/</link>
@@ -4024,195 +4213,6 @@
             <guid>https://www.newyorker.com/news/our-columnists/is-larry-summers-really-right-about-inflation-and-biden</guid>
             <pubDate>Fri, 08 Apr 2022 18:29:46 GMT</pubDate>
             <description><![CDATA[Is Larry Summers Really Right About Inflation and Biden?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰新比基夫村地窖里的囚犯们]]></title>
-            <link>https://www.newyorker.com/news/dispatch/the-prisoners-in-a-cellar-in-the-ukrainian-village-of-novyi-bykiv</link>
-            <guid>https://www.newyorker.com/news/dispatch/the-prisoners-in-a-cellar-in-the-ukrainian-village-of-novyi-bykiv</guid>
-            <pubDate>Fri, 08 Apr 2022 18:41:00 GMT</pubDate>
-            <description><![CDATA[The Prisoners in a Cellar in the Ukrainian Village of Novyi Bykiv]]></description>
-        </item>
-        <item>
-            <title><![CDATA[拉里-萨默斯对通货膨胀和拜登的看法真的正确吗？]]></title>
-            <link>https://www.newyorker.com/news/our-columnists/is-larry-summers-really-right-about-inflation-and-biden</link>
-            <guid>https://www.newyorker.com/news/our-columnists/is-larry-summers-really-right-about-inflation-and-biden</guid>
-            <pubDate>Fri, 08 Apr 2022 18:29:46 GMT</pubDate>
-            <description><![CDATA[Is Larry Summers Really Right About Inflation and Biden?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何烹饪紧张的罗非鱼]]></title>
-            <link>https://www.newyorker.com/humor/daily-shouts/how-to-cook-tense-tilapia</link>
-            <guid>https://www.newyorker.com/humor/daily-shouts/how-to-cook-tense-tilapia</guid>
-            <pubDate>Fri, 08 Apr 2022 18:00:00 GMT</pubDate>
-            <description><![CDATA[How to Cook Tense Tilapia]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国各州的能力实际上是相当高的]]></title>
-            <link>https://noahpinion.substack.com/p/us-state-capacity-is-actually-pretty</link>
-            <guid>https://noahpinion.substack.com/p/us-state-capacity-is-actually-pretty</guid>
-            <pubDate>Thu, 17 Mar 2022 09:00:08 GMT</pubDate>
-            <description><![CDATA[U.S. state capacity is actually pretty high]]></description>
-        </item>
-        <item>
-            <title><![CDATA[五旬节基督教是如何占领世界的]]></title>
-            <link>https://www.currentaffairs.org/2022/04/how-pentecostal-christianity-is-taking-over-the-world/</link>
-            <guid>https://www.currentaffairs.org/2022/04/how-pentecostal-christianity-is-taking-over-the-world/</guid>
-            <pubDate>Fri, 08 Apr 2022 12:43:32 GMT</pubDate>
-            <description><![CDATA[How Pentecostal Christianity is Taking Over the World]]></description>
-        </item>
-        <item>
-            <title><![CDATA[被误解的尼科之声]]></title>
-            <link>https://www.newyorker.com/books/under-review/the-misunderstood-voice-of-nico</link>
-            <guid>https://www.newyorker.com/books/under-review/the-misunderstood-voice-of-nico</guid>
-            <pubDate>Fri, 08 Apr 2022 16:10:00 GMT</pubDate>
-            <description><![CDATA[The Misunderstood Voice of Nico]]></description>
-        </item>
-        <item>
-            <title><![CDATA[是时候重新开始掩饰了吗？]]></title>
-            <link>https://www.theatlantic.com/health/archive/2022/04/omicron-ba2-surge-indoor-masking/629512/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/health/archive/2022/04/omicron-ba2-surge-indoor-masking/629512/?utm_source=feed</guid>
-            <pubDate>Fri, 08 Apr 2022 15:27:24 GMT</pubDate>
-            <description><![CDATA[Is It Time to Start Masking Again?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日漫画。4月8日，星期五]]></title>
-            <link>https://www.newyorker.com/cartoons/daily-cartoon/friday-april-8th-warm-spring</link>
-            <guid>https://www.newyorker.com/cartoons/daily-cartoon/friday-april-8th-warm-spring</guid>
-            <pubDate>Fri, 08 Apr 2022 14:35:48 GMT</pubDate>
-            <description><![CDATA[Daily Cartoon: Friday, April 8th]]></description>
-        </item>
-        <item>
-            <title><![CDATA[<em>The Atlantic</em> Daily: 特朗普的七小时记录差距]]></title>
-            <link>https://www.theatlantic.com/newsletters/archive/2022/04/trumps-7-hour-records-gap/629517/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/newsletters/archive/2022/04/trumps-7-hour-records-gap/629517/?utm_source=feed</guid>
-            <pubDate>Fri, 08 Apr 2022 14:34:42 GMT</pubDate>
-            <description><![CDATA[<em>The Atlantic</em> Daily: Trump’s Seven-Hour Records Gap]]></description>
-        </item>
-        <item>
-            <title><![CDATA[也是朋友的友谊研究者]]></title>
-            <link>https://www.theatlantic.com/family/archive/2022/04/how-friendship-researchers-stay-friends/629508/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/family/archive/2022/04/how-friendship-researchers-stay-friends/629508/?utm_source=feed</guid>
-            <pubDate>Fri, 08 Apr 2022 14:00:55 GMT</pubDate>
-            <description><![CDATA[The Friendship Researchers Who Are Also Friends]]></description>
-        </item>
-        <item>
-            <title><![CDATA[图书简报》。关于儿童阅读的斗争]]></title>
-            <link>https://www.theatlantic.com/books/archive/2022/04/banned-books-critical-race-theory-1619-project/620394/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/books/archive/2022/04/banned-books-critical-race-theory-1619-project/620394/?utm_source=feed</guid>
-            <pubDate>Fri, 08 Apr 2022 13:37:31 GMT</pubDate>
-            <description><![CDATA[The Books Briefing: The Fight Over What Kids Can Read]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一! 一百! 千人!]]></title>
-            <link>https://austinkleon.substack.com/p/one-hundred-thousand</link>
-            <guid>https://austinkleon.substack.com/p/one-hundred-thousand</guid>
-            <pubDate>Fri, 08 Apr 2022 12:00:54 GMT</pubDate>
-            <description><![CDATA[One! Hundred! Thousand!]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么乌克兰会赢]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-military-strategy-russian-failure-kyiv/629514/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-military-strategy-russian-failure-kyiv/629514/?utm_source=feed</guid>
-            <pubDate>Fri, 08 Apr 2022 11:35:05 GMT</pubDate>
-            <description><![CDATA[Why Ukraine Is Winning]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么面对核武器带来的威胁如此困难？]]></title>
-            <link>https://www.currentaffairs.org/2022/03/why-its-so-hard-to-face-the-threat-posed-by-nuclear-weapons/</link>
-            <guid>https://www.currentaffairs.org/2022/03/why-its-so-hard-to-face-the-threat-posed-by-nuclear-weapons/</guid>
-            <pubDate>Wed, 16 Mar 2022 15:58:17 GMT</pubDate>
-            <description><![CDATA[Why It&#8217;s So Hard to Face the Threat Posed by Nuclear Weapons]]></description>
-        </item>
-        <item>
-            <title><![CDATA[对酒店客房的颂歌]]></title>
-            <link>https://www.theatlantic.com/magazine/archive/2022/05/an-ode-to-hotel-rooms/629376/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/magazine/archive/2022/05/an-ode-to-hotel-rooms/629376/?utm_source=feed</guid>
-            <pubDate>Fri, 08 Apr 2022 11:00:59 GMT</pubDate>
-            <description><![CDATA[An Ode to Hotel Rooms]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国还没有想好如何处理来去匆匆的大流行病]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/04/covid-omicron-ba2-surge-precautions/629500/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/04/covid-omicron-ba2-surge-precautions/629500/?utm_source=feed</guid>
-            <pubDate>Fri, 08 Apr 2022 11:00:59 GMT</pubDate>
-            <description><![CDATA[The U.S. Hasn’t Figured Out How to Handle a Pandemic That Comes and Goes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每场战争都会导致非人化]]></title>
-            <link>https://www.theatlantic.com/culture/archive/2022/04/sergei-loznitsa-donbass-interview-russia/629509/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/culture/archive/2022/04/sergei-loznitsa-donbass-interview-russia/629509/?utm_source=feed</guid>
-            <pubDate>Fri, 08 Apr 2022 11:00:58 GMT</pubDate>
-            <description><![CDATA[‘Every War Leads to Dehumanization’]]></description>
-        </item>
-        <item>
-            <title><![CDATA[让世界认识阿诺德-施瓦辛格的电影]]></title>
-            <link>https://www.newyorker.com/culture/photo-booth/the-pictures-that-introduced-the-world-to-arnold-schwarzenegger</link>
-            <guid>https://www.newyorker.com/culture/photo-booth/the-pictures-that-introduced-the-world-to-arnold-schwarzenegger</guid>
-            <pubDate>Fri, 08 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Pictures That Introduced the World to Arnold Schwarzenegger]]></description>
-        </item>
-        <item>
-            <title><![CDATA[当一万两千名游戏开发者聚集在一起时，会发生什么？]]></title>
-            <link>https://www.newyorker.com/news/letter-from-silicon-valley/what-happens-when-twelve-thousand-game-developers-converge</link>
-            <guid>https://www.newyorker.com/news/letter-from-silicon-valley/what-happens-when-twelve-thousand-game-developers-converge</guid>
-            <pubDate>Fri, 08 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[What Happens When Twelve Thousand Game Developers Converge?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[面包店的国际合作，在 "避难所 "里]]></title>
-            <link>https://www.newyorker.com/culture/screening-room/international-cooperation-in-a-bakery-in-refuge</link>
-            <guid>https://www.newyorker.com/culture/screening-room/international-cooperation-in-a-bakery-in-refuge</guid>
-            <pubDate>Fri, 08 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[International Coöperation in a Bakery, in “Refuge”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[当一万两千名游戏开发者聚集在一起时，会发生什么？]]></title>
-            <link>https://www.newyorker.com/news/letter-from-silicon-valley/what-happens-when-twelve-thousand-game-developers-converge</link>
-            <guid>https://www.newyorker.com/news/letter-from-silicon-valley/what-happens-when-twelve-thousand-game-developers-converge</guid>
-            <pubDate>Fri, 08 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[What Happens When Twelve Thousand Game Developers Converge?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你的睡眠瘫痪恶魔正在与你分手的蛛丝马迹]]></title>
-            <link>https://www.newyorker.com/humor/daily-shouts/telltale-signs-that-your-sleep-paralysis-demon-is-breaking-up-with-you</link>
-            <guid>https://www.newyorker.com/humor/daily-shouts/telltale-signs-that-your-sleep-paralysis-demon-is-breaking-up-with-you</guid>
-            <pubDate>Fri, 08 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Telltale Signs That Your Sleep-Paralysis Demon Is Breaking Up with You]]></description>
-        </item>
-        <item>
-            <title><![CDATA[让世界认识阿诺德-施瓦辛格的电影]]></title>
-            <link>https://www.newyorker.com/culture/photo-booth/the-pictures-that-introduced-the-world-to-arnold-schwarzenegger</link>
-            <guid>https://www.newyorker.com/culture/photo-booth/the-pictures-that-introduced-the-world-to-arnold-schwarzenegger</guid>
-            <pubDate>Fri, 08 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Pictures That Introduced the World to Arnold Schwarzenegger]]></description>
-        </item>
-        <item>
-            <title><![CDATA[面包店的国际合作，在 "避难所 "里]]></title>
-            <link>https://www.newyorker.com/culture/screening-room/international-cooperation-in-a-bakery-in-refuge</link>
-            <guid>https://www.newyorker.com/culture/screening-room/international-cooperation-in-a-bakery-in-refuge</guid>
-            <pubDate>Fri, 08 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[International Coöperation in a Bakery, in “Refuge”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么欧洲需要乌克兰]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/04/why-europe-needs-ukraine/629476/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/04/why-europe-needs-ukraine/629476/?utm_source=feed</guid>
-            <pubDate>Fri, 08 Apr 2022 09:00:56 GMT</pubDate>
-            <description><![CDATA[Why Europe Needs Ukraine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[随着油价上涨，网络上对电动汽车的搜索也在增加]]></title>
-            <link>https://www.nytimes.com/2022/04/08/climate/gas-prices-electric-vehicles.html</link>
-            <guid>https://www.nytimes.com/2022/04/08/climate/gas-prices-electric-vehicles.html</guid>
-            <pubDate>Fri, 08 Apr 2022 09:00:11 GMT</pubDate>
-            <description><![CDATA[As Gas Prices Went Up, So Did Web Searches for Electric Vehicles]]></description>
-        </item>
-        <item>
-            <title><![CDATA[英特尔如何在全球短缺的情况下制造半导体]]></title>
-            <link>https://www.nytimes.com/2022/04/08/technology/intel-chip-shortage.html</link>
-            <guid>https://www.nytimes.com/2022/04/08/technology/intel-chip-shortage.html</guid>
-            <pubDate>Fri, 08 Apr 2022 09:00:33 GMT</pubDate>
-            <description><![CDATA[How Intel Makes Semiconductors in a Global Shortage]]></description>
         </item>
     </channel>
 </rss>

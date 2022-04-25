@@ -11,6 +11,330 @@
     },
     "items": [
         {
+            "id": "https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/",
+            "content_html": "",
+            "url": "https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/",
+            "title": "日本的故鄉稅",
+            "summary": "Japan's Hometown Tax",
+            "date_modified": "2018-10-19T11:35:00.000Z",
+            "author": {
+                "name": "Patrick McKenzie (patio11)",
+                "url": "https://www.kalzumeus.com/feed/articles/"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/cartoons/daily-cartoon/monday-april-25th-marathon-water",
+            "content_html": "",
+            "url": "https://www.newyorker.com/cartoons/daily-cartoon/monday-april-25th-marathon-water",
+            "title": "每日漫畫。4月25日，星期一",
+            "summary": "Daily Cartoon: Monday, April 25th",
+            "date_modified": "2022-04-25T15:56:22.000Z",
+            "author": {
+                "name": "Jason Adam Katzenstein",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/5/260344-agent-provocateur",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/5/260344-agent-provocateur",
+            "title": "特許經營人（Agent Provocateur",
+            "summary": "Agent Provocateur",
+            "date_modified": "2022-05-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/5/260342-rateless-codes-for-near-perfect-load-balancing-in-distributed-matrix-vector-multiplication",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/5/260342-rateless-codes-for-near-perfect-load-balancing-in-distributed-matrix-vector-multiplication",
+            "title": "分佈式矩陣向量乘法中近乎完美的負載平衡的無評級代碼",
+            "summary": "Rateless Codes for Near-Perfect Load Balancing in Distributed Matrix-Vector Multiplication",
+            "date_modified": "2022-05-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/5/260364-technical-perspective-balancing-at-all-loads",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/5/260364-technical-perspective-balancing-at-all-loads",
+            "title": "技術視角。在所有負載下的平衡",
+            "summary": "Technical Perspective: Balancing At All Loads",
+            "date_modified": "2022-05-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/5/260343-set-the-configuration-for-the-heart-of-the-os",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/5/260343-set-the-configuration-for-the-heart-of-the-os",
+            "title": "為操作系統的核心部分設置配置",
+            "summary": "Set the Configuration for the Heart of the OS",
+            "date_modified": "2022-05-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/5/260363-technical-perspective-what-is-the-ideal-operating-system",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/5/260363-technical-perspective-what-is-the-ideal-operating-system",
+            "title": "技術視角：\"什麼是理想的操作系統？",
+            "summary": "Technical Perspective: 'What Is the Ideal Operating System?'",
+            "date_modified": "2022-05-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/5/260341-artificial-intelligence-for-synthetic-biology",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/5/260341-artificial-intelligence-for-synthetic-biology",
+            "title": "合成生物學的人工智能",
+            "summary": "Artificial Intelligence for Synthetic Biology",
+            "date_modified": "2022-05-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/5/260356-a-data-driven-exploration-of-the-race-between-human-labor-and-machines-in-the-21st-century",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/5/260356-a-data-driven-exploration-of-the-race-between-human-labor-and-machines-in-the-21st-century",
+            "title": "對21世紀人類勞動和機器之間競賽的數據驅動探索",
+            "summary": "A Data-Driven Exploration of the Race between Human Labor and Machines in the 21st Century",
+            "date_modified": "2022-05-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/5/260357-the-go-programming-language-and-environment",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/5/260357-the-go-programming-language-and-environment",
+            "title": "Go編程語言和環境",
+            "summary": "The Go Programming Language and Environment",
+            "date_modified": "2022-05-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/5/260355-explorations-in-cyber-physical-systems-education",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/5/260355-explorations-in-cyber-physical-systems-education",
+            "title": "網絡物理系統教育的探索",
+            "summary": "Explorations in Cyber-Physical Systems Education",
+            "date_modified": "2022-05-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/5/260354-meaning-and-context-in-computer-programs",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/5/260354-meaning-and-context-in-computer-programs",
+            "title": "計算機程序中的意義和語境",
+            "summary": "Meaning and Context in Computer Programs",
+            "date_modified": "2022-05-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/5/260353-it-takes-a-community",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/5/260353-it-takes-a-community",
+            "title": "這需要一個社區",
+            "summary": "It Takes a Community",
+            "date_modified": "2022-05-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/5/260352-information-i-vs-we-vs-they",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/5/260352-information-i-vs-we-vs-they",
+            "title": "信息：\"我 \"與 \"我們 \"與 \"他們\"。",
+            "summary": "Information: 'I' vs. 'We' vs. 'They'",
+            "date_modified": "2022-05-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/5/260351-toward-justice-in-computer-science-through-community-criticality-and-citizenship",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/5/260351-toward-justice-in-computer-science-through-community-criticality-and-citizenship",
+            "title": "通過社區、批判性和公民身份實現計算機科學的正義",
+            "summary": "Toward Justice in Computer Science through Community, Criticality, and Citizenship",
+            "date_modified": "2022-05-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/5/260350-cybersecurity-as-illuminator-for-the-future-of-computing-research",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/5/260350-cybersecurity-as-illuminator-for-the-future-of-computing-research",
+            "title": "網絡安全是未來計算研究的照明燈",
+            "summary": "Cybersecurity as Illuminator for the Future of Computing Research",
+            "date_modified": "2022-05-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/5/260349-two-paths-for-digital-disability-law",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/5/260349-two-paths-for-digital-disability-law",
+            "title": "數字殘疾法的兩條路徑",
+            "summary": "Two Paths for Digital Disability Law",
+            "date_modified": "2022-05-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/5/260347-artificial-intelligence-and-mental-health",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/5/260347-artificial-intelligence-and-mental-health",
+            "title": "人工智能與心理健康",
+            "summary": "Artificial Intelligence and Mental Health",
+            "date_modified": "2022-05-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/5/260348-raising-robovoices",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/5/260348-raising-robovoices",
+            "title": "培養機器人思維",
+            "summary": "Raising Robovoices",
+            "date_modified": "2022-05-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/5/260346-neural-networks-learn-to-speed-up-simulations",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/5/260346-neural-networks-learn-to-speed-up-simulations",
+            "title": "神經網絡學會加快模擬的速度",
+            "summary": "Neural Networks Learn to Speed Up Simulations",
+            "date_modified": "2022-05-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/5/260345-modern-tech-cant-shield-your-secret-identity",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/5/260345-modern-tech-cant-shield-your-secret-identity",
+            "title": "現代科技無法保護你的秘密身份",
+            "summary": "Modern Tech Can't Shield Your Secret Identity",
+            "date_modified": "2022-05-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/5/260365-acms-2022-general-election",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/5/260365-acms-2022-general-election",
+            "title": "ACM的2022年大選",
+            "summary": "ACM's 2022 General Election",
+            "date_modified": "2022-05-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/5/260362-thanks-for-the-progress-to-date",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/5/260362-thanks-for-the-progress-to-date",
+            "title": "感謝迄今為止的進展!",
+            "summary": "Thanks for the Progress to date!",
+            "date_modified": "2022-05-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/5/260361-how-a-shopping-mall-trip-inspired-me-to-work-in-neuro-symbolic-ai",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/5/260361-how-a-shopping-mall-trip-inspired-me-to-work-in-neuro-symbolic-ai",
+            "title": "一次購物中心之旅如何激勵我從事神經符號人工智能工作",
+            "summary": "How a Shopping Mall Trip Inspired Me to Work in Neuro-Symbolic AI",
+            "date_modified": "2022-05-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/5/260360-war-and-tech-and-acm",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/5/260360-war-and-tech-and-acm",
+            "title": "戰爭與技術（和ACM）",
+            "summary": "War and Tech (and ACM)",
+            "date_modified": "2022-05-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/5/260359-acm-at-75",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/5/260359-acm-at-75",
+            "title": "ACM在75歲時",
+            "summary": "ACM at 75",
+            "date_modified": "2022-05-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
+            "id": "http://cacm.acm.org/magazines/2022/5/260358-four-aspirations-for-acm-2032",
+            "content_html": "",
+            "url": "http://cacm.acm.org/magazines/2022/5/260358-four-aspirations-for-acm-2032",
+            "title": "ACM 2032的四個願望",
+            "summary": "Four Aspirations for ACM 2032",
+            "date_modified": "2022-05-01T04:00:00.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://cacm.acm.org/magazine.rss"
+            }
+        },
+        {
             "id": "https://www.kalzumeus.com/2019/3/18/two-years-at-stripe/",
             "content_html": "",
             "url": "https://www.kalzumeus.com/2019/3/18/two-years-at-stripe/",
@@ -6884,330 +7208,6 @@
             "author": {
                 "name": "John Cassidy",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/dispatch/the-prisoners-in-a-cellar-in-the-ukrainian-village-of-novyi-bykiv",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/dispatch/the-prisoners-in-a-cellar-in-the-ukrainian-village-of-novyi-bykiv",
-            "title": "烏克蘭新比基夫村地窖裡的囚犯們",
-            "summary": "The Prisoners in a Cellar in the Ukrainian Village of Novyi Bykiv",
-            "date_modified": "2022-04-08T18:41:00.000Z",
-            "author": {
-                "name": "Joshua Yaffa",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/our-columnists/is-larry-summers-really-right-about-inflation-and-biden",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/our-columnists/is-larry-summers-really-right-about-inflation-and-biden",
-            "title": "拉里-薩默斯對通貨膨脹和拜登的看法真的正確嗎？",
-            "summary": "Is Larry Summers Really Right About Inflation and Biden?",
-            "date_modified": "2022-04-08T18:29:46.000Z",
-            "author": {
-                "name": "John Cassidy",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/humor/daily-shouts/how-to-cook-tense-tilapia",
-            "content_html": "",
-            "url": "https://www.newyorker.com/humor/daily-shouts/how-to-cook-tense-tilapia",
-            "title": "如何烹飪緊張的羅非魚",
-            "summary": "How to Cook Tense Tilapia",
-            "date_modified": "2022-04-08T18:00:00.000Z",
-            "author": {
-                "name": "Julie Benbassat",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://noahpinion.substack.com/p/us-state-capacity-is-actually-pretty",
-            "content_html": "",
-            "url": "https://noahpinion.substack.com/p/us-state-capacity-is-actually-pretty",
-            "title": "美國各州的能力實際上是相當高的",
-            "summary": "U.S. state capacity is actually pretty high",
-            "date_modified": "2022-03-17T09:00:08.000Z",
-            "author": {
-                "name": "Noah Smith",
-                "url": "https://noahpinion.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://www.currentaffairs.org/2022/04/how-pentecostal-christianity-is-taking-over-the-world/",
-            "content_html": "",
-            "url": "https://www.currentaffairs.org/2022/04/how-pentecostal-christianity-is-taking-over-the-world/",
-            "title": "五旬節基督教是如何佔領世界的",
-            "summary": "How Pentecostal Christianity is Taking Over the World",
-            "date_modified": "2022-04-08T12:43:32.000Z",
-            "author": {
-                "name": "Current Affairs",
-                "url": "https://www.currentaffairs.org/feed"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/books/under-review/the-misunderstood-voice-of-nico",
-            "content_html": "",
-            "url": "https://www.newyorker.com/books/under-review/the-misunderstood-voice-of-nico",
-            "title": "被誤解的尼科之聲",
-            "summary": "The Misunderstood Voice of Nico",
-            "date_modified": "2022-04-08T16:10:00.000Z",
-            "author": {
-                "name": "Brian Dillon",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/health/archive/2022/04/omicron-ba2-surge-indoor-masking/629512/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/health/archive/2022/04/omicron-ba2-surge-indoor-masking/629512/?utm_source=feed",
-            "title": "是時候重新開始掩飾了嗎？",
-            "summary": "Is It Time to Start Masking Again?",
-            "date_modified": "2022-04-08T15:27:24.000Z",
-            "author": {
-                "name": "Yasmin Tayag",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/cartoons/daily-cartoon/friday-april-8th-warm-spring",
-            "content_html": "",
-            "url": "https://www.newyorker.com/cartoons/daily-cartoon/friday-april-8th-warm-spring",
-            "title": "每日漫畫。4月8日，星期五",
-            "summary": "Daily Cartoon: Friday, April 8th",
-            "date_modified": "2022-04-08T14:35:48.000Z",
-            "author": {
-                "name": "Emily Bernstein",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/newsletters/archive/2022/04/trumps-7-hour-records-gap/629517/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/newsletters/archive/2022/04/trumps-7-hour-records-gap/629517/?utm_source=feed",
-            "title": "<em>The Atlantic</em> Daily: 特朗普的七小時記錄差距",
-            "summary": "<em>The Atlantic</em> Daily: Trump’s Seven-Hour Records Gap",
-            "date_modified": "2022-04-08T14:34:42.000Z",
-            "author": {
-                "name": "Caroline Mimbs Nyce",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/family/archive/2022/04/how-friendship-researchers-stay-friends/629508/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/family/archive/2022/04/how-friendship-researchers-stay-friends/629508/?utm_source=feed",
-            "title": "也是朋友的友誼研究者",
-            "summary": "The Friendship Researchers Who Are Also Friends",
-            "date_modified": "2022-04-08T14:00:55.000Z",
-            "author": {
-                "name": "Julie Beck",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/books/archive/2022/04/banned-books-critical-race-theory-1619-project/620394/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/books/archive/2022/04/banned-books-critical-race-theory-1619-project/620394/?utm_source=feed",
-            "title": "圖書簡報》。關於兒童閱讀的鬥爭",
-            "summary": "The Books Briefing: The Fight Over What Kids Can Read",
-            "date_modified": "2022-04-08T13:37:31.000Z",
-            "author": {
-                "name": "Kate Cray",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://austinkleon.substack.com/p/one-hundred-thousand",
-            "content_html": "",
-            "url": "https://austinkleon.substack.com/p/one-hundred-thousand",
-            "title": "一! 一百! 千人!",
-            "summary": "One! Hundred! Thousand!",
-            "date_modified": "2022-04-08T12:00:54.000Z",
-            "author": {
-                "name": "Austin Kleon",
-                "url": "https://austinkleon.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/04/ukraine-military-strategy-russian-failure-kyiv/629514/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/04/ukraine-military-strategy-russian-failure-kyiv/629514/?utm_source=feed",
-            "title": "為什麼烏克蘭會贏",
-            "summary": "Why Ukraine Is Winning",
-            "date_modified": "2022-04-08T11:35:05.000Z",
-            "author": {
-                "name": "Phillips Payson O’Brien",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.currentaffairs.org/2022/03/why-its-so-hard-to-face-the-threat-posed-by-nuclear-weapons/",
-            "content_html": "",
-            "url": "https://www.currentaffairs.org/2022/03/why-its-so-hard-to-face-the-threat-posed-by-nuclear-weapons/",
-            "title": "為什麼面對核武器帶來的威脅如此困難？",
-            "summary": "Why It&#8217;s So Hard to Face the Threat Posed by Nuclear Weapons",
-            "date_modified": "2022-03-16T15:58:17.000Z",
-            "author": {
-                "name": "Phil Torres",
-                "url": "https://www.currentaffairs.org/feed"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/magazine/archive/2022/05/an-ode-to-hotel-rooms/629376/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/magazine/archive/2022/05/an-ode-to-hotel-rooms/629376/?utm_source=feed",
-            "title": "對酒店客房的頌歌",
-            "summary": "An Ode to Hotel Rooms",
-            "date_modified": "2022-04-08T11:00:59.000Z",
-            "author": {
-                "name": "James Parker",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/04/covid-omicron-ba2-surge-precautions/629500/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/04/covid-omicron-ba2-surge-precautions/629500/?utm_source=feed",
-            "title": "美國還沒有想好如何處理來去匆匆的大流行病",
-            "summary": "The U.S. Hasn’t Figured Out How to Handle a Pandemic That Comes and Goes",
-            "date_modified": "2022-04-08T11:00:59.000Z",
-            "author": {
-                "name": "Juliette Kayyem",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/culture/archive/2022/04/sergei-loznitsa-donbass-interview-russia/629509/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/culture/archive/2022/04/sergei-loznitsa-donbass-interview-russia/629509/?utm_source=feed",
-            "title": "每場戰爭都會導致非人化",
-            "summary": "‘Every War Leads to Dehumanization’",
-            "date_modified": "2022-04-08T11:00:58.000Z",
-            "author": {
-                "name": "David Sims",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/photo-booth/the-pictures-that-introduced-the-world-to-arnold-schwarzenegger",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/photo-booth/the-pictures-that-introduced-the-world-to-arnold-schwarzenegger",
-            "title": "讓世界認識阿諾德-施瓦辛格的電影",
-            "summary": "The Pictures That Introduced the World to Arnold Schwarzenegger",
-            "date_modified": "2022-04-08T10:00:00.000Z",
-            "author": {
-                "name": "Crispin Long",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/letter-from-silicon-valley/what-happens-when-twelve-thousand-game-developers-converge",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/letter-from-silicon-valley/what-happens-when-twelve-thousand-game-developers-converge",
-            "title": "當一萬兩千名遊戲開發者聚集在一起時，會發生什麼？",
-            "summary": "What Happens When Twelve Thousand Game Developers Converge?",
-            "date_modified": "2022-04-08T10:00:00.000Z",
-            "author": {
-                "name": "Anna Wiener",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/screening-room/international-cooperation-in-a-bakery-in-refuge",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/screening-room/international-cooperation-in-a-bakery-in-refuge",
-            "title": "麵包店的國際合作，在 \"避難所 \"裡",
-            "summary": "International Coöperation in a Bakery, in “Refuge”",
-            "date_modified": "2022-04-08T10:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/letter-from-silicon-valley/what-happens-when-twelve-thousand-game-developers-converge",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/letter-from-silicon-valley/what-happens-when-twelve-thousand-game-developers-converge",
-            "title": "當一萬兩千名遊戲開發者聚集在一起時，會發生什麼？",
-            "summary": "What Happens When Twelve Thousand Game Developers Converge?",
-            "date_modified": "2022-04-08T10:00:00.000Z",
-            "author": {
-                "name": "Anna Wiener",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/humor/daily-shouts/telltale-signs-that-your-sleep-paralysis-demon-is-breaking-up-with-you",
-            "content_html": "",
-            "url": "https://www.newyorker.com/humor/daily-shouts/telltale-signs-that-your-sleep-paralysis-demon-is-breaking-up-with-you",
-            "title": "你的睡眠癱瘓惡魔正在與你分手的蛛絲馬跡",
-            "summary": "Telltale Signs That Your Sleep-Paralysis Demon Is Breaking Up with You",
-            "date_modified": "2022-04-08T10:00:00.000Z",
-            "author": {
-                "name": "Ronald Metellus, Kyle Harris",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/photo-booth/the-pictures-that-introduced-the-world-to-arnold-schwarzenegger",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/photo-booth/the-pictures-that-introduced-the-world-to-arnold-schwarzenegger",
-            "title": "讓世界認識阿諾德-施瓦辛格的電影",
-            "summary": "The Pictures That Introduced the World to Arnold Schwarzenegger",
-            "date_modified": "2022-04-08T10:00:00.000Z",
-            "author": {
-                "name": "Crispin Long",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/screening-room/international-cooperation-in-a-bakery-in-refuge",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/screening-room/international-cooperation-in-a-bakery-in-refuge",
-            "title": "麵包店的國際合作，在 \"避難所 \"裡",
-            "summary": "International Coöperation in a Bakery, in “Refuge”",
-            "date_modified": "2022-04-08T10:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/ideas/archive/2022/04/why-europe-needs-ukraine/629476/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/ideas/archive/2022/04/why-europe-needs-ukraine/629476/?utm_source=feed",
-            "title": "為什麼歐洲需要烏克蘭",
-            "summary": "Why Europe Needs Ukraine",
-            "date_modified": "2022-04-08T09:00:56.000Z",
-            "author": {
-                "name": "Rutger Bregman",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/04/08/climate/gas-prices-electric-vehicles.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/04/08/climate/gas-prices-electric-vehicles.html",
-            "title": "隨著油價上漲，網絡上對電動汽車的搜索也在增加",
-            "summary": "As Gas Prices Went Up, So Did Web Searches for Electric Vehicles",
-            "date_modified": "2022-04-08T09:00:11.000Z",
-            "author": {
-                "name": "Maggie Astor",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/04/08/technology/intel-chip-shortage.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/04/08/technology/intel-chip-shortage.html",
-            "title": "英特爾如何在全球短缺的情況下製造半導體",
-            "summary": "How Intel Makes Semiconductors in a Global Shortage",
-            "date_modified": "2022-04-08T09:00:33.000Z",
-            "author": {
-                "name": "Philip Cheung and Don Clark",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
     ]
