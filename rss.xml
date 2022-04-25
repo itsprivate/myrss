@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 25 Apr 2022 22:46:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 22:51:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[文明冲突 "论仍然是无知的胡言乱语]]></title>
+            <link>https://www.currentaffairs.org/2022/03/the-clash-of-civilizations-thesis-is-still-ignorant-nonsense/</link>
+            <guid>https://www.currentaffairs.org/2022/03/the-clash-of-civilizations-thesis-is-still-ignorant-nonsense/</guid>
+            <pubDate>Thu, 31 Mar 2022 14:43:44 GMT</pubDate>
+            <description><![CDATA[The “Clash of Civilizations” Thesis Is Still Ignorant Nonsense]]></description>
+        </item>
         <item>
             <title><![CDATA[埃隆-马斯克同意收购Twitter]]></title>
             <link>https://www.nytimes.com/2022/04/25/technology/musk-twitter-sale.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/culture/archive/2022/04/our-flag-means-death-queerbait-romance/629523/?utm_source=feed</guid>
             <pubDate>Sat, 09 Apr 2022 12:00:56 GMT</pubDate>
             <description><![CDATA[<em>Our Flag Means Death</em> Is the Opposite of Queerbait]]></description>
-        </item>
-        <item>
-            <title><![CDATA[<em>救护车</em>是迈克尔-贝的经典混乱之作]]></title>
-            <link>https://www.theatlantic.com/culture/archive/2022/04/ambulance-movie-review-jake-gyllenhaal/629525/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/culture/archive/2022/04/ambulance-movie-review-jake-gyllenhaal/629525/?utm_source=feed</guid>
-            <pubDate>Sat, 09 Apr 2022 11:00:56 GMT</pubDate>
-            <description><![CDATA[<em>Ambulance</em> Is Classic Michael Bay Mayhem]]></description>
         </item>
     </channel>
 </rss>
