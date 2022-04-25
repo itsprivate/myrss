@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-25T15:41:23.090Z</updated>
+    <updated>2022-04-25T15:58:04.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Stripe工作是怎樣的體驗]]></title>
+        <id>https://www.kalzumeus.com/2019/3/18/two-years-at-stripe/</id>
+        <link href="https://www.kalzumeus.com/2019/3/18/two-years-at-stripe/"/>
+        <updated>2019-03-18T15:55:00.000Z</updated>
+        <summary type="html"><![CDATA[What Working At Stripe Has Been Like]]></summary>
+        <author>
+            <name>Patrick McKenzie (patio11)</name>
+            <uri>https://www.kalzumeus.com/feed/articles/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[折扣經紀公司如何賺錢]]></title>
+        <id>https://www.kalzumeus.com/2019/6/26/how-brokerages-make-money/</id>
+        <link href="https://www.kalzumeus.com/2019/6/26/how-brokerages-make-money/"/>
+        <updated>2019-06-25T15:01:00.000Z</updated>
+        <summary type="html"><![CDATA[How Discount Brokerages Make Money]]></summary>
+        <author>
+            <name>Patrick McKenzie (patio11)</name>
+            <uri>https://www.kalzumeus.com/feed/articles/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tether: 到目前為止的故事]]></title>
+        <id>https://www.kalzumeus.com/2019/10/28/tether-and-bitfinex/</id>
+        <link href="https://www.kalzumeus.com/2019/10/28/tether-and-bitfinex/"/>
+        <updated>2019-10-28T15:27:37.000Z</updated>
+        <summary type="html"><![CDATA[Tether: The Story So Far]]></summary>
+        <author>
+            <name>Patrick McKenzie (patio11)</name>
+            <uri>https://www.kalzumeus.com/feed/articles/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[工作組關於日本和covid-19的白皮書]]></title>
         <id>https://www.kalzumeus.com/covid19-japan-white-paper/</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>Philip Cheung and Don Clark</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[視頻採訪。大衛-羅伯茨談氣候變化]]></title>
-        <id>https://noahpinion.substack.com/p/video-interview-david-roberts-on</id>
-        <link href="https://noahpinion.substack.com/p/video-interview-david-roberts-on"/>
-        <updated>2022-04-08T07:54:26.000Z</updated>
-        <summary type="html"><![CDATA[Video interview: David Roberts on climate change]]></summary>
-        <author>
-            <name>Noah Smith</name>
-            <uri>https://noahpinion.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沙卡里-理查森在跑步和生活中處理時間問題]]></title>
-        <id>https://www.newyorker.com/video/watch/the-new-yorker-documentary-sub-eleven-seconds</id>
-        <link href="https://www.newyorker.com/video/watch/the-new-yorker-documentary-sub-eleven-seconds"/>
-        <updated>2022-03-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sha’Carri Richardson Tackles Time in Running and in Life]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本週的照片。敲擊瓷磚、掃墓、海灘地雷]]></title>
-        <id>https://www.theatlantic.com/photo/2022/04/photos-of-the-week-tile-tapping-tomb-sweeping-beach-mines/629515/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/photo/2022/04/photos-of-the-week-tile-tapping-tomb-sweeping-beach-mines/629515/?utm_source=feed"/>
-        <updated>2022-04-08T04:31:56.000Z</updated>
-        <summary type="html"><![CDATA[Photos of the Week: Tile Tapping, Tomb Sweeping, Beach Mines]]></summary>
-        <author>
-            <name>Alan Taylor</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
