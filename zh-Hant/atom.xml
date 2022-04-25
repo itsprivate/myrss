@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-25T09:35:02.929Z</updated>
+    <updated>2022-04-25T10:16:02.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[重新安置逃離戰爭的移民的普通美國人]]></title>
+        <id>https://www.newyorker.com/news/us-journal/the-ordinary-americans-resettling-migrants-fleeing-war</id>
+        <link href="https://www.newyorker.com/news/us-journal/the-ordinary-americans-resettling-migrants-fleeing-war"/>
+        <updated>2022-04-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Ordinary Americans Resettling Migrants Fleeing War]]></summary>
+        <author>
+            <name>Eliza Griswold</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一位COVID專家在為其父母爭取新的治療方法時遇到困難，他在推特上發佈了一份路線圖]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/after-a-covid-expert-struggled-to-obtain-new-treatments-for-his-parents-he-tweeted-a-road-map</id>
+        <link href="https://www.newyorker.com/news/daily-comment/after-a-covid-expert-struggled-to-obtain-new-treatments-for-his-parents-he-tweeted-a-road-map"/>
+        <updated>2022-04-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After a COVID Expert Struggled to Obtain New Treatments for His Parents, He Tweeted a Road Map]]></summary>
+        <author>
+            <name>Evan Osnos</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[填字遊戲: 2022年4月25日，星期一]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/25</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/25"/>
+        <updated>2022-04-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Crossword: Monday, April 25, 2022]]></summary>
+        <author>
+            <name>Brooke Husic</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[落名：2022年4月25日，星期一]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/25</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/25"/>
+        <updated>2022-04-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Name Drop: Monday, April 25, 2022]]></summary>
+        <author>
+            <name>Matt Jackson</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何使用（或不使用）連字符]]></title>
+        <id>https://www.newyorker.com/culture/comma-queen/how-to-use-or-not-use-a-hyphen</id>
+        <link href="https://www.newyorker.com/culture/comma-queen/how-to-use-or-not-use-a-hyphen"/>
+        <updated>2022-04-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How to Use (or Not Use) a Hyphen]]></summary>
+        <author>
+            <name>Mary Norris</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭和導致大規模殺戮的話語]]></title>
+        <id>https://www.theatlantic.com/magazine/archive/2022/06/ukraine-mass-murder-hate-speech-soviet/629629/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/magazine/archive/2022/06/ukraine-mass-murder-hate-speech-soviet/629629/?utm_source=feed"/>
+        <updated>2022-04-25T10:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine and the Words That Lead to Mass Murder]]></summary>
+        <author>
+            <name>Anne Applebaum</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美國最大的城市是在萎縮還是在繁榮？]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/04/metro-areas-shrinking-population-loss/629665/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/04/metro-areas-shrinking-population-loss/629665/?utm_source=feed"/>
+        <updated>2022-04-25T10:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Are America’s Biggest Cities Shrinking or Booming?]]></summary>
+        <author>
+            <name>Derek Thompson</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[馬克龍獲勝。而極右派也是如此。]]></title>
         <id>https://www.theatlantic.com/international/archive/2022/04/macron-wins-french-election-marine-le-pen/629666/?utm_source=feed</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>Noam Scheiber</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們無法預測雜貨店的未來]]></title>
-        <id>https://www.nytimes.com/2022/04/07/technology/online-grocery-shopping.html</id>
-        <link href="https://www.nytimes.com/2022/04/07/technology/online-grocery-shopping.html"/>
-        <updated>2022-04-07T17:16:35.000Z</updated>
-        <summary type="html"><![CDATA[We Can’t Predict the Grocery Future]]></summary>
-        <author>
-            <name>Shira Ovide</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日漫畫。4月7日，星期四]]></title>
-        <id>https://www.newyorker.com/cartoons/daily-cartoon/thursday-april-7th-mr-met</id>
-        <link href="https://www.newyorker.com/cartoons/daily-cartoon/thursday-april-7th-mr-met"/>
-        <updated>2022-04-07T16:10:02.000Z</updated>
-        <summary type="html"><![CDATA[Daily Cartoon: Thursday, April 7th]]></summary>
-        <author>
-            <name>Dan Misdea</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[路易-西蒙斯如何定義力量舉重的極限運動]]></title>
-        <id>https://www.newyorker.com/culture/postscript/how-louie-simmons-defined-the-extreme-sport-of-power-lifting</id>
-        <link href="https://www.newyorker.com/culture/postscript/how-louie-simmons-defined-the-extreme-sport-of-power-lifting"/>
-        <updated>2022-04-07T16:38:36.000Z</updated>
-        <summary type="html"><![CDATA[How Louie Simmons Defined the Extreme Sport of Power Lifting]]></summary>
-        <author>
-            <name>Lauren Michele Jackson</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一種疾病能對景觀造成什麼影響？]]></title>
-        <id>https://www.theatlantic.com/science/archive/2022/04/vicuna-mange-outbreak-san-guillermo/629506/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/science/archive/2022/04/vicuna-mange-outbreak-san-guillermo/629506/?utm_source=feed"/>
-        <updated>2022-04-07T15:29:12.000Z</updated>
-        <summary type="html"><![CDATA[What Can One Disease Do to a Landscape?]]></summary>
-        <author>
-            <name>Ed Yong</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[茱莉亞-柴爾德對中年雄心的認識]]></title>
-        <id>https://www.theatlantic.com/culture/archive/2022/04/julia-child-sarah-lancashire-hbo-review/629477/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/culture/archive/2022/04/julia-child-sarah-lancashire-hbo-review/629477/?utm_source=feed"/>
-        <updated>2022-04-07T15:11:22.000Z</updated>
-        <summary type="html"><![CDATA[What Julia Child Knew About Midlife Ambition]]></summary>
-        <author>
-            <name>Sophie Gilbert</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我為什麼要擴大北約]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/04/bill-clinton-nato-expansion-ukraine/629499/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/04/bill-clinton-nato-expansion-ukraine/629499/?utm_source=feed"/>
-        <updated>2022-04-07T14:12:54.000Z</updated>
-        <summary type="html"><![CDATA[Why I Expanded NATO]]></summary>
-        <author>
-            <name>Bill Clinton</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[扣押遊艇需要什麼條件]]></title>
-        <id>https://www.theatlantic.com/politics/archive/2022/04/how-europe-and-us-seize-oligarchs-yachts/629491/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/politics/archive/2022/04/how-europe-and-us-seize-oligarchs-yachts/629491/?utm_source=feed"/>
-        <updated>2022-04-07T11:01:56.000Z</updated>
-        <summary type="html"><![CDATA[What It Takes to Seize a Yacht]]></summary>
-        <author>
-            <name>Olga Khazan</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
