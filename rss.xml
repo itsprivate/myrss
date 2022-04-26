@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 26 Apr 2022 10:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 10:40:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,48 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[试图成立工会的国民警卫队士兵们]]></title>
+            <link>https://www.newyorker.com/news/letter-from-the-southwest/the-national-guard-soldiers-trying-to-unionize</link>
+            <guid>https://www.newyorker.com/news/letter-from-the-southwest/the-national-guard-soldiers-trying-to-unionize</guid>
+            <pubDate>Tue, 26 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The National Guard Soldiers Trying to Unionize]]></description>
+        </item>
+        <item>
+            <title><![CDATA[幻影与偏见]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/phantoms-and-prejudice</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/phantoms-and-prejudice</guid>
+            <pubDate>Tue, 26 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Phantoms and Prejudice]]></description>
+        </item>
+        <item>
+            <title><![CDATA[填字游戏: 2022年4月26日，星期二]]></title>
+            <link>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/26</link>
+            <guid>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/26</guid>
+            <pubDate>Tue, 26 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Crossword: Tuesday, April 26, 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[落名：2022年4月26日，星期二]]></title>
+            <link>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/26</link>
+            <guid>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/26</guid>
+            <pubDate>Tue, 26 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Name Drop: Tuesday, April 26, 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[沃纳-赫尔佐格从不喜欢自省]]></title>
+            <link>https://www.newyorker.com/culture/the-new-yorker-interview/werner-herzog-has-never-liked-introspection</link>
+            <guid>https://www.newyorker.com/culture/the-new-yorker-interview/werner-herzog-has-never-liked-introspection</guid>
+            <pubDate>Tue, 26 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Werner Herzog Has Never Liked Introspection]]></description>
+        </item>
+        <item>
+            <title><![CDATA[凯文-哈特的媒体公司向私募基金出售1亿美元的股份]]></title>
+            <link>https://www.nytimes.com/2022/04/26/technology/kevin-hart-hartbeat.html</link>
+            <guid>https://www.nytimes.com/2022/04/26/technology/kevin-hart-hartbeat.html</guid>
+            <pubDate>Tue, 26 Apr 2022 10:30:06 GMT</pubDate>
+            <description><![CDATA[Kevin Hart’s Media Company Sells $100 Million Stake to Private Equity]]></description>
+        </item>
         <item>
             <title><![CDATA[试图成立工会的国民警卫队士兵们]]></title>
             <link>https://www.newyorker.com/news/letter-from-the-southwest/the-national-guard-soldiers-trying-to-unionize</link>
@@ -4171,48 +4213,6 @@
             <guid>https://www.nytimes.com/2022/04/10/us/politics/crypto-industry-states-legislation.html</guid>
             <pubDate>Sun, 10 Apr 2022 21:35:27 GMT</pubDate>
             <description><![CDATA[Crypto Industry Helps Write, and Pass, Its Own Agenda in State Capitols]]></description>
-        </item>
-        <item>
-            <title><![CDATA[加密货币行业帮助撰写并通过其在州议会的议程]]></title>
-            <link>https://www.nytimes.com/2022/04/10/us/politics/crypto-industry-helps-write-and-pass-its-own-agenda-in-state-capitols.html</link>
-            <guid>https://www.nytimes.com/2022/04/10/us/politics/crypto-industry-helps-write-and-pass-its-own-agenda-in-state-capitols.html</guid>
-            <pubDate>Sun, 10 Apr 2022 20:48:47 GMT</pubDate>
-            <description><![CDATA[Crypto Industry Helps Write, and Pass, Its Own Agenda in State Capitols]]></description>
-        </item>
-        <item>
-            <title><![CDATA[<em>SNL</em>对凯坦吉-布朗-杰克逊的凄美庆祝偷走了演出的机会]]></title>
-            <link>https://www.theatlantic.com/culture/archive/2022/04/saturday-night-live-ketanji-brown-jackson-jake-gyllenhaal/629528/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/culture/archive/2022/04/saturday-night-live-ketanji-brown-jackson-jake-gyllenhaal/629528/?utm_source=feed</guid>
-            <pubDate>Sun, 10 Apr 2022 17:08:38 GMT</pubDate>
-            <description><![CDATA[<em>SNL</em>’s Poignant Celebration of Ketanji Brown Jackson Stole the Show]]></description>
-        </item>
-        <item>
-            <title><![CDATA[项链]]></title>
-            <link>https://www.theatlantic.com/books/archive/2022/04/poem-osip-mandelstam-necklace/629527/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/books/archive/2022/04/poem-osip-mandelstam-necklace/629527/?utm_source=feed</guid>
-            <pubDate>Sun, 10 Apr 2022 12:00:57 GMT</pubDate>
-            <description><![CDATA[The Necklace]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国需要一项拉美政策]]></title>
-            <link>https://noahpinion.substack.com/p/the-us-needs-a-latin-america-policy</link>
-            <guid>https://noahpinion.substack.com/p/the-us-needs-a-latin-america-policy</guid>
-            <pubDate>Fri, 18 Mar 2022 07:42:01 GMT</pubDate>
-            <description><![CDATA[The U.S. needs a Latin America policy]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们如何能配得上乌克兰]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-america-democracy-russification/629521/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-america-democracy-russification/629521/?utm_source=feed</guid>
-            <pubDate>Sun, 10 Apr 2022 10:00:56 GMT</pubDate>
-            <description><![CDATA[How We Can Be Worthy of Ukraine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个被遗忘的基础设施如何成为公民自豪的象征]]></title>
-            <link>https://www.newyorker.com/news/us-journal/how-a-forgotten-bit-of-infrastructure-became-a-symbol-of-civic-pride</link>
-            <guid>https://www.newyorker.com/news/us-journal/how-a-forgotten-bit-of-infrastructure-became-a-symbol-of-civic-pride</guid>
-            <pubDate>Sun, 10 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[How a Forgotten Bit of Infrastructure Became a Symbol of Civic Pride]]></description>
         </item>
     </channel>
 </rss>
