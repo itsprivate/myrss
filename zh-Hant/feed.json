@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/technology/archive/2022/04/elon-musk-twitter-acquisition-free-speech-placebo-effect/629684/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/technology/archive/2022/04/elon-musk-twitter-acquisition-free-speech-placebo-effect/629684/?utm_source=feed",
+            "title": "埃隆-馬斯克的安慰劑效應",
+            "summary": "The Elon Musk Placebo Effect",
+            "date_modified": "2022-04-26T19:39:28.000Z",
+            "author": {
+                "name": "Kaitlyn Tiffany",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/26/technology/twitter-far-right-conservatives-liberals.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/26/technology/twitter-far-right-conservatives-liberals.html",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-04-11T10:01:56.000Z",
             "author": {
                 "name": "Derek Thompson",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/international/archive/2022/04/democracy-eu-hungary-viktor-orban-russia/629504/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/international/archive/2022/04/democracy-eu-hungary-viktor-orban-russia/629504/?utm_source=feed",
-            "title": "歐洲最大的威脅並不來自俄羅斯",
-            "summary": "Europe’s Greatest Threat Doesn’t Come From Russia",
-            "date_modified": "2022-04-11T10:03:00.000Z",
-            "author": {
-                "name": "Yasmeen Serhan",
                 "url": "https://www.theatlantic.com/feed/all/"
             }
         }

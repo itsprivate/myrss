@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 26 Apr 2022 19:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 19:52:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[埃隆-馬斯克的安慰劑效應]]></title>
+            <link>https://www.theatlantic.com/technology/archive/2022/04/elon-musk-twitter-acquisition-free-speech-placebo-effect/629684/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/technology/archive/2022/04/elon-musk-twitter-acquisition-free-speech-placebo-effect/629684/?utm_source=feed</guid>
+            <pubDate>Tue, 26 Apr 2022 19:39:28 GMT</pubDate>
+            <description><![CDATA[The Elon Musk Placebo Effect]]></description>
+        </item>
         <item>
             <title><![CDATA[在推特上，保守派對馬斯克擁有推特的所有權表示慶祝，而進步派則感到害怕。]]></title>
             <link>https://www.nytimes.com/2022/04/26/technology/twitter-far-right-conservatives-liberals.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/newsletters/archive/2022/04/american-teens-sadness-depression-anxiety/629524/?utm_source=feed</guid>
             <pubDate>Mon, 11 Apr 2022 10:01:56 GMT</pubDate>
             <description><![CDATA[Why American Teens Are So Sad]]></description>
-        </item>
-        <item>
-            <title><![CDATA[歐洲最大的威脅並不來自俄羅斯]]></title>
-            <link>https://www.theatlantic.com/international/archive/2022/04/democracy-eu-hungary-viktor-orban-russia/629504/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/international/archive/2022/04/democracy-eu-hungary-viktor-orban-russia/629504/?utm_source=feed</guid>
-            <pubDate>Mon, 11 Apr 2022 10:03:00 GMT</pubDate>
-            <description><![CDATA[Europe’s Greatest Threat Doesn’t Come From Russia]]></description>
         </item>
     </channel>
 </rss>
