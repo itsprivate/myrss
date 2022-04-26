@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 26 Apr 2022 11:32:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 12:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[開放的線程。向我們提出任何問題]]></title>
+            <link>https://austinkleon.substack.com/p/open-thread-ask-us-anything</link>
+            <guid>https://austinkleon.substack.com/p/open-thread-ask-us-anything</guid>
+            <pubDate>Tue, 26 Apr 2022 12:00:44 GMT</pubDate>
+            <description><![CDATA[Open thread: Ask us anything]]></description>
+        </item>
         <item>
             <title><![CDATA[你的孩子與柏拉圖有什麼共同之處]]></title>
             <link>https://www.theatlantic.com/ideas/archive/2022/04/kids-philosophy-questions/629650/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://astralcodexten.substack.com/p/spring-meetups-in-seventy-cities</guid>
             <pubDate>Sun, 10 Apr 2022 23:35:55 GMT</pubDate>
             <description><![CDATA[Spring Meetups In Seventy Cities]]></description>
-        </item>
-        <item>
-            <title><![CDATA[華納兄弟開啟新時代，迴歸娛樂本源]]></title>
-            <link>https://www.nytimes.com/2022/04/10/business/media/warner-bros-discovery.html</link>
-            <guid>https://www.nytimes.com/2022/04/10/business/media/warner-bros-discovery.html</guid>
-            <pubDate>Sun, 10 Apr 2022 22:01:07 GMT</pubDate>
-            <description><![CDATA[New Era Begins at Warner Bros., Back Toward Its Entertainment Roots]]></description>
         </item>
     </channel>
 </rss>
