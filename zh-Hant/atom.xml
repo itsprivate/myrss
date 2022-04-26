@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-26T20:53:53.569Z</updated>
+    <updated>2022-04-26T21:51:36.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個騙子的 "癌症治療 "的令人不安的歷史]]></title>
+        <id>https://www.newyorker.com/culture/photo-booth/the-haunting-history-of-a-hucksters-cancer-cure</id>
+        <link href="https://www.newyorker.com/culture/photo-booth/the-haunting-history-of-a-hucksters-cancer-cure"/>
+        <updated>2022-04-26T21:30:44.000Z</updated>
+        <summary type="html"><![CDATA[The Haunting History of a Huckster’s “Cancer Cure”]]></summary>
+        <author>
+            <name>Andrea DenHoed</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[由於投資價值下降，Alphabet的利潤下降了8%。]]></title>
         <id>https://www.nytimes.com/2022/04/26/technology/google-alphabet-earnings-profit.html</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Austin Kleon</name>
             <uri>https://austinkleon.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音樂理論教育能否克服其白化問題？]]></title>
-        <id>https://www.currentaffairs.org/2022/03/can-music-theory-education-overcome-its-whiteness-problem/</id>
-        <link href="https://www.currentaffairs.org/2022/03/can-music-theory-education-overcome-its-whiteness-problem/"/>
-        <updated>2022-03-18T20:43:58.000Z</updated>
-        <summary type="html"><![CDATA[Can Music Theory Education Overcome its Whiteness Problem?]]></summary>
-        <author>
-            <name>Jeff Williams</name>
-            <uri>https://www.currentaffairs.org/feed</uri>
         </author>
     </entry>
 </feed>
