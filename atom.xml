@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-26T16:18:23.937Z</updated>
+    <updated>2022-04-26T16:53:55.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每日漫画。4月26日，星期二]]></title>
+        <id>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-april-26th-musk-twitter</id>
+        <link href="https://www.newyorker.com/cartoons/daily-cartoon/tuesday-april-26th-musk-twitter"/>
+        <updated>2022-04-26T16:05:25.000Z</updated>
+        <summary type="html"><![CDATA[Daily Cartoon: Tuesday, April 26th]]></summary>
+        <author>
+            <name>David Sipress</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[埃隆-马斯克和 "自由言论 "的灰色]]></title>
+        <id>https://www.nytimes.com/2022/04/26/technology/elon-musk-free-speech.html</id>
+        <link href="https://www.nytimes.com/2022/04/26/technology/elon-musk-free-speech.html"/>
+        <updated>2022-04-26T16:19:51.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk and the Gray of ‘Free Speech’]]></summary>
+        <author>
+            <name>Shira Ovide</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<em>大西洋</em>日报。马斯克拥有的Twitter的三种可能的未来]]></title>
         <id>https://www.theatlantic.com/newsletters/archive/2022/04/elon-musk-owned-twitter-future/629677/?utm_source=feed</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Françoise Mouly</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[希拉-赫迪谈匆忙和对青春的恐惧]]></title>
-        <id>https://www.newyorker.com/books/this-week-in-fiction/sheila-heti-04-18-22</id>
-        <link href="https://www.newyorker.com/books/this-week-in-fiction/sheila-heti-04-18-22"/>
-        <updated>2022-04-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sheila Heti on the Rush and the Fear of Youth]]></summary>
-        <author>
-            <name>Cressida Leyshon</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国对俄罗斯的另类现实的回声在全球范围内愈演愈烈]]></title>
-        <id>https://www.nytimes.com/2022/04/11/technology/china-russia-propaganda.html</id>
-        <link href="https://www.nytimes.com/2022/04/11/technology/china-russia-propaganda.html"/>
-        <updated>2022-04-11T09:00:24.000Z</updated>
-        <summary type="html"><![CDATA[China’s Echoes of Russia’s Alternate Reality Intensify Around the World]]></summary>
-        <author>
-            <name>Paul Mozur, Steven Lee Myers and John Liu</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>

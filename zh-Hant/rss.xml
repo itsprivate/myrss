@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 26 Apr 2022 16:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 16:53:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[每日漫畫。4月26日，星期二]]></title>
+            <link>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-april-26th-musk-twitter</link>
+            <guid>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-april-26th-musk-twitter</guid>
+            <pubDate>Tue, 26 Apr 2022 16:05:25 GMT</pubDate>
+            <description><![CDATA[Daily Cartoon: Tuesday, April 26th]]></description>
+        </item>
+        <item>
+            <title><![CDATA[埃隆-馬斯克和 "自由言論 "的灰色]]></title>
+            <link>https://www.nytimes.com/2022/04/26/technology/elon-musk-free-speech.html</link>
+            <guid>https://www.nytimes.com/2022/04/26/technology/elon-musk-free-speech.html</guid>
+            <pubDate>Tue, 26 Apr 2022 16:19:51 GMT</pubDate>
+            <description><![CDATA[Elon Musk and the Gray of ‘Free Speech’]]></description>
+        </item>
         <item>
             <title><![CDATA[<em>大西洋</em>日報。馬斯克擁有的Twitter的三種可能的未來]]></title>
             <link>https://www.theatlantic.com/newsletters/archive/2022/04/elon-musk-owned-twitter-future/629677/?utm_source=feed</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/culture/cover-story/cover-story-2022-04-18</guid>
             <pubDate>Mon, 11 Apr 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Nicole Rifkin’s “On the Corner”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[希拉-赫迪談匆忙和對青春的恐懼]]></title>
-            <link>https://www.newyorker.com/books/this-week-in-fiction/sheila-heti-04-18-22</link>
-            <guid>https://www.newyorker.com/books/this-week-in-fiction/sheila-heti-04-18-22</guid>
-            <pubDate>Mon, 11 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Sheila Heti on the Rush and the Fear of Youth]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中國對俄羅斯的另類現實的回聲在全球範圍內愈演愈烈]]></title>
-            <link>https://www.nytimes.com/2022/04/11/technology/china-russia-propaganda.html</link>
-            <guid>https://www.nytimes.com/2022/04/11/technology/china-russia-propaganda.html</guid>
-            <pubDate>Mon, 11 Apr 2022 09:00:24 GMT</pubDate>
-            <description><![CDATA[China’s Echoes of Russia’s Alternate Reality Intensify Around the World]]></description>
         </item>
     </channel>
 </rss>
