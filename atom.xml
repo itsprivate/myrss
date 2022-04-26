@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-26T22:14:09.169Z</updated>
+    <updated>2022-04-26T22:34:05.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[赢家时间]]></title>
+        <id>https://austinkleon.substack.com/p/winning-time</id>
+        <link href="https://austinkleon.substack.com/p/winning-time"/>
+        <updated>2022-04-01T12:00:54.000Z</updated>
+        <summary type="html"><![CDATA[Winning time]]></summary>
+        <author>
+            <name>Austin Kleon</name>
+            <uri>https://austinkleon.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[马斯克电影宇宙给推特带来的四个教训]]></title>
         <id>https://www.theatlantic.com/technology/archive/2022/04/elon-musk-spacex-tesla-twitter-leadership-style/629689/?utm_source=feed</id>
@@ -6599,17 +6610,6 @@
         <link href="https://austinkleon.substack.com/p/say-yes-and-never-do-it"/>
         <updated>2022-03-11T13:00:40.000Z</updated>
         <summary type="html"><![CDATA[Say yes and never do it]]></summary>
-        <author>
-            <name>Austin Kleon</name>
-            <uri>https://austinkleon.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[改变我生活的书]]></title>
-        <id>https://austinkleon.substack.com/p/the-book-that-changed-my-life</id>
-        <link href="https://austinkleon.substack.com/p/the-book-that-changed-my-life"/>
-        <updated>2022-03-15T12:00:38.000Z</updated>
-        <summary type="html"><![CDATA[The book that changed my life]]></summary>
         <author>
             <name>Austin Kleon</name>
             <uri>https://austinkleon.substack.com/feed</uri>
