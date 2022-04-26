@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/04/kids-philosophy-questions/629650/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/04/kids-philosophy-questions/629650/?utm_source=feed",
+            "title": "你的孩子與柏拉圖有什麼共同之處",
+            "summary": "What Your Kid Has in Common With Plato",
+            "date_modified": "2022-04-26T11:00:58.000Z",
+            "author": {
+                "name": "Scott Hershovitz",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/letter-from-the-southwest/the-national-guard-soldiers-trying-to-unionize",
             "content_html": "",
             "url": "https://www.newyorker.com/news/letter-from-the-southwest/the-national-guard-soldiers-trying-to-unionize",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-04-10T22:01:07.000Z",
             "author": {
                 "name": "Brooks Barnes",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/04/10/us/politics/crypto-industry-states-legislation.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/04/10/us/politics/crypto-industry-states-legislation.html",
-            "title": "加密貨幣行業幫助撰寫並通過其在州議會的議程",
-            "summary": "Crypto Industry Helps Write, and Pass, Its Own Agenda in State Capitols",
-            "date_modified": "2022-04-10T21:35:27.000Z",
-            "author": {
-                "name": "Eric Lipton and David Yaffe-Bellany",
                 "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }

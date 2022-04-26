@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 26 Apr 2022 10:40:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 11:32:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你的孩子與柏拉圖有什麼共同之處]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/kids-philosophy-questions/629650/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/kids-philosophy-questions/629650/?utm_source=feed</guid>
+            <pubDate>Tue, 26 Apr 2022 11:00:58 GMT</pubDate>
+            <description><![CDATA[What Your Kid Has in Common With Plato]]></description>
+        </item>
         <item>
             <title><![CDATA[試圖成立工會的國民警衛隊士兵們]]></title>
             <link>https://www.newyorker.com/news/letter-from-the-southwest/the-national-guard-soldiers-trying-to-unionize</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.nytimes.com/2022/04/10/business/media/warner-bros-discovery.html</guid>
             <pubDate>Sun, 10 Apr 2022 22:01:07 GMT</pubDate>
             <description><![CDATA[New Era Begins at Warner Bros., Back Toward Its Entertainment Roots]]></description>
-        </item>
-        <item>
-            <title><![CDATA[加密貨幣行業幫助撰寫並通過其在州議會的議程]]></title>
-            <link>https://www.nytimes.com/2022/04/10/us/politics/crypto-industry-states-legislation.html</link>
-            <guid>https://www.nytimes.com/2022/04/10/us/politics/crypto-industry-states-legislation.html</guid>
-            <pubDate>Sun, 10 Apr 2022 21:35:27 GMT</pubDate>
-            <description><![CDATA[Crypto Industry Helps Write, and Pass, Its Own Agenda in State Capitols]]></description>
         </item>
     </channel>
 </rss>

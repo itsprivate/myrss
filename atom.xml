@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-26T10:40:32.600Z</updated>
+    <updated>2022-04-26T11:32:32.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的孩子与柏拉图有什么共同之处]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/kids-philosophy-questions/629650/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/kids-philosophy-questions/629650/?utm_source=feed"/>
+        <updated>2022-04-26T11:00:58.000Z</updated>
+        <summary type="html"><![CDATA[What Your Kid Has in Common With Plato]]></summary>
+        <author>
+            <name>Scott Hershovitz</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[试图成立工会的国民警卫队士兵们]]></title>
         <id>https://www.newyorker.com/news/letter-from-the-southwest/the-national-guard-soldiers-trying-to-unionize</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[New Era Begins at Warner Bros., Back Toward Its Entertainment Roots]]></summary>
         <author>
             <name>Brooks Barnes</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密货币行业帮助撰写并通过其在州议会的议程]]></title>
-        <id>https://www.nytimes.com/2022/04/10/us/politics/crypto-industry-states-legislation.html</id>
-        <link href="https://www.nytimes.com/2022/04/10/us/politics/crypto-industry-states-legislation.html"/>
-        <updated>2022-04-10T21:35:27.000Z</updated>
-        <summary type="html"><![CDATA[Crypto Industry Helps Write, and Pass, Its Own Agenda in State Capitols]]></summary>
-        <author>
-            <name>Eric Lipton and David Yaffe-Bellany</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
