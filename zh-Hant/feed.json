@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://noahpinion.substack.com/p/why-im-cautiously-optimistic-about",
+            "content_html": "",
+            "url": "https://noahpinion.substack.com/p/why-im-cautiously-optimistic-about",
+            "title": "為什麼我對埃隆收購Twitter持（謹慎的）樂觀態度？",
+            "summary": "Why I'm (cautiously) optimistic about Elon buying Twitter",
+            "date_modified": "2022-04-26T01:14:39.000Z",
+            "author": {
+                "name": "Noah Smith",
+                "url": "https://noahpinion.substack.com/feed"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/ideas/archive/2022/04/elon-musk-buys-twitter/629675/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/ideas/archive/2022/04/elon-musk-buys-twitter/629675/?utm_source=feed",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Noah Smith",
                 "url": "https://noahpinion.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/04/18/the-ketanji-brown-jackson-hearings-may-be-only-the-beginning",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/04/18/the-ketanji-brown-jackson-hearings-may-be-only-the-beginning",
-            "title": "凱坦吉-布朗-傑克遜的聽證會可能只是個開始",
-            "summary": "The Ketanji Brown Jackson Hearings May Be Only the Beginning",
-            "date_modified": "2022-04-09T14:00:00.000Z",
-            "author": {
-                "name": "Amy Davidson Sorkin",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]
