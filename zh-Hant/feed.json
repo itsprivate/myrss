@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/q-and-a/why-elon-musk-bought-twitter",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/q-and-a/why-elon-musk-bought-twitter",
+            "title": "埃隆-馬斯克為何買下推特",
+            "summary": "Why Elon Musk Bought Twitter",
+            "date_modified": "2022-04-26T16:54:34.000Z",
+            "author": {
+                "name": "Isaac Chotiner",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/sports/sporting-scene/watching-kevin-durant-and-his-theoretical-super-team-go-quietly-in-brooklyn",
+            "content_html": "",
+            "url": "https://www.newyorker.com/sports/sporting-scene/watching-kevin-durant-and-his-theoretical-super-team-go-quietly-in-brooklyn",
+            "title": "看著凱文-杜蘭特和他的理論上的超級球隊在布魯克林悄然離去",
+            "summary": "Watching Kevin Durant and His Theoretical Super-Team Go Quietly in Brooklyn",
+            "date_modified": "2022-04-26T16:57:56.000Z",
+            "author": {
+                "name": "Vinson Cunningham",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/cartoons/daily-cartoon/tuesday-april-26th-musk-twitter",
             "content_html": "",
             "url": "https://www.newyorker.com/cartoons/daily-cartoon/tuesday-april-26th-musk-twitter",
@@ -7183,30 +7207,6 @@
             "date_modified": "2022-04-11T10:00:00.000Z",
             "author": {
                 "name": "Ellen Bass",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/11",
-            "content_html": "",
-            "url": "https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/11",
-            "title": "落名：2022年4月11日，星期一",
-            "summary": "Name Drop: Monday, April 11, 2022",
-            "date_modified": "2022-04-11T10:00:00.000Z",
-            "author": {
-                "name": "Will Nediger",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/cover-story/cover-story-2022-04-18",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/cover-story/cover-story-2022-04-18",
-            "title": "尼科爾-裡夫金的 \"在角落裡\"",
-            "summary": "Nicole Rifkin’s “On the Corner”",
-            "date_modified": "2022-04-11T10:00:00.000Z",
-            "author": {
-                "name": "Françoise Mouly",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

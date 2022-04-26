@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-26T16:53:55.275Z</updated>
+    <updated>2022-04-26T17:22:19.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[埃隆-馬斯克為何買下推特]]></title>
+        <id>https://www.newyorker.com/news/q-and-a/why-elon-musk-bought-twitter</id>
+        <link href="https://www.newyorker.com/news/q-and-a/why-elon-musk-bought-twitter"/>
+        <updated>2022-04-26T16:54:34.000Z</updated>
+        <summary type="html"><![CDATA[Why Elon Musk Bought Twitter]]></summary>
+        <author>
+            <name>Isaac Chotiner</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[看著凱文-杜蘭特和他的理論上的超級球隊在布魯克林悄然離去]]></title>
+        <id>https://www.newyorker.com/sports/sporting-scene/watching-kevin-durant-and-his-theoretical-super-team-go-quietly-in-brooklyn</id>
+        <link href="https://www.newyorker.com/sports/sporting-scene/watching-kevin-durant-and-his-theoretical-super-team-go-quietly-in-brooklyn"/>
+        <updated>2022-04-26T16:57:56.000Z</updated>
+        <summary type="html"><![CDATA[Watching Kevin Durant and His Theoretical Super-Team Go Quietly in Brooklyn]]></summary>
+        <author>
+            <name>Vinson Cunningham</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日漫畫。4月26日，星期二]]></title>
         <id>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-april-26th-musk-twitter</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[“As Long as She Likes,” by Ellen Bass]]></summary>
         <author>
             <name>Ellen Bass</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[落名：2022年4月11日，星期一]]></title>
-        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/11</id>
-        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/11"/>
-        <updated>2022-04-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Name Drop: Monday, April 11, 2022]]></summary>
-        <author>
-            <name>Will Nediger</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尼科爾-裡夫金的 "在角落裡"]]></title>
-        <id>https://www.newyorker.com/culture/cover-story/cover-story-2022-04-18</id>
-        <link href="https://www.newyorker.com/culture/cover-story/cover-story-2022-04-18"/>
-        <updated>2022-04-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Nicole Rifkin’s “On the Corner”]]></summary>
-        <author>
-            <name>Françoise Mouly</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
