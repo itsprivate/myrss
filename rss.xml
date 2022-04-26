@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 26 Apr 2022 20:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 20:53:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[由于投资价值下降，Alphabet的利润下降了8%。]]></title>
+            <link>https://www.nytimes.com/2022/04/26/technology/google-alphabet-earnings-profit.html</link>
+            <guid>https://www.nytimes.com/2022/04/26/technology/google-alphabet-earnings-profit.html</guid>
+            <pubDate>Tue, 26 Apr 2022 20:23:26 GMT</pubDate>
+            <description><![CDATA[Alphabet’s profit drops 8 percent because investments declined in value.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[尽管有战争和通货膨胀，微软报告收入和利润仍在上升。]]></title>
+            <link>https://www.nytimes.com/2022/04/26/technology/microsoft-earnings-profit.html</link>
+            <guid>https://www.nytimes.com/2022/04/26/technology/microsoft-earnings-profit.html</guid>
+            <pubDate>Tue, 26 Apr 2022 20:35:08 GMT</pubDate>
+            <description><![CDATA[Microsoft reports rising revenue and profits, despite war and inflation.]]></description>
+        </item>
         <item>
             <title><![CDATA[民主党人需要更好的故事]]></title>
             <link>https://www.theatlantic.com/ideas/archive/2022/04/democrats-storytelling-connecting-with-voters/629681/?utm_source=feed</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.currentaffairs.org/2022/03/can-music-theory-education-overcome-its-whiteness-problem/</guid>
             <pubDate>Fri, 18 Mar 2022 20:43:58 GMT</pubDate>
             <description><![CDATA[Can Music Theory Education Overcome its Whiteness Problem?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[巴别之后]]></title>
-            <link>https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/?utm_source=feed</guid>
-            <pubDate>Mon, 11 Apr 2022 10:01:57 GMT</pubDate>
-            <description><![CDATA[After Babel]]></description>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰现在需要什么]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-infrastructure-damage-repair-cost/629519/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-infrastructure-damage-repair-cost/629519/?utm_source=feed</guid>
-            <pubDate>Mon, 11 Apr 2022 10:01:56 GMT</pubDate>
-            <description><![CDATA[What Ukraine Needs Now]]></description>
         </item>
     </channel>
 </rss>
