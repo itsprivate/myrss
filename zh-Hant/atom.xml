@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-26T12:23:34.866Z</updated>
+    <updated>2022-04-26T13:58:12.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[當你討厭嗑藥的時候慶祝4/20]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/04/420-brooklyn-hots-garbage-plates/629678/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/04/420-brooklyn-hots-garbage-plates/629678/?utm_source=feed"/>
+        <updated>2022-04-26T13:35:58.000Z</updated>
+        <summary type="html"><![CDATA[Celebrating 4/20 When You Hate Being High]]></summary>
+        <author>
+            <name>Kaitlyn Tiffany</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[開放的線程。向我們提出任何問題]]></title>
         <id>https://austinkleon.substack.com/p/open-thread-ask-us-anything</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[Open Thread 219]]></summary>
         <author>
             <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[七十個城市的春季聚會]]></title>
-        <id>https://astralcodexten.substack.com/p/spring-meetups-in-seventy-cities</id>
-        <link href="https://astralcodexten.substack.com/p/spring-meetups-in-seventy-cities"/>
-        <updated>2022-04-10T23:35:55.000Z</updated>
-        <summary type="html"><![CDATA[Spring Meetups In Seventy Cities]]></summary>
-        <author>
-            <name>mingyuan</name>
             <uri>https://astralcodexten.substack.com/feed</uri>
         </author>
     </entry>
