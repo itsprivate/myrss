@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-26T19:52:11.340Z</updated>
+    <updated>2022-04-26T20:15:29.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[民主党人需要更好的故事]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/democrats-storytelling-connecting-with-voters/629681/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/democrats-storytelling-connecting-with-voters/629681/?utm_source=feed"/>
+        <updated>2022-04-26T19:56:30.000Z</updated>
+        <summary type="html"><![CDATA[Democrats Need Better Stories]]></summary>
+        <author>
+            <name>Molly Jong-Fast</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[埃隆-马斯克的安慰剂效应]]></title>
         <id>https://www.theatlantic.com/technology/archive/2022/04/elon-musk-twitter-acquisition-free-speech-placebo-effect/629684/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[What Ukraine Needs Now]]></summary>
         <author>
             <name>David Frum</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国青少年为何如此悲伤]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2022/04/american-teens-sadness-depression-anxiety/629524/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2022/04/american-teens-sadness-depression-anxiety/629524/?utm_source=feed"/>
-        <updated>2022-04-11T10:01:56.000Z</updated>
-        <summary type="html"><![CDATA[Why American Teens Are So Sad]]></summary>
-        <author>
-            <name>Derek Thompson</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
