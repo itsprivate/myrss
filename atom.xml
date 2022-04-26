@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-26T02:58:38.942Z</updated>
+    <updated>2022-04-26T07:13:37.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[收购Twitter，埃隆-马斯克将面对其言论自由言论的现实]]></title>
+        <id>https://www.nytimes.com/2022/04/26/technology/twitter-elon-musk-free-speech.html</id>
+        <link href="https://www.nytimes.com/2022/04/26/technology/twitter-elon-musk-free-speech.html"/>
+        <updated>2022-04-26T07:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Buying Twitter, Elon Musk Will Face Reality of His Free-Speech Talk]]></summary>
+        <author>
+            <name>Shira Ovide</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么我对埃隆收购Twitter持（谨慎的）乐观态度？]]></title>
         <id>https://noahpinion.substack.com/p/why-im-cautiously-optimistic-about</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>The New Yorker</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国生产力放缓的五个原因]]></title>
-        <id>https://noahpinion.substack.com/p/five-reasons-chinas-productivity</id>
-        <link href="https://noahpinion.substack.com/p/five-reasons-chinas-productivity"/>
-        <updated>2022-04-10T07:33:11.000Z</updated>
-        <summary type="html"><![CDATA[Five reasons China's productivity slowed down]]></summary>
-        <author>
-            <name>Noah Smith</name>
-            <uri>https://noahpinion.substack.com/feed</uri>
         </author>
     </entry>
 </feed>
