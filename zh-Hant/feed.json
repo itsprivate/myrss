@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/26/technology/twitter-far-right-conservatives-liberals.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/26/technology/twitter-far-right-conservatives-liberals.html",
+            "title": "在推特上，保守派對馬斯克擁有推特的所有權表示慶祝，而進步派則感到害怕。",
+            "summary": "On Twitter, conservatives celebrate, and progressives cringe, about Musk’s ownership of Twitter.",
+            "date_modified": "2022-04-26T19:05:23.000Z",
+            "author": {
+                "name": "Stuart A. Thompson and David McCabe",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://astralcodexten.substack.com/p/book-review-a-clinical-introduction",
             "content_html": "",
             "url": "https://astralcodexten.substack.com/p/book-review-a-clinical-introduction",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Yasmeen Serhan",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/04/18/can-the-bbc-survive-the-british-government",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/04/18/can-the-bbc-survive-the-british-government",
-            "title": "英國廣播公司能否在英國政府中生存？",
-            "summary": "Can the BBC Survive the British Government?",
-            "date_modified": "2022-04-11T10:00:00.000Z",
-            "author": {
-                "name": "Sam Knight",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-26T18:16:15.700Z</updated>
+    <updated>2022-04-26T19:11:54.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在推特上，保守派对马斯克拥有推特的所有权表示庆祝，而进步派则感到害怕。]]></title>
+        <id>https://www.nytimes.com/2022/04/26/technology/twitter-far-right-conservatives-liberals.html</id>
+        <link href="https://www.nytimes.com/2022/04/26/technology/twitter-far-right-conservatives-liberals.html"/>
+        <updated>2022-04-26T19:05:23.000Z</updated>
+        <summary type="html"><![CDATA[On Twitter, conservatives celebrate, and progressives cringe, about Musk’s ownership of Twitter.]]></summary>
+        <author>
+            <name>Stuart A. Thompson and David McCabe</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[书评。拉康精神分析的临床介绍]]></title>
         <id>https://astralcodexten.substack.com/p/book-review-a-clinical-introduction</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Yasmeen Serhan</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国广播公司能否在英国政府中生存？]]></title>
-        <id>https://www.newyorker.com/magazine/2022/04/18/can-the-bbc-survive-the-british-government</id>
-        <link href="https://www.newyorker.com/magazine/2022/04/18/can-the-bbc-survive-the-british-government"/>
-        <updated>2022-04-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Can the BBC Survive the British Government?]]></summary>
-        <author>
-            <name>Sam Knight</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>

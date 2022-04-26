@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 26 Apr 2022 18:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 19:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在推特上，保守派对马斯克拥有推特的所有权表示庆祝，而进步派则感到害怕。]]></title>
+            <link>https://www.nytimes.com/2022/04/26/technology/twitter-far-right-conservatives-liberals.html</link>
+            <guid>https://www.nytimes.com/2022/04/26/technology/twitter-far-right-conservatives-liberals.html</guid>
+            <pubDate>Tue, 26 Apr 2022 19:05:23 GMT</pubDate>
+            <description><![CDATA[On Twitter, conservatives celebrate, and progressives cringe, about Musk’s ownership of Twitter.]]></description>
+        </item>
         <item>
             <title><![CDATA[书评。拉康精神分析的临床介绍]]></title>
             <link>https://astralcodexten.substack.com/p/book-review-a-clinical-introduction</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/international/archive/2022/04/democracy-eu-hungary-viktor-orban-russia/629504/?utm_source=feed</guid>
             <pubDate>Mon, 11 Apr 2022 10:03:00 GMT</pubDate>
             <description><![CDATA[Europe’s Greatest Threat Doesn’t Come From Russia]]></description>
-        </item>
-        <item>
-            <title><![CDATA[英国广播公司能否在英国政府中生存？]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/18/can-the-bbc-survive-the-british-government</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/18/can-the-bbc-survive-the-british-government</guid>
-            <pubDate>Mon, 11 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Can the BBC Survive the British Government?]]></description>
         </item>
     </channel>
 </rss>
