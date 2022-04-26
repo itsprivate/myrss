@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-26T15:58:57.995Z</updated>
+    <updated>2022-04-26T16:18:23.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[<em>大西洋</em>日报。马斯克拥有的Twitter的三种可能的未来]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/04/elon-musk-owned-twitter-future/629677/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/04/elon-musk-owned-twitter-future/629677/?utm_source=feed"/>
+        <updated>2022-04-26T15:53:40.000Z</updated>
+        <summary type="html"><![CDATA[<em>The Atlantic</em> Daily: Three Possible Futures for a Musk-Owned Twitter]]></summary>
+        <author>
+            <name>Rachel Gutman</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[墨索里尼讲话，告诉我们民主如何消亡]]></title>
+        <id>https://www.theatlantic.com/books/archive/2022/04/m-son-of-the-century-mussolini-book-review/629676/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/books/archive/2022/04/m-son-of-the-century-mussolini-book-review/629676/?utm_source=feed"/>
+        <updated>2022-04-26T15:59:51.000Z</updated>
+        <summary type="html"><![CDATA[Mussolini Speaks, and Tells Us How Democracy Dies]]></summary>
+        <author>
+            <name>Anna Momigliano</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄克拉荷马州在其最高法院案件中的数字从何而来？]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/04/scotus-oklahoma-castro-huerta-inaccurate-prosecution-data/629674/?utm_source=feed</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Paul Mozur, Steven Lee Myers and John Liu</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[两张纸规则]]></title>
-        <id>https://noahpinion.substack.com/p/the-two-paper-rule</id>
-        <link href="https://noahpinion.substack.com/p/the-two-paper-rule"/>
-        <updated>2022-04-11T06:10:10.000Z</updated>
-        <summary type="html"><![CDATA[The Two Paper Rule]]></summary>
-        <author>
-            <name>Noah Smith</name>
-            <uri>https://noahpinion.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卡通字幕大赛]]></title>
-        <id>https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-04-18</id>
-        <link href="https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-04-18"/>
-        <updated>2022-04-11T04:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Cartoon Caption Contest]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>

@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/newsletters/archive/2022/04/elon-musk-owned-twitter-future/629677/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/newsletters/archive/2022/04/elon-musk-owned-twitter-future/629677/?utm_source=feed",
+            "title": "<em>大西洋</em>日報。馬斯克擁有的Twitter的三種可能的未來",
+            "summary": "<em>The Atlantic</em> Daily: Three Possible Futures for a Musk-Owned Twitter",
+            "date_modified": "2022-04-26T15:53:40.000Z",
+            "author": {
+                "name": "Rachel Gutman",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/books/archive/2022/04/m-son-of-the-century-mussolini-book-review/629676/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/books/archive/2022/04/m-son-of-the-century-mussolini-book-review/629676/?utm_source=feed",
+            "title": "墨索里尼講話，告訴我們民主如何消亡",
+            "summary": "Mussolini Speaks, and Tells Us How Democracy Dies",
+            "date_modified": "2022-04-26T15:59:51.000Z",
+            "author": {
+                "name": "Anna Momigliano",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/ideas/archive/2022/04/scotus-oklahoma-castro-huerta-inaccurate-prosecution-data/629674/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/ideas/archive/2022/04/scotus-oklahoma-castro-huerta-inaccurate-prosecution-data/629674/?utm_source=feed",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "Paul Mozur, Steven Lee Myers and John Liu",
                 "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://noahpinion.substack.com/p/the-two-paper-rule",
-            "content_html": "",
-            "url": "https://noahpinion.substack.com/p/the-two-paper-rule",
-            "title": "兩張紙規則",
-            "summary": "The Two Paper Rule",
-            "date_modified": "2022-04-11T06:10:10.000Z",
-            "author": {
-                "name": "Noah Smith",
-                "url": "https://noahpinion.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-04-18",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-04-18",
-            "title": "卡通字幕大賽",
-            "summary": "Cartoon Caption Contest",
-            "date_modified": "2022-04-11T04:05:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]

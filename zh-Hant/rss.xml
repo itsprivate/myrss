@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 26 Apr 2022 15:58:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 16:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[<em>大西洋</em>日報。馬斯克擁有的Twitter的三種可能的未來]]></title>
+            <link>https://www.theatlantic.com/newsletters/archive/2022/04/elon-musk-owned-twitter-future/629677/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/newsletters/archive/2022/04/elon-musk-owned-twitter-future/629677/?utm_source=feed</guid>
+            <pubDate>Tue, 26 Apr 2022 15:53:40 GMT</pubDate>
+            <description><![CDATA[<em>The Atlantic</em> Daily: Three Possible Futures for a Musk-Owned Twitter]]></description>
+        </item>
+        <item>
+            <title><![CDATA[墨索里尼講話，告訴我們民主如何消亡]]></title>
+            <link>https://www.theatlantic.com/books/archive/2022/04/m-son-of-the-century-mussolini-book-review/629676/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/books/archive/2022/04/m-son-of-the-century-mussolini-book-review/629676/?utm_source=feed</guid>
+            <pubDate>Tue, 26 Apr 2022 15:59:51 GMT</pubDate>
+            <description><![CDATA[Mussolini Speaks, and Tells Us How Democracy Dies]]></description>
+        </item>
         <item>
             <title><![CDATA[俄克拉荷馬州在其最高法院案件中的數字從何而來？]]></title>
             <link>https://www.theatlantic.com/ideas/archive/2022/04/scotus-oklahoma-castro-huerta-inaccurate-prosecution-data/629674/?utm_source=feed</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.nytimes.com/2022/04/11/technology/china-russia-propaganda.html</guid>
             <pubDate>Mon, 11 Apr 2022 09:00:24 GMT</pubDate>
             <description><![CDATA[China’s Echoes of Russia’s Alternate Reality Intensify Around the World]]></description>
-        </item>
-        <item>
-            <title><![CDATA[兩張紙規則]]></title>
-            <link>https://noahpinion.substack.com/p/the-two-paper-rule</link>
-            <guid>https://noahpinion.substack.com/p/the-two-paper-rule</guid>
-            <pubDate>Mon, 11 Apr 2022 06:10:10 GMT</pubDate>
-            <description><![CDATA[The Two Paper Rule]]></description>
-        </item>
-        <item>
-            <title><![CDATA[卡通字幕大賽]]></title>
-            <link>https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-04-18</link>
-            <guid>https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-04-18</guid>
-            <pubDate>Mon, 11 Apr 2022 04:05:00 GMT</pubDate>
-            <description><![CDATA[Cartoon Caption Contest]]></description>
         </item>
     </channel>
 </rss>
