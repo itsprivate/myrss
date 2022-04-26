@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-26T17:22:19.295Z</updated>
+    <updated>2022-04-26T17:45:45.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[采访。印度政府前首席经济顾问Arvind Subramanian]]></title>
+        <id>https://noahpinion.substack.com/p/interview-arvind-subramanian-former</id>
+        <link href="https://noahpinion.substack.com/p/interview-arvind-subramanian-former"/>
+        <updated>2022-04-01T01:30:47.000Z</updated>
+        <summary type="html"><![CDATA[Interview: Arvind Subramanian, former Chief Economic Advisor to the Government of India]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网飞公司的泡沫终于破灭了]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/04/netflix-subscription-competition-password-sharing/629682/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/04/netflix-subscription-competition-password-sharing/629682/?utm_source=feed"/>
+        <updated>2022-04-26T17:22:49.000Z</updated>
+        <summary type="html"><![CDATA[The Netflix Bubble Is Finally Bursting]]></summary>
+        <author>
+            <name>David Sims</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[埃隆-马斯克为何买下推特]]></title>
         <id>https://www.newyorker.com/news/q-and-a/why-elon-musk-bought-twitter</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[Sheila Heti Reads “Just a Little Fever”]]></summary>
         <author>
             <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[幻灯片展示。纽约客》漫画2022年4月18日刊]]></title>
-        <id>https://www.newyorker.com/gallery/cartoons-from-the-april-18-2022-issue</id>
-        <link href="https://www.newyorker.com/gallery/cartoons-from-the-april-18-2022-issue"/>
-        <updated>2022-04-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Slide Show: New Yorker Cartoons April 18, 2022, Issue]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["只要她喜欢"，作者：Ellen Bass]]></title>
-        <id>https://www.newyorker.com/magazine/2022/04/18/as-long-as-she-likes</id>
-        <link href="https://www.newyorker.com/magazine/2022/04/18/as-long-as-she-likes"/>
-        <updated>2022-04-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“As Long as She Likes,” by Ellen Bass]]></summary>
-        <author>
-            <name>Ellen Bass</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

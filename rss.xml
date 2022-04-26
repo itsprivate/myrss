@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 26 Apr 2022 17:22:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 17:45:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[采访。印度政府前首席经济顾问Arvind Subramanian]]></title>
+            <link>https://noahpinion.substack.com/p/interview-arvind-subramanian-former</link>
+            <guid>https://noahpinion.substack.com/p/interview-arvind-subramanian-former</guid>
+            <pubDate>Fri, 01 Apr 2022 01:30:47 GMT</pubDate>
+            <description><![CDATA[Interview: Arvind Subramanian, former Chief Economic Advisor to the Government of India]]></description>
+        </item>
+        <item>
+            <title><![CDATA[网飞公司的泡沫终于破灭了]]></title>
+            <link>https://www.theatlantic.com/culture/archive/2022/04/netflix-subscription-competition-password-sharing/629682/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/culture/archive/2022/04/netflix-subscription-competition-password-sharing/629682/?utm_source=feed</guid>
+            <pubDate>Tue, 26 Apr 2022 17:22:49 GMT</pubDate>
+            <description><![CDATA[The Netflix Bubble Is Finally Bursting]]></description>
+        </item>
         <item>
             <title><![CDATA[埃隆-马斯克为何买下推特]]></title>
             <link>https://www.newyorker.com/news/q-and-a/why-elon-musk-bought-twitter</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/podcast/the-writers-voice/sheila-heti-reads-just-a-little-fever</guid>
             <pubDate>Mon, 11 Apr 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Sheila Heti Reads “Just a Little Fever”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[幻灯片展示。纽约客》漫画2022年4月18日刊]]></title>
-            <link>https://www.newyorker.com/gallery/cartoons-from-the-april-18-2022-issue</link>
-            <guid>https://www.newyorker.com/gallery/cartoons-from-the-april-18-2022-issue</guid>
-            <pubDate>Mon, 11 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Slide Show: New Yorker Cartoons April 18, 2022, Issue]]></description>
-        </item>
-        <item>
-            <title><![CDATA["只要她喜欢"，作者：Ellen Bass]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/18/as-long-as-she-likes</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/18/as-long-as-she-likes</guid>
-            <pubDate>Mon, 11 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[“As Long as She Likes,” by Ellen Bass]]></description>
         </item>
     </channel>
 </rss>
