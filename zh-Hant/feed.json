@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/culture/the-front-row/the-jubilant-glory-of-albert-aylers-revelations",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/the-front-row/the-jubilant-glory-of-albert-aylers-revelations",
+            "title": "阿爾伯特-艾勒的 \"啟示錄 \"的歡快光輝",
+            "summary": "The Jubilant Glory of Albert Ayler’s “Revelations”",
+            "date_modified": "2022-04-26T23:29:01.000Z",
+            "author": {
+                "name": "Richard Brody",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.currentaffairs.org/2022/04/a-brief-history-of-the-bourgeois-safari/",
+            "content_html": "",
+            "url": "https://www.currentaffairs.org/2022/04/a-brief-history-of-the-bourgeois-safari/",
+            "title": "資產階級野生動物園簡史》（A Brief History of the Bourgeois Safari",
+            "summary": "A Brief History of the Bourgeois Safari",
+            "date_modified": "2022-04-26T19:25:36.000Z",
+            "author": {
+                "name": "Lily Sánchez",
+                "url": "https://www.currentaffairs.org/feed"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/26/magazine/elon-musk-twitter-billionaire.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/26/magazine/elon-musk-twitter-billionaire.html",
@@ -7181,30 +7205,6 @@
             "title": "我是如何準備面試的",
             "summary": "How I prepare for an interview",
             "date_modified": "2022-03-01T13:00:44.000Z",
-            "author": {
-                "name": "Austin Kleon",
-                "url": "https://austinkleon.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://austinkleon.substack.com/p/only-the-questions",
-            "content_html": "",
-            "url": "https://austinkleon.substack.com/p/only-the-questions",
-            "title": "只有問題",
-            "summary": "Only the questions",
-            "date_modified": "2022-03-04T13:00:37.000Z",
-            "author": {
-                "name": "Austin Kleon",
-                "url": "https://austinkleon.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://austinkleon.substack.com/p/adventures-on-two-wheels",
-            "content_html": "",
-            "url": "https://austinkleon.substack.com/p/adventures-on-two-wheels",
-            "title": "兩個輪子上的冒險",
-            "summary": "Adventures on two wheels",
-            "date_modified": "2022-03-08T13:00:37.000Z",
             "author": {
                 "name": "Austin Kleon",
                 "url": "https://austinkleon.substack.com/feed"

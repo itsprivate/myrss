@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 26 Apr 2022 22:44:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 23:34:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[阿尔伯特-艾勒的 "启示录 "的欢快光辉]]></title>
+            <link>https://www.newyorker.com/culture/the-front-row/the-jubilant-glory-of-albert-aylers-revelations</link>
+            <guid>https://www.newyorker.com/culture/the-front-row/the-jubilant-glory-of-albert-aylers-revelations</guid>
+            <pubDate>Tue, 26 Apr 2022 23:29:01 GMT</pubDate>
+            <description><![CDATA[The Jubilant Glory of Albert Ayler’s “Revelations”]]></description>
+        </item>
+        <item>
+            <title><![CDATA[资产阶级野生动物园简史》（A Brief History of the Bourgeois Safari]]></title>
+            <link>https://www.currentaffairs.org/2022/04/a-brief-history-of-the-bourgeois-safari/</link>
+            <guid>https://www.currentaffairs.org/2022/04/a-brief-history-of-the-bourgeois-safari/</guid>
+            <pubDate>Tue, 26 Apr 2022 19:25:36 GMT</pubDate>
+            <description><![CDATA[A Brief History of the Bourgeois Safari]]></description>
+        </item>
         <item>
             <title><![CDATA[埃隆-马斯克是一个典型的Twitter用户，除了一件事]]></title>
             <link>https://www.nytimes.com/2022/04/26/magazine/elon-musk-twitter-billionaire.html</link>
@@ -4199,20 +4213,6 @@
             <guid>https://austinkleon.substack.com/p/how-i-prepare-for-an-interview</guid>
             <pubDate>Tue, 01 Mar 2022 13:00:44 GMT</pubDate>
             <description><![CDATA[How I prepare for an interview]]></description>
-        </item>
-        <item>
-            <title><![CDATA[只有问题]]></title>
-            <link>https://austinkleon.substack.com/p/only-the-questions</link>
-            <guid>https://austinkleon.substack.com/p/only-the-questions</guid>
-            <pubDate>Fri, 04 Mar 2022 13:00:37 GMT</pubDate>
-            <description><![CDATA[Only the questions]]></description>
-        </item>
-        <item>
-            <title><![CDATA[两个轮子上的冒险]]></title>
-            <link>https://austinkleon.substack.com/p/adventures-on-two-wheels</link>
-            <guid>https://austinkleon.substack.com/p/adventures-on-two-wheels</guid>
-            <pubDate>Tue, 08 Mar 2022 13:00:37 GMT</pubDate>
-            <description><![CDATA[Adventures on two wheels]]></description>
         </item>
     </channel>
 </rss>
