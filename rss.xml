@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 26 Apr 2022 17:55:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 18:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[书评。拉康精神分析的临床介绍]]></title>
+            <link>https://astralcodexten.substack.com/p/book-review-a-clinical-introduction</link>
+            <guid>https://astralcodexten.substack.com/p/book-review-a-clinical-introduction</guid>
+            <pubDate>Tue, 26 Apr 2022 17:51:17 GMT</pubDate>
+            <description><![CDATA[Book Review: A Clinical Introduction To Lacanian Psychoanalysis]]></description>
+        </item>
+        <item>
+            <title><![CDATA[将Twitter卖给Elon Musk对投资者来说是好事。那么公众呢？]]></title>
+            <link>https://www.nytimes.com/2022/04/26/business/twitter-elon-musk-board.html</link>
+            <guid>https://www.nytimes.com/2022/04/26/business/twitter-elon-musk-board.html</guid>
+            <pubDate>Tue, 26 Apr 2022 18:05:56 GMT</pubDate>
+            <description><![CDATA[Selling Twitter to Elon Musk Is Good for Investors. What About the Public?]]></description>
+        </item>
         <item>
             <title><![CDATA[美国国会如何防止埃隆-马斯克将推特重新变成不受约束的虚假信息机器？]]></title>
             <link>https://www.newyorker.com/news/our-columnists/how-congress-can-prevent-elon-musk-from-turning-twitter-back-into-an-unfettered-disinformation-machine</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/magazine/2022/04/18/can-the-bbc-survive-the-british-government</guid>
             <pubDate>Mon, 11 Apr 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Can the BBC Survive the British Government?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[作为一个母亲，我不再有余地的事情]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/18/things-i-no-longer-have-room-for-as-a-mother</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/18/things-i-no-longer-have-room-for-as-a-mother</guid>
-            <pubDate>Mon, 11 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Things I No Longer Have Room for as a Mother]]></description>
-        </item>
-        <item>
-            <title><![CDATA[建造纽约的四百岁水果]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/18/the-four-hundred-year-old-fruit-that-built-new-york</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/18/the-four-hundred-year-old-fruit-that-built-new-york</guid>
-            <pubDate>Mon, 11 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Four-Hundred-Year-Old Fruit That Built New York]]></description>
         </item>
     </channel>
 </rss>

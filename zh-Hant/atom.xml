@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-26T17:55:12.452Z</updated>
+    <updated>2022-04-26T18:16:15.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[書評。拉康精神分析的臨床介紹]]></title>
+        <id>https://astralcodexten.substack.com/p/book-review-a-clinical-introduction</id>
+        <link href="https://astralcodexten.substack.com/p/book-review-a-clinical-introduction"/>
+        <updated>2022-04-26T17:51:17.000Z</updated>
+        <summary type="html"><![CDATA[Book Review: A Clinical Introduction To Lacanian Psychoanalysis]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[將Twitter賣給Elon Musk對投資者來說是好事。那麼公眾呢？]]></title>
+        <id>https://www.nytimes.com/2022/04/26/business/twitter-elon-musk-board.html</id>
+        <link href="https://www.nytimes.com/2022/04/26/business/twitter-elon-musk-board.html"/>
+        <updated>2022-04-26T18:05:56.000Z</updated>
+        <summary type="html"><![CDATA[Selling Twitter to Elon Musk Is Good for Investors. What About the Public?]]></summary>
+        <author>
+            <name>James B. Stewart</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國國會如何防止埃隆-馬斯克將推特重新變成不受約束的虛假信息機器？]]></title>
         <id>https://www.newyorker.com/news/our-columnists/how-congress-can-prevent-elon-musk-from-turning-twitter-back-into-an-unfettered-disinformation-machine</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[Can the BBC Survive the British Government?]]></summary>
         <author>
             <name>Sam Knight</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作為一個母親，我不再有餘地的事情]]></title>
-        <id>https://www.newyorker.com/magazine/2022/04/18/things-i-no-longer-have-room-for-as-a-mother</id>
-        <link href="https://www.newyorker.com/magazine/2022/04/18/things-i-no-longer-have-room-for-as-a-mother"/>
-        <updated>2022-04-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Things I No Longer Have Room for as a Mother]]></summary>
-        <author>
-            <name>Jessi Klein</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[建造紐約的四百歲水果]]></title>
-        <id>https://www.newyorker.com/magazine/2022/04/18/the-four-hundred-year-old-fruit-that-built-new-york</id>
-        <link href="https://www.newyorker.com/magazine/2022/04/18/the-four-hundred-year-old-fruit-that-built-new-york"/>
-        <updated>2022-04-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Four-Hundred-Year-Old Fruit That Built New York]]></summary>
-        <author>
-            <name>Zach Helfand</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://astralcodexten.substack.com/p/book-review-a-clinical-introduction",
+            "content_html": "",
+            "url": "https://astralcodexten.substack.com/p/book-review-a-clinical-introduction",
+            "title": "書評。拉康精神分析的臨床介紹",
+            "summary": "Book Review: A Clinical Introduction To Lacanian Psychoanalysis",
+            "date_modified": "2022-04-26T17:51:17.000Z",
+            "author": {
+                "name": "Scott Alexander",
+                "url": "https://astralcodexten.substack.com/feed"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/04/26/business/twitter-elon-musk-board.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/26/business/twitter-elon-musk-board.html",
+            "title": "將Twitter賣給Elon Musk對投資者來說是好事。那麼公眾呢？",
+            "summary": "Selling Twitter to Elon Musk Is Good for Investors. What About the Public?",
+            "date_modified": "2022-04-26T18:05:56.000Z",
+            "author": {
+                "name": "James B. Stewart",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/our-columnists/how-congress-can-prevent-elon-musk-from-turning-twitter-back-into-an-unfettered-disinformation-machine",
             "content_html": "",
             "url": "https://www.newyorker.com/news/our-columnists/how-congress-can-prevent-elon-musk-from-turning-twitter-back-into-an-unfettered-disinformation-machine",
@@ -7183,30 +7207,6 @@
             "date_modified": "2022-04-11T10:00:00.000Z",
             "author": {
                 "name": "Sam Knight",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/04/18/things-i-no-longer-have-room-for-as-a-mother",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/04/18/things-i-no-longer-have-room-for-as-a-mother",
-            "title": "作為一個母親，我不再有餘地的事情",
-            "summary": "Things I No Longer Have Room for as a Mother",
-            "date_modified": "2022-04-11T10:00:00.000Z",
-            "author": {
-                "name": "Jessi Klein",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/04/18/the-four-hundred-year-old-fruit-that-built-new-york",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/04/18/the-four-hundred-year-old-fruit-that-built-new-york",
-            "title": "建造紐約的四百歲水果",
-            "summary": "The Four-Hundred-Year-Old Fruit That Built New York",
-            "date_modified": "2022-04-11T10:00:00.000Z",
-            "author": {
-                "name": "Zach Helfand",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }
