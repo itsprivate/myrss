@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 26 Apr 2022 13:58:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 14:32:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[马斯克删除了所有的推特账户，只有他的账户除外]]></title>
+            <link>https://www.newyorker.com/humor/borowitz-report/musk-deletes-every-twitter-account-but-his</link>
+            <guid>https://www.newyorker.com/humor/borowitz-report/musk-deletes-every-twitter-account-but-his</guid>
+            <pubDate>Tue, 26 Apr 2022 14:19:54 GMT</pubDate>
+            <description><![CDATA[Musk Deletes Every Twitter Account but His]]></description>
+        </item>
         <item>
             <title><![CDATA[当你讨厌嗑药的时候庆祝4/20]]></title>
             <link>https://www.theatlantic.com/newsletters/archive/2022/04/420-brooklyn-hots-garbage-plates/629678/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.nytimes.com/2022/04/10/technology/elon-musk-twitter-board.html</guid>
             <pubDate>Mon, 11 Apr 2022 03:52:25 GMT</pubDate>
             <description><![CDATA[Elon Musk Will Not Join Twitter’s Board, Company Says]]></description>
-        </item>
-        <item>
-            <title><![CDATA[公开主题219]]></title>
-            <link>https://astralcodexten.substack.com/p/open-thread-219</link>
-            <guid>https://astralcodexten.substack.com/p/open-thread-219</guid>
-            <pubDate>Sun, 10 Apr 2022 23:49:37 GMT</pubDate>
-            <description><![CDATA[Open Thread 219]]></description>
         </item>
     </channel>
 </rss>

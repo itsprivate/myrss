@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-26T13:58:12.884Z</updated>
+    <updated>2022-04-26T14:32:37.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[马斯克删除了所有的推特账户，只有他的账户除外]]></title>
+        <id>https://www.newyorker.com/humor/borowitz-report/musk-deletes-every-twitter-account-but-his</id>
+        <link href="https://www.newyorker.com/humor/borowitz-report/musk-deletes-every-twitter-account-but-his"/>
+        <updated>2022-04-26T14:19:54.000Z</updated>
+        <summary type="html"><![CDATA[Musk Deletes Every Twitter Account but His]]></summary>
+        <author>
+            <name>Andy Borowitz</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[当你讨厌嗑药的时候庆祝4/20]]></title>
         <id>https://www.theatlantic.com/newsletters/archive/2022/04/420-brooklyn-hots-garbage-plates/629678/?utm_source=feed</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Mike Isaac</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公开主题219]]></title>
-        <id>https://astralcodexten.substack.com/p/open-thread-219</id>
-        <link href="https://astralcodexten.substack.com/p/open-thread-219"/>
-        <updated>2022-04-10T23:49:37.000Z</updated>
-        <summary type="html"><![CDATA[Open Thread 219]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
         </author>
     </entry>
 </feed>
