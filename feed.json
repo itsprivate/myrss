@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/04/scotus-oklahoma-castro-huerta-inaccurate-prosecution-data/629674/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/04/scotus-oklahoma-castro-huerta-inaccurate-prosecution-data/629674/?utm_source=feed",
+            "title": "俄克拉荷马州在其最高法院案件中的数字从何而来？",
+            "summary": "Where Is Oklahoma Getting Its Numbers From in Its Supreme Court Case?",
+            "date_modified": "2022-04-26T15:32:04.000Z",
+            "author": {
+                "name": "Allison Herrera",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/humor/borowitz-report/musk-deletes-every-twitter-account-but-his",
             "content_html": "",
             "url": "https://www.newyorker.com/humor/borowitz-report/musk-deletes-every-twitter-account-but-his",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "unknown",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/04/10/technology/elon-musk-twitter-board.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/04/10/technology/elon-musk-twitter-board.html",
-            "title": "公司称埃隆-马斯克不会加入Twitter的董事会",
-            "summary": "Elon Musk Will Not Join Twitter’s Board, Company Says",
-            "date_modified": "2022-04-11T03:52:25.000Z",
-            "author": {
-                "name": "Mike Isaac",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
     ]

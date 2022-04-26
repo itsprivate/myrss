@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-26T14:32:37.740Z</updated>
+    <updated>2022-04-26T15:58:57.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄克拉荷马州在其最高法院案件中的数字从何而来？]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/scotus-oklahoma-castro-huerta-inaccurate-prosecution-data/629674/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/scotus-oklahoma-castro-huerta-inaccurate-prosecution-data/629674/?utm_source=feed"/>
+        <updated>2022-04-26T15:32:04.000Z</updated>
+        <summary type="html"><![CDATA[Where Is Oklahoma Getting Its Numbers From in Its Supreme Court Case?]]></summary>
+        <author>
+            <name>Allison Herrera</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[马斯克删除了所有的推特账户，只有他的账户除外]]></title>
         <id>https://www.newyorker.com/humor/borowitz-report/musk-deletes-every-twitter-account-but-his</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>unknown</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公司称埃隆-马斯克不会加入Twitter的董事会]]></title>
-        <id>https://www.nytimes.com/2022/04/10/technology/elon-musk-twitter-board.html</id>
-        <link href="https://www.nytimes.com/2022/04/10/technology/elon-musk-twitter-board.html"/>
-        <updated>2022-04-11T03:52:25.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk Will Not Join Twitter’s Board, Company Says]]></summary>
-        <author>
-            <name>Mike Isaac</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>

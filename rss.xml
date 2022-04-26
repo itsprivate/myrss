@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 26 Apr 2022 14:32:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 15:58:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[俄克拉荷马州在其最高法院案件中的数字从何而来？]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/scotus-oklahoma-castro-huerta-inaccurate-prosecution-data/629674/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/scotus-oklahoma-castro-huerta-inaccurate-prosecution-data/629674/?utm_source=feed</guid>
+            <pubDate>Tue, 26 Apr 2022 15:32:04 GMT</pubDate>
+            <description><![CDATA[Where Is Oklahoma Getting Its Numbers From in Its Supreme Court Case?]]></description>
+        </item>
         <item>
             <title><![CDATA[马斯克删除了所有的推特账户，只有他的账户除外]]></title>
             <link>https://www.newyorker.com/humor/borowitz-report/musk-deletes-every-twitter-account-but-his</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-04-18</guid>
             <pubDate>Mon, 11 Apr 2022 04:05:00 GMT</pubDate>
             <description><![CDATA[Cartoon Caption Contest]]></description>
-        </item>
-        <item>
-            <title><![CDATA[公司称埃隆-马斯克不会加入Twitter的董事会]]></title>
-            <link>https://www.nytimes.com/2022/04/10/technology/elon-musk-twitter-board.html</link>
-            <guid>https://www.nytimes.com/2022/04/10/technology/elon-musk-twitter-board.html</guid>
-            <pubDate>Mon, 11 Apr 2022 03:52:25 GMT</pubDate>
-            <description><![CDATA[Elon Musk Will Not Join Twitter’s Board, Company Says]]></description>
         </item>
     </channel>
 </rss>
