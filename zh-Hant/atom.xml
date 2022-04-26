@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-26T07:13:37.720Z</updated>
+    <updated>2022-04-26T09:14:24.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[幼兒是否需要做NFT？]]></title>
+        <id>https://www.nytimes.com/2022/04/26/arts/nft-zigazoo-qai-qai.html</id>
+        <link href="https://www.nytimes.com/2022/04/26/arts/nft-zigazoo-qai-qai.html"/>
+        <updated>2022-04-26T09:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Does a Toddler Need an NFT?]]></summary>
+        <author>
+            <name>Amanda Hess</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[埃隆-馬斯克和Twitter的下一步是什麼？]]></title>
+        <id>https://www.nytimes.com/2022/04/26/technology/twitter-elon-musk.html</id>
+        <link href="https://www.nytimes.com/2022/04/26/technology/twitter-elon-musk.html"/>
+        <updated>2022-04-26T09:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Here’s What Next for Elon Musk and Twitter]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[收購Twitter，埃隆-馬斯克將面對其言論自由言論的現實]]></title>
         <id>https://www.nytimes.com/2022/04/26/technology/twitter-elon-musk-free-speech.html</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[Some Conversation Killers]]></summary>
         <author>
             <name>Marissa Maciel, Fiona Taylor</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[海洋之光仍在學習]]></title>
-        <id>https://www.newyorker.com/culture/the-new-yorker-interview/ocean-vuong-is-still-learning</id>
-        <link href="https://www.newyorker.com/culture/the-new-yorker-interview/ocean-vuong-is-still-learning"/>
-        <updated>2022-04-10T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ocean Vuong Is Still Learning]]></summary>
-        <author>
-            <name>Hua Hsu</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[星期日閱讀。城市裡的春天]]></title>
-        <id>https://www.newyorker.com/books/double-take/sunday-reading-springtime-in-the-city</id>
-        <link href="https://www.newyorker.com/books/double-take/sunday-reading-springtime-in-the-city"/>
-        <updated>2022-04-10T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sunday Reading: Springtime in the City]]></summary>
-        <author>
-            <name>The New Yorker</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

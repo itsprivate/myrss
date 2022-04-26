@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 26 Apr 2022 07:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 09:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[幼兒是否需要做NFT？]]></title>
+            <link>https://www.nytimes.com/2022/04/26/arts/nft-zigazoo-qai-qai.html</link>
+            <guid>https://www.nytimes.com/2022/04/26/arts/nft-zigazoo-qai-qai.html</guid>
+            <pubDate>Tue, 26 Apr 2022 09:00:05 GMT</pubDate>
+            <description><![CDATA[Does a Toddler Need an NFT?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[埃隆-馬斯克和Twitter的下一步是什麼？]]></title>
+            <link>https://www.nytimes.com/2022/04/26/technology/twitter-elon-musk.html</link>
+            <guid>https://www.nytimes.com/2022/04/26/technology/twitter-elon-musk.html</guid>
+            <pubDate>Tue, 26 Apr 2022 09:00:19 GMT</pubDate>
+            <description><![CDATA[Here’s What Next for Elon Musk and Twitter]]></description>
+        </item>
         <item>
             <title><![CDATA[收購Twitter，埃隆-馬斯克將面對其言論自由言論的現實]]></title>
             <link>https://www.nytimes.com/2022/04/26/technology/twitter-elon-musk-free-speech.html</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/humor/daily-shouts/some-conversation-killers</guid>
             <pubDate>Sun, 10 Apr 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Some Conversation Killers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[海洋之光仍在學習]]></title>
-            <link>https://www.newyorker.com/culture/the-new-yorker-interview/ocean-vuong-is-still-learning</link>
-            <guid>https://www.newyorker.com/culture/the-new-yorker-interview/ocean-vuong-is-still-learning</guid>
-            <pubDate>Sun, 10 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Ocean Vuong Is Still Learning]]></description>
-        </item>
-        <item>
-            <title><![CDATA[星期日閱讀。城市裡的春天]]></title>
-            <link>https://www.newyorker.com/books/double-take/sunday-reading-springtime-in-the-city</link>
-            <guid>https://www.newyorker.com/books/double-take/sunday-reading-springtime-in-the-city</guid>
-            <pubDate>Sun, 10 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Sunday Reading: Springtime in the City]]></description>
         </item>
     </channel>
 </rss>

@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/26/arts/nft-zigazoo-qai-qai.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/26/arts/nft-zigazoo-qai-qai.html",
+            "title": "幼兒是否需要做NFT？",
+            "summary": "Does a Toddler Need an NFT?",
+            "date_modified": "2022-04-26T09:00:05.000Z",
+            "author": {
+                "name": "Amanda Hess",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/04/26/technology/twitter-elon-musk.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/26/technology/twitter-elon-musk.html",
+            "title": "埃隆-馬斯克和Twitter的下一步是什麼？",
+            "summary": "Here’s What Next for Elon Musk and Twitter",
+            "date_modified": "2022-04-26T09:00:19.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/26/technology/twitter-elon-musk-free-speech.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/26/technology/twitter-elon-musk-free-speech.html",
@@ -7183,30 +7207,6 @@
             "date_modified": "2022-04-10T10:00:00.000Z",
             "author": {
                 "name": "Marissa Maciel, Fiona Taylor",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/the-new-yorker-interview/ocean-vuong-is-still-learning",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/the-new-yorker-interview/ocean-vuong-is-still-learning",
-            "title": "海洋之光仍在學習",
-            "summary": "Ocean Vuong Is Still Learning",
-            "date_modified": "2022-04-10T10:00:00.000Z",
-            "author": {
-                "name": "Hua Hsu",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/books/double-take/sunday-reading-springtime-in-the-city",
-            "content_html": "",
-            "url": "https://www.newyorker.com/books/double-take/sunday-reading-springtime-in-the-city",
-            "title": "星期日閱讀。城市裡的春天",
-            "summary": "Sunday Reading: Springtime in the City",
-            "date_modified": "2022-04-10T10:00:00.000Z",
-            "author": {
-                "name": "The New Yorker",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }
