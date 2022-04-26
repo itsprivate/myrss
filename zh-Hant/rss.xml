@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 26 Apr 2022 09:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 10:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[試圖成立工會的國民警衛隊士兵們]]></title>
+            <link>https://www.newyorker.com/news/letter-from-the-southwest/the-national-guard-soldiers-trying-to-unionize</link>
+            <guid>https://www.newyorker.com/news/letter-from-the-southwest/the-national-guard-soldiers-trying-to-unionize</guid>
+            <pubDate>Tue, 26 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The National Guard Soldiers Trying to Unionize]]></description>
+        </item>
+        <item>
+            <title><![CDATA[反對外國戰鬥人員的案例]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/foreign-fighters-ukraine-malcolm-nance/629672/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/foreign-fighters-ukraine-malcolm-nance/629672/?utm_source=feed</guid>
+            <pubDate>Tue, 26 Apr 2022 10:01:56 GMT</pubDate>
+            <description><![CDATA[The Case Against Foreign Fighters]]></description>
+        </item>
         <item>
             <title><![CDATA[幼兒是否需要做NFT？]]></title>
             <link>https://www.nytimes.com/2022/04/26/arts/nft-zigazoo-qai-qai.html</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.newyorker.com/news/us-journal/how-a-forgotten-bit-of-infrastructure-became-a-symbol-of-civic-pride</guid>
             <pubDate>Sun, 10 Apr 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[How a Forgotten Bit of Infrastructure Became a Symbol of Civic Pride]]></description>
-        </item>
-        <item>
-            <title><![CDATA[密碼字謎：2022年4月10日，星期日]]></title>
-            <link>https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/04/10</link>
-            <guid>https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/04/10</guid>
-            <pubDate>Sun, 10 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Cryptic Crossword: Sunday, April 10, 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一些對話的殺手鐧]]></title>
-            <link>https://www.newyorker.com/humor/daily-shouts/some-conversation-killers</link>
-            <guid>https://www.newyorker.com/humor/daily-shouts/some-conversation-killers</guid>
-            <pubDate>Sun, 10 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Some Conversation Killers]]></description>
         </item>
     </channel>
 </rss>

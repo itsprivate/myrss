@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-26T09:14:24.120Z</updated>
+    <updated>2022-04-26T10:14:13.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[試圖成立工會的國民警衛隊士兵們]]></title>
+        <id>https://www.newyorker.com/news/letter-from-the-southwest/the-national-guard-soldiers-trying-to-unionize</id>
+        <link href="https://www.newyorker.com/news/letter-from-the-southwest/the-national-guard-soldiers-trying-to-unionize"/>
+        <updated>2022-04-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The National Guard Soldiers Trying to Unionize]]></summary>
+        <author>
+            <name>Rachel Monroe</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[反對外國戰鬥人員的案例]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/04/foreign-fighters-ukraine-malcolm-nance/629672/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/04/foreign-fighters-ukraine-malcolm-nance/629672/?utm_source=feed"/>
+        <updated>2022-04-26T10:01:56.000Z</updated>
+        <summary type="html"><![CDATA[The Case Against Foreign Fighters]]></summary>
+        <author>
+            <name>Graeme Wood</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[幼兒是否需要做NFT？]]></title>
         <id>https://www.nytimes.com/2022/04/26/arts/nft-zigazoo-qai-qai.html</id>
@@ -6590,28 +6612,6 @@
         <summary type="html"><![CDATA[How a Forgotten Bit of Infrastructure Became a Symbol of Civic Pride]]></summary>
         <author>
             <name>Casey Cep</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[密碼字謎：2022年4月10日，星期日]]></title>
-        <id>https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/04/10</id>
-        <link href="https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/04/10"/>
-        <updated>2022-04-10T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Cryptic Crossword: Sunday, April 10, 2022]]></summary>
-        <author>
-            <name>Emily Cox, Henry Rathvon</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一些對話的殺手鐧]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/some-conversation-killers</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/some-conversation-killers"/>
-        <updated>2022-04-10T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Some Conversation Killers]]></summary>
-        <author>
-            <name>Marissa Maciel, Fiona Taylor</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
