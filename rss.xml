@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 26 Apr 2022 17:45:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 17:55:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[美国国会如何防止埃隆-马斯克将推特重新变成不受约束的虚假信息机器？]]></title>
+            <link>https://www.newyorker.com/news/our-columnists/how-congress-can-prevent-elon-musk-from-turning-twitter-back-into-an-unfettered-disinformation-machine</link>
+            <guid>https://www.newyorker.com/news/our-columnists/how-congress-can-prevent-elon-musk-from-turning-twitter-back-into-an-unfettered-disinformation-machine</guid>
+            <pubDate>Tue, 26 Apr 2022 17:45:19 GMT</pubDate>
+            <description><![CDATA[How Congress Can Prevent Elon Musk from Turning Twitter Back Into an Unfettered Disinformation Machine]]></description>
+        </item>
         <item>
             <title><![CDATA[采访。印度政府前首席经济顾问Arvind Subramanian]]></title>
             <link>https://noahpinion.substack.com/p/interview-arvind-subramanian-former</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/magazine/2022/04/18/the-four-hundred-year-old-fruit-that-built-new-york</guid>
             <pubDate>Mon, 11 Apr 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[The Four-Hundred-Year-Old Fruit That Built New York]]></description>
-        </item>
-        <item>
-            <title><![CDATA[希拉-赫迪朗读 "只是有点发烧"]]></title>
-            <link>https://www.newyorker.com/podcast/the-writers-voice/sheila-heti-reads-just-a-little-fever</link>
-            <guid>https://www.newyorker.com/podcast/the-writers-voice/sheila-heti-reads-just-a-little-fever</guid>
-            <pubDate>Mon, 11 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Sheila Heti Reads “Just a Little Fever”]]></description>
         </item>
     </channel>
 </rss>

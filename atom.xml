@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-26T17:45:45.126Z</updated>
+    <updated>2022-04-26T17:55:12.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国国会如何防止埃隆-马斯克将推特重新变成不受约束的虚假信息机器？]]></title>
+        <id>https://www.newyorker.com/news/our-columnists/how-congress-can-prevent-elon-musk-from-turning-twitter-back-into-an-unfettered-disinformation-machine</id>
+        <link href="https://www.newyorker.com/news/our-columnists/how-congress-can-prevent-elon-musk-from-turning-twitter-back-into-an-unfettered-disinformation-machine"/>
+        <updated>2022-04-26T17:45:19.000Z</updated>
+        <summary type="html"><![CDATA[How Congress Can Prevent Elon Musk from Turning Twitter Back Into an Unfettered Disinformation Machine]]></summary>
+        <author>
+            <name>John Cassidy</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[采访。印度政府前首席经济顾问Arvind Subramanian]]></title>
         <id>https://noahpinion.substack.com/p/interview-arvind-subramanian-former</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[The Four-Hundred-Year-Old Fruit That Built New York]]></summary>
         <author>
             <name>Zach Helfand</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[希拉-赫迪朗读 "只是有点发烧"]]></title>
-        <id>https://www.newyorker.com/podcast/the-writers-voice/sheila-heti-reads-just-a-little-fever</id>
-        <link href="https://www.newyorker.com/podcast/the-writers-voice/sheila-heti-reads-just-a-little-fever"/>
-        <updated>2022-04-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sheila Heti Reads “Just a Little Fever”]]></summary>
-        <author>
-            <name>unknown</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
