@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/26/magazine/elon-musk-twitter-billionaire.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/26/magazine/elon-musk-twitter-billionaire.html",
+            "title": "埃隆-馬斯克是一個典型的Twitter用戶，除了一件事",
+            "summary": "Elon Musk Is a Typical Twitter User, Except for One Thing",
+            "date_modified": "2022-04-26T22:37:59.000Z",
+            "author": {
+                "name": "Willy Staley",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://austinkleon.substack.com/p/winning-time",
             "content_html": "",
             "url": "https://austinkleon.substack.com/p/winning-time",
@@ -7193,18 +7205,6 @@
             "title": "兩個輪子上的冒險",
             "summary": "Adventures on two wheels",
             "date_modified": "2022-03-08T13:00:37.000Z",
-            "author": {
-                "name": "Austin Kleon",
-                "url": "https://austinkleon.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://austinkleon.substack.com/p/say-yes-and-never-do-it",
-            "content_html": "",
-            "url": "https://austinkleon.substack.com/p/say-yes-and-never-do-it",
-            "title": "說 \"是 \"而不去做",
-            "summary": "Say yes and never do it",
-            "date_modified": "2022-03-11T13:00:40.000Z",
             "author": {
                 "name": "Austin Kleon",
                 "url": "https://austinkleon.substack.com/feed"

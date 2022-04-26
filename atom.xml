@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-26T22:34:05.267Z</updated>
+    <updated>2022-04-26T22:44:59.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[埃隆-马斯克是一个典型的Twitter用户，除了一件事]]></title>
+        <id>https://www.nytimes.com/2022/04/26/magazine/elon-musk-twitter-billionaire.html</id>
+        <link href="https://www.nytimes.com/2022/04/26/magazine/elon-musk-twitter-billionaire.html"/>
+        <updated>2022-04-26T22:37:59.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk Is a Typical Twitter User, Except for One Thing]]></summary>
+        <author>
+            <name>Willy Staley</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[赢家时间]]></title>
         <id>https://austinkleon.substack.com/p/winning-time</id>
@@ -6599,17 +6610,6 @@
         <link href="https://austinkleon.substack.com/p/adventures-on-two-wheels"/>
         <updated>2022-03-08T13:00:37.000Z</updated>
         <summary type="html"><![CDATA[Adventures on two wheels]]></summary>
-        <author>
-            <name>Austin Kleon</name>
-            <uri>https://austinkleon.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[说 "是 "而不去做]]></title>
-        <id>https://austinkleon.substack.com/p/say-yes-and-never-do-it</id>
-        <link href="https://austinkleon.substack.com/p/say-yes-and-never-do-it"/>
-        <updated>2022-03-11T13:00:40.000Z</updated>
-        <summary type="html"><![CDATA[Say yes and never do it]]></summary>
         <author>
             <name>Austin Kleon</name>
             <uri>https://austinkleon.substack.com/feed</uri>

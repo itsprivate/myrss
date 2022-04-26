@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 26 Apr 2022 22:34:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 22:44:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[埃隆-马斯克是一个典型的Twitter用户，除了一件事]]></title>
+            <link>https://www.nytimes.com/2022/04/26/magazine/elon-musk-twitter-billionaire.html</link>
+            <guid>https://www.nytimes.com/2022/04/26/magazine/elon-musk-twitter-billionaire.html</guid>
+            <pubDate>Tue, 26 Apr 2022 22:37:59 GMT</pubDate>
+            <description><![CDATA[Elon Musk Is a Typical Twitter User, Except for One Thing]]></description>
+        </item>
         <item>
             <title><![CDATA[赢家时间]]></title>
             <link>https://austinkleon.substack.com/p/winning-time</link>
@@ -4206,13 +4213,6 @@
             <guid>https://austinkleon.substack.com/p/adventures-on-two-wheels</guid>
             <pubDate>Tue, 08 Mar 2022 13:00:37 GMT</pubDate>
             <description><![CDATA[Adventures on two wheels]]></description>
-        </item>
-        <item>
-            <title><![CDATA[说 "是 "而不去做]]></title>
-            <link>https://austinkleon.substack.com/p/say-yes-and-never-do-it</link>
-            <guid>https://austinkleon.substack.com/p/say-yes-and-never-do-it</guid>
-            <pubDate>Fri, 11 Mar 2022 13:00:40 GMT</pubDate>
-            <description><![CDATA[Say yes and never do it]]></description>
         </item>
     </channel>
 </rss>
