@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 27 Apr 2022 09:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 09:35:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[书评。贸易战是阶级战争]]></title>
+            <link>https://noahpinion.substack.com/p/book-review-trade-wars-are-class</link>
+            <guid>https://noahpinion.substack.com/p/book-review-trade-wars-are-class</guid>
+            <pubDate>Wed, 27 Apr 2022 09:14:44 GMT</pubDate>
+            <description><![CDATA[Book review: Trade Wars are Class Wars]]></description>
+        </item>
         <item>
             <title><![CDATA[哪些动物病毒会感染人类？计算机正在竞相寻找答案。]]></title>
             <link>https://www.nytimes.com/2022/04/27/science/pandemic-viruses-machine-learning.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/politics/archive/2022/04/iowa-caucus-dnc-proposal-2024-election/629511/?utm_source=feed</guid>
             <pubDate>Mon, 11 Apr 2022 11:00:56 GMT</pubDate>
             <description><![CDATA[Has Iowa Had Its Last First Caucus?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[您是否正确地使用了<em>Gaslight</em>？]]></title>
-            <link>https://www.theatlantic.com/newsletters/archive/2022/04/are-you-using-gaslight-correctly/629522/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/newsletters/archive/2022/04/are-you-using-gaslight-correctly/629522/?utm_source=feed</guid>
-            <pubDate>Mon, 11 Apr 2022 11:00:57 GMT</pubDate>
-            <description><![CDATA[Are You Using <em>Gaslight</em> Correctly?]]></description>
         </item>
     </channel>
 </rss>

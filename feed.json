@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://noahpinion.substack.com/p/book-review-trade-wars-are-class",
+            "content_html": "",
+            "url": "https://noahpinion.substack.com/p/book-review-trade-wars-are-class",
+            "title": "书评。贸易战是阶级战争",
+            "summary": "Book review: Trade Wars are Class Wars",
+            "date_modified": "2022-04-27T09:14:44.000Z",
+            "author": {
+                "name": "Noah Smith",
+                "url": "https://noahpinion.substack.com/feed"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/27/science/pandemic-viruses-machine-learning.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/27/science/pandemic-viruses-machine-learning.html",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-04-11T11:00:56.000Z",
             "author": {
                 "name": "Elaine Godfrey",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/newsletters/archive/2022/04/are-you-using-gaslight-correctly/629522/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/newsletters/archive/2022/04/are-you-using-gaslight-correctly/629522/?utm_source=feed",
-            "title": "您是否正确地使用了<em>Gaslight</em>？",
-            "summary": "Are You Using <em>Gaslight</em> Correctly?",
-            "date_modified": "2022-04-11T11:00:57.000Z",
-            "author": {
-                "name": "Caleb Madison",
                 "url": "https://www.theatlantic.com/feed/all/"
             }
         }
