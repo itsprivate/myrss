@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/04/how-desantis-motivated-florida-conservative-policies/629679/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/04/how-desantis-motivated-florida-conservative-policies/629679/?utm_source=feed",
+            "title": "佛羅里達之謎",
+            "summary": "The Florida Mystery",
+            "date_modified": "2022-04-27T11:01:56.000Z",
+            "author": {
+                "name": "David A. Graham",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/politics/archive/2022/04/parents-partisan-school-board-meeting-covid/629669/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/politics/archive/2022/04/parents-partisan-school-board-meeting-covid/629669/?utm_source=feed",
@@ -7193,18 +7205,6 @@
             "title": "關於招聘。開發人員就像股票一樣",
             "summary": "On Hiring: Developers Are Like Stocks",
             "date_modified": "2017-02-10T11:11:30.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/new-blog-and-hiring-needs/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/new-blog-and-hiring-needs/",
-            "title": "新博客與招聘需求",
-            "summary": "New Blog & Hiring Needs",
-            "date_modified": "2018-06-09T17:56:24.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"

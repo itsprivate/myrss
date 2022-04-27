@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 27 Apr 2022 10:54:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 11:31:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[佛羅里達之謎]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/how-desantis-motivated-florida-conservative-policies/629679/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/how-desantis-motivated-florida-conservative-policies/629679/?utm_source=feed</guid>
+            <pubDate>Wed, 27 Apr 2022 11:01:56 GMT</pubDate>
+            <description><![CDATA[The Florida Mystery]]></description>
+        </item>
         <item>
             <title><![CDATA[房間裡最響亮的聲音]]></title>
             <link>https://www.theatlantic.com/politics/archive/2022/04/parents-partisan-school-board-meeting-covid/629669/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.davidhaney.io/on-hiring-developers-are-like-stocks/</guid>
             <pubDate>Fri, 10 Feb 2017 11:11:30 GMT</pubDate>
             <description><![CDATA[On Hiring: Developers Are Like Stocks]]></description>
-        </item>
-        <item>
-            <title><![CDATA[新博客與招聘需求]]></title>
-            <link>https://www.davidhaney.io/new-blog-and-hiring-needs/</link>
-            <guid>https://www.davidhaney.io/new-blog-and-hiring-needs/</guid>
-            <pubDate>Sat, 09 Jun 2018 17:56:24 GMT</pubDate>
-            <description><![CDATA[New Blog & Hiring Needs]]></description>
         </item>
     </channel>
 </rss>
