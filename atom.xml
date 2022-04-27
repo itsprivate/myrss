@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-27T15:40:58.472Z</updated>
+    <updated>2022-04-27T16:58:14.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[埃隆-马斯克认为社交媒体并不是火箭科学]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/elon-musks-confusing-twitter-grab</id>
+        <link href="https://www.newyorker.com/news/daily-comment/elon-musks-confusing-twitter-grab"/>
+        <updated>2022-04-27T16:26:10.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk Thinks Social Media Isn’t Rocket Science]]></summary>
+        <author>
+            <name>Andrew Marantz</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[来自地狱的巴士之旅]]></title>
+        <id>https://www.newyorker.com/video/watch/the-new-yorker-shorts-the-bus-ride-from-hell</id>
+        <link href="https://www.newyorker.com/video/watch/the-new-yorker-shorts-the-bus-ride-from-hell"/>
+        <updated>2022-04-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Bus Ride from Hell]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[社会主义政治比以往更有必要]]></title>
         <id>https://www.currentaffairs.org/2022/04/socialist-politics-are-more-necessary-than-ever/</id>
@@ -6588,28 +6610,6 @@
         <link href="https://www.davidhaney.io/diversity-is-really-freaking-hard/"/>
         <updated>2015-09-24T11:23:38.000Z</updated>
         <summary type="html"><![CDATA[Diversity Is Really Freaking Hard]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开发商补偿。堆栈溢出并没有堆栈排名]]></title>
-        <id>https://www.davidhaney.io/developer-compensation-stack-overflow-doesnt-stack-rank/</id>
-        <link href="https://www.davidhaney.io/developer-compensation-stack-overflow-doesnt-stack-rank/"/>
-        <updated>2016-02-26T14:05:41.000Z</updated>
-        <summary type="html"><![CDATA[Developer Compensation: Stack Overflow Doesn't Stack Rank]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[故宫博物院和左手掌。我们是否忘记了如何编程？]]></title>
-        <id>https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/</id>
-        <link href="https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/"/>
-        <updated>2016-03-23T18:01:52.000Z</updated>
-        <summary type="html"><![CDATA[NPM & left-pad: Have We Forgotten How To Program?]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>
