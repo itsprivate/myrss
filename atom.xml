@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-27T19:29:46.060Z</updated>
+    <updated>2022-04-27T20:16:14.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[推特应该禁止什么？要具体一点。]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/04/elon-musk-twitter-deal-content-moderation/629697/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/04/elon-musk-twitter-deal-content-moderation/629697/?utm_source=feed"/>
+        <updated>2022-04-27T19:43:33.000Z</updated>
+        <summary type="html"><![CDATA[What Should Twitter Forbid? Be Specific.]]></summary>
+        <author>
+            <name>Conor Friedersdorf</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[法官拒绝取消埃隆-马斯克就其推特帖子与证监会的和解。]]></title>
         <id>https://www.nytimes.com/2022/04/27/technology/musk-twitter-sec.html</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Matthew Fray</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何保证开发团队的失败]]></title>
-        <id>https://www.davidhaney.io/how-to-guarantee-dev-team-failure/</id>
-        <link href="https://www.davidhaney.io/how-to-guarantee-dev-team-failure/"/>
-        <updated>2014-05-07T13:27:35.000Z</updated>
-        <summary type="html"><![CDATA[How To Guarantee Dev Team Failure]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
         </author>
     </entry>
 </feed>

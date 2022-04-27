@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/newsletters/archive/2022/04/elon-musk-twitter-deal-content-moderation/629697/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/newsletters/archive/2022/04/elon-musk-twitter-deal-content-moderation/629697/?utm_source=feed",
+            "title": "推特应该禁止什么？要具体一点。",
+            "summary": "What Should Twitter Forbid? Be Specific.",
+            "date_modified": "2022-04-27T19:43:33.000Z",
+            "author": {
+                "name": "Conor Friedersdorf",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/27/technology/musk-twitter-sec.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/27/technology/musk-twitter-sec.html",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Matthew Fray",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/how-to-guarantee-dev-team-failure/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/how-to-guarantee-dev-team-failure/",
-            "title": "如何保证开发团队的失败",
-            "summary": "How To Guarantee Dev Team Failure",
-            "date_modified": "2014-05-07T13:27:35.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
             }
         }
     ]

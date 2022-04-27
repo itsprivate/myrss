@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 27 Apr 2022 19:29:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 20:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[推特应该禁止什么？要具体一点。]]></title>
+            <link>https://www.theatlantic.com/newsletters/archive/2022/04/elon-musk-twitter-deal-content-moderation/629697/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/newsletters/archive/2022/04/elon-musk-twitter-deal-content-moderation/629697/?utm_source=feed</guid>
+            <pubDate>Wed, 27 Apr 2022 19:43:33 GMT</pubDate>
+            <description><![CDATA[What Should Twitter Forbid? Be Specific.]]></description>
+        </item>
         <item>
             <title><![CDATA[法官拒绝取消埃隆-马斯克就其推特帖子与证监会的和解。]]></title>
             <link>https://www.nytimes.com/2022/04/27/technology/musk-twitter-sec.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.theatlantic.com/family/archive/2022/04/marriage-problems-fight-dishes/629526/?utm_source=feed</guid>
             <pubDate>Mon, 11 Apr 2022 12:01:56 GMT</pubDate>
             <description><![CDATA[Why a Dirty Dish by the Sink Can Be a Big Problem for a Marriage]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何保证开发团队的失败]]></title>
-            <link>https://www.davidhaney.io/how-to-guarantee-dev-team-failure/</link>
-            <guid>https://www.davidhaney.io/how-to-guarantee-dev-team-failure/</guid>
-            <pubDate>Wed, 07 May 2014 13:27:35 GMT</pubDate>
-            <description><![CDATA[How To Guarantee Dev Team Failure]]></description>
         </item>
     </channel>
 </rss>
