@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 27 Apr 2022 19:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 19:29:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[法官拒绝取消埃隆-马斯克就其推特帖子与证监会的和解。]]></title>
+            <link>https://www.nytimes.com/2022/04/27/technology/musk-twitter-sec.html</link>
+            <guid>https://www.nytimes.com/2022/04/27/technology/musk-twitter-sec.html</guid>
+            <pubDate>Wed, 27 Apr 2022 19:16:57 GMT</pubDate>
+            <description><![CDATA[Judge refuses to strike down Elon Musk’s settlement with the S.E.C. over his Twitter posts.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[为其他人做运动]]></title>
+            <link>https://www.theatlantic.com/health/archive/2022/04/hampton-liu-working-out-pe-exercise/629696/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/health/archive/2022/04/hampton-liu-working-out-pe-exercise/629696/?utm_source=feed</guid>
+            <pubDate>Wed, 27 Apr 2022 18:56:08 GMT</pubDate>
+            <description><![CDATA[Exercise for Everybody Else]]></description>
+        </item>
         <item>
             <title><![CDATA[市场排名。反SEO排名的算法]]></title>
             <link>https://dkb.io/post/market-rank</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.davidhaney.io/how-to-guarantee-dev-team-failure/</guid>
             <pubDate>Wed, 07 May 2014 13:27:35 GMT</pubDate>
             <description><![CDATA[How To Guarantee Dev Team Failure]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我是如何在Stack Exchange得到一份工作的]]></title>
-            <link>https://www.davidhaney.io/how-i-got-a-job-at-stack-exchange/</link>
-            <guid>https://www.davidhaney.io/how-i-got-a-job-at-stack-exchange/</guid>
-            <pubDate>Fri, 20 Jun 2014 16:59:10 GMT</pubDate>
-            <description><![CDATA[How I Got A Job At Stack Exchange]]></description>
-        </item>
-        <item>
-            <title><![CDATA[iPhone 6。风格大于实质]]></title>
-            <link>https://www.davidhaney.io/iphone-6-style-over-substance/</link>
-            <guid>https://www.davidhaney.io/iphone-6-style-over-substance/</guid>
-            <pubDate>Tue, 09 Sep 2014 19:22:53 GMT</pubDate>
-            <description><![CDATA[iPhone 6: Style Over Substance]]></description>
         </item>
     </channel>
 </rss>
