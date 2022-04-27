@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 27 Apr 2022 17:58:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 18:43:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[被拒絕的女童子軍餅乾]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/rejected-girl-scout-cookies</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/rejected-girl-scout-cookies</guid>
+            <pubDate>Wed, 27 Apr 2022 18:00:00 GMT</pubDate>
+            <description><![CDATA[Rejected Girl Scout Cookies]]></description>
+        </item>
+        <item>
+            <title><![CDATA[照片。烏克蘭兩個月的戰爭]]></title>
+            <link>https://www.theatlantic.com/photo/2022/04/photos-two-months-war-ukraine/629690/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/photo/2022/04/photos-two-months-war-ukraine/629690/?utm_source=feed</guid>
+            <pubDate>Wed, 27 Apr 2022 18:26:24 GMT</pubDate>
+            <description><![CDATA[Photos: Two Months of War in Ukraine]]></description>
+        </item>
         <item>
             <title><![CDATA[互聯網用戶是否有上限？]]></title>
             <link>https://www.nytimes.com/2022/04/27/technology/global-internet-users.html</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.davidhaney.io/on-credentialism-in-software-development/</guid>
             <pubDate>Mon, 29 Dec 2014 16:00:27 GMT</pubDate>
             <description><![CDATA[On Credentialism In Software Development]]></description>
-        </item>
-        <item>
-            <title><![CDATA[招聘的競爭優勢]]></title>
-            <link>https://www.davidhaney.io/the-recruiting-competitive-advantage/</link>
-            <guid>https://www.davidhaney.io/the-recruiting-competitive-advantage/</guid>
-            <pubDate>Fri, 23 Jan 2015 12:04:37 GMT</pubDate>
-            <description><![CDATA[The Recruiting Competitive Advantage]]></description>
-        </item>
-        <item>
-            <title><![CDATA[關於秘密的可怕的工程師--反駁]]></title>
-            <link>https://www.davidhaney.io/on-secretly-terrible-engineers-a-rebuttal/</link>
-            <guid>https://www.davidhaney.io/on-secretly-terrible-engineers-a-rebuttal/</guid>
-            <pubDate>Mon, 09 Mar 2015 18:32:37 GMT</pubDate>
-            <description><![CDATA[On Secretly Terrible Engineers - A Rebuttal]]></description>
         </item>
     </channel>
 </rss>

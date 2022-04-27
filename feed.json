@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/humor/daily-shouts/rejected-girl-scout-cookies",
+            "content_html": "",
+            "url": "https://www.newyorker.com/humor/daily-shouts/rejected-girl-scout-cookies",
+            "title": "被拒绝的女童子军饼干",
+            "summary": "Rejected Girl Scout Cookies",
+            "date_modified": "2022-04-27T18:00:00.000Z",
+            "author": {
+                "name": "Ella Quittner, Olivia de Recat",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/photo/2022/04/photos-two-months-war-ukraine/629690/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/photo/2022/04/photos-two-months-war-ukraine/629690/?utm_source=feed",
+            "title": "照片。乌克兰两个月的战争",
+            "summary": "Photos: Two Months of War in Ukraine",
+            "date_modified": "2022-04-27T18:26:24.000Z",
+            "author": {
+                "name": "Alan Taylor",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/27/technology/global-internet-users.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/27/technology/global-internet-users.html",
@@ -7181,30 +7205,6 @@
             "title": "论软件开发中的资历主义",
             "summary": "On Credentialism In Software Development",
             "date_modified": "2014-12-29T16:00:27.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/the-recruiting-competitive-advantage/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/the-recruiting-competitive-advantage/",
-            "title": "招聘的竞争优势",
-            "summary": "The Recruiting Competitive Advantage",
-            "date_modified": "2015-01-23T12:04:37.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/on-secretly-terrible-engineers-a-rebuttal/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/on-secretly-terrible-engineers-a-rebuttal/",
-            "title": "关于秘密的可怕的工程师--反驳",
-            "summary": "On Secretly Terrible Engineers - A Rebuttal",
-            "date_modified": "2015-03-09T18:32:37.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"
