@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Tue, 26 Apr 2022 23:44:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 00:51:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Elon Musk對Twitter的交易包括10億美元的分手費。]]></title>
+            <link>https://www.nytimes.com/2022/04/26/technology/twitter-musk-breakup-fee.html</link>
+            <guid>https://www.nytimes.com/2022/04/26/technology/twitter-musk-breakup-fee.html</guid>
+            <pubDate>Tue, 26 Apr 2022 22:32:46 GMT</pubDate>
+            <description><![CDATA[Elon Musk’s deal for Twitter includes a $1 billion breakup fee.]]></description>
+        </item>
         <item>
             <title><![CDATA[阿爾伯特-艾勒的 "啟示錄 "的歡快光輝]]></title>
             <link>https://www.newyorker.com/culture/the-front-row/the-jubilant-glory-of-albert-aylers-revelations</link>
@@ -4206,13 +4213,6 @@
             <guid>https://austinkleon.substack.com/p/analog-ctrl-z</guid>
             <pubDate>Tue, 22 Feb 2022 13:00:36 GMT</pubDate>
             <description><![CDATA[Analog Ctrl-Z]]></description>
-        </item>
-        <item>
-            <title><![CDATA[故意螺旋式上升]]></title>
-            <link>https://austinkleon.substack.com/p/intentionally-spiraling-out</link>
-            <guid>https://austinkleon.substack.com/p/intentionally-spiraling-out</guid>
-            <pubDate>Fri, 25 Feb 2022 13:00:39 GMT</pubDate>
-            <description><![CDATA[Intentionally spiraling out]]></description>
         </item>
     </channel>
 </rss>
