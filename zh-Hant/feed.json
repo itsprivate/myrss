@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/27/technology/global-internet-users.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/27/technology/global-internet-users.html",
+            "title": "互聯網用戶是否有上限？",
+            "summary": "Is There a Ceiling on Internet Users?",
+            "date_modified": "2022-04-27T17:47:58.000Z",
+            "author": {
+                "name": "Shira Ovide",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/27/us/politics/russia-cyberattacks-ukraine.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/27/us/politics/russia-cyberattacks-ukraine.html",
@@ -7193,18 +7205,6 @@
             "title": "關於秘密的可怕的工程師--反駁",
             "summary": "On Secretly Terrible Engineers - A Rebuttal",
             "date_modified": "2015-03-09T18:32:37.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/developers-shouldnt-measure-twice-cut-once/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/developers-shouldnt-measure-twice-cut-once/",
-            "title": "開發人員不應測量兩次，切割一次",
-            "summary": "Developers Shouldn't Measure Twice, Cut Once",
-            "date_modified": "2015-04-15T16:25:02.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"

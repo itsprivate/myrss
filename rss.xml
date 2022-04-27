@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 27 Apr 2022 17:50:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 17:58:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[互联网用户是否有上限？]]></title>
+            <link>https://www.nytimes.com/2022/04/27/technology/global-internet-users.html</link>
+            <guid>https://www.nytimes.com/2022/04/27/technology/global-internet-users.html</guid>
+            <pubDate>Wed, 27 Apr 2022 17:47:58 GMT</pubDate>
+            <description><![CDATA[Is There a Ceiling on Internet Users?]]></description>
+        </item>
         <item>
             <title><![CDATA[报告指出，俄罗斯在乌克兰利用网络攻击来支持军事打击]]></title>
             <link>https://www.nytimes.com/2022/04/27/us/politics/russia-cyberattacks-ukraine.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.davidhaney.io/on-secretly-terrible-engineers-a-rebuttal/</guid>
             <pubDate>Mon, 09 Mar 2015 18:32:37 GMT</pubDate>
             <description><![CDATA[On Secretly Terrible Engineers - A Rebuttal]]></description>
-        </item>
-        <item>
-            <title><![CDATA[开发人员不应测量两次，切割一次]]></title>
-            <link>https://www.davidhaney.io/developers-shouldnt-measure-twice-cut-once/</link>
-            <guid>https://www.davidhaney.io/developers-shouldnt-measure-twice-cut-once/</guid>
-            <pubDate>Wed, 15 Apr 2015 16:25:02 GMT</pubDate>
-            <description><![CDATA[Developers Shouldn't Measure Twice, Cut Once]]></description>
         </item>
     </channel>
 </rss>
