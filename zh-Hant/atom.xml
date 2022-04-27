@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-27T21:43:16.235Z</updated>
+    <updated>2022-04-27T21:53:03.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Zines!]]></title>
+        <id>https://noahpinion.substack.com/p/zines</id>
+        <link href="https://noahpinion.substack.com/p/zines"/>
+        <updated>2022-04-02T23:29:44.000Z</updated>
+        <summary type="html"><![CDATA[Zines!]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[真相社交評論。特朗普的未經審查的社交應用程序不完整]]></title>
         <id>https://www.nytimes.com/2022/04/27/technology/personaltech/truth-social-review-trump.html</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.davidhaney.io/interview-with-infoq-on-simplsockets/"/>
         <updated>2013-12-11T10:54:43.000Z</updated>
         <summary type="html"><![CDATA[Interview with InfoQ on SimplSockets]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[當ModelState.IsValid為假時觸發IValidatableObject.Validate]]></title>
-        <id>https://www.davidhaney.io/trigger-ivalidatableobject-validate-when-modelstate-isvalid-is-false/</id>
-        <link href="https://www.davidhaney.io/trigger-ivalidatableobject-validate-when-modelstate-isvalid-is-false/"/>
-        <updated>2014-02-05T15:55:40.000Z</updated>
-        <summary type="html"><![CDATA[Trigger IValidatableObject.Validate When ModelState.IsValid is false]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>

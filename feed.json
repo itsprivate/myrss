@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://noahpinion.substack.com/p/zines",
+            "content_html": "",
+            "url": "https://noahpinion.substack.com/p/zines",
+            "title": "Zines!",
+            "summary": "Zines!",
+            "date_modified": "2022-04-02T23:29:44.000Z",
+            "author": {
+                "name": "Noah Smith",
+                "url": "https://noahpinion.substack.com/feed"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/04/27/technology/personaltech/truth-social-review-trump.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/04/27/technology/personaltech/truth-social-review-trump.html",
@@ -7193,18 +7205,6 @@
             "title": "关于SimplSockets的InfoQ采访",
             "summary": "Interview with InfoQ on SimplSockets",
             "date_modified": "2013-12-11T10:54:43.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/trigger-ivalidatableobject-validate-when-modelstate-isvalid-is-false/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/trigger-ivalidatableobject-validate-when-modelstate-isvalid-is-false/",
-            "title": "当ModelState.IsValid为假时触发IValidatableObject.Validate",
-            "summary": "Trigger IValidatableObject.Validate When ModelState.IsValid is false",
-            "date_modified": "2014-02-05T15:55:40.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"
