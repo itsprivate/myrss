@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/humor/borowitz-report/kevin-mccarthy-amazed-by-incredible-new-invention-called-tape-recorder",
+            "content_html": "",
+            "url": "https://www.newyorker.com/humor/borowitz-report/kevin-mccarthy-amazed-by-incredible-new-invention-called-tape-recorder",
+            "title": "凯文-麦卡锡对名为磁带录音机的不可思议的新发明感到惊奇",
+            "summary": "Kevin McCarthy Amazed by Incredible New Invention Called Tape Recorder",
+            "date_modified": "2022-04-27T14:32:37.000Z",
+            "author": {
+                "name": "Andy Borowitz",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/cartoons/daily-cartoon/wednesday-april-27th-airline-entitlement",
+            "content_html": "",
+            "url": "https://www.newyorker.com/cartoons/daily-cartoon/wednesday-april-27th-airline-entitlement",
+            "title": "每日漫画。4月27日，星期三",
+            "summary": "Daily Cartoon: Wednesday, April 27th",
+            "date_modified": "2022-04-27T14:27:55.000Z",
+            "author": {
+                "name": "Kate Isenberg",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/live/2022/04/27/technology/twitter-elon-musk-news/musk-misinformation-twitter",
+            "content_html": "",
+            "url": "https://www.nytimes.com/live/2022/04/27/technology/twitter-elon-musk-news/musk-misinformation-twitter",
+            "title": "那些致力于限制有害帖子的人担心马斯克手下的Twitter。",
+            "summary": "Those dedicated to limiting harmful posts worry about Twitter under Musk.",
+            "date_modified": "2022-04-27T12:23:21.000Z",
+            "author": {
+                "name": "Steven Lee Myers",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/science/archive/2022/04/ipcc-report-climate-change-2050/629691/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/science/archive/2022/04/ipcc-report-climate-change-2050/629691/?utm_source=feed",
@@ -7169,42 +7205,6 @@
             "title": "我们的行业需要同情心",
             "summary": "Our Industry Needs Compassion",
             "date_modified": "2017-01-03T12:37:39.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/custom-asp-net-mvc-action-result-cache-attribute/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/custom-asp-net-mvc-action-result-cache-attribute/",
-            "title": "自定义ASP.NET MVC动作结果缓存属性",
-            "summary": "Custom ASP.NET MVC Action Result Cache Attribute",
-            "date_modified": "2017-01-10T09:07:15.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/dev-team-interactions-accountability-blame/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/dev-team-interactions-accountability-blame/",
-            "title": "开发团队的互动。责任与指责",
-            "summary": "Dev Team Interactions: Accountability & Blame",
-            "date_modified": "2017-01-20T13:20:59.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/dev-team-interactions-conducting-good-code-reviews/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/dev-team-interactions-conducting-good-code-reviews/",
-            "title": "开发团队的互动。进行良好的代码审查",
-            "summary": "Dev Team Interactions: Conducting Good Code Reviews",
-            "date_modified": "2017-01-27T10:03:20.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"

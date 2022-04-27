@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-27T14:13:42.367Z</updated>
+    <updated>2022-04-27T14:54:42.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[凱文-麥卡錫對名為磁帶錄音機的不可思議的新發明感到驚奇]]></title>
+        <id>https://www.newyorker.com/humor/borowitz-report/kevin-mccarthy-amazed-by-incredible-new-invention-called-tape-recorder</id>
+        <link href="https://www.newyorker.com/humor/borowitz-report/kevin-mccarthy-amazed-by-incredible-new-invention-called-tape-recorder"/>
+        <updated>2022-04-27T14:32:37.000Z</updated>
+        <summary type="html"><![CDATA[Kevin McCarthy Amazed by Incredible New Invention Called Tape Recorder]]></summary>
+        <author>
+            <name>Andy Borowitz</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日漫畫。4月27日，星期三]]></title>
+        <id>https://www.newyorker.com/cartoons/daily-cartoon/wednesday-april-27th-airline-entitlement</id>
+        <link href="https://www.newyorker.com/cartoons/daily-cartoon/wednesday-april-27th-airline-entitlement"/>
+        <updated>2022-04-27T14:27:55.000Z</updated>
+        <summary type="html"><![CDATA[Daily Cartoon: Wednesday, April 27th]]></summary>
+        <author>
+            <name>Kate Isenberg</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[那些致力於限制有害帖子的人擔心馬斯克手下的Twitter。]]></title>
+        <id>https://www.nytimes.com/live/2022/04/27/technology/twitter-elon-musk-news/musk-misinformation-twitter</id>
+        <link href="https://www.nytimes.com/live/2022/04/27/technology/twitter-elon-musk-news/musk-misinformation-twitter"/>
+        <updated>2022-04-27T12:23:21.000Z</updated>
+        <summary type="html"><![CDATA[Those dedicated to limiting harmful posts worry about Twitter under Musk.]]></summary>
+        <author>
+            <name>Steven Lee Myers</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們有兩條不可能的道路來避免最嚴重的氣候變化]]></title>
         <id>https://www.theatlantic.com/science/archive/2022/04/ipcc-report-climate-change-2050/629691/?utm_source=feed</id>
@@ -6577,39 +6610,6 @@
         <link href="https://www.davidhaney.io/our-industry-needs-compassion/"/>
         <updated>2017-01-03T12:37:39.000Z</updated>
         <summary type="html"><![CDATA[Our Industry Needs Compassion]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自定義ASP.NET MVC動作結果緩存屬性]]></title>
-        <id>https://www.davidhaney.io/custom-asp-net-mvc-action-result-cache-attribute/</id>
-        <link href="https://www.davidhaney.io/custom-asp-net-mvc-action-result-cache-attribute/"/>
-        <updated>2017-01-10T09:07:15.000Z</updated>
-        <summary type="html"><![CDATA[Custom ASP.NET MVC Action Result Cache Attribute]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開發團隊的互動。責任與指責]]></title>
-        <id>https://www.davidhaney.io/dev-team-interactions-accountability-blame/</id>
-        <link href="https://www.davidhaney.io/dev-team-interactions-accountability-blame/"/>
-        <updated>2017-01-20T13:20:59.000Z</updated>
-        <summary type="html"><![CDATA[Dev Team Interactions: Accountability & Blame]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開發團隊的互動。進行良好的代碼審查]]></title>
-        <id>https://www.davidhaney.io/dev-team-interactions-conducting-good-code-reviews/</id>
-        <link href="https://www.davidhaney.io/dev-team-interactions-conducting-good-code-reviews/"/>
-        <updated>2017-01-27T10:03:20.000Z</updated>
-        <summary type="html"><![CDATA[Dev Team Interactions: Conducting Good Code Reviews]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>
