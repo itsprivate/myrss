@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-27T11:31:22.733Z</updated>
+    <updated>2022-04-27T11:52:29.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[特斯拉股价可能会对市场产生怎样的影响]]></title>
+        <id>https://www.nytimes.com/2022/04/27/technology/tesla-stock-price-musk.html</id>
+        <link href="https://www.nytimes.com/2022/04/27/technology/tesla-stock-price-musk.html"/>
+        <updated>2022-04-27T09:25:56.000Z</updated>
+        <summary type="html"><![CDATA[How Tesla Stock Price Might Affect Markets]]></summary>
+        <author>
+            <name>William P. Davis</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[佛罗里达之谜]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/04/how-desantis-motivated-florida-conservative-policies/629679/?utm_source=feed</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Louis Menand</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于招聘。开发人员就像股票一样]]></title>
-        <id>https://www.davidhaney.io/on-hiring-developers-are-like-stocks/</id>
-        <link href="https://www.davidhaney.io/on-hiring-developers-are-like-stocks/"/>
-        <updated>2017-02-10T11:11:30.000Z</updated>
-        <summary type="html"><![CDATA[On Hiring: Developers Are Like Stocks]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
         </author>
     </entry>
 </feed>

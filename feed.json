@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/27/technology/tesla-stock-price-musk.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/27/technology/tesla-stock-price-musk.html",
+            "title": "特斯拉股价可能会对市场产生怎样的影响",
+            "summary": "How Tesla Stock Price Might Affect Markets",
+            "date_modified": "2022-04-27T09:25:56.000Z",
+            "author": {
+                "name": "William P. Davis",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/ideas/archive/2022/04/how-desantis-motivated-florida-conservative-policies/629679/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/ideas/archive/2022/04/how-desantis-motivated-florida-conservative-policies/629679/?utm_source=feed",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Louis Menand",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/on-hiring-developers-are-like-stocks/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/on-hiring-developers-are-like-stocks/",
-            "title": "关于招聘。开发人员就像股票一样",
-            "summary": "On Hiring: Developers Are Like Stocks",
-            "date_modified": "2017-02-10T11:11:30.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
             }
         }
     ]

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 27 Apr 2022 11:31:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 11:52:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[特斯拉股價可能會對市場產生怎樣的影響]]></title>
+            <link>https://www.nytimes.com/2022/04/27/technology/tesla-stock-price-musk.html</link>
+            <guid>https://www.nytimes.com/2022/04/27/technology/tesla-stock-price-musk.html</guid>
+            <pubDate>Wed, 27 Apr 2022 09:25:56 GMT</pubDate>
+            <description><![CDATA[How Tesla Stock Price Might Affect Markets]]></description>
+        </item>
         <item>
             <title><![CDATA[佛羅里達之謎]]></title>
             <link>https://www.theatlantic.com/ideas/archive/2022/04/how-desantis-motivated-florida-conservative-policies/629679/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/magazine/2022/04/18/the-people-who-decide-what-becomes-history-richard-cohen-making-history</guid>
             <pubDate>Mon, 11 Apr 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[The People Who Decide What Becomes History]]></description>
-        </item>
-        <item>
-            <title><![CDATA[關於招聘。開發人員就像股票一樣]]></title>
-            <link>https://www.davidhaney.io/on-hiring-developers-are-like-stocks/</link>
-            <guid>https://www.davidhaney.io/on-hiring-developers-are-like-stocks/</guid>
-            <pubDate>Fri, 10 Feb 2017 11:11:30 GMT</pubDate>
-            <description><![CDATA[On Hiring: Developers Are Like Stocks]]></description>
         </item>
     </channel>
 </rss>
