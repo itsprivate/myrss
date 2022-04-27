@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-27T16:58:14.512Z</updated>
+    <updated>2022-04-27T17:50:56.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[報告指出，俄羅斯在烏克蘭利用網絡攻擊來支持軍事打擊]]></title>
+        <id>https://www.nytimes.com/2022/04/27/us/politics/russia-cyberattacks-ukraine.html</id>
+        <link href="https://www.nytimes.com/2022/04/27/us/politics/russia-cyberattacks-ukraine.html"/>
+        <updated>2022-04-27T17:31:05.000Z</updated>
+        <summary type="html"><![CDATA[Russia Uses Cyberattacks in Ukraine to Support Military Strikes, Report Finds]]></summary>
+        <author>
+            <name>David E. Sanger and Kate Conger</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有線電視巨頭康卡斯特和查爾特聯手推出流媒體設備]]></title>
+        <id>https://www.nytimes.com/2022/04/27/business/media/comcast-charter-set-top-streaming.html</id>
+        <link href="https://www.nytimes.com/2022/04/27/business/media/comcast-charter-set-top-streaming.html"/>
+        <updated>2022-04-27T17:42:01.000Z</updated>
+        <summary type="html"><![CDATA[Cable Giants Comcast and Charter Team Up On Streaming Devices]]></summary>
+        <author>
+            <name>Benjamin Mullin</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[埃隆-馬斯克認為社交媒體並不是火箭科學]]></title>
         <id>https://www.newyorker.com/news/daily-comment/elon-musks-confusing-twitter-grab</id>
@@ -6588,28 +6610,6 @@
         <link href="https://www.davidhaney.io/developers-shouldnt-measure-twice-cut-once/"/>
         <updated>2015-04-15T16:25:02.000Z</updated>
         <summary type="html"><![CDATA[Developers Shouldn't Measure Twice, Cut Once]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開發人員轉為經理]]></title>
-        <id>https://www.davidhaney.io/developer-turned-manager/</id>
-        <link href="https://www.davidhaney.io/developer-turned-manager/"/>
-        <updated>2015-08-03T14:18:02.000Z</updated>
-        <summary type="html"><![CDATA[Developer Turned Manager]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多樣性真的很難得]]></title>
-        <id>https://www.davidhaney.io/diversity-is-really-freaking-hard/</id>
-        <link href="https://www.davidhaney.io/diversity-is-really-freaking-hard/"/>
-        <updated>2015-09-24T11:23:38.000Z</updated>
-        <summary type="html"><![CDATA[Diversity Is Really Freaking Hard]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>

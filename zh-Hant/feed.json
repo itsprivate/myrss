@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/27/us/politics/russia-cyberattacks-ukraine.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/27/us/politics/russia-cyberattacks-ukraine.html",
+            "title": "報告指出，俄羅斯在烏克蘭利用網絡攻擊來支持軍事打擊",
+            "summary": "Russia Uses Cyberattacks in Ukraine to Support Military Strikes, Report Finds",
+            "date_modified": "2022-04-27T17:31:05.000Z",
+            "author": {
+                "name": "David E. Sanger and Kate Conger",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/04/27/business/media/comcast-charter-set-top-streaming.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/27/business/media/comcast-charter-set-top-streaming.html",
+            "title": "有線電視巨頭康卡斯特和查爾特聯手推出流媒體設備",
+            "summary": "Cable Giants Comcast and Charter Team Up On Streaming Devices",
+            "date_modified": "2022-04-27T17:42:01.000Z",
+            "author": {
+                "name": "Benjamin Mullin",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/daily-comment/elon-musks-confusing-twitter-grab",
             "content_html": "",
             "url": "https://www.newyorker.com/news/daily-comment/elon-musks-confusing-twitter-grab",
@@ -7181,30 +7205,6 @@
             "title": "開發人員不應測量兩次，切割一次",
             "summary": "Developers Shouldn't Measure Twice, Cut Once",
             "date_modified": "2015-04-15T16:25:02.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/developer-turned-manager/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/developer-turned-manager/",
-            "title": "開發人員轉為經理",
-            "summary": "Developer Turned Manager",
-            "date_modified": "2015-08-03T14:18:02.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/diversity-is-really-freaking-hard/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/diversity-is-really-freaking-hard/",
-            "title": "多樣性真的很難得",
-            "summary": "Diversity Is Really Freaking Hard",
-            "date_modified": "2015-09-24T11:23:38.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"

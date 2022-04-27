@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 27 Apr 2022 16:58:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 17:50:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[報告指出，俄羅斯在烏克蘭利用網絡攻擊來支持軍事打擊]]></title>
+            <link>https://www.nytimes.com/2022/04/27/us/politics/russia-cyberattacks-ukraine.html</link>
+            <guid>https://www.nytimes.com/2022/04/27/us/politics/russia-cyberattacks-ukraine.html</guid>
+            <pubDate>Wed, 27 Apr 2022 17:31:05 GMT</pubDate>
+            <description><![CDATA[Russia Uses Cyberattacks in Ukraine to Support Military Strikes, Report Finds]]></description>
+        </item>
+        <item>
+            <title><![CDATA[有線電視巨頭康卡斯特和查爾特聯手推出流媒體設備]]></title>
+            <link>https://www.nytimes.com/2022/04/27/business/media/comcast-charter-set-top-streaming.html</link>
+            <guid>https://www.nytimes.com/2022/04/27/business/media/comcast-charter-set-top-streaming.html</guid>
+            <pubDate>Wed, 27 Apr 2022 17:42:01 GMT</pubDate>
+            <description><![CDATA[Cable Giants Comcast and Charter Team Up On Streaming Devices]]></description>
+        </item>
         <item>
             <title><![CDATA[埃隆-馬斯克認為社交媒體並不是火箭科學]]></title>
             <link>https://www.newyorker.com/news/daily-comment/elon-musks-confusing-twitter-grab</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.davidhaney.io/developers-shouldnt-measure-twice-cut-once/</guid>
             <pubDate>Wed, 15 Apr 2015 16:25:02 GMT</pubDate>
             <description><![CDATA[Developers Shouldn't Measure Twice, Cut Once]]></description>
-        </item>
-        <item>
-            <title><![CDATA[開發人員轉為經理]]></title>
-            <link>https://www.davidhaney.io/developer-turned-manager/</link>
-            <guid>https://www.davidhaney.io/developer-turned-manager/</guid>
-            <pubDate>Mon, 03 Aug 2015 14:18:02 GMT</pubDate>
-            <description><![CDATA[Developer Turned Manager]]></description>
-        </item>
-        <item>
-            <title><![CDATA[多樣性真的很難得]]></title>
-            <link>https://www.davidhaney.io/diversity-is-really-freaking-hard/</link>
-            <guid>https://www.davidhaney.io/diversity-is-really-freaking-hard/</guid>
-            <pubDate>Thu, 24 Sep 2015 11:23:38 GMT</pubDate>
-            <description><![CDATA[Diversity Is Really Freaking Hard]]></description>
         </item>
     </channel>
 </rss>
