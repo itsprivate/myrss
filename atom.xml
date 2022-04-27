@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-27T09:35:40.356Z</updated>
+    <updated>2022-04-27T10:15:22.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[落名：2022年4月27日，星期三]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/27</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/27"/>
+        <updated>2022-04-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Name Drop: Wednesday, April 27, 2022]]></summary>
+        <author>
+            <name>Matt Jackson</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[现在东西的价格是多少]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/what-things-cost-now</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/what-things-cost-now"/>
+        <updated>2022-04-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What Things Cost Now]]></summary>
+        <author>
+            <name>Eli Grober</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无家可归的英雄对埃里克-亚当斯的政策有何感想]]></title>
+        <id>https://www.newyorker.com/news/q-and-a/what-da-homeless-hero-makes-of-eric-adamss-policies</id>
+        <link href="https://www.newyorker.com/news/q-and-a/what-da-homeless-hero-makes-of-eric-adamss-policies"/>
+        <updated>2022-04-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What Da Homeless Hero Makes of Eric Adams’s Policies]]></summary>
+        <author>
+            <name>Eric Lach</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[填字游戏: 2022年4月27日，星期三]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/27</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/27"/>
+        <updated>2022-04-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Crossword: Wednesday, April 27, 2022]]></summary>
+        <author>
+            <name>Will Nediger</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[致力于限制有害帖子的人担心马斯克治下的Twitter]]></title>
+        <id>https://www.nytimes.com/2022/04/27/technology/musk-misinformation-twitter.html</id>
+        <link href="https://www.nytimes.com/2022/04/27/technology/musk-misinformation-twitter.html"/>
+        <updated>2022-04-27T10:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Those Dedicated to Limiting Harmful Posts Worry About Twitter Under Musk]]></summary>
+        <author>
+            <name>Steven Lee Myers</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在2024年击败特朗普]]></title>
+        <id>https://www.theatlantic.com/politics/archive/2022/04/gop-strategy-against-trump-2024-election/629687/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/politics/archive/2022/04/gop-strategy-against-trump-2024-election/629687/?utm_source=feed"/>
+        <updated>2022-04-27T10:00:56.000Z</updated>
+        <summary type="html"><![CDATA[How to Beat Trump in 2024]]></summary>
+        <author>
+            <name>Mark Leibovich</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[书评。贸易战是阶级战争]]></title>
         <id>https://noahpinion.substack.com/p/book-review-trade-wars-are-class</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新的博客名称和域名]]></title>
-        <id>https://www.davidhaney.io/new-blog-name-and-domain/</id>
-        <link href="https://www.davidhaney.io/new-blog-name-and-domain/"/>
-        <updated>2018-08-03T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[New Blog Name and Domain]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.NET核心Azure函数教程]]></title>
-        <id>https://www.davidhaney.io/net-core-azure-functions-tutorial/</id>
-        <link href="https://www.davidhaney.io/net-core-azure-functions-tutorial/"/>
-        <updated>2018-11-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[.NET Core Azure Functions Tutorial]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安息日开始了]]></title>
-        <id>https://www.davidhaney.io/sabbatical-begins/</id>
-        <link href="https://www.davidhaney.io/sabbatical-begins/"/>
-        <updated>2019-08-31T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sabbatical Begins]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安息日第一周]]></title>
-        <id>https://www.davidhaney.io/sabbatical-week-one/</id>
-        <link href="https://www.davidhaney.io/sabbatical-week-one/"/>
-        <updated>2019-09-08T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sabbatical Week One]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.NET Core MVC - 如何访问appsettings.json]]></title>
-        <id>https://www.davidhaney.io/net-core-mvc-access-appsettings-json/</id>
-        <link href="https://www.davidhaney.io/net-core-mvc-access-appsettings-json/"/>
-        <updated>2020-11-09T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[.NET Core MVC - How to Access appsettings.json]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爱荷华州是否已经举行了最后一次党团会议？]]></title>
-        <id>https://www.theatlantic.com/politics/archive/2022/04/iowa-caucus-dnc-proposal-2024-election/629511/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/politics/archive/2022/04/iowa-caucus-dnc-proposal-2024-election/629511/?utm_source=feed"/>
-        <updated>2022-04-11T11:00:56.000Z</updated>
-        <summary type="html"><![CDATA[Has Iowa Had Its Last First Caucus?]]></summary>
-        <author>
-            <name>Elaine Godfrey</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 27 Apr 2022 09:35:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 10:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,48 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[落名：2022年4月27日，星期三]]></title>
+            <link>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/27</link>
+            <guid>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/27</guid>
+            <pubDate>Wed, 27 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Name Drop: Wednesday, April 27, 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[現在東西的價格是多少]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/what-things-cost-now</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/what-things-cost-now</guid>
+            <pubDate>Wed, 27 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[What Things Cost Now]]></description>
+        </item>
+        <item>
+            <title><![CDATA[無家可歸的英雄對埃裡克-亞當斯的政策有何感想]]></title>
+            <link>https://www.newyorker.com/news/q-and-a/what-da-homeless-hero-makes-of-eric-adamss-policies</link>
+            <guid>https://www.newyorker.com/news/q-and-a/what-da-homeless-hero-makes-of-eric-adamss-policies</guid>
+            <pubDate>Wed, 27 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[What Da Homeless Hero Makes of Eric Adams’s Policies]]></description>
+        </item>
+        <item>
+            <title><![CDATA[填字遊戲: 2022年4月27日，星期三]]></title>
+            <link>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/27</link>
+            <guid>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/27</guid>
+            <pubDate>Wed, 27 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Crossword: Wednesday, April 27, 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[致力於限制有害帖子的人擔心馬斯克治下的Twitter]]></title>
+            <link>https://www.nytimes.com/2022/04/27/technology/musk-misinformation-twitter.html</link>
+            <guid>https://www.nytimes.com/2022/04/27/technology/musk-misinformation-twitter.html</guid>
+            <pubDate>Wed, 27 Apr 2022 10:00:06 GMT</pubDate>
+            <description><![CDATA[Those Dedicated to Limiting Harmful Posts Worry About Twitter Under Musk]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何在2024年擊敗特朗普]]></title>
+            <link>https://www.theatlantic.com/politics/archive/2022/04/gop-strategy-against-trump-2024-election/629687/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/politics/archive/2022/04/gop-strategy-against-trump-2024-election/629687/?utm_source=feed</guid>
+            <pubDate>Wed, 27 Apr 2022 10:00:56 GMT</pubDate>
+            <description><![CDATA[How to Beat Trump in 2024]]></description>
+        </item>
         <item>
             <title><![CDATA[書評。貿易戰是階級戰爭]]></title>
             <link>https://noahpinion.substack.com/p/book-review-trade-wars-are-class</link>
@@ -4171,48 +4213,6 @@
             <guid>https://www.davidhaney.io/writing-a-great-junior-tech-resume/</guid>
             <pubDate>Tue, 24 Jul 2018 04:00:00 GMT</pubDate>
             <description><![CDATA[Writing a Great Junior Tech Résumé]]></description>
-        </item>
-        <item>
-            <title><![CDATA[新的博客名稱和域名]]></title>
-            <link>https://www.davidhaney.io/new-blog-name-and-domain/</link>
-            <guid>https://www.davidhaney.io/new-blog-name-and-domain/</guid>
-            <pubDate>Fri, 03 Aug 2018 04:00:00 GMT</pubDate>
-            <description><![CDATA[New Blog Name and Domain]]></description>
-        </item>
-        <item>
-            <title><![CDATA[.NET核心Azure函數教程]]></title>
-            <link>https://www.davidhaney.io/net-core-azure-functions-tutorial/</link>
-            <guid>https://www.davidhaney.io/net-core-azure-functions-tutorial/</guid>
-            <pubDate>Mon, 19 Nov 2018 05:00:00 GMT</pubDate>
-            <description><![CDATA[.NET Core Azure Functions Tutorial]]></description>
-        </item>
-        <item>
-            <title><![CDATA[安息日開始了]]></title>
-            <link>https://www.davidhaney.io/sabbatical-begins/</link>
-            <guid>https://www.davidhaney.io/sabbatical-begins/</guid>
-            <pubDate>Sat, 31 Aug 2019 05:00:00 GMT</pubDate>
-            <description><![CDATA[Sabbatical Begins]]></description>
-        </item>
-        <item>
-            <title><![CDATA[安息日第一週]]></title>
-            <link>https://www.davidhaney.io/sabbatical-week-one/</link>
-            <guid>https://www.davidhaney.io/sabbatical-week-one/</guid>
-            <pubDate>Sun, 08 Sep 2019 05:00:00 GMT</pubDate>
-            <description><![CDATA[Sabbatical Week One]]></description>
-        </item>
-        <item>
-            <title><![CDATA[.NET Core MVC - 如何訪問appsettings.json]]></title>
-            <link>https://www.davidhaney.io/net-core-mvc-access-appsettings-json/</link>
-            <guid>https://www.davidhaney.io/net-core-mvc-access-appsettings-json/</guid>
-            <pubDate>Mon, 09 Nov 2020 05:00:00 GMT</pubDate>
-            <description><![CDATA[.NET Core MVC - How to Access appsettings.json]]></description>
-        </item>
-        <item>
-            <title><![CDATA[愛荷華州是否已經舉行了最後一次黨團會議？]]></title>
-            <link>https://www.theatlantic.com/politics/archive/2022/04/iowa-caucus-dnc-proposal-2024-election/629511/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/politics/archive/2022/04/iowa-caucus-dnc-proposal-2024-election/629511/?utm_source=feed</guid>
-            <pubDate>Mon, 11 Apr 2022 11:00:56 GMT</pubDate>
-            <description><![CDATA[Has Iowa Had Its Last First Caucus?]]></description>
         </item>
     </channel>
 </rss>
