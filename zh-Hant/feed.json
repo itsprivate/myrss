@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://dkb.io/post/market-rank",
+            "content_html": "",
+            "url": "https://dkb.io/post/market-rank",
+            "title": "市場排名。反SEO排名的算法",
+            "summary": "MarketRank: The Anti-SEO Ranking Algorithm",
+            "date_modified": "2022-03-11T00:00:00.000Z",
+            "author": {
+                "name": "dkb@dkb.fyi (dkb)",
+                "url": "https://dkb.io/rss.xml"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/culture/archive/2022/04/coachella-2022-music-festivals-billie-eilish/629686/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/culture/archive/2022/04/coachella-2022-music-festivals-billie-eilish/629686/?utm_source=feed",
@@ -7193,18 +7205,6 @@
             "title": "iPhone 6。風格大於實質",
             "summary": "iPhone 6: Style Over Substance",
             "date_modified": "2014-09-09T19:22:53.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/the-trouble-with-job-titles/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/the-trouble-with-job-titles/",
-            "title": "工作頭銜的問題",
-            "summary": "The Trouble With Job Titles",
-            "date_modified": "2014-10-17T18:41:14.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 27 Apr 2022 19:00:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 19:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[市场排名。反SEO排名的算法]]></title>
+            <link>https://dkb.io/post/market-rank</link>
+            <guid>https://dkb.io/post/market-rank</guid>
+            <pubDate>Fri, 11 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[MarketRank: The Anti-SEO Ranking Algorithm]]></description>
+        </item>
         <item>
             <title><![CDATA[科切拉音乐节打败了我对音乐节的冷嘲热讽]]></title>
             <link>https://www.theatlantic.com/culture/archive/2022/04/coachella-2022-music-festivals-billie-eilish/629686/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.davidhaney.io/iphone-6-style-over-substance/</guid>
             <pubDate>Tue, 09 Sep 2014 19:22:53 GMT</pubDate>
             <description><![CDATA[iPhone 6: Style Over Substance]]></description>
-        </item>
-        <item>
-            <title><![CDATA[工作头衔的问题]]></title>
-            <link>https://www.davidhaney.io/the-trouble-with-job-titles/</link>
-            <guid>https://www.davidhaney.io/the-trouble-with-job-titles/</guid>
-            <pubDate>Fri, 17 Oct 2014 18:41:14 GMT</pubDate>
-            <description><![CDATA[The Trouble With Job Titles]]></description>
         </item>
     </channel>
 </rss>
