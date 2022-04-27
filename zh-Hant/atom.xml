@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-27T04:07:56.712Z</updated>
+    <updated>2022-04-27T09:14:07.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪些動物病毒會感染人類？計算機正在競相尋找答案。]]></title>
+        <id>https://www.nytimes.com/2022/04/27/science/pandemic-viruses-machine-learning.html</id>
+        <link href="https://www.nytimes.com/2022/04/27/science/pandemic-viruses-machine-learning.html"/>
+        <updated>2022-04-27T09:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Which Animal Viruses Could Infect People? Computers Are Racing to Find Out.]]></summary>
+        <author>
+            <name>Carl Zimmer</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[馬斯克出售特斯拉股票可能會對市場產生什麼影響]]></title>
+        <id>https://www.nytimes.com/2022/04/27/technology/musk-sell-tesla-stock.html</id>
+        <link href="https://www.nytimes.com/2022/04/27/technology/musk-sell-tesla-stock.html"/>
+        <updated>2022-04-27T09:05:18.000Z</updated>
+        <summary type="html"><![CDATA[How a Musk Sale of Tesla Stock Might Affect Markets]]></summary>
+        <author>
+            <name>William P. Davis</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[當記者在香港向專制制度屈服時]]></title>
+        <id>https://www.theatlantic.com/international/archive/2022/04/hong-kong-foreign-correspondents-club-awards/629685/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/international/archive/2022/04/hong-kong-foreign-correspondents-club-awards/629685/?utm_source=feed"/>
+        <updated>2022-04-27T08:56:44.000Z</updated>
+        <summary type="html"><![CDATA[When Journalists Capitulated to Autocracy in Hong Kong]]></summary>
+        <author>
+            <name>Timothy McLaughlin</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[羅賓漢稱將裁減9%的員工]]></title>
         <id>https://www.nytimes.com/2022/04/26/technology/robinhood-layoffs-vlad-tenev.html</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>Caleb Madison</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[頁面上的思考]]></title>
-        <id>https://austinkleon.substack.com/p/thinking-on-the-page</id>
-        <link href="https://austinkleon.substack.com/p/thinking-on-the-page"/>
-        <updated>2022-02-08T13:00:46.000Z</updated>
-        <summary type="html"><![CDATA[Thinking on the page]]></summary>
-        <author>
-            <name>Austin Kleon</name>
-            <uri>https://austinkleon.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要大喊大叫!]]></title>
-        <id>https://austinkleon.substack.com/p/no-yelling</id>
-        <link href="https://austinkleon.substack.com/p/no-yelling"/>
-        <updated>2022-02-11T13:00:42.000Z</updated>
-        <summary type="html"><![CDATA[No yelling!]]></summary>
-        <author>
-            <name>Austin Kleon</name>
-            <uri>https://austinkleon.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[假期日記]]></title>
-        <id>https://austinkleon.substack.com/p/a-vacation-diary</id>
-        <link href="https://austinkleon.substack.com/p/a-vacation-diary"/>
-        <updated>2022-02-15T13:00:48.000Z</updated>
-        <summary type="html"><![CDATA[A vacation diary]]></summary>
-        <author>
-            <name>Austin Kleon</name>
-            <uri>https://austinkleon.substack.com/feed</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 27 Apr 2022 04:07:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 09:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[哪些動物病毒會感染人類？計算機正在競相尋找答案。]]></title>
+            <link>https://www.nytimes.com/2022/04/27/science/pandemic-viruses-machine-learning.html</link>
+            <guid>https://www.nytimes.com/2022/04/27/science/pandemic-viruses-machine-learning.html</guid>
+            <pubDate>Wed, 27 Apr 2022 09:03:00 GMT</pubDate>
+            <description><![CDATA[Which Animal Viruses Could Infect People? Computers Are Racing to Find Out.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[馬斯克出售特斯拉股票可能會對市場產生什麼影響]]></title>
+            <link>https://www.nytimes.com/2022/04/27/technology/musk-sell-tesla-stock.html</link>
+            <guid>https://www.nytimes.com/2022/04/27/technology/musk-sell-tesla-stock.html</guid>
+            <pubDate>Wed, 27 Apr 2022 09:05:18 GMT</pubDate>
+            <description><![CDATA[How a Musk Sale of Tesla Stock Might Affect Markets]]></description>
+        </item>
+        <item>
+            <title><![CDATA[當記者在香港向專制制度屈服時]]></title>
+            <link>https://www.theatlantic.com/international/archive/2022/04/hong-kong-foreign-correspondents-club-awards/629685/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/international/archive/2022/04/hong-kong-foreign-correspondents-club-awards/629685/?utm_source=feed</guid>
+            <pubDate>Wed, 27 Apr 2022 08:56:44 GMT</pubDate>
+            <description><![CDATA[When Journalists Capitulated to Autocracy in Hong Kong]]></description>
+        </item>
         <item>
             <title><![CDATA[羅賓漢稱將裁減9%的員工]]></title>
             <link>https://www.nytimes.com/2022/04/26/technology/robinhood-layoffs-vlad-tenev.html</link>
@@ -4192,27 +4213,6 @@
             <guid>https://www.theatlantic.com/newsletters/archive/2022/04/are-you-using-gaslight-correctly/629522/?utm_source=feed</guid>
             <pubDate>Mon, 11 Apr 2022 11:00:57 GMT</pubDate>
             <description><![CDATA[Are You Using <em>Gaslight</em> Correctly?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[頁面上的思考]]></title>
-            <link>https://austinkleon.substack.com/p/thinking-on-the-page</link>
-            <guid>https://austinkleon.substack.com/p/thinking-on-the-page</guid>
-            <pubDate>Tue, 08 Feb 2022 13:00:46 GMT</pubDate>
-            <description><![CDATA[Thinking on the page]]></description>
-        </item>
-        <item>
-            <title><![CDATA[不要大喊大叫!]]></title>
-            <link>https://austinkleon.substack.com/p/no-yelling</link>
-            <guid>https://austinkleon.substack.com/p/no-yelling</guid>
-            <pubDate>Fri, 11 Feb 2022 13:00:42 GMT</pubDate>
-            <description><![CDATA[No yelling!]]></description>
-        </item>
-        <item>
-            <title><![CDATA[假期日記]]></title>
-            <link>https://austinkleon.substack.com/p/a-vacation-diary</link>
-            <guid>https://austinkleon.substack.com/p/a-vacation-diary</guid>
-            <pubDate>Tue, 15 Feb 2022 13:00:48 GMT</pubDate>
-            <description><![CDATA[A vacation diary]]></description>
         </item>
     </channel>
 </rss>
