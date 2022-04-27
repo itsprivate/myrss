@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-27T03:10:16.250Z</updated>
+    <updated>2022-04-27T04:07:56.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[羅賓漢稱將裁減9%的員工]]></title>
+        <id>https://www.nytimes.com/2022/04/26/technology/robinhood-layoffs-vlad-tenev.html</id>
+        <link href="https://www.nytimes.com/2022/04/26/technology/robinhood-layoffs-vlad-tenev.html"/>
+        <updated>2022-04-26T21:20:28.000Z</updated>
+        <summary type="html"><![CDATA[Robinhood Says It Will Lay Off 9% of Its Employees]]></summary>
+        <author>
+            <name>Erin Woo</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[勞裡-彭尼談性革命]]></title>
         <id>https://www.currentaffairs.org/2022/04/laurie-penny-on-the-sexual-revolution/</id>
@@ -6599,17 +6610,6 @@
         <link href="https://austinkleon.substack.com/p/a-vacation-diary"/>
         <updated>2022-02-15T13:00:48.000Z</updated>
         <summary type="html"><![CDATA[A vacation diary]]></summary>
-        <author>
-            <name>Austin Kleon</name>
-            <uri>https://austinkleon.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公路旅行問答]]></title>
-        <id>https://austinkleon.substack.com/p/a-road-trip-q-and-a</id>
-        <link href="https://austinkleon.substack.com/p/a-road-trip-q-and-a"/>
-        <updated>2022-02-18T13:00:52.000Z</updated>
-        <summary type="html"><![CDATA[A road trip Q&A]]></summary>
         <author>
             <name>Austin Kleon</name>
             <uri>https://austinkleon.substack.com/feed</uri>

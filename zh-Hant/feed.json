@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/26/technology/robinhood-layoffs-vlad-tenev.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/26/technology/robinhood-layoffs-vlad-tenev.html",
+            "title": "羅賓漢稱將裁減9%的員工",
+            "summary": "Robinhood Says It Will Lay Off 9% of Its Employees",
+            "date_modified": "2022-04-26T21:20:28.000Z",
+            "author": {
+                "name": "Erin Woo",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.currentaffairs.org/2022/04/laurie-penny-on-the-sexual-revolution/",
             "content_html": "",
             "url": "https://www.currentaffairs.org/2022/04/laurie-penny-on-the-sexual-revolution/",
@@ -7193,18 +7205,6 @@
             "title": "假期日記",
             "summary": "A vacation diary",
             "date_modified": "2022-02-15T13:00:48.000Z",
-            "author": {
-                "name": "Austin Kleon",
-                "url": "https://austinkleon.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://austinkleon.substack.com/p/a-road-trip-q-and-a",
-            "content_html": "",
-            "url": "https://austinkleon.substack.com/p/a-road-trip-q-and-a",
-            "title": "公路旅行問答",
-            "summary": "A road trip Q&A",
-            "date_modified": "2022-02-18T13:00:52.000Z",
             "author": {
                 "name": "Austin Kleon",
                 "url": "https://austinkleon.substack.com/feed"
