@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 27 Apr 2022 00:51:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 03:10:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[劳里-彭尼谈性革命]]></title>
+            <link>https://www.currentaffairs.org/2022/04/laurie-penny-on-the-sexual-revolution/</link>
+            <guid>https://www.currentaffairs.org/2022/04/laurie-penny-on-the-sexual-revolution/</guid>
+            <pubDate>Mon, 04 Apr 2022 13:42:05 GMT</pubDate>
+            <description><![CDATA[Laurie Penny on The Sexual Revolution]]></description>
+        </item>
         <item>
             <title><![CDATA[Elon Musk对Twitter的交易包括10亿美元的分手费。]]></title>
             <link>https://www.nytimes.com/2022/04/26/technology/twitter-musk-breakup-fee.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://austinkleon.substack.com/p/a-road-trip-q-and-a</guid>
             <pubDate>Fri, 18 Feb 2022 13:00:52 GMT</pubDate>
             <description><![CDATA[A road trip Q&A]]></description>
-        </item>
-        <item>
-            <title><![CDATA[模拟Ctrl-Z]]></title>
-            <link>https://austinkleon.substack.com/p/analog-ctrl-z</link>
-            <guid>https://austinkleon.substack.com/p/analog-ctrl-z</guid>
-            <pubDate>Tue, 22 Feb 2022 13:00:36 GMT</pubDate>
-            <description><![CDATA[Analog Ctrl-Z]]></description>
         </item>
     </channel>
 </rss>
