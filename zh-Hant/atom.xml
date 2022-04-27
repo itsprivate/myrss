@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-27T20:16:14.447Z</updated>
+    <updated>2022-04-27T21:13:59.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美達公司報告利潤下降了21%。]]></title>
+        <id>https://www.nytimes.com/2022/04/27/technology/facebook-meta-earnings.html</id>
+        <link href="https://www.nytimes.com/2022/04/27/technology/facebook-meta-earnings.html"/>
+        <updated>2022-04-27T20:57:46.000Z</updated>
+        <summary type="html"><![CDATA[Meta reports a 21 percent drop in profits.]]></summary>
+        <author>
+            <name>Sheera Frenkel</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[推特應該禁止什麼？要具體一點。]]></title>
         <id>https://www.theatlantic.com/newsletters/archive/2022/04/elon-musk-twitter-deal-content-moderation/629697/?utm_source=feed</id>
@@ -6601,17 +6612,6 @@
         <summary type="html"><![CDATA[The Right’s Speech-Code Moment]]></summary>
         <author>
             <name>David French</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼水槽邊的髒盤子會成為婚姻的大問題？]]></title>
-        <id>https://www.theatlantic.com/family/archive/2022/04/marriage-problems-fight-dishes/629526/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/family/archive/2022/04/marriage-problems-fight-dishes/629526/?utm_source=feed"/>
-        <updated>2022-04-11T12:01:56.000Z</updated>
-        <summary type="html"><![CDATA[Why a Dirty Dish by the Sink Can Be a Big Problem for a Marriage]]></summary>
-        <author>
-            <name>Matthew Fray</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>

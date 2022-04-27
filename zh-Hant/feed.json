@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/27/technology/facebook-meta-earnings.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/27/technology/facebook-meta-earnings.html",
+            "title": "美達公司報告利潤下降了21%。",
+            "summary": "Meta reports a 21 percent drop in profits.",
+            "date_modified": "2022-04-27T20:57:46.000Z",
+            "author": {
+                "name": "Sheera Frenkel",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/newsletters/archive/2022/04/elon-musk-twitter-deal-content-moderation/629697/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/newsletters/archive/2022/04/elon-musk-twitter-deal-content-moderation/629697/?utm_source=feed",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-04-11T12:15:34.000Z",
             "author": {
                 "name": "David French",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/family/archive/2022/04/marriage-problems-fight-dishes/629526/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/family/archive/2022/04/marriage-problems-fight-dishes/629526/?utm_source=feed",
-            "title": "為什麼水槽邊的髒盤子會成為婚姻的大問題？",
-            "summary": "Why a Dirty Dish by the Sink Can Be a Big Problem for a Marriage",
-            "date_modified": "2022-04-11T12:01:56.000Z",
-            "author": {
-                "name": "Matthew Fray",
                 "url": "https://www.theatlantic.com/feed/all/"
             }
         }
