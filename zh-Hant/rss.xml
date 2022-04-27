@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 27 Apr 2022 18:43:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 19:00:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[科切拉音樂節打敗了我對音樂節的冷嘲熱諷]]></title>
+            <link>https://www.theatlantic.com/culture/archive/2022/04/coachella-2022-music-festivals-billie-eilish/629686/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/culture/archive/2022/04/coachella-2022-music-festivals-billie-eilish/629686/?utm_source=feed</guid>
+            <pubDate>Wed, 27 Apr 2022 18:37:59 GMT</pubDate>
+            <description><![CDATA[Coachella Defeated My Cynicism About Music Festivals]]></description>
+        </item>
         <item>
             <title><![CDATA[被拒絕的女童子軍餅乾]]></title>
             <link>https://www.newyorker.com/humor/daily-shouts/rejected-girl-scout-cookies</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.davidhaney.io/the-trouble-with-job-titles/</guid>
             <pubDate>Fri, 17 Oct 2014 18:41:14 GMT</pubDate>
             <description><![CDATA[The Trouble With Job Titles]]></description>
-        </item>
-        <item>
-            <title><![CDATA[論軟件開發中的資歷主義]]></title>
-            <link>https://www.davidhaney.io/on-credentialism-in-software-development/</link>
-            <guid>https://www.davidhaney.io/on-credentialism-in-software-development/</guid>
-            <pubDate>Mon, 29 Dec 2014 16:00:27 GMT</pubDate>
-            <description><![CDATA[On Credentialism In Software Development]]></description>
         </item>
     </channel>
 </rss>

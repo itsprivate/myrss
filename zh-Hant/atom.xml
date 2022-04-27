@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-27T18:43:24.430Z</updated>
+    <updated>2022-04-27T19:00:20.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[科切拉音樂節打敗了我對音樂節的冷嘲熱諷]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/04/coachella-2022-music-festivals-billie-eilish/629686/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/04/coachella-2022-music-festivals-billie-eilish/629686/?utm_source=feed"/>
+        <updated>2022-04-27T18:37:59.000Z</updated>
+        <summary type="html"><![CDATA[Coachella Defeated My Cynicism About Music Festivals]]></summary>
+        <author>
+            <name>Spencer Kornhaber</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[被拒絕的女童子軍餅乾]]></title>
         <id>https://www.newyorker.com/humor/daily-shouts/rejected-girl-scout-cookies</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.davidhaney.io/the-trouble-with-job-titles/"/>
         <updated>2014-10-17T18:41:14.000Z</updated>
         <summary type="html"><![CDATA[The Trouble With Job Titles]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[論軟件開發中的資歷主義]]></title>
-        <id>https://www.davidhaney.io/on-credentialism-in-software-development/</id>
-        <link href="https://www.davidhaney.io/on-credentialism-in-software-development/"/>
-        <updated>2014-12-29T16:00:27.000Z</updated>
-        <summary type="html"><![CDATA[On Credentialism In Software Development]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>
