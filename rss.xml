@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 27 Apr 2022 21:34:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 21:43:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[真相社交评论。特朗普的未经审查的社交应用程序不完整]]></title>
+            <link>https://www.nytimes.com/2022/04/27/technology/personaltech/truth-social-review-trump.html</link>
+            <guid>https://www.nytimes.com/2022/04/27/technology/personaltech/truth-social-review-trump.html</guid>
+            <pubDate>Wed, 27 Apr 2022 21:35:12 GMT</pubDate>
+            <description><![CDATA[Truth Social Review: Trump’s Uncensored Social App Is Incomplete]]></description>
+        </item>
         <item>
             <title><![CDATA[上东区最糟糕的男友]]></title>
             <link>https://www.newyorker.com/news/our-local-correspondents/the-worst-boyfriend-on-the-upper-east-side</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.davidhaney.io/trigger-ivalidatableobject-validate-when-modelstate-isvalid-is-false/</guid>
             <pubDate>Wed, 05 Feb 2014 15:55:40 GMT</pubDate>
             <description><![CDATA[Trigger IValidatableObject.Validate When ModelState.IsValid is false]]></description>
-        </item>
-        <item>
-            <title><![CDATA[C#可能会得到新的 "安全导航 "操作符"？"。]]></title>
-            <link>https://www.davidhaney.io/c-probably-getting-new-safe-navigation-operator/</link>
-            <guid>https://www.davidhaney.io/c-probably-getting-new-safe-navigation-operator/</guid>
-            <pubDate>Fri, 28 Feb 2014 11:47:08 GMT</pubDate>
-            <description><![CDATA[C# Probably Getting New "Safe Navigation" Operator "?."]]></description>
         </item>
     </channel>
 </rss>

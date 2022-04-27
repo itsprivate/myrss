@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-27T21:34:27.032Z</updated>
+    <updated>2022-04-27T21:43:16.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[真相社交評論。特朗普的未經審查的社交應用程序不完整]]></title>
+        <id>https://www.nytimes.com/2022/04/27/technology/personaltech/truth-social-review-trump.html</id>
+        <link href="https://www.nytimes.com/2022/04/27/technology/personaltech/truth-social-review-trump.html"/>
+        <updated>2022-04-27T21:35:12.000Z</updated>
+        <summary type="html"><![CDATA[Truth Social Review: Trump’s Uncensored Social App Is Incomplete]]></summary>
+        <author>
+            <name>Brian X. Chen</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上東區最糟糕的男友]]></title>
         <id>https://www.newyorker.com/news/our-local-correspondents/the-worst-boyfriend-on-the-upper-east-side</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.davidhaney.io/trigger-ivalidatableobject-validate-when-modelstate-isvalid-is-false/"/>
         <updated>2014-02-05T15:55:40.000Z</updated>
         <summary type="html"><![CDATA[Trigger IValidatableObject.Validate When ModelState.IsValid is false]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C#可能會得到新的 "安全導航 "操作符"？"。]]></title>
-        <id>https://www.davidhaney.io/c-probably-getting-new-safe-navigation-operator/</id>
-        <link href="https://www.davidhaney.io/c-probably-getting-new-safe-navigation-operator/"/>
-        <updated>2014-02-28T11:47:08.000Z</updated>
-        <summary type="html"><![CDATA[C# Probably Getting New "Safe Navigation" Operator "?."]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>

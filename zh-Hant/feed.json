@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/04/27/technology/personaltech/truth-social-review-trump.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/04/27/technology/personaltech/truth-social-review-trump.html",
+            "title": "真相社交評論。特朗普的未經審查的社交應用程序不完整",
+            "summary": "Truth Social Review: Trump’s Uncensored Social App Is Incomplete",
+            "date_modified": "2022-04-27T21:35:12.000Z",
+            "author": {
+                "name": "Brian X. Chen",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/our-local-correspondents/the-worst-boyfriend-on-the-upper-east-side",
             "content_html": "",
             "url": "https://www.newyorker.com/news/our-local-correspondents/the-worst-boyfriend-on-the-upper-east-side",
@@ -7193,18 +7205,6 @@
             "title": "當ModelState.IsValid為假時觸發IValidatableObject.Validate",
             "summary": "Trigger IValidatableObject.Validate When ModelState.IsValid is false",
             "date_modified": "2014-02-05T15:55:40.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/c-probably-getting-new-safe-navigation-operator/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/c-probably-getting-new-safe-navigation-operator/",
-            "title": "C#可能會得到新的 \"安全導航 \"操作符\"？\"。",
-            "summary": "C# Probably Getting New \"Safe Navigation\" Operator \"?.\"",
-            "date_modified": "2014-02-28T11:47:08.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"
