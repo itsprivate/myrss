@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/books/under-review/the-confounding-politics-of-camping-in-america",
+            "content_html": "",
+            "url": "https://www.newyorker.com/books/under-review/the-confounding-politics-of-camping-in-america",
+            "title": "在美国露营的令人困惑的政治问题",
+            "summary": "The Confounding Politics of Camping in America",
+            "date_modified": "2022-04-27T14:41:09.000Z",
+            "author": {
+                "name": "Dan Piepenbring",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/humor/borowitz-report/kevin-mccarthy-amazed-by-incredible-new-invention-called-tape-recorder",
             "content_html": "",
             "url": "https://www.newyorker.com/humor/borowitz-report/kevin-mccarthy-amazed-by-incredible-new-invention-called-tape-recorder",
@@ -7193,18 +7205,6 @@
             "title": "让我们来谈谈摇滚明星和自负的问题",
             "summary": "Let's Talk About Rock Stars & Egos",
             "date_modified": "2016-06-17T17:02:13.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/our-industry-needs-compassion/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/our-industry-needs-compassion/",
-            "title": "我们的行业需要同情心",
-            "summary": "Our Industry Needs Compassion",
-            "date_modified": "2017-01-03T12:37:39.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 27 Apr 2022 14:54:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 15:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在美國露營的令人困惑的政治問題]]></title>
+            <link>https://www.newyorker.com/books/under-review/the-confounding-politics-of-camping-in-america</link>
+            <guid>https://www.newyorker.com/books/under-review/the-confounding-politics-of-camping-in-america</guid>
+            <pubDate>Wed, 27 Apr 2022 14:41:09 GMT</pubDate>
+            <description><![CDATA[The Confounding Politics of Camping in America]]></description>
+        </item>
         <item>
             <title><![CDATA[凱文-麥卡錫對名為磁帶錄音機的不可思議的新發明感到驚奇]]></title>
             <link>https://www.newyorker.com/humor/borowitz-report/kevin-mccarthy-amazed-by-incredible-new-invention-called-tape-recorder</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.davidhaney.io/lets-talk-about-rock-stars-egos/</guid>
             <pubDate>Fri, 17 Jun 2016 17:02:13 GMT</pubDate>
             <description><![CDATA[Let's Talk About Rock Stars & Egos]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我們的行業需要同情心]]></title>
-            <link>https://www.davidhaney.io/our-industry-needs-compassion/</link>
-            <guid>https://www.davidhaney.io/our-industry-needs-compassion/</guid>
-            <pubDate>Tue, 03 Jan 2017 12:37:39 GMT</pubDate>
-            <description><![CDATA[Our Industry Needs Compassion]]></description>
         </item>
     </channel>
 </rss>
