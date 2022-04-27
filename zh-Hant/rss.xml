@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 27 Apr 2022 15:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 15:40:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[社會主義政治比以往更有必要]]></title>
+            <link>https://www.currentaffairs.org/2022/04/socialist-politics-are-more-necessary-than-ever/</link>
+            <guid>https://www.currentaffairs.org/2022/04/socialist-politics-are-more-necessary-than-ever/</guid>
+            <pubDate>Wed, 27 Apr 2022 11:32:03 GMT</pubDate>
+            <description><![CDATA[Socialist Politics are More Necessary Than Ever]]></description>
+        </item>
         <item>
             <title><![CDATA[在美國露營的令人困惑的政治問題]]></title>
             <link>https://www.newyorker.com/books/under-review/the-confounding-politics-of-camping-in-america</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/</guid>
             <pubDate>Wed, 23 Mar 2016 18:01:52 GMT</pubDate>
             <description><![CDATA[NPM & left-pad: Have We Forgotten How To Program?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[讓我們來談談搖滾明星和自負的問題]]></title>
-            <link>https://www.davidhaney.io/lets-talk-about-rock-stars-egos/</link>
-            <guid>https://www.davidhaney.io/lets-talk-about-rock-stars-egos/</guid>
-            <pubDate>Fri, 17 Jun 2016 17:02:13 GMT</pubDate>
-            <description><![CDATA[Let's Talk About Rock Stars & Egos]]></description>
         </item>
     </channel>
 </rss>
