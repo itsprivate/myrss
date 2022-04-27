@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Wed, 27 Apr 2022 11:52:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 12:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一天的开始，留给小的吧]]></title>
+            <link>https://www.theatlantic.com/books/archive/2022/04/poem-monica-berlin-day-begins-leave-it-small/629683/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/books/archive/2022/04/poem-monica-berlin-day-begins-leave-it-small/629683/?utm_source=feed</guid>
+            <pubDate>Wed, 27 Apr 2022 12:01:56 GMT</pubDate>
+            <description><![CDATA[That a Day Begins, Leave It to the Small]]></description>
+        </item>
         <item>
             <title><![CDATA[特斯拉股价可能会对市场产生怎样的影响]]></title>
             <link>https://www.nytimes.com/2022/04/27/technology/tesla-stock-price-musk.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.davidhaney.io/gitlab-data-loss-a-discussion/</guid>
             <pubDate>Thu, 02 Feb 2017 11:33:02 GMT</pubDate>
             <description><![CDATA[GitLab Data Loss: A Discussion]]></description>
-        </item>
-        <item>
-            <title><![CDATA[决定什么成为历史的人]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/18/the-people-who-decide-what-becomes-history-richard-cohen-making-history</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/18/the-people-who-decide-what-becomes-history-richard-cohen-making-history</guid>
-            <pubDate>Mon, 11 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The People Who Decide What Becomes History]]></description>
         </item>
     </channel>
 </rss>

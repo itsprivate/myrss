@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-27T11:52:29.827Z</updated>
+    <updated>2022-04-27T12:20:19.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一天的開始，留給小的吧]]></title>
+        <id>https://www.theatlantic.com/books/archive/2022/04/poem-monica-berlin-day-begins-leave-it-small/629683/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/books/archive/2022/04/poem-monica-berlin-day-begins-leave-it-small/629683/?utm_source=feed"/>
+        <updated>2022-04-27T12:01:56.000Z</updated>
+        <summary type="html"><![CDATA[That a Day Begins, Leave It to the Small]]></summary>
+        <author>
+            <name>Monica Berlin</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[特斯拉股價可能會對市場產生怎樣的影響]]></title>
         <id>https://www.nytimes.com/2022/04/27/technology/tesla-stock-price-musk.html</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[決定什麼成為歷史的人]]></title>
-        <id>https://www.newyorker.com/magazine/2022/04/18/the-people-who-decide-what-becomes-history-richard-cohen-making-history</id>
-        <link href="https://www.newyorker.com/magazine/2022/04/18/the-people-who-decide-what-becomes-history-richard-cohen-making-history"/>
-        <updated>2022-04-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The People Who Decide What Becomes History]]></summary>
-        <author>
-            <name>Louis Menand</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
