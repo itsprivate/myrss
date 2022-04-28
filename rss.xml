@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 28 Apr 2022 05:39:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 09:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我们创造了大流行]]></title>
+            <link>https://www.theatlantic.com/science/archive/2022/04/how-climate-change-impacts-pandemics/629699/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/science/archive/2022/04/how-climate-change-impacts-pandemics/629699/?utm_source=feed</guid>
+            <pubDate>Thu, 28 Apr 2022 09:00:56 GMT</pubDate>
+            <description><![CDATA[We Created the Pandemicene]]></description>
+        </item>
         <item>
             <title><![CDATA[对远程工作有更大的思考]]></title>
             <link>https://noahpinion.substack.com/p/think-bigger-about-remote-work</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.davidhaney.io/generic-comparer/</guid>
             <pubDate>Mon, 22 Apr 2013 14:53:17 GMT</pubDate>
             <description><![CDATA[Generic Comparer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[网络API映射查询字符串/表单输入]]></title>
-            <link>https://www.davidhaney.io/web-api-mapping-querystringform-input/</link>
-            <guid>https://www.davidhaney.io/web-api-mapping-querystringform-input/</guid>
-            <pubDate>Wed, 24 Jul 2013 17:55:12 GMT</pubDate>
-            <description><![CDATA[Web API Mapping QueryString/Form Input]]></description>
         </item>
     </channel>
 </rss>
