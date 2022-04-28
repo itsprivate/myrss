@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 28 Apr 2022 11:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 11:28:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[刑事司法改革需要时间。加州可能已经没有耐心了。]]></title>
+            <link>https://www.theatlantic.com/politics/archive/2022/04/san-francisco-los-angeles-da-recalls/629701/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/politics/archive/2022/04/san-francisco-los-angeles-da-recalls/629701/?utm_source=feed</guid>
+            <pubDate>Thu, 28 Apr 2022 11:00:56 GMT</pubDate>
+            <description><![CDATA[Criminal-Justice Reform Takes Time. California Might Be Out of Patience.]]></description>
+        </item>
         <item>
             <title><![CDATA[美国和其他55个以上的国家承诺保持开放的互联网。]]></title>
             <link>https://www.nytimes.com/2022/04/28/technology/open-internet.html</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/news/dispatch/a-ukrainian-judge-joins-the-nations-ferocious-resistance</guid>
             <pubDate>Mon, 11 Apr 2022 14:18:01 GMT</pubDate>
             <description><![CDATA[A Ukrainian Judge Joins the Nation’s Ferocious Resistance]]></description>
-        </item>
-        <item>
-            <title><![CDATA[LINQ和延迟执行]]></title>
-            <link>https://www.davidhaney.io/linq-and-deferred-execution/</link>
-            <guid>https://www.davidhaney.io/linq-and-deferred-execution/</guid>
-            <pubDate>Mon, 11 Jun 2012 00:57:15 GMT</pubDate>
-            <description><![CDATA[LINQ and Deferred Execution]]></description>
         </item>
     </channel>
 </rss>
