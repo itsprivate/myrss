@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-28T10:58:42.316Z</updated>
+    <updated>2022-04-28T11:13:05.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国和其他55个以上的国家承诺保持开放的互联网。]]></title>
+        <id>https://www.nytimes.com/2022/04/28/technology/open-internet.html</id>
+        <link href="https://www.nytimes.com/2022/04/28/technology/open-internet.html"/>
+        <updated>2022-04-28T11:00:07.000Z</updated>
+        <summary type="html"><![CDATA[U.S. and more than 55 other countries pledge to keep an open internet.]]></summary>
+        <author>
+            <name>David McCabe</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[针对俄罗斯的长期经济战争。一个计划]]></title>
         <id>https://noahpinion.substack.com/p/the-long-economic-war-against-russia</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.davidhaney.io/linq-and-deferred-execution/"/>
         <updated>2012-06-11T00:57:15.000Z</updated>
         <summary type="html"><![CDATA[LINQ and Deferred Execution]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用MVC3和.NET 4.0的自定义输出缓存--做得很好]]></title>
-        <id>https://www.davidhaney.io/custom-output-caching-with-mvc3-and-net-4-0-done-right/</id>
-        <link href="https://www.davidhaney.io/custom-output-caching-with-mvc3-and-net-4-0-done-right/"/>
-        <updated>2012-06-20T00:47:52.000Z</updated>
-        <summary type="html"><![CDATA[Custom Output Caching with MVC3 and .NET 4.0 - Done Properly!]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>
