@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://noahpinion.substack.com/p/the-long-economic-war-against-russia",
+            "content_html": "",
+            "url": "https://noahpinion.substack.com/p/the-long-economic-war-against-russia",
+            "title": "針對俄羅斯的長期經濟戰爭。一個計劃",
+            "summary": "The long economic war against Russia: A plan",
+            "date_modified": "2022-04-04T06:37:28.000Z",
+            "author": {
+                "name": "Noah Smith",
+                "url": "https://noahpinion.substack.com/feed"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/technology/archive/2022/04/tech-companies-suppressed-biden-laptop/629680/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/technology/archive/2022/04/tech-companies-suppressed-biden-laptop/629680/?utm_source=feed",
+            "title": "為什麼亨特-拜登的筆記本電腦永遠不會消失？",
+            "summary": "Why Hunter Biden’s Laptop Will Never Go Away",
+            "date_modified": "2022-04-28T10:30:56.000Z",
+            "author": {
+                "name": "Kaitlyn Tiffany",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/essay/the-war-in-ukraine-is-a-colonial-war",
             "content_html": "",
             "url": "https://www.newyorker.com/news/essay/the-war-in-ukraine-is-a-colonial-war",
@@ -7181,30 +7205,6 @@
             "title": "使用MVC3和.NET 4.0的自定義輸出緩存--做得很好",
             "summary": "Custom Output Caching with MVC3 and .NET 4.0 - Done Properly!",
             "date_modified": "2012-06-20T00:47:52.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/compiler-tricks-inferred-types/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/compiler-tricks-inferred-types/",
-            "title": "編譯器技巧--推斷類型",
-            "summary": "Compiler Tricks - Inferred Types",
-            "date_modified": "2012-07-16T00:33:54.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/tpl-and-error-handling/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/tpl-and-error-handling/",
-            "title": "TPL和錯誤處理",
-            "summary": "TPL and Error Handling",
-            "date_modified": "2012-08-05T13:39:38.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"

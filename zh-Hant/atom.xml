@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-28T10:38:46.863Z</updated>
+    <updated>2022-04-28T10:58:42.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[針對俄羅斯的長期經濟戰爭。一個計劃]]></title>
+        <id>https://noahpinion.substack.com/p/the-long-economic-war-against-russia</id>
+        <link href="https://noahpinion.substack.com/p/the-long-economic-war-against-russia"/>
+        <updated>2022-04-04T06:37:28.000Z</updated>
+        <summary type="html"><![CDATA[The long economic war against Russia: A plan]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼亨特-拜登的筆記本電腦永遠不會消失？]]></title>
+        <id>https://www.theatlantic.com/technology/archive/2022/04/tech-companies-suppressed-biden-laptop/629680/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/technology/archive/2022/04/tech-companies-suppressed-biden-laptop/629680/?utm_source=feed"/>
+        <updated>2022-04-28T10:30:56.000Z</updated>
+        <summary type="html"><![CDATA[Why Hunter Biden’s Laptop Will Never Go Away]]></summary>
+        <author>
+            <name>Kaitlyn Tiffany</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[烏克蘭的戰爭是一場殖民戰爭]]></title>
         <id>https://www.newyorker.com/news/essay/the-war-in-ukraine-is-a-colonial-war</id>
@@ -6588,28 +6610,6 @@
         <link href="https://www.davidhaney.io/custom-output-caching-with-mvc3-and-net-4-0-done-right/"/>
         <updated>2012-06-20T00:47:52.000Z</updated>
         <summary type="html"><![CDATA[Custom Output Caching with MVC3 and .NET 4.0 - Done Properly!]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[編譯器技巧--推斷類型]]></title>
-        <id>https://www.davidhaney.io/compiler-tricks-inferred-types/</id>
-        <link href="https://www.davidhaney.io/compiler-tricks-inferred-types/"/>
-        <updated>2012-07-16T00:33:54.000Z</updated>
-        <summary type="html"><![CDATA[Compiler Tricks - Inferred Types]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TPL和錯誤處理]]></title>
-        <id>https://www.davidhaney.io/tpl-and-error-handling/</id>
-        <link href="https://www.davidhaney.io/tpl-and-error-handling/"/>
-        <updated>2012-08-05T13:39:38.000Z</updated>
-        <summary type="html"><![CDATA[TPL and Error Handling]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>

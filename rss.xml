@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 28 Apr 2022 10:38:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 10:58:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[针对俄罗斯的长期经济战争。一个计划]]></title>
+            <link>https://noahpinion.substack.com/p/the-long-economic-war-against-russia</link>
+            <guid>https://noahpinion.substack.com/p/the-long-economic-war-against-russia</guid>
+            <pubDate>Mon, 04 Apr 2022 06:37:28 GMT</pubDate>
+            <description><![CDATA[The long economic war against Russia: A plan]]></description>
+        </item>
+        <item>
+            <title><![CDATA[为什么亨特-拜登的笔记本电脑永远不会消失？]]></title>
+            <link>https://www.theatlantic.com/technology/archive/2022/04/tech-companies-suppressed-biden-laptop/629680/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/technology/archive/2022/04/tech-companies-suppressed-biden-laptop/629680/?utm_source=feed</guid>
+            <pubDate>Thu, 28 Apr 2022 10:30:56 GMT</pubDate>
+            <description><![CDATA[Why Hunter Biden’s Laptop Will Never Go Away]]></description>
+        </item>
         <item>
             <title><![CDATA[乌克兰的战争是一场殖民战争]]></title>
             <link>https://www.newyorker.com/news/essay/the-war-in-ukraine-is-a-colonial-war</link>
@@ -4199,20 +4213,6 @@
             <guid>https://www.davidhaney.io/custom-output-caching-with-mvc3-and-net-4-0-done-right/</guid>
             <pubDate>Wed, 20 Jun 2012 00:47:52 GMT</pubDate>
             <description><![CDATA[Custom Output Caching with MVC3 and .NET 4.0 - Done Properly!]]></description>
-        </item>
-        <item>
-            <title><![CDATA[编译器技巧--推断类型]]></title>
-            <link>https://www.davidhaney.io/compiler-tricks-inferred-types/</link>
-            <guid>https://www.davidhaney.io/compiler-tricks-inferred-types/</guid>
-            <pubDate>Mon, 16 Jul 2012 00:33:54 GMT</pubDate>
-            <description><![CDATA[Compiler Tricks - Inferred Types]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TPL和错误处理]]></title>
-            <link>https://www.davidhaney.io/tpl-and-error-handling/</link>
-            <guid>https://www.davidhaney.io/tpl-and-error-handling/</guid>
-            <pubDate>Sun, 05 Aug 2012 13:39:38 GMT</pubDate>
-            <description><![CDATA[TPL and Error Handling]]></description>
         </item>
     </channel>
 </rss>
