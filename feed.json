@@ -19,6 +19,42 @@
             "date_modified": "2022-04-28T10:00:00.000Z",
             "author": {
                 "name": "Timothy Snyder",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/annals-of-education/can-liberty-university-be-saved",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/annals-of-education/can-liberty-university-be-saved",
+            "title": "自由大学能被拯救吗？",
+            "summary": "Can Liberty University Be Saved?",
+            "date_modified": "2022-04-28T10:00:00.000Z",
+            "author": {
+                "name": "Megan K. Stack",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/q-and-a/a-clash-over-housing-pits-uc-berkeley-against-its-neighbors",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/q-and-a/a-clash-over-housing-pits-uc-berkeley-against-its-neighbors",
+            "title": "住房问题的冲突使加州大学伯克利分校与它的邻居们发生冲突",
+            "summary": "A Clash Over Housing Pits U.C. Berkeley Against Its Neighbors",
+            "date_modified": "2022-04-28T10:00:00.000Z",
+            "author": {
+                "name": "Isaac Chotiner",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/essay/the-war-in-ukraine-is-a-colonial-war",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/essay/the-war-in-ukraine-is-a-colonial-war",
+            "title": "乌克兰的战争是一场殖民战争",
+            "summary": "The War in Ukraine Is a Colonial War",
+            "date_modified": "2022-04-28T10:00:00.000Z",
+            "author": {
+                "name": "Timothy Snyder",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         },
@@ -7169,42 +7205,6 @@
             "title": "TPL和错误处理",
             "summary": "TPL and Error Handling",
             "date_modified": "2012-08-05T13:39:38.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/tpl-and-error-handling-continuations/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/tpl-and-error-handling-continuations/",
-            "title": "TPL和错误处理及延续任务",
-            "summary": "TPL and Error Handling & Continuation Tasks",
-            "date_modified": "2012-08-12T23:21:30.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/published-by-mdsn-uk-blog/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/published-by-mdsn-uk-blog/",
-            "title": "由MDSN英国博客发布",
-            "summary": "Published by MDSN UK Blog",
-            "date_modified": "2012-08-26T23:49:41.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/the-joel-test-really-is-meaningful/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/the-joel-test-really-is-meaningful/",
-            "title": "乔尔测试真的很有意义",
-            "summary": "The Joel Test Really is Meaningful",
-            "date_modified": "2012-10-14T22:10:54.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"

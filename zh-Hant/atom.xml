@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-28T10:16:51.965Z</updated>
+    <updated>2022-04-28T10:38:46.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭的戰爭是一場殖民戰爭]]></title>
+        <id>https://www.newyorker.com/news/essay/the-war-in-ukraine-is-a-colonial-war</id>
+        <link href="https://www.newyorker.com/news/essay/the-war-in-ukraine-is-a-colonial-war"/>
+        <updated>2022-04-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The War in Ukraine Is a Colonial War]]></summary>
+        <author>
+            <name>Timothy Snyder</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自由大學能被拯救嗎？]]></title>
+        <id>https://www.newyorker.com/news/annals-of-education/can-liberty-university-be-saved</id>
+        <link href="https://www.newyorker.com/news/annals-of-education/can-liberty-university-be-saved"/>
+        <updated>2022-04-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Can Liberty University Be Saved?]]></summary>
+        <author>
+            <name>Megan K. Stack</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[住房問題的衝突使加州大學伯克利分校與它的鄰居們發生衝突]]></title>
+        <id>https://www.newyorker.com/news/q-and-a/a-clash-over-housing-pits-uc-berkeley-against-its-neighbors</id>
+        <link href="https://www.newyorker.com/news/q-and-a/a-clash-over-housing-pits-uc-berkeley-against-its-neighbors"/>
+        <updated>2022-04-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Clash Over Housing Pits U.C. Berkeley Against Its Neighbors]]></summary>
+        <author>
+            <name>Isaac Chotiner</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[烏克蘭的戰爭是一場殖民戰爭]]></title>
         <id>https://www.newyorker.com/news/essay/the-war-in-ukraine-is-a-colonial-war</id>
@@ -6577,39 +6610,6 @@
         <link href="https://www.davidhaney.io/tpl-and-error-handling/"/>
         <updated>2012-08-05T13:39:38.000Z</updated>
         <summary type="html"><![CDATA[TPL and Error Handling]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TPL和錯誤處理及延續任務]]></title>
-        <id>https://www.davidhaney.io/tpl-and-error-handling-continuations/</id>
-        <link href="https://www.davidhaney.io/tpl-and-error-handling-continuations/"/>
-        <updated>2012-08-12T23:21:30.000Z</updated>
-        <summary type="html"><![CDATA[TPL and Error Handling & Continuation Tasks]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由MDSN英國博客發佈]]></title>
-        <id>https://www.davidhaney.io/published-by-mdsn-uk-blog/</id>
-        <link href="https://www.davidhaney.io/published-by-mdsn-uk-blog/"/>
-        <updated>2012-08-26T23:49:41.000Z</updated>
-        <summary type="html"><![CDATA[Published by MDSN UK Blog]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[喬爾測試真的很有意義]]></title>
-        <id>https://www.davidhaney.io/the-joel-test-really-is-meaningful/</id>
-        <link href="https://www.davidhaney.io/the-joel-test-really-is-meaningful/"/>
-        <updated>2012-10-14T22:10:54.000Z</updated>
-        <summary type="html"><![CDATA[The Joel Test Really is Meaningful]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>

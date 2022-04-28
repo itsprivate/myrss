@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 28 Apr 2022 10:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 10:38:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[乌克兰的战争是一场殖民战争]]></title>
+            <link>https://www.newyorker.com/news/essay/the-war-in-ukraine-is-a-colonial-war</link>
+            <guid>https://www.newyorker.com/news/essay/the-war-in-ukraine-is-a-colonial-war</guid>
+            <pubDate>Thu, 28 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The War in Ukraine Is a Colonial War]]></description>
+        </item>
+        <item>
+            <title><![CDATA[自由大学能被拯救吗？]]></title>
+            <link>https://www.newyorker.com/news/annals-of-education/can-liberty-university-be-saved</link>
+            <guid>https://www.newyorker.com/news/annals-of-education/can-liberty-university-be-saved</guid>
+            <pubDate>Thu, 28 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Can Liberty University Be Saved?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[住房问题的冲突使加州大学伯克利分校与它的邻居们发生冲突]]></title>
+            <link>https://www.newyorker.com/news/q-and-a/a-clash-over-housing-pits-uc-berkeley-against-its-neighbors</link>
+            <guid>https://www.newyorker.com/news/q-and-a/a-clash-over-housing-pits-uc-berkeley-against-its-neighbors</guid>
+            <pubDate>Thu, 28 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[A Clash Over Housing Pits U.C. Berkeley Against Its Neighbors]]></description>
+        </item>
         <item>
             <title><![CDATA[乌克兰的战争是一场殖民战争]]></title>
             <link>https://www.newyorker.com/news/essay/the-war-in-ukraine-is-a-colonial-war</link>
@@ -4192,27 +4213,6 @@
             <guid>https://www.davidhaney.io/tpl-and-error-handling/</guid>
             <pubDate>Sun, 05 Aug 2012 13:39:38 GMT</pubDate>
             <description><![CDATA[TPL and Error Handling]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TPL和错误处理及延续任务]]></title>
-            <link>https://www.davidhaney.io/tpl-and-error-handling-continuations/</link>
-            <guid>https://www.davidhaney.io/tpl-and-error-handling-continuations/</guid>
-            <pubDate>Sun, 12 Aug 2012 23:21:30 GMT</pubDate>
-            <description><![CDATA[TPL and Error Handling & Continuation Tasks]]></description>
-        </item>
-        <item>
-            <title><![CDATA[由MDSN英国博客发布]]></title>
-            <link>https://www.davidhaney.io/published-by-mdsn-uk-blog/</link>
-            <guid>https://www.davidhaney.io/published-by-mdsn-uk-blog/</guid>
-            <pubDate>Sun, 26 Aug 2012 23:49:41 GMT</pubDate>
-            <description><![CDATA[Published by MDSN UK Blog]]></description>
-        </item>
-        <item>
-            <title><![CDATA[乔尔测试真的很有意义]]></title>
-            <link>https://www.davidhaney.io/the-joel-test-really-is-meaningful/</link>
-            <guid>https://www.davidhaney.io/the-joel-test-really-is-meaningful/</guid>
-            <pubDate>Sun, 14 Oct 2012 22:10:54 GMT</pubDate>
-            <description><![CDATA[The Joel Test Really is Meaningful]]></description>
         </item>
     </channel>
 </rss>
