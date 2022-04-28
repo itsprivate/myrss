@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 28 Apr 2022 11:28:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 12:21:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[被困在Facebook上的社區]]></title>
+            <link>https://www.theatlantic.com/culture/archive/2022/04/how-facebook-groups-create-community/629698/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/culture/archive/2022/04/how-facebook-groups-create-community/629698/?utm_source=feed</guid>
+            <pubDate>Thu, 28 Apr 2022 12:00:56 GMT</pubDate>
+            <description><![CDATA[The Communities Trapped on Facebook]]></description>
+        </item>
         <item>
             <title><![CDATA[刑事司法改革需要時間。加州可能已經沒有耐心了。]]></title>
             <link>https://www.theatlantic.com/politics/archive/2022/04/san-francisco-los-angeles-da-recalls/629701/?utm_source=feed</link>
@@ -4206,13 +4213,6 @@
             <guid>https://www.newyorker.com/video/watch/the-dehumanizing-theater-of-the-parole-process</guid>
             <pubDate>Wed, 17 Nov 2021 11:00:00 GMT</pubDate>
             <description><![CDATA[The Dehumanizing Theatre of the Parole Process]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一位烏克蘭法官加入國家的兇猛抵抗行動]]></title>
-            <link>https://www.newyorker.com/news/dispatch/a-ukrainian-judge-joins-the-nations-ferocious-resistance</link>
-            <guid>https://www.newyorker.com/news/dispatch/a-ukrainian-judge-joins-the-nations-ferocious-resistance</guid>
-            <pubDate>Mon, 11 Apr 2022 14:18:01 GMT</pubDate>
-            <description><![CDATA[A Ukrainian Judge Joins the Nation’s Ferocious Resistance]]></description>
         </item>
     </channel>
 </rss>
