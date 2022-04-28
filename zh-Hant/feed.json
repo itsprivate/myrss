@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/technology/archive/2022/04/social-media-shadowbans-tiktok-twitter/629702/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/technology/archive/2022/04/social-media-shadowbans-tiktok-twitter/629702/?utm_source=feed",
+            "title": "影子禁制是大科技公司的大問題",
+            "summary": "Shadowbanning Is Big Tech’s Big Problem",
+            "date_modified": "2022-04-28T13:11:17.000Z",
+            "author": {
+                "name": "Gabriel Nicholas",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/culture/dept-of-design/the-life-and-death-of-the-original-micro-apartments",
             "content_html": "",
             "url": "https://www.newyorker.com/culture/dept-of-design/the-life-and-death-of-the-original-micro-apartments",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Brooke Bourgeois",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/family/archive/2022/04/homeownership-first-house-happiness-psychology/629529/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/family/archive/2022/04/homeownership-first-house-happiness-psychology/629529/?utm_source=feed",
-            "title": "房屋所有權如何改變你",
-            "summary": "How Homeownership Changes You",
-            "date_modified": "2022-04-11T14:33:03.000Z",
-            "author": {
-                "name": "Joe Pinsker",
-                "url": "https://www.theatlantic.com/feed/all/"
             }
         }
     ]

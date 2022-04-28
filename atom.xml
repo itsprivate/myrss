@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-28T13:10:01.735Z</updated>
+    <updated>2022-04-28T13:43:15.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[影子禁制是大科技公司的大问题]]></title>
+        <id>https://www.theatlantic.com/technology/archive/2022/04/social-media-shadowbans-tiktok-twitter/629702/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/technology/archive/2022/04/social-media-shadowbans-tiktok-twitter/629702/?utm_source=feed"/>
+        <updated>2022-04-28T13:11:17.000Z</updated>
+        <summary type="html"><![CDATA[Shadowbanning Is Big Tech’s Big Problem]]></summary>
+        <author>
+            <name>Gabriel Nicholas</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[原有微型公寓的生与死]]></title>
         <id>https://www.newyorker.com/culture/dept-of-design/the-life-and-death-of-the-original-micro-apartments</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Brooke Bourgeois</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[房屋所有权如何改变你]]></title>
-        <id>https://www.theatlantic.com/family/archive/2022/04/homeownership-first-house-happiness-psychology/629529/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/family/archive/2022/04/homeownership-first-house-happiness-psychology/629529/?utm_source=feed"/>
-        <updated>2022-04-11T14:33:03.000Z</updated>
-        <summary type="html"><![CDATA[How Homeownership Changes You]]></summary>
-        <author>
-            <name>Joe Pinsker</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
