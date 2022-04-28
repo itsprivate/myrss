@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-27T23:55:00.140Z</updated>
+    <updated>2022-04-28T01:00:38.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[时事》杂志对幼儿节目《Blippi》的马克思主义批评还不够马克思主义。]]></title>
+        <id>https://astralcodexten.substack.com/p/current-affairs-marxist-critique</id>
+        <link href="https://astralcodexten.substack.com/p/current-affairs-marxist-critique"/>
+        <updated>2022-04-28T00:36:02.000Z</updated>
+        <summary type="html"><![CDATA[Current Affairs' Marxist Critique Of Toddler Show Blippi Isn't Marxist Enough]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最暴力的巴士之旅]]></title>
         <id>https://www.newyorker.com/culture/screening-room/a-most-violent-bus-ride</id>
@@ -6599,17 +6610,6 @@
         <link href="https://www.davidhaney.io/automatically-generate-pocos-from-db-with-t4/"/>
         <updated>2013-10-16T21:35:51.000Z</updated>
         <summary type="html"><![CDATA[Automatically Generate POCOs From DB With T4]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MVC4的条件性HTML属性]]></title>
-        <id>https://www.davidhaney.io/mvc4-conditional-html-attributes/</id>
-        <link href="https://www.davidhaney.io/mvc4-conditional-html-attributes/"/>
-        <updated>2013-11-27T00:34:25.000Z</updated>
-        <summary type="html"><![CDATA[MVC4 Conditional HTML Attributes]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>

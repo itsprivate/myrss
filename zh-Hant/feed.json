@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://astralcodexten.substack.com/p/current-affairs-marxist-critique",
+            "content_html": "",
+            "url": "https://astralcodexten.substack.com/p/current-affairs-marxist-critique",
+            "title": "時事》雜誌對幼兒節目《Blippi》的馬克思主義批評還不夠馬克思主義。",
+            "summary": "Current Affairs' Marxist Critique Of Toddler Show Blippi Isn't Marxist Enough",
+            "date_modified": "2022-04-28T00:36:02.000Z",
+            "author": {
+                "name": "Scott Alexander",
+                "url": "https://astralcodexten.substack.com/feed"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/culture/screening-room/a-most-violent-bus-ride",
             "content_html": "",
             "url": "https://www.newyorker.com/culture/screening-room/a-most-violent-bus-ride",
@@ -7193,18 +7205,6 @@
             "title": "用T4從數據庫中自動生成POCOs",
             "summary": "Automatically Generate POCOs From DB With T4",
             "date_modified": "2013-10-16T21:35:51.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/mvc4-conditional-html-attributes/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/mvc4-conditional-html-attributes/",
-            "title": "MVC4的條件性HTML屬性",
-            "summary": "MVC4 Conditional HTML Attributes",
-            "date_modified": "2013-11-27T00:34:25.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"
