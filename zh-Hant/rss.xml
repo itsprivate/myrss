@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 28 Apr 2022 09:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 10:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,76 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[烏克蘭的戰爭是一場殖民戰爭]]></title>
+            <link>https://www.newyorker.com/news/essay/the-war-in-ukraine-is-a-colonial-war</link>
+            <guid>https://www.newyorker.com/news/essay/the-war-in-ukraine-is-a-colonial-war</guid>
+            <pubDate>Thu, 28 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The War in Ukraine Is a Colonial War]]></description>
+        </item>
+        <item>
+            <title><![CDATA[落名：2022年4月28日，星期四]]></title>
+            <link>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/28</link>
+            <guid>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/28</guid>
+            <pubDate>Thu, 28 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Name Drop: Thursday, April 28, 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如果我不回覆 "打錯電話 "而忽略未知號碼的短信可能發生的事情]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/things-that-might-happen-if-i-ignore-a-text-from-an-unknown-number-instead-of-responding-wrong-number</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/things-that-might-happen-if-i-ignore-a-text-from-an-unknown-number-instead-of-responding-wrong-number</guid>
+            <pubDate>Thu, 28 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Things That Might Happen if I Ignore a Text from an Unknown Number Instead of Responding “Wrong Number”]]></description>
+        </item>
+        <item>
+            <title><![CDATA[填字遊戲: 2022年4月28日，星期四]]></title>
+            <link>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/28</link>
+            <guid>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/28</guid>
+            <pubDate>Thu, 28 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Crossword: Thursday, April 28, 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[自由大學能被拯救嗎？]]></title>
+            <link>https://www.newyorker.com/news/annals-of-education/can-liberty-university-be-saved</link>
+            <guid>https://www.newyorker.com/news/annals-of-education/can-liberty-university-be-saved</guid>
+            <pubDate>Thu, 28 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Can Liberty University Be Saved?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[住房問題的衝突使加州大學伯克利分校與它的鄰居們發生衝突]]></title>
+            <link>https://www.newyorker.com/news/q-and-a/a-clash-over-housing-pits-uc-berkeley-against-its-neighbors</link>
+            <guid>https://www.newyorker.com/news/q-and-a/a-clash-over-housing-pits-uc-berkeley-against-its-neighbors</guid>
+            <pubDate>Thu, 28 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[A Clash Over Housing Pits U.C. Berkeley Against Its Neighbors]]></description>
+        </item>
+        <item>
+            <title><![CDATA[什麼才是真正的取消文化？]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/cancel-culture-debate-needs-greater-specificity/629654/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/cancel-culture-debate-needs-greater-specificity/629654/?utm_source=feed</guid>
+            <pubDate>Thu, 28 Apr 2022 10:00:56 GMT</pubDate>
+            <description><![CDATA[What Actually Counts as Cancel Culture?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[他們稱她為 "黑噴氣"。]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/joetha-collier-killing-mississippi/629668/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/joetha-collier-killing-mississippi/629668/?utm_source=feed</guid>
+            <pubDate>Thu, 28 Apr 2022 10:00:56 GMT</pubDate>
+            <description><![CDATA[They Called Her ‘Black Jet’]]></description>
+        </item>
+        <item>
+            <title><![CDATA[永遠不要驚慌失措]]></title>
+            <link>https://www.theatlantic.com/family/archive/2022/04/how-to-manage-emotions-and-reactions/629692/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/family/archive/2022/04/how-to-manage-emotions-and-reactions/629692/?utm_source=feed</guid>
+            <pubDate>Thu, 28 Apr 2022 10:00:57 GMT</pubDate>
+            <description><![CDATA[Never Freak Out]]></description>
+        </item>
+        <item>
+            <title><![CDATA[免除學生貸款並不能解決很多問題]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/04/should-biden-forgive-student-loan-debt/629700/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/04/should-biden-forgive-student-loan-debt/629700/?utm_source=feed</guid>
+            <pubDate>Thu, 28 Apr 2022 10:00:57 GMT</pubDate>
+            <description><![CDATA[Student-Loan Forgiveness Wouldn’t Solve Much]]></description>
+        </item>
         <item>
             <title><![CDATA[我們創造了大流行]]></title>
             <link>https://www.theatlantic.com/science/archive/2022/04/how-climate-change-impacts-pandemics/629699/?utm_source=feed</link>
@@ -4143,76 +4213,6 @@
             <guid>https://www.davidhaney.io/the-joel-test-really-is-meaningful/</guid>
             <pubDate>Sun, 14 Oct 2012 22:10:54 GMT</pubDate>
             <description><![CDATA[The Joel Test Really is Meaningful]]></description>
-        </item>
-        <item>
-            <title><![CDATA[靜態 vs 實例 string.Equals]]></title>
-            <link>https://www.davidhaney.io/stats-vs-reference-string-equals/</link>
-            <guid>https://www.davidhaney.io/stats-vs-reference-string-equals/</guid>
-            <pubDate>Mon, 22 Oct 2012 14:57:14 GMT</pubDate>
-            <description><![CDATA[Static vs Instance string.Equals]]></description>
-        </item>
-        <item>
-            <title><![CDATA[靜態 vs 實例 string.Equals Benchmark]]></title>
-            <link>https://www.davidhaney.io/static-vs-instance-string-equals-benchmark/</link>
-            <guid>https://www.davidhaney.io/static-vs-instance-string-equals-benchmark/</guid>
-            <pubDate>Wed, 24 Oct 2012 16:57:14 GMT</pubDate>
-            <description><![CDATA[Static vs Instance string.Equals Benchmark]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Visual Studio 2012 Intellisense不工作 - 已解決]]></title>
-            <link>https://www.davidhaney.io/visual-studio-2012-intellisense-not-working-solved/</link>
-            <guid>https://www.davidhaney.io/visual-studio-2012-intellisense-not-working-solved/</guid>
-            <pubDate>Tue, 20 Nov 2012 21:12:41 GMT</pubDate>
-            <description><![CDATA[Visual Studio 2012 Intellisense Not Working - SOLVED]]></description>
-        </item>
-        <item>
-            <title><![CDATA[但它並沒有發生在開發或QA中!]]></title>
-            <link>https://www.davidhaney.io/but-it-didnt-happen-in-dev-or-qa/</link>
-            <guid>https://www.davidhaney.io/but-it-didnt-happen-in-dev-or-qa/</guid>
-            <pubDate>Sun, 02 Dec 2012 17:22:20 GMT</pubDate>
-            <description><![CDATA[But it Didn't Happen in DEV or QA!]]></description>
-        </item>
-        <item>
-            <title><![CDATA[由紅門出版]]></title>
-            <link>https://www.davidhaney.io/published-by-red-gate/</link>
-            <guid>https://www.davidhaney.io/published-by-red-gate/</guid>
-            <pubDate>Fri, 18 Jan 2013 15:10:04 GMT</pubDate>
-            <description><![CDATA[Published by Red Gate]]></description>
-        </item>
-        <item>
-            <title><![CDATA[根據文件名確定MIME類型]]></title>
-            <link>https://www.davidhaney.io/determine-mime-type-from-file-name/</link>
-            <guid>https://www.davidhaney.io/determine-mime-type-from-file-name/</guid>
-            <pubDate>Mon, 11 Feb 2013 15:15:46 GMT</pubDate>
-            <description><![CDATA[Determine MIME Type from File Name]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一個更好的MIME映射竊取器!]]></title>
-            <link>https://www.davidhaney.io/a-better-mime-mapping-stealer/</link>
-            <guid>https://www.davidhaney.io/a-better-mime-mapping-stealer/</guid>
-            <pubDate>Tue, 12 Feb 2013 12:07:12 GMT</pubDate>
-            <description><![CDATA[A Better MIME Mapping Stealer!]]></description>
-        </item>
-        <item>
-            <title><![CDATA[讓多讀、少寫的清單更有效率]]></title>
-            <link>https://www.davidhaney.io/make-mostly-read-seldom-written-lists-much-more-efficient/</link>
-            <guid>https://www.davidhaney.io/make-mostly-read-seldom-written-lists-much-more-efficient/</guid>
-            <pubDate>Fri, 15 Mar 2013 17:11:42 GMT</pubDate>
-            <description><![CDATA[Make Mostly Read, Seldom-Written Lists Much More Efficient]]></description>
-        </item>
-        <item>
-            <title><![CDATA[關於列表二進制搜索的另一件事]]></title>
-            <link>https://www.davidhaney.io/one-more-thing-about-list-binary-search/</link>
-            <guid>https://www.davidhaney.io/one-more-thing-about-list-binary-search/</guid>
-            <pubDate>Sat, 30 Mar 2013 15:36:24 GMT</pubDate>
-            <description><![CDATA[One More Thing About List Binary Search]]></description>
-        </item>
-        <item>
-            <title><![CDATA[仿製藥比較器]]></title>
-            <link>https://www.davidhaney.io/generic-comparer/</link>
-            <guid>https://www.davidhaney.io/generic-comparer/</guid>
-            <pubDate>Mon, 22 Apr 2013 14:53:17 GMT</pubDate>
-            <description><![CDATA[Generic Comparer]]></description>
         </item>
     </channel>
 </rss>

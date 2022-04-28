@@ -11,6 +11,126 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/essay/the-war-in-ukraine-is-a-colonial-war",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/essay/the-war-in-ukraine-is-a-colonial-war",
+            "title": "乌克兰的战争是一场殖民战争",
+            "summary": "The War in Ukraine Is a Colonial War",
+            "date_modified": "2022-04-28T10:00:00.000Z",
+            "author": {
+                "name": "Timothy Snyder",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/28",
+            "content_html": "",
+            "url": "https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/28",
+            "title": "落名：2022年4月28日，星期四",
+            "summary": "Name Drop: Thursday, April 28, 2022",
+            "date_modified": "2022-04-28T10:00:00.000Z",
+            "author": {
+                "name": "Matt Jackson",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/humor/daily-shouts/things-that-might-happen-if-i-ignore-a-text-from-an-unknown-number-instead-of-responding-wrong-number",
+            "content_html": "",
+            "url": "https://www.newyorker.com/humor/daily-shouts/things-that-might-happen-if-i-ignore-a-text-from-an-unknown-number-instead-of-responding-wrong-number",
+            "title": "如果我不回复 \"打错电话 \"而忽略未知号码的短信可能发生的事情",
+            "summary": "Things That Might Happen if I Ignore a Text from an Unknown Number Instead of Responding “Wrong Number”",
+            "date_modified": "2022-04-28T10:00:00.000Z",
+            "author": {
+                "name": "Rima Parikh",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/28",
+            "content_html": "",
+            "url": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/28",
+            "title": "填字游戏: 2022年4月28日，星期四",
+            "summary": "The Crossword: Thursday, April 28, 2022",
+            "date_modified": "2022-04-28T10:00:00.000Z",
+            "author": {
+                "name": "Caitlin Reid",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/annals-of-education/can-liberty-university-be-saved",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/annals-of-education/can-liberty-university-be-saved",
+            "title": "自由大学能被拯救吗？",
+            "summary": "Can Liberty University Be Saved?",
+            "date_modified": "2022-04-28T10:00:00.000Z",
+            "author": {
+                "name": "Megan K. Stack",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/q-and-a/a-clash-over-housing-pits-uc-berkeley-against-its-neighbors",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/q-and-a/a-clash-over-housing-pits-uc-berkeley-against-its-neighbors",
+            "title": "住房问题的冲突使加州大学伯克利分校与它的邻居们发生冲突",
+            "summary": "A Clash Over Housing Pits U.C. Berkeley Against Its Neighbors",
+            "date_modified": "2022-04-28T10:00:00.000Z",
+            "author": {
+                "name": "Isaac Chotiner",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/04/cancel-culture-debate-needs-greater-specificity/629654/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/04/cancel-culture-debate-needs-greater-specificity/629654/?utm_source=feed",
+            "title": "什么才是真正的取消文化？",
+            "summary": "What Actually Counts as Cancel Culture?",
+            "date_modified": "2022-04-28T10:00:56.000Z",
+            "author": {
+                "name": "Conor Friedersdorf",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/04/joetha-collier-killing-mississippi/629668/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/04/joetha-collier-killing-mississippi/629668/?utm_source=feed",
+            "title": "他们称她为 \"黑喷气\"。",
+            "summary": "They Called Her ‘Black Jet’",
+            "date_modified": "2022-04-28T10:00:56.000Z",
+            "author": {
+                "name": "Keisha N. Blain",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/family/archive/2022/04/how-to-manage-emotions-and-reactions/629692/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/family/archive/2022/04/how-to-manage-emotions-and-reactions/629692/?utm_source=feed",
+            "title": "永远不要惊慌失措",
+            "summary": "Never Freak Out",
+            "date_modified": "2022-04-28T10:00:57.000Z",
+            "author": {
+                "name": "Arthur C. Brooks",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/04/should-biden-forgive-student-loan-debt/629700/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/04/should-biden-forgive-student-loan-debt/629700/?utm_source=feed",
+            "title": "免除学生贷款并不能解决很多问题",
+            "summary": "Student-Loan Forgiveness Wouldn’t Solve Much",
+            "date_modified": "2022-04-28T10:00:57.000Z",
+            "author": {
+                "name": "Jerusalem Demsas",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/science/archive/2022/04/how-climate-change-impacts-pandemics/629699/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/science/archive/2022/04/how-climate-change-impacts-pandemics/629699/?utm_source=feed",
@@ -7085,126 +7205,6 @@
             "title": "乔尔测试真的很有意义",
             "summary": "The Joel Test Really is Meaningful",
             "date_modified": "2012-10-14T22:10:54.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/stats-vs-reference-string-equals/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/stats-vs-reference-string-equals/",
-            "title": "静态 vs 实例 string.Equals",
-            "summary": "Static vs Instance string.Equals",
-            "date_modified": "2012-10-22T14:57:14.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/static-vs-instance-string-equals-benchmark/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/static-vs-instance-string-equals-benchmark/",
-            "title": "静态 vs 实例 string.Equals Benchmark",
-            "summary": "Static vs Instance string.Equals Benchmark",
-            "date_modified": "2012-10-24T16:57:14.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/visual-studio-2012-intellisense-not-working-solved/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/visual-studio-2012-intellisense-not-working-solved/",
-            "title": "Visual Studio 2012 Intellisense不工作 - 已解决",
-            "summary": "Visual Studio 2012 Intellisense Not Working - SOLVED",
-            "date_modified": "2012-11-20T21:12:41.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/but-it-didnt-happen-in-dev-or-qa/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/but-it-didnt-happen-in-dev-or-qa/",
-            "title": "但它并没有发生在开发或QA中!",
-            "summary": "But it Didn't Happen in DEV or QA!",
-            "date_modified": "2012-12-02T17:22:20.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/published-by-red-gate/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/published-by-red-gate/",
-            "title": "由红门出版",
-            "summary": "Published by Red Gate",
-            "date_modified": "2013-01-18T15:10:04.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/determine-mime-type-from-file-name/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/determine-mime-type-from-file-name/",
-            "title": "根据文件名确定MIME类型",
-            "summary": "Determine MIME Type from File Name",
-            "date_modified": "2013-02-11T15:15:46.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/a-better-mime-mapping-stealer/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/a-better-mime-mapping-stealer/",
-            "title": "一个更好的MIME映射窃取器!",
-            "summary": "A Better MIME Mapping Stealer!",
-            "date_modified": "2013-02-12T12:07:12.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/make-mostly-read-seldom-written-lists-much-more-efficient/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/make-mostly-read-seldom-written-lists-much-more-efficient/",
-            "title": "让多读、少写的清单更有效率",
-            "summary": "Make Mostly Read, Seldom-Written Lists Much More Efficient",
-            "date_modified": "2013-03-15T17:11:42.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/one-more-thing-about-list-binary-search/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/one-more-thing-about-list-binary-search/",
-            "title": "关于列表二进制搜索的另一件事",
-            "summary": "One More Thing About List Binary Search",
-            "date_modified": "2013-03-30T15:36:24.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.davidhaney.io/index.xml"
-            }
-        },
-        {
-            "id": "https://www.davidhaney.io/generic-comparer/",
-            "content_html": "",
-            "url": "https://www.davidhaney.io/generic-comparer/",
-            "title": "仿制药比较器",
-            "summary": "Generic Comparer",
-            "date_modified": "2013-04-22T14:53:17.000Z",
             "author": {
                 "name": "unknown",
                 "url": "https://www.davidhaney.io/index.xml"
