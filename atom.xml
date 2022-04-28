@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-28T12:21:50.894Z</updated>
+    <updated>2022-04-28T13:10:01.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[原有微型公寓的生与死]]></title>
+        <id>https://www.newyorker.com/culture/dept-of-design/the-life-and-death-of-the-original-micro-apartments</id>
+        <link href="https://www.newyorker.com/culture/dept-of-design/the-life-and-death-of-the-original-micro-apartments"/>
+        <updated>2022-04-28T12:20:11.000Z</updated>
+        <summary type="html"><![CDATA[The Life and Death of the Original Micro-Apartments]]></summary>
+        <author>
+            <name>Kyle Chayka</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在埃隆-马斯克准备接管时，Twitter报告了收入和用户的增长。]]></title>
+        <id>https://www.nytimes.com/2022/04/28/technology/twitter-first-quarter-earnings-elon-musk.html</id>
+        <link href="https://www.nytimes.com/2022/04/28/technology/twitter-first-quarter-earnings-elon-musk.html"/>
+        <updated>2022-04-28T12:34:21.000Z</updated>
+        <summary type="html"><![CDATA[Twitter reports growth in revenue and users as Elon Musk prepares to take over.]]></summary>
+        <author>
+            <name>Mike Isaac and Adam Satariano</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[被困在Facebook上的社区]]></title>
         <id>https://www.theatlantic.com/culture/archive/2022/04/how-facebook-groups-create-community/629698/?utm_source=feed</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Joe Pinsker</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[清算尚未到来]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/04/europe-russia-ukraine-art-zelensky-putin/629530/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/04/europe-russia-ukraine-art-zelensky-putin/629530/?utm_source=feed"/>
-        <updated>2022-04-11T14:41:39.000Z</updated>
-        <summary type="html"><![CDATA[The Reckoning Is Yet to Come]]></summary>
-        <author>
-            <name>Marc Weitzmann</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[假释程序的非人化戏剧]]></title>
-        <id>https://www.newyorker.com/video/watch/the-dehumanizing-theater-of-the-parole-process</id>
-        <link href="https://www.newyorker.com/video/watch/the-dehumanizing-theater-of-the-parole-process"/>
-        <updated>2021-11-17T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Dehumanizing Theatre of the Parole Process]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
 </feed>
