@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-02T14:55:49.449Z</updated>
+    <updated>2022-06-02T15:59:15.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每日漫畫。6月2日，星期四
+]]></title>
+        <id>https://www.newyorker.com/cartoons/daily-cartoon/thursday-june-2nd-summer-wedding-park</id>
+        <link href="https://www.newyorker.com/cartoons/daily-cartoon/thursday-june-2nd-summer-wedding-park"/>
+        <updated>2022-06-02T15:09:30.000Z</updated>
+        <summary type="html"><![CDATA[Daily Cartoon: Thursday, June 2nd]]></summary>
+        <author>
+            <name>Brendan Loper</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Passionflix，托斯卡-馬斯克播放 "腳趾捲曲的美味 "的節目
+]]></title>
+        <id>https://www.nytimes.com/2022/06/02/business/media/tosca-musk-passionflix.html</id>
+        <link href="https://www.nytimes.com/2022/06/02/business/media/tosca-musk-passionflix.html"/>
+        <updated>2022-06-02T13:00:18.000Z</updated>
+        <summary type="html"><![CDATA[At Passionflix, Tosca Musk Streams Shows of ‘Toe Curling Yumminess’]]></summary>
+        <author>
+            <name>Brooks Barnes</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[路易斯王子在女王慶典的天橋上。一段旅程
+]]></title>
+        <id>https://www.theatlantic.com/photo/2022/06/queen-elizabeth-platinum-jubilee-photos-prince-louis/661165/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/photo/2022/06/queen-elizabeth-platinum-jubilee-photos-prince-louis/661165/?utm_source=feed"/>
+        <updated>2022-06-02T15:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Prince Louis at the Queen’s Jubilee Flyover: A Journey]]></summary>
+        <author>
+            <name>Alan Taylor</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[德普-赫德的判決令人心寒
 ]]></title>
@@ -6581,39 +6617,6 @@
         <summary type="html"><![CDATA[With Father-and-Son Writers, Who Gets to Tell the Family Story?]]></summary>
         <author>
             <name>Tad Friend</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英國廣播公司能否在英國政府中生存？]]></title>
-        <id>https://www.newyorker.com/magazine/2022/04/18/can-the-bbc-survive-the-british-government</id>
-        <link href="https://www.newyorker.com/magazine/2022/04/18/can-the-bbc-survive-the-british-government"/>
-        <updated>2022-04-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Can the BBC Survive the British Government?]]></summary>
-        <author>
-            <name>Sam Knight</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[佛羅里達州的一個湖泊為保護自己而起訴]]></title>
-        <id>https://www.newyorker.com/magazine/2022/04/18/a-lake-in-florida-suing-to-protect-itself</id>
-        <link href="https://www.newyorker.com/magazine/2022/04/18/a-lake-in-florida-suing-to-protect-itself"/>
-        <updated>2022-04-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A Lake in Florida Suing to Protect Itself]]></summary>
-        <author>
-            <name>Elizabeth Kolbert</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大屠殺紀念館因另一場戰爭而解體]]></title>
-        <id>https://www.newyorker.com/magazine/2022/04/18/the-holocaust-memorial-undone-by-another-war</id>
-        <link href="https://www.newyorker.com/magazine/2022/04/18/the-holocaust-memorial-undone-by-another-war"/>
-        <updated>2022-04-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Holocaust Memorial Undone by Another War]]></summary>
-        <author>
-            <name>Masha Gessen</name>
             <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>

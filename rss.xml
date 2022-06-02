@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 02 Jun 2022 14:55:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 15:59:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[每日漫画。6月2日，星期四
+]]></title>
+            <link>https://www.newyorker.com/cartoons/daily-cartoon/thursday-june-2nd-summer-wedding-park</link>
+            <guid>https://www.newyorker.com/cartoons/daily-cartoon/thursday-june-2nd-summer-wedding-park</guid>
+            <pubDate>Thu, 02 Jun 2022 15:09:30 GMT</pubDate>
+            <description><![CDATA[Daily Cartoon: Thursday, June 2nd]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在Passionflix，托斯卡-马斯克播放 "脚趾卷曲的美味 "的节目
+]]></title>
+            <link>https://www.nytimes.com/2022/06/02/business/media/tosca-musk-passionflix.html</link>
+            <guid>https://www.nytimes.com/2022/06/02/business/media/tosca-musk-passionflix.html</guid>
+            <pubDate>Thu, 02 Jun 2022 13:00:18 GMT</pubDate>
+            <description><![CDATA[At Passionflix, Tosca Musk Streams Shows of ‘Toe Curling Yumminess’]]></description>
+        </item>
+        <item>
+            <title><![CDATA[路易斯王子在女王庆典的天桥上。一段旅程
+]]></title>
+            <link>https://www.theatlantic.com/photo/2022/06/queen-elizabeth-platinum-jubilee-photos-prince-louis/661165/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/photo/2022/06/queen-elizabeth-platinum-jubilee-photos-prince-louis/661165/?utm_source=feed</guid>
+            <pubDate>Thu, 02 Jun 2022 15:30:10 GMT</pubDate>
+            <description><![CDATA[Prince Louis at the Queen’s Jubilee Flyover: A Journey]]></description>
+        </item>
         <item>
             <title><![CDATA[德普-赫德的判决令人心寒
 ]]></title>
@@ -4194,27 +4218,6 @@
             <guid>https://www.newyorker.com/magazine/2022/04/18/with-father-and-son-writers-who-gets-to-tell-the-family-story</guid>
             <pubDate>Mon, 11 Apr 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[With Father-and-Son Writers, Who Gets to Tell the Family Story?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[英国广播公司能否在英国政府中生存？]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/18/can-the-bbc-survive-the-british-government</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/18/can-the-bbc-survive-the-british-government</guid>
-            <pubDate>Mon, 11 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Can the BBC Survive the British Government?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[佛罗里达州的一个湖泊为保护自己而起诉]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/18/a-lake-in-florida-suing-to-protect-itself</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/18/a-lake-in-florida-suing-to-protect-itself</guid>
-            <pubDate>Mon, 11 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[A Lake in Florida Suing to Protect Itself]]></description>
-        </item>
-        <item>
-            <title><![CDATA[大屠杀纪念馆因另一场战争而解体]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/18/the-holocaust-memorial-undone-by-another-war</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/18/the-holocaust-memorial-undone-by-another-war</guid>
-            <pubDate>Mon, 11 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Holocaust Memorial Undone by Another War]]></description>
         </item>
     </channel>
 </rss>
