@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 02 Jun 2022 19:27:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 20:47:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[乌瓦德现在会发生什么？
+]]></title>
+            <link>https://www.theatlantic.com/books/archive/2022/06/uvalde-texas-shooting-sandy-hook-lessons-book/661171/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/books/archive/2022/06/uvalde-texas-shooting-sandy-hook-lessons-book/661171/?utm_source=feed</guid>
+            <pubDate>Thu, 02 Jun 2022 20:23:31 GMT</pubDate>
+            <description><![CDATA[What Will Happen to Uvalde Now?]]></description>
+        </item>
         <item>
             <title><![CDATA[隐秘的公开主题226.5
 ]]></title>
@@ -4222,13 +4230,6 @@
             <guid>https://noahpinion.substack.com/p/democrats-need-to-run-on-the-war</guid>
             <pubDate>Tue, 12 Apr 2022 03:49:09 GMT</pubDate>
             <description><![CDATA[Democrats need to run on the war]]></description>
-        </item>
-        <item>
-            <title><![CDATA["救护车"，评论。迈克尔-贝扮演他自己]]></title>
-            <link>https://www.newyorker.com/culture/the-front-row/ambulance-reviewed-michael-bay-plays-himself</link>
-            <guid>https://www.newyorker.com/culture/the-front-row/ambulance-reviewed-michael-bay-plays-himself</guid>
-            <pubDate>Tue, 12 Apr 2022 00:05:57 GMT</pubDate>
-            <description><![CDATA[“Ambulance,” Reviewed: Michael Bay Plays Himself]]></description>
         </item>
     </channel>
 </rss>

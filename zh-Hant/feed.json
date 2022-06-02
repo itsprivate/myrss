@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/books/archive/2022/06/uvalde-texas-shooting-sandy-hook-lessons-book/661171/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/books/archive/2022/06/uvalde-texas-shooting-sandy-hook-lessons-book/661171/?utm_source=feed",
+            "title": "烏瓦德現在會發生什麼？\n",
+            "summary": "What Will Happen to Uvalde Now?",
+            "date_modified": "2022-06-02T20:23:31.000Z",
+            "author": {
+                "name": "Elizabeth Williamson",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://astralcodexten.substack.com/p/hidden-open-thread-2265",
             "content_html": "",
             "url": "https://astralcodexten.substack.com/p/hidden-open-thread-2265",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Noah Smith",
                 "url": "https://noahpinion.substack.com/feed"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/culture/the-front-row/ambulance-reviewed-michael-bay-plays-himself",
-            "content_html": "",
-            "url": "https://www.newyorker.com/culture/the-front-row/ambulance-reviewed-michael-bay-plays-himself",
-            "title": "\"救護車\"，評論。邁克爾-貝扮演他自己",
-            "summary": "“Ambulance,” Reviewed: Michael Bay Plays Himself",
-            "date_modified": "2022-04-12T00:05:57.000Z",
-            "author": {
-                "name": "Richard Brody",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]

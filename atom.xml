@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-02T19:27:49.094Z</updated>
+    <updated>2022-06-02T20:47:25.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[乌瓦德现在会发生什么？
+]]></title>
+        <id>https://www.theatlantic.com/books/archive/2022/06/uvalde-texas-shooting-sandy-hook-lessons-book/661171/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/books/archive/2022/06/uvalde-texas-shooting-sandy-hook-lessons-book/661171/?utm_source=feed"/>
+        <updated>2022-06-02T20:23:31.000Z</updated>
+        <summary type="html"><![CDATA[What Will Happen to Uvalde Now?]]></summary>
+        <author>
+            <name>Elizabeth Williamson</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[隐秘的公开主题226.5
 ]]></title>
@@ -6618,17 +6630,6 @@
         <author>
             <name>Noah Smith</name>
             <uri>https://noahpinion.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["救护车"，评论。迈克尔-贝扮演他自己]]></title>
-        <id>https://www.newyorker.com/culture/the-front-row/ambulance-reviewed-michael-bay-plays-himself</id>
-        <link href="https://www.newyorker.com/culture/the-front-row/ambulance-reviewed-michael-bay-plays-himself"/>
-        <updated>2022-04-12T00:05:57.000Z</updated>
-        <summary type="html"><![CDATA[“Ambulance,” Reviewed: Michael Bay Plays Himself]]></summary>
-        <author>
-            <name>Richard Brody</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
