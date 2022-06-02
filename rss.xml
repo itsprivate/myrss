@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 02 Jun 2022 18:01:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 18:40:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[不，安-库尔特，我不对 "大替换 "理论负责。
+]]></title>
+            <link>https://www.theatlantic.com/politics/archive/2022/06/great-replacement-theory-demographic-change-remaking-america/661168/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/politics/archive/2022/06/great-replacement-theory-demographic-change-remaking-america/661168/?utm_source=feed</guid>
+            <pubDate>Thu, 02 Jun 2022 18:01:56 GMT</pubDate>
+            <description><![CDATA[No, Ann Coulter, I Am Not Responsible for the ‘Great Replacement’ Theory]]></description>
+        </item>
         <item>
             <title><![CDATA[想象一个身体：变性男人的第二个青春期
 ]]></title>
@@ -4218,13 +4226,6 @@
             <guid>https://www.nytimes.com/2022/04/11/technology/twitter-elon-musk-problem.html</guid>
             <pubDate>Mon, 11 Apr 2022 21:29:45 GMT</pubDate>
             <description><![CDATA[Twitter Grapples With an Elon Musk Problem]]></description>
-        </item>
-        <item>
-            <title><![CDATA[安妮塔-希尔和简-梅尔谈凯坦吉-布朗-杰克逊和最高法院的状况]]></title>
-            <link>https://www.newyorker.com/podcast/politics-and-more/anita-hill-and-jane-mayer-on-ketanji-brown-jackson-and-the-state-of-the-supreme-court</link>
-            <guid>https://www.newyorker.com/podcast/politics-and-more/anita-hill-and-jane-mayer-on-ketanji-brown-jackson-and-the-state-of-the-supreme-court</guid>
-            <pubDate>Mon, 11 Apr 2022 20:00:00 GMT</pubDate>
-            <description><![CDATA[Anita Hill and Jane Mayer on Ketanji Brown Jackson and the State of the Supreme Court]]></description>
         </item>
     </channel>
 </rss>

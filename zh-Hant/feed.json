@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/politics/archive/2022/06/great-replacement-theory-demographic-change-remaking-america/661168/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/politics/archive/2022/06/great-replacement-theory-demographic-change-remaking-america/661168/?utm_source=feed",
+            "title": "不，安-庫爾特，我不對 \"大替換 \"理論負責。\n",
+            "summary": "No, Ann Coulter, I Am Not Responsible for the ‘Great Replacement’ Theory",
+            "date_modified": "2022-06-02T18:01:56.000Z",
+            "author": {
+                "name": "Ronald Brownstein",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/video/watch/the-second-puberty-of-trans-men",
             "content_html": "",
             "url": "https://www.newyorker.com/video/watch/the-second-puberty-of-trans-men",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Mike Isaac and Kate Conger",
                 "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/podcast/politics-and-more/anita-hill-and-jane-mayer-on-ketanji-brown-jackson-and-the-state-of-the-supreme-court",
-            "content_html": "",
-            "url": "https://www.newyorker.com/podcast/politics-and-more/anita-hill-and-jane-mayer-on-ketanji-brown-jackson-and-the-state-of-the-supreme-court",
-            "title": "安妮塔-希爾和簡-梅爾談凱坦吉-布朗-傑克遜和最高法院的狀況",
-            "summary": "Anita Hill and Jane Mayer on Ketanji Brown Jackson and the State of the Supreme Court",
-            "date_modified": "2022-04-11T20:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]

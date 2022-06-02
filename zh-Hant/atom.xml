@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-02T18:01:47.326Z</updated>
+    <updated>2022-06-02T18:40:22.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不，安-庫爾特，我不對 "大替換 "理論負責。
+]]></title>
+        <id>https://www.theatlantic.com/politics/archive/2022/06/great-replacement-theory-demographic-change-remaking-america/661168/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/politics/archive/2022/06/great-replacement-theory-demographic-change-remaking-america/661168/?utm_source=feed"/>
+        <updated>2022-06-02T18:01:56.000Z</updated>
+        <summary type="html"><![CDATA[No, Ann Coulter, I Am Not Responsible for the ‘Great Replacement’ Theory]]></summary>
+        <author>
+            <name>Ronald Brownstein</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[想象一個身體：變性男人的第二個青春期
 ]]></title>
@@ -6614,17 +6626,6 @@
         <author>
             <name>Mike Isaac and Kate Conger</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安妮塔-希爾和簡-梅爾談凱坦吉-布朗-傑克遜和最高法院的狀況]]></title>
-        <id>https://www.newyorker.com/podcast/politics-and-more/anita-hill-and-jane-mayer-on-ketanji-brown-jackson-and-the-state-of-the-supreme-court</id>
-        <link href="https://www.newyorker.com/podcast/politics-and-more/anita-hill-and-jane-mayer-on-ketanji-brown-jackson-and-the-state-of-the-supreme-court"/>
-        <updated>2022-04-11T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Anita Hill and Jane Mayer on Ketanji Brown Jackson and the State of the Supreme Court]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
