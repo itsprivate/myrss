@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-02T22:00:22.804Z</updated>
+    <updated>2022-06-02T22:47:28.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[德里女孩》的创作者如何在动荡的时代找到幽默感
+]]></title>
+        <id>https://www.newyorker.com/culture/persons-of-interest/how-the-creator-of-derry-girls-found-humor-in-a-troubled-time</id>
+        <link href="https://www.newyorker.com/culture/persons-of-interest/how-the-creator-of-derry-girls-found-humor-in-a-troubled-time"/>
+        <updated>2022-06-02T22:11:48.000Z</updated>
+        <summary type="html"><![CDATA[How the Creator of “Derry Girls” Found Humor in a Troubled Time]]></summary>
+        <author>
+            <name>Anna Russell</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第一修正案将在 "德普诉赫德 "案中幸存下来
 ]]></title>
@@ -6620,17 +6632,6 @@
         <summary type="html"><![CDATA[Surviving the Standoff with the Republic of Texas]]></summary>
         <author>
             <name>Rachel Monroe</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欢迎来到 "焦土森林"--千禧一代的退休社区]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/welcome-to-scorched-forest-a-retirement-community-for-millennials</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/welcome-to-scorched-forest-a-retirement-community-for-millennials"/>
-        <updated>2022-04-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to Scorched Forest, a Retirement Community for Millennials]]></summary>
-        <author>
-            <name>Cara Michelle Smith</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
