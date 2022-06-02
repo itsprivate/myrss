@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/06/02/technology/meta-zuckerberg-successor-facebook.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/06/02/technology/meta-zuckerberg-successor-facebook.html",
+            "title": "誰是馬克-扎克伯格的新二號人物？這是個騙人的問題。\n",
+            "summary": "Who Is Mark Zuckerberg’s New No. 2? It’s a Trick Question.",
+            "date_modified": "2022-06-02T23:19:00.000Z",
+            "author": {
+                "name": "Sheera Frenkel and Mike Isaac",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/culture/the-front-row/the-netflix-hit-rrr-is-a-political-screed-an-action-bonanza-and-an-exhilarating-musical",
             "content_html": "",
             "url": "https://www.newyorker.com/culture/the-front-row/the-netflix-hit-rrr-is-a-political-screed-an-action-bonanza-and-an-exhilarating-musical",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Abigail Pogrebin",
                 "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/12",
-            "content_html": "",
-            "url": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/12",
-            "title": "填字遊戲: 2022年4月12日，星期二",
-            "summary": "The Crossword: Tuesday, April 12, 2022",
-            "date_modified": "2022-04-12T10:00:00.000Z",
-            "author": {
-                "name": "Erik Agard",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]

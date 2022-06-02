@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-02T22:59:36.037Z</updated>
+    <updated>2022-06-02T23:30:48.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[誰是馬克-扎克伯格的新二號人物？這是個騙人的問題。
+]]></title>
+        <id>https://www.nytimes.com/2022/06/02/technology/meta-zuckerberg-successor-facebook.html</id>
+        <link href="https://www.nytimes.com/2022/06/02/technology/meta-zuckerberg-successor-facebook.html"/>
+        <updated>2022-06-02T23:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Who Is Mark Zuckerberg’s New No. 2? It’s a Trick Question.]]></summary>
+        <author>
+            <name>Sheera Frenkel and Mike Isaac</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Netflix熱門影片《RRR》是一部政治吶喊、動作大餐和令人振奮的音樂劇
 ]]></title>
@@ -6624,17 +6636,6 @@
         <author>
             <name>Abigail Pogrebin</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[填字遊戲: 2022年4月12日，星期二]]></title>
-        <id>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/12</id>
-        <link href="https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/12"/>
-        <updated>2022-04-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Crossword: Tuesday, April 12, 2022]]></summary>
-        <author>
-            <name>Erik Agard</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>

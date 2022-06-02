@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 02 Jun 2022 22:59:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 23:30:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[谁是马克-扎克伯格的新二号人物？这是个骗人的问题。
+]]></title>
+            <link>https://www.nytimes.com/2022/06/02/technology/meta-zuckerberg-successor-facebook.html</link>
+            <guid>https://www.nytimes.com/2022/06/02/technology/meta-zuckerberg-successor-facebook.html</guid>
+            <pubDate>Thu, 02 Jun 2022 23:19:00 GMT</pubDate>
+            <description><![CDATA[Who Is Mark Zuckerberg’s New No. 2? It’s a Trick Question.]]></description>
+        </item>
         <item>
             <title><![CDATA[Netflix热门影片《RRR》是一部政治呐喊、动作大餐和令人振奋的音乐剧
 ]]></title>
@@ -4228,13 +4236,6 @@
             <guid>https://www.theatlantic.com/ideas/archive/2022/04/passover-2022-america-anti-semitism/629535/?utm_source=feed</guid>
             <pubDate>Tue, 12 Apr 2022 10:00:56 GMT</pubDate>
             <description><![CDATA[What Does Passover Mean in 2022?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[填字游戏: 2022年4月12日，星期二]]></title>
-            <link>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/12</link>
-            <guid>https://www.newyorker.com/puzzles-and-games-dept/crossword/2022/04/12</guid>
-            <pubDate>Tue, 12 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Crossword: Tuesday, April 12, 2022]]></description>
         </item>
     </channel>
 </rss>
