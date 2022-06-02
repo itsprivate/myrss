@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-04-28T13:43:15.917Z</updated>
+    <updated>2022-06-02T13:56:04.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国对速度的需求永远没有好结果
+]]></title>
+        <id>https://www.theatlantic.com/technology/archive/2022/05/fast-15-minute-delivery-apps-amazon/661145/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/technology/archive/2022/05/fast-15-minute-delivery-apps-amazon/661145/?utm_source=feed"/>
+        <updated>2022-05-31T17:46:50.000Z</updated>
+        <summary type="html"><![CDATA[America’s Need for Speed Never Ends Well]]></summary>
+        <author>
+            <name>Adam Chandler</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[影子禁制是大科技公司的大问题]]></title>
         <id>https://www.theatlantic.com/technology/archive/2022/04/social-media-shadowbans-tiktok-twitter/629702/?utm_source=feed</id>
@@ -6602,17 +6614,6 @@
         <author>
             <name>Amy Davidson Sorkin</name>
             <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日漫画。4月11日，星期一]]></title>
-        <id>https://www.newyorker.com/cartoons/daily-cartoon/monday-april-11th-procrastination-taxes</id>
-        <link href="https://www.newyorker.com/cartoons/daily-cartoon/monday-april-11th-procrastination-taxes"/>
-        <updated>2022-04-11T15:57:08.000Z</updated>
-        <summary type="html"><![CDATA[Daily Cartoon: Monday, April 11th]]></summary>
-        <author>
-            <name>Brooke Bourgeois</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
