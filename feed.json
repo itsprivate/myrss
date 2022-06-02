@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/culture/the-front-row/the-netflix-hit-rrr-is-a-political-screed-an-action-bonanza-and-an-exhilarating-musical",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/the-front-row/the-netflix-hit-rrr-is-a-political-screed-an-action-bonanza-and-an-exhilarating-musical",
+            "title": "Netflix热门影片《RRR》是一部政治呐喊、动作大餐和令人振奋的音乐剧\n",
+            "summary": "The Netflix Hit “RRR” Is a Political Screed, an Action Bonanza, and an Exhilarating Musical",
+            "date_modified": "2022-06-02T22:43:10.000Z",
+            "author": {
+                "name": "Richard Brody",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.currentaffairs.org/2022/06/the-gops-indifference-to-mass-shootings-is-depraved-and-sickening/",
+            "content_html": "",
+            "url": "https://www.currentaffairs.org/2022/06/the-gops-indifference-to-mass-shootings-is-depraved-and-sickening/",
+            "title": "美国国会对大规模枪击事件的漠视是堕落和令人作呕的。\n",
+            "summary": "The GOP’s Indifference to Mass Shootings is Depraved and Sickening",
+            "date_modified": "2022-06-02T18:50:51.000Z",
+            "author": {
+                "name": "Nathan J. Robinson",
+                "url": "https://www.currentaffairs.org/feed"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/culture/persons-of-interest/how-the-creator-of-derry-girls-found-humor-in-a-troubled-time",
             "content_html": "",
             "url": "https://www.newyorker.com/culture/persons-of-interest/how-the-creator-of-derry-girls-found-humor-in-a-troubled-time",
@@ -7183,30 +7207,6 @@
             "date_modified": "2022-04-12T10:00:00.000Z",
             "author": {
                 "name": "Erik Agard",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/12",
-            "content_html": "",
-            "url": "https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/12",
-            "title": "落名：2022年4月12日，星期二",
-            "summary": "Name Drop: Tuesday, April 12, 2022",
-            "date_modified": "2022-04-12T10:00:00.000Z",
-            "author": {
-                "name": "Will Nediger",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/letter-from-the-southwest/surviving-the-standoff-with-the-republic-of-texas",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/letter-from-the-southwest/surviving-the-standoff-with-the-republic-of-texas",
-            "title": "在与德克萨斯共和国的对峙中生存下来",
-            "summary": "Surviving the Standoff with the Republic of Texas",
-            "date_modified": "2022-04-12T10:00:00.000Z",
-            "author": {
-                "name": "Rachel Monroe",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

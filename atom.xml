@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-02T22:47:28.360Z</updated>
+    <updated>2022-06-02T22:59:35.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Netflix热门影片《RRR》是一部政治呐喊、动作大餐和令人振奋的音乐剧
+]]></title>
+        <id>https://www.newyorker.com/culture/the-front-row/the-netflix-hit-rrr-is-a-political-screed-an-action-bonanza-and-an-exhilarating-musical</id>
+        <link href="https://www.newyorker.com/culture/the-front-row/the-netflix-hit-rrr-is-a-political-screed-an-action-bonanza-and-an-exhilarating-musical"/>
+        <updated>2022-06-02T22:43:10.000Z</updated>
+        <summary type="html"><![CDATA[The Netflix Hit “RRR” Is a Political Screed, an Action Bonanza, and an Exhilarating Musical]]></summary>
+        <author>
+            <name>Richard Brody</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国国会对大规模枪击事件的漠视是堕落和令人作呕的。
+]]></title>
+        <id>https://www.currentaffairs.org/2022/06/the-gops-indifference-to-mass-shootings-is-depraved-and-sickening/</id>
+        <link href="https://www.currentaffairs.org/2022/06/the-gops-indifference-to-mass-shootings-is-depraved-and-sickening/"/>
+        <updated>2022-06-02T18:50:51.000Z</updated>
+        <summary type="html"><![CDATA[The GOP’s Indifference to Mass Shootings is Depraved and Sickening]]></summary>
+        <author>
+            <name>Nathan J. Robinson</name>
+            <uri>https://www.currentaffairs.org/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[德里女孩》的创作者如何在动荡的时代找到幽默感
 ]]></title>
@@ -6610,28 +6634,6 @@
         <summary type="html"><![CDATA[The Crossword: Tuesday, April 12, 2022]]></summary>
         <author>
             <name>Erik Agard</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[落名：2022年4月12日，星期二]]></title>
-        <id>https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/12</id>
-        <link href="https://www.newyorker.com/puzzles-and-games-dept/name-drop/2022/04/12"/>
-        <updated>2022-04-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Name Drop: Tuesday, April 12, 2022]]></summary>
-        <author>
-            <name>Will Nediger</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在与德克萨斯共和国的对峙中生存下来]]></title>
-        <id>https://www.newyorker.com/news/letter-from-the-southwest/surviving-the-standoff-with-the-republic-of-texas</id>
-        <link href="https://www.newyorker.com/news/letter-from-the-southwest/surviving-the-standoff-with-the-republic-of-texas"/>
-        <updated>2022-04-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Surviving the Standoff with the Republic of Texas]]></summary>
-        <author>
-            <name>Rachel Monroe</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
