@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 02 Jun 2022 17:27:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 18:01:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[想象一个身体：变性男人的第二个青春期
+]]></title>
+            <link>https://www.newyorker.com/video/watch/the-second-puberty-of-trans-men</link>
+            <guid>https://www.newyorker.com/video/watch/the-second-puberty-of-trans-men</guid>
+            <pubDate>Wed, 01 Jun 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Imagine a Body: The Second Puberty of Trans Men]]></description>
+        </item>
         <item>
             <title><![CDATA[美国的技术--俄罗斯的长期工具--成为一个弱点
 ]]></title>
@@ -4210,13 +4218,6 @@
             <guid>https://www.nytimes.com/2022/04/11/technology/twitter-elon-musk-problem.html</guid>
             <pubDate>Mon, 11 Apr 2022 21:29:45 GMT</pubDate>
             <description><![CDATA[Twitter Grapples With an Elon Musk Problem]]></description>
-        </item>
-        <item>
-            <title><![CDATA[安妮塔-希尔和简-梅尔谈凯坦吉-布朗-杰克逊和最高法院的状况]]></title>
-            <link>https://www.newyorker.com/podcast/politics-and-more/anita-hill-and-jane-mayer-on-ketanji-brown-jackson-and-the-state-of-the-supreme-court</link>
-            <guid>https://www.newyorker.com/podcast/politics-and-more/anita-hill-and-jane-mayer-on-ketanji-brown-jackson-and-the-state-of-the-supreme-court</guid>
-            <pubDate>Mon, 11 Apr 2022 20:00:00 GMT</pubDate>
-            <description><![CDATA[Anita Hill and Jane Mayer on Ketanji Brown Jackson and the State of the Supreme Court]]></description>
         </item>
         <item>
             <title><![CDATA[安妮塔-希尔和简-梅尔谈凯坦吉-布朗-杰克逊和最高法院的状况]]></title>
