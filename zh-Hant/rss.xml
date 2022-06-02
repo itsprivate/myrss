@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 02 Jun 2022 13:56:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 14:55:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[德普-赫德的判決令人心寒
+]]></title>
+            <link>https://www.newyorker.com/culture/cultural-comment/the-depp-heard-verdict-is-chilling</link>
+            <guid>https://www.newyorker.com/culture/cultural-comment/the-depp-heard-verdict-is-chilling</guid>
+            <pubDate>Thu, 02 Jun 2022 14:06:43 GMT</pubDate>
+            <description><![CDATA[The Depp-Heard Verdict Is Chilling]]></description>
+        </item>
         <item>
             <title><![CDATA[美國對速度的需求永遠沒有好結果
 ]]></title>
@@ -4207,13 +4215,6 @@
             <guid>https://www.newyorker.com/magazine/2022/04/18/the-holocaust-memorial-undone-by-another-war</guid>
             <pubDate>Mon, 11 Apr 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[The Holocaust Memorial Undone by Another War]]></description>
-        </item>
-        <item>
-            <title><![CDATA[凱坦吉-布朗-傑克遜的聽證會可能只是個開始]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/18/the-ketanji-brown-jackson-hearings-may-be-only-the-beginning</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/18/the-ketanji-brown-jackson-hearings-may-be-only-the-beginning</guid>
-            <pubDate>Sat, 09 Apr 2022 14:00:00 GMT</pubDate>
-            <description><![CDATA[The Ketanji Brown Jackson Hearings May Be Only the Beginning]]></description>
         </item>
     </channel>
 </rss>

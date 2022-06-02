@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-02T13:56:04.545Z</updated>
+    <updated>2022-06-02T14:55:49.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[德普-赫德的判决令人心寒
+]]></title>
+        <id>https://www.newyorker.com/culture/cultural-comment/the-depp-heard-verdict-is-chilling</id>
+        <link href="https://www.newyorker.com/culture/cultural-comment/the-depp-heard-verdict-is-chilling"/>
+        <updated>2022-06-02T14:06:43.000Z</updated>
+        <summary type="html"><![CDATA[The Depp-Heard Verdict Is Chilling]]></summary>
+        <author>
+            <name>Jessica Winter</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国对速度的需求永远没有好结果
 ]]></title>
@@ -6602,17 +6614,6 @@
         <summary type="html"><![CDATA[The Holocaust Memorial Undone by Another War]]></summary>
         <author>
             <name>Masha Gessen</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[凯坦吉-布朗-杰克逊的听证会可能只是个开始]]></title>
-        <id>https://www.newyorker.com/magazine/2022/04/18/the-ketanji-brown-jackson-hearings-may-be-only-the-beginning</id>
-        <link href="https://www.newyorker.com/magazine/2022/04/18/the-ketanji-brown-jackson-hearings-may-be-only-the-beginning"/>
-        <updated>2022-04-09T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Ketanji Brown Jackson Hearings May Be Only the Beginning]]></summary>
-        <author>
-            <name>Amy Davidson Sorkin</name>
             <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
