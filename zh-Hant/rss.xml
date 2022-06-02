@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 02 Jun 2022 21:27:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 22:00:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[第一修正案將在 "德普訴赫德 "案中倖存下來
+]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/06/johnny-depp-amber-heard-verdict-first-amendment/661174/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/06/johnny-depp-amber-heard-verdict-first-amendment/661174/?utm_source=feed</guid>
+            <pubDate>Thu, 02 Jun 2022 21:53:22 GMT</pubDate>
+            <description><![CDATA[The First Amendment Will Survive ‘Depp v. Heard’]]></description>
+        </item>
         <item>
             <title><![CDATA[詹姆斯-布雷克將背景音樂作為支點
 ]]></title>
@@ -4224,13 +4232,6 @@
             <guid>https://www.newyorker.com/humor/daily-shouts/welcome-to-scorched-forest-a-retirement-community-for-millennials</guid>
             <pubDate>Tue, 12 Apr 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Welcome to Scorched Forest, a Retirement Community for Millennials]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在委內瑞拉的失敗國家中，老齡化和被遺棄的人]]></title>
-            <link>https://www.newyorker.com/culture/photo-booth/aging-and-abandoned-in-venezuelas-failing-state</link>
-            <guid>https://www.newyorker.com/culture/photo-booth/aging-and-abandoned-in-venezuelas-failing-state</guid>
-            <pubDate>Tue, 12 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Aging and Abandoned in Venezuela’s Failing State]]></description>
         </item>
     </channel>
 </rss>

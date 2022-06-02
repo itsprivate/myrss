@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-02T21:27:56.714Z</updated>
+    <updated>2022-06-02T22:00:22.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[第一修正案将在 "德普诉赫德 "案中幸存下来
+]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/06/johnny-depp-amber-heard-verdict-first-amendment/661174/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/06/johnny-depp-amber-heard-verdict-first-amendment/661174/?utm_source=feed"/>
+        <updated>2022-06-02T21:53:22.000Z</updated>
+        <summary type="html"><![CDATA[The First Amendment Will Survive ‘Depp v. Heard’]]></summary>
+        <author>
+            <name>Dan Novack</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[詹姆斯-布雷克将背景音乐作为支点
 ]]></title>
@@ -6619,17 +6631,6 @@
         <summary type="html"><![CDATA[Welcome to Scorched Forest, a Retirement Community for Millennials]]></summary>
         <author>
             <name>Cara Michelle Smith</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在委内瑞拉的失败国家中，老龄化和被遗弃的人]]></title>
-        <id>https://www.newyorker.com/culture/photo-booth/aging-and-abandoned-in-venezuelas-failing-state</id>
-        <link href="https://www.newyorker.com/culture/photo-booth/aging-and-abandoned-in-venezuelas-failing-state"/>
-        <updated>2022-04-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Aging and Abandoned in Venezuela’s Failing State]]></summary>
-        <author>
-            <name>Stephania Taladrid</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
