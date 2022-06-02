@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-02T23:30:48.806Z</updated>
+    <updated>2022-06-02T23:59:14.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼被削弱的N.R.A.仍然能得到它想要的東西？
+]]></title>
+        <id>https://www.newyorker.com/podcast/politics-and-more/why-a-weakened-nra-still-gets-what-it-wants</id>
+        <link href="https://www.newyorker.com/podcast/politics-and-more/why-a-weakened-nra-still-gets-what-it-wants"/>
+        <updated>2022-06-02T23:52:45.000Z</updated>
+        <summary type="html"><![CDATA[Why a Weakened N.R.A. Still Gets What It Wants]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[誰是馬克-扎克伯格的新二號人物？這是個騙人的問題。
 ]]></title>
@@ -6625,17 +6637,6 @@
         <author>
             <name>moore</name>
             <uri>http://edit.mooreds.com/wordpress/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[逾越節在2022年意味著什麼？]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/04/passover-2022-america-anti-semitism/629535/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/04/passover-2022-america-anti-semitism/629535/?utm_source=feed"/>
-        <updated>2022-04-12T10:00:56.000Z</updated>
-        <summary type="html"><![CDATA[What Does Passover Mean in 2022?]]></summary>
-        <author>
-            <name>Abigail Pogrebin</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
