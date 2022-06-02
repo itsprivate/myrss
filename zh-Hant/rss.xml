@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 02 Jun 2022 15:59:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 16:59:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,38 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[埃隆-馬斯克對特斯拉員工不願意整天和他在一起感到神秘
+]]></title>
+            <link>https://www.newyorker.com/humor/borowitz-report/elon-musk-mystified-that-tesla-employees-dont-want-to-spend-all-day-with-him</link>
+            <guid>https://www.newyorker.com/humor/borowitz-report/elon-musk-mystified-that-tesla-employees-dont-want-to-spend-all-day-with-him</guid>
+            <pubDate>Thu, 02 Jun 2022 16:30:57 GMT</pubDate>
+            <description><![CDATA[Elon Musk Mystified That Tesla Employees Don’t Want to Spend All Day with Him]]></description>
+        </item>
+        <item>
+            <title><![CDATA[雪莉-桑德伯格的遺產
+]]></title>
+            <link>https://www.nytimes.com/2022/06/02/technology/sheryl-sandberg-legacy.html</link>
+            <guid>https://www.nytimes.com/2022/06/02/technology/sheryl-sandberg-legacy.html</guid>
+            <pubDate>Thu, 02 Jun 2022 16:16:22 GMT</pubDate>
+            <description><![CDATA[Sheryl Sandberg’s Legacy]]></description>
+        </item>
+        <item>
+            <title><![CDATA[反對無家可歸的反抗
+]]></title>
+            <link>https://www.theatlantic.com/politics/archive/2022/06/california-governor-race-shellenberger-homelessness-san-francisco/661164/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/politics/archive/2022/06/california-governor-race-shellenberger-homelessness-san-francisco/661164/?utm_source=feed</guid>
+            <pubDate>Thu, 02 Jun 2022 15:36:49 GMT</pubDate>
+            <description><![CDATA[The Revolt Against Homelessness]]></description>
+        </item>
+        <item>
+            <title><![CDATA[<em>陌生事物</em>不會拯救Netflix。
+]]></title>
+            <link>https://www.theatlantic.com/culture/archive/2022/06/stranger-things-season-4-netflix-viewership/661163/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/culture/archive/2022/06/stranger-things-season-4-netflix-viewership/661163/?utm_source=feed</guid>
+            <pubDate>Thu, 02 Jun 2022 16:10:26 GMT</pubDate>
+            <description><![CDATA[<em>Stranger Things</em> Won’t Save Netflix]]></description>
+        </item>
         <item>
             <title><![CDATA[每日漫畫。6月2日，星期四
 ]]></title>
@@ -4190,34 +4222,6 @@
             <guid>https://www.currentaffairs.org/2022/04/the-quest-for-red-plenty/</guid>
             <pubDate>Mon, 11 Apr 2022 15:16:48 GMT</pubDate>
             <description><![CDATA[The Quest for Red Plenty]]></description>
-        </item>
-        <item>
-            <title><![CDATA[向完美的寬腿褲問好]]></title>
-            <link>https://www.newyorker.com/humor/daily-shouts/say-hello-to-the-perfect-wide-legged-pant</link>
-            <guid>https://www.newyorker.com/humor/daily-shouts/say-hello-to-the-perfect-wide-legged-pant</guid>
-            <pubDate>Mon, 11 Apr 2022 18:00:00 GMT</pubDate>
-            <description><![CDATA[Say Hello to the Perfect Wide-Legged Pant]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在上海進行為期兩週的COVID-19封鎖行動]]></title>
-            <link>https://www.theatlantic.com/photo/2022/04/shanghai-covid-lockdown/629532/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/photo/2022/04/shanghai-covid-lockdown/629532/?utm_source=feed</guid>
-            <pubDate>Mon, 11 Apr 2022 17:42:38 GMT</pubDate>
-            <description><![CDATA[Two Weeks of COVID-19 Lockdown in Shanghai]]></description>
-        </item>
-        <item>
-            <title><![CDATA[14 讀者對課堂上的性行為和性別問題的看法]]></title>
-            <link>https://www.theatlantic.com/newsletters/archive/2022/04/14-reader-views-on-sexuality-and-gender-in-the-classroom/629534/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/newsletters/archive/2022/04/14-reader-views-on-sexuality-and-gender-in-the-classroom/629534/?utm_source=feed</guid>
-            <pubDate>Mon, 11 Apr 2022 16:51:18 GMT</pubDate>
-            <description><![CDATA[14 Reader Views on Sexuality and Gender in the Classroom]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有了父子作家，誰能講述家庭故事？]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/18/with-father-and-son-writers-who-gets-to-tell-the-family-story</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/18/with-father-and-son-writers-who-gets-to-tell-the-family-story</guid>
-            <pubDate>Mon, 11 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[With Father-and-Son Writers, Who Gets to Tell the Family Story?]]></description>
         </item>
     </channel>
 </rss>

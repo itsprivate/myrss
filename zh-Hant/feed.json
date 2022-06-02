@@ -11,6 +11,54 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/humor/borowitz-report/elon-musk-mystified-that-tesla-employees-dont-want-to-spend-all-day-with-him",
+            "content_html": "",
+            "url": "https://www.newyorker.com/humor/borowitz-report/elon-musk-mystified-that-tesla-employees-dont-want-to-spend-all-day-with-him",
+            "title": "埃隆-馬斯克對特斯拉員工不願意整天和他在一起感到神秘\n",
+            "summary": "Elon Musk Mystified That Tesla Employees Don’t Want to Spend All Day with Him",
+            "date_modified": "2022-06-02T16:30:57.000Z",
+            "author": {
+                "name": "Andy Borowitz",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/06/02/technology/sheryl-sandberg-legacy.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/06/02/technology/sheryl-sandberg-legacy.html",
+            "title": "雪莉-桑德伯格的遺產\n",
+            "summary": "Sheryl Sandberg’s Legacy",
+            "date_modified": "2022-06-02T16:16:22.000Z",
+            "author": {
+                "name": "Shira Ovide",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/politics/archive/2022/06/california-governor-race-shellenberger-homelessness-san-francisco/661164/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/politics/archive/2022/06/california-governor-race-shellenberger-homelessness-san-francisco/661164/?utm_source=feed",
+            "title": "反對無家可歸的反抗\n",
+            "summary": "The Revolt Against Homelessness",
+            "date_modified": "2022-06-02T15:36:49.000Z",
+            "author": {
+                "name": "Olga Khazan",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/culture/archive/2022/06/stranger-things-season-4-netflix-viewership/661163/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/culture/archive/2022/06/stranger-things-season-4-netflix-viewership/661163/?utm_source=feed",
+            "title": "<em>陌生事物</em>不會拯救Netflix。\n",
+            "summary": "<em>Stranger Things</em> Won’t Save Netflix",
+            "date_modified": "2022-06-02T16:10:26.000Z",
+            "author": {
+                "name": "Shirley Li",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/cartoons/daily-cartoon/thursday-june-2nd-summer-wedding-park",
             "content_html": "",
             "url": "https://www.newyorker.com/cartoons/daily-cartoon/thursday-june-2nd-summer-wedding-park",
@@ -7160,54 +7208,6 @@
             "author": {
                 "name": "Ben Burgis",
                 "url": "https://www.currentaffairs.org/feed"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/humor/daily-shouts/say-hello-to-the-perfect-wide-legged-pant",
-            "content_html": "",
-            "url": "https://www.newyorker.com/humor/daily-shouts/say-hello-to-the-perfect-wide-legged-pant",
-            "title": "向完美的寬腿褲問好",
-            "summary": "Say Hello to the Perfect Wide-Legged Pant",
-            "date_modified": "2022-04-11T18:00:00.000Z",
-            "author": {
-                "name": "Olivia de Recat",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/photo/2022/04/shanghai-covid-lockdown/629532/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/photo/2022/04/shanghai-covid-lockdown/629532/?utm_source=feed",
-            "title": "在上海進行為期兩週的COVID-19封鎖行動",
-            "summary": "Two Weeks of COVID-19 Lockdown in Shanghai",
-            "date_modified": "2022-04-11T17:42:38.000Z",
-            "author": {
-                "name": "Alan Taylor",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/newsletters/archive/2022/04/14-reader-views-on-sexuality-and-gender-in-the-classroom/629534/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/newsletters/archive/2022/04/14-reader-views-on-sexuality-and-gender-in-the-classroom/629534/?utm_source=feed",
-            "title": "14 讀者對課堂上的性行為和性別問題的看法",
-            "summary": "14 Reader Views on Sexuality and Gender in the Classroom",
-            "date_modified": "2022-04-11T16:51:18.000Z",
-            "author": {
-                "name": "Conor Friedersdorf",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/04/18/with-father-and-son-writers-who-gets-to-tell-the-family-story",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/04/18/with-father-and-son-writers-who-gets-to-tell-the-family-story",
-            "title": "有了父子作家，誰能講述家庭故事？",
-            "summary": "With Father-and-Son Writers, Who Gets to Tell the Family Story?",
-            "date_modified": "2022-04-11T10:00:00.000Z",
-            "author": {
-                "name": "Tad Friend",
-                "url": "https://www.newyorker.com/feed/news"
             }
         }
     ]
