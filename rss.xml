@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 02 Jun 2022 16:59:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 17:27:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[美国的技术--俄罗斯的长期工具--成为一个弱点
+]]></title>
+            <link>https://www.nytimes.com/2022/06/02/business/economy/russia-weapons-american-technology.html</link>
+            <guid>https://www.nytimes.com/2022/06/02/business/economy/russia-weapons-american-technology.html</guid>
+            <pubDate>Thu, 02 Jun 2022 16:55:01 GMT</pubDate>
+            <description><![CDATA[U.S. Technology, a Longtime Tool for Russia, Becomes a Vulnerability]]></description>
+        </item>
+        <item>
+            <title><![CDATA[乌瓦德最严重的失败
+]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/06/uvalde-police-response-failure-mass-shooting/661167/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/06/uvalde-police-response-failure-mass-shooting/661167/?utm_source=feed</guid>
+            <pubDate>Thu, 02 Jun 2022 17:11:03 GMT</pubDate>
+            <description><![CDATA[The Gravest Failures in Uvalde]]></description>
+        </item>
         <item>
             <title><![CDATA[埃隆-马斯克对特斯拉员工不愿意整天和他在一起感到神秘
 ]]></title>
@@ -4208,20 +4224,6 @@
             <guid>https://www.newyorker.com/podcast/politics-and-more/anita-hill-and-jane-mayer-on-ketanji-brown-jackson-and-the-state-of-the-supreme-court</guid>
             <pubDate>Mon, 11 Apr 2022 20:00:00 GMT</pubDate>
             <description><![CDATA[Anita Hill and Jane Mayer on Ketanji Brown Jackson and the State of the Supreme Court]]></description>
-        </item>
-        <item>
-            <title><![CDATA[欺骗性对齐的梅萨-优化器。如果我必须解释，那就不好玩了]]></title>
-            <link>https://astralcodexten.substack.com/p/deceptively-aligned-mesa-optimizers</link>
-            <guid>https://astralcodexten.substack.com/p/deceptively-aligned-mesa-optimizers</guid>
-            <pubDate>Mon, 11 Apr 2022 19:46:52 GMT</pubDate>
-            <description><![CDATA[Deceptively Aligned Mesa-Optimizers: It's Not Funny If I Have To Explain It]]></description>
-        </item>
-        <item>
-            <title><![CDATA[追求红色丰盈]]></title>
-            <link>https://www.currentaffairs.org/2022/04/the-quest-for-red-plenty/</link>
-            <guid>https://www.currentaffairs.org/2022/04/the-quest-for-red-plenty/</guid>
-            <pubDate>Mon, 11 Apr 2022 15:16:48 GMT</pubDate>
-            <description><![CDATA[The Quest for Red Plenty]]></description>
         </item>
     </channel>
 </rss>

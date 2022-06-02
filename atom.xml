@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-02T16:59:09.668Z</updated>
+    <updated>2022-06-02T17:27:38.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国的技术--俄罗斯的长期工具--成为一个弱点
+]]></title>
+        <id>https://www.nytimes.com/2022/06/02/business/economy/russia-weapons-american-technology.html</id>
+        <link href="https://www.nytimes.com/2022/06/02/business/economy/russia-weapons-american-technology.html"/>
+        <updated>2022-06-02T16:55:01.000Z</updated>
+        <summary type="html"><![CDATA[U.S. Technology, a Longtime Tool for Russia, Becomes a Vulnerability]]></summary>
+        <author>
+            <name>Ana Swanson, John Ismay and Edward Wong</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌瓦德最严重的失败
+]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/06/uvalde-police-response-failure-mass-shooting/661167/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/06/uvalde-police-response-failure-mass-shooting/661167/?utm_source=feed"/>
+        <updated>2022-06-02T17:11:03.000Z</updated>
+        <summary type="html"><![CDATA[The Gravest Failures in Uvalde]]></summary>
+        <author>
+            <name>David A. Graham</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[埃隆-马斯克对特斯拉员工不愿意整天和他在一起感到神秘
 ]]></title>
@@ -6600,28 +6624,6 @@
         <author>
             <name>unknown</name>
             <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欺骗性对齐的梅萨-优化器。如果我必须解释，那就不好玩了]]></title>
-        <id>https://astralcodexten.substack.com/p/deceptively-aligned-mesa-optimizers</id>
-        <link href="https://astralcodexten.substack.com/p/deceptively-aligned-mesa-optimizers"/>
-        <updated>2022-04-11T19:46:52.000Z</updated>
-        <summary type="html"><![CDATA[Deceptively Aligned Mesa-Optimizers: It's Not Funny If I Have To Explain It]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[追求红色丰盈]]></title>
-        <id>https://www.currentaffairs.org/2022/04/the-quest-for-red-plenty/</id>
-        <link href="https://www.currentaffairs.org/2022/04/the-quest-for-red-plenty/"/>
-        <updated>2022-04-11T15:16:48.000Z</updated>
-        <summary type="html"><![CDATA[The Quest for Red Plenty]]></summary>
-        <author>
-            <name>Ben Burgis</name>
-            <uri>https://www.currentaffairs.org/feed</uri>
         </author>
     </entry>
 </feed>
