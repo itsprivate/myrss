@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/culture/listening-booth/james-blake-pivots-to-background-music",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/listening-booth/james-blake-pivots-to-background-music",
+            "title": "詹姆斯-布雷克將背景音樂作為支點\n",
+            "summary": "James Blake Pivots to Background Music",
+            "date_modified": "2022-06-02T21:10:15.000Z",
+            "author": {
+                "name": "Sheldon Pearce",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/books/archive/2022/06/uvalde-texas-shooting-sandy-hook-lessons-book/661171/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/books/archive/2022/06/uvalde-texas-shooting-sandy-hook-lessons-book/661171/?utm_source=feed",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Stephania Taladrid",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://noahpinion.substack.com/p/democrats-need-to-run-on-the-war",
-            "content_html": "",
-            "url": "https://noahpinion.substack.com/p/democrats-need-to-run-on-the-war",
-            "title": "民主黨人需要在戰爭中競選",
-            "summary": "Democrats need to run on the war",
-            "date_modified": "2022-04-12T03:49:09.000Z",
-            "author": {
-                "name": "Noah Smith",
-                "url": "https://noahpinion.substack.com/feed"
             }
         }
     ]

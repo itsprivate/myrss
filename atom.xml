@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-02T20:47:25.839Z</updated>
+    <updated>2022-06-02T21:27:56.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[詹姆斯-布雷克将背景音乐作为支点
+]]></title>
+        <id>https://www.newyorker.com/culture/listening-booth/james-blake-pivots-to-background-music</id>
+        <link href="https://www.newyorker.com/culture/listening-booth/james-blake-pivots-to-background-music"/>
+        <updated>2022-06-02T21:10:15.000Z</updated>
+        <summary type="html"><![CDATA[James Blake Pivots to Background Music]]></summary>
+        <author>
+            <name>Sheldon Pearce</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[乌瓦德现在会发生什么？
 ]]></title>
@@ -6619,17 +6631,6 @@
         <author>
             <name>Stephania Taladrid</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[民主党人需要在战争中竞选]]></title>
-        <id>https://noahpinion.substack.com/p/democrats-need-to-run-on-the-war</id>
-        <link href="https://noahpinion.substack.com/p/democrats-need-to-run-on-the-war"/>
-        <updated>2022-04-12T03:49:09.000Z</updated>
-        <summary type="html"><![CDATA[Democrats need to run on the war]]></summary>
-        <author>
-            <name>Noah Smith</name>
-            <uri>https://noahpinion.substack.com/feed</uri>
         </author>
     </entry>
 </feed>

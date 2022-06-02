@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 02 Jun 2022 20:47:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 21:27:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[詹姆斯-布雷克將背景音樂作為支點
+]]></title>
+            <link>https://www.newyorker.com/culture/listening-booth/james-blake-pivots-to-background-music</link>
+            <guid>https://www.newyorker.com/culture/listening-booth/james-blake-pivots-to-background-music</guid>
+            <pubDate>Thu, 02 Jun 2022 21:10:15 GMT</pubDate>
+            <description><![CDATA[James Blake Pivots to Background Music]]></description>
+        </item>
         <item>
             <title><![CDATA[烏瓦德現在會發生什麼？
 ]]></title>
@@ -4223,13 +4231,6 @@
             <guid>https://www.newyorker.com/culture/photo-booth/aging-and-abandoned-in-venezuelas-failing-state</guid>
             <pubDate>Tue, 12 Apr 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Aging and Abandoned in Venezuela’s Failing State]]></description>
-        </item>
-        <item>
-            <title><![CDATA[民主黨人需要在戰爭中競選]]></title>
-            <link>https://noahpinion.substack.com/p/democrats-need-to-run-on-the-war</link>
-            <guid>https://noahpinion.substack.com/p/democrats-need-to-run-on-the-war</guid>
-            <pubDate>Tue, 12 Apr 2022 03:49:09 GMT</pubDate>
-            <description><![CDATA[Democrats need to run on the war]]></description>
         </item>
     </channel>
 </rss>
