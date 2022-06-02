@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-02T18:40:22.117Z</updated>
+    <updated>2022-06-02T19:27:49.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[隱秘的公開主題226.5
+]]></title>
+        <id>https://astralcodexten.substack.com/p/hidden-open-thread-2265</id>
+        <link href="https://astralcodexten.substack.com/p/hidden-open-thread-2265"/>
+        <updated>2022-06-02T19:10:55.000Z</updated>
+        <summary type="html"><![CDATA[Hidden Open Thread 226.5]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[改變了我的早餐遊戲的可笑的雞蛋機
+]]></title>
+        <id>https://www.newyorker.com/culture/kitchen-notes/the-ridiculous-egg-machine-that-changed-my-breakfast-game</id>
+        <link href="https://www.newyorker.com/culture/kitchen-notes/the-ridiculous-egg-machine-that-changed-my-breakfast-game"/>
+        <updated>2022-06-02T18:59:03.000Z</updated>
+        <summary type="html"><![CDATA[The Ridiculous Egg Machine That Changed My Breakfast Game]]></summary>
+        <author>
+            <name>Rachel Syme</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<em>未來之罪</em>挑戰老齡化藝術家的憂慮
+]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/06/crimes-of-the-future-movie-review-david-cronenberg/661170/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/06/crimes-of-the-future-movie-review-david-cronenberg/661170/?utm_source=feed"/>
+        <updated>2022-06-02T18:59:58.000Z</updated>
+        <summary type="html"><![CDATA[<em>Crimes of the Future</em> Takes on the Anxieties of the Aging Artist]]></summary>
+        <author>
+            <name>David Sims</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不，安-庫爾特，我不對 "大替換 "理論負責。
 ]]></title>
@@ -6593,39 +6629,6 @@
         <author>
             <name>Richard Brody</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[法國在第一輪總統選舉後仍然屹立不倒]]></title>
-        <id>https://www.newyorker.com/news/daily-comment/france-is-still-standing-after-the-first-round-of-presidential-elections</id>
-        <link href="https://www.newyorker.com/news/daily-comment/france-is-still-standing-after-the-first-round-of-presidential-elections"/>
-        <updated>2022-04-11T23:31:44.000Z</updated>
-        <summary type="html"><![CDATA[France Is Still Standing After the First Round of Presidential Elections]]></summary>
-        <author>
-            <name>Adam Gopnik</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[法國在第一輪總統選舉後仍然屹立不倒]]></title>
-        <id>https://www.newyorker.com/news/daily-comment/france-is-still-standing-after-the-first-round-of-presidential-elections</id>
-        <link href="https://www.newyorker.com/news/daily-comment/france-is-still-standing-after-the-first-round-of-presidential-elections"/>
-        <updated>2022-04-11T23:31:44.000Z</updated>
-        <summary type="html"><![CDATA[France Is Still Standing After the First Round of Presidential Elections]]></summary>
-        <author>
-            <name>Adam Gopnik</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推特應對埃隆-馬斯克的問題]]></title>
-        <id>https://www.nytimes.com/2022/04/11/technology/twitter-elon-musk-problem.html</id>
-        <link href="https://www.nytimes.com/2022/04/11/technology/twitter-elon-musk-problem.html"/>
-        <updated>2022-04-11T21:29:45.000Z</updated>
-        <summary type="html"><![CDATA[Twitter Grapples With an Elon Musk Problem]]></summary>
-        <author>
-            <name>Mike Isaac and Kate Conger</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>

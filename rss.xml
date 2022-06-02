@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Thu, 02 Jun 2022 18:40:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 19:27:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[隐秘的公开主题226.5
+]]></title>
+            <link>https://astralcodexten.substack.com/p/hidden-open-thread-2265</link>
+            <guid>https://astralcodexten.substack.com/p/hidden-open-thread-2265</guid>
+            <pubDate>Thu, 02 Jun 2022 19:10:55 GMT</pubDate>
+            <description><![CDATA[Hidden Open Thread 226.5]]></description>
+        </item>
+        <item>
+            <title><![CDATA[改变了我的早餐游戏的可笑的鸡蛋机
+]]></title>
+            <link>https://www.newyorker.com/culture/kitchen-notes/the-ridiculous-egg-machine-that-changed-my-breakfast-game</link>
+            <guid>https://www.newyorker.com/culture/kitchen-notes/the-ridiculous-egg-machine-that-changed-my-breakfast-game</guid>
+            <pubDate>Thu, 02 Jun 2022 18:59:03 GMT</pubDate>
+            <description><![CDATA[The Ridiculous Egg Machine That Changed My Breakfast Game]]></description>
+        </item>
+        <item>
+            <title><![CDATA[<em>未来之罪</em>挑战老龄化艺术家的忧虑
+]]></title>
+            <link>https://www.theatlantic.com/culture/archive/2022/06/crimes-of-the-future-movie-review-david-cronenberg/661170/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/culture/archive/2022/06/crimes-of-the-future-movie-review-david-cronenberg/661170/?utm_source=feed</guid>
+            <pubDate>Thu, 02 Jun 2022 18:59:58 GMT</pubDate>
+            <description><![CDATA[<em>Crimes of the Future</em> Takes on the Anxieties of the Aging Artist]]></description>
+        </item>
         <item>
             <title><![CDATA[不，安-库尔特，我不对 "大替换 "理论负责。
 ]]></title>
@@ -4205,27 +4229,6 @@
             <guid>https://www.newyorker.com/culture/the-front-row/ambulance-reviewed-michael-bay-plays-himself</guid>
             <pubDate>Tue, 12 Apr 2022 00:05:57 GMT</pubDate>
             <description><![CDATA[“Ambulance,” Reviewed: Michael Bay Plays Himself]]></description>
-        </item>
-        <item>
-            <title><![CDATA[法国在第一轮总统选举后仍然屹立不倒]]></title>
-            <link>https://www.newyorker.com/news/daily-comment/france-is-still-standing-after-the-first-round-of-presidential-elections</link>
-            <guid>https://www.newyorker.com/news/daily-comment/france-is-still-standing-after-the-first-round-of-presidential-elections</guid>
-            <pubDate>Mon, 11 Apr 2022 23:31:44 GMT</pubDate>
-            <description><![CDATA[France Is Still Standing After the First Round of Presidential Elections]]></description>
-        </item>
-        <item>
-            <title><![CDATA[法国在第一轮总统选举后仍然屹立不倒]]></title>
-            <link>https://www.newyorker.com/news/daily-comment/france-is-still-standing-after-the-first-round-of-presidential-elections</link>
-            <guid>https://www.newyorker.com/news/daily-comment/france-is-still-standing-after-the-first-round-of-presidential-elections</guid>
-            <pubDate>Mon, 11 Apr 2022 23:31:44 GMT</pubDate>
-            <description><![CDATA[France Is Still Standing After the First Round of Presidential Elections]]></description>
-        </item>
-        <item>
-            <title><![CDATA[推特应对埃隆-马斯克的问题]]></title>
-            <link>https://www.nytimes.com/2022/04/11/technology/twitter-elon-musk-problem.html</link>
-            <guid>https://www.nytimes.com/2022/04/11/technology/twitter-elon-musk-problem.html</guid>
-            <pubDate>Mon, 11 Apr 2022 21:29:45 GMT</pubDate>
-            <description><![CDATA[Twitter Grapples With an Elon Musk Problem]]></description>
         </item>
     </channel>
 </rss>

@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "https://astralcodexten.substack.com/p/hidden-open-thread-2265",
+            "content_html": "",
+            "url": "https://astralcodexten.substack.com/p/hidden-open-thread-2265",
+            "title": "隱秘的公開主題226.5\n",
+            "summary": "Hidden Open Thread 226.5",
+            "date_modified": "2022-06-02T19:10:55.000Z",
+            "author": {
+                "name": "Scott Alexander",
+                "url": "https://astralcodexten.substack.com/feed"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/culture/kitchen-notes/the-ridiculous-egg-machine-that-changed-my-breakfast-game",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/kitchen-notes/the-ridiculous-egg-machine-that-changed-my-breakfast-game",
+            "title": "改變了我的早餐遊戲的可笑的雞蛋機\n",
+            "summary": "The Ridiculous Egg Machine That Changed My Breakfast Game",
+            "date_modified": "2022-06-02T18:59:03.000Z",
+            "author": {
+                "name": "Rachel Syme",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/culture/archive/2022/06/crimes-of-the-future-movie-review-david-cronenberg/661170/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/culture/archive/2022/06/crimes-of-the-future-movie-review-david-cronenberg/661170/?utm_source=feed",
+            "title": "<em>未來之罪</em>挑戰老齡化藝術家的憂慮\n",
+            "summary": "<em>Crimes of the Future</em> Takes on the Anxieties of the Aging Artist",
+            "date_modified": "2022-06-02T18:59:58.000Z",
+            "author": {
+                "name": "David Sims",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/politics/archive/2022/06/great-replacement-theory-demographic-change-remaking-america/661168/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/politics/archive/2022/06/great-replacement-theory-demographic-change-remaking-america/661168/?utm_source=feed",
@@ -7172,42 +7208,6 @@
             "author": {
                 "name": "Richard Brody",
                 "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/daily-comment/france-is-still-standing-after-the-first-round-of-presidential-elections",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/daily-comment/france-is-still-standing-after-the-first-round-of-presidential-elections",
-            "title": "法國在第一輪總統選舉後仍然屹立不倒",
-            "summary": "France Is Still Standing After the First Round of Presidential Elections",
-            "date_modified": "2022-04-11T23:31:44.000Z",
-            "author": {
-                "name": "Adam Gopnik",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/news/daily-comment/france-is-still-standing-after-the-first-round-of-presidential-elections",
-            "content_html": "",
-            "url": "https://www.newyorker.com/news/daily-comment/france-is-still-standing-after-the-first-round-of-presidential-elections",
-            "title": "法國在第一輪總統選舉後仍然屹立不倒",
-            "summary": "France Is Still Standing After the First Round of Presidential Elections",
-            "date_modified": "2022-04-11T23:31:44.000Z",
-            "author": {
-                "name": "Adam Gopnik",
-                "url": "https://www.newyorker.com/feed/news"
-            }
-        },
-        {
-            "id": "https://www.nytimes.com/2022/04/11/technology/twitter-elon-musk-problem.html",
-            "content_html": "",
-            "url": "https://www.nytimes.com/2022/04/11/technology/twitter-elon-musk-problem.html",
-            "title": "推特應對埃隆-馬斯克的問題",
-            "summary": "Twitter Grapples With an Elon Musk Problem",
-            "date_modified": "2022-04-11T21:29:45.000Z",
-            "author": {
-                "name": "Mike Isaac and Kate Conger",
-                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             }
         }
     ]
