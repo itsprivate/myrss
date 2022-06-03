@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-03T16:46:26.991Z</updated>
+    <updated>2022-06-03T17:39:51.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[拜登和澤倫斯基達成協議，將美國人的4億支槍送至烏克蘭
+]]></title>
+        <id>https://www.newyorker.com/humor/borowitz-report/biden-and-zelensky-reach-agreement-to-send-americans-four-hundred-million-guns-to-ukraine</id>
+        <link href="https://www.newyorker.com/humor/borowitz-report/biden-and-zelensky-reach-agreement-to-send-americans-four-hundred-million-guns-to-ukraine"/>
+        <updated>2022-06-03T17:16:35.000Z</updated>
+        <summary type="html"><![CDATA[Biden and Zelensky Reach Agreement to Send Americans’ Four Hundred Million Guns to Ukraine]]></summary>
+        <author>
+            <name>Andy Borowitz</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[喬-拜登在中期選舉前的 "有所作為 "時刻
 ]]></title>
@@ -6639,17 +6651,6 @@
         <author>
             <name>Nathan J. Robinson</name>
             <uri>https://www.currentaffairs.org/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國創造了自己的助推器問題]]></title>
-        <id>https://www.theatlantic.com/health/archive/2022/04/cdc-covid-vaccine-booster-campaign/629536/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/health/archive/2022/04/cdc-covid-vaccine-booster-campaign/629536/?utm_source=feed"/>
-        <updated>2022-04-12T15:00:29.000Z</updated>
-        <summary type="html"><![CDATA[America Created Its Own Booster Problems]]></summary>
-        <author>
-            <name>Katherine J. Wu</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>

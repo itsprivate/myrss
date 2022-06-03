@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 03 Jun 2022 16:46:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 17:39:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[拜登和泽伦斯基达成协议，将美国人的4亿支枪送至乌克兰
+]]></title>
+            <link>https://www.newyorker.com/humor/borowitz-report/biden-and-zelensky-reach-agreement-to-send-americans-four-hundred-million-guns-to-ukraine</link>
+            <guid>https://www.newyorker.com/humor/borowitz-report/biden-and-zelensky-reach-agreement-to-send-americans-four-hundred-million-guns-to-ukraine</guid>
+            <pubDate>Fri, 03 Jun 2022 17:16:35 GMT</pubDate>
+            <description><![CDATA[Biden and Zelensky Reach Agreement to Send Americans’ Four Hundred Million Guns to Ukraine]]></description>
+        </item>
         <item>
             <title><![CDATA[乔-拜登在中期选举前的 "有所作为 "时刻
 ]]></title>
@@ -4243,13 +4251,6 @@
             <guid>https://www.currentaffairs.org/2022/04/the-wall-street-journal-makes-the-case-for-expropriating-billionaires/</guid>
             <pubDate>Tue, 12 Apr 2022 11:56:41 GMT</pubDate>
             <description><![CDATA[The Wall Street Journal Makes The Case For Expropriating Billionaires]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国创造了自己的助推器问题]]></title>
-            <link>https://www.theatlantic.com/health/archive/2022/04/cdc-covid-vaccine-booster-campaign/629536/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/health/archive/2022/04/cdc-covid-vaccine-booster-campaign/629536/?utm_source=feed</guid>
-            <pubDate>Tue, 12 Apr 2022 15:00:29 GMT</pubDate>
-            <description><![CDATA[America Created Its Own Booster Problems]]></description>
         </item>
     </channel>
 </rss>

@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/humor/borowitz-report/biden-and-zelensky-reach-agreement-to-send-americans-four-hundred-million-guns-to-ukraine",
+            "content_html": "",
+            "url": "https://www.newyorker.com/humor/borowitz-report/biden-and-zelensky-reach-agreement-to-send-americans-four-hundred-million-guns-to-ukraine",
+            "title": "拜登和澤倫斯基達成協議，將美國人的4億支槍送至烏克蘭\n",
+            "summary": "Biden and Zelensky Reach Agreement to Send Americans’ Four Hundred Million Guns to Ukraine",
+            "date_modified": "2022-06-03T17:16:35.000Z",
+            "author": {
+                "name": "Andy Borowitz",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/letter-from-bidens-washington/joe-bidens-do-something-moment-before-the-midterms",
             "content_html": "",
             "url": "https://www.newyorker.com/news/letter-from-bidens-washington/joe-bidens-do-something-moment-before-the-midterms",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Nathan J. Robinson",
                 "url": "https://www.currentaffairs.org/feed"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/health/archive/2022/04/cdc-covid-vaccine-booster-campaign/629536/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/health/archive/2022/04/cdc-covid-vaccine-booster-campaign/629536/?utm_source=feed",
-            "title": "美國創造了自己的助推器問題",
-            "summary": "America Created Its Own Booster Problems",
-            "date_modified": "2022-04-12T15:00:29.000Z",
-            "author": {
-                "name": "Katherine J. Wu",
-                "url": "https://www.theatlantic.com/feed/all/"
             }
         }
     ]
