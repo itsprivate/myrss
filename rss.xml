@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 03 Jun 2022 05:02:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 12:53:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[让我吃而不被吃
+]]></title>
+            <link>https://austinkleon.substack.com/p/let-me-eat-and-not-be-eaten</link>
+            <guid>https://austinkleon.substack.com/p/let-me-eat-and-not-be-eaten</guid>
+            <pubDate>Fri, 03 Jun 2022 12:00:44 GMT</pubDate>
+            <description><![CDATA[Let me eat and not be eaten]]></description>
+        </item>
+        <item>
+            <title><![CDATA["未来的犯罪 "可以被称为 "过去的主题"
+]]></title>
+            <link>https://www.newyorker.com/magazine/2022/06/13/crimes-of-the-future-could-be-called-themes-of-the-past</link>
+            <guid>https://www.newyorker.com/magazine/2022/06/13/crimes-of-the-future-could-be-called-themes-of-the-past</guid>
+            <pubDate>Fri, 03 Jun 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[“Crimes of the Future” Could Be Called “Themes of the Past”]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我们对社交媒体的了解比我们想象的少
+]]></title>
+            <link>https://www.newyorker.com/culture/annals-of-inquiry/we-know-less-about-social-media-than-we-think</link>
+            <guid>https://www.newyorker.com/culture/annals-of-inquiry/we-know-less-about-social-media-than-we-think</guid>
+            <pubDate>Fri, 03 Jun 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[We Know Less About Social Media Than We Think]]></description>
+        </item>
         <item>
             <title><![CDATA[本周的照片。天空之桥、拼写大赛、松鼠混战
 ]]></title>
@@ -4219,27 +4243,6 @@
             <guid>https://www.mooreds.com/wordpress/archives/3395</guid>
             <pubDate>Sat, 17 Oct 2020 12:34:24 GMT</pubDate>
             <description><![CDATA[A quick look at xkit]]></description>
-        </item>
-        <item>
-            <title><![CDATA[书评。生活中的算法]]></title>
-            <link>https://www.mooreds.com/wordpress/archives/3398</link>
-            <guid>https://www.mooreds.com/wordpress/archives/3398</guid>
-            <pubDate>Wed, 11 Nov 2020 12:34:00 GMT</pubDate>
-            <description><![CDATA[Book Review: Algorithms to live by]]></description>
-        </item>
-        <item>
-            <title><![CDATA[书评。布谷鸟的蛋]]></title>
-            <link>https://www.mooreds.com/wordpress/archives/3405</link>
-            <guid>https://www.mooreds.com/wordpress/archives/3405</guid>
-            <pubDate>Wed, 09 Dec 2020 13:10:00 GMT</pubDate>
-            <description><![CDATA[Book Review: The Cuckoo’s Egg]]></description>
-        </item>
-        <item>
-            <title><![CDATA[最不被重视的AWS服务]]></title>
-            <link>https://www.mooreds.com/wordpress/archives/3409</link>
-            <guid>https://www.mooreds.com/wordpress/archives/3409</guid>
-            <pubDate>Wed, 20 Jan 2021 16:35:00 GMT</pubDate>
-            <description><![CDATA[The most underappreciated AWS service]]></description>
         </item>
     </channel>
 </rss>
