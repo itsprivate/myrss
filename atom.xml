@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-03T14:26:35.335Z</updated>
+    <updated>2022-06-03T14:47:44.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[伊利斯-斯特凡尼克真的不需要拥抱特朗普主义
+]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/elise-stefanik-really-doesnt-need-to-embrace-trumpism</id>
+        <link href="https://www.newyorker.com/news/daily-comment/elise-stefanik-really-doesnt-need-to-embrace-trumpism"/>
+        <updated>2022-06-03T14:29:30.000Z</updated>
+        <summary type="html"><![CDATA[Elise Stefanik Really Doesn’t Need to Embrace Trumpism]]></summary>
+        <author>
+            <name>Bill McKibben</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们应该预见到猴痘的到来
+]]></title>
+        <id>https://www.theatlantic.com/science/archive/2022/06/monkeypox-virus-research-global-spread/661177/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/science/archive/2022/06/monkeypox-virus-research-global-spread/661177/?utm_source=feed"/>
+        <updated>2022-06-03T14:35:59.000Z</updated>
+        <summary type="html"><![CDATA[We Should Have Seen Monkeypox Coming]]></summary>
+        <author>
+            <name>Sarah Zhang</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[学习如何在公共场合进行哀悼
 ]]></title>
@@ -6623,28 +6647,6 @@
         <author>
             <name>Marisa Renee Lee</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于静态网站生成器和WordPress的思考]]></title>
-        <id>https://www.mooreds.com/wordpress/archives/3369</id>
-        <link href="https://www.mooreds.com/wordpress/archives/3369"/>
-        <updated>2020-07-17T21:32:24.000Z</updated>
-        <summary type="html"><![CDATA[Thoughts on static site generators and WordPress]]></summary>
-        <author>
-            <name>moore</name>
-            <uri>http://edit.mooreds.com/wordpress/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我希望我在刚开始做开发时就知道的事]]></title>
-        <id>https://www.mooreds.com/wordpress/archives/3376</id>
-        <link href="https://www.mooreds.com/wordpress/archives/3376"/>
-        <updated>2020-08-02T15:59:53.000Z</updated>
-        <summary type="html"><![CDATA[What I wish I had known when I was starting out as a developer]]></summary>
-        <author>
-            <name>moore</name>
-            <uri>http://edit.mooreds.com/wordpress/feed</uri>
         </author>
     </entry>
 </feed>
