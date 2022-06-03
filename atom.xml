@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-03T12:53:24.786Z</updated>
+    <updated>2022-06-03T13:28:58.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[无党派总统史的死亡
+]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/06/national-archives-george-bush-privatize-history/639429/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/06/national-archives-george-bush-privatize-history/639429/?utm_source=feed"/>
+        <updated>2022-06-03T12:55:19.000Z</updated>
+        <summary type="html"><![CDATA[The Death of Nonpartisan Presidential History]]></summary>
+        <author>
+            <name>Tim Naftali</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[让我吃而不被吃
 ]]></title>
@@ -6629,17 +6641,6 @@
         <link href="https://www.mooreds.com/wordpress/archives/3392"/>
         <updated>2020-09-22T02:54:22.000Z</updated>
         <summary type="html"><![CDATA[Book Review: A Memory Called Empire]]></summary>
-        <author>
-            <name>moore</name>
-            <uri>http://edit.mooreds.com/wordpress/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[快速浏览xkit]]></title>
-        <id>https://www.mooreds.com/wordpress/archives/3395</id>
-        <link href="https://www.mooreds.com/wordpress/archives/3395"/>
-        <updated>2020-10-17T12:34:24.000Z</updated>
-        <summary type="html"><![CDATA[A quick look at xkit]]></summary>
         <author>
             <name>moore</name>
             <uri>http://edit.mooreds.com/wordpress/feed</uri>
