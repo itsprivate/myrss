@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-03T15:00:48.254Z</updated>
+    <updated>2022-06-03T15:51:51.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[它是艺术还是蛋糕？
+]]></title>
+        <id>https://www.newyorker.com/cartoons/blitts-kvetchbook/is-it-art-or-is-it-cake</id>
+        <link href="https://www.newyorker.com/cartoons/blitts-kvetchbook/is-it-art-or-is-it-cake"/>
+        <updated>2022-06-03T15:26:20.000Z</updated>
+        <summary type="html"><![CDATA[Is It Art or Is It Cake?]]></summary>
+        <author>
+            <name>Barry Blitt</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[伊利斯-斯特凡尼克真的不需要拥抱特朗普主义
 ]]></title>
@@ -6637,17 +6649,6 @@
         <author>
             <name>Theora Kvitka</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冬季日记演练]]></title>
-        <id>https://austinkleon.substack.com/p/winter-diary-walkthrough</id>
-        <link href="https://austinkleon.substack.com/p/winter-diary-walkthrough"/>
-        <updated>2022-04-12T12:00:38.000Z</updated>
-        <summary type="html"><![CDATA[Winter diary walkthrough]]></summary>
-        <author>
-            <name>Austin Kleon</name>
-            <uri>https://austinkleon.substack.com/feed</uri>
         </author>
     </entry>
 </feed>

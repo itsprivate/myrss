@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 03 Jun 2022 15:00:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 15:51:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[它是藝術還是蛋糕？
+]]></title>
+            <link>https://www.newyorker.com/cartoons/blitts-kvetchbook/is-it-art-or-is-it-cake</link>
+            <guid>https://www.newyorker.com/cartoons/blitts-kvetchbook/is-it-art-or-is-it-cake</guid>
+            <pubDate>Fri, 03 Jun 2022 15:26:20 GMT</pubDate>
+            <description><![CDATA[Is It Art or Is It Cake?]]></description>
+        </item>
         <item>
             <title><![CDATA[伊利斯-斯特凡尼克真的不需要擁抱特朗普主義
 ]]></title>
@@ -4241,13 +4249,6 @@
             <guid>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-april-12th-squirrel-house</guid>
             <pubDate>Tue, 12 Apr 2022 14:20:28 GMT</pubDate>
             <description><![CDATA[Daily Cartoon: Tuesday, April 12th]]></description>
-        </item>
-        <item>
-            <title><![CDATA[冬季日記演練]]></title>
-            <link>https://austinkleon.substack.com/p/winter-diary-walkthrough</link>
-            <guid>https://austinkleon.substack.com/p/winter-diary-walkthrough</guid>
-            <pubDate>Tue, 12 Apr 2022 12:00:38 GMT</pubDate>
-            <description><![CDATA[Winter diary walkthrough]]></description>
         </item>
     </channel>
 </rss>
