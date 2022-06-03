@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 03 Jun 2022 19:46:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 20:31:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[何時才能結束？浪潮
+]]></title>
+            <link>https://www.theatlantic.com/health/archive/2022/06/omicron-variant-seasonal-infections/661181/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/health/archive/2022/06/omicron-variant-seasonal-infections/661181/?utm_source=feed</guid>
+            <pubDate>Fri, 03 Jun 2022 20:19:23 GMT</pubDate>
+            <description><![CDATA[The ‘When Will It End?’ Wave]]></description>
+        </item>
         <item>
             <title><![CDATA[您的書評。閹割者
 ]]></title>
@@ -4249,13 +4257,6 @@
             <guid>https://www.newyorker.com/magazine/2022/04/18/with-father-and-son-writers-who-gets-to-tell-the-family-story</guid>
             <pubDate>Mon, 11 Apr 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[With Father-and-Son Writers, Who Gets to Tell the Family Story?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[這些可怕的日子]]></title>
-            <link>https://www.theatlantic.com/family/archive/2022/04/covid-ukraine-anxiety/629540/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/family/archive/2022/04/covid-ukraine-anxiety/629540/?utm_source=feed</guid>
-            <pubDate>Tue, 12 Apr 2022 17:33:40 GMT</pubDate>
-            <description><![CDATA[These Dreadful Days]]></description>
         </item>
     </channel>
 </rss>

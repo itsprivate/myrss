@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-03T19:46:03.818Z</updated>
+    <updated>2022-06-03T20:31:23.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[何時才能結束？浪潮
+]]></title>
+        <id>https://www.theatlantic.com/health/archive/2022/06/omicron-variant-seasonal-infections/661181/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/health/archive/2022/06/omicron-variant-seasonal-infections/661181/?utm_source=feed"/>
+        <updated>2022-06-03T20:19:23.000Z</updated>
+        <summary type="html"><![CDATA[The ‘When Will It End?’ Wave]]></summary>
+        <author>
+            <name>Yasmin Tayag</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[您的書評。閹割者
 ]]></title>
@@ -6645,17 +6657,6 @@
         <author>
             <name>Tad Friend</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[這些可怕的日子]]></title>
-        <id>https://www.theatlantic.com/family/archive/2022/04/covid-ukraine-anxiety/629540/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/family/archive/2022/04/covid-ukraine-anxiety/629540/?utm_source=feed"/>
-        <updated>2022-04-12T17:33:40.000Z</updated>
-        <summary type="html"><![CDATA[These Dreadful Days]]></summary>
-        <author>
-            <name>Molly Jong-Fast</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>
 </feed>
