@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 03 Jun 2022 14:47:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 15:00:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[伊利斯-斯特凡尼克真的不需要擁抱特朗普主義
+]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/elise-stefanik-really-doesnt-need-to-embrace-trumpism</link>
+            <guid>https://www.newyorker.com/news/daily-comment/elise-stefanik-really-doesnt-need-to-embrace-trumpism</guid>
+            <pubDate>Fri, 03 Jun 2022 14:29:30 GMT</pubDate>
+            <description><![CDATA[Elise Stefanik Really Doesn’t Need to Embrace Trumpism]]></description>
+        </item>
         <item>
             <title><![CDATA[伊利斯-斯特凡尼克真的不需要擁抱特朗普主義
 ]]></title>
@@ -4240,13 +4248,6 @@
             <guid>https://austinkleon.substack.com/p/winter-diary-walkthrough</guid>
             <pubDate>Tue, 12 Apr 2022 12:00:38 GMT</pubDate>
             <description><![CDATA[Winter diary walkthrough]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美國需要哀悼100萬的COVID損失]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/04/us-covid-grief-one-million-deaths/629533/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/04/us-covid-grief-one-million-deaths/629533/?utm_source=feed</guid>
-            <pubDate>Tue, 12 Apr 2022 11:01:56 GMT</pubDate>
-            <description><![CDATA[America Needs to Grieve 1 Million COVID Losses]]></description>
         </item>
     </channel>
 </rss>
