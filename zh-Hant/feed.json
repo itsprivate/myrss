@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/news/our-columnists/the-new-jobs-report-is-encouraging-on-jobs-and-inflation",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/our-columnists/the-new-jobs-report-is-encouraging-on-jobs-and-inflation",
+            "title": "新的就業報告在就業和通貨膨脹方面是令人鼓舞的\n",
+            "summary": "The New Jobs Report Is Encouraging on Jobs and Inflation",
+            "date_modified": "2022-06-03T23:44:57.000Z",
+            "author": {
+                "name": "John Cassidy",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://www.nytimes.com/2022/06/03/business/tesla-elon-musk-job-cuts.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/06/03/business/tesla-elon-musk-job-cuts.html",
+            "title": "馬斯克告訴員工，特斯拉將削減10%的受薪員工\n",
+            "summary": "Tesla to Cut 10% of Salaried Staff, Musk Tells Employees",
+            "date_modified": "2022-06-03T23:39:58.000Z",
+            "author": {
+                "name": "Niraj Chokshi and Cade Metz",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/daily-comment/the-queens-platinum-jubilee-and-the-strange-life-of-royals",
             "content_html": "",
             "url": "https://www.newyorker.com/news/daily-comment/the-queens-platinum-jubilee-and-the-strange-life-of-royals",
@@ -7183,30 +7207,6 @@
             "date_modified": "2022-04-12T17:59:41.000Z",
             "author": {
                 "name": "Ginny Hogan, Eric Kofman",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/04/18/early-american-aesthetics-at-the-commerce-inn",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/04/18/early-american-aesthetics-at-the-commerce-inn",
-            "title": "商業旅館的早期美國美學",
-            "summary": "Early American Aesthetics at the Commerce Inn",
-            "date_modified": "2022-04-08T10:00:00.000Z",
-            "author": {
-                "name": "Hannah Goldfield",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/04/18/the-skin-of-our-teeth-reinterpreted",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/04/18/the-skin-of-our-teeth-reinterpreted",
-            "title": "\"我們的牙齒的皮膚\"，重新詮釋",
-            "summary": "“The Skin of Our Teeth,” Reinterpreted",
-            "date_modified": "2022-04-08T10:00:00.000Z",
-            "author": {
-                "name": "unknown",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

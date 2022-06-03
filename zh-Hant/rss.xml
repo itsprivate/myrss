@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 03 Jun 2022 23:27:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 23:59:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[新的就業報告在就業和通貨膨脹方面是令人鼓舞的
+]]></title>
+            <link>https://www.newyorker.com/news/our-columnists/the-new-jobs-report-is-encouraging-on-jobs-and-inflation</link>
+            <guid>https://www.newyorker.com/news/our-columnists/the-new-jobs-report-is-encouraging-on-jobs-and-inflation</guid>
+            <pubDate>Fri, 03 Jun 2022 23:44:57 GMT</pubDate>
+            <description><![CDATA[The New Jobs Report Is Encouraging on Jobs and Inflation]]></description>
+        </item>
+        <item>
+            <title><![CDATA[馬斯克告訴員工，特斯拉將削減10%的受薪員工
+]]></title>
+            <link>https://www.nytimes.com/2022/06/03/business/tesla-elon-musk-job-cuts.html</link>
+            <guid>https://www.nytimes.com/2022/06/03/business/tesla-elon-musk-job-cuts.html</guid>
+            <pubDate>Fri, 03 Jun 2022 23:39:58 GMT</pubDate>
+            <description><![CDATA[Tesla to Cut 10% of Salaried Staff, Musk Tells Employees]]></description>
+        </item>
         <item>
             <title><![CDATA[女王的白金紀念日和皇家的奇怪生活
 ]]></title>
@@ -4247,20 +4263,6 @@
             <guid>https://www.newyorker.com/humor/daily-shouts/punishments-for-children-that-id-love-as-an-adult</guid>
             <pubDate>Tue, 12 Apr 2022 17:59:41 GMT</pubDate>
             <description><![CDATA[Punishments for Children That I’d Love as an Adult]]></description>
-        </item>
-        <item>
-            <title><![CDATA[商業旅館的早期美國美學]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/18/early-american-aesthetics-at-the-commerce-inn</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/18/early-american-aesthetics-at-the-commerce-inn</guid>
-            <pubDate>Fri, 08 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Early American Aesthetics at the Commerce Inn]]></description>
-        </item>
-        <item>
-            <title><![CDATA["我們的牙齒的皮膚"，重新詮釋]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/18/the-skin-of-our-teeth-reinterpreted</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/18/the-skin-of-our-teeth-reinterpreted</guid>
-            <pubDate>Fri, 08 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[“The Skin of Our Teeth,” Reinterpreted]]></description>
         </item>
     </channel>
 </rss>

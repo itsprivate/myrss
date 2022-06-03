@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-03T23:27:12.821Z</updated>
+    <updated>2022-06-03T23:59:07.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[新的就業報告在就業和通貨膨脹方面是令人鼓舞的
+]]></title>
+        <id>https://www.newyorker.com/news/our-columnists/the-new-jobs-report-is-encouraging-on-jobs-and-inflation</id>
+        <link href="https://www.newyorker.com/news/our-columnists/the-new-jobs-report-is-encouraging-on-jobs-and-inflation"/>
+        <updated>2022-06-03T23:44:57.000Z</updated>
+        <summary type="html"><![CDATA[The New Jobs Report Is Encouraging on Jobs and Inflation]]></summary>
+        <author>
+            <name>John Cassidy</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[馬斯克告訴員工，特斯拉將削減10%的受薪員工
+]]></title>
+        <id>https://www.nytimes.com/2022/06/03/business/tesla-elon-musk-job-cuts.html</id>
+        <link href="https://www.nytimes.com/2022/06/03/business/tesla-elon-musk-job-cuts.html"/>
+        <updated>2022-06-03T23:39:58.000Z</updated>
+        <summary type="html"><![CDATA[Tesla to Cut 10% of Salaried Staff, Musk Tells Employees]]></summary>
+        <author>
+            <name>Niraj Chokshi and Cade Metz</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[女王的白金紀念日和皇家的奇怪生活
 ]]></title>
@@ -6638,28 +6662,6 @@
         <summary type="html"><![CDATA[Punishments for Children That I’d Love as an Adult]]></summary>
         <author>
             <name>Ginny Hogan, Eric Kofman</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[商業旅館的早期美國美學]]></title>
-        <id>https://www.newyorker.com/magazine/2022/04/18/early-american-aesthetics-at-the-commerce-inn</id>
-        <link href="https://www.newyorker.com/magazine/2022/04/18/early-american-aesthetics-at-the-commerce-inn"/>
-        <updated>2022-04-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Early American Aesthetics at the Commerce Inn]]></summary>
-        <author>
-            <name>Hannah Goldfield</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["我們的牙齒的皮膚"，重新詮釋]]></title>
-        <id>https://www.newyorker.com/magazine/2022/04/18/the-skin-of-our-teeth-reinterpreted</id>
-        <link href="https://www.newyorker.com/magazine/2022/04/18/the-skin-of-our-teeth-reinterpreted"/>
-        <updated>2022-04-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“The Skin of Our Teeth,” Reinterpreted]]></summary>
-        <author>
-            <name>unknown</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
