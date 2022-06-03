@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-03T20:48:30.593Z</updated>
+    <updated>2022-06-03T21:26:39.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["鮑勃的漢堡》登陸大銀幕
+]]></title>
+        <id>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/bobs-burgers-hits-the-big-screen</id>
+        <link href="https://www.newyorker.com/podcast/the-new-yorker-radio-hour/bobs-burgers-hits-the-big-screen"/>
+        <updated>2022-06-03T21:07:14.000Z</updated>
+        <summary type="html"><![CDATA[“Bob’s Burgers” Hits the Big Screen]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大衛-柯南伯格的夢想和噩夢
 ]]></title>
@@ -6646,17 +6658,6 @@
         <summary type="html"><![CDATA[A “Hamilton” for the Suffrage Movement]]></summary>
         <author>
             <name>Alexandra Schwartz</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[種族、戰爭和溫斯洛-霍默]]></title>
-        <id>https://www.newyorker.com/magazine/2022/04/18/war-race-and-winslow-homer-william-r-cross-american-passage-metropolitan-museum-exhibition</id>
-        <link href="https://www.newyorker.com/magazine/2022/04/18/war-race-and-winslow-homer-william-r-cross-american-passage-metropolitan-museum-exhibition"/>
-        <updated>2022-04-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Race, War, and Winslow Homer]]></summary>
-        <author>
-            <name>Claudia Roth Pierpont</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>

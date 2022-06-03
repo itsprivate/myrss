@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour/bobs-burgers-hits-the-big-screen",
+            "content_html": "",
+            "url": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour/bobs-burgers-hits-the-big-screen",
+            "title": "\"鮑勃的漢堡》登陸大銀幕\n",
+            "summary": "“Bob’s Burgers” Hits the Big Screen",
+            "date_modified": "2022-06-03T21:07:14.000Z",
+            "author": {
+                "name": "unknown",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/culture/persons-of-interest/david-cronenbergs-dreams-and-nightmares",
             "content_html": "",
             "url": "https://www.newyorker.com/culture/persons-of-interest/david-cronenbergs-dreams-and-nightmares",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-04-11T10:00:00.000Z",
             "author": {
                 "name": "Alexandra Schwartz",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/04/18/war-race-and-winslow-homer-william-r-cross-american-passage-metropolitan-museum-exhibition",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/04/18/war-race-and-winslow-homer-william-r-cross-american-passage-metropolitan-museum-exhibition",
-            "title": "種族、戰爭和溫斯洛-霍默",
-            "summary": "Race, War, and Winslow Homer",
-            "date_modified": "2022-04-11T10:00:00.000Z",
-            "author": {
-                "name": "Claudia Roth Pierpont",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

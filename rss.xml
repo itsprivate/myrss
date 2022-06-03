@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 03 Jun 2022 20:48:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 21:26:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA["鲍勃的汉堡》登陆大银幕
+]]></title>
+            <link>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/bobs-burgers-hits-the-big-screen</link>
+            <guid>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/bobs-burgers-hits-the-big-screen</guid>
+            <pubDate>Fri, 03 Jun 2022 21:07:14 GMT</pubDate>
+            <description><![CDATA[“Bob’s Burgers” Hits the Big Screen]]></description>
+        </item>
         <item>
             <title><![CDATA[大卫-柯南伯格的梦想和噩梦
 ]]></title>
@@ -4251,13 +4259,6 @@
             <guid>https://www.newyorker.com/magazine/2022/04/18/a-hamilton-for-the-suffrage-movement</guid>
             <pubDate>Mon, 11 Apr 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[A “Hamilton” for the Suffrage Movement]]></description>
-        </item>
-        <item>
-            <title><![CDATA[种族、战争和温斯洛-霍默]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/18/war-race-and-winslow-homer-william-r-cross-american-passage-metropolitan-museum-exhibition</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/18/war-race-and-winslow-homer-william-r-cross-american-passage-metropolitan-museum-exhibition</guid>
-            <pubDate>Mon, 11 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[Race, War, and Winslow Homer]]></description>
         </item>
     </channel>
 </rss>
