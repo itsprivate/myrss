@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-03T17:39:51.610Z</updated>
+    <updated>2022-06-03T18:36:01.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[親愛的佩珀。時間的問題
+]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/dear-pepper-a-matter-of-time</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/dear-pepper-a-matter-of-time"/>
+        <updated>2022-06-03T17:59:06.000Z</updated>
+        <summary type="html"><![CDATA[Dear Pepper: A Matter of Time]]></summary>
+        <author>
+            <name>Liana Finck</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亞馬遜消費者業務CEO戴夫-克拉克卸任
+]]></title>
+        <id>https://www.nytimes.com/2022/06/03/business/dave-clark-amazon.html</id>
+        <link href="https://www.nytimes.com/2022/06/03/business/dave-clark-amazon.html"/>
+        <updated>2022-06-03T18:08:30.000Z</updated>
+        <summary type="html"><![CDATA[Dave Clark, Amazon’s CEO of Consumer Business, Steps Down]]></summary>
+        <author>
+            <name>Karen Weise</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拜登和澤倫斯基達成協議，將美國人的4億支槍送至烏克蘭
 ]]></title>
@@ -6629,28 +6653,6 @@
         <author>
             <name>Helen Lewis</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[歡迎回到辦公室。這不是很有趣嗎？]]></title>
-        <id>https://www.nytimes.com/2022/04/12/technology/rto-return-office-technology.html</id>
-        <link href="https://www.nytimes.com/2022/04/12/technology/rto-return-office-technology.html"/>
-        <updated>2022-04-12T16:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Welcome Back to the Office. Isn’t This Fun?]]></summary>
-        <author>
-            <name>Daisuke Wakabayashi, Erin Griffith and Kate Conger</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[華爾街日報》為徵用億萬富翁提出了理由]]></title>
-        <id>https://www.currentaffairs.org/2022/04/the-wall-street-journal-makes-the-case-for-expropriating-billionaires/</id>
-        <link href="https://www.currentaffairs.org/2022/04/the-wall-street-journal-makes-the-case-for-expropriating-billionaires/"/>
-        <updated>2022-04-12T11:56:41.000Z</updated>
-        <summary type="html"><![CDATA[The Wall Street Journal Makes The Case For Expropriating Billionaires]]></summary>
-        <author>
-            <name>Nathan J. Robinson</name>
-            <uri>https://www.currentaffairs.org/feed</uri>
         </author>
     </entry>
 </feed>
