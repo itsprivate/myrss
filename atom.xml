@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-03T18:36:01.258Z</updated>
+    <updated>2022-06-03T19:25:58.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么《华盛顿邮报》在约翰尼-德普-安柏-赫德的审判中没有被点名？
+]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/why-the-washington-post-wasnt-named-in-the-johnny-depp-amber-heard-trial</id>
+        <link href="https://www.newyorker.com/news/daily-comment/why-the-washington-post-wasnt-named-in-the-johnny-depp-amber-heard-trial"/>
+        <updated>2022-06-03T18:49:06.000Z</updated>
+        <summary type="html"><![CDATA[Why the Washington Post Wasn’t Named in the Johnny Depp–Amber Heard Trial]]></summary>
+        <author>
+            <name>Fabio Bertoni</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[葫芦岛的苦乐参半的傻事<em>火岛</em>。
+]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/06/fire-island-hulu-movie-review/661179/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/06/fire-island-hulu-movie-review/661179/?utm_source=feed"/>
+        <updated>2022-06-03T19:08:33.000Z</updated>
+        <summary type="html"><![CDATA[The Bittersweet Silliness of Hulu’s <em>Fire Island</em>]]></summary>
+        <author>
+            <name>Spencer Kornhaber</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亲爱的佩珀。时间的问题
 ]]></title>
@@ -6630,28 +6654,6 @@
         <summary type="html"><![CDATA[How a Book Gets to Live a Second Life]]></summary>
         <author>
             <name>Farah Abdessamad</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这就是战争的决定性时刻]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-russia-war-consequences/629541/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/04/ukraine-russia-war-consequences/629541/?utm_source=feed"/>
-        <updated>2022-04-12T17:05:23.000Z</updated>
-        <summary type="html"><![CDATA[This Is the War’s Decisive Moment]]></summary>
-        <author>
-            <name>Eliot A. Cohen</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在欧洲的前罗伊尔人中]]></title>
-        <id>https://www.theatlantic.com/magazine/archive/2022/05/leka-ii-crown-prince-albania-europe-monarchy/629368/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/magazine/archive/2022/05/leka-ii-crown-prince-albania-europe-monarchy/629368/?utm_source=feed"/>
-        <updated>2022-04-12T17:05:42.000Z</updated>
-        <summary type="html"><![CDATA[Among Europe’s Ex-Royals]]></summary>
-        <author>
-            <name>Helen Lewis</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
         </author>
     </entry>

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 03 Jun 2022 18:36:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 19:25:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼《華盛頓郵報》在約翰尼-德普-安柏-赫德的審判中沒有被點名？
+]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/why-the-washington-post-wasnt-named-in-the-johnny-depp-amber-heard-trial</link>
+            <guid>https://www.newyorker.com/news/daily-comment/why-the-washington-post-wasnt-named-in-the-johnny-depp-amber-heard-trial</guid>
+            <pubDate>Fri, 03 Jun 2022 18:49:06 GMT</pubDate>
+            <description><![CDATA[Why the Washington Post Wasn’t Named in the Johnny Depp–Amber Heard Trial]]></description>
+        </item>
+        <item>
+            <title><![CDATA[葫蘆島的苦樂參半的傻事<em>火島</em>。
+]]></title>
+            <link>https://www.theatlantic.com/culture/archive/2022/06/fire-island-hulu-movie-review/661179/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/culture/archive/2022/06/fire-island-hulu-movie-review/661179/?utm_source=feed</guid>
+            <pubDate>Fri, 03 Jun 2022 19:08:33 GMT</pubDate>
+            <description><![CDATA[The Bittersweet Silliness of Hulu’s <em>Fire Island</em>]]></description>
+        </item>
         <item>
             <title><![CDATA[親愛的佩珀。時間的問題
 ]]></title>
@@ -4239,20 +4255,6 @@
             <guid>https://www.theatlantic.com/culture/archive/2022/04/novels-english-translation-ditlevsen-mahfouz/629538/?utm_source=feed</guid>
             <pubDate>Tue, 12 Apr 2022 17:37:56 GMT</pubDate>
             <description><![CDATA[How a Book Gets to Live a Second Life]]></description>
-        </item>
-        <item>
-            <title><![CDATA[這就是戰爭的決定性時刻]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-russia-war-consequences/629541/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/04/ukraine-russia-war-consequences/629541/?utm_source=feed</guid>
-            <pubDate>Tue, 12 Apr 2022 17:05:23 GMT</pubDate>
-            <description><![CDATA[This Is the War’s Decisive Moment]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在歐洲的前羅伊爾人中]]></title>
-            <link>https://www.theatlantic.com/magazine/archive/2022/05/leka-ii-crown-prince-albania-europe-monarchy/629368/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/magazine/archive/2022/05/leka-ii-crown-prince-albania-europe-monarchy/629368/?utm_source=feed</guid>
-            <pubDate>Tue, 12 Apr 2022 17:05:42 GMT</pubDate>
-            <description><![CDATA[Among Europe’s Ex-Royals]]></description>
         </item>
     </channel>
 </rss>
