@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-02T23:59:14.952Z</updated>
+    <updated>2022-06-03T02:09:08.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼被削弱的N.R.A.仍然能得到它想要的東西？
+]]></title>
+        <id>https://www.newyorker.com/podcast/politics-and-more/why-a-weakened-nra-still-gets-what-it-wants</id>
+        <link href="https://www.newyorker.com/podcast/politics-and-more/why-a-weakened-nra-still-gets-what-it-wants"/>
+        <updated>2022-06-02T23:52:45.000Z</updated>
+        <summary type="html"><![CDATA[Why a Weakened N.R.A. Still Gets What It Wants]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[採訪。凱瑟琳-博伊爾，風險投資家
+]]></title>
+        <id>https://noahpinion.substack.com/p/interview-katherine-boyle-venture</id>
+        <link href="https://noahpinion.substack.com/p/interview-katherine-boyle-venture"/>
+        <updated>2022-06-03T01:38:26.000Z</updated>
+        <summary type="html"><![CDATA[Interview: Katherine Boyle, venture capitalist]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼被削弱的N.R.A.仍然能得到它想要的東西？
 ]]></title>
@@ -6612,28 +6636,6 @@
         <link href="https://www.mooreds.com/wordpress/archives/3429"/>
         <updated>2021-02-01T15:35:28.000Z</updated>
         <summary type="html"><![CDATA[Slack failing to open with NS_ERROR_DOM_ABORT_ERR error]]></summary>
-        <author>
-            <name>moore</name>
-            <uri>http://edit.mooreds.com/wordpress/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公共雲時代的開源軟件商業模式問題]]></title>
-        <id>https://www.mooreds.com/wordpress/archives/3438</id>
-        <link href="https://www.mooreds.com/wordpress/archives/3438"/>
-        <updated>2021-03-13T17:31:44.000Z</updated>
-        <summary type="html"><![CDATA[Open source software business model concerns in the age of the public cloud]]></summary>
-        <author>
-            <name>moore</name>
-            <uri>http://edit.mooreds.com/wordpress/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於尋找技術聯合創始人的建議]]></title>
-        <id>https://www.mooreds.com/wordpress/archives/3445</id>
-        <link href="https://www.mooreds.com/wordpress/archives/3445"/>
-        <updated>2021-04-03T17:09:02.000Z</updated>
-        <summary type="html"><![CDATA[Advice for finding a technical co-founder]]></summary>
         <author>
             <name>moore</name>
             <uri>http://edit.mooreds.com/wordpress/feed</uri>

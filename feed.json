@@ -19,6 +19,30 @@
             "date_modified": "2022-06-02T23:52:45.000Z",
             "author": {
                 "name": "unknown",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
+            "id": "https://noahpinion.substack.com/p/interview-katherine-boyle-venture",
+            "content_html": "",
+            "url": "https://noahpinion.substack.com/p/interview-katherine-boyle-venture",
+            "title": "采访。凯瑟琳-博伊尔，风险投资家\n",
+            "summary": "Interview: Katherine Boyle, venture capitalist",
+            "date_modified": "2022-06-03T01:38:26.000Z",
+            "author": {
+                "name": "Noah Smith",
+                "url": "https://noahpinion.substack.com/feed"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/podcast/politics-and-more/why-a-weakened-nra-still-gets-what-it-wants",
+            "content_html": "",
+            "url": "https://www.newyorker.com/podcast/politics-and-more/why-a-weakened-nra-still-gets-what-it-wants",
+            "title": "为什么被削弱的N.R.A.仍然能得到它想要的东西？\n",
+            "summary": "Why a Weakened N.R.A. Still Gets What It Wants",
+            "date_modified": "2022-06-02T23:52:45.000Z",
+            "author": {
+                "name": "unknown",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         },
@@ -7181,30 +7205,6 @@
             "title": "Slack无法打开，出现NS_ERROR_DOM_ABORT_ERR错误",
             "summary": "Slack failing to open with NS_ERROR_DOM_ABORT_ERR error",
             "date_modified": "2021-02-01T15:35:28.000Z",
-            "author": {
-                "name": "moore",
-                "url": "http://edit.mooreds.com/wordpress/feed"
-            }
-        },
-        {
-            "id": "https://www.mooreds.com/wordpress/archives/3438",
-            "content_html": "",
-            "url": "https://www.mooreds.com/wordpress/archives/3438",
-            "title": "公共云时代的开源软件商业模式问题",
-            "summary": "Open source software business model concerns in the age of the public cloud",
-            "date_modified": "2021-03-13T17:31:44.000Z",
-            "author": {
-                "name": "moore",
-                "url": "http://edit.mooreds.com/wordpress/feed"
-            }
-        },
-        {
-            "id": "https://www.mooreds.com/wordpress/archives/3445",
-            "content_html": "",
-            "url": "https://www.mooreds.com/wordpress/archives/3445",
-            "title": "关于寻找技术联合创始人的建议",
-            "summary": "Advice for finding a technical co-founder",
-            "date_modified": "2021-04-03T17:09:02.000Z",
             "author": {
                 "name": "moore",
                 "url": "http://edit.mooreds.com/wordpress/feed"
