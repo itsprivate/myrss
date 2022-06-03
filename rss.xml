@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 03 Jun 2022 21:26:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 21:58:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[雪莉-桑德伯格的离职揭示了女性在科技领域的进步
+]]></title>
+            <link>https://www.nytimes.com/2022/06/03/technology/sheryl-sandberg-women-in-tech.html</link>
+            <guid>https://www.nytimes.com/2022/06/03/technology/sheryl-sandberg-women-in-tech.html</guid>
+            <pubDate>Fri, 03 Jun 2022 21:52:18 GMT</pubDate>
+            <description><![CDATA[What Sheryl Sandberg’s Exit Reveals About Women’s Progress in Tech]]></description>
+        </item>
         <item>
             <title><![CDATA["鲍勃的汉堡》登陆大银幕
 ]]></title>
@@ -4252,13 +4260,6 @@
             <guid>https://www.newyorker.com/magazine/2022/04/18/the-restless-youth-of-paris-13th-district</guid>
             <pubDate>Fri, 08 Apr 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[The Restless Youth of “Paris, 13th District”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[选举权运动的 "汉密尔顿"]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/18/a-hamilton-for-the-suffrage-movement</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/18/a-hamilton-for-the-suffrage-movement</guid>
-            <pubDate>Mon, 11 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[A “Hamilton” for the Suffrage Movement]]></description>
         </item>
     </channel>
 </rss>

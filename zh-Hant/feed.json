@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.nytimes.com/2022/06/03/technology/sheryl-sandberg-women-in-tech.html",
+            "content_html": "",
+            "url": "https://www.nytimes.com/2022/06/03/technology/sheryl-sandberg-women-in-tech.html",
+            "title": "雪莉-桑德伯格的離職揭示了女性在科技領域的進步\n",
+            "summary": "What Sheryl Sandberg’s Exit Reveals About Women’s Progress in Tech",
+            "date_modified": "2022-06-03T21:52:18.000Z",
+            "author": {
+                "name": "Cecilia Kang and Erin Griffith",
+                "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour/bobs-burgers-hits-the-big-screen",
             "content_html": "",
             "url": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour/bobs-burgers-hits-the-big-screen",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-04-08T10:00:00.000Z",
             "author": {
                 "name": "Anthony Lane",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/04/18/a-hamilton-for-the-suffrage-movement",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/04/18/a-hamilton-for-the-suffrage-movement",
-            "title": "選舉權運動的 \"漢密爾頓\"",
-            "summary": "A “Hamilton” for the Suffrage Movement",
-            "date_modified": "2022-04-11T10:00:00.000Z",
-            "author": {
-                "name": "Alexandra Schwartz",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

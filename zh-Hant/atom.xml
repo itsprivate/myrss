@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-03T21:26:39.247Z</updated>
+    <updated>2022-06-03T21:58:44.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[雪莉-桑德伯格的離職揭示了女性在科技領域的進步
+]]></title>
+        <id>https://www.nytimes.com/2022/06/03/technology/sheryl-sandberg-women-in-tech.html</id>
+        <link href="https://www.nytimes.com/2022/06/03/technology/sheryl-sandberg-women-in-tech.html"/>
+        <updated>2022-06-03T21:52:18.000Z</updated>
+        <summary type="html"><![CDATA[What Sheryl Sandberg’s Exit Reveals About Women’s Progress in Tech]]></summary>
+        <author>
+            <name>Cecilia Kang and Erin Griffith</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["鮑勃的漢堡》登陸大銀幕
 ]]></title>
@@ -6647,17 +6659,6 @@
         <summary type="html"><![CDATA[The Restless Youth of “Paris, 13th District”]]></summary>
         <author>
             <name>Anthony Lane</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[選舉權運動的 "漢密爾頓"]]></title>
-        <id>https://www.newyorker.com/magazine/2022/04/18/a-hamilton-for-the-suffrage-movement</id>
-        <link href="https://www.newyorker.com/magazine/2022/04/18/a-hamilton-for-the-suffrage-movement"/>
-        <updated>2022-04-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A “Hamilton” for the Suffrage Movement]]></summary>
-        <author>
-            <name>Alexandra Schwartz</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
