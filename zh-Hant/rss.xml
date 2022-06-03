@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 03 Jun 2022 19:25:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 19:46:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[您的書評。閹割者
+]]></title>
+            <link>https://astralcodexten.substack.com/p/your-book-review-the-castrato</link>
+            <guid>https://astralcodexten.substack.com/p/your-book-review-the-castrato</guid>
+            <pubDate>Fri, 03 Jun 2022 19:20:37 GMT</pubDate>
+            <description><![CDATA[Your Book Review: The Castrato]]></description>
+        </item>
         <item>
             <title><![CDATA[為什麼《華盛頓郵報》在約翰尼-德普-安柏-赫德的審判中沒有被點名？
 ]]></title>
@@ -4248,13 +4256,6 @@
             <guid>https://www.theatlantic.com/family/archive/2022/04/covid-ukraine-anxiety/629540/?utm_source=feed</guid>
             <pubDate>Tue, 12 Apr 2022 17:33:40 GMT</pubDate>
             <description><![CDATA[These Dreadful Days]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一本書如何獲得第二人生]]></title>
-            <link>https://www.theatlantic.com/culture/archive/2022/04/novels-english-translation-ditlevsen-mahfouz/629538/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/culture/archive/2022/04/novels-english-translation-ditlevsen-mahfouz/629538/?utm_source=feed</guid>
-            <pubDate>Tue, 12 Apr 2022 17:37:56 GMT</pubDate>
-            <description><![CDATA[How a Book Gets to Live a Second Life]]></description>
         </item>
     </channel>
 </rss>

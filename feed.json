@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://astralcodexten.substack.com/p/your-book-review-the-castrato",
+            "content_html": "",
+            "url": "https://astralcodexten.substack.com/p/your-book-review-the-castrato",
+            "title": "您的书评。阉割者\n",
+            "summary": "Your Book Review: The Castrato",
+            "date_modified": "2022-06-03T19:20:37.000Z",
+            "author": {
+                "name": "Scott Alexander",
+                "url": "https://astralcodexten.substack.com/feed"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/news/daily-comment/why-the-washington-post-wasnt-named-in-the-johnny-depp-amber-heard-trial",
             "content_html": "",
             "url": "https://www.newyorker.com/news/daily-comment/why-the-washington-post-wasnt-named-in-the-johnny-depp-amber-heard-trial",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-04-12T17:33:40.000Z",
             "author": {
                 "name": "Molly Jong-Fast",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/culture/archive/2022/04/novels-english-translation-ditlevsen-mahfouz/629538/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/culture/archive/2022/04/novels-english-translation-ditlevsen-mahfouz/629538/?utm_source=feed",
-            "title": "一本书如何获得第二人生",
-            "summary": "How a Book Gets to Live a Second Life",
-            "date_modified": "2022-04-12T17:37:56.000Z",
-            "author": {
-                "name": "Farah Abdessamad",
                 "url": "https://www.theatlantic.com/feed/all/"
             }
         }
