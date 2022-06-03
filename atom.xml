@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-03T15:51:51.363Z</updated>
+    <updated>2022-06-03T16:46:26.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[乔-拜登在中期选举前的 "有所作为 "时刻
+]]></title>
+        <id>https://www.newyorker.com/news/letter-from-bidens-washington/joe-bidens-do-something-moment-before-the-midterms</id>
+        <link href="https://www.newyorker.com/news/letter-from-bidens-washington/joe-bidens-do-something-moment-before-the-midterms"/>
+        <updated>2022-06-03T15:57:43.000Z</updated>
+        <summary type="html"><![CDATA[Joe Biden’s “Do Something” Moment Before the Midterms]]></summary>
+        <author>
+            <name>Susan B. Glasser</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[它是艺术还是蛋糕？
 ]]></title>
@@ -6638,17 +6650,6 @@
         <author>
             <name>Katherine J. Wu</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日漫画。4月12日，星期二]]></title>
-        <id>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-april-12th-squirrel-house</id>
-        <link href="https://www.newyorker.com/cartoons/daily-cartoon/tuesday-april-12th-squirrel-house"/>
-        <updated>2022-04-12T14:20:28.000Z</updated>
-        <summary type="html"><![CDATA[Daily Cartoon: Tuesday, April 12th]]></summary>
-        <author>
-            <name>Theora Kvitka</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
