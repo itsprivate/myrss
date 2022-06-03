@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-03T13:28:58.345Z</updated>
+    <updated>2022-06-03T14:26:35.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[学习如何在公共场合进行哀悼
+]]></title>
+        <id>https://www.theatlantic.com/books/archive/2022/06/books-briefing-john-gunther-joyce-maynard/661160/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/books/archive/2022/06/books-briefing-john-gunther-joyce-maynard/661160/?utm_source=feed"/>
+        <updated>2022-06-03T14:01:56.000Z</updated>
+        <summary type="html"><![CDATA[Learning How to Grieve in Public]]></summary>
+        <author>
+            <name>Andrew Aoyama</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[无党派总统史的死亡
 ]]></title>
@@ -6630,17 +6642,6 @@
         <link href="https://www.mooreds.com/wordpress/archives/3376"/>
         <updated>2020-08-02T15:59:53.000Z</updated>
         <summary type="html"><![CDATA[What I wish I had known when I was starting out as a developer]]></summary>
-        <author>
-            <name>moore</name>
-            <uri>http://edit.mooreds.com/wordpress/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[书评。一段名为帝国的记忆]]></title>
-        <id>https://www.mooreds.com/wordpress/archives/3392</id>
-        <link href="https://www.mooreds.com/wordpress/archives/3392"/>
-        <updated>2020-09-22T02:54:22.000Z</updated>
-        <summary type="html"><![CDATA[Book Review: A Memory Called Empire]]></summary>
         <author>
             <name>moore</name>
             <uri>http://edit.mooreds.com/wordpress/feed</uri>
