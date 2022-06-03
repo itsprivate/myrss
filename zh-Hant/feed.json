@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/culture/persons-of-interest/david-cronenbergs-dreams-and-nightmares",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/persons-of-interest/david-cronenbergs-dreams-and-nightmares",
+            "title": "大衛-柯南伯格的夢想和噩夢\n",
+            "summary": "David Cronenberg’s Dreams and Nightmares",
+            "date_modified": "2022-06-03T20:35:22.000Z",
+            "author": {
+                "name": "Adam Nayman",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/health/archive/2022/06/omicron-variant-seasonal-infections/661181/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/health/archive/2022/06/omicron-variant-seasonal-infections/661181/?utm_source=feed",
@@ -7195,18 +7207,6 @@
             "date_modified": "2022-04-11T10:00:00.000Z",
             "author": {
                 "name": "Claudia Roth Pierpont",
-                "url": "https://www.newyorker.com/feed/culture"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/magazine/2022/04/18/with-father-and-son-writers-who-gets-to-tell-the-family-story",
-            "content_html": "",
-            "url": "https://www.newyorker.com/magazine/2022/04/18/with-father-and-son-writers-who-gets-to-tell-the-family-story",
-            "title": "有了父子作家，誰能講述家庭故事？",
-            "summary": "With Father-and-Son Writers, Who Gets to Tell the Family Story?",
-            "date_modified": "2022-04-11T10:00:00.000Z",
-            "author": {
-                "name": "Tad Friend",
                 "url": "https://www.newyorker.com/feed/culture"
             }
         }

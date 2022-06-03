@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 03 Jun 2022 20:31:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 20:48:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[大衛-柯南伯格的夢想和噩夢
+]]></title>
+            <link>https://www.newyorker.com/culture/persons-of-interest/david-cronenbergs-dreams-and-nightmares</link>
+            <guid>https://www.newyorker.com/culture/persons-of-interest/david-cronenbergs-dreams-and-nightmares</guid>
+            <pubDate>Fri, 03 Jun 2022 20:35:22 GMT</pubDate>
+            <description><![CDATA[David Cronenberg’s Dreams and Nightmares]]></description>
+        </item>
         <item>
             <title><![CDATA[何時才能結束？浪潮
 ]]></title>
@@ -4250,13 +4258,6 @@
             <guid>https://www.newyorker.com/magazine/2022/04/18/war-race-and-winslow-homer-william-r-cross-american-passage-metropolitan-museum-exhibition</guid>
             <pubDate>Mon, 11 Apr 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Race, War, and Winslow Homer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有了父子作家，誰能講述家庭故事？]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/18/with-father-and-son-writers-who-gets-to-tell-the-family-story</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/18/with-father-and-son-writers-who-gets-to-tell-the-family-story</guid>
-            <pubDate>Mon, 11 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[With Father-and-Son Writers, Who Gets to Tell the Family Story?]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-03T20:31:22.950Z</updated>
+    <updated>2022-06-03T20:48:30.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[大卫-柯南伯格的梦想和噩梦
+]]></title>
+        <id>https://www.newyorker.com/culture/persons-of-interest/david-cronenbergs-dreams-and-nightmares</id>
+        <link href="https://www.newyorker.com/culture/persons-of-interest/david-cronenbergs-dreams-and-nightmares"/>
+        <updated>2022-06-03T20:35:22.000Z</updated>
+        <summary type="html"><![CDATA[David Cronenberg’s Dreams and Nightmares]]></summary>
+        <author>
+            <name>Adam Nayman</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[何时才能结束？浪潮
 ]]></title>
@@ -6645,17 +6657,6 @@
         <summary type="html"><![CDATA[Race, War, and Winslow Homer]]></summary>
         <author>
             <name>Claudia Roth Pierpont</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有了父子作家，谁能讲述家庭故事？]]></title>
-        <id>https://www.newyorker.com/magazine/2022/04/18/with-father-and-son-writers-who-gets-to-tell-the-family-story</id>
-        <link href="https://www.newyorker.com/magazine/2022/04/18/with-father-and-son-writers-who-gets-to-tell-the-family-story"/>
-        <updated>2022-04-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With Father-and-Son Writers, Who Gets to Tell the Family Story?]]></summary>
-        <author>
-            <name>Tad Friend</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
