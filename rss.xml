@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 03 Jun 2022 21:58:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 23:27:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[女王的白金纪念日和皇家的奇怪生活
+]]></title>
+            <link>https://www.newyorker.com/news/daily-comment/the-queens-platinum-jubilee-and-the-strange-life-of-royals</link>
+            <guid>https://www.newyorker.com/news/daily-comment/the-queens-platinum-jubilee-and-the-strange-life-of-royals</guid>
+            <pubDate>Fri, 03 Jun 2022 22:58:29 GMT</pubDate>
+            <description><![CDATA[The Queen’s Platinum Jubilee and the Strange Life of Royals]]></description>
+        </item>
         <item>
             <title><![CDATA[雪莉-桑德伯格的离职揭示了女性在科技领域的进步
 ]]></title>
@@ -4253,13 +4261,6 @@
             <guid>https://www.newyorker.com/magazine/2022/04/18/the-skin-of-our-teeth-reinterpreted</guid>
             <pubDate>Fri, 08 Apr 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[“The Skin of Our Teeth,” Reinterpreted]]></description>
-        </item>
-        <item>
-            <title><![CDATA[巴黎十三区 "的不羁青年]]></title>
-            <link>https://www.newyorker.com/magazine/2022/04/18/the-restless-youth-of-paris-13th-district</link>
-            <guid>https://www.newyorker.com/magazine/2022/04/18/the-restless-youth-of-paris-13th-district</guid>
-            <pubDate>Fri, 08 Apr 2022 10:00:00 GMT</pubDate>
-            <description><![CDATA[The Restless Youth of “Paris, 13th District”]]></description>
         </item>
     </channel>
 </rss>
