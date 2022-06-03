@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Fri, 03 Jun 2022 02:09:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 05:02:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[本周的照片。天空之桥、拼写大赛、松鼠混战
+]]></title>
+            <link>https://www.theatlantic.com/photo/2022/06/photos-of-the-week-sky-bridge-spelling-bee-squirrel-scuffle/661173/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/photo/2022/06/photos-of-the-week-sky-bridge-spelling-bee-squirrel-scuffle/661173/?utm_source=feed</guid>
+            <pubDate>Fri, 03 Jun 2022 04:30:56 GMT</pubDate>
+            <description><![CDATA[Photos of the Week: Sky Bridge, Spelling Bee, Squirrel Scuffle]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么被削弱的N.R.A.仍然能得到它想要的东西？
 ]]></title>
@@ -4232,13 +4240,6 @@
             <guid>https://www.mooreds.com/wordpress/archives/3409</guid>
             <pubDate>Wed, 20 Jan 2021 16:35:00 GMT</pubDate>
             <description><![CDATA[The most underappreciated AWS service]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Slack无法打开，出现NS_ERROR_DOM_ABORT_ERR错误]]></title>
-            <link>https://www.mooreds.com/wordpress/archives/3429</link>
-            <guid>https://www.mooreds.com/wordpress/archives/3429</guid>
-            <pubDate>Mon, 01 Feb 2021 15:35:28 GMT</pubDate>
-            <description><![CDATA[Slack failing to open with NS_ERROR_DOM_ABORT_ERR error]]></description>
         </item>
     </channel>
 </rss>
