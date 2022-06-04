@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://noahpinion.substack.com/p/the-japan-that-abe-shinzo-made",
+            "content_html": "",
+            "url": "https://noahpinion.substack.com/p/the-japan-that-abe-shinzo-made",
+            "title": "安倍晋三制造的日本\n",
+            "summary": "The Japan that Abe Shinzo made",
+            "date_modified": "2022-06-04T10:52:57.000Z",
+            "author": {
+                "name": "Noah Smith",
+                "url": "https://noahpinion.substack.com/feed"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/humor/daily-shouts/therapy-everyone-can-afford",
             "content_html": "",
             "url": "https://www.newyorker.com/humor/daily-shouts/therapy-everyone-can-afford",
@@ -7192,18 +7204,6 @@
             "url": "http://cacm.acm.org/magazines/2022/4/259390-technologys-impact-on-morality",
             "title": "技术对道德的影响",
             "summary": "Technology's Impact on Morality",
-            "date_modified": "2022-04-01T04:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://cacm.acm.org/magazine.rss"
-            }
-        },
-        {
-            "id": "http://cacm.acm.org/magazines/2022/4/259389-achieving-cs-for-all-could-take-decades",
-            "content_html": "",
-            "url": "http://cacm.acm.org/magazines/2022/4/259389-achieving-cs-for-all-could-take-decades",
-            "title": "实现全民CS可能需要数十年时间",
-            "summary": "Achieving CS for All Could Take Decades",
             "date_modified": "2022-04-01T04:00:00.000Z",
             "author": {
                 "name": "unknown",

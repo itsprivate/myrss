@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-04T10:33:21.525Z</updated>
+    <updated>2022-06-04T10:58:58.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[安倍晉三製造的日本
+]]></title>
+        <id>https://noahpinion.substack.com/p/the-japan-that-abe-shinzo-made</id>
+        <link href="https://noahpinion.substack.com/p/the-japan-that-abe-shinzo-made"/>
+        <updated>2022-06-04T10:52:57.000Z</updated>
+        <summary type="html"><![CDATA[The Japan that Abe Shinzo made]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每個人都能負擔得起的治療
 ]]></title>
@@ -6656,17 +6668,6 @@
         <link href="http://cacm.acm.org/magazines/2022/4/259390-technologys-impact-on-morality"/>
         <updated>2022-04-01T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[Technology's Impact on Morality]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[實現全民CS可能需要數十年時間]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259389-achieving-cs-for-all-could-take-decades</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259389-achieving-cs-for-all-could-take-decades"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Achieving CS for All Could Take Decades]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://cacm.acm.org/magazine.rss</uri>

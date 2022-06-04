@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 04 Jun 2022 10:33:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 10:58:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[安倍晋三制造的日本
+]]></title>
+            <link>https://noahpinion.substack.com/p/the-japan-that-abe-shinzo-made</link>
+            <guid>https://noahpinion.substack.com/p/the-japan-that-abe-shinzo-made</guid>
+            <pubDate>Sat, 04 Jun 2022 10:52:57 GMT</pubDate>
+            <description><![CDATA[The Japan that Abe Shinzo made]]></description>
+        </item>
         <item>
             <title><![CDATA[每个人都能负担得起的治疗
 ]]></title>
@@ -4263,13 +4271,6 @@
             <guid>http://cacm.acm.org/magazines/2022/4/259390-technologys-impact-on-morality</guid>
             <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
             <description><![CDATA[Technology's Impact on Morality]]></description>
-        </item>
-        <item>
-            <title><![CDATA[实现全民CS可能需要数十年时间]]></title>
-            <link>http://cacm.acm.org/magazines/2022/4/259389-achieving-cs-for-all-could-take-decades</link>
-            <guid>http://cacm.acm.org/magazines/2022/4/259389-achieving-cs-for-all-could-take-decades</guid>
-            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
-            <description><![CDATA[Achieving CS for All Could Take Decades]]></description>
         </item>
     </channel>
 </rss>
