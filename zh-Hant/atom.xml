@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-04T03:52:57.479Z</updated>
+    <updated>2022-06-04T10:33:21.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每個人都能負擔得起的治療
+]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/therapy-everyone-can-afford</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/therapy-everyone-can-afford"/>
+        <updated>2022-06-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Therapy Everyone Can Afford]]></summary>
+        <author>
+            <name>Jason Roeder</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為慶祝白金慶典，愛國布丁
+]]></title>
+        <id>https://www.newyorker.com/magazine/london-postcard/2022/06/13/for-the-platinum-jubilee-a-patriotic-pudding</id>
+        <link href="https://www.newyorker.com/magazine/london-postcard/2022/06/13/for-the-platinum-jubilee-a-patriotic-pudding"/>
+        <updated>2022-06-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For the Platinum Jubilee, a Patriotic Pudding]]></summary>
+        <author>
+            <name>Rebecca Mead</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[展示大規模槍擊事件的圖片會不會刺激人們採取行動來阻止這些事件？
+]]></title>
+        <id>https://www.newyorker.com/news/daily-comment/would-showing-graphic-images-of-mass-shootings-spur-action-to-stop-them</id>
+        <link href="https://www.newyorker.com/news/daily-comment/would-showing-graphic-images-of-mass-shootings-spur-action-to-stop-them"/>
+        <updated>2022-06-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Would Showing Graphic Images of Mass Shootings Spur Action to Stop Them?]]></summary>
+        <author>
+            <name>Jelani Cobb</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[互聯網如何將我們變成了內容機器
+]]></title>
+        <id>https://www.newyorker.com/culture/infinite-scroll/how-the-internet-turned-us-into-content-machines</id>
+        <link href="https://www.newyorker.com/culture/infinite-scroll/how-the-internet-turned-us-into-content-machines"/>
+        <updated>2022-06-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How the Internet Turned Us Into Content Machines]]></summary>
+        <author>
+            <name>Kyle Chayka</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[以舊換新部。
 ]]></title>
@@ -6622,50 +6670,6 @@
         <author>
             <name>unknown</name>
             <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[保護互聯網]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259388-preserving-the-internet</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259388-preserving-the-internet"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Preserving the Internet]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[棒球剪貼簿，第一部分]]></title>
-        <id>https://www.newyorker.com/cartoons/blitts-kvetchbook/baseball-scrapbook-part-1</id>
-        <link href="https://www.newyorker.com/cartoons/blitts-kvetchbook/baseball-scrapbook-part-1"/>
-        <updated>2022-04-12T20:29:30.000Z</updated>
-        <summary type="html"><![CDATA[Baseball Scrapbook, Part 1]]></summary>
-        <author>
-            <name>Barry Blitt</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Rothaniel"，評論。傑羅德-卡邁克爾的重要出櫃之作]]></title>
-        <id>https://www.newyorker.com/culture/on-television/rothaniel-reviewed-jerrod-carmichaels-vital-coming-out</id>
-        <link href="https://www.newyorker.com/culture/on-television/rothaniel-reviewed-jerrod-carmichaels-vital-coming-out"/>
-        <updated>2022-04-12T19:41:13.000Z</updated>
-        <summary type="html"><![CDATA[“Rothaniel,” Reviewed: Jerrod Carmichael’s Vital Coming Out]]></summary>
-        <author>
-            <name>Bryan Washington</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個波蘭持不同政見者從俄羅斯入侵烏克蘭中看到的東西]]></title>
-        <id>https://www.newyorker.com/news/q-and-a/what-a-polish-dissident-sees-in-russias-invasion-of-ukraine</id>
-        <link href="https://www.newyorker.com/news/q-and-a/what-a-polish-dissident-sees-in-russias-invasion-of-ukraine"/>
-        <updated>2022-04-12T19:27:43.000Z</updated>
-        <summary type="html"><![CDATA[What a Polish Dissident Sees in Russia’s Invasion of Ukraine]]></summary>
-        <author>
-            <name>Isaac Chotiner</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
