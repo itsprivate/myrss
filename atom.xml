@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-04T12:43:09.905Z</updated>
+    <updated>2022-06-04T16:38:30.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[杀手小行星隐藏在众目睽睽之下。一种新的工具有助于发现它们。
+]]></title>
+        <id>https://www.nytimes.com/2022/05/31/science/asteroids-algorithm-planetary-defense.html</id>
+        <link href="https://www.nytimes.com/2022/05/31/science/asteroids-algorithm-planetary-defense.html"/>
+        <updated>2022-06-04T16:31:46.000Z</updated>
+        <summary type="html"><![CDATA[Killer Asteroids Are Hiding in Plain Sight. A New Tool Helps Spot Them.]]></summary>
+        <author>
+            <name>Kenneth Chang</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[艾薇儿-拉维尼的青少年歌曲将永垂不朽
+]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/06/avril-lavigne-let-go-twentieth-anniversary/661190/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/06/avril-lavigne-let-go-twentieth-anniversary/661190/?utm_source=feed"/>
+        <updated>2022-06-04T16:06:33.000Z</updated>
+        <summary type="html"><![CDATA[Avril Lavigne’s Teenage Anthems Will Live Forever]]></summary>
+        <author>
+            <name>Shirley Li</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们仍然在这里，悲痛而愤怒
 ]]></title>
@@ -6651,28 +6675,6 @@
         <author>
             <name>unknown</name>
             <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纽约市地铁里的恐怖之晨]]></title>
-        <id>https://www.newyorker.com/news/our-local-correspondents/a-morning-of-horror-in-new-york-citys-subway</id>
-        <link href="https://www.newyorker.com/news/our-local-correspondents/a-morning-of-horror-in-new-york-citys-subway"/>
-        <updated>2022-04-12T21:08:27.000Z</updated>
-        <summary type="html"><![CDATA[A Morning of Horror in New York City’s Subway]]></summary>
-        <author>
-            <name>Eric Lach</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitch上最受欢迎的国际象棋流媒体人]]></title>
-        <id>https://www.newyorker.com/culture/rabbit-holes/the-most-popular-chess-streamer-on-twitch</id>
-        <link href="https://www.newyorker.com/culture/rabbit-holes/the-most-popular-chess-streamer-on-twitch"/>
-        <updated>2022-04-12T21:04:21.000Z</updated>
-        <summary type="html"><![CDATA[The Most Popular Chess Streamer on Twitch]]></summary>
-        <author>
-            <name>Jacob Sweet</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>

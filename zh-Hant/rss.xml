@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 04 Jun 2022 12:43:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 16:38:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[殺手小行星隱藏在眾目睽睽之下。一種新的工具有助於發現它們。
+]]></title>
+            <link>https://www.nytimes.com/2022/05/31/science/asteroids-algorithm-planetary-defense.html</link>
+            <guid>https://www.nytimes.com/2022/05/31/science/asteroids-algorithm-planetary-defense.html</guid>
+            <pubDate>Sat, 04 Jun 2022 16:31:46 GMT</pubDate>
+            <description><![CDATA[Killer Asteroids Are Hiding in Plain Sight. A New Tool Helps Spot Them.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[艾薇兒-拉維尼的青少年歌曲將永垂不朽
+]]></title>
+            <link>https://www.theatlantic.com/culture/archive/2022/06/avril-lavigne-let-go-twentieth-anniversary/661190/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/culture/archive/2022/06/avril-lavigne-let-go-twentieth-anniversary/661190/?utm_source=feed</guid>
+            <pubDate>Sat, 04 Jun 2022 16:06:33 GMT</pubDate>
+            <description><![CDATA[Avril Lavigne’s Teenage Anthems Will Live Forever]]></description>
+        </item>
         <item>
             <title><![CDATA[我們仍然在這裡，悲痛而憤怒
 ]]></title>
@@ -4259,20 +4275,6 @@
             <guid>http://cacm.acm.org/magazines/2022/4/259391-can-ai-learn-to-forget</guid>
             <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
             <description><![CDATA[Can AI Learn to Forget?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[紐約市地鐵裡的恐怖之晨]]></title>
-            <link>https://www.newyorker.com/news/our-local-correspondents/a-morning-of-horror-in-new-york-citys-subway</link>
-            <guid>https://www.newyorker.com/news/our-local-correspondents/a-morning-of-horror-in-new-york-citys-subway</guid>
-            <pubDate>Tue, 12 Apr 2022 21:08:27 GMT</pubDate>
-            <description><![CDATA[A Morning of Horror in New York City’s Subway]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Twitch上最受歡迎的國際象棋流媒體人]]></title>
-            <link>https://www.newyorker.com/culture/rabbit-holes/the-most-popular-chess-streamer-on-twitch</link>
-            <guid>https://www.newyorker.com/culture/rabbit-holes/the-most-popular-chess-streamer-on-twitch</guid>
-            <pubDate>Tue, 12 Apr 2022 21:04:21 GMT</pubDate>
-            <description><![CDATA[The Most Popular Chess Streamer on Twitch]]></description>
         </item>
     </channel>
 </rss>
