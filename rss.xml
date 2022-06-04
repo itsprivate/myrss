@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 04 Jun 2022 10:58:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 11:59:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[乌瓦尔德警察选择了不光彩的行为
+]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/06/uvalde-police-robb-elementary-shooting-dishonor/661184/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/06/uvalde-police-robb-elementary-shooting-dishonor/661184/?utm_source=feed</guid>
+            <pubDate>Sat, 04 Jun 2022 11:51:36 GMT</pubDate>
+            <description><![CDATA[The Uvalde Police Chose Dishonor]]></description>
+        </item>
         <item>
             <title><![CDATA[安倍晋三制造的日本
 ]]></title>
@@ -4264,13 +4272,6 @@
             <guid>https://www.nytimes.com/2022/04/12/us/politics/ukraine-russian-cyberattack.html</guid>
             <pubDate>Tue, 12 Apr 2022 21:24:21 GMT</pubDate>
             <description><![CDATA[Ukraine Says It Thwarted a Sophisticated Russian Cyberattack on Its Power Grid]]></description>
-        </item>
-        <item>
-            <title><![CDATA[技术对道德的影响]]></title>
-            <link>http://cacm.acm.org/magazines/2022/4/259390-technologys-impact-on-morality</link>
-            <guid>http://cacm.acm.org/magazines/2022/4/259390-technologys-impact-on-morality</guid>
-            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
-            <description><![CDATA[Technology's Impact on Morality]]></description>
         </item>
     </channel>
 </rss>

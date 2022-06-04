@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/06/uvalde-police-robb-elementary-shooting-dishonor/661184/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/06/uvalde-police-robb-elementary-shooting-dishonor/661184/?utm_source=feed",
+            "title": "烏瓦爾德警察選擇了不光彩的行為\n",
+            "summary": "The Uvalde Police Chose Dishonor",
+            "date_modified": "2022-06-04T11:51:36.000Z",
+            "author": {
+                "name": "Elizabeth Bruenig",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://noahpinion.substack.com/p/the-japan-that-abe-shinzo-made",
             "content_html": "",
             "url": "https://noahpinion.substack.com/p/the-japan-that-abe-shinzo-made",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Kate Conger",
                 "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "http://cacm.acm.org/magazines/2022/4/259390-technologys-impact-on-morality",
-            "content_html": "",
-            "url": "http://cacm.acm.org/magazines/2022/4/259390-technologys-impact-on-morality",
-            "title": "技術對道德的影響",
-            "summary": "Technology's Impact on Morality",
-            "date_modified": "2022-04-01T04:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://cacm.acm.org/magazine.rss"
             }
         }
     ]

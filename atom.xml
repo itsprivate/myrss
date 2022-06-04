@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-04T10:58:58.338Z</updated>
+    <updated>2022-06-04T11:59:14.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[乌瓦尔德警察选择了不光彩的行为
+]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/06/uvalde-police-robb-elementary-shooting-dishonor/661184/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/06/uvalde-police-robb-elementary-shooting-dishonor/661184/?utm_source=feed"/>
+        <updated>2022-06-04T11:51:36.000Z</updated>
+        <summary type="html"><![CDATA[The Uvalde Police Chose Dishonor]]></summary>
+        <author>
+            <name>Elizabeth Bruenig</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安倍晋三制造的日本
 ]]></title>
@@ -6660,17 +6672,6 @@
         <author>
             <name>Kate Conger</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[技术对道德的影响]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259390-technologys-impact-on-morality</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259390-technologys-impact-on-morality"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Technology's Impact on Morality]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
         </author>
     </entry>
 </feed>
