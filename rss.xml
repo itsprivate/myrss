@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 04 Jun 2022 02:09:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 03:52:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[以旧换新部。
+]]></title>
+            <link>https://www.newyorker.com/magazine/trade-in-dept</link>
+            <guid>https://www.newyorker.com/magazine/trade-in-dept</guid>
+            <pubDate>Sat, 04 Jun 2022 03:46:25 GMT</pubDate>
+            <description><![CDATA[Trade-In Dept.]]></description>
+        </item>
         <item>
             <title><![CDATA[新的就业报告在就业和通货膨胀方面是令人鼓舞的
 ]]></title>
@@ -4258,13 +4266,6 @@
             <guid>https://www.newyorker.com/news/q-and-a/what-a-polish-dissident-sees-in-russias-invasion-of-ukraine</guid>
             <pubDate>Tue, 12 Apr 2022 19:27:43 GMT</pubDate>
             <description><![CDATA[What a Polish Dissident Sees in Russia’s Invasion of Ukraine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谷歌首次在法庭上起诉小狗欺诈行为]]></title>
-            <link>https://www.nytimes.com/2022/04/12/business/google-lawsuit-puppy-fraud-scheme.html</link>
-            <guid>https://www.nytimes.com/2022/04/12/business/google-lawsuit-puppy-fraud-scheme.html</guid>
-            <pubDate>Tue, 12 Apr 2022 18:59:57 GMT</pubDate>
-            <description><![CDATA[In a First, Google Goes After Puppy Fraud in Court]]></description>
         </item>
     </channel>
 </rss>

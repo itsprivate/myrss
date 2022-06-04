@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-04T02:09:26.940Z</updated>
+    <updated>2022-06-04T03:52:57.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[以旧换新部。
+]]></title>
+        <id>https://www.newyorker.com/magazine/trade-in-dept</id>
+        <link href="https://www.newyorker.com/magazine/trade-in-dept"/>
+        <updated>2022-06-04T03:46:25.000Z</updated>
+        <summary type="html"><![CDATA[Trade-In Dept.]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新的就业报告在就业和通货膨胀方面是令人鼓舞的
 ]]></title>
@@ -6654,17 +6666,6 @@
         <author>
             <name>Isaac Chotiner</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌首次在法庭上起诉小狗欺诈行为]]></title>
-        <id>https://www.nytimes.com/2022/04/12/business/google-lawsuit-puppy-fraud-scheme.html</id>
-        <link href="https://www.nytimes.com/2022/04/12/business/google-lawsuit-puppy-fraud-scheme.html"/>
-        <updated>2022-04-12T18:59:57.000Z</updated>
-        <summary type="html"><![CDATA[In a First, Google Goes After Puppy Fraud in Court]]></summary>
-        <author>
-            <name>Livia Albeck-Ripka</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>
