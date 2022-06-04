@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 04 Jun 2022 11:59:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 12:43:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我們仍然在這裡，悲痛而憤怒
+]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/06/an-abortion-activists-experience-in-pre-roe-america/661175/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/06/an-abortion-activists-experience-in-pre-roe-america/661175/?utm_source=feed</guid>
+            <pubDate>Sat, 04 Jun 2022 12:00:56 GMT</pubDate>
+            <description><![CDATA[‘We’re Still Here, Grieving and Furious’]]></description>
+        </item>
         <item>
             <title><![CDATA[烏瓦爾德警察選擇了不光彩的行為
 ]]></title>
@@ -4265,13 +4273,6 @@
             <guid>https://www.newyorker.com/culture/rabbit-holes/the-most-popular-chess-streamer-on-twitch</guid>
             <pubDate>Tue, 12 Apr 2022 21:04:21 GMT</pubDate>
             <description><![CDATA[The Most Popular Chess Streamer on Twitch]]></description>
-        </item>
-        <item>
-            <title><![CDATA[烏克蘭稱挫敗了俄羅斯對其電網的複雜的網絡攻擊]]></title>
-            <link>https://www.nytimes.com/2022/04/12/us/politics/ukraine-russian-cyberattack.html</link>
-            <guid>https://www.nytimes.com/2022/04/12/us/politics/ukraine-russian-cyberattack.html</guid>
-            <pubDate>Tue, 12 Apr 2022 21:24:21 GMT</pubDate>
-            <description><![CDATA[Ukraine Says It Thwarted a Sophisticated Russian Cyberattack on Its Power Grid]]></description>
         </item>
     </channel>
 </rss>

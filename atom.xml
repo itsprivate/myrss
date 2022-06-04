@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-04T11:59:14.824Z</updated>
+    <updated>2022-06-04T12:43:09.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们仍然在这里，悲痛而愤怒
+]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/06/an-abortion-activists-experience-in-pre-roe-america/661175/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/06/an-abortion-activists-experience-in-pre-roe-america/661175/?utm_source=feed"/>
+        <updated>2022-06-04T12:00:56.000Z</updated>
+        <summary type="html"><![CDATA[‘We’re Still Here, Grieving and Furious’]]></summary>
+        <author>
+            <name>Ellen Gruber Garvey</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[乌瓦尔德警察选择了不光彩的行为
 ]]></title>
@@ -6661,17 +6673,6 @@
         <author>
             <name>Jacob Sweet</name>
             <uri>https://www.newyorker.com/feed/culture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰称挫败了俄罗斯对其电网的复杂的网络攻击]]></title>
-        <id>https://www.nytimes.com/2022/04/12/us/politics/ukraine-russian-cyberattack.html</id>
-        <link href="https://www.nytimes.com/2022/04/12/us/politics/ukraine-russian-cyberattack.html"/>
-        <updated>2022-04-12T21:24:21.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine Says It Thwarted a Sophisticated Russian Cyberattack on Its Power Grid]]></summary>
-        <author>
-            <name>Kate Conger</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>
