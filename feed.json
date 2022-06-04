@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/sports/sporting-scene/iga-swiatek-plays-hard-and-wins-easy-at-the-french-open-final",
+            "content_html": "",
+            "url": "https://www.newyorker.com/sports/sporting-scene/iga-swiatek-plays-hard-and-wins-easy-at-the-french-open-final",
+            "title": "伊加-斯瓦特克在法国公开赛决赛中发挥出色，轻松获胜\n",
+            "summary": "Iga Swiatek Plays Hard—and Wins Easy—at the French Open Final",
+            "date_modified": "2022-06-04T18:52:55.000Z",
+            "author": {
+                "name": "Gerald Marzorati",
+                "url": "https://www.newyorker.com/feed/news"
+            }
+        },
+        {
             "id": "https://www.nytimes.com/2022/05/31/science/asteroids-algorithm-planetary-defense.html",
             "content_html": "",
             "url": "https://www.nytimes.com/2022/05/31/science/asteroids-algorithm-planetary-defense.html",
@@ -7192,18 +7204,6 @@
             "url": "http://cacm.acm.org/magazines/2022/4/259392-still-waiting-for-self-driving-cars",
             "title": "仍在等待自动驾驶汽车的出现",
             "summary": "Still Waiting for Self-Driving Cars",
-            "date_modified": "2022-04-01T04:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://cacm.acm.org/magazine.rss"
-            }
-        },
-        {
-            "id": "http://cacm.acm.org/magazines/2022/4/259391-can-ai-learn-to-forget",
-            "content_html": "",
-            "url": "http://cacm.acm.org/magazines/2022/4/259391-can-ai-learn-to-forget",
-            "title": "人工智能能否学会遗忘？",
-            "summary": "Can AI Learn to Forget?",
             "date_modified": "2022-04-01T04:00:00.000Z",
             "author": {
                 "name": "unknown",

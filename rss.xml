@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 04 Jun 2022 16:38:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 19:02:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[伊加-斯瓦特克在法国公开赛决赛中发挥出色，轻松获胜
+]]></title>
+            <link>https://www.newyorker.com/sports/sporting-scene/iga-swiatek-plays-hard-and-wins-easy-at-the-french-open-final</link>
+            <guid>https://www.newyorker.com/sports/sporting-scene/iga-swiatek-plays-hard-and-wins-easy-at-the-french-open-final</guid>
+            <pubDate>Sat, 04 Jun 2022 18:52:55 GMT</pubDate>
+            <description><![CDATA[Iga Swiatek Plays Hard—and Wins Easy—at the French Open Final]]></description>
+        </item>
         <item>
             <title><![CDATA[杀手小行星隐藏在众目睽睽之下。一种新的工具有助于发现它们。
 ]]></title>
@@ -4268,13 +4276,6 @@
             <guid>http://cacm.acm.org/magazines/2022/4/259392-still-waiting-for-self-driving-cars</guid>
             <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
             <description><![CDATA[Still Waiting for Self-Driving Cars]]></description>
-        </item>
-        <item>
-            <title><![CDATA[人工智能能否学会遗忘？]]></title>
-            <link>http://cacm.acm.org/magazines/2022/4/259391-can-ai-learn-to-forget</link>
-            <guid>http://cacm.acm.org/magazines/2022/4/259391-can-ai-learn-to-forget</guid>
-            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
-            <description><![CDATA[Can AI Learn to Forget?]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-04T16:38:30.269Z</updated>
+    <updated>2022-06-04T19:02:43.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[伊加-斯瓦特克在法國公開賽決賽中發揮出色，輕鬆獲勝
+]]></title>
+        <id>https://www.newyorker.com/sports/sporting-scene/iga-swiatek-plays-hard-and-wins-easy-at-the-french-open-final</id>
+        <link href="https://www.newyorker.com/sports/sporting-scene/iga-swiatek-plays-hard-and-wins-easy-at-the-french-open-final"/>
+        <updated>2022-06-04T18:52:55.000Z</updated>
+        <summary type="html"><![CDATA[Iga Swiatek Plays Hard—and Wins Easy—at the French Open Final]]></summary>
+        <author>
+            <name>Gerald Marzorati</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[殺手小行星隱藏在眾目睽睽之下。一種新的工具有助於發現它們。
 ]]></title>
@@ -6661,17 +6673,6 @@
         <link href="http://cacm.acm.org/magazines/2022/4/259392-still-waiting-for-self-driving-cars"/>
         <updated>2022-04-01T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[Still Waiting for Self-Driving Cars]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人工智能能否學會遺忘？]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259391-can-ai-learn-to-forget</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259391-can-ai-learn-to-forget"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Can AI Learn to Forget?]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://cacm.acm.org/magazine.rss</uri>
