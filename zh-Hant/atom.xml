@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-03T23:59:07.270Z</updated>
+    <updated>2022-06-04T02:09:27.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[新的就業報告在就業和通貨膨脹方面是令人鼓舞的
+]]></title>
+        <id>https://www.newyorker.com/news/our-columnists/the-new-jobs-report-is-encouraging-on-jobs-and-inflation</id>
+        <link href="https://www.newyorker.com/news/our-columnists/the-new-jobs-report-is-encouraging-on-jobs-and-inflation"/>
+        <updated>2022-06-03T23:44:57.000Z</updated>
+        <summary type="html"><![CDATA[The New Jobs Report Is Encouraging on Jobs and Inflation]]></summary>
+        <author>
+            <name>John Cassidy</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普如何鋪設奧茲博士的道路
+]]></title>
+        <id>https://www.theatlantic.com/politics/archive/2022/06/dr-oz-wins-pennsylvania-primary-election/661189/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/politics/archive/2022/06/dr-oz-wins-pennsylvania-primary-election/661189/?utm_source=feed"/>
+        <updated>2022-06-04T00:29:41.000Z</updated>
+        <summary type="html"><![CDATA[How Trump Paved Dr. Oz’s Path]]></summary>
+        <author>
+            <name>Russell Berman</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新的就業報告在就業和通貨膨脹方面是令人鼓舞的
 ]]></title>
@@ -6641,28 +6665,6 @@
         <author>
             <name>Livia Albeck-Ripka</name>
             <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFTs證明了稅收季節總是可以變得更糟糕]]></title>
-        <id>https://www.theatlantic.com/technology/archive/2022/04/file-taxes-nft-irs-guidelines/629542/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/technology/archive/2022/04/file-taxes-nft-irs-guidelines/629542/?utm_source=feed"/>
-        <updated>2022-04-12T18:19:22.000Z</updated>
-        <summary type="html"><![CDATA[NFTs Are Proof That Tax Season Can Always Get Worse]]></summary>
-        <author>
-            <name>Kelli María Korducki</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我作為成年人會喜歡的對兒童的懲罰措施]]></title>
-        <id>https://www.newyorker.com/humor/daily-shouts/punishments-for-children-that-id-love-as-an-adult</id>
-        <link href="https://www.newyorker.com/humor/daily-shouts/punishments-for-children-that-id-love-as-an-adult"/>
-        <updated>2022-04-12T17:59:41.000Z</updated>
-        <summary type="html"><![CDATA[Punishments for Children That I’d Love as an Adult]]></summary>
-        <author>
-            <name>Ginny Hogan, Eric Kofman</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>

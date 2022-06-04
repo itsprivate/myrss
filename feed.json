@@ -19,6 +19,30 @@
             "date_modified": "2022-06-03T23:44:57.000Z",
             "author": {
                 "name": "John Cassidy",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/politics/archive/2022/06/dr-oz-wins-pennsylvania-primary-election/661189/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/politics/archive/2022/06/dr-oz-wins-pennsylvania-primary-election/661189/?utm_source=feed",
+            "title": "特朗普如何铺设奥兹博士的道路\n",
+            "summary": "How Trump Paved Dr. Oz’s Path",
+            "date_modified": "2022-06-04T00:29:41.000Z",
+            "author": {
+                "name": "Russell Berman",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/news/our-columnists/the-new-jobs-report-is-encouraging-on-jobs-and-inflation",
+            "content_html": "",
+            "url": "https://www.newyorker.com/news/our-columnists/the-new-jobs-report-is-encouraging-on-jobs-and-inflation",
+            "title": "新的就业报告在就业和通货膨胀方面是令人鼓舞的\n",
+            "summary": "The New Jobs Report Is Encouraging on Jobs and Inflation",
+            "date_modified": "2022-06-03T23:44:57.000Z",
+            "author": {
+                "name": "John Cassidy",
                 "url": "https://www.newyorker.com/feed/news"
             }
         },
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "Livia Albeck-Ripka",
                 "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-            }
-        },
-        {
-            "id": "https://www.theatlantic.com/technology/archive/2022/04/file-taxes-nft-irs-guidelines/629542/?utm_source=feed",
-            "content_html": "",
-            "url": "https://www.theatlantic.com/technology/archive/2022/04/file-taxes-nft-irs-guidelines/629542/?utm_source=feed",
-            "title": "NFTs证明了税收季节总是可以变得更糟糕",
-            "summary": "NFTs Are Proof That Tax Season Can Always Get Worse",
-            "date_modified": "2022-04-12T18:19:22.000Z",
-            "author": {
-                "name": "Kelli María Korducki",
-                "url": "https://www.theatlantic.com/feed/all/"
-            }
-        },
-        {
-            "id": "https://www.newyorker.com/humor/daily-shouts/punishments-for-children-that-id-love-as-an-adult",
-            "content_html": "",
-            "url": "https://www.newyorker.com/humor/daily-shouts/punishments-for-children-that-id-love-as-an-adult",
-            "title": "我作为成年人会喜欢的对儿童的惩罚措施",
-            "summary": "Punishments for Children That I’d Love as an Adult",
-            "date_modified": "2022-04-12T17:59:41.000Z",
-            "author": {
-                "name": "Ginny Hogan, Eric Kofman",
-                "url": "https://www.newyorker.com/feed/culture"
             }
         }
     ]
