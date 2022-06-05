@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sun, 05 Jun 2022 17:28:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 21:26:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[開放話題227
+]]></title>
+            <link>https://astralcodexten.substack.com/p/open-thread-227</link>
+            <guid>https://astralcodexten.substack.com/p/open-thread-227</guid>
+            <pubDate>Sun, 05 Jun 2022 20:55:42 GMT</pubDate>
+            <description><![CDATA[Open Thread 227]]></description>
+        </item>
         <item>
             <title><![CDATA[美國在暗殺問題上的幸運連勝會不會已經結束？
 ]]></title>
@@ -4281,13 +4289,6 @@
             <guid>http://cacm.acm.org/magazines/2022/4/259405-mobile-phone-usage-data-for-disaster-response</guid>
             <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
             <description><![CDATA[Mobile Phone Usage Data for Disaster Response]]></description>
-        </item>
-        <item>
-            <title><![CDATA[面向未來網絡的隱私保護型人工智能]]></title>
-            <link>http://cacm.acm.org/magazines/2022/4/259404-privacy-preserving-ai-for-future-networks</link>
-            <guid>http://cacm.acm.org/magazines/2022/4/259404-privacy-preserving-ai-for-future-networks</guid>
-            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
-            <description><![CDATA[Privacy-Preserving AI for Future Networks]]></description>
         </item>
     </channel>
 </rss>
