@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sun, 05 Jun 2022 10:46:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 11:24:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[莎朗-麦克马洪对愤怒的诱导毫无用处
+]]></title>
+            <link>https://www.theatlantic.com/politics/archive/2022/06/sharon-says-so-podcast-mcmahon/661150/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/politics/archive/2022/06/sharon-says-so-podcast-mcmahon/661150/?utm_source=feed</guid>
+            <pubDate>Sun, 05 Jun 2022 11:00:56 GMT</pubDate>
+            <description><![CDATA[Sharon McMahon Has No Use for Rage-Baiting]]></description>
+        </item>
+        <item>
+            <title><![CDATA[创伤无处不在。无论如何都要把它写出来。
+]]></title>
+            <link>https://www.theatlantic.com/books/archive/2022/06/melissa-febos-body-work-book-review/661172/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/books/archive/2022/06/melissa-febos-body-work-book-review/661172/?utm_source=feed</guid>
+            <pubDate>Sun, 05 Jun 2022 11:00:56 GMT</pubDate>
+            <description><![CDATA[Trauma Is Everywhere. Write About It Anyway.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国大流行病应对措施中缺失的部分
+]]></title>
+            <link>https://www.theatlantic.com/ideas/archive/2022/06/nih-covid-vaccine-research-studies/661182/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/ideas/archive/2022/06/nih-covid-vaccine-research-studies/661182/?utm_source=feed</guid>
+            <pubDate>Sun, 05 Jun 2022 11:00:57 GMT</pubDate>
+            <description><![CDATA[The Missing Part of America’s Pandemic Response]]></description>
+        </item>
         <item>
             <title><![CDATA[推翻<em>Roe</em>只是个开始
 ]]></title>
@@ -4262,27 +4286,6 @@
             <guid>http://cacm.acm.org/magazines/2022/4/259402-toward-a-broad-ai</guid>
             <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
             <description><![CDATA[Toward a Broad AI]]></description>
-        </item>
-        <item>
-            <title><![CDATA[生产互联网]]></title>
-            <link>http://cacm.acm.org/magazines/2022/4/259401-internet-of-production</link>
-            <guid>http://cacm.acm.org/magazines/2022/4/259401-internet-of-production</guid>
-            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
-            <description><![CDATA[Internet of Production]]></description>
-        </item>
-        <item>
-            <title><![CDATA[皮肤上的计算]]></title>
-            <link>http://cacm.acm.org/magazines/2022/4/259400-on-skin-computing</link>
-            <guid>http://cacm.acm.org/magazines/2022/4/259400-on-skin-computing</guid>
-            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
-            <description><![CDATA[On-Skin Computing]]></description>
-        </item>
-        <item>
-            <title><![CDATA[机器人流程自动化平台UiPath]]></title>
-            <link>http://cacm.acm.org/magazines/2022/4/259399-robotic-process-automation-platform-uipath</link>
-            <guid>http://cacm.acm.org/magazines/2022/4/259399-robotic-process-automation-platform-uipath</guid>
-            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
-            <description><![CDATA[Robotic Process Automation Platform UiPath]]></description>
         </item>
     </channel>
 </rss>

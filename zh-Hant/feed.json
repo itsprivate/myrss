@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/politics/archive/2022/06/sharon-says-so-podcast-mcmahon/661150/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/politics/archive/2022/06/sharon-says-so-podcast-mcmahon/661150/?utm_source=feed",
+            "title": "莎朗-麥克馬洪對憤怒的誘導毫無用處\n",
+            "summary": "Sharon McMahon Has No Use for Rage-Baiting",
+            "date_modified": "2022-06-05T11:00:56.000Z",
+            "author": {
+                "name": "Elaine Godfrey",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/books/archive/2022/06/melissa-febos-body-work-book-review/661172/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/books/archive/2022/06/melissa-febos-body-work-book-review/661172/?utm_source=feed",
+            "title": "創傷無處不在。無論如何都要把它寫出來。\n",
+            "summary": "Trauma Is Everywhere. Write About It Anyway.",
+            "date_modified": "2022-06-05T11:00:56.000Z",
+            "author": {
+                "name": "Adam Dalva",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/06/nih-covid-vaccine-research-studies/661182/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/06/nih-covid-vaccine-research-studies/661182/?utm_source=feed",
+            "title": "美國大流行病應對措施中缺失的部分\n",
+            "summary": "The Missing Part of America’s Pandemic Response",
+            "date_modified": "2022-06-05T11:00:57.000Z",
+            "author": {
+                "name": "Ezekiel J. Emanuel",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/ideas/archive/2022/06/roe-overturn-supreme-court-originalism-constitution/661183/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/ideas/archive/2022/06/roe-overturn-supreme-court-originalism-constitution/661183/?utm_source=feed",
@@ -7168,42 +7204,6 @@
             "url": "http://cacm.acm.org/magazines/2022/4/259402-toward-a-broad-ai",
             "title": "邁向廣泛的人工智能",
             "summary": "Toward a Broad AI",
-            "date_modified": "2022-04-01T04:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://cacm.acm.org/magazine.rss"
-            }
-        },
-        {
-            "id": "http://cacm.acm.org/magazines/2022/4/259401-internet-of-production",
-            "content_html": "",
-            "url": "http://cacm.acm.org/magazines/2022/4/259401-internet-of-production",
-            "title": "生產互聯網",
-            "summary": "Internet of Production",
-            "date_modified": "2022-04-01T04:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://cacm.acm.org/magazine.rss"
-            }
-        },
-        {
-            "id": "http://cacm.acm.org/magazines/2022/4/259400-on-skin-computing",
-            "content_html": "",
-            "url": "http://cacm.acm.org/magazines/2022/4/259400-on-skin-computing",
-            "title": "皮膚上的計算",
-            "summary": "On-Skin Computing",
-            "date_modified": "2022-04-01T04:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://cacm.acm.org/magazine.rss"
-            }
-        },
-        {
-            "id": "http://cacm.acm.org/magazines/2022/4/259399-robotic-process-automation-platform-uipath",
-            "content_html": "",
-            "url": "http://cacm.acm.org/magazines/2022/4/259399-robotic-process-automation-platform-uipath",
-            "title": "機器人流程自動化平臺UiPath",
-            "summary": "Robotic Process Automation Platform UiPath",
             "date_modified": "2022-04-01T04:00:00.000Z",
             "author": {
                 "name": "unknown",
