@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/06/political-assassination-wisconsin-judge/661192/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/06/political-assassination-wisconsin-judge/661192/?utm_source=feed",
+            "title": "美国在暗杀问题上的幸运连胜会不会已经结束？\n",
+            "summary": "Could America’s Lucky Streak on Assassinations Be Running Out?",
+            "date_modified": "2022-06-05T16:55:57.000Z",
+            "author": {
+                "name": "David A. Graham",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/books/archive/2022/06/poem-hua-xi-past-still-needs-me/661169/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/books/archive/2022/06/poem-hua-xi-past-still-needs-me/661169/?utm_source=feed",
@@ -7192,18 +7204,6 @@
             "url": "http://cacm.acm.org/magazines/2022/4/259404-privacy-preserving-ai-for-future-networks",
             "title": "面向未来网络的隐私保护型人工智能",
             "summary": "Privacy-Preserving AI for Future Networks",
-            "date_modified": "2022-04-01T04:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://cacm.acm.org/magazine.rss"
-            }
-        },
-        {
-            "id": "http://cacm.acm.org/magazines/2022/4/259403-a-federated-infrastructure-for-european-data-spaces",
-            "content_html": "",
-            "url": "http://cacm.acm.org/magazines/2022/4/259403-a-federated-infrastructure-for-european-data-spaces",
-            "title": "欧洲数据空间的联合基础设施",
-            "summary": "A Federated Infrastructure for European Data Spaces",
             "date_modified": "2022-04-01T04:00:00.000Z",
             "author": {
                 "name": "unknown",

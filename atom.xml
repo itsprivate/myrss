@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-05T12:46:12.577Z</updated>
+    <updated>2022-06-05T17:28:27.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国在暗杀问题上的幸运连胜会不会已经结束？
+]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/06/political-assassination-wisconsin-judge/661192/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/06/political-assassination-wisconsin-judge/661192/?utm_source=feed"/>
+        <updated>2022-06-05T16:55:57.000Z</updated>
+        <summary type="html"><![CDATA[Could America’s Lucky Streak on Assassinations Be Running Out?]]></summary>
+        <author>
+            <name>David A. Graham</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[过去仍然需要我
 ]]></title>
@@ -6673,17 +6685,6 @@
         <link href="http://cacm.acm.org/magazines/2022/4/259404-privacy-preserving-ai-for-future-networks"/>
         <updated>2022-04-01T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[Privacy-Preserving AI for Future Networks]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧洲数据空间的联合基础设施]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259403-a-federated-infrastructure-for-european-data-spaces</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259403-a-federated-infrastructure-for-european-data-spaces"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A Federated Infrastructure for European Data Spaces]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://cacm.acm.org/magazine.rss</uri>
