@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/books/archive/2022/06/poem-hua-xi-past-still-needs-me/661169/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/books/archive/2022/06/poem-hua-xi-past-still-needs-me/661169/?utm_source=feed",
+            "title": "過去仍然需要我\n",
+            "summary": "The Past Still Needs Me",
+            "date_modified": "2022-06-05T12:00:57.000Z",
+            "author": {
+                "name": "Hua Xi",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.theatlantic.com/politics/archive/2022/06/sharon-says-so-podcast-mcmahon/661150/?utm_source=feed",
             "content_html": "",
             "url": "https://www.theatlantic.com/politics/archive/2022/06/sharon-says-so-podcast-mcmahon/661150/?utm_source=feed",
@@ -7192,18 +7204,6 @@
             "url": "http://cacm.acm.org/magazines/2022/4/259403-a-federated-infrastructure-for-european-data-spaces",
             "title": "歐洲數據空間的聯合基礎設施",
             "summary": "A Federated Infrastructure for European Data Spaces",
-            "date_modified": "2022-04-01T04:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://cacm.acm.org/magazine.rss"
-            }
-        },
-        {
-            "id": "http://cacm.acm.org/magazines/2022/4/259402-toward-a-broad-ai",
-            "content_html": "",
-            "url": "http://cacm.acm.org/magazines/2022/4/259402-toward-a-broad-ai",
-            "title": "邁向廣泛的人工智能",
-            "summary": "Toward a Broad AI",
             "date_modified": "2022-04-01T04:00:00.000Z",
             "author": {
                 "name": "unknown",

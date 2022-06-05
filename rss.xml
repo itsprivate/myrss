@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sun, 05 Jun 2022 11:24:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 12:46:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[过去仍然需要我
+]]></title>
+            <link>https://www.theatlantic.com/books/archive/2022/06/poem-hua-xi-past-still-needs-me/661169/?utm_source=feed</link>
+            <guid>https://www.theatlantic.com/books/archive/2022/06/poem-hua-xi-past-still-needs-me/661169/?utm_source=feed</guid>
+            <pubDate>Sun, 05 Jun 2022 12:00:57 GMT</pubDate>
+            <description><![CDATA[The Past Still Needs Me]]></description>
+        </item>
         <item>
             <title><![CDATA[莎朗-麦克马洪对愤怒的诱导毫无用处
 ]]></title>
@@ -4279,13 +4287,6 @@
             <guid>http://cacm.acm.org/magazines/2022/4/259403-a-federated-infrastructure-for-european-data-spaces</guid>
             <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
             <description><![CDATA[A Federated Infrastructure for European Data Spaces]]></description>
-        </item>
-        <item>
-            <title><![CDATA[迈向广泛的人工智能]]></title>
-            <link>http://cacm.acm.org/magazines/2022/4/259402-toward-a-broad-ai</link>
-            <guid>http://cacm.acm.org/magazines/2022/4/259402-toward-a-broad-ai</guid>
-            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
-            <description><![CDATA[Toward a Broad AI]]></description>
         </item>
     </channel>
 </rss>

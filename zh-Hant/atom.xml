@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-05T11:24:27.200Z</updated>
+    <updated>2022-06-05T12:46:12.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[過去仍然需要我
+]]></title>
+        <id>https://www.theatlantic.com/books/archive/2022/06/poem-hua-xi-past-still-needs-me/661169/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/books/archive/2022/06/poem-hua-xi-past-still-needs-me/661169/?utm_source=feed"/>
+        <updated>2022-06-05T12:00:57.000Z</updated>
+        <summary type="html"><![CDATA[The Past Still Needs Me]]></summary>
+        <author>
+            <name>Hua Xi</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[莎朗-麥克馬洪對憤怒的誘導毫無用處
 ]]></title>
@@ -6672,17 +6684,6 @@
         <link href="http://cacm.acm.org/magazines/2022/4/259403-a-federated-infrastructure-for-european-data-spaces"/>
         <updated>2022-04-01T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[A Federated Infrastructure for European Data Spaces]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[邁向廣泛的人工智能]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259402-toward-a-broad-ai</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259402-toward-a-broad-ai"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Toward a Broad AI]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://cacm.acm.org/magazine.rss</uri>
