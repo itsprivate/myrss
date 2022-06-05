@@ -11,6 +11,66 @@
     },
     "items": [
         {
+            "id": "https://www.newyorker.com/magazine/2022/06/13/how-will-trumps-primary-messages-affect-the-midterms",
+            "content_html": "",
+            "url": "https://www.newyorker.com/magazine/2022/06/13/how-will-trumps-primary-messages-affect-the-midterms",
+            "title": "特朗普的初選信息將如何影響中期選舉？\n",
+            "summary": "How Will Trump’s Primary Messages Affect the Midterms?",
+            "date_modified": "2022-06-05T10:00:00.000Z",
+            "author": {
+                "name": "Steve Coll",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/humor/daily-shouts/whats-your-ocean-style",
+            "content_html": "",
+            "url": "https://www.newyorker.com/humor/daily-shouts/whats-your-ocean-style",
+            "title": "你的海洋風格是什麼？\n",
+            "summary": "What’s Your Ocean Style?",
+            "date_modified": "2022-06-05T10:00:00.000Z",
+            "author": {
+                "name": "Teresa Burns Parkhurst",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/06/05",
+            "content_html": "",
+            "url": "https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/06/05",
+            "title": "隱秘字謎：2022年6月5日，星期日\n",
+            "summary": "The Cryptic Crossword: Sunday, June 5, 2022",
+            "date_modified": "2022-06-05T10:00:00.000Z",
+            "author": {
+                "name": "Stella Zawistowski",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/culture/the-new-yorker-interview/how-wayne-wang-faces-failure",
+            "content_html": "",
+            "url": "https://www.newyorker.com/culture/the-new-yorker-interview/how-wayne-wang-faces-failure",
+            "title": "王偉恩如何面對失敗\n",
+            "summary": "How Wayne Wang Faces Failure",
+            "date_modified": "2022-06-05T10:00:00.000Z",
+            "author": {
+                "name": "Hua Hsu",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
+            "id": "https://www.newyorker.com/books/double-take/sunday-reading-pride-month-and-the-lgbtq-rights-movement",
+            "content_html": "",
+            "url": "https://www.newyorker.com/books/double-take/sunday-reading-pride-month-and-the-lgbtq-rights-movement",
+            "title": "週日閱讀。驕傲月和L.G.B.T.Q.-權利運動\n",
+            "summary": "Sunday Reading: Pride Month and the L.G.B.T.Q.-Rights Movement",
+            "date_modified": "2022-06-05T10:00:00.000Z",
+            "author": {
+                "name": "The New Yorker",
+                "url": "https://www.newyorker.com/feed/culture"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/sports/sporting-scene/iga-swiatek-plays-hard-and-wins-easy-at-the-french-open-final",
             "content_html": "",
             "url": "https://www.newyorker.com/sports/sporting-scene/iga-swiatek-plays-hard-and-wins-easy-at-the-french-open-final",
@@ -7144,66 +7204,6 @@
             "url": "http://cacm.acm.org/magazines/2022/4/259398-explainable-ai",
             "title": "可解釋的人工智能",
             "summary": "Explainable AI",
-            "date_modified": "2022-04-01T04:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://cacm.acm.org/magazine.rss"
-            }
-        },
-        {
-            "id": "http://cacm.acm.org/magazines/2022/4/259397-communications-digital-initiative-and-its-first-digital-event",
-            "content_html": "",
-            "url": "http://cacm.acm.org/magazines/2022/4/259397-communications-digital-initiative-and-its-first-digital-event",
-            "title": "通訊社的數字倡議及其首次數字活動",
-            "summary": "Communications' Digital Initiative and Its First Digital Event",
-            "date_modified": "2022-04-01T04:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://cacm.acm.org/magazine.rss"
-            }
-        },
-        {
-            "id": "http://cacm.acm.org/magazines/2022/4/259396-getting-off-the-mad-path",
-            "content_html": "",
-            "url": "http://cacm.acm.org/magazines/2022/4/259396-getting-off-the-mad-path",
-            "title": "走出瘋狂的道路",
-            "summary": "Getting Off the Mad Path",
-            "date_modified": "2022-04-01T04:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://cacm.acm.org/magazine.rss"
-            }
-        },
-        {
-            "id": "http://cacm.acm.org/magazines/2022/4/259395-systems-abstractions",
-            "content_html": "",
-            "url": "http://cacm.acm.org/magazines/2022/4/259395-systems-abstractions",
-            "title": "系統抽象",
-            "summary": "Systems Abstractions",
-            "date_modified": "2022-04-01T04:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://cacm.acm.org/magazine.rss"
-            }
-        },
-        {
-            "id": "http://cacm.acm.org/magazines/2022/4/259394-global-supply-chain-disruption-and-resilience",
-            "content_html": "",
-            "url": "http://cacm.acm.org/magazines/2022/4/259394-global-supply-chain-disruption-and-resilience",
-            "title": "全球供應鏈的破壞和復原力",
-            "summary": "Global Supply Chain Disruption and Resilience",
-            "date_modified": "2022-04-01T04:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://cacm.acm.org/magazine.rss"
-            }
-        },
-        {
-            "id": "http://cacm.acm.org/magazines/2022/4/259393-welcome",
-            "content_html": "",
-            "url": "http://cacm.acm.org/magazines/2022/4/259393-welcome",
-            "title": "歡迎",
-            "summary": "Welcome",
             "date_modified": "2022-04-01T04:00:00.000Z",
             "author": {
                 "name": "unknown",

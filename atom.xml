@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-04T19:24:14.346Z</updated>
+    <updated>2022-06-05T10:29:48.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[特朗普的初选信息将如何影响中期选举？
+]]></title>
+        <id>https://www.newyorker.com/magazine/2022/06/13/how-will-trumps-primary-messages-affect-the-midterms</id>
+        <link href="https://www.newyorker.com/magazine/2022/06/13/how-will-trumps-primary-messages-affect-the-midterms"/>
+        <updated>2022-06-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How Will Trump’s Primary Messages Affect the Midterms?]]></summary>
+        <author>
+            <name>Steve Coll</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你的海洋风格是什么？
+]]></title>
+        <id>https://www.newyorker.com/humor/daily-shouts/whats-your-ocean-style</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/whats-your-ocean-style"/>
+        <updated>2022-06-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What’s Your Ocean Style?]]></summary>
+        <author>
+            <name>Teresa Burns Parkhurst</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[隐秘字谜：2022年6月5日，星期日
+]]></title>
+        <id>https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/06/05</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/06/05"/>
+        <updated>2022-06-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Cryptic Crossword: Sunday, June 5, 2022]]></summary>
+        <author>
+            <name>Stella Zawistowski</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[王伟恩如何面对失败
+]]></title>
+        <id>https://www.newyorker.com/culture/the-new-yorker-interview/how-wayne-wang-faces-failure</id>
+        <link href="https://www.newyorker.com/culture/the-new-yorker-interview/how-wayne-wang-faces-failure"/>
+        <updated>2022-06-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How Wayne Wang Faces Failure]]></summary>
+        <author>
+            <name>Hua Hsu</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[周日阅读。骄傲月和L.G.B.T.Q.-权利运动
+]]></title>
+        <id>https://www.newyorker.com/books/double-take/sunday-reading-pride-month-and-the-lgbtq-rights-movement</id>
+        <link href="https://www.newyorker.com/books/double-take/sunday-reading-pride-month-and-the-lgbtq-rights-movement"/>
+        <updated>2022-06-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sunday Reading: Pride Month and the L.G.B.T.Q.-Rights Movement]]></summary>
+        <author>
+            <name>The New Yorker</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[伊加-斯瓦特克在法国公开赛决赛中发挥出色，轻松获胜
 ]]></title>
@@ -6619,61 +6679,6 @@
         <link href="http://cacm.acm.org/magazines/2022/4/259398-explainable-ai"/>
         <updated>2022-04-01T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[Explainable AI]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通讯社的数字倡议及其首次数字活动]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259397-communications-digital-initiative-and-its-first-digital-event</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259397-communications-digital-initiative-and-its-first-digital-event"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Communications' Digital Initiative and Its First Digital Event]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[走出疯狂的道路]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259396-getting-off-the-mad-path</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259396-getting-off-the-mad-path"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Getting Off the Mad Path]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[系统抽象]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259395-systems-abstractions</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259395-systems-abstractions"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Systems Abstractions]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球供应链的破坏和复原力]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259394-global-supply-chain-disruption-and-resilience</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259394-global-supply-chain-disruption-and-resilience"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Global Supply Chain Disruption and Resilience]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欢迎]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259393-welcome</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259393-welcome"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://cacm.acm.org/magazine.rss</uri>

@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sat, 04 Jun 2022 19:24:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 10:29:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,46 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[特朗普的初選信息將如何影響中期選舉？
+]]></title>
+            <link>https://www.newyorker.com/magazine/2022/06/13/how-will-trumps-primary-messages-affect-the-midterms</link>
+            <guid>https://www.newyorker.com/magazine/2022/06/13/how-will-trumps-primary-messages-affect-the-midterms</guid>
+            <pubDate>Sun, 05 Jun 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[How Will Trump’s Primary Messages Affect the Midterms?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你的海洋風格是什麼？
+]]></title>
+            <link>https://www.newyorker.com/humor/daily-shouts/whats-your-ocean-style</link>
+            <guid>https://www.newyorker.com/humor/daily-shouts/whats-your-ocean-style</guid>
+            <pubDate>Sun, 05 Jun 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[What’s Your Ocean Style?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[隱秘字謎：2022年6月5日，星期日
+]]></title>
+            <link>https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/06/05</link>
+            <guid>https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/06/05</guid>
+            <pubDate>Sun, 05 Jun 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[The Cryptic Crossword: Sunday, June 5, 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[王偉恩如何面對失敗
+]]></title>
+            <link>https://www.newyorker.com/culture/the-new-yorker-interview/how-wayne-wang-faces-failure</link>
+            <guid>https://www.newyorker.com/culture/the-new-yorker-interview/how-wayne-wang-faces-failure</guid>
+            <pubDate>Sun, 05 Jun 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[How Wayne Wang Faces Failure]]></description>
+        </item>
+        <item>
+            <title><![CDATA[週日閱讀。驕傲月和L.G.B.T.Q.-權利運動
+]]></title>
+            <link>https://www.newyorker.com/books/double-take/sunday-reading-pride-month-and-the-lgbtq-rights-movement</link>
+            <guid>https://www.newyorker.com/books/double-take/sunday-reading-pride-month-and-the-lgbtq-rights-movement</guid>
+            <pubDate>Sun, 05 Jun 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[Sunday Reading: Pride Month and the L.G.B.T.Q.-Rights Movement]]></description>
+        </item>
         <item>
             <title><![CDATA[伊加-斯瓦特克在法國公開賽決賽中發揮出色，輕鬆獲勝
 ]]></title>
@@ -4242,41 +4282,6 @@
             <guid>http://cacm.acm.org/magazines/2022/4/259398-explainable-ai</guid>
             <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
             <description><![CDATA[Explainable AI]]></description>
-        </item>
-        <item>
-            <title><![CDATA[通訊社的數字倡議及其首次數字活動]]></title>
-            <link>http://cacm.acm.org/magazines/2022/4/259397-communications-digital-initiative-and-its-first-digital-event</link>
-            <guid>http://cacm.acm.org/magazines/2022/4/259397-communications-digital-initiative-and-its-first-digital-event</guid>
-            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
-            <description><![CDATA[Communications' Digital Initiative and Its First Digital Event]]></description>
-        </item>
-        <item>
-            <title><![CDATA[走出瘋狂的道路]]></title>
-            <link>http://cacm.acm.org/magazines/2022/4/259396-getting-off-the-mad-path</link>
-            <guid>http://cacm.acm.org/magazines/2022/4/259396-getting-off-the-mad-path</guid>
-            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
-            <description><![CDATA[Getting Off the Mad Path]]></description>
-        </item>
-        <item>
-            <title><![CDATA[系統抽象]]></title>
-            <link>http://cacm.acm.org/magazines/2022/4/259395-systems-abstractions</link>
-            <guid>http://cacm.acm.org/magazines/2022/4/259395-systems-abstractions</guid>
-            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
-            <description><![CDATA[Systems Abstractions]]></description>
-        </item>
-        <item>
-            <title><![CDATA[全球供應鏈的破壞和復原力]]></title>
-            <link>http://cacm.acm.org/magazines/2022/4/259394-global-supply-chain-disruption-and-resilience</link>
-            <guid>http://cacm.acm.org/magazines/2022/4/259394-global-supply-chain-disruption-and-resilience</guid>
-            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
-            <description><![CDATA[Global Supply Chain Disruption and Resilience]]></description>
-        </item>
-        <item>
-            <title><![CDATA[歡迎]]></title>
-            <link>http://cacm.acm.org/magazines/2022/4/259393-welcome</link>
-            <guid>http://cacm.acm.org/magazines/2022/4/259393-welcome</guid>
-            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
-            <description><![CDATA[Welcome]]></description>
         </item>
     </channel>
 </rss>
