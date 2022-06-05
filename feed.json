@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://www.theatlantic.com/ideas/archive/2022/06/roe-overturn-supreme-court-originalism-constitution/661183/?utm_source=feed",
+            "content_html": "",
+            "url": "https://www.theatlantic.com/ideas/archive/2022/06/roe-overturn-supreme-court-originalism-constitution/661183/?utm_source=feed",
+            "title": "推翻<em>Roe</em>只是个开始\n",
+            "summary": "Overturning <em>Roe</em> Would Be Just the Beginning",
+            "date_modified": "2022-06-05T10:31:56.000Z",
+            "author": {
+                "name": "Donald Ayer",
+                "url": "https://www.theatlantic.com/feed/all/"
+            }
+        },
+        {
             "id": "https://www.newyorker.com/magazine/2022/06/13/how-will-trumps-primary-messages-affect-the-midterms",
             "content_html": "",
             "url": "https://www.newyorker.com/magazine/2022/06/13/how-will-trumps-primary-messages-affect-the-midterms",
@@ -7192,18 +7204,6 @@
             "url": "http://cacm.acm.org/magazines/2022/4/259399-robotic-process-automation-platform-uipath",
             "title": "机器人流程自动化平台UiPath",
             "summary": "Robotic Process Automation Platform UiPath",
-            "date_modified": "2022-04-01T04:00:00.000Z",
-            "author": {
-                "name": "unknown",
-                "url": "https://cacm.acm.org/magazine.rss"
-            }
-        },
-        {
-            "id": "http://cacm.acm.org/magazines/2022/4/259398-explainable-ai",
-            "content_html": "",
-            "url": "http://cacm.acm.org/magazines/2022/4/259398-explainable-ai",
-            "title": "可解释的人工智能",
-            "summary": "Explainable AI",
             "date_modified": "2022-04-01T04:00:00.000Z",
             "author": {
                 "name": "unknown",

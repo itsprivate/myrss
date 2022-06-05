@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-05T10:29:48.227Z</updated>
+    <updated>2022-06-05T10:46:20.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[推翻<em>Roe</em>只是个开始
+]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/06/roe-overturn-supreme-court-originalism-constitution/661183/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/06/roe-overturn-supreme-court-originalism-constitution/661183/?utm_source=feed"/>
+        <updated>2022-06-05T10:31:56.000Z</updated>
+        <summary type="html"><![CDATA[Overturning <em>Roe</em> Would Be Just the Beginning]]></summary>
+        <author>
+            <name>Donald Ayer</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[特朗普的初选信息将如何影响中期选举？
 ]]></title>
@@ -6668,17 +6680,6 @@
         <link href="http://cacm.acm.org/magazines/2022/4/259399-robotic-process-automation-platform-uipath"/>
         <updated>2022-04-01T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[Robotic Process Automation Platform UiPath]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可解释的人工智能]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259398-explainable-ai</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259398-explainable-ai"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Explainable AI]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://cacm.acm.org/magazine.rss</uri>
