@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myrss.owenyoung.com</id>
     <title>👋 RSS for Owen</title>
-    <updated>2022-06-05T21:26:12.772Z</updated>
+    <updated>2022-06-06T05:07:07.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myrss.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[卡通字幕大赛
+]]></title>
+        <id>https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-06-13</id>
+        <link href="https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-06-13"/>
+        <updated>2022-06-06T04:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Cartoon Caption Contest]]></summary>
+        <author>
+            <name>unknown</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开放话题227
 ]]></title>
@@ -6675,17 +6687,6 @@
         <link href="http://cacm.acm.org/magazines/2022/4/259406-on-6g-and-trustworthiness"/>
         <updated>2022-04-01T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[On 6G and Trustworthiness]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于灾难应对的移动电话使用数据]]></title>
-        <id>http://cacm.acm.org/magazines/2022/4/259405-mobile-phone-usage-data-for-disaster-response</id>
-        <link href="http://cacm.acm.org/magazines/2022/4/259405-mobile-phone-usage-data-for-disaster-response"/>
-        <updated>2022-04-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mobile Phone Usage Data for Disaster Response]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://cacm.acm.org/magazine.rss</uri>

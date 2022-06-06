@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Sun, 05 Jun 2022 21:26:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 05:07:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[卡通字幕大賽
+]]></title>
+            <link>https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-06-13</link>
+            <guid>https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-06-13</guid>
+            <pubDate>Mon, 06 Jun 2022 04:05:00 GMT</pubDate>
+            <description><![CDATA[Cartoon Caption Contest]]></description>
+        </item>
         <item>
             <title><![CDATA[開放話題227
 ]]></title>
@@ -4282,13 +4290,6 @@
             <guid>http://cacm.acm.org/magazines/2022/4/259406-on-6g-and-trustworthiness</guid>
             <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
             <description><![CDATA[On 6G and Trustworthiness]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用於災難應對的移動電話使用數據]]></title>
-            <link>http://cacm.acm.org/magazines/2022/4/259405-mobile-phone-usage-data-for-disaster-response</link>
-            <guid>http://cacm.acm.org/magazines/2022/4/259405-mobile-phone-usage-data-for-disaster-response</guid>
-            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
-            <description><![CDATA[Mobile Phone Usage Data for Disaster Response]]></description>
         </item>
     </channel>
 </rss>
