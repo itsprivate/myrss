@@ -4,7 +4,7 @@
         <title>👋 RSS for Owen</title>
         <link>https://myrss.owenyoung.com</link>
         <description>Owen的英文译文RSS</description>
-        <lastBuildDate>Mon, 06 Jun 2022 05:07:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 07:26:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://myrss.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[世界上最大的NFT市場上的盜竊、欺詐和訴訟案
+]]></title>
+            <link>https://www.nytimes.com/2022/06/06/technology/nft-opensea-theft-fraud.html</link>
+            <guid>https://www.nytimes.com/2022/06/06/technology/nft-opensea-theft-fraud.html</guid>
+            <pubDate>Mon, 06 Jun 2022 07:00:09 GMT</pubDate>
+            <description><![CDATA[Thefts, Fraud and Lawsuits at the World’s Biggest NFT Marketplace]]></description>
+        </item>
         <item>
             <title><![CDATA[卡通字幕大賽
 ]]></title>
@@ -4283,13 +4291,6 @@
             <guid>http://cacm.acm.org/magazines/2022/4/259408-partnership-on-ai-data-and-robotics</guid>
             <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
             <description><![CDATA[Partnership on AI, Data, and Robotics]]></description>
-        </item>
-        <item>
-            <title><![CDATA[關於6G和可信度]]></title>
-            <link>http://cacm.acm.org/magazines/2022/4/259406-on-6g-and-trustworthiness</link>
-            <guid>http://cacm.acm.org/magazines/2022/4/259406-on-6g-and-trustworthiness</guid>
-            <pubDate>Fri, 01 Apr 2022 04:00:00 GMT</pubDate>
-            <description><![CDATA[On 6G and Trustworthiness]]></description>
         </item>
     </channel>
 </rss>
